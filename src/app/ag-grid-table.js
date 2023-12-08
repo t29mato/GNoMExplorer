@@ -14,6 +14,8 @@ export const GridExample = () => {
     // Row Data: The data to be displayed.
     const [rowData, setRowData] = useState([]);
     const [filterElements, setFilterElements] = useState(''); // User input for elements to filter
+    const [isLoading, setIsLoading] = useState(false); // 追加: データ読み込み中の状態
+    const [isFiltering, setIsFiltering] = useState(false); // 追加: フィルター実行中の状態
 
 
     // Column Definitions
@@ -41,17 +43,21 @@ export const GridExample = () => {
 
     // Fetch data from CSV
     useEffect(() => {
+        setIsLoading(true); // データ読み込み開始
         axios.get('/stable_materials_summary.csv')
             .then(response => {
                 Papa.parse(response.data.trim(), {
                     header: true,
                     complete: (results) => {
                         setRowData(results.data);
+                        setIsLoading(false); // データ読み込み完了
                     }
                 });
-                console.info('The load has finished.')
             })
-            .catch(error => console.error('Error fetching data:', error));
+            .catch(error => {
+                console.error('Error fetching data:', error);
+                setIsLoading(false); // エラー時の処理
+            });
     }, []);
 
     const downloadCifFile = (materialId) => {
@@ -95,22 +101,16 @@ export const GridExample = () => {
         marginTop: '20px'
     };
     // Filter data based on user input
+    // Filter data based on user input
     const filterData = () => {
+        setIsFiltering(true); // フィルター実行開始
         const elements = filterElements.split(',').map(el => el.trim());
-        const filteredData = rowData.filter((row, index) => {
-                try {
-                    let jsonStr = row.Elements.replace(/'/g, '"');
-                    return elements.every(el => {
-                        return JSON.parse(jsonStr).includes(el)
-                    })
-                } catch (e) {
-                    console.log(row, index)
-                    throw e
-                }
-
-            }
-        );
+        const filteredData = rowData.filter(row => {
+            let jsonStr = row.Elements.replace(/'/g, '"');
+            return elements.every(el => JSON.parse(jsonStr).includes(el));
+        });
         setRowData(filteredData);
+        setIsFiltering(false); // フィルター実行完了
     };
 
 
@@ -126,8 +126,10 @@ export const GridExample = () => {
                 />
                 <button style={buttonStyle} onClick={filterData}>Filter Data</button>
             </div>
+            {isLoading && <p>Loading data...</p>} {/* データ読み込み中の表示 */}
+            {isFiltering && <p>Filtering data...</p>} {/* フィルター実行中の表示 */}
             <div className="ag-theme-quartz" style={gridStyle}>
-                <AgGridReact rowData={rowData} columnDefs={colDefs} pagination={true}/>
+                <AgGridReact rowData={rowData} columnDefs={colDefs} pagination={true} />
             </div>
         </div>
     );
