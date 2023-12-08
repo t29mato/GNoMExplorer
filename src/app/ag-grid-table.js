@@ -34,6 +34,7 @@ export const GridExample = () => {
         {field: 'Reduced Formula'},
         {field: 'Elements'},
         {field: 'NSites'},
+
         // ... Add more columns as needed ...
     ];
 
@@ -95,12 +96,9 @@ export const GridExample = () => {
     // Filter data based on user input
     const filterData = () => {
         const elements = filterElements.split(',').map(el => el.trim());
-        console.log({elements})
-        console.log(rowData[0])
         const filteredData = rowData.filter(row => {
                 let jsonStr = row.Elements.replace(/'/g, '"');
                 return elements.every(el => {
-                    console.log({el})
                     return JSON.parse(jsonStr).includes(el)
                 })
             }
