@@ -43,11 +43,24 @@ export const GridExample = () => {
     }, []);
 
 
-    const gridStyle = {
-        height: '100vh', // 例えば500pxの高さ
-        width: '100vw' // 幅はコンテナに合わせる
+    const inputStyle = {
+        width: '300px',
+        padding: '10px',
+        margin: '10px 0',
+        fontSize: '16px'
     };
 
+    const buttonStyle = {
+        padding: '10px 20px',
+        fontSize: '16px',
+        cursor: 'pointer'
+    };
+
+    const gridStyle = {
+        height: '70vh',
+        width: '80vw',
+        marginTop: '20px'
+    };
     // Filter data based on user input
     const filterData = () => {
         const elements = filterElements.split(',').map(el => el.trim());
@@ -65,19 +78,19 @@ export const GridExample = () => {
     };
 
 
-    // Container: Defines the grid's theme & dimensions.
     return (
         <div>
             <div>
                 <input
+                    style={inputStyle}
                     type="text"
                     placeholder="Enter elements to filter, e.g., Na,Cl"
                     value={filterElements}
                     onChange={(e) => setFilterElements(e.target.value)}
                 />
-                <button onClick={filterData}>Filter Data</button>
+                <button style={buttonStyle} onClick={filterData}>Filter Data</button>
             </div>
-            <div style={gridStyle}>
+            <div className="ag-theme-quartz" style={gridStyle}>
                 <AgGridReact rowData={rowData} columnDefs={colDefs} />
             </div>
         </div>
