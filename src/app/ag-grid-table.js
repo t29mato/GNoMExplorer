@@ -3,7 +3,7 @@
 import 'ag-grid-community/styles/ag-grid.css';
 import 'ag-grid-community/styles/ag-theme-quartz.css';
 import React, {useEffect, useState} from 'react';
-import { AgGridReact } from 'ag-grid-react';
+import {AgGridReact} from 'ag-grid-react';
 import 'ag-grid-community/styles/ag-grid.css'; // Core CSS
 import 'ag-grid-community/styles/ag-theme-quartz.css';
 import axios from "axios"; // Theme
@@ -18,11 +18,22 @@ export const GridExample = () => {
 
     // Column Definitions
     const colDefs = [
-        { field: 'Composition' },
-        { field: 'MaterialId' },
-        { field: 'Reduced Formula' },
-        { field: 'Elements' },
-        { field: 'NSites' },
+        {field: 'Composition'},
+        {
+            field: 'MaterialId',
+            cellRenderer: (params) => (
+                <div>
+                    {params.value}
+                    <a href="#" onClick={() => downloadCifFile(params.value)}
+                       style={{color: 'blue', 'text-decoration': 'underline', 'margin-left': '4px'}}>
+                        CIFF
+                    </a>
+                </div>
+            )
+        },
+        {field: 'Reduced Formula'},
+        {field: 'Elements'},
+        {field: 'NSites'},
         // ... Add more columns as needed ...
     ];
 
@@ -32,7 +43,6 @@ export const GridExample = () => {
             .then(response => {
                 Papa.parse(response.data, {
                     header: true,
-                    preview: 100,
                     complete: (results) => {
                         setRowData(results.data);
                     }
@@ -41,6 +51,27 @@ export const GridExample = () => {
             })
             .catch(error => console.error('Error fetching data:', error));
     }, []);
+
+    const downloadCifFile = (materialId) => {
+        console.log('downloadCifFile')
+        // ファイルのダウンロードURLを構築
+        const fileUrl = `/by_id/${materialId}.cif`;
+
+        // ファイルをダウンロードする
+        axios({
+            url: fileUrl,
+            method: 'GET',
+            responseType: 'blob', // 重要: レスポンスをBlobとして処理
+        }).then((response) => {
+            // ファイルダウンロードのためのリンクを作成
+            const url = window.URL.createObjectURL(new Blob([response.data]));
+            const link = document.createElement('a');
+            link.href = url;
+            link.setAttribute('download', `${materialId}.cif`);
+            document.body.appendChild(link);
+            link.click();
+        }).catch(error => console.error('Error downloading file:', error));
+    };
 
 
     const inputStyle = {
@@ -91,7 +122,7 @@ export const GridExample = () => {
                 <button style={buttonStyle} onClick={filterData}>Filter Data</button>
             </div>
             <div className="ag-theme-quartz" style={gridStyle}>
-                <AgGridReact rowData={rowData} columnDefs={colDefs} />
+                <AgGridReact rowData={rowData} columnDefs={colDefs} pagination={true}/>
             </div>
         </div>
     );
