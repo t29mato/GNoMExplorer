@@ -111,7 +111,7 @@ export const GridExample = () => {
 
     const gridStyle = {
         height: '70vh',
-        width: '60vw',
+        width: '100%',
         marginTop: '20px'
     };
     // Filter data based on user input
@@ -129,7 +129,7 @@ export const GridExample = () => {
 
 
     return (
-        <div>
+        <div style={{width: '100%'}}>
             <div>
                 <input
                     style={inputStyle}
@@ -143,7 +143,7 @@ export const GridExample = () => {
             {isLoading && <p>Loading data...</p>} {/* データ読み込み中の表示 */}
             {isFiltering && <p>Filtering data...</p>} {/* フィルター実行中の表示 */}
             <div className="ag-theme-quartz" style={gridStyle}>
-                <AgGridReact rowData={rowData} columnDefs={colDefs} pagination={true} />
+                <AgGridReact rowData={rowData} columnDefs={colDefs} pagination={true}/>
             </div>
         </div>
     );
