@@ -29,7 +29,7 @@ export const GridExample = () => {
                     <a href={`https://storage.googleapis.com/gnome_stable_materials/by_id/${params.value}.CIF`}
                        onClick={() => downloadCifFile(params.value)}
                        style={{color: 'blue', 'text-decoration': 'underline', 'margin-left': '4px'}}>
-                        CIF
+                        DL
                     </a>
                 </div>
             )
