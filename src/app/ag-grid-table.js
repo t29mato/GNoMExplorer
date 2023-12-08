@@ -75,7 +75,7 @@ export const GridExample = () => {
 
 
     const inputStyle = {
-        width: '300px',
+        width: '400px',
         padding: '10px',
         margin: '10px 0',
         fontSize: '16px'
@@ -115,7 +115,7 @@ export const GridExample = () => {
                 <input
                     style={inputStyle}
                     type="text"
-                    placeholder="Enter elements to filter, e.g., Na,Cl"
+                    placeholder="Enter elements to filter, e.g., Pb,Te"
                     value={filterElements}
                     onChange={(e) => setFilterElements(e.target.value)}
                 />
