@@ -26,7 +26,7 @@ export const GridExample = () => {
                     {params.value}
                     <a href="#" onClick={() => downloadCifFile(params.value)}
                        style={{color: 'blue', 'text-decoration': 'underline', 'margin-left': '4px'}}>
-                        CIFF
+                        CIF
                     </a>
                 </div>
             )
@@ -56,7 +56,7 @@ export const GridExample = () => {
     const downloadCifFile = (materialId) => {
         console.log('downloadCifFile')
         // ファイルのダウンロードURLを構築
-        const fileUrl = `/by_id/${materialId}.cif`;
+        const fileUrl = `https://storage.googleapis.com/gnome_stable_materials/by_id/${materialId}.CIF`;
 
         // ファイルをダウンロードする
         axios({
@@ -68,7 +68,7 @@ export const GridExample = () => {
             const url = window.URL.createObjectURL(new Blob([response.data]));
             const link = document.createElement('a');
             link.href = url;
-            link.setAttribute('download', `${materialId}.cif`);
+            link.setAttribute('download', `${materialId}.CIF`);
             document.body.appendChild(link);
             link.click();
         }).catch(error => console.error('Error downloading file:', error));
@@ -90,7 +90,7 @@ export const GridExample = () => {
 
     const gridStyle = {
         height: '70vh',
-        width: '80vw',
+        width: '60vw',
         marginTop: '20px'
     };
     // Filter data based on user input
