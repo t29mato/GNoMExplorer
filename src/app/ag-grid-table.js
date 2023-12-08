@@ -24,7 +24,8 @@ export const GridExample = () => {
             cellRenderer: (params) => (
                 <div>
                     {params.value}
-                    <a href={`https://storage.googleapis.com/gnome_stable_materials/by_id/${params.value}.CIF`} onClick={() => downloadCifFile(params.value)}
+                    <a href={`https://storage.googleapis.com/gnome_stable_materials/by_id/${params.value}.CIF`}
+                       onClick={() => downloadCifFile(params.value)}
                        style={{color: 'blue', 'text-decoration': 'underline', 'margin-left': '4px'}}>
                         CIF
                     </a>
@@ -42,7 +43,7 @@ export const GridExample = () => {
     useEffect(() => {
         axios.get('/stable_materials_summary.csv')
             .then(response => {
-                Papa.parse(response.data, {
+                Papa.parse(response.data.trim(), {
                     header: true,
                     complete: (results) => {
                         setRowData(results.data);
@@ -96,11 +97,17 @@ export const GridExample = () => {
     // Filter data based on user input
     const filterData = () => {
         const elements = filterElements.split(',').map(el => el.trim());
-        const filteredData = rowData.filter(row => {
-                let jsonStr = row.Elements.replace(/'/g, '"');
-                return elements.every(el => {
-                    return JSON.parse(jsonStr).includes(el)
-                })
+        const filteredData = rowData.filter((row, index) => {
+                try {
+                    let jsonStr = row.Elements.replace(/'/g, '"');
+                    return elements.every(el => {
+                        return JSON.parse(jsonStr).includes(el)
+                    })
+                } catch (e) {
+                    console.log(row, index)
+                    throw e
+                }
+
             }
         );
         setRowData(filteredData);
