@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sm4GaTc7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.33890200
+_cell_length_b   5.33890171
+_cell_length_c   9.27737100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99998942
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm4GaTc7
+_chemical_formula_sum   'Sm4 Ga1 Tc7'
+_cell_volume   229.01265237
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.333333  0.666667  0.434222  1
+  Sm  Sm1  1  0.666667  0.333333  0.565778  1
+  Sm  Sm2  1  0.666667  0.333333  0.934841  1
+  Sm  Sm3  1  0.333333  0.666667  0.065159  1
+  Ga  Ga4  1  0.000000  0.000000  0.500000  1
+  Tc  Tc5  1  0.000000  0.000000  0.000000  1
+  Tc  Tc6  1  0.830794  0.169206  0.251202  1
+  Tc  Tc7  1  0.830794  0.661587  0.251202  1
+  Tc  Tc8  1  0.338413  0.169206  0.251202  1
+  Tc  Tc9  1  0.169206  0.830794  0.748798  1
+  Tc  Tc10  1  0.169206  0.338413  0.748798  1
+  Tc  Tc11  1  0.661587  0.830794  0.748798  1

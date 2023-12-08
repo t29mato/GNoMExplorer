@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Cs2CuAsO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.01640930
+_cell_length_b   7.01640920
+_cell_length_c   8.63856800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   129.50958823
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2CuAsO4
+_chemical_formula_sum   'Cs4 Cu2 As2 O8'
+_cell_volume   328.10867691
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.940705  0.059295  0.851918  1
+  Cs  Cs1  1  0.059295  0.940705  0.351918  1
+  Cs  Cs2  1  0.399320  0.600680  0.487740  1
+  Cs  Cs3  1  0.600680  0.399320  0.987740  1
+  Cu  Cu4  1  0.219381  0.780619  0.741057  1
+  Cu  Cu5  1  0.780619  0.219381  0.241057  1
+  As  As6  1  0.307283  0.692717  0.060663  1
+  As  As7  1  0.692717  0.307283  0.560663  1
+  O  O8  1  0.126595  0.404736  0.151610  1
+  O  O9  1  0.873405  0.595264  0.651610  1
+  O  O10  1  0.351835  0.648165  0.868084  1
+  O  O11  1  0.648165  0.351835  0.368084  1
+  O  O12  1  0.595264  0.873405  0.151610  1
+  O  O13  1  0.404736  0.126595  0.651610  1
+  O  O14  1  0.827886  0.172114  0.555818  1
+  O  O15  1  0.172114  0.827886  0.055818  1

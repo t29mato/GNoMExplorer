@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Al3Fe2(TcB)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.24386900
+_cell_length_b   8.24386900
+_cell_length_c   2.93665100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al3Fe2(TcB)2
+_chemical_formula_sum   'Al6 Fe4 Tc4 B4'
+_cell_volume   199.57884305
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.000000  0.000000  0.500000  1
+  Al  Al1  1  0.500000  0.500000  0.500000  1
+  Al  Al2  1  0.000000  0.340420  0.500000  1
+  Al  Al3  1  0.340420  0.000000  0.500000  1
+  Al  Al4  1  0.659580  0.000000  0.500000  1
+  Al  Al5  1  0.000000  0.659580  0.500000  1
+  Fe  Fe6  1  0.827910  0.827910  0.000000  1
+  Fe  Fe7  1  0.827910  0.172090  0.000000  1
+  Fe  Fe8  1  0.172090  0.827910  0.000000  1
+  Fe  Fe9  1  0.172090  0.172090  0.000000  1
+  Tc  Tc10  1  0.500000  0.764641  0.000000  1
+  Tc  Tc11  1  0.764641  0.500000  0.000000  1
+  Tc  Tc12  1  0.235359  0.500000  0.000000  1
+  Tc  Tc13  1  0.500000  0.235359  0.000000  1
+  B  B14  1  0.296697  0.296697  0.500000  1
+  B  B15  1  0.296697  0.703303  0.500000  1
+  B  B16  1  0.703303  0.296697  0.500000  1
+  B  B17  1  0.703303  0.703303  0.500000  1

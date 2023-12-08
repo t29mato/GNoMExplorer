@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_TbEuTh(AgGe)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.33157907
+_cell_length_b   7.28281791
+_cell_length_c   4.35249600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.66336302
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbEuTh(AgGe)3
+_chemical_formula_sum   'Tb1 Eu1 Th1 Ag3 Ge3'
+_cell_volume   201.94319290
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.413615  0.413245  0.000000  1
+  Eu  Eu1  1  0.583607  0.999369  0.000000  1
+  Th  Th2  1  0.999219  0.582923  0.000000  1
+  Ag  Ag3  1  0.253447  0.005918  0.500000  1
+  Ag  Ag4  1  0.746656  0.751112  0.500000  1
+  Ag  Ag5  1  0.001923  0.243640  0.500000  1
+  Ge  Ge6  1  0.007125  0.002372  0.000000  1
+  Ge  Ge7  1  0.665289  0.343089  0.500000  1
+  Ge  Ge8  1  0.329119  0.658334  0.500000  1

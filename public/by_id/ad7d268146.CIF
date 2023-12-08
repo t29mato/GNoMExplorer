@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Cs2W(BrF2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.94696251
+_cell_length_b   6.94696287
+_cell_length_c   6.94695968
+_cell_angle_alpha   115.26153389
+_cell_angle_beta   115.26153562
+_cell_angle_gamma   98.42407216
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2W(BrF2)2
+_chemical_formula_sum   'Cs2 W1 Br2 F4'
+_cell_volume   251.09916094
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.750000  0.250000  0.500001  1
+  Cs  Cs1  1  0.250000  0.750000  0.500001  1
+  W  W2  1  0.000000  0.000000  0.000000  1
+  Br  Br3  1  0.288953  0.288953  0.000000  1
+  Br  Br4  1  0.711048  0.711048  0.000000  1
+  F  F5  1  0.809994  0.190006  0.000000  1
+  F  F6  1  0.190006  0.809994  0.000000  1
+  F  F7  1  0.190007  0.190007  0.380013  1
+  F  F8  1  0.809994  0.809994  0.619988  1

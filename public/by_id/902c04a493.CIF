@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_LiTh3(CdHg3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.26843983
+_cell_length_b   7.19812500
+_cell_length_c   15.84833500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.90773405
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTh3(CdHg3)2
+_chemical_formula_sum   'Li2 Th6 Cd4 Hg12'
+_cell_volume   601.01386119
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.999947  0.500000  0.000549  1
+  Li  Li1  1  0.500007  0.000000  0.165942  1
+  Th  Th2  1  0.000202  0.000000  0.996588  1
+  Th  Th3  1  0.499710  0.500000  0.170009  1
+  Th  Th4  1  0.999997  0.000000  0.334408  1
+  Th  Th5  1  0.499829  0.500000  0.497299  1
+  Th  Th6  1  0.000256  0.000000  0.669332  1
+  Th  Th7  1  0.499989  0.500000  0.832382  1
+  Cd  Cd8  1  0.999902  0.500000  0.331325  1
+  Cd  Cd9  1  0.499921  0.000000  0.498760  1
+  Cd  Cd10  1  0.000141  0.500000  0.667882  1
+  Cd  Cd11  1  0.500099  0.000000  0.835405  1
+  Hg  Hg12  1  0.500133  0.259474  0.004810  1
+  Hg  Hg13  1  0.500133  0.740525  0.004810  1
+  Hg  Hg14  1  0.999774  0.240466  0.161915  1
+  Hg  Hg15  1  0.999774  0.759535  0.161915  1
+  Hg  Hg16  1  0.500012  0.244296  0.329464  1
+  Hg  Hg17  1  0.500012  0.755705  0.329464  1
+  Hg  Hg18  1  0.999861  0.249088  0.500816  1
+  Hg  Hg19  1  0.999861  0.750913  0.500816  1
+  Hg  Hg20  1  0.500233  0.251021  0.665899  1
+  Hg  Hg21  1  0.500233  0.748980  0.665899  1
+  Hg  Hg22  1  0.999988  0.255704  0.837154  1
+  Hg  Hg23  1  0.999988  0.744297  0.837154  1

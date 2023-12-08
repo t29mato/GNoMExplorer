@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HoLu(GaNi)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.26603200
+_cell_length_b   6.75549500
+_cell_length_c   7.25260600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoLu(GaNi)2
+_chemical_formula_sum   'Ho2 Lu2 Ga4 Ni4'
+_cell_volume   209.01399711
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.250000  0.017873  0.806898  1
+  Ho  Ho1  1  0.250000  0.517873  0.693102  1
+  Lu  Lu2  1  0.750000  0.980553  0.197444  1
+  Lu  Lu3  1  0.750000  0.480553  0.302556  1
+  Ga  Ga4  1  0.250000  0.176470  0.420451  1
+  Ga  Ga5  1  0.250000  0.676470  0.079549  1
+  Ga  Ga6  1  0.750000  0.820839  0.576031  1
+  Ga  Ga7  1  0.750000  0.320839  0.923969  1
+  Ni  Ni8  1  0.250000  0.791848  0.402785  1
+  Ni  Ni9  1  0.250000  0.291848  0.097215  1
+  Ni  Ni10  1  0.750000  0.212417  0.591427  1
+  Ni  Ni11  1  0.750000  0.712417  0.908573  1

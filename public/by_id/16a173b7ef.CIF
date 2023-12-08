@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_TbPr3(TaN2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.37015400
+_cell_length_b   5.81572572
+_cell_length_c   11.10442227
+_cell_angle_alpha   89.83801090
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbPr3(TaN2)4
+_chemical_formula_sum   'Tb1 Pr3 Ta4 N8'
+_cell_volume   217.64459957
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.250000  0.087202  0.636914  1
+  Pr  Pr1  1  0.250000  0.587575  0.863278  1
+  Pr  Pr2  1  0.750000  0.414277  0.136492  1
+  Pr  Pr3  1  0.750000  0.912725  0.365298  1
+  Ta  Ta4  1  0.250000  0.920410  0.112410  1
+  Ta  Ta5  1  0.750000  0.081177  0.884918  1
+  Ta  Ta6  1  0.750000  0.581827  0.611037  1
+  Ta  Ta7  1  0.250000  0.416823  0.389222  1
+  N  N8  1  0.250000  0.663155  0.247368  1
+  N  N9  1  0.750000  0.333386  0.750339  1
+  N  N10  1  0.750000  0.843421  0.740729  1
+  N  N11  1  0.250000  0.163905  0.254796  1
+  N  N12  1  0.250000  0.724660  0.516569  1
+  N  N13  1  0.750000  0.269537  0.493250  1
+  N  N14  1  0.750000  0.782316  0.011288  1
+  N  N15  1  0.250000  0.217604  0.986094  1

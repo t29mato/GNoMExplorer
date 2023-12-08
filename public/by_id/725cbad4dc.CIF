@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_DySc(SiTc2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.30333316
+_cell_length_b   7.30333316
+_cell_length_c   4.14243500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   91.69734563
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DySc(SiTc2)4
+_chemical_formula_sum   'Dy1 Sc1 Si4 Tc8'
+_cell_volume   220.85504875
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.000000  0.000000  0.000000  1
+  Sc  Sc1  1  0.500000  0.500000  0.500000  1
+  Si  Si2  1  0.786694  0.213306  0.500000  1
+  Si  Si3  1  0.213306  0.786694  0.500000  1
+  Si  Si4  1  0.298864  0.298864  0.000000  1
+  Si  Si5  1  0.701136  0.701136  0.000000  1
+  Tc  Tc6  1  0.651155  0.898063  0.500000  1
+  Tc  Tc7  1  0.348845  0.101937  0.500000  1
+  Tc  Tc8  1  0.159605  0.589816  0.000000  1
+  Tc  Tc9  1  0.840395  0.410184  0.000000  1
+  Tc  Tc10  1  0.898063  0.651155  0.500000  1
+  Tc  Tc11  1  0.101937  0.348845  0.500000  1
+  Tc  Tc12  1  0.589816  0.159605  0.000000  1
+  Tc  Tc13  1  0.410184  0.840395  0.000000  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_YLu3(InGa2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.14621605
+_cell_length_b   7.14621605
+_cell_length_c   4.38323700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   89.39363918
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YLu3(InGa2)2
+_chemical_formula_sum   'Y1 Lu3 In2 Ga4'
+_cell_volume   223.83238183
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.671787  0.171787  0.500000  1
+  Lu  Lu1  1  0.327216  0.827216  0.500000  1
+  Lu  Lu2  1  0.171492  0.330072  0.500000  1
+  Lu  Lu3  1  0.830072  0.671492  0.500000  1
+  In  In4  1  0.499227  0.500337  0.000000  1
+  In  In5  1  0.000337  0.999227  0.000000  1
+  Ga  Ga6  1  0.127745  0.627745  0.000000  1
+  Ga  Ga7  1  0.875517  0.375517  0.000000  1
+  Ga  Ga8  1  0.626175  0.870432  0.000000  1
+  Ga  Ga9  1  0.370432  0.126175  0.000000  1

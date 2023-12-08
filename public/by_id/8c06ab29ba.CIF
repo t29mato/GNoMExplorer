@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LiCo2TcP2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.60977900
+_cell_length_b   5.76732600
+_cell_length_c   6.68964200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCo2TcP2
+_chemical_formula_sum   'Li2 Co4 Tc2 P4'
+_cell_volume   139.27013344
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.250000  0.026154  0.180095  1
+  Li  Li1  1  0.250000  0.526154  0.319905  1
+  Co  Co2  1  0.250000  0.144084  0.558326  1
+  Co  Co3  1  0.250000  0.644084  0.941674  1
+  Co  Co4  1  0.750000  0.855735  0.437827  1
+  Co  Co5  1  0.750000  0.355735  0.062173  1
+  Tc  Tc6  1  0.750000  0.972574  0.823832  1
+  Tc  Tc7  1  0.750000  0.472574  0.676168  1
+  P  P8  1  0.250000  0.765629  0.621178  1
+  P  P9  1  0.250000  0.265629  0.878822  1
+  P  P10  1  0.750000  0.235824  0.377811  1
+  P  P11  1  0.750000  0.735824  0.122189  1

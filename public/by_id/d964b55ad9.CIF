@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Ta6Be15(Co3Ni)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.55167841
+_cell_length_b   7.55334206
+_cell_length_c   7.55334100
+_cell_angle_alpha   60.00000027
+_cell_angle_beta   59.99271246
+_cell_angle_gamma   59.99271427
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta6Be15(Co3Ni)2
+_chemical_formula_sum   'Ta6 Be15 Co6 Ni2'
+_cell_volume   304.62033652
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.712869  0.292833  0.292833  1
+  Ta  Ta1  1  0.287131  0.707167  0.707167  1
+  Ta  Ta2  1  0.287131  0.707167  0.298535  1
+  Ta  Ta3  1  0.712869  0.292833  0.701465  1
+  Ta  Ta4  1  0.287131  0.298535  0.707167  1
+  Ta  Ta5  1  0.712869  0.701465  0.292833  1
+  Be  Be6  1  0.325423  0.327029  0.327029  1
+  Be  Be7  1  0.674577  0.672971  0.672971  1
+  Be  Be8  1  0.325423  0.327029  0.020517  1
+  Be  Be9  1  0.325423  0.020517  0.327029  1
+  Be  Be10  1  0.674577  0.672971  0.979483  1
+  Be  Be11  1  0.674577  0.979483  0.672971  1
+  Be  Be12  1  0.025235  0.324921  0.324921  1
+  Be  Be13  1  0.974765  0.675079  0.675079  1
+  Be  Be14  1  0.500000  0.000000  0.000000  1
+  Be  Be15  1  0.000000  0.500000  0.500000  1
+  Be  Be16  1  0.000000  0.500000  0.000000  1
+  Be  Be17  1  0.500000  0.000000  0.500000  1
+  Be  Be18  1  0.000000  0.000000  0.500000  1
+  Be  Be19  1  0.500000  0.500000  0.000000  1
+  Be  Be20  1  0.000000  0.000000  0.000000  1
+  Co  Co21  1  0.125249  0.121467  0.121467  1
+  Co  Co22  1  0.874751  0.878534  0.878533  1
+  Co  Co23  1  0.125249  0.121467  0.631817  1
+  Co  Co24  1  0.125249  0.631817  0.121466  1
+  Co  Co25  1  0.874751  0.878534  0.368183  1
+  Co  Co26  1  0.874751  0.368183  0.878533  1
+  Ni  Ni27  1  0.630776  0.123075  0.123075  1
+  Ni  Ni28  1  0.369224  0.876925  0.876925  1

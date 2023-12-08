@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Lu2MnFeBr2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.75964600
+_cell_length_b   3.75964555
+_cell_length_c   11.78348100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99998638
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2MnFeBr2
+_chemical_formula_sum   'Lu2 Mn1 Fe1 Br2'
+_cell_volume   144.24413184
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.000000  0.000000  0.170896  1
+  Lu  Lu1  1  0.000000  0.000000  0.830160  1
+  Mn  Mn2  1  0.666665  0.333332  0.010940  1
+  Fe  Fe3  1  0.333334  0.666667  0.987451  1
+  Br  Br4  1  0.333334  0.666667  0.332055  1
+  Br  Br5  1  0.666665  0.333332  0.668497  1

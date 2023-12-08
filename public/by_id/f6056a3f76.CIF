@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Lu2Fe2SiGeC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89597570
+_cell_length_b   5.63696291
+_cell_length_c   5.59049105
+_cell_angle_alpha   72.52111939
+_cell_angle_beta   69.60766491
+_cell_angle_gamma   69.78316063
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2Fe2SiGeC
+_chemical_formula_sum   'Lu2 Fe2 Si1 Ge1 C1'
+_cell_volume   105.70703081
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.558075  0.712034  0.171816  1
+  Lu  Lu1  1  0.441080  0.291204  0.826635  1
+  Fe  Fe2  1  0.203876  0.896343  0.695906  1
+  Fe  Fe3  1  0.802469  0.090248  0.304815  1
+  Si  Si4  1  0.838598  0.711129  0.611676  1
+  Ge  Ge5  1  0.154264  0.300696  0.390774  1
+  C  C6  1  0.001638  0.998347  0.998377  1

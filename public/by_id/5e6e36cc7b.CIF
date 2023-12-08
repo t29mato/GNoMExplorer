@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Hf2CoSi2Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.84275400
+_cell_length_b   6.49307639
+_cell_length_c   7.38970918
+_cell_angle_alpha   91.30288801
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf2CoSi2Pd
+_chemical_formula_sum   'Hf4 Co2 Si4 Pd2'
+_cell_volume   184.33514614
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.250000  0.517239  0.675198  1
+  Hf  Hf1  1  0.750000  0.482761  0.324802  1
+  Hf  Hf2  1  0.250000  0.022411  0.808031  1
+  Hf  Hf3  1  0.750000  0.977589  0.191969  1
+  Co  Co4  1  0.750000  0.857723  0.559807  1
+  Co  Co5  1  0.250000  0.142277  0.440193  1
+  Si  Si6  1  0.250000  0.260178  0.135441  1
+  Si  Si7  1  0.750000  0.739822  0.864559  1
+  Si  Si8  1  0.250000  0.782269  0.399765  1
+  Si  Si9  1  0.750000  0.217731  0.600235  1
+  Pd  Pd10  1  0.750000  0.350242  0.933852  1
+  Pd  Pd11  1  0.250000  0.649758  0.066148  1

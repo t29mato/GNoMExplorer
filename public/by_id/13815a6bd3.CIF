@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Li3Nd3Ag2Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.69790900
+_cell_length_b   7.69790760
+_cell_length_c   4.07541500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999312
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3Nd3Ag2Pt
+_chemical_formula_sum   'Li3 Nd3 Ag2 Pt1'
+_cell_volume   209.14523195
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.001088  0.242465  0.000000  1
+  Li  Li1  1  0.241377  0.998912  0.000000  1
+  Li  Li2  1  0.757535  0.758623  0.000000  1
+  Nd  Nd3  1  0.019052  0.598132  0.500000  1
+  Nd  Nd4  1  0.579081  0.980948  0.500000  1
+  Nd  Nd5  1  0.401868  0.420919  0.500000  1
+  Ag  Ag6  1  0.000000  0.000000  0.500000  1
+  Ag  Ag7  1  0.666667  0.333333  0.000000  1
+  Pt  Pt8  1  0.333333  0.666667  0.000000  1

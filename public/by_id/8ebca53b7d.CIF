@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_ErNiPH
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.86134800
+_cell_length_b   7.97977100
+_cell_length_c   6.69335900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErNiPH
+_chemical_formula_sum   'Er4 Ni4 P4 H4'
+_cell_volume   206.24028074
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.750000  0.504657  0.749715  1
+  Er  Er1  1  0.250000  0.495343  0.250285  1
+  Er  Er2  1  0.250000  0.995343  0.249715  1
+  Er  Er3  1  0.750000  0.004657  0.750285  1
+  Ni  Ni4  1  0.750000  0.238400  0.415074  1
+  Ni  Ni5  1  0.250000  0.761600  0.584926  1
+  Ni  Ni6  1  0.250000  0.261600  0.915074  1
+  Ni  Ni7  1  0.750000  0.738400  0.084926  1
+  P  P8  1  0.750000  0.237585  0.080529  1
+  P  P9  1  0.250000  0.762415  0.919471  1
+  P  P10  1  0.250000  0.262415  0.580529  1
+  P  P11  1  0.750000  0.737585  0.419471  1
+  H  H12  1  0.250000  0.961741  0.584402  1
+  H  H13  1  0.750000  0.038259  0.415598  1
+  H  H14  1  0.750000  0.538259  0.084402  1
+  H  H15  1  0.250000  0.461741  0.915598  1

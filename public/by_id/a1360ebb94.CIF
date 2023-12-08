@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Mn3Nb4Fe4Ru
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.81565000
+_cell_length_b   4.81564930
+_cell_length_c   8.07218000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999110
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn3Nb4Fe4Ru
+_chemical_formula_sum   'Mn3 Nb4 Fe4 Ru1'
+_cell_volume   162.11801396
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.173986  0.826014  0.755769  1
+  Mn  Mn1  1  0.173986  0.347971  0.755769  1
+  Mn  Mn2  1  0.652029  0.826014  0.755769  1
+  Nb  Nb3  1  0.333333  0.666667  0.432935  1
+  Nb  Nb4  1  0.666667  0.333333  0.566422  1
+  Nb  Nb5  1  0.666667  0.333333  0.936545  1
+  Nb  Nb6  1  0.333333  0.666667  0.066131  1
+  Fe  Fe7  1  0.000000  0.000000  0.998413  1
+  Fe  Fe8  1  0.829044  0.170956  0.243453  1
+  Fe  Fe9  1  0.829044  0.658089  0.243453  1
+  Fe  Fe10  1  0.341911  0.170956  0.243453  1
+  Ru  Ru11  1  0.000000  0.000000  0.501887  1

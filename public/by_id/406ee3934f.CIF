@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_RbPm2SnF3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.11743176
+_cell_length_b   4.47435138
+_cell_length_c   9.10180900
+_cell_angle_alpha   104.36207373
+_cell_angle_beta   79.59132069
+_cell_angle_gamma   136.69564034
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbPm2SnF3
+_chemical_formula_sum   'Rb1 Pm2 Sn1 F3'
+_cell_volume   165.53190682
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.830387  0.075817  0.984021  1
+  Pm  Pm1  1  0.337518  0.932156  0.666552  1
+  Pm  Pm2  1  0.333397  0.236022  0.290022  1
+  Sn  Sn3  1  0.837143  0.884474  0.572000  1
+  F  F4  1  0.833588  0.674854  0.175919  1
+  F  F5  1  0.338598  0.065636  0.921311  1
+  F  F6  1  0.331054  0.697357  0.218522  1

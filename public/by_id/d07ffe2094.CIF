@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CsMn(SeO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.22489194
+_cell_length_b   8.59549044
+_cell_length_c   5.22489164
+_cell_angle_alpha   86.13778909
+_cell_angle_beta   116.65303773
+_cell_angle_gamma   93.86221378
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsMn(SeO4)2
+_chemical_formula_sum   'Cs1 Mn1 Se2 O8'
+_cell_volume   209.06034129
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.000000  0.500000  0.000000  1
+  Mn  Mn1  1  0.000000  0.000000  0.000000  1
+  Se  Se2  1  0.377962  0.179740  0.622038  1
+  Se  Se3  1  0.622038  0.820260  0.377962  1
+  O  O4  1  0.325915  0.359178  0.674085  1
+  O  O5  1  0.674085  0.640822  0.325915  1
+  O  O6  1  0.244317  0.035566  0.755683  1
+  O  O7  1  0.755683  0.964434  0.244317  1
+  O  O8  1  0.258169  0.833976  0.242877  1
+  O  O9  1  0.741831  0.166024  0.757123  1
+  O  O10  1  0.757123  0.833976  0.741831  1
+  O  O11  1  0.242877  0.166024  0.258169  1

@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Ca20(AgAu3)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.06774700
+_cell_length_b   8.06774700
+_cell_length_c   14.58692800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca20(AgAu3)3
+_chemical_formula_sum   'Ca20 Ag3 Au9'
+_cell_volume   949.44187076
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.672906  0.161198  0.107764  1
+  Ca  Ca1  1  0.167148  0.666460  0.611330  1
+  Ca  Ca2  1  0.327094  0.838802  0.107764  1
+  Ca  Ca3  1  0.832852  0.333540  0.611330  1
+  Ca  Ca4  1  0.838802  0.672906  0.107764  1
+  Ca  Ca5  1  0.333540  0.167148  0.611330  1
+  Ca  Ca6  1  0.161198  0.327094  0.107764  1
+  Ca  Ca7  1  0.666460  0.832852  0.611330  1
+  Ca  Ca8  1  0.838802  0.327094  0.892236  1
+  Ca  Ca9  1  0.333540  0.832852  0.388670  1
+  Ca  Ca10  1  0.161198  0.672906  0.892236  1
+  Ca  Ca11  1  0.666460  0.167148  0.388670  1
+  Ca  Ca12  1  0.672906  0.838802  0.892236  1
+  Ca  Ca13  1  0.167148  0.333540  0.388670  1
+  Ca  Ca14  1  0.327094  0.161198  0.892236  1
+  Ca  Ca15  1  0.832852  0.666460  0.388670  1
+  Ca  Ca16  1  0.500000  0.500000  0.755527  1
+  Ca  Ca17  1  0.000000  0.000000  0.249750  1
+  Ca  Ca18  1  0.000000  0.000000  0.750250  1
+  Ca  Ca19  1  0.500000  0.500000  0.244473  1
+  Ag  Ag20  1  0.500000  0.500000  0.500000  1
+  Ag  Ag21  1  0.500000  0.500000  0.000000  1
+  Ag  Ag22  1  0.000000  0.000000  0.500000  1
+  Au  Au23  1  0.630128  0.130870  0.751612  1
+  Au  Au24  1  0.130870  0.630128  0.248388  1
+  Au  Au25  1  0.869130  0.369872  0.248388  1
+  Au  Au26  1  0.369872  0.869130  0.751612  1
+  Au  Au27  1  0.869130  0.630128  0.751612  1
+  Au  Au28  1  0.369872  0.130870  0.248388  1
+  Au  Au29  1  0.130870  0.369872  0.751612  1
+  Au  Au30  1  0.630128  0.869130  0.248388  1
+  Au  Au31  1  0.000000  0.000000  0.000000  1

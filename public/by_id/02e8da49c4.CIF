@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_NaSr4(PaH8)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.88420300
+_cell_length_b   7.02770400
+_cell_length_c   6.88420300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSr4(PaH8)3
+_chemical_formula_sum   'Na1 Sr4 Pa3 H24'
+_cell_volume   333.05871154
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.500000  0.750000  0.000000  1
+  Sr  Sr1  1  0.250631  0.992062  0.500000  1
+  Sr  Sr2  1  0.749369  0.992062  0.500000  1
+  Sr  Sr3  1  0.000000  0.507938  0.249369  1
+  Sr  Sr4  1  0.000000  0.507938  0.750631  1
+  Pa  Pa5  1  0.000000  0.007110  0.000000  1
+  Pa  Pa6  1  0.500000  0.492890  0.500000  1
+  Pa  Pa7  1  0.500000  0.250000  0.000000  1
+  H  H8  1  0.000000  0.150894  0.275591  1
+  H  H9  1  0.500000  0.221394  0.673838  1
+  H  H10  1  0.500000  0.762362  0.348057  1
+  H  H11  1  0.778485  0.643179  0.500000  1
+  H  H12  1  0.221515  0.643179  0.500000  1
+  H  H13  1  0.360707  0.462389  0.801618  1
+  H  H14  1  0.639293  0.462389  0.801618  1
+  H  H15  1  0.301618  0.037611  0.139293  1
+  H  H16  1  0.173838  0.278606  0.000000  1
+  H  H17  1  0.848057  0.737638  0.000000  1
+  H  H18  1  0.301618  0.037611  0.860707  1
+  H  H19  1  0.826162  0.278606  0.000000  1
+  H  H20  1  0.698382  0.037611  0.139293  1
+  H  H21  1  0.698382  0.037611  0.860707  1
+  H  H22  1  0.151943  0.737638  0.000000  1
+  H  H23  1  0.000000  0.856821  0.721515  1
+  H  H24  1  0.000000  0.150894  0.724409  1
+  H  H25  1  0.000000  0.856821  0.278485  1
+  H  H26  1  0.639293  0.462389  0.198382  1
+  H  H27  1  0.360707  0.462389  0.198382  1
+  H  H28  1  0.775591  0.349106  0.500000  1
+  H  H29  1  0.224409  0.349106  0.500000  1
+  H  H30  1  0.500000  0.762362  0.651943  1
+  H  H31  1  0.500000  0.221394  0.326162  1

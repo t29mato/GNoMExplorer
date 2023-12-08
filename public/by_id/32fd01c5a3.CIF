@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_TbDy(Al3Co)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.37655900
+_cell_length_b   7.37746212
+_cell_length_c   9.31968000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.19544544
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbDy(Al3Co)3
+_chemical_formula_sum   'Tb2 Dy2 Al18 Co6'
+_cell_volume   442.74797044
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.992970  0.672015  0.250000  1
+  Tb  Tb1  1  0.007030  0.327985  0.750000  1
+  Dy  Dy2  1  0.671981  0.992972  0.250000  1
+  Dy  Dy3  1  0.328019  0.007028  0.750000  1
+  Al  Al4  1  0.125349  0.125412  0.250000  1
+  Al  Al5  1  0.874651  0.874588  0.750000  1
+  Al  Al6  1  0.332278  0.332200  0.541824  1
+  Al  Al7  1  0.667722  0.667800  0.041824  1
+  Al  Al8  1  0.332278  0.332200  0.958176  1
+  Al  Al9  1  0.667722  0.667800  0.458176  1
+  Al  Al10  1  0.338887  0.553271  0.250000  1
+  Al  Al11  1  0.661113  0.446729  0.750000  1
+  Al  Al12  1  0.553135  0.338689  0.250000  1
+  Al  Al13  1  0.446865  0.661311  0.750000  1
+  Al  Al14  1  0.998198  0.335051  0.070761  1
+  Al  Al15  1  0.001802  0.664949  0.570761  1
+  Al  Al16  1  0.335252  0.998277  0.429321  1
+  Al  Al17  1  0.664748  0.001723  0.929321  1
+  Al  Al18  1  0.001802  0.664949  0.929239  1
+  Al  Al19  1  0.998198  0.335051  0.429239  1
+  Al  Al20  1  0.664748  0.001723  0.570679  1
+  Al  Al21  1  0.335252  0.998277  0.070679  1
+  Co  Co22  1  0.000000  0.000000  0.000000  1
+  Co  Co23  1  0.000000  0.000000  0.500000  1
+  Co  Co24  1  0.670913  0.329030  0.999999  1
+  Co  Co25  1  0.329087  0.670970  0.499999  1
+  Co  Co26  1  0.329087  0.670970  0.000001  1
+  Co  Co27  1  0.670913  0.329030  0.500001  1

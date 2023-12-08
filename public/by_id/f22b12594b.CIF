@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_ZrMn4(Ga3Fe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.55621624
+_cell_length_b   6.55621543
+_cell_length_c   6.55621614
+_cell_angle_alpha   133.95306642
+_cell_angle_beta   99.90055484
+_cell_angle_gamma   97.70036316
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrMn4(Ga3Fe)2
+_chemical_formula_sum   'Zr1 Mn4 Ga6 Fe2'
+_cell_volume   186.67177558
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.000000  0.000000  0.000000  1
+  Mn  Mn1  1  0.000000  0.000000  0.500000  1
+  Mn  Mn2  1  0.000000  0.500000  0.000000  1
+  Mn  Mn3  1  0.500000  0.000000  0.000000  1
+  Mn  Mn4  1  0.500000  0.500000  0.500000  1
+  Ga  Ga5  1  0.330606  0.000000  0.330606  1
+  Ga  Ga6  1  0.669394  0.000000  0.669394  1
+  Ga  Ga7  1  0.657664  0.657664  0.000000  1
+  Ga  Ga8  1  0.342336  0.342336  0.000000  1
+  Ga  Ga9  1  0.172867  0.672867  0.500000  1
+  Ga  Ga10  1  0.827133  0.327133  0.500000  1
+  Fe  Fe11  1  0.755616  0.500000  0.255616  1
+  Fe  Fe12  1  0.244384  0.500000  0.744384  1

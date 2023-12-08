@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YbSm3(SeO)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.51719146
+_cell_length_b   7.51719041
+_cell_length_c   5.82785322
+_cell_angle_alpha   90.02866412
+_cell_angle_beta   90.02867416
+_cell_angle_gamma   134.41267337
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbSm3(SeO)4
+_chemical_formula_sum   'Yb1 Sm3 Se4 O4'
+_cell_volume   235.23987508
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.323488  0.676512  0.000000  1
+  Sm  Sm1  1  0.175264  0.824736  0.500000  1
+  Sm  Sm2  1  0.826559  0.173441  0.500000  1
+  Sm  Sm3  1  0.675454  0.324546  0.000000  1
+  Se  Se4  1  0.848959  0.848659  0.856060  1
+  Se  Se5  1  0.349236  0.349166  0.643943  1
+  Se  Se6  1  0.151341  0.151041  0.143940  1
+  Se  Se7  1  0.650834  0.650764  0.356057  1
+  O  O8  1  0.498650  0.998789  0.748496  1
+  O  O9  1  0.001211  0.501350  0.251504  1
+  O  O10  1  0.504952  0.005947  0.252476  1
+  O  O11  1  0.994053  0.495048  0.747524  1

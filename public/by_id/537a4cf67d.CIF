@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_CuMo3PtN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.81999700
+_cell_length_b   6.81999700
+_cell_length_c   6.81999700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuMo3PtN
+_chemical_formula_sum   'Cu4 Mo12 Pt4 N4'
+_cell_volume   317.21414939
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.184683  0.815317  0.315317  1
+  Cu  Cu1  1  0.315317  0.184683  0.815317  1
+  Cu  Cu2  1  0.815317  0.315317  0.184683  1
+  Cu  Cu3  1  0.684683  0.684683  0.684683  1
+  Mo  Mo4  1  0.803536  0.961771  0.373016  1
+  Mo  Mo5  1  0.696464  0.038229  0.873016  1
+  Mo  Mo6  1  0.196464  0.461771  0.126984  1
+  Mo  Mo7  1  0.303536  0.538229  0.626984  1
+  Mo  Mo8  1  0.961771  0.373016  0.803536  1
+  Mo  Mo9  1  0.038229  0.873016  0.696464  1
+  Mo  Mo10  1  0.461771  0.126984  0.196464  1
+  Mo  Mo11  1  0.538229  0.626984  0.303536  1
+  Mo  Mo12  1  0.373016  0.803536  0.961771  1
+  Mo  Mo13  1  0.873016  0.696464  0.038229  1
+  Mo  Mo14  1  0.126984  0.196464  0.461771  1
+  Mo  Mo15  1  0.626984  0.303536  0.538229  1
+  Pt  Pt16  1  0.566010  0.433990  0.933990  1
+  Pt  Pt17  1  0.433990  0.933990  0.566010  1
+  Pt  Pt18  1  0.933990  0.566010  0.433990  1
+  Pt  Pt19  1  0.066010  0.066010  0.066010  1
+  N  N20  1  0.873706  0.126294  0.626294  1
+  N  N21  1  0.626294  0.873706  0.126294  1
+  N  N22  1  0.126294  0.626294  0.873706  1
+  N  N23  1  0.373706  0.373706  0.373706  1

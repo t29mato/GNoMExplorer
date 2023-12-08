@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_LiY19(Cd3Tc)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.53306700
+_cell_length_b   9.53306708
+_cell_length_c   9.87380700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000320
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiY19(Cd3Tc)2
+_chemical_formula_sum   'Li1 Y19 Cd6 Tc2'
+_cell_volume   777.10650773
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.000000  0.000000  0.500000  1
+  Y  Y1  1  0.000000  0.000000  0.000000  1
+  Y  Y2  1  0.207992  0.792008  0.440998  1
+  Y  Y3  1  0.207992  0.415984  0.440998  1
+  Y  Y4  1  0.584016  0.792008  0.440998  1
+  Y  Y5  1  0.792008  0.207992  0.559002  1
+  Y  Y6  1  0.792008  0.584016  0.559002  1
+  Y  Y7  1  0.415984  0.207992  0.559002  1
+  Y  Y8  1  0.789630  0.210370  0.941676  1
+  Y  Y9  1  0.789630  0.579258  0.941676  1
+  Y  Y10  1  0.420742  0.210370  0.941676  1
+  Y  Y11  1  0.210370  0.789630  0.058324  1
+  Y  Y12  1  0.210370  0.420742  0.058324  1
+  Y  Y13  1  0.579258  0.789630  0.058324  1
+  Y  Y14  1  0.540436  0.459564  0.251193  1
+  Y  Y15  1  0.540436  0.080871  0.251193  1
+  Y  Y16  1  0.919129  0.459564  0.251193  1
+  Y  Y17  1  0.459564  0.540436  0.748807  1
+  Y  Y18  1  0.459564  0.919129  0.748807  1
+  Y  Y19  1  0.080871  0.540436  0.748807  1
+  Cd  Cd20  1  0.888951  0.111049  0.258572  1
+  Cd  Cd21  1  0.888951  0.777904  0.258572  1
+  Cd  Cd22  1  0.222096  0.111049  0.258572  1
+  Cd  Cd23  1  0.111049  0.888951  0.741428  1
+  Cd  Cd24  1  0.111049  0.222096  0.741428  1
+  Cd  Cd25  1  0.777904  0.888951  0.741428  1
+  Tc  Tc26  1  0.333333  0.666667  0.249818  1
+  Tc  Tc27  1  0.666667  0.333333  0.750182  1

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_HoIn(NiPt)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.17640508
+_cell_length_b   5.17640476
+_cell_length_c   5.03780300
+_cell_angle_alpha   60.88185552
+_cell_angle_beta   60.88185748
+_cell_angle_gamma   63.36534203
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoIn(NiPt)2
+_chemical_formula_sum   'Ho1 In1 Ni2 Pt2'
+_cell_volume   98.98936598
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.251538  0.251538  0.248462  1
+  In  In1  1  0.988263  0.988263  0.011737  1
+  Ni  Ni2  1  0.628566  0.628566  0.621783  1
+  Ni  Ni3  1  0.628566  0.628566  0.121085  1
+  Pt  Pt4  1  0.626911  0.126157  0.623466  1
+  Pt  Pt5  1  0.126157  0.626911  0.623466  1

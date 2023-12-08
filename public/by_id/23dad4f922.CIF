@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Y20FeHg6Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.69713000
+_cell_length_b   9.69713130
+_cell_length_c   9.60906100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99998875
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y20FeHg6Pt
+_chemical_formula_sum   'Y20 Fe1 Hg6 Pt1'
+_cell_volume   782.52482674
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.000000  0.000000  0.499932  1
+  Y  Y1  1  0.000000  0.000000  0.000068  1
+  Y  Y2  1  0.542784  0.457216  0.250000  1
+  Y  Y3  1  0.542784  0.085568  0.250000  1
+  Y  Y4  1  0.914432  0.457216  0.250000  1
+  Y  Y5  1  0.459139  0.540861  0.750000  1
+  Y  Y6  1  0.459139  0.918277  0.750000  1
+  Y  Y7  1  0.081723  0.540861  0.750000  1
+  Y  Y8  1  0.206594  0.793406  0.440622  1
+  Y  Y9  1  0.206594  0.413189  0.440622  1
+  Y  Y10  1  0.586811  0.793406  0.440622  1
+  Y  Y11  1  0.788499  0.211501  0.564372  1
+  Y  Y12  1  0.788499  0.576997  0.564372  1
+  Y  Y13  1  0.423003  0.211501  0.564372  1
+  Y  Y14  1  0.788499  0.211501  0.935628  1
+  Y  Y15  1  0.788499  0.576997  0.935628  1
+  Y  Y16  1  0.423003  0.211501  0.935628  1
+  Y  Y17  1  0.206594  0.793406  0.059378  1
+  Y  Y18  1  0.206594  0.413189  0.059378  1
+  Y  Y19  1  0.586811  0.793406  0.059378  1
+  Fe  Fe20  1  0.666667  0.333333  0.750000  1
+  Hg  Hg21  1  0.880764  0.119236  0.250000  1
+  Hg  Hg22  1  0.880764  0.761529  0.250000  1
+  Hg  Hg23  1  0.238471  0.119236  0.250000  1
+  Hg  Hg24  1  0.119239  0.880761  0.750000  1
+  Hg  Hg25  1  0.119239  0.238477  0.750000  1
+  Hg  Hg26  1  0.761523  0.880761  0.750000  1
+  Pt  Pt27  1  0.333333  0.666667  0.250000  1

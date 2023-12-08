@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ti4V4GaAs2P
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.36700000
+_cell_length_b   6.58492853
+_cell_length_c   7.95650763
+_cell_angle_alpha   89.26180083
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti4V4GaAs2P
+_chemical_formula_sum   'Ti4 V4 Ga1 As2 P1'
+_cell_volume   176.39270433
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.250000  0.558574  0.174708  1
+  Ti  Ti1  1  0.750000  0.444297  0.833810  1
+  Ti  Ti2  1  0.750000  0.949196  0.655408  1
+  Ti  Ti3  1  0.250000  0.035580  0.333278  1
+  V  V4  1  0.250000  0.631894  0.551393  1
+  V  V5  1  0.750000  0.377025  0.438230  1
+  V  V6  1  0.750000  0.874725  0.068726  1
+  V  V7  1  0.250000  0.128857  0.942827  1
+  Ga  Ga8  1  0.250000  0.748190  0.858980  1
+  As  As9  1  0.750000  0.254372  0.142572  1
+  As  As10  1  0.250000  0.249601  0.639869  1
+  P  P11  1  0.750000  0.747689  0.360202  1

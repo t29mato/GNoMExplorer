@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Sm3Pu(C2I)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.00596468
+_cell_length_b   7.99287164
+_cell_length_c   6.77147432
+_cell_angle_alpha   99.89704054
+_cell_angle_beta   99.69956759
+_cell_angle_gamma   31.11230744
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm3Pu(C2I)2
+_chemical_formula_sum   'Sm3 Pu1 C4 I2'
+_cell_volume   220.37357581
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.531063  0.144207  0.347520  1
+  Sm  Sm1  1  0.471602  0.852690  0.652422  1
+  Sm  Sm2  1  0.145333  0.525973  0.852260  1
+  Pu  Pu3  1  0.852040  0.478238  0.148799  1
+  C  C4  1  0.347138  0.103257  0.027683  1
+  C  C5  1  0.907264  0.640540  0.471164  1
+  C  C6  1  0.097988  0.353206  0.525084  1
+  C  C7  1  0.643862  0.903350  0.975893  1
+  I  I8  1  0.226483  0.776788  0.248094  1
+  I  I9  1  0.777226  0.221754  0.751081  1

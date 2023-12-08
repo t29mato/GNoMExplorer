@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Ti7(AlFe)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.49804816
+_cell_length_b   8.49804762
+_cell_length_c   8.49804926
+_cell_angle_alpha   60.03487041
+_cell_angle_beta   60.03486758
+_cell_angle_gamma   60.03488361
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti7(AlFe)4
+_chemical_formula_sum   'Ti14 Al8 Fe8'
+_cell_volume   434.29594083
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.207664  0.207664  0.792533  1
+  Ti  Ti1  1  0.792533  0.207664  0.207664  1
+  Ti  Ti2  1  0.207664  0.792533  0.207664  1
+  Ti  Ti3  1  0.792800  0.792800  0.206651  1
+  Ti  Ti4  1  0.206651  0.792800  0.792800  1
+  Ti  Ti5  1  0.792800  0.206651  0.792800  1
+  Ti  Ti6  1  0.380731  0.380731  0.380731  1
+  Ti  Ti7  1  0.380762  0.857962  0.380762  1
+  Ti  Ti8  1  0.857962  0.380762  0.380762  1
+  Ti  Ti9  1  0.380762  0.380762  0.857962  1
+  Ti  Ti10  1  0.842810  0.471399  0.842810  1
+  Ti  Ti11  1  0.471399  0.842810  0.842810  1
+  Ti  Ti12  1  0.842810  0.842810  0.471399  1
+  Ti  Ti13  1  0.842197  0.842197  0.842197  1
+  Al  Al14  1  0.159386  0.159386  0.159386  1
+  Al  Al15  1  0.159632  0.521451  0.159632  1
+  Al  Al16  1  0.521451  0.159632  0.159632  1
+  Al  Al17  1  0.159632  0.159632  0.521451  1
+  Al  Al18  1  0.617932  0.617932  0.617932  1
+  Al  Al19  1  0.617882  0.146199  0.617882  1
+  Al  Al20  1  0.146199  0.617882  0.617882  1
+  Al  Al21  1  0.617882  0.617882  0.146199  1
+  Fe  Fe22  1  0.998267  0.998267  0.501844  1
+  Fe  Fe23  1  0.501844  0.998267  0.998267  1
+  Fe  Fe24  1  0.998267  0.501844  0.998267  1
+  Fe  Fe25  1  0.501746  0.501746  0.998336  1
+  Fe  Fe26  1  0.998336  0.501746  0.501746  1
+  Fe  Fe27  1  0.501746  0.998336  0.501746  1
+  Fe  Fe28  1  0.500030  0.500030  0.500030  1
+  Fe  Fe29  1  0.000222  0.000222  0.000222  1

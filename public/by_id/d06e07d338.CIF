@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_HfTiSbAs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.84010600
+_cell_length_b   3.84010656
+_cell_length_c   12.90857100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999515
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfTiSbAs
+_chemical_formula_sum   'Hf2 Ti2 Sb2 As2'
+_cell_volume   164.85241343
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.666667  0.333333  0.607255  1
+  Hf  Hf1  1  0.333333  0.666667  0.107255  1
+  Ti  Ti2  1  0.666667  0.333333  0.893658  1
+  Ti  Ti3  1  0.333333  0.666667  0.393658  1
+  Sb  Sb4  1  0.333333  0.666667  0.756264  1
+  Sb  Sb5  1  0.666667  0.333333  0.256264  1
+  As  As6  1  0.000000  0.000000  0.992824  1
+  As  As7  1  0.000000  0.000000  0.492824  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Y4Si4Ir3Os
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.26395900
+_cell_length_b   6.89661839
+_cell_length_c   7.40298811
+_cell_angle_alpha   89.81075652
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y4Si4Ir3Os
+_chemical_formula_sum   'Y4 Si4 Ir3 Os1'
+_cell_volume   217.69772920
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.250000  0.001636  0.314787  1
+  Y  Y1  1  0.250000  0.495939  0.186525  1
+  Y  Y2  1  0.750000  0.999355  0.685153  1
+  Y  Y3  1  0.750000  0.501390  0.812885  1
+  Si  Si4  1  0.250000  0.300134  0.616581  1
+  Si  Si5  1  0.250000  0.802791  0.891815  1
+  Si  Si6  1  0.750000  0.699443  0.388013  1
+  Si  Si7  1  0.750000  0.199222  0.102652  1
+  Ir  Ir8  1  0.250000  0.658290  0.564525  1
+  Ir  Ir9  1  0.750000  0.841744  0.066240  1
+  Ir  Ir10  1  0.750000  0.343491  0.435882  1
+  Os  Os11  1  0.250000  0.156566  0.934943  1

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CePu(PtRh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.40181164
+_cell_length_b   5.42823953
+_cell_length_c   5.42824052
+_cell_angle_alpha   120.61855279
+_cell_angle_beta   119.71593345
+_cell_angle_gamma   89.84991865
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CePu(PtRh)2
+_chemical_formula_sum   'Ce1 Pu1 Pt2 Rh2'
+_cell_volume   112.11961018
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.877332  0.127162  0.750171  1
+  Pu  Pu1  1  0.122123  0.872368  0.249755  1
+  Pt  Pt2  1  0.500010  0.500524  0.500540  1
+  Pt  Pt3  1  0.500010  0.999471  0.999487  1
+  Rh  Rh4  1  0.499729  0.500220  0.999509  1
+  Rh  Rh5  1  0.000795  0.500256  0.500539  1

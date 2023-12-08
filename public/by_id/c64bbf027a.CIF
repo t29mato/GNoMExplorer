@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BaAl3CuPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.83943142
+_cell_length_b   6.83904575
+_cell_length_c   5.32685574
+_cell_angle_alpha   90.05749364
+_cell_angle_beta   89.94478779
+_cell_angle_gamma   73.78542976
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaAl3CuPt
+_chemical_formula_sum   'Ba2 Al6 Cu2 Pt2'
+_cell_volume   239.25324282
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.151545  0.848453  0.248052  1
+  Ba  Ba1  1  0.848452  0.151546  0.751945  1
+  Al  Al2  1  0.572097  0.026896  0.247762  1
+  Al  Al3  1  0.572098  0.427907  0.249435  1
+  Al  Al4  1  0.973094  0.427901  0.247766  1
+  Al  Al5  1  0.026901  0.572101  0.752231  1
+  Al  Al6  1  0.427903  0.572094  0.750564  1
+  Al  Al7  1  0.427905  0.973098  0.752236  1
+  Cu  Cu8  1  0.301097  0.301094  0.499994  1
+  Cu  Cu9  1  0.698904  0.698906  0.500006  1
+  Pt  Pt10  1  0.302337  0.302342  0.000003  1
+  Pt  Pt11  1  0.697663  0.697658  0.999997  1

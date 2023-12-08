@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_BaSr2Te2(IO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.66066442
+_cell_length_b   9.66066337
+_cell_length_c   11.94752870
+_cell_angle_alpha   71.27881986
+_cell_angle_beta   71.27882799
+_cell_angle_gamma   35.88155672
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSr2Te2(IO3)2
+_chemical_formula_sum   'Ba2 Sr4 Te4 I4 O12'
+_cell_volume   615.22516779
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.255547  0.255547  0.780319  1
+  Ba  Ba1  1  0.744453  0.744453  0.219681  1
+  Sr  Sr2  1  0.026732  0.026732  0.819202  1
+  Sr  Sr3  1  0.973268  0.973268  0.180798  1
+  Sr  Sr4  1  0.672642  0.672642  0.609618  1
+  Sr  Sr5  1  0.327358  0.327358  0.390382  1
+  Te  Te6  1  0.597983  0.597983  0.939536  1
+  Te  Te7  1  0.402017  0.402017  0.060464  1
+  Te  Te8  1  0.873263  0.873263  0.549813  1
+  Te  Te9  1  0.126737  0.126737  0.450187  1
+  I  I10  1  0.825503  0.825503  0.892973  1
+  I  I11  1  0.174497  0.174497  0.107027  1
+  I  I12  1  0.473585  0.473585  0.688791  1
+  I  I13  1  0.526415  0.526415  0.311209  1
+  O  O14  1  0.855844  0.408074  0.814746  1
+  O  O15  1  0.408074  0.855844  0.814746  1
+  O  O16  1  0.144156  0.591926  0.185254  1
+  O  O17  1  0.591926  0.144156  0.185254  1
+  O  O18  1  0.710697  0.289303  0.000000  1
+  O  O19  1  0.289303  0.710697  0.000000  1
+  O  O20  1  0.889062  0.889062  0.386750  1
+  O  O21  1  0.110938  0.110938  0.613250  1
+  O  O22  1  0.035279  0.562968  0.587296  1
+  O  O23  1  0.562968  0.035279  0.587296  1
+  O  O24  1  0.964721  0.437032  0.412704  1
+  O  O25  1  0.437032  0.964721  0.412704  1

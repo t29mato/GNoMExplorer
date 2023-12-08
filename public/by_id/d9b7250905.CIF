@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Mn2Be8CoIr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.26733300
+_cell_length_b   4.26733294
+_cell_length_c   6.97206900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999274
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2Be8CoIr
+_chemical_formula_sum   'Mn2 Be8 Co1 Ir1'
+_cell_volume   109.95257433
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.666667  0.333333  0.945479  1
+  Mn  Mn1  1  0.333333  0.666667  0.429434  1
+  Be  Be2  1  0.000000  0.000000  0.001094  1
+  Be  Be3  1  0.000000  0.000000  0.498926  1
+  Be  Be4  1  0.830618  0.661236  0.247693  1
+  Be  Be5  1  0.169567  0.830433  0.751955  1
+  Be  Be6  1  0.660867  0.830433  0.751955  1
+  Be  Be7  1  0.338764  0.169382  0.247693  1
+  Be  Be8  1  0.830618  0.169382  0.247693  1
+  Be  Be9  1  0.169567  0.339133  0.751955  1
+  Co  Co10  1  0.333333  0.666667  0.061296  1
+  Ir  Ir11  1  0.666667  0.333333  0.564825  1

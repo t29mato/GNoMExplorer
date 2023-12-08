@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_HgPtBr6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.93624000
+_cell_length_b   6.93623959
+_cell_length_c   13.46923300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001148
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HgPtBr6
+_chemical_formula_sum   'Hg2 Pt2 Br12'
+_cell_volume   561.20514659
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.000000  0.000000  0.250000  1
+  Hg  Hg1  1  0.000000  0.000000  0.750000  1
+  Pt  Pt2  1  0.333333  0.666667  0.250000  1
+  Pt  Pt3  1  0.666667  0.333333  0.750000  1
+  Br  Br4  1  0.625802  0.957946  0.140857  1
+  Br  Br5  1  0.042054  0.667857  0.140857  1
+  Br  Br6  1  0.332143  0.374198  0.140857  1
+  Br  Br7  1  0.042054  0.374198  0.359143  1
+  Br  Br8  1  0.374198  0.332143  0.640857  1
+  Br  Br9  1  0.667857  0.042054  0.640857  1
+  Br  Br10  1  0.957946  0.625802  0.640857  1
+  Br  Br11  1  0.667857  0.625802  0.859143  1
+  Br  Br12  1  0.957946  0.332143  0.859143  1
+  Br  Br13  1  0.374198  0.042054  0.859143  1
+  Br  Br14  1  0.625802  0.667857  0.359143  1
+  Br  Br15  1  0.332143  0.957946  0.359143  1

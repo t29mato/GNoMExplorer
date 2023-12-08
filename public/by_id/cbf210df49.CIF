@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Sr2CeCu7(Ni3B)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.16361505
+_cell_length_b   5.16552987
+_cell_length_c   11.02889903
+_cell_angle_alpha   89.99806010
+_cell_angle_beta   90.00388123
+_cell_angle_gamma   119.98773201
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2CeCu7(Ni3B)2
+_chemical_formula_sum   'Sr2 Ce1 Cu7 Ni6 B2'
+_cell_volume   254.79165582
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.000059  0.000000  0.318494  1
+  Sr  Sr1  1  0.999845  0.000000  0.681577  1
+  Ce  Ce2  1  0.000067  0.000000  0.000025  1
+  Cu  Cu3  1  0.499921  0.000000  0.499993  1
+  Cu  Cu4  1  0.499911  0.499998  0.499997  1
+  Cu  Cu5  1  0.999913  0.500002  0.499997  1
+  Cu  Cu6  1  0.333900  0.667675  0.312677  1
+  Cu  Cu7  1  0.666225  0.332325  0.312677  1
+  Cu  Cu8  1  0.666004  0.332330  0.687293  1
+  Cu  Cu9  1  0.333674  0.667670  0.687293  1
+  Ni  Ni10  1  0.500117  0.000000  0.125728  1
+  Ni  Ni11  1  0.500111  0.500008  0.125871  1
+  Ni  Ni12  1  0.000103  0.499992  0.125871  1
+  Ni  Ni13  1  0.499972  0.000000  0.874262  1
+  Ni  Ni14  1  0.499983  0.499993  0.874133  1
+  Ni  Ni15  1  0.999990  0.500007  0.874133  1
+  B  B16  1  0.333186  0.666267  0.999988  1
+  B  B17  1  0.666919  0.333733  0.999988  1

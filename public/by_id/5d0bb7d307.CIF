@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_TbPa5(AlPt)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.05999781
+_cell_length_b   7.05917907
+_cell_length_c   8.36310800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.27068196
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbPa5(AlPt)6
+_chemical_formula_sum   'Tb1 Pa5 Al6 Pt6'
+_cell_volume   359.96979385
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.415158  0.415254  0.250000  1
+  Pa  Pa1  1  0.999049  0.579494  0.750000  1
+  Pa  Pa2  1  0.001538  0.577460  0.250000  1
+  Pa  Pa3  1  0.577937  0.002034  0.250000  1
+  Pa  Pa4  1  0.579658  0.998697  0.750000  1
+  Pa  Pa5  1  0.426516  0.426949  0.750000  1
+  Al  Al6  1  0.003051  0.238657  0.498890  1
+  Al  Al7  1  0.758559  0.758632  0.001122  1
+  Al  Al8  1  0.003051  0.238657  0.001110  1
+  Al  Al9  1  0.239125  0.003357  0.498846  1
+  Al  Al10  1  0.239125  0.003357  0.001154  1
+  Al  Al11  1  0.758559  0.758632  0.498878  1
+  Pt  Pt12  1  0.331097  0.672806  0.501634  1
+  Pt  Pt13  1  0.672788  0.331615  0.501945  1
+  Pt  Pt14  1  0.672788  0.331615  0.998055  1
+  Pt  Pt15  1  0.988858  0.988543  0.250000  1
+  Pt  Pt16  1  0.002046  0.001434  0.750000  1
+  Pt  Pt17  1  0.331097  0.672806  0.998366  1

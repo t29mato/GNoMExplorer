@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_TaNb5Ga4(CuC)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.30544791
+_cell_length_b   8.31389082
+_cell_length_c   8.30545315
+_cell_angle_alpha   60.01183122
+_cell_angle_beta   59.99320034
+_cell_angle_gamma   60.01178476
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaNb5Ga4(CuC)2
+_chemical_formula_sum   'Ta2 Nb10 Ga8 Cu4 C4'
+_cell_volume   405.57471239
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.682661  0.317364  0.682661  1
+  Ta  Ta1  1  0.932205  0.567805  0.932205  1
+  Nb  Nb2  1  0.566508  0.933485  0.566508  1
+  Nb  Nb3  1  0.315733  0.684280  0.684624  1
+  Nb  Nb4  1  0.684606  0.315424  0.315753  1
+  Nb  Nb5  1  0.317050  0.682959  0.317050  1
+  Nb  Nb6  1  0.684624  0.684280  0.315732  1
+  Nb  Nb7  1  0.315753  0.315424  0.684606  1
+  Nb  Nb8  1  0.566029  0.565086  0.934425  1
+  Nb  Nb9  1  0.934424  0.565086  0.566029  1
+  Nb  Nb10  1  0.566088  0.934411  0.934383  1
+  Nb  Nb11  1  0.934383  0.934411  0.566088  1
+  Ga  Ga12  1  0.915228  0.915229  0.915227  1
+  Ga  Ga13  1  0.995468  0.334850  0.334890  1
+  Ga  Ga14  1  0.335051  0.995425  0.335052  1
+  Ga  Ga15  1  0.334889  0.334850  0.995468  1
+  Ga  Ga16  1  0.915220  0.254348  0.915219  1
+  Ga  Ga17  1  0.915448  0.914950  0.254777  1
+  Ga  Ga18  1  0.254777  0.914950  0.915447  1
+  Ga  Ga19  1  0.335126  0.334467  0.335127  1
+  Cu  Cu20  1  0.124181  0.126878  0.124181  1
+  Cu  Cu21  1  0.625379  0.125725  0.122738  1
+  Cu  Cu22  1  0.124252  0.624751  0.124252  1
+  Cu  Cu23  1  0.122738  0.125725  0.625379  1
+  C  C24  1  0.625535  0.623352  0.625535  1
+  C  C25  1  0.124427  0.624463  0.626667  1
+  C  C26  1  0.625550  0.125562  0.625550  1
+  C  C27  1  0.626667  0.624463  0.124427  1

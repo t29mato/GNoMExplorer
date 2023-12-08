@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_LiNd3Tl(InPt)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.89963364
+_cell_length_b   7.93708454
+_cell_length_c   3.95007300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.15695214
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiNd3Tl(InPt)2
+_chemical_formula_sum   'Li1 Nd3 Tl1 In2 Pt2'
+_cell_volume   214.14832169
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.000000  0.999301  0.500000  1
+  Nd  Nd1  1  0.000000  0.579954  0.500000  1
+  Nd  Nd2  1  0.579360  0.999818  0.500000  1
+  Nd  Nd3  1  0.420640  0.420457  0.500000  1
+  Tl  Tl4  1  0.000000  0.245672  0.000000  1
+  In  In5  1  0.248107  0.997075  0.000000  1
+  In  In6  1  0.751893  0.748968  0.000000  1
+  Pt  Pt7  1  0.660103  0.334428  0.000000  1
+  Pt  Pt8  1  0.339897  0.674326  0.000000  1

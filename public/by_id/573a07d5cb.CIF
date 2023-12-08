@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_LuSiTc4P
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.35001402
+_cell_length_b   7.35001402
+_cell_length_c   4.02538500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   89.77616477
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuSiTc4P
+_chemical_formula_sum   'Lu2 Si2 Tc8 P2'
+_cell_volume   217.46053144
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.500000  0.500000  0.000000  1
+  Lu  Lu1  1  0.000000  0.000000  0.500000  1
+  Si  Si2  1  0.709788  0.709788  0.500000  1
+  Si  Si3  1  0.290212  0.290212  0.500000  1
+  Tc  Tc4  1  0.156007  0.592724  0.500000  1
+  Tc  Tc5  1  0.843993  0.407276  0.500000  1
+  Tc  Tc6  1  0.337535  0.084557  0.000000  1
+  Tc  Tc7  1  0.662465  0.915443  0.000000  1
+  Tc  Tc8  1  0.592724  0.156007  0.500000  1
+  Tc  Tc9  1  0.407276  0.843993  0.500000  1
+  Tc  Tc10  1  0.084557  0.337535  0.000000  1
+  Tc  Tc11  1  0.915443  0.662465  0.000000  1
+  P  P12  1  0.792715  0.207285  0.000000  1
+  P  P13  1  0.207285  0.792715  0.000000  1

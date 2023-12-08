@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Tb3Y(Ir3Rh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.26961423
+_cell_length_b   9.26961502
+_cell_length_c   9.26219499
+_cell_angle_alpha   33.69461519
+_cell_angle_beta   33.69460897
+_cell_angle_gamma   33.65269123
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb3Y(Ir3Rh)2
+_chemical_formula_sum   'Tb3 Y1 Ir6 Rh2'
+_cell_volume   218.05706565
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.186929  0.186929  0.188676  1
+  Tb  Tb1  1  0.813065  0.813065  0.811363  1
+  Tb  Tb2  1  0.313166  0.313166  0.311321  1
+  Y  Y3  1  0.687015  0.687015  0.688340  1
+  Ir  Ir4  1  0.999974  0.999974  0.000023  1
+  Ir  Ir5  1  0.499990  0.499990  0.499986  1
+  Ir  Ir6  1  0.749740  0.249960  0.250068  1
+  Ir  Ir7  1  0.250117  0.750083  0.750045  1
+  Ir  Ir8  1  0.249960  0.749740  0.250068  1
+  Ir  Ir9  1  0.750083  0.250117  0.750045  1
+  Rh  Rh10  1  0.249857  0.249857  0.750190  1
+  Rh  Rh11  1  0.750104  0.750104  0.249873  1

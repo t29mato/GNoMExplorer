@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_ErTm15(HgPt)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.53264836
+_cell_length_b   9.53264828
+_cell_length_c   9.53264800
+_cell_angle_alpha   59.99923802
+_cell_angle_beta   59.99924089
+_cell_angle_gamma   59.99923861
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErTm15(HgPt)4
+_chemical_formula_sum   'Er1 Tm15 Hg4 Pt4'
+_cell_volume   612.51708892
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.355261  0.355261  0.355261  1
+  Tm  Tm1  1  0.355234  0.355234  0.934322  1
+  Tm  Tm2  1  0.355234  0.934322  0.355234  1
+  Tm  Tm3  1  0.934322  0.355234  0.355234  1
+  Tm  Tm4  1  0.810786  0.189243  0.189243  1
+  Tm  Tm5  1  0.189281  0.810726  0.810726  1
+  Tm  Tm6  1  0.189243  0.810786  0.189243  1
+  Tm  Tm7  1  0.810726  0.189281  0.810726  1
+  Tm  Tm8  1  0.189243  0.189243  0.810786  1
+  Tm  Tm9  1  0.810726  0.810726  0.189281  1
+  Tm  Tm10  1  0.935685  0.564290  0.564290  1
+  Tm  Tm11  1  0.564257  0.935729  0.935729  1
+  Tm  Tm12  1  0.564290  0.935685  0.564290  1
+  Tm  Tm13  1  0.935729  0.564257  0.935729  1
+  Tm  Tm14  1  0.564290  0.564290  0.935685  1
+  Tm  Tm15  1  0.935729  0.935729  0.564257  1
+  Hg  Hg16  1  0.586712  0.586712  0.586712  1
+  Hg  Hg17  1  0.586752  0.586752  0.239851  1
+  Hg  Hg18  1  0.586752  0.239851  0.586752  1
+  Hg  Hg19  1  0.239851  0.586752  0.586752  1
+  Pt  Pt20  1  0.144214  0.144214  0.144214  1
+  Pt  Pt21  1  0.144106  0.144106  0.567474  1
+  Pt  Pt22  1  0.144106  0.567474  0.144106  1
+  Pt  Pt23  1  0.567474  0.144106  0.144106  1

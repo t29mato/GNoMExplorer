@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_PrEu(CoC2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.81505581
+_cell_length_b   3.82188808
+_cell_length_c   7.38735133
+_cell_angle_alpha   81.56513246
+_cell_angle_beta   81.97293397
+_cell_angle_gamma   90.02900572
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrEu(CoC2)2
+_chemical_formula_sum   'Pr1 Eu1 Co2 C4'
+_cell_volume   105.47961243
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.928317  0.073682  0.501971  1
+  Eu  Eu1  1  0.070048  0.927751  0.000505  1
+  Co  Co2  1  0.373450  0.513014  0.694350  1
+  Co  Co3  1  0.513236  0.371234  0.194747  1
+  C  C4  1  0.443603  0.594556  0.425858  1
+  C  C5  1  0.594642  0.444161  0.927396  1
+  C  C6  1  0.491049  0.852507  0.273048  1
+  C  C7  1  0.852654  0.490093  0.775924  1

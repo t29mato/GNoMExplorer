@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ba2GaPtI
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.54138700
+_cell_length_b   4.54138731
+_cell_length_c   19.51277000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001961
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2GaPtI
+_chemical_formula_sum   'Ba4 Ga2 Pt2 I2'
+_cell_volume   348.51905331
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.000000  0.000000  0.386453  1
+  Ba  Ba1  1  0.000000  0.000000  0.886453  1
+  Ba  Ba2  1  0.000000  0.000000  0.614172  1
+  Ba  Ba3  1  0.000000  0.000000  0.114172  1
+  Ga  Ga4  1  0.333333  0.666667  0.501086  1
+  Ga  Ga5  1  0.666667  0.333333  0.001086  1
+  Pt  Pt6  1  0.666667  0.333333  0.499109  1
+  Pt  Pt7  1  0.333333  0.666667  0.999109  1
+  I  I8  1  0.333333  0.666667  0.249180  1
+  I  I9  1  0.666667  0.333333  0.749180  1

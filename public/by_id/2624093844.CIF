@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ti3MoP4IrRu3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.76502600
+_cell_length_b   6.22392193
+_cell_length_c   7.10634373
+_cell_angle_alpha   89.98689425
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3MoP4IrRu3
+_chemical_formula_sum   'Ti3 Mo1 P4 Ir1 Ru3'
+_cell_volume   166.52456785
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.250000  0.027405  0.175212  1
+  Ti  Ti1  1  0.250000  0.524455  0.326601  1
+  Ti  Ti2  1  0.750000  0.974862  0.821186  1
+  Mo  Mo3  1  0.750000  0.475986  0.671576  1
+  P  P4  1  0.250000  0.763324  0.629413  1
+  P  P5  1  0.250000  0.269363  0.874250  1
+  P  P6  1  0.750000  0.240759  0.381600  1
+  P  P7  1  0.750000  0.733606  0.119240  1
+  Ir  Ir8  1  0.750000  0.849558  0.433450  1
+  Ru  Ru9  1  0.250000  0.142068  0.563442  1
+  Ru  Ru10  1  0.250000  0.649472  0.942361  1
+  Ru  Ru11  1  0.750000  0.349143  0.061670  1

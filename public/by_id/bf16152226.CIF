@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Li2Dy13Lu3(InRh2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.60326372
+_cell_length_b   9.64705383
+_cell_length_c   9.61143430
+_cell_angle_alpha   59.87733024
+_cell_angle_beta   60.01039903
+_cell_angle_gamma   59.84903788
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Dy13Lu3(InRh2)2
+_chemical_formula_sum   'Li2 Dy13 Lu3 In2 Rh4'
+_cell_volume   628.37583366
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.925501  0.927583  0.219334  1
+  Li  Li1  1  0.219161  0.927505  0.925830  1
+  Dy  Dy2  1  0.936582  0.935895  0.561983  1
+  Dy  Dy3  1  0.147886  0.152008  0.548097  1
+  Dy  Dy4  1  0.562602  0.938630  0.560138  1
+  Dy  Dy5  1  0.150557  0.153942  0.152555  1
+  Dy  Dy6  1  0.313764  0.312243  0.687727  1
+  Dy  Dy7  1  0.936582  0.565541  0.561983  1
+  Dy  Dy8  1  0.562142  0.564255  0.939110  1
+  Dy  Dy9  1  0.562142  0.934494  0.939110  1
+  Dy  Dy10  1  0.933857  0.564560  0.937024  1
+  Dy  Dy11  1  0.150557  0.542945  0.152555  1
+  Dy  Dy12  1  0.313764  0.686265  0.687727  1
+  Dy  Dy13  1  0.692203  0.308940  0.689918  1
+  Dy  Dy14  1  0.550809  0.150024  0.149142  1
+  Lu  Lu15  1  0.687961  0.314609  0.312402  1
+  Lu  Lu16  1  0.687961  0.685028  0.312402  1
+  Lu  Lu17  1  0.318856  0.682357  0.316429  1
+  In  In18  1  0.920940  0.243419  0.921074  1
+  In  In19  1  0.920940  0.914566  0.921074  1
+  Rh  Rh20  1  0.360580  0.356783  0.358637  1
+  Rh  Rh21  1  0.924700  0.358199  0.358904  1
+  Rh  Rh22  1  0.359374  0.356208  0.928212  1
+  Rh  Rh23  1  0.360580  0.924002  0.358637  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Nd7Th9(CdTc)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.91347170
+_cell_length_b   9.91347181
+_cell_length_c   9.91411500
+_cell_angle_alpha   59.99785041
+_cell_angle_beta   59.99785005
+_cell_angle_gamma   60.84889386
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd7Th9(CdTc)4
+_chemical_formula_sum   'Nd7 Th9 Cd4 Tc4'
+_cell_volume   693.24247714
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.054664  0.054664  0.445336  1
+  Nd  Nd1  1  0.191723  0.809199  0.812587  1
+  Nd  Nd2  1  0.809199  0.191723  0.186492  1
+  Nd  Nd3  1  0.809199  0.191723  0.812587  1
+  Nd  Nd4  1  0.191723  0.809199  0.186492  1
+  Nd  Nd5  1  0.810807  0.810807  0.189193  1
+  Nd  Nd6  1  0.190801  0.190801  0.809199  1
+  Th  Th7  1  0.596175  0.596175  0.597599  1
+  Th  Th8  1  0.596175  0.596175  0.210051  1
+  Th  Th9  1  0.597667  0.212267  0.595033  1
+  Th  Th10  1  0.212267  0.597667  0.595033  1
+  Th  Th11  1  0.058855  0.437286  0.439488  1
+  Th  Th12  1  0.437286  0.058855  0.064370  1
+  Th  Th13  1  0.437286  0.058855  0.439488  1
+  Th  Th14  1  0.058855  0.437286  0.064370  1
+  Th  Th15  1  0.437171  0.437171  0.062829  1
+  Cd  Cd16  1  0.830247  0.830247  0.829096  1
+  Cd  Cd17  1  0.830247  0.830247  0.510411  1
+  Cd  Cd18  1  0.830970  0.508428  0.830301  1
+  Cd  Cd19  1  0.508428  0.830970  0.830301  1
+  Tc  Tc20  1  0.385843  0.385843  0.389993  1
+  Tc  Tc21  1  0.385843  0.385843  0.838321  1
+  Tc  Tc22  1  0.406133  0.832437  0.380715  1
+  Tc  Tc23  1  0.832437  0.406133  0.380715  1

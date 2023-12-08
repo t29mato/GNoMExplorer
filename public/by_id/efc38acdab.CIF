@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ho2MnS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.81859376
+_cell_length_b   7.81858247
+_cell_length_c   7.81850900
+_cell_angle_alpha   60.00030663
+_cell_angle_beta   60.00035439
+_cell_angle_gamma   60.00048462
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2MnS4
+_chemical_formula_sum   'Ho4 Mn2 S8'
+_cell_volume   337.96316854
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.625601  0.124805  0.124797  1
+  Ho  Ho1  1  0.124808  0.625588  0.124803  1
+  Ho  Ho2  1  0.124793  0.124801  0.625594  1
+  Ho  Ho3  1  0.124793  0.124801  0.124813  1
+  Mn  Mn4  1  0.749995  0.750006  0.749999  1
+  Mn  Mn5  1  0.500002  0.499999  0.500000  1
+  S  S6  1  0.885086  0.371636  0.371638  1
+  S  S7  1  0.371637  0.885090  0.371636  1
+  S  S8  1  0.371641  0.371636  0.885086  1
+  S  S9  1  0.371641  0.371636  0.371636  1
+  S  S10  1  0.365705  0.878098  0.878099  1
+  S  S11  1  0.878101  0.365700  0.878100  1
+  S  S12  1  0.878099  0.878102  0.365705  1
+  S  S13  1  0.878099  0.878102  0.878095  1

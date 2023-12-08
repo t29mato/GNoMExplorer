@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_LiYb2ZnSi3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.42301702
+_cell_length_b   9.42301693
+_cell_length_c   6.78141900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   153.52768075
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiYb2ZnSi3
+_chemical_formula_sum   'Li2 Yb4 Zn2 Si6'
+_cell_volume   268.41506145
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.812439  0.187561  0.940555  1
+  Li  Li1  1  0.187561  0.812439  0.440555  1
+  Yb  Yb2  1  0.445640  0.554360  0.754723  1
+  Yb  Yb3  1  0.554360  0.445640  0.254723  1
+  Yb  Yb4  1  0.656993  0.343007  0.742969  1
+  Yb  Yb5  1  0.343007  0.656993  0.242969  1
+  Zn  Zn6  1  0.192352  0.807648  0.051995  1
+  Zn  Zn7  1  0.807648  0.192352  0.551995  1
+  Si  Si8  1  0.277620  0.722380  0.749176  1
+  Si  Si9  1  0.722380  0.277620  0.249176  1
+  Si  Si10  1  0.940610  0.059390  0.428766  1
+  Si  Si11  1  0.055298  0.944702  0.581819  1
+  Si  Si12  1  0.944702  0.055298  0.081819  1
+  Si  Si13  1  0.059390  0.940610  0.928766  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_TiMn2(GaCo2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.07492810
+_cell_length_b   5.78608100
+_cell_length_c   12.22816330
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.02544142
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiMn2(GaCo2)3
+_chemical_formula_sum   'Ti2 Mn4 Ga6 Co12'
+_cell_volume   288.31394358
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.999994  0.000000  0.998645  1
+  Ti  Ti1  1  0.500075  0.500001  0.168020  1
+  Mn  Mn2  1  0.000141  0.000000  0.335770  1
+  Mn  Mn3  1  0.500026  0.500001  0.500568  1
+  Mn  Mn4  1  0.999883  0.000000  0.666098  1
+  Mn  Mn5  1  0.499920  0.500001  0.830912  1
+  Ga  Ga6  1  0.999909  0.500001  0.998180  1
+  Ga  Ga7  1  0.500181  0.000000  0.168446  1
+  Ga  Ga8  1  0.000198  0.500001  0.336836  1
+  Ga  Ga9  1  0.499997  0.000000  0.501112  1
+  Ga  Ga10  1  0.999853  0.500001  0.665464  1
+  Ga  Ga11  1  0.499830  0.000000  0.829928  1
+  Co  Co12  1  0.499941  0.251392  0.999112  1
+  Co  Co13  1  0.499941  0.748608  0.999112  1
+  Co  Co14  1  0.000134  0.248658  0.167570  1
+  Co  Co15  1  0.000134  0.751342  0.167570  1
+  Co  Co16  1  0.500173  0.249355  0.333566  1
+  Co  Co17  1  0.500173  0.750645  0.333566  1
+  Co  Co18  1  0.000009  0.249095  0.500234  1
+  Co  Co19  1  0.000009  0.750906  0.500234  1
+  Co  Co20  1  0.499869  0.250846  0.666436  1
+  Co  Co21  1  0.499869  0.749154  0.666436  1
+  Co  Co22  1  0.999871  0.250685  0.833090  1
+  Co  Co23  1  0.999871  0.749315  0.833090  1

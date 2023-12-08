@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_EuCrFeB6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47999570
+_cell_length_b   5.47999598
+_cell_length_c   5.47999669
+_cell_angle_alpha   147.03250867
+_cell_angle_beta   107.95627443
+_cell_angle_gamma   81.53121666
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuCrFeB6
+_chemical_formula_sum   'Eu1 Cr1 Fe1 B6'
+_cell_volume   83.19380816
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.001039  0.001039  0.000000  1
+  Cr  Cr1  1  0.343130  0.843131  0.500000  1
+  Fe  Fe2  1  0.653879  0.153879  0.500000  1
+  B  B3  1  0.541050  0.302369  0.238680  1
+  B  B4  1  0.464691  0.697331  0.767360  1
+  B  B5  1  0.929970  0.697331  0.232640  1
+  B  B6  1  0.363278  0.501276  0.862002  1
+  B  B7  1  0.639274  0.501276  0.137998  1
+  B  B8  1  0.063689  0.302369  0.761320  1

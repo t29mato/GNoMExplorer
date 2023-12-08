@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ti3Mn2CrP3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.31217100
+_cell_length_b   6.27681350
+_cell_length_c   3.32190200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.18650958
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3Mn2CrP3
+_chemical_formula_sum   'Ti3 Mn2 Cr1 P3'
+_cell_volume   113.76695801
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.590842  0.000000  0.000000  1
+  Ti  Ti1  1  0.002581  0.593611  0.000000  1
+  Ti  Ti2  1  0.408970  0.406389  0.000000  1
+  Mn  Mn3  1  0.999666  0.249530  0.500000  1
+  Mn  Mn4  1  0.750135  0.750470  0.500000  1
+  Cr  Cr5  1  0.249227  0.000000  0.500000  1
+  P  P6  1  0.334428  0.664290  0.500000  1
+  P  P7  1  0.670139  0.335710  0.500000  1
+  P  P8  1  0.994012  0.000000  0.000000  1

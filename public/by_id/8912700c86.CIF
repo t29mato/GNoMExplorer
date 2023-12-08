@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ho3Al3Ga2Fe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.89573300
+_cell_length_b   6.89573329
+_cell_length_c   4.28054000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000341
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho3Al3Ga2Fe
+_chemical_formula_sum   'Ho3 Al3 Ga2 Fe1'
+_cell_volume   176.27473461
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.406665  0.000000  0.000000  1
+  Ho  Ho1  1  0.000000  0.406664  0.000000  1
+  Ho  Ho2  1  0.593335  0.593335  0.000000  1
+  Al  Al3  1  0.773406  0.000000  0.499999  1
+  Al  Al4  1  0.226593  0.226594  0.499999  1
+  Al  Al5  1  0.000000  0.773407  0.499999  1
+  Ga  Ga6  1  0.666666  0.333334  0.499999  1
+  Ga  Ga7  1  0.333334  0.666667  0.499999  1
+  Fe  Fe8  1  0.000000  0.000000  0.000000  1

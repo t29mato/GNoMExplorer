@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ba3In2(BiAs)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.58201548
+_cell_length_b   9.58201445
+_cell_length_c   7.55893480
+_cell_angle_alpha   89.60554483
+_cell_angle_beta   89.60554552
+_cell_angle_gamma   75.64093218
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3In2(BiAs)2
+_chemical_formula_sum   'Ba6 In4 Bi4 As4'
+_cell_volume   672.31724692
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.001278  0.732040  0.535146  1
+  Ba  Ba1  1  0.267960  0.998722  0.964854  1
+  Ba  Ba2  1  0.998722  0.267960  0.464854  1
+  Ba  Ba3  1  0.732040  0.001278  0.035146  1
+  Ba  Ba4  1  0.416510  0.583490  0.250000  1
+  Ba  Ba5  1  0.583490  0.416510  0.750000  1
+  In  In6  1  0.813129  0.588193  0.091045  1
+  In  In7  1  0.411807  0.186871  0.408955  1
+  In  In8  1  0.186871  0.411807  0.908955  1
+  In  In9  1  0.588193  0.813129  0.591045  1
+  Bi  Bi10  1  0.064803  0.717235  0.029248  1
+  Bi  Bi11  1  0.282765  0.935197  0.470752  1
+  Bi  Bi12  1  0.935197  0.282765  0.970752  1
+  Bi  Bi13  1  0.717235  0.064803  0.529248  1
+  As  As14  1  0.741123  0.565638  0.436229  1
+  As  As15  1  0.434362  0.258877  0.063771  1
+  As  As16  1  0.258877  0.434362  0.563771  1
+  As  As17  1  0.565638  0.741123  0.936229  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ce4Tm5Lu(AgPb3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.44199501
+_cell_length_b   9.44287643
+_cell_length_c   6.38801900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00308719
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce4Tm5Lu(AgPb3)2
+_chemical_formula_sum   'Ce4 Tm5 Lu1 Ag2 Pb6'
+_cell_volume   493.23216815
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.666759  0.333464  0.500040  1
+  Ce  Ce1  1  0.333241  0.666706  0.500040  1
+  Ce  Ce2  1  0.333241  0.666706  0.999960  1
+  Ce  Ce3  1  0.666759  0.333464  0.999960  1
+  Tm  Tm4  1  0.724807  0.724810  0.250000  1
+  Tm  Tm5  1  0.275193  0.000003  0.250000  1
+  Tm  Tm6  1  0.000000  0.274925  0.250000  1
+  Tm  Tm7  1  0.275257  0.275435  0.750000  1
+  Tm  Tm8  1  0.724743  0.000178  0.750000  1
+  Lu  Lu9  1  0.000000  0.724915  0.750000  1
+  Ag  Ag10  1  0.000000  0.999402  0.500643  1
+  Ag  Ag11  1  0.000000  0.999402  0.999357  1
+  Pb  Pb12  1  0.372068  0.372108  0.250000  1
+  Pb  Pb13  1  0.627932  0.000040  0.250000  1
+  Pb  Pb14  1  0.000000  0.628010  0.250000  1
+  Pb  Pb15  1  0.628392  0.628145  0.750000  1
+  Pb  Pb16  1  0.371608  0.999753  0.750000  1
+  Pb  Pb17  1  0.000000  0.372535  0.750000  1

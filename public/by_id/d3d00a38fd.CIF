@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ta3Nb7N12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.25090600
+_cell_length_b   5.25090601
+_cell_length_c   10.45389300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999994
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta3Nb7N12
+_chemical_formula_sum   'Ta3 Nb7 N12'
+_cell_volume   249.61873092
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.333333  0.666667  0.000000  1
+  Ta  Ta1  1  0.333333  0.666667  0.500000  1
+  Ta  Ta2  1  0.666667  0.333333  0.500000  1
+  Nb  Nb3  1  0.676754  0.675443  0.749928  1
+  Nb  Nb4  1  0.324557  0.001311  0.749928  1
+  Nb  Nb5  1  0.998689  0.323246  0.749928  1
+  Nb  Nb6  1  0.324557  0.323246  0.250072  1
+  Nb  Nb7  1  0.676754  0.001311  0.250072  1
+  Nb  Nb8  1  0.998689  0.675443  0.250072  1
+  Nb  Nb9  1  0.666667  0.333333  0.000000  1
+  N  N10  1  0.658262  0.658080  0.380722  1
+  N  N11  1  0.341920  0.000182  0.380722  1
+  N  N12  1  0.999818  0.341738  0.380722  1
+  N  N13  1  0.341920  0.341738  0.619278  1
+  N  N14  1  0.658262  0.000182  0.619278  1
+  N  N15  1  0.999818  0.658080  0.619278  1
+  N  N16  1  0.337860  0.342532  0.878011  1
+  N  N17  1  0.657468  0.995328  0.878011  1
+  N  N18  1  0.004672  0.662140  0.878011  1
+  N  N19  1  0.657468  0.662140  0.121989  1
+  N  N20  1  0.337860  0.995328  0.121989  1
+  N  N21  1  0.004672  0.342532  0.121989  1

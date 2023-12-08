@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CePr4Si2Sn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.92862900
+_cell_length_b   9.25597184
+_cell_length_c   7.92862900
+_cell_angle_alpha   115.35960063
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   115.35960063
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CePr4Si2Sn
+_chemical_formula_sum   'Ce2 Pr8 Si4 Sn2'
+_cell_volume   462.97948804
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.000000  0.000000  0.000000  1
+  Ce  Ce1  1  0.500000  0.000000  0.500000  1
+  Pr  Pr2  1  0.540408  0.726755  0.686350  1
+  Pr  Pr3  1  0.186350  0.726755  0.040408  1
+  Pr  Pr4  1  0.686350  0.726755  0.186350  1
+  Pr  Pr5  1  0.040408  0.726755  0.540408  1
+  Pr  Pr6  1  0.459592  0.273245  0.313650  1
+  Pr  Pr7  1  0.813650  0.273245  0.959592  1
+  Pr  Pr8  1  0.313650  0.273245  0.813650  1
+  Pr  Pr9  1  0.959592  0.273245  0.459592  1
+  Si  Si10  1  0.883303  0.000000  0.616697  1
+  Si  Si11  1  0.116697  0.000000  0.383303  1
+  Si  Si12  1  0.616697  0.000000  0.116697  1
+  Si  Si13  1  0.383303  0.000000  0.883303  1
+  Sn  Sn14  1  0.750000  0.500000  0.750000  1
+  Sn  Sn15  1  0.250000  0.500000  0.250000  1

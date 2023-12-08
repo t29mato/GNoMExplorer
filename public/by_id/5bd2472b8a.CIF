@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Nb4Al4V3Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.00760727
+_cell_length_b   5.11951683
+_cell_length_c   8.55343000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.74810061
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb4Al4V3Pt
+_chemical_formula_sum   'Nb4 Al4 V3 Pt1'
+_cell_volume   188.45457964
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.673974  0.336966  0.553377  1
+  Nb  Nb1  1  0.321947  0.661047  0.435636  1
+  Nb  Nb2  1  0.321947  0.661047  0.064364  1
+  Nb  Nb3  1  0.673974  0.336966  0.946623  1
+  Al  Al4  1  0.993012  0.996395  0.498809  1
+  Al  Al5  1  0.993012  0.996395  0.001191  1
+  Al  Al6  1  0.182577  0.347763  0.750000  1
+  Al  Al7  1  0.182563  0.834778  0.750000  1
+  V  V8  1  0.820358  0.652097  0.250000  1
+  V  V9  1  0.820359  0.168259  0.250000  1
+  V  V10  1  0.340020  0.170129  0.250000  1
+  Pt  Pt11  1  0.676257  0.838159  0.750000  1

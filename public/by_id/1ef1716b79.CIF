@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Li3Pr3HgGeP
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.43030100
+_cell_length_b   7.43030088
+_cell_length_c   4.31339400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000497
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3Pr3HgGeP
+_chemical_formula_sum   'Li3 Pr3 Hg1 Ge1 P1'
+_cell_volume   206.23508384
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.747129  0.750169  0.500000  1
+  Li  Li1  1  0.249831  0.996961  0.500000  1
+  Li  Li2  1  0.003039  0.252871  0.500000  1
+  Pr  Pr3  1  0.001686  0.576124  0.000000  1
+  Pr  Pr4  1  0.423876  0.425562  0.000000  1
+  Pr  Pr5  1  0.574438  0.998314  0.000000  1
+  Hg  Hg6  1  0.000000  0.000000  0.000000  1
+  Ge  Ge7  1  0.666667  0.333333  0.500000  1
+  P  P8  1  0.333333  0.666667  0.500000  1

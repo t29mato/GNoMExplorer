@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ni2MoP2Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.92023900
+_cell_length_b   3.69614300
+_cell_length_c   6.90583800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ni2MoP2Pd
+_chemical_formula_sum   'Ni4 Mo2 P4 Pd2'
+_cell_volume   151.11389198
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.140526  0.250000  0.574718  1
+  Ni  Ni1  1  0.640526  0.250000  0.925282  1
+  Ni  Ni2  1  0.865384  0.750000  0.438895  1
+  Ni  Ni3  1  0.365384  0.750000  0.061105  1
+  Mo  Mo4  1  0.031203  0.250000  0.177999  1
+  Mo  Mo5  1  0.531203  0.250000  0.322001  1
+  P  P6  1  0.760008  0.250000  0.614120  1
+  P  P7  1  0.260008  0.250000  0.885880  1
+  P  P8  1  0.235860  0.750000  0.369642  1
+  P  P9  1  0.735860  0.750000  0.130358  1
+  Pd  Pd10  1  0.967021  0.750000  0.839520  1
+  Pd  Pd11  1  0.467021  0.750000  0.660480  1

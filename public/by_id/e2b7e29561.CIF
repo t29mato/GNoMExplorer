@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Sn2B(PtRh2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.78347280
+_cell_length_b   5.78347321
+_cell_length_c   5.73707800
+_cell_angle_alpha   60.26502520
+_cell_angle_beta   60.26502287
+_cell_angle_gamma   60.21907299
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sn2B(PtRh2)2
+_chemical_formula_sum   'Sn2 B1 Pt2 Rh4'
+_cell_volume   136.45860770
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.249933  0.249933  0.250252  1
+  Sn  Sn1  1  0.750067  0.750067  0.750117  1
+  B  B2  1  0.000000  0.000000  0.992142  1
+  Pt  Pt3  1  0.742138  0.257863  0.257103  1
+  Pt  Pt4  1  0.257863  0.742138  0.257103  1
+  Rh  Rh5  1  0.746495  0.746495  0.254954  1
+  Rh  Rh6  1  0.253505  0.253505  0.747945  1
+  Rh  Rh7  1  0.743766  0.256235  0.745193  1
+  Rh  Rh8  1  0.256235  0.743766  0.745193  1

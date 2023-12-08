@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_MgTi(SiRh2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.99562400
+_cell_length_b   9.08821400
+_cell_length_c   10.92097500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTi(SiRh2)4
+_chemical_formula_sum   'Mg2 Ti2 Si8 Rh16'
+_cell_volume   396.57430411
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.750000  0.873806  0.182425  1
+  Mg  Mg1  1  0.750000  0.626194  0.682425  1
+  Ti  Ti2  1  0.250000  0.119262  0.814829  1
+  Ti  Ti3  1  0.250000  0.380738  0.314829  1
+  Si  Si4  1  0.250000  0.408529  0.634515  1
+  Si  Si5  1  0.250000  0.091471  0.134515  1
+  Si  Si6  1  0.750000  0.591635  0.365244  1
+  Si  Si7  1  0.750000  0.908365  0.865244  1
+  Si  Si8  1  0.250000  0.621822  0.057773  1
+  Si  Si9  1  0.250000  0.878178  0.557773  1
+  Si  Si10  1  0.750000  0.385339  0.941025  1
+  Si  Si11  1  0.750000  0.114661  0.441025  1
+  Rh  Rh12  1  0.250000  0.614040  0.505680  1
+  Rh  Rh13  1  0.250000  0.885960  0.005680  1
+  Rh  Rh14  1  0.750000  0.376829  0.491618  1
+  Rh  Rh15  1  0.750000  0.123171  0.991618  1
+  Rh  Rh16  1  0.250000  0.697815  0.263540  1
+  Rh  Rh17  1  0.250000  0.802185  0.763540  1
+  Rh  Rh18  1  0.750000  0.282739  0.738936  1
+  Rh  Rh19  1  0.750000  0.217261  0.238936  1
+  Rh  Rh20  1  0.250000  0.168872  0.564389  1
+  Rh  Rh21  1  0.250000  0.331128  0.064389  1
+  Rh  Rh22  1  0.750000  0.832246  0.439901  1
+  Rh  Rh23  1  0.750000  0.667754  0.939901  1
+  Rh  Rh24  1  0.250000  0.017753  0.339100  1
+  Rh  Rh25  1  0.250000  0.482247  0.839100  1
+  Rh  Rh26  1  0.750000  0.995259  0.661025  1
+  Rh  Rh27  1  0.750000  0.504741  0.161025  1

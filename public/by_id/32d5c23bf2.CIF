@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_GaCoBiO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.44286100
+_cell_length_b   8.49172700
+_cell_length_c   5.75783000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaCoBiO5
+_chemical_formula_sum   'Ga4 Co4 Bi4 O20'
+_cell_volume   363.91065382
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.879543  0.147047  0.499999  1
+  Ga  Ga1  1  0.379542  0.352953  0.499999  1
+  Ga  Ga2  1  0.620458  0.647046  0.499999  1
+  Ga  Ga3  1  0.120457  0.852954  0.499999  1
+  Co  Co4  1  0.499999  0.000000  0.251244  1
+  Co  Co5  1  0.000000  0.500000  0.251244  1
+  Co  Co6  1  0.499999  0.000000  0.748756  1
+  Co  Co7  1  0.000000  0.500000  0.748756  1
+  Bi  Bi8  1  0.147526  0.168785  0.000000  1
+  Bi  Bi9  1  0.647525  0.331215  0.000000  1
+  Bi  Bi10  1  0.352475  0.668785  0.000000  1
+  Bi  Bi11  1  0.852475  0.831216  0.000000  1
+  O  O12  1  0.655668  0.058083  0.000000  1
+  O  O13  1  0.155668  0.441917  0.000000  1
+  O  O14  1  0.844332  0.558084  0.000000  1
+  O  O15  1  0.344332  0.941916  0.000000  1
+  O  O16  1  0.391444  0.202583  0.244262  1
+  O  O17  1  0.891445  0.297418  0.244262  1
+  O  O18  1  0.108555  0.702583  0.244262  1
+  O  O19  1  0.608556  0.797417  0.244262  1
+  O  O20  1  0.000000  0.000000  0.276716  1
+  O  O21  1  0.499999  0.500000  0.276716  1
+  O  O22  1  0.644518  0.074007  0.499999  1
+  O  O23  1  0.144519  0.425993  0.499999  1
+  O  O24  1  0.855482  0.574007  0.499999  1
+  O  O25  1  0.355482  0.925994  0.499999  1
+  O  O26  1  0.000000  0.000000  0.723284  1
+  O  O27  1  0.499999  0.500000  0.723284  1
+  O  O28  1  0.391444  0.202583  0.755738  1
+  O  O29  1  0.891445  0.297418  0.755738  1
+  O  O30  1  0.108555  0.702583  0.755738  1
+  O  O31  1  0.608556  0.797417  0.755738  1

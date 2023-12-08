@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_BaScCu(H6Ir)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.78932200
+_cell_length_b   4.78932328
+_cell_length_c   8.29192500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999114
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaScCu(H6Ir)2
+_chemical_formula_sum   'Ba1 Sc1 Cu1 H12 Ir2'
+_cell_volume   164.71540781
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.000000  0.000000  0.026086  1
+  Sc  Sc1  1  0.333333  0.666667  0.612779  1
+  Cu  Cu2  1  0.666667  0.333333  0.342317  1
+  H  H3  1  0.163587  0.836413  0.393362  1
+  H  H4  1  0.672826  0.836413  0.393362  1
+  H  H5  1  0.163587  0.327174  0.393362  1
+  H  H6  1  0.835287  0.164713  0.607716  1
+  H  H7  1  0.329425  0.164713  0.607716  1
+  H  H8  1  0.835287  0.670575  0.607716  1
+  H  H9  1  0.499576  0.999151  0.833592  1
+  H  H10  1  0.499576  0.500424  0.833592  1
+  H  H11  1  0.000849  0.500424  0.833592  1
+  H  H12  1  0.500504  0.001010  0.169706  1
+  H  H13  1  0.500504  0.499496  0.169706  1
+  H  H14  1  0.998990  0.499496  0.169706  1
+  Ir  Ir15  1  0.666667  0.333333  0.717813  1
+  Ir  Ir16  1  0.333333  0.666667  0.287879  1

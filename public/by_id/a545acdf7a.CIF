@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_La2Fe3CoSi4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.70147100
+_cell_length_b   5.75037753
+_cell_length_c   5.70205646
+_cell_angle_alpha   60.29692830
+_cell_angle_beta   89.99989951
+_cell_angle_gamma   89.99993037
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2Fe3CoSi4
+_chemical_formula_sum   'La2 Fe3 Co1 Si4'
+_cell_volume   162.38170310
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.499106  0.000000  0.500000  1
+  La  La1  1  0.000879  0.000000  0.999999  1
+  Fe  Fe2  1  0.750487  0.500000  0.000000  1
+  Fe  Fe3  1  0.749701  0.500001  0.500000  1
+  Fe  Fe4  1  0.250240  0.499999  0.500001  1
+  Co  Co5  1  0.249612  0.500001  0.000000  1
+  Si  Si6  1  0.501165  0.714412  0.143618  1
+  Si  Si7  1  0.998822  0.714782  0.641103  1
+  Si  Si8  1  0.998822  0.285217  0.358897  1
+  Si  Si9  1  0.501165  0.285588  0.856382  1

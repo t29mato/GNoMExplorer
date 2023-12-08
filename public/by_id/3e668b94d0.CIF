@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_TbDy(CuP2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.71061100
+_cell_length_b   3.76783300
+_cell_length_c   19.51998900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbDy(CuP2)2
+_chemical_formula_sum   'Tb2 Dy2 Cu4 P8'
+_cell_volume   272.90823569
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.250000  0.723277  0.382763  1
+  Tb  Tb1  1  0.250000  0.776723  0.882763  1
+  Dy  Dy2  1  0.750000  0.277069  0.617607  1
+  Dy  Dy3  1  0.750000  0.222931  0.117607  1
+  Cu  Cu4  1  0.250000  0.226592  0.249334  1
+  Cu  Cu5  1  0.750000  0.773539  0.749894  1
+  Cu  Cu6  1  0.250000  0.273408  0.749334  1
+  Cu  Cu7  1  0.750000  0.726461  0.249894  1
+  P  P8  1  0.750000  0.802238  0.502091  1
+  P  P9  1  0.750000  0.697762  0.002091  1
+  P  P10  1  0.250000  0.197880  0.499215  1
+  P  P11  1  0.250000  0.302120  0.999215  1
+  P  P12  1  0.250000  0.725007  0.171884  1
+  P  P13  1  0.750000  0.225014  0.327211  1
+  P  P14  1  0.750000  0.274986  0.827211  1
+  P  P15  1  0.250000  0.774993  0.671884  1

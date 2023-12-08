@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_NaLaSnI6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.72073795
+_cell_length_b   8.72071988
+_cell_length_c   8.72044165
+_cell_angle_alpha   54.97042560
+_cell_angle_beta   54.97072078
+_cell_angle_gamma   54.97024040
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLaSnI6
+_chemical_formula_sum   'Na1 La1 Sn1 I6'
+_cell_volume   414.06820891
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.670194  0.670188  0.670189  1
+  La  La1  1  0.999966  0.999964  0.000003  1
+  Sn  Sn2  1  0.330590  0.330568  0.330578  1
+  I  I3  1  0.245550  0.592769  0.918204  1
+  I  I4  1  0.592746  0.918215  0.245553  1
+  I  I5  1  0.918230  0.245546  0.592736  1
+  I  I6  1  0.747306  0.401374  0.094056  1
+  I  I7  1  0.401355  0.094064  0.747316  1
+  I  I8  1  0.094064  0.747312  0.401363  1

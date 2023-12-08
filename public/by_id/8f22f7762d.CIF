@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ta8MnSi2P
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.19900700
+_cell_length_b   6.19900700
+_cell_length_c   5.02966600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta8MnSi2P
+_chemical_formula_sum   'Ta8 Mn1 Si2 P1'
+_cell_volume   193.27843472
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.330955  0.154737  0.499294  1
+  Ta  Ta1  1  0.669045  0.845263  0.499294  1
+  Ta  Ta2  1  0.154737  0.669045  0.499294  1
+  Ta  Ta3  1  0.845263  0.330955  0.499294  1
+  Ta  Ta4  1  0.330955  0.845263  0.000706  1
+  Ta  Ta5  1  0.845263  0.669045  0.000706  1
+  Ta  Ta6  1  0.154737  0.330955  0.000706  1
+  Ta  Ta7  1  0.669045  0.154737  0.000706  1
+  Mn  Mn8  1  0.000000  0.000000  0.250000  1
+  Si  Si9  1  0.500000  0.500000  0.750000  1
+  Si  Si10  1  0.500000  0.500000  0.250000  1
+  P  P11  1  0.000000  0.000000  0.750000  1

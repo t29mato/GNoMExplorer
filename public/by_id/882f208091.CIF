@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Mn2B(Pd2Pt)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.72137763
+_cell_length_b   5.72137672
+_cell_length_c   5.74989900
+_cell_angle_alpha   59.83437270
+_cell_angle_beta   59.83437322
+_cell_angle_gamma   59.54462558
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2B(Pd2Pt)2
+_chemical_formula_sum   'Mn2 B1 Pd4 Pt2'
+_cell_volume   132.29551325
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.249994  0.249994  0.249847  1
+  Mn  Mn1  1  0.750013  0.750013  0.749772  1
+  B  B2  1  0.999996  0.999996  0.001889  1
+  Pd  Pd3  1  0.742806  0.742806  0.256435  1
+  Pd  Pd4  1  0.257194  0.257194  0.742054  1
+  Pd  Pd5  1  0.744770  0.255227  0.743454  1
+  Pd  Pd6  1  0.255227  0.744770  0.743454  1
+  Pt  Pt7  1  0.257323  0.742679  0.256548  1
+  Pt  Pt8  1  0.742679  0.257323  0.256548  1

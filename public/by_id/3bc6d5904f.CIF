@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ta4B2PW
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.21403030
+_cell_length_b   7.21403122
+_cell_length_c   7.21403103
+_cell_angle_alpha   129.63435118
+_cell_angle_beta   129.63435858
+_cell_angle_gamma   73.99198943
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta4B2PW
+_chemical_formula_sum   'Ta8 B4 P2 W2'
+_cell_volume   217.16055071
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.808177  0.308177  0.835062  1
+  Ta  Ta1  1  0.191823  0.691823  0.164938  1
+  Ta  Ta2  1  0.473114  0.973114  0.164938  1
+  Ta  Ta3  1  0.308177  0.473114  0.500000  1
+  Ta  Ta4  1  0.026886  0.191823  0.500000  1
+  Ta  Ta5  1  0.526886  0.026886  0.835062  1
+  Ta  Ta6  1  0.691823  0.526886  0.500000  1
+  Ta  Ta7  1  0.973114  0.808177  0.500000  1
+  B  B8  1  0.118564  0.618564  0.737127  1
+  B  B9  1  0.881436  0.381436  0.262873  1
+  B  B10  1  0.618564  0.881436  0.500000  1
+  B  B11  1  0.381436  0.118564  0.500000  1
+  P  P12  1  0.250000  0.250000  0.000000  1
+  P  P13  1  0.750000  0.750000  0.000000  1
+  W  W14  1  0.000000  0.000000  0.000000  1
+  W  W15  1  0.500000  0.500000  0.000000  1

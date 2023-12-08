@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ta10ZnSi4Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.58802588
+_cell_length_b   7.58802489
+_cell_length_c   7.58802498
+_cell_angle_alpha   128.40283298
+_cell_angle_beta   128.40281793
+_cell_angle_gamma   75.97337001
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta10ZnSi4Ge
+_chemical_formula_sum   'Ta10 Zn1 Si4 Ge1'
+_cell_volume   260.88722162
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.015234  0.187931  0.501866  1
+  Ta  Ta1  1  0.686065  0.513368  0.498134  1
+  Ta  Ta2  1  0.513368  0.015234  0.827303  1
+  Ta  Ta3  1  0.187931  0.686065  0.172697  1
+  Ta  Ta4  1  0.986632  0.813935  0.501866  1
+  Ta  Ta5  1  0.312069  0.484766  0.498134  1
+  Ta  Ta6  1  0.484766  0.986632  0.172697  1
+  Ta  Ta7  1  0.813935  0.312069  0.827303  1
+  Ta  Ta8  1  0.998201  0.998201  0.000000  1
+  Ta  Ta9  1  0.501799  0.501799  0.000000  1
+  Zn  Zn10  1  0.750000  0.750000  0.000000  1
+  Si  Si11  1  0.369945  0.130055  0.500000  1
+  Si  Si12  1  0.630055  0.869945  0.500000  1
+  Si  Si13  1  0.869945  0.369945  0.239890  1
+  Si  Si14  1  0.130055  0.630055  0.760110  1
+  Ge  Ge15  1  0.250000  0.250000  0.000000  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Pa5Mn6Ga
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.40763000
+_cell_length_b   5.40763004
+_cell_length_c   7.93040200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999976
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pa5Mn6Ga
+_chemical_formula_sum   'Pa5 Mn6 Ga1'
+_cell_volume   200.83517363
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.666667  0.333333  0.084451  1
+  Pa  Pa1  1  0.333333  0.666667  0.915549  1
+  Pa  Pa2  1  0.333333  0.666667  0.552854  1
+  Pa  Pa3  1  0.666667  0.333333  0.447146  1
+  Pa  Pa4  1  0.000000  0.000000  0.000000  1
+  Mn  Mn5  1  0.655120  0.827560  0.248989  1
+  Mn  Mn6  1  0.172440  0.827560  0.248989  1
+  Mn  Mn7  1  0.172440  0.344880  0.248989  1
+  Mn  Mn8  1  0.344880  0.172440  0.751011  1
+  Mn  Mn9  1  0.827560  0.172440  0.751011  1
+  Mn  Mn10  1  0.827560  0.655120  0.751011  1
+  Ga  Ga11  1  0.000000  0.000000  0.500000  1

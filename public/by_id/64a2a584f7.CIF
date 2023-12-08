@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Lu5B(RuC3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.02495012
+_cell_length_b   8.02488049
+_cell_length_c   3.41716100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   121.04002570
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu5B(RuC3)2
+_chemical_formula_sum   'Lu5 B1 Ru2 C6'
+_cell_volume   188.55129186
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.335926  0.082264  0.500000  1
+  Lu  Lu1  1  0.664074  0.917736  0.500000  1
+  Lu  Lu2  1  0.082267  0.335942  0.500000  1
+  Lu  Lu3  1  0.917733  0.664058  0.500000  1
+  Lu  Lu4  1  0.500000  0.500000  0.000000  1
+  B  B5  1  0.000000  0.000000  0.000000  1
+  Ru  Ru6  1  0.286370  0.713635  0.000000  1
+  Ru  Ru7  1  0.713630  0.286365  0.000000  1
+  C  C8  1  0.185304  0.185314  0.000000  1
+  C  C9  1  0.814696  0.814686  0.000000  1
+  C  C10  1  0.373711  0.626301  0.500000  1
+  C  C11  1  0.626289  0.373699  0.500000  1
+  C  C12  1  0.500000  0.000000  0.000000  1
+  C  C13  1  0.000000  0.500000  0.000000  1

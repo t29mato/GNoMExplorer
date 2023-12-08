@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_LaTb2Y2(FeB3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.44894333
+_cell_length_b   5.44894263
+_cell_length_c   8.29616035
+_cell_angle_alpha   70.82821837
+_cell_angle_beta   70.82821697
+_cell_angle_gamma   59.99999343
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaTb2Y2(FeB3)2
+_chemical_formula_sum   'La1 Tb2 Y2 Fe2 B6'
+_cell_volume   197.38798322
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.000000  0.000000  0.000000  1
+  Tb  Tb1  1  0.749512  0.749512  0.751465  1
+  Tb  Tb2  1  0.250488  0.250488  0.248535  1
+  Y  Y3  1  0.582608  0.582608  0.252177  1
+  Y  Y4  1  0.417392  0.417392  0.747823  1
+  Fe  Fe5  1  0.884367  0.884367  0.346898  1
+  Fe  Fe6  1  0.115633  0.115633  0.653102  1
+  B  B7  1  0.500000  0.167090  0.500000  1
+  B  B8  1  0.832910  0.500000  0.500000  1
+  B  B9  1  0.167090  0.832910  0.500000  1
+  B  B10  1  0.167090  0.500000  0.500000  1
+  B  B11  1  0.832910  0.167090  0.500000  1
+  B  B12  1  0.500000  0.832910  0.500000  1

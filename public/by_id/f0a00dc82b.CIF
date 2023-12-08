@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TmZn2InPt2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.17002100
+_cell_length_b   6.59027980
+_cell_length_c   8.17499229
+_cell_angle_alpha   93.09825825
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TmZn2InPt2
+_chemical_formula_sum   'Tm2 Zn4 In2 Pt4'
+_cell_volume   224.33352520
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.750000  0.961597  0.681814  1
+  Tm  Tm1  1  0.250000  0.038403  0.318186  1
+  Zn  Zn2  1  0.250000  0.643405  0.552675  1
+  Zn  Zn3  1  0.750000  0.356595  0.447325  1
+  Zn  Zn4  1  0.750000  0.860958  0.057219  1
+  Zn  Zn5  1  0.250000  0.139042  0.942781  1
+  In  In6  1  0.250000  0.540823  0.174187  1
+  In  In7  1  0.750000  0.459177  0.825813  1
+  Pt  Pt8  1  0.250000  0.745882  0.871097  1
+  Pt  Pt9  1  0.750000  0.254118  0.128903  1
+  Pt  Pt10  1  0.750000  0.739984  0.366611  1
+  Pt  Pt11  1  0.250000  0.260016  0.633389  1

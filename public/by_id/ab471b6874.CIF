@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_SrCeIn2Pt3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.41719900
+_cell_length_b   8.02137700
+_cell_length_c   9.15632800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCeIn2Pt3
+_chemical_formula_sum   'Sr2 Ce2 In4 Pt6'
+_cell_volume   324.42718275
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.000000  0.000000  0.275254  1
+  Sr  Sr1  1  0.500001  0.500000  0.724747  1
+  Ce  Ce2  1  0.000000  0.500000  0.350645  1
+  Ce  Ce3  1  0.500001  0.000000  0.649356  1
+  In  In4  1  0.500001  0.304210  0.109983  1
+  In  In5  1  0.500001  0.695791  0.109983  1
+  In  In6  1  0.000000  0.195790  0.890017  1
+  In  In7  1  0.000000  0.804209  0.890017  1
+  Pt  Pt8  1  0.000000  0.500000  0.028001  1
+  Pt  Pt9  1  0.500001  0.266921  0.407309  1
+  Pt  Pt10  1  0.500001  0.733079  0.407309  1
+  Pt  Pt11  1  0.000000  0.233079  0.592692  1
+  Pt  Pt12  1  0.000000  0.766921  0.592692  1
+  Pt  Pt13  1  0.500001  0.000000  0.972000  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfFe4Si4Mo3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.70115700
+_cell_length_b   6.11390980
+_cell_length_c   6.96746800
+_cell_angle_alpha   89.51130861
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfFe4Si4Mo3
+_chemical_formula_sum   'Hf1 Fe4 Si4 Mo3'
+_cell_volume   157.65789391
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.750000  0.480547  0.812624  1
+  Fe  Fe1  1  0.250000  0.150159  0.941519  1
+  Fe  Fe2  1  0.250000  0.645918  0.561112  1
+  Fe  Fe3  1  0.750000  0.858428  0.062260  1
+  Fe  Fe4  1  0.750000  0.352234  0.435128  1
+  Si  Si5  1  0.250000  0.264965  0.611335  1
+  Si  Si6  1  0.250000  0.785871  0.884490  1
+  Si  Si7  1  0.750000  0.724419  0.380812  1
+  Si  Si8  1  0.750000  0.222912  0.127263  1
+  Mo  Mo9  1  0.250000  0.016807  0.319051  1
+  Mo  Mo10  1  0.250000  0.519709  0.185648  1
+  Mo  Mo11  1  0.750000  0.978029  0.678758  1

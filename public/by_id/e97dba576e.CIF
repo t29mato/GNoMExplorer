@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Zr18TiRe7Pd2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.77308200
+_cell_length_b   8.77308210
+_cell_length_c   8.57009200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999961
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr18TiRe7Pd2
+_chemical_formula_sum   'Zr18 Ti1 Re7 Pd2'
+_cell_volume   571.24248512
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.194493  0.805507  0.448211  1
+  Zr  Zr1  1  0.194493  0.388986  0.448211  1
+  Zr  Zr2  1  0.611014  0.805507  0.448211  1
+  Zr  Zr3  1  0.805507  0.194493  0.551789  1
+  Zr  Zr4  1  0.805507  0.611014  0.551789  1
+  Zr  Zr5  1  0.388986  0.194493  0.551789  1
+  Zr  Zr6  1  0.805931  0.194069  0.945568  1
+  Zr  Zr7  1  0.805931  0.611862  0.945568  1
+  Zr  Zr8  1  0.388138  0.194069  0.945568  1
+  Zr  Zr9  1  0.194069  0.805931  0.054432  1
+  Zr  Zr10  1  0.194069  0.388138  0.054432  1
+  Zr  Zr11  1  0.611862  0.805931  0.054432  1
+  Zr  Zr12  1  0.543701  0.456299  0.248426  1
+  Zr  Zr13  1  0.543701  0.087402  0.248426  1
+  Zr  Zr14  1  0.912598  0.456299  0.248426  1
+  Zr  Zr15  1  0.456299  0.543701  0.751574  1
+  Zr  Zr16  1  0.456299  0.912598  0.751574  1
+  Zr  Zr17  1  0.087402  0.543701  0.751574  1
+  Ti  Ti18  1  0.000000  0.000000  0.500000  1
+  Re  Re19  1  0.891143  0.108857  0.251270  1
+  Re  Re20  1  0.891143  0.782287  0.251270  1
+  Re  Re21  1  0.217713  0.108857  0.251270  1
+  Re  Re22  1  0.108857  0.891143  0.748730  1
+  Re  Re23  1  0.108857  0.217713  0.748730  1
+  Re  Re24  1  0.782287  0.891143  0.748730  1
+  Re  Re25  1  0.000000  0.000000  0.000000  1
+  Pd  Pd26  1  0.333333  0.666667  0.249258  1
+  Pd  Pd27  1  0.666667  0.333333  0.750742  1

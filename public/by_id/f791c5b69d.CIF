@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_ThTi(NbS2)8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.71168800
+_cell_length_b   6.71168687
+_cell_length_c   13.32737700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000559
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThTi(NbS2)8
+_chemical_formula_sum   'Th1 Ti1 Nb8 S16'
+_cell_volume   519.92264835
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.000000  0.000000  0.500000  1
+  Ti  Ti1  1  0.000000  0.000000  0.000000  1
+  Nb  Nb2  1  0.000000  0.000000  0.234155  1
+  Nb  Nb3  1  0.000000  0.000000  0.765845  1
+  Nb  Nb4  1  0.505028  0.494972  0.232516  1
+  Nb  Nb5  1  0.505028  0.010058  0.232516  1
+  Nb  Nb6  1  0.989942  0.494972  0.232516  1
+  Nb  Nb7  1  0.494972  0.505028  0.767484  1
+  Nb  Nb8  1  0.494972  0.989942  0.767484  1
+  Nb  Nb9  1  0.010058  0.505028  0.767484  1
+  S  S10  1  0.333333  0.666667  0.886917  1
+  S  S11  1  0.666667  0.333333  0.113083  1
+  S  S12  1  0.666667  0.333333  0.354136  1
+  S  S13  1  0.333333  0.666667  0.645864  1
+  S  S14  1  0.169112  0.830888  0.351911  1
+  S  S15  1  0.169112  0.338223  0.351911  1
+  S  S16  1  0.661777  0.830888  0.351911  1
+  S  S17  1  0.830888  0.169112  0.648089  1
+  S  S18  1  0.830888  0.661777  0.648089  1
+  S  S19  1  0.338223  0.169112  0.648089  1
+  S  S20  1  0.833709  0.166291  0.885478  1
+  S  S21  1  0.833709  0.667420  0.885478  1
+  S  S22  1  0.332580  0.166291  0.885478  1
+  S  S23  1  0.166291  0.833709  0.114522  1
+  S  S24  1  0.166291  0.332580  0.114522  1
+  S  S25  1  0.667420  0.833709  0.114522  1

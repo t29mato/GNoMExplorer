@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LiEuGePd3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.18402729
+_cell_length_b   5.18402780
+_cell_length_c   5.18402655
+_cell_angle_alpha   65.95565659
+_cell_angle_beta   65.95565625
+_cell_angle_gamma   65.95564755
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiEuGePd3
+_chemical_formula_sum   'Li1 Eu1 Ge1 Pd3'
+_cell_volume   111.21319833
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.860436  0.860436  0.860436  1
+  Eu  Eu1  1  0.122481  0.122481  0.122481  1
+  Ge  Ge2  1  0.505007  0.505007  0.505007  1
+  Pd  Pd3  1  0.504792  0.504792  0.002492  1
+  Pd  Pd4  1  0.002492  0.504792  0.504792  1
+  Pd  Pd5  1  0.504792  0.002492  0.504792  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ErTh(GaRh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.35770400
+_cell_length_b   6.90379800
+_cell_length_c   7.88271300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErTh(GaRh)2
+_chemical_formula_sum   'Er2 Th2 Ga4 Rh4'
+_cell_volume   237.14912011
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.750000  0.031811  0.695272  1
+  Er  Er1  1  0.750000  0.531811  0.804728  1
+  Th  Th2  1  0.250000  0.970290  0.320191  1
+  Th  Th3  1  0.250000  0.470290  0.179809  1
+  Ga  Ga4  1  0.250000  0.350869  0.576278  1
+  Ga  Ga5  1  0.250000  0.850869  0.923722  1
+  Ga  Ga6  1  0.750000  0.648302  0.440469  1
+  Ga  Ga7  1  0.750000  0.148302  0.059531  1
+  Rh  Rh8  1  0.250000  0.238413  0.892032  1
+  Rh  Rh9  1  0.250000  0.738413  0.607968  1
+  Rh  Rh10  1  0.750000  0.760315  0.114536  1
+  Rh  Rh11  1  0.750000  0.260315  0.385464  1

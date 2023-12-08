@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Si2Ni4W6C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.73835474
+_cell_length_b   7.73835452
+_cell_length_c   7.73835500
+_cell_angle_alpha   60.00000222
+_cell_angle_beta   60.00000316
+_cell_angle_gamma   59.99999870
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Si2Ni4W6C
+_chemical_formula_sum   'Si4 Ni8 W12 C2'
+_cell_volume   327.66565455
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.625000  0.625000  0.125000  1
+  Si  Si1  1  0.625000  0.125000  0.625000  1
+  Si  Si2  1  0.125000  0.625000  0.625000  1
+  Si  Si3  1  0.625000  0.625000  0.625000  1
+  Ni  Ni4  1  0.418565  0.418565  0.744304  1
+  Ni  Ni5  1  0.418565  0.744304  0.418565  1
+  Ni  Ni6  1  0.744304  0.418565  0.418565  1
+  Ni  Ni7  1  0.418565  0.418565  0.418565  1
+  Ni  Ni8  1  0.831435  0.831435  0.505696  1
+  Ni  Ni9  1  0.831435  0.505696  0.831435  1
+  Ni  Ni10  1  0.505696  0.831435  0.831435  1
+  Ni  Ni11  1  0.831435  0.831435  0.831435  1
+  W  W12  1  0.054514  0.054514  0.445486  1
+  W  W13  1  0.445486  0.054514  0.445486  1
+  W  W14  1  0.054514  0.445486  0.445486  1
+  W  W15  1  0.445486  0.445486  0.054514  1
+  W  W16  1  0.054514  0.445486  0.054514  1
+  W  W17  1  0.445486  0.054514  0.054514  1
+  W  W18  1  0.195486  0.195486  0.804514  1
+  W  W19  1  0.804514  0.195486  0.804514  1
+  W  W20  1  0.195486  0.804514  0.804514  1
+  W  W21  1  0.804514  0.804514  0.195486  1
+  W  W22  1  0.195486  0.804514  0.195486  1
+  W  W23  1  0.804514  0.195486  0.195486  1
+  C  C24  1  0.250000  0.250000  0.250000  1
+  C  C25  1  0.000000  0.000000  0.000000  1

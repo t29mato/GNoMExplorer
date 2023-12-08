@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ba2NaLuPb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.13468599
+_cell_length_b   11.13468575
+_cell_length_c   7.39765600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   97.67896876
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2NaLuPb2
+_chemical_formula_sum   'Ba8 Na4 Lu4 Pb8'
+_cell_volume   908.94558923
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.075926  0.424074  0.250000  1
+  Ba  Ba1  1  0.424074  0.075926  0.750000  1
+  Ba  Ba2  1  0.924074  0.575926  0.750000  1
+  Ba  Ba3  1  0.575926  0.924074  0.250000  1
+  Ba  Ba4  1  0.671903  0.328097  0.220025  1
+  Ba  Ba5  1  0.828097  0.171903  0.720025  1
+  Ba  Ba6  1  0.328097  0.671903  0.779975  1
+  Ba  Ba7  1  0.171903  0.828097  0.279975  1
+  Na  Na8  1  0.380506  0.380506  0.000000  1
+  Na  Na9  1  0.119494  0.119494  0.500000  1
+  Na  Na10  1  0.619494  0.619494  0.000000  1
+  Na  Na11  1  0.880506  0.880506  0.500000  1
+  Lu  Lu12  1  0.127765  0.127765  0.000000  1
+  Lu  Lu13  1  0.372235  0.372235  0.500000  1
+  Lu  Lu14  1  0.872235  0.872235  0.000000  1
+  Lu  Lu15  1  0.627765  0.627765  0.500000  1
+  Pb  Pb16  1  0.856824  0.643175  0.250000  1
+  Pb  Pb17  1  0.643175  0.856824  0.750000  1
+  Pb  Pb18  1  0.143175  0.356824  0.750000  1
+  Pb  Pb19  1  0.356824  0.143175  0.250000  1
+  Pb  Pb20  1  0.888606  0.111394  0.218802  1
+  Pb  Pb21  1  0.611394  0.388606  0.718802  1
+  Pb  Pb22  1  0.111394  0.888606  0.781198  1
+  Pb  Pb23  1  0.388606  0.611394  0.281198  1

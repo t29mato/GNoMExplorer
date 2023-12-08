@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_ZrPa(TiI6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.68647990
+_cell_length_b   7.93094722
+_cell_length_c   13.77239900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   89.86546092
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrPa(TiI6)2
+_chemical_formula_sum   'Zr1 Pa1 Ti2 I12'
+_cell_volume   730.34994687
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.749885  0.247959  0.000000  1
+  Pa  Pa1  1  0.750249  0.752065  0.500000  1
+  Ti  Ti2  1  0.249941  0.752076  0.500000  1
+  Ti  Ti3  1  0.249964  0.247979  0.000000  1
+  I  I4  1  0.017895  0.599960  0.651924  1
+  I  I5  1  0.017658  0.056072  0.500000  1
+  I  I6  1  0.004936  0.101502  0.852960  1
+  I  I7  1  0.004936  0.101502  0.147040  1
+  I  I8  1  0.482274  0.903925  0.348173  1
+  I  I9  1  0.494908  0.394419  0.147098  1
+  I  I10  1  0.482477  0.448317  0.500000  1
+  I  I11  1  0.482274  0.903925  0.651827  1
+  I  I12  1  0.494908  0.394419  0.852902  1
+  I  I13  1  0.493888  0.953798  0.000000  1
+  I  I14  1  0.005913  0.542123  0.000000  1
+  I  I15  1  0.017895  0.599960  0.348076  1

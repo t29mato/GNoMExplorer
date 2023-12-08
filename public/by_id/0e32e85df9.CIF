@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_TbMgCuPt3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.16776652
+_cell_length_b   5.16776545
+_cell_length_c   5.16776594
+_cell_angle_alpha   63.66048402
+_cell_angle_beta   63.66048773
+_cell_angle_gamma   63.66049206
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbMgCuPt3
+_chemical_formula_sum   'Tb1 Mg1 Cu1 Pt3'
+_cell_volume   105.47643206
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.001455  0.001455  0.001455  1
+  Mg  Mg1  1  0.256022  0.256022  0.256022  1
+  Cu  Cu2  1  0.623012  0.623012  0.623012  1
+  Pt  Pt3  1  0.622175  0.622175  0.125158  1
+  Pt  Pt4  1  0.622175  0.125158  0.622175  1
+  Pt  Pt5  1  0.125158  0.622175  0.622175  1

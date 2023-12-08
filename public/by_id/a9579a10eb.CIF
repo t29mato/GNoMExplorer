@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_PaTl3F8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.63568776
+_cell_length_b   7.63568776
+_cell_length_c   7.63568827
+_cell_angle_alpha   131.61927297
+_cell_angle_beta   131.61926762
+_cell_angle_gamma   70.83102499
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PaTl3F8
+_chemical_formula_sum   'Pa1 Tl3 F8'
+_cell_volume   243.68353089
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.000000  0.000000  0.000000  1
+  Tl  Tl1  1  0.250000  0.750000  0.500000  1
+  Tl  Tl2  1  0.750000  0.250000  0.500000  1
+  Tl  Tl3  1  0.500000  0.500000  0.000000  1
+  F  F4  1  0.897784  0.897784  0.588226  1
+  F  F5  1  0.690442  0.690442  0.588226  1
+  F  F6  1  0.102216  0.102216  0.411774  1
+  F  F7  1  0.102216  0.690442  0.000000  1
+  F  F8  1  0.309558  0.309558  0.411774  1
+  F  F9  1  0.309558  0.897784  0.000000  1
+  F  F10  1  0.897784  0.309558  0.000000  1
+  F  F11  1  0.690442  0.102216  0.000000  1

@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_LiAc(NdB12)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.16977900
+_cell_length_b   7.16977962
+_cell_length_c   5.87587200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   109.33475827
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAc(NdB12)2
+_chemical_formula_sum   'Li1 Ac1 Nd2 B24'
+_cell_volume   285.01778460
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.747916  0.252084  0.500000  1
+  Ac  Ac1  1  0.998456  0.001544  0.000000  1
+  Nd  Nd2  1  0.500486  0.499514  0.000000  1
+  Nd  Nd3  1  0.252372  0.747628  0.500000  1
+  B  B4  1  0.175742  0.326366  0.648535  1
+  B  B5  1  0.924701  0.573793  0.150135  1
+  B  B6  1  0.673634  0.824258  0.648535  1
+  B  B7  1  0.426207  0.075299  0.150135  1
+  B  B8  1  0.175742  0.326366  0.351465  1
+  B  B9  1  0.924701  0.573793  0.849865  1
+  B  B10  1  0.673634  0.824258  0.351465  1
+  B  B11  1  0.426207  0.075299  0.849865  1
+  B  B12  1  0.401591  0.399017  0.500000  1
+  B  B13  1  0.149742  0.649734  0.000000  1
+  B  B14  1  0.898039  0.899835  0.500000  1
+  B  B15  1  0.649223  0.149689  0.000000  1
+  B  B16  1  0.326766  0.176049  0.648606  1
+  B  B17  1  0.075290  0.426065  0.150119  1
+  B  B18  1  0.823951  0.673234  0.648606  1
+  B  B19  1  0.573935  0.924710  0.150119  1
+  B  B20  1  0.100165  0.101961  0.500000  1
+  B  B21  1  0.850311  0.350777  0.000000  1
+  B  B22  1  0.600983  0.598409  0.500000  1
+  B  B23  1  0.350266  0.850258  0.000000  1
+  B  B24  1  0.326766  0.176049  0.351394  1
+  B  B25  1  0.075290  0.426065  0.849881  1
+  B  B26  1  0.823951  0.673234  0.351394  1
+  B  B27  1  0.573935  0.924710  0.849881  1

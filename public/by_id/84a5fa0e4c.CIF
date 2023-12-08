@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_ZrAg3(Pt2O7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.14679250
+_cell_length_b   7.23785396
+_cell_length_c   7.14679200
+_cell_angle_alpha   60.41532223
+_cell_angle_beta   60.00000229
+_cell_angle_gamma   60.41531622
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrAg3(Pt2O7)2
+_chemical_formula_sum   'Zr1 Ag3 Pt4 O14'
+_cell_volume   263.03595096
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.125000  0.625000  0.125000  1
+  Ag  Ag1  1  0.125000  0.125000  0.125000  1
+  Ag  Ag2  1  0.625000  0.125000  0.125000  1
+  Ag  Ag3  1  0.125000  0.125000  0.625000  1
+  Pt  Pt4  1  0.625000  0.625000  0.625000  1
+  Pt  Pt5  1  0.125000  0.625000  0.625000  1
+  Pt  Pt6  1  0.625000  0.625000  0.125000  1
+  Pt  Pt7  1  0.625000  0.125000  0.625000  1
+  O  O8  1  0.002080  0.993760  0.002080  1
+  O  O9  1  0.247920  0.256240  0.247920  1
+  O  O10  1  0.511245  0.564782  0.961987  1
+  O  O11  1  0.286664  0.293827  0.709755  1
+  O  O12  1  0.961987  0.564782  0.961987  1
+  O  O13  1  0.961987  0.564782  0.511245  1
+  O  O14  1  0.540245  0.956173  0.963336  1
+  O  O15  1  0.540245  0.956173  0.540245  1
+  O  O16  1  0.963336  0.956173  0.540245  1
+  O  O17  1  0.709755  0.293827  0.286664  1
+  O  O18  1  0.288013  0.685218  0.738755  1
+  O  O19  1  0.738755  0.685218  0.288013  1
+  O  O20  1  0.709755  0.293827  0.709755  1
+  O  O21  1  0.288013  0.685218  0.288013  1

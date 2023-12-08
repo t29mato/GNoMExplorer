@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_La2Pr2YIr3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.33316600
+_cell_length_b   11.33316600
+_cell_length_c   6.55404300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2Pr2YIr3
+_chemical_formula_sum   'La8 Pr8 Y4 Ir12'
+_cell_volume   841.80555343
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.212341  0.411097  0.613569  1
+  La  La1  1  0.212341  0.588903  0.113569  1
+  La  La2  1  0.787659  0.411097  0.113569  1
+  La  La3  1  0.787659  0.588903  0.613569  1
+  La  La4  1  0.911097  0.712341  0.113569  1
+  La  La5  1  0.911097  0.287659  0.613569  1
+  La  La6  1  0.088903  0.712341  0.613569  1
+  La  La7  1  0.088903  0.287659  0.113569  1
+  Pr  Pr8  1  0.289504  0.087173  0.385482  1
+  Pr  Pr9  1  0.289504  0.912827  0.885482  1
+  Pr  Pr10  1  0.710496  0.087173  0.885482  1
+  Pr  Pr11  1  0.710496  0.912827  0.385482  1
+  Pr  Pr12  1  0.587173  0.789504  0.885482  1
+  Pr  Pr13  1  0.587173  0.210496  0.385482  1
+  Pr  Pr14  1  0.412827  0.789504  0.385482  1
+  Pr  Pr15  1  0.412827  0.210496  0.885482  1
+  Y  Y16  1  0.000000  0.000000  0.499670  1
+  Y  Y17  1  0.000000  0.000000  0.999670  1
+  Y  Y18  1  0.500000  0.500000  0.999670  1
+  Y  Y19  1  0.500000  0.500000  0.499670  1
+  Ir  Ir20  1  0.851198  0.150281  0.251650  1
+  Ir  Ir21  1  0.851198  0.849719  0.751650  1
+  Ir  Ir22  1  0.148802  0.150281  0.751650  1
+  Ir  Ir23  1  0.148802  0.849719  0.251650  1
+  Ir  Ir24  1  0.650281  0.351198  0.751650  1
+  Ir  Ir25  1  0.650281  0.648802  0.251650  1
+  Ir  Ir26  1  0.349719  0.351198  0.251650  1
+  Ir  Ir27  1  0.349719  0.648802  0.751650  1
+  Ir  Ir28  1  0.500000  0.000000  0.118002  1
+  Ir  Ir29  1  0.500000  0.000000  0.618002  1
+  Ir  Ir30  1  0.000000  0.500000  0.879854  1
+  Ir  Ir31  1  0.000000  0.500000  0.379854  1

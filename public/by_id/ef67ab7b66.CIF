@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LaGd(GaCu)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.29536200
+_cell_length_b   4.53728200
+_cell_length_c   7.31591400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaGd(GaCu)2
+_chemical_formula_sum   'La2 Gd2 Ga4 Cu4'
+_cell_volume   242.16490835
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.485460  0.750000  0.693171  1
+  La  La1  1  0.985461  0.750000  0.806828  1
+  Gd  Gd2  1  0.018552  0.250001  0.214012  1
+  Gd  Gd3  1  0.518552  0.250001  0.285988  1
+  Ga  Ga4  1  0.310473  0.750000  0.099319  1
+  Ga  Ga5  1  0.810472  0.750000  0.400682  1
+  Ga  Ga6  1  0.192663  0.250001  0.587579  1
+  Ga  Ga7  1  0.692664  0.250001  0.912420  1
+  Cu  Cu8  1  0.678679  0.750000  0.083538  1
+  Cu  Cu9  1  0.178680  0.750000  0.416462  1
+  Cu  Cu10  1  0.814174  0.250001  0.574279  1
+  Cu  Cu11  1  0.314174  0.250001  0.925720  1

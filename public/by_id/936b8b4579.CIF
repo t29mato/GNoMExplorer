@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Li3Nd3CdGeBi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.62956800
+_cell_length_b   7.62956925
+_cell_length_c   4.46652700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001191
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3Nd3CdGeBi
+_chemical_formula_sum   'Li3 Nd3 Cd1 Ge1 Bi1'
+_cell_volume   225.16480647
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.251213  0.005400  0.500000  1
+  Li  Li1  1  0.754187  0.748787  0.500000  1
+  Li  Li2  1  0.994600  0.245813  0.500000  1
+  Nd  Nd3  1  0.981596  0.566871  0.000000  1
+  Nd  Nd4  1  0.585275  0.018404  0.000000  1
+  Nd  Nd5  1  0.433129  0.414725  0.000000  1
+  Cd  Cd6  1  0.000000  0.000000  0.000000  1
+  Ge  Ge7  1  0.666667  0.333333  0.500000  1
+  Bi  Bi8  1  0.333333  0.666667  0.500000  1

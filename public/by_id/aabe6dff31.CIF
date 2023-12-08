@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Be2Nb10Ga5As
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.84646246
+_cell_length_b   7.84646240
+_cell_length_c   5.40885100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.89230502
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Be2Nb10Ga5As
+_chemical_formula_sum   'Be2 Nb10 Ga5 As1'
+_cell_volume   288.70461495
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.997684  0.997684  0.002566  1
+  Be  Be1  1  0.997684  0.997684  0.497434  1
+  Nb  Nb2  1  0.666185  0.333786  0.001219  1
+  Nb  Nb3  1  0.333786  0.666185  0.001219  1
+  Nb  Nb4  1  0.333786  0.666185  0.498781  1
+  Nb  Nb5  1  0.666185  0.333786  0.498781  1
+  Nb  Nb6  1  0.740266  0.740266  0.750000  1
+  Nb  Nb7  1  0.258993  0.002033  0.750000  1
+  Nb  Nb8  1  0.002033  0.258993  0.750000  1
+  Nb  Nb9  1  0.259739  0.259739  0.250000  1
+  Nb  Nb10  1  0.739373  0.999635  0.250000  1
+  Nb  Nb11  1  0.999635  0.739373  0.250000  1
+  Ga  Ga12  1  0.610579  0.000463  0.750000  1
+  Ga  Ga13  1  0.000463  0.610579  0.750000  1
+  Ga  Ga14  1  0.613239  0.613239  0.250000  1
+  Ga  Ga15  1  0.389098  0.998806  0.250000  1
+  Ga  Ga16  1  0.998806  0.389098  0.250000  1
+  As  As17  1  0.392465  0.392465  0.750000  1

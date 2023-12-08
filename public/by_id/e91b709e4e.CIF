@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_SiTc3Ni2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.53601797
+_cell_length_b   7.53601724
+_cell_length_c   7.53601800
+_cell_angle_alpha   59.99999665
+_cell_angle_beta   59.99999988
+_cell_angle_gamma   59.99999669
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiTc3Ni2
+_chemical_formula_sum   'Si4 Tc12 Ni8'
+_cell_volume   302.62912051
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.125000  0.625000  0.125000  1
+  Si  Si1  1  0.125000  0.125000  0.625000  1
+  Si  Si2  1  0.625000  0.125000  0.125000  1
+  Si  Si3  1  0.125000  0.125000  0.125000  1
+  Tc  Tc4  1  0.932146  0.932146  0.567854  1
+  Tc  Tc5  1  0.682146  0.317854  0.317854  1
+  Tc  Tc6  1  0.317854  0.682146  0.682146  1
+  Tc  Tc7  1  0.682146  0.682146  0.317854  1
+  Tc  Tc8  1  0.682146  0.317854  0.682146  1
+  Tc  Tc9  1  0.317854  0.682146  0.317854  1
+  Tc  Tc10  1  0.567854  0.932146  0.567854  1
+  Tc  Tc11  1  0.567854  0.932146  0.932146  1
+  Tc  Tc12  1  0.932146  0.567854  0.567854  1
+  Tc  Tc13  1  0.932146  0.567854  0.932146  1
+  Tc  Tc14  1  0.317854  0.317854  0.682146  1
+  Tc  Tc15  1  0.567854  0.567854  0.932146  1
+  Ni  Ni16  1  0.917949  0.246154  0.917949  1
+  Ni  Ni17  1  0.332051  0.332051  0.003846  1
+  Ni  Ni18  1  0.003846  0.332051  0.332051  1
+  Ni  Ni19  1  0.332051  0.332051  0.332051  1
+  Ni  Ni20  1  0.246154  0.917949  0.917949  1
+  Ni  Ni21  1  0.917949  0.917949  0.917949  1
+  Ni  Ni22  1  0.917949  0.917949  0.246154  1
+  Ni  Ni23  1  0.332051  0.003846  0.332051  1

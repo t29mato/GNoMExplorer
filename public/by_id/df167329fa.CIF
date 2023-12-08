@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ho3Tm(AgAu)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89840500
+_cell_length_b   7.55222963
+_cell_length_c   8.94556100
+_cell_angle_alpha   90.05614088
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho3Tm(AgAu)4
+_chemical_formula_sum   'Ho3 Tm1 Ag4 Au4'
+_cell_volume   263.37194720
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.250000  0.581483  0.206668  1
+  Ho  Ho1  1  0.750000  0.918387  0.706332  1
+  Ho  Ho2  1  0.750000  0.418913  0.793527  1
+  Tm  Tm3  1  0.250000  0.081540  0.293399  1
+  Ag  Ag4  1  0.250000  0.120837  0.931353  1
+  Ag  Ag5  1  0.250000  0.620673  0.569081  1
+  Ag  Ag6  1  0.750000  0.879344  0.069523  1
+  Ag  Ag7  1  0.750000  0.378545  0.430689  1
+  Au  Au8  1  0.250000  0.203035  0.615828  1
+  Au  Au9  1  0.250000  0.703934  0.883123  1
+  Au  Au10  1  0.750000  0.798061  0.382705  1
+  Au  Au11  1  0.750000  0.295245  0.117770  1

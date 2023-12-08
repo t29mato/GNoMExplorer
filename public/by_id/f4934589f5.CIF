@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_CaEr2Si2GeRh6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.58802300
+_cell_length_b   5.58802149
+_cell_length_c   15.10416700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999117
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaEr2Si2GeRh6
+_chemical_formula_sum   'Ca2 Er4 Si4 Ge2 Rh12'
+_cell_volume   408.45451581
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.333333  0.666667  0.750000  1
+  Ca  Ca1  1  0.666667  0.333333  0.250000  1
+  Er  Er2  1  0.333333  0.666667  0.540342  1
+  Er  Er3  1  0.666667  0.333333  0.459658  1
+  Er  Er4  1  0.666667  0.333333  0.040342  1
+  Er  Er5  1  0.333333  0.666667  0.959658  1
+  Si  Si6  1  0.000000  0.000000  0.250000  1
+  Si  Si7  1  0.000000  0.000000  0.750000  1
+  Si  Si8  1  0.333333  0.666667  0.250000  1
+  Si  Si9  1  0.666667  0.333333  0.750000  1
+  Ge  Ge10  1  0.000000  0.000000  0.000000  1
+  Ge  Ge11  1  0.000000  0.000000  0.500000  1
+  Rh  Rh12  1  0.167917  0.335834  0.131309  1
+  Rh  Rh13  1  0.832083  0.664166  0.868691  1
+  Rh  Rh14  1  0.664166  0.832083  0.131309  1
+  Rh  Rh15  1  0.832083  0.664166  0.631309  1
+  Rh  Rh16  1  0.335834  0.167917  0.868691  1
+  Rh  Rh17  1  0.167917  0.335834  0.368691  1
+  Rh  Rh18  1  0.167917  0.832083  0.131309  1
+  Rh  Rh19  1  0.335834  0.167917  0.631309  1
+  Rh  Rh20  1  0.832083  0.167917  0.868691  1
+  Rh  Rh21  1  0.664166  0.832083  0.368691  1
+  Rh  Rh22  1  0.832083  0.167917  0.631309  1
+  Rh  Rh23  1  0.167917  0.832083  0.368691  1

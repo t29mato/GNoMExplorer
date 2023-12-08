@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ta6Co6Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.91968846
+_cell_length_b   4.91968814
+_cell_length_c   9.12258863
+_cell_angle_alpha   74.35696324
+_cell_angle_beta   105.64303614
+_cell_angle_gamma   119.99999595
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta6Co6Ge
+_chemical_formula_sum   'Ta6 Co6 Ge1'
+_cell_volume   181.71108869
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.346942  0.653060  0.040824  1
+  Ta  Ta1  1  0.450025  0.549977  0.350073  1
+  Ta  Ta2  1  0.169264  0.830736  0.507792  1
+  Ta  Ta3  1  0.830737  0.169264  0.492209  1
+  Ta  Ta4  1  0.549976  0.450026  0.649926  1
+  Ta  Ta5  1  0.653059  0.346942  0.959176  1
+  Co  Co6  1  0.411431  0.090321  0.230789  1
+  Co  Co7  1  0.909680  0.090321  0.230789  1
+  Co  Co8  1  0.909680  0.588570  0.230789  1
+  Co  Co9  1  0.090321  0.411430  0.769211  1
+  Co  Co10  1  0.090321  0.909679  0.769211  1
+  Co  Co11  1  0.588570  0.909679  0.769211  1
+  Ge  Ge12  1  0.000000  0.000000  0.000000  1

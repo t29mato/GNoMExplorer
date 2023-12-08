@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_MnNb6Cr(Ga2C)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.28963205
+_cell_length_b   8.28963247
+_cell_length_c   8.28604200
+_cell_angle_alpha   60.01432670
+_cell_angle_beta   60.01432505
+_cell_angle_gamma   60.04035526
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnNb6Cr(Ga2C)2
+_chemical_formula_sum   'Mn2 Nb12 Cr2 Ga8 C4'
+_cell_volume   402.83667652
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.625000  0.125000  0.125000  1
+  Mn  Mn1  1  0.125000  0.625000  0.125000  1
+  Nb  Nb2  1  0.552322  0.946386  0.554775  1
+  Nb  Nb3  1  0.303614  0.697678  0.695225  1
+  Nb  Nb4  1  0.697678  0.303614  0.303483  1
+  Nb  Nb5  1  0.303614  0.697678  0.303483  1
+  Nb  Nb6  1  0.695687  0.695687  0.304313  1
+  Nb  Nb7  1  0.302535  0.302535  0.697465  1
+  Nb  Nb8  1  0.554313  0.554313  0.945687  1
+  Nb  Nb9  1  0.946386  0.552322  0.554775  1
+  Nb  Nb10  1  0.552322  0.946386  0.946517  1
+  Nb  Nb11  1  0.947465  0.947465  0.552535  1
+  Nb  Nb12  1  0.697678  0.303614  0.695225  1
+  Nb  Nb13  1  0.946386  0.552322  0.946517  1
+  Cr  Cr14  1  0.125000  0.125000  0.125000  1
+  Cr  Cr15  1  0.125000  0.125000  0.625000  1
+  Ga  Ga16  1  0.913449  0.913449  0.914257  1
+  Ga  Ga17  1  0.991387  0.336731  0.335941  1
+  Ga  Ga18  1  0.336731  0.991387  0.335941  1
+  Ga  Ga19  1  0.336551  0.336551  0.991153  1
+  Ga  Ga20  1  0.913269  0.258613  0.914059  1
+  Ga  Ga21  1  0.913449  0.913449  0.258847  1
+  Ga  Ga22  1  0.258613  0.913269  0.914059  1
+  Ga  Ga23  1  0.336551  0.336551  0.335743  1
+  C  C24  1  0.625000  0.625000  0.625000  1
+  C  C25  1  0.125000  0.625000  0.625000  1
+  C  C26  1  0.625000  0.125000  0.625000  1
+  C  C27  1  0.625000  0.625000  0.125000  1

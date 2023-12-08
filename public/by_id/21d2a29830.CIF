@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Hf9MnRe3Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.71169500
+_cell_length_b   8.71169509
+_cell_length_c   8.44939700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000344
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf9MnRe3Au
+_chemical_formula_sum   'Hf18 Mn2 Re6 Au2'
+_cell_volume   555.34346015
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.189883  0.810117  0.450215  1
+  Hf  Hf1  1  0.189883  0.379765  0.450215  1
+  Hf  Hf2  1  0.620235  0.810117  0.450215  1
+  Hf  Hf3  1  0.810117  0.189883  0.549785  1
+  Hf  Hf4  1  0.810117  0.620235  0.549785  1
+  Hf  Hf5  1  0.379765  0.189883  0.549785  1
+  Hf  Hf6  1  0.810117  0.189883  0.950215  1
+  Hf  Hf7  1  0.810117  0.620235  0.950215  1
+  Hf  Hf8  1  0.379765  0.189883  0.950215  1
+  Hf  Hf9  1  0.189883  0.810117  0.049785  1
+  Hf  Hf10  1  0.189883  0.379765  0.049785  1
+  Hf  Hf11  1  0.620235  0.810117  0.049785  1
+  Hf  Hf12  1  0.542160  0.457840  0.250000  1
+  Hf  Hf13  1  0.542160  0.084316  0.250000  1
+  Hf  Hf14  1  0.915684  0.457840  0.250000  1
+  Hf  Hf15  1  0.457840  0.542160  0.750000  1
+  Hf  Hf16  1  0.457840  0.915684  0.750000  1
+  Hf  Hf17  1  0.084316  0.542160  0.750000  1
+  Mn  Mn18  1  0.000000  0.000000  0.500000  1
+  Mn  Mn19  1  0.000000  0.000000  0.000000  1
+  Re  Re20  1  0.892948  0.107052  0.250000  1
+  Re  Re21  1  0.892948  0.785895  0.250000  1
+  Re  Re22  1  0.214105  0.107052  0.250000  1
+  Re  Re23  1  0.107052  0.892948  0.750000  1
+  Re  Re24  1  0.107052  0.214105  0.750000  1
+  Re  Re25  1  0.785895  0.892948  0.750000  1
+  Au  Au26  1  0.333333  0.666667  0.250000  1
+  Au  Au27  1  0.666667  0.333333  0.750000  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SmPa(NiGe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.28756900
+_cell_length_b   7.25335600
+_cell_length_c   7.15717200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmPa(NiGe)2
+_chemical_formula_sum   'Sm2 Pa2 Ni4 Ge4'
+_cell_volume   222.58278389
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.750000  0.503714  0.783332  1
+  Sm  Sm1  1  0.750000  0.003714  0.716668  1
+  Pa  Pa2  1  0.250000  0.482236  0.219154  1
+  Pa  Pa3  1  0.250000  0.982236  0.280846  1
+  Ni  Ni4  1  0.250000  0.237999  0.937851  1
+  Ni  Ni5  1  0.250000  0.737999  0.562149  1
+  Ni  Ni6  1  0.750000  0.811949  0.090704  1
+  Ni  Ni7  1  0.750000  0.311949  0.409296  1
+  Ge  Ge8  1  0.250000  0.270627  0.588659  1
+  Ge  Ge9  1  0.250000  0.770627  0.911341  1
+  Ge  Ge10  1  0.750000  0.693474  0.409389  1
+  Ge  Ge11  1  0.750000  0.193474  0.090611  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sc4Al6PdRu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.35076900
+_cell_length_b   5.35076935
+_cell_length_c   8.49470500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000401
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc4Al6PdRu
+_chemical_formula_sum   'Sc4 Al6 Pd1 Ru1'
+_cell_volume   210.62569375
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.333333  0.666667  0.060277  1
+  Sc  Sc1  1  0.666667  0.333333  0.552685  1
+  Sc  Sc2  1  0.333333  0.666667  0.447315  1
+  Sc  Sc3  1  0.666667  0.333333  0.939723  1
+  Al  Al4  1  0.832896  0.665792  0.247827  1
+  Al  Al5  1  0.167104  0.832896  0.752173  1
+  Al  Al6  1  0.665792  0.832896  0.752173  1
+  Al  Al7  1  0.334208  0.167104  0.247827  1
+  Al  Al8  1  0.832896  0.167104  0.247827  1
+  Al  Al9  1  0.167104  0.334208  0.752173  1
+  Pd  Pd10  1  0.000000  0.000000  0.500000  1
+  Ru  Ru11  1  0.000000  0.000000  0.000000  1

@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_Ho2Sc3(TlSi)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.33861700
+_cell_length_b   7.59272700
+_cell_length_c   14.61069800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2Sc3(TlSi)2
+_chemical_formula_sum   'Ho8 Sc12 Tl8 Si8'
+_cell_volume   814.10977920
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.993541  0.176102  0.110329  1
+  Ho  Ho1  1  0.006459  0.823898  0.889671  1
+  Ho  Ho2  1  0.506459  0.676102  0.889671  1
+  Ho  Ho3  1  0.006459  0.823898  0.610329  1
+  Ho  Ho4  1  0.493541  0.323898  0.110329  1
+  Ho  Ho5  1  0.993541  0.176102  0.389671  1
+  Ho  Ho6  1  0.493541  0.323898  0.389671  1
+  Ho  Ho7  1  0.506459  0.676102  0.610329  1
+  Sc  Sc8  1  0.178418  0.498778  0.750000  1
+  Sc  Sc9  1  0.821582  0.501222  0.250000  1
+  Sc  Sc10  1  0.321582  0.998778  0.250000  1
+  Sc  Sc11  1  0.678418  0.001222  0.750000  1
+  Sc  Sc12  1  0.340902  0.164086  0.635519  1
+  Sc  Sc13  1  0.659098  0.835914  0.364481  1
+  Sc  Sc14  1  0.159098  0.664086  0.364481  1
+  Sc  Sc15  1  0.659098  0.835914  0.135519  1
+  Sc  Sc16  1  0.840902  0.335914  0.635519  1
+  Sc  Sc17  1  0.340902  0.164086  0.864481  1
+  Sc  Sc18  1  0.840902  0.335914  0.864481  1
+  Sc  Sc19  1  0.159098  0.664086  0.135519  1
+  Tl  Tl20  1  0.185613  0.456902  0.536526  1
+  Tl  Tl21  1  0.814387  0.543098  0.463474  1
+  Tl  Tl22  1  0.314387  0.956902  0.463474  1
+  Tl  Tl23  1  0.814387  0.543098  0.036526  1
+  Tl  Tl24  1  0.685613  0.043098  0.536526  1
+  Tl  Tl25  1  0.185613  0.456902  0.963474  1
+  Tl  Tl26  1  0.685613  0.043098  0.963474  1
+  Tl  Tl27  1  0.314387  0.956902  0.036526  1
+  Si  Si28  1  0.038629  0.119806  0.750000  1
+  Si  Si29  1  0.961371  0.880194  0.250000  1
+  Si  Si30  1  0.461371  0.619806  0.250000  1
+  Si  Si31  1  0.538629  0.380194  0.750000  1
+  Si  Si32  1  0.303855  0.864088  0.750000  1
+  Si  Si33  1  0.696145  0.135912  0.250000  1
+  Si  Si34  1  0.196145  0.364088  0.250000  1
+  Si  Si35  1  0.803855  0.635912  0.750000  1

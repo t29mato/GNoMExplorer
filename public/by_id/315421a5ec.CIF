@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Tb3Nd4Ho9(CdPd)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.76134756
+_cell_length_b   9.72954273
+_cell_length_c   9.72954259
+_cell_angle_alpha   60.18357893
+_cell_angle_beta   59.91372596
+_cell_angle_gamma   59.91372164
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb3Nd4Ho9(CdPd)4
+_chemical_formula_sum   'Tb3 Nd4 Ho9 Cd4 Pd4'
+_cell_volume   653.44552304
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.353197  0.352774  0.352774  1
+  Tb  Tb1  1  0.352474  0.353503  0.941250  1
+  Tb  Tb2  1  0.352474  0.941250  0.353503  1
+  Nd  Nd3  1  0.565883  0.934059  0.565925  1
+  Nd  Nd4  1  0.934059  0.565965  0.934096  1
+  Nd  Nd5  1  0.565883  0.565925  0.934059  1
+  Nd  Nd6  1  0.934059  0.934096  0.565965  1
+  Ho  Ho7  1  0.941954  0.352504  0.352504  1
+  Ho  Ho8  1  0.811766  0.188430  0.188430  1
+  Ho  Ho9  1  0.188263  0.811865  0.811865  1
+  Ho  Ho10  1  0.188300  0.811785  0.188145  1
+  Ho  Ho11  1  0.811723  0.188454  0.811373  1
+  Ho  Ho12  1  0.188300  0.188145  0.811785  1
+  Ho  Ho13  1  0.811723  0.811373  0.188454  1
+  Ho  Ho14  1  0.940143  0.559792  0.559792  1
+  Ho  Ho15  1  0.559811  0.940131  0.940131  1
+  Cd  Cd16  1  0.584065  0.578908  0.578908  1
+  Cd  Cd17  1  0.579661  0.583324  0.258079  1
+  Cd  Cd18  1  0.579661  0.258079  0.583324  1
+  Cd  Cd19  1  0.258069  0.579173  0.579173  1
+  Pd  Pd20  1  0.145525  0.142772  0.142772  1
+  Pd  Pd21  1  0.141780  0.146515  0.568897  1
+  Pd  Pd22  1  0.141780  0.568897  0.146515  1
+  Pd  Pd23  1  0.569446  0.142279  0.142279  1

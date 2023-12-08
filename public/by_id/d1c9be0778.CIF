@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_LaGa2SiAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.08755627
+_cell_length_b   6.08755624
+_cell_length_c   6.08755588
+_cell_angle_alpha   137.27860404
+_cell_angle_beta   137.27860921
+_cell_angle_gamma   62.00966104
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaGa2SiAu
+_chemical_formula_sum   'La1 Ga2 Si1 Au1'
+_cell_volume   102.61316265
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.990128  0.990128  0.000000  1
+  Ga  Ga1  1  0.254429  0.754429  0.500000  1
+  Ga  Ga2  1  0.754429  0.254429  0.500000  1
+  Si  Si3  1  0.391709  0.391709  0.000000  1
+  Au  Au4  1  0.625306  0.625306  0.000000  1

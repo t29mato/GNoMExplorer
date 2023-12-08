@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Li4B4Ir3Ru
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.92356065
+_cell_length_b   6.06356427
+_cell_length_c   5.54039255
+_cell_angle_alpha   73.10439514
+_cell_angle_beta   56.92789276
+_cell_angle_gamma   50.15326697
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li4B4Ir3Ru
+_chemical_formula_sum   'Li4 B4 Ir3 Ru1'
+_cell_volume   149.01335867
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.126113  0.623988  0.626065  1
+  Li  Li1  1  0.626112  0.625286  0.623710  1
+  Li  Li2  1  0.625286  0.626112  0.124891  1
+  Li  Li3  1  0.623988  0.126113  0.623834  1
+  B  B4  1  0.426418  0.076615  0.425588  1
+  B  B5  1  0.177436  0.819564  0.180817  1
+  B  B6  1  0.076615  0.426418  0.071379  1
+  B  B7  1  0.819564  0.177436  0.822183  1
+  Ir  Ir8  1  0.865538  0.865538  0.134462  1
+  Ir  Ir9  1  0.133567  0.133567  0.866433  1
+  Ir  Ir10  1  0.115569  0.115569  0.384431  1
+  Ru  Ru11  1  0.383794  0.383794  0.116206  1

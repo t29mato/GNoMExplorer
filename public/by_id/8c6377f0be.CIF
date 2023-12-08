@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_LiAl(Ru2W)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.33311700
+_cell_length_b   6.09494800
+_cell_length_c   12.91757000
+_cell_angle_alpha   89.99855316
+_cell_angle_beta   89.99891229
+_cell_angle_gamma   89.99819839
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAl(Ru2W)2
+_chemical_formula_sum   'Li3 Al3 Ru12 W6'
+_cell_volume   341.15460972
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.499981  0.500028  0.500726  1
+  Li  Li1  1  0.000260  0.999986  0.666683  1
+  Li  Li2  1  0.500213  0.500003  0.832607  1
+  Al  Al3  1  0.999978  0.999993  0.998039  1
+  Al  Al4  1  0.499824  0.500012  0.166664  1
+  Al  Al5  1  0.999785  0.999981  0.335290  1
+  Ru  Ru6  1  0.499972  0.250998  0.000681  1
+  Ru  Ru7  1  0.499997  0.749002  0.000683  1
+  Ru  Ru8  1  0.999862  0.249262  0.166662  1
+  Ru  Ru9  1  0.999774  0.750734  0.166664  1
+  Ru  Ru10  1  0.499810  0.250996  0.332641  1
+  Ru  Ru11  1  0.499826  0.749004  0.332644  1
+  Ru  Ru12  1  0.999972  0.250174  0.500107  1
+  Ru  Ru13  1  0.000020  0.749828  0.500108  1
+  Ru  Ru14  1  0.500205  0.250475  0.666669  1
+  Ru  Ru15  1  0.500190  0.749521  0.666668  1
+  Ru  Ru16  1  0.000158  0.250171  0.833231  1
+  Ru  Ru17  1  0.000191  0.749828  0.833231  1
+  W  W18  1  0.999992  0.499994  0.992964  1
+  W  W19  1  0.499812  0.000009  0.166665  1
+  W  W20  1  0.999823  0.499993  0.340370  1
+  W  W21  1  0.499996  0.000010  0.506355  1
+  W  W22  1  0.000182  0.499995  0.666668  1
+  W  W23  1  0.500181  0.000001  0.826978  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Li2SiHgS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.43800270
+_cell_length_b   6.75890300
+_cell_length_c   7.87048699
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.53457297
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2SiHgS4
+_chemical_formula_sum   'Li4 Si2 Hg2 S8'
+_cell_volume   342.46377879
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.967634  0.186375  0.245229  1
+  Li  Li1  1  0.467634  0.813625  0.745229  1
+  Li  Li2  1  0.953838  0.650692  0.499592  1
+  Li  Li3  1  0.453838  0.349308  0.999592  1
+  Si  Si4  1  0.460279  0.319255  0.499128  1
+  Si  Si5  1  0.960279  0.680745  0.999128  1
+  Hg  Hg6  1  0.970129  0.187474  0.755760  1
+  Hg  Hg7  1  0.470129  0.812526  0.255760  1
+  S  S8  1  0.334922  0.613517  0.513024  1
+  S  S9  1  0.834922  0.386483  0.013024  1
+  S  S10  1  0.344895  0.182073  0.273052  1
+  S  S11  1  0.369145  0.166022  0.727350  1
+  S  S12  1  0.869145  0.833978  0.227350  1
+  S  S13  1  0.844895  0.817927  0.773052  1
+  S  S14  1  0.793158  0.326068  0.486865  1
+  S  S15  1  0.293158  0.673932  0.986865  1

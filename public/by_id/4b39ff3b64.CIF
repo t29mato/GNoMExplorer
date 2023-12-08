@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Lu9Cd(GeB4)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.12594800
+_cell_length_b   7.12594800
+_cell_length_c   7.82733800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu9Cd(GeB4)4
+_chemical_formula_sum   'Lu9 Cd1 Ge4 B16'
+_cell_volume   397.46545220
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.681061  0.180287  0.223365  1
+  Lu  Lu1  1  0.318939  0.819713  0.776635  1
+  Lu  Lu2  1  0.318939  0.819713  0.223365  1
+  Lu  Lu3  1  0.819713  0.681061  0.223365  1
+  Lu  Lu4  1  0.819713  0.681061  0.776635  1
+  Lu  Lu5  1  0.681061  0.180287  0.776635  1
+  Lu  Lu6  1  0.180287  0.318939  0.776635  1
+  Lu  Lu7  1  0.180287  0.318939  0.223365  1
+  Lu  Lu8  1  0.500000  0.500000  0.500000  1
+  Cd  Cd9  1  0.000000  0.000000  0.500000  1
+  Ge  Ge10  1  0.125838  0.616954  0.500000  1
+  Ge  Ge11  1  0.874162  0.383046  0.500000  1
+  Ge  Ge12  1  0.383046  0.125838  0.500000  1
+  Ge  Ge13  1  0.616954  0.874162  0.500000  1
+  B  B14  1  0.175175  0.039709  0.000000  1
+  B  B15  1  0.824825  0.960291  0.000000  1
+  B  B16  1  0.960291  0.175175  0.000000  1
+  B  B17  1  0.327220  0.539883  0.000000  1
+  B  B18  1  0.039709  0.824825  0.000000  1
+  B  B19  1  0.672780  0.460117  0.000000  1
+  B  B20  1  0.539883  0.672780  0.000000  1
+  B  B21  1  0.460117  0.327220  0.000000  1
+  B  B22  1  0.089579  0.588230  0.000000  1
+  B  B23  1  0.910421  0.411770  0.000000  1
+  B  B24  1  0.411770  0.089579  0.000000  1
+  B  B25  1  0.588230  0.910421  0.000000  1
+  B  B26  1  0.000000  0.000000  0.162164  1
+  B  B27  1  0.000000  0.000000  0.837836  1
+  B  B28  1  0.500000  0.500000  0.831692  1
+  B  B29  1  0.500000  0.500000  0.168308  1

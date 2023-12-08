@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_NdCu9Si4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.14352575
+_cell_length_b   8.14352595
+_cell_length_c   8.14352677
+_cell_angle_alpha   120.47884492
+_cell_angle_beta   120.47884614
+_cell_angle_gamma   89.17259868
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdCu9Si4
+_chemical_formula_sum   'Nd2 Cu18 Si8'
+_cell_volume   379.06932587
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.750000  0.750000  0.000000  1
+  Nd  Nd1  1  0.250000  0.250000  0.000000  1
+  Cu  Cu2  1  0.435637  0.701584  0.137221  1
+  Cu  Cu3  1  0.701584  0.564363  0.265947  1
+  Cu  Cu4  1  0.298416  0.435637  0.734053  1
+  Cu  Cu5  1  0.935637  0.798416  0.734053  1
+  Cu  Cu6  1  0.564363  0.298416  0.862779  1
+  Cu  Cu7  1  0.306992  0.557929  0.500000  1
+  Cu  Cu8  1  0.057929  0.806992  0.500000  1
+  Cu  Cu9  1  0.693008  0.442071  0.500000  1
+  Cu  Cu10  1  0.942071  0.193008  0.500000  1
+  Cu  Cu11  1  0.442071  0.942071  0.749063  1
+  Cu  Cu12  1  0.193008  0.693008  0.250937  1
+  Cu  Cu13  1  0.557929  0.057929  0.250937  1
+  Cu  Cu14  1  0.201584  0.935637  0.137221  1
+  Cu  Cu15  1  0.064363  0.201584  0.265947  1
+  Cu  Cu16  1  0.000000  0.500000  0.500000  1
+  Cu  Cu17  1  0.500000  0.000000  0.500000  1
+  Cu  Cu18  1  0.806992  0.306992  0.749063  1
+  Cu  Cu19  1  0.798416  0.064363  0.862779  1
+  Si  Si20  1  0.294012  0.794012  0.851130  1
+  Si  Si21  1  0.057118  0.557118  0.851130  1
+  Si  Si22  1  0.557118  0.705988  0.500000  1
+  Si  Si23  1  0.794012  0.942882  0.500000  1
+  Si  Si24  1  0.442882  0.294012  0.500000  1
+  Si  Si25  1  0.942882  0.442882  0.148870  1
+  Si  Si26  1  0.705988  0.205988  0.148870  1
+  Si  Si27  1  0.205988  0.057118  0.500000  1

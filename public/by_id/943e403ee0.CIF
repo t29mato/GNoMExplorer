@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_SrIrPbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.60436610
+_cell_length_b   5.60126919
+_cell_length_c   5.19935102
+_cell_angle_alpha   90.00427327
+_cell_angle_beta   89.98483327
+_cell_angle_gamma   120.01543028
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrIrPbO6
+_chemical_formula_sum   'Sr1 Ir1 Pb1 O6'
+_cell_volume   141.32700282
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.999907  0.999958  0.000906  1
+  Ir  Ir1  1  0.666658  0.333330  0.499311  1
+  Pb  Pb2  1  0.333169  0.666482  0.501871  1
+  O  O3  1  0.655985  0.042499  0.289977  1
+  O  O4  1  0.387579  0.344578  0.289099  1
+  O  O5  1  0.957729  0.613018  0.289665  1
+  O  O6  1  0.385384  0.043931  0.709456  1
+  O  O7  1  0.955664  0.341929  0.710120  1
+  O  O8  1  0.657922  0.614273  0.709594  1

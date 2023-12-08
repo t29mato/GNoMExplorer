@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_La16CdCo(TcHg)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.96269009
+_cell_length_b   10.09883695
+_cell_length_c   10.09883800
+_cell_angle_alpha   60.00000312
+_cell_angle_beta   59.54690730
+_cell_angle_gamma   59.54691414
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La16CdCo(TcHg)3
+_chemical_formula_sum   'La16 Cd1 Co1 Tc3 Hg3'
+_cell_volume   713.50325612
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.350357  0.344905  0.344905  1
+  La  La1  1  0.350357  0.344905  0.959832  1
+  La  La2  1  0.350357  0.959832  0.344905  1
+  La  La3  1  0.954030  0.348657  0.348657  1
+  La  La4  1  0.810636  0.187717  0.187717  1
+  La  La5  1  0.189805  0.811679  0.811679  1
+  La  La6  1  0.189805  0.811679  0.186836  1
+  La  La7  1  0.810636  0.187717  0.813930  1
+  La  La8  1  0.189805  0.186836  0.811679  1
+  La  La9  1  0.810636  0.813930  0.187717  1
+  La  La10  1  0.941486  0.557025  0.557025  1
+  La  La11  1  0.555312  0.942463  0.942463  1
+  La  La12  1  0.555312  0.942463  0.559762  1
+  La  La13  1  0.941486  0.557025  0.944463  1
+  La  La14  1  0.555312  0.559762  0.942463  1
+  La  La15  1  0.941486  0.944463  0.557025  1
+  Cd  Cd16  1  0.268635  0.577121  0.577121  1
+  Co  Co17  1  0.585920  0.138027  0.138027  1
+  Tc  Tc18  1  0.135471  0.134429  0.134429  1
+  Tc  Tc19  1  0.135471  0.134429  0.595671  1
+  Tc  Tc20  1  0.135471  0.595671  0.134429  1
+  Hg  Hg21  1  0.580738  0.583467  0.583467  1
+  Hg  Hg22  1  0.580738  0.583467  0.252330  1
+  Hg  Hg23  1  0.580738  0.252330  0.583467  1

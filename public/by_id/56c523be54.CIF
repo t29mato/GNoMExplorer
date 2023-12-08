@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_SmSiP5(Pd10Pb)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.73249294
+_cell_length_b   8.71421363
+_cell_length_c   8.71421421
+_cell_angle_alpha   60.13882837
+_cell_angle_beta   59.93058756
+_cell_angle_gamma   59.93058875
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmSiP5(Pd10Pb)2
+_chemical_formula_sum   'Sm1 Si1 P5 Pd20 Pb2'
+_cell_volume   468.89528439
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.999878  0.000122  0.000122  1
+  Si  Si1  1  0.732631  0.267369  0.267369  1
+  P  P2  1  0.264798  0.735202  0.735202  1
+  P  P3  1  0.265852  0.734148  0.264414  1
+  P  P4  1  0.735586  0.264414  0.734148  1
+  P  P5  1  0.265852  0.264414  0.734148  1
+  P  P6  1  0.735586  0.734148  0.264414  1
+  Pd  Pd7  1  0.383329  0.384801  0.384801  1
+  Pd  Pd8  1  0.615567  0.615152  0.615152  1
+  Pd  Pd9  1  0.384848  0.384433  0.845869  1
+  Pd  Pd10  1  0.384848  0.845869  0.384433  1
+  Pd  Pd11  1  0.615199  0.616671  0.152933  1
+  Pd  Pd12  1  0.615199  0.152933  0.616671  1
+  Pd  Pd13  1  0.847067  0.384801  0.384801  1
+  Pd  Pd14  1  0.154131  0.615152  0.615152  1
+  Pd  Pd15  1  0.343399  0.000620  0.000620  1
+  Pd  Pd16  1  0.655361  0.000620  0.000620  1
+  Pd  Pd17  1  0.999380  0.344639  0.656601  1
+  Pd  Pd18  1  0.999380  0.656601  0.344639  1
+  Pd  Pd19  1  0.000461  0.344838  0.999539  1
+  Pd  Pd20  1  0.655162  0.999539  0.344838  1
+  Pd  Pd21  1  0.000254  0.654970  0.999746  1
+  Pd  Pd22  1  0.345030  0.999746  0.654970  1
+  Pd  Pd23  1  0.000461  0.999539  0.344838  1
+  Pd  Pd24  1  0.000254  0.999746  0.654970  1
+  Pd  Pd25  1  0.655162  0.344838  0.999539  1
+  Pd  Pd26  1  0.345030  0.654970  0.999746  1
+  Pb  Pb27  1  0.250148  0.249852  0.249852  1
+  Pb  Pb28  1  0.750148  0.749852  0.749852  1

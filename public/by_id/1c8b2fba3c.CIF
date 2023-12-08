@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_ZrSc5(TiCo2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.32148441
+_cell_length_b   8.32148477
+_cell_length_c   8.31875700
+_cell_angle_alpha   60.01084689
+_cell_angle_beta   60.01084542
+_cell_angle_gamma   59.97831979
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrSc5(TiCo2)2
+_chemical_formula_sum   'Zr2 Sc10 Ti4 Co8'
+_cell_volume   407.32870217
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.808366  0.808366  0.191634  1
+  Zr  Zr1  1  0.191634  0.191634  0.808366  1
+  Sc  Sc2  1  0.809855  0.190145  0.809855  1
+  Sc  Sc3  1  0.190145  0.809855  0.190145  1
+  Sc  Sc4  1  0.190145  0.809855  0.809855  1
+  Sc  Sc5  1  0.809855  0.190145  0.190145  1
+  Sc  Sc6  1  0.439310  0.439310  0.060690  1
+  Sc  Sc7  1  0.060690  0.060690  0.439310  1
+  Sc  Sc8  1  0.439676  0.060324  0.439676  1
+  Sc  Sc9  1  0.060324  0.439676  0.060324  1
+  Sc  Sc10  1  0.060324  0.439676  0.439676  1
+  Sc  Sc11  1  0.439676  0.060324  0.060324  1
+  Ti  Ti12  1  0.125173  0.627815  0.623506  1
+  Ti  Ti13  1  0.627815  0.125173  0.623506  1
+  Ti  Ti14  1  0.623506  0.623506  0.125173  1
+  Ti  Ti15  1  0.623506  0.623506  0.627815  1
+  Co  Co16  1  0.741924  0.421826  0.418125  1
+  Co  Co17  1  0.421826  0.741924  0.418125  1
+  Co  Co18  1  0.418125  0.418125  0.741924  1
+  Co  Co19  1  0.418125  0.418125  0.421826  1
+  Co  Co20  1  0.505014  0.835183  0.829901  1
+  Co  Co21  1  0.835183  0.505014  0.829901  1
+  Co  Co22  1  0.829901  0.829901  0.505014  1
+  Co  Co23  1  0.829901  0.829901  0.835183  1

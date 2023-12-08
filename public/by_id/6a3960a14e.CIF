@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LiGa2CuI8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.52853700
+_cell_length_b   6.52853700
+_cell_length_c   11.82596900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiGa2CuI8
+_chemical_formula_sum   'Li1 Ga2 Cu1 I8'
+_cell_volume   504.04403066
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.000000  0.000000  0.000000  1
+  Ga  Ga1  1  0.000000  0.500000  0.255970  1
+  Ga  Ga2  1  0.500000  0.000000  0.744030  1
+  Cu  Cu3  1  0.000000  0.000000  0.500000  1
+  I  I4  1  0.241386  0.280799  0.129177  1
+  I  I5  1  0.758614  0.719202  0.129177  1
+  I  I6  1  0.280799  0.758614  0.870823  1
+  I  I7  1  0.776037  0.258785  0.381670  1
+  I  I8  1  0.719202  0.241386  0.870823  1
+  I  I9  1  0.223963  0.741216  0.381670  1
+  I  I10  1  0.741216  0.776037  0.618330  1
+  I  I11  1  0.258785  0.223963  0.618330  1

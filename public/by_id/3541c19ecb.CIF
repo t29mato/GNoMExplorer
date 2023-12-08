@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Fe5Rh3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.16855572
+_cell_length_b   5.16859529
+_cell_length_c   5.16863102
+_cell_angle_alpha   109.46256589
+_cell_angle_beta   109.47597809
+_cell_angle_gamma   109.47587212
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe5Rh3
+_chemical_formula_sum   'Fe5 Rh3'
+_cell_volume   106.28973414
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.000000  0.000000  0.000000  1
+  Fe  Fe1  1  0.499999  0.000000  0.000000  1
+  Fe  Fe2  1  0.000000  0.499999  0.000000  1
+  Fe  Fe3  1  0.000000  0.000000  0.499999  1
+  Fe  Fe4  1  0.499999  0.499999  0.499999  1
+  Rh  Rh5  1  0.499999  0.499999  0.000000  1
+  Rh  Rh6  1  0.499999  0.000000  0.499999  1
+  Rh  Rh7  1  0.000000  0.499999  0.499999  1

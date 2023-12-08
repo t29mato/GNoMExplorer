@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Pa2Be2(Co5H)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.19891295
+_cell_length_b   6.19248554
+_cell_length_c   6.19248546
+_cell_angle_alpha   84.15993615
+_cell_angle_beta   83.35318925
+_cell_angle_gamma   83.35318707
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pa2Be2(Co5H)3
+_chemical_formula_sum   'Pa2 Be2 Co15 H3'
+_cell_volume   233.58185620
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.661692  0.660881  0.660881  1
+  Pa  Pa1  1  0.338308  0.339119  0.339119  1
+  Be  Be2  1  0.000000  0.000000  0.500000  1
+  Be  Be3  1  0.000000  0.500000  0.000000  1
+  Co  Co4  1  0.500000  0.000000  0.000000  1
+  Co  Co5  1  0.279878  0.712660  0.000270  1
+  Co  Co6  1  0.720122  0.999730  0.287340  1
+  Co  Co7  1  0.000000  0.284293  0.715707  1
+  Co  Co8  1  0.279878  0.000270  0.712660  1
+  Co  Co9  1  0.000000  0.715707  0.284293  1
+  Co  Co10  1  0.720122  0.287340  0.999730  1
+  Co  Co11  1  0.344654  0.350615  0.848483  1
+  Co  Co12  1  0.344654  0.848483  0.350615  1
+  Co  Co13  1  0.856063  0.344221  0.344221  1
+  Co  Co14  1  0.655346  0.649385  0.151517  1
+  Co  Co15  1  0.655346  0.151517  0.649385  1
+  Co  Co16  1  0.143937  0.655779  0.655779  1
+  Co  Co17  1  0.900092  0.899061  0.899061  1
+  Co  Co18  1  0.099908  0.100939  0.100939  1
+  H  H19  1  0.500000  0.500000  0.000000  1
+  H  H20  1  0.500000  0.000000  0.500000  1
+  H  H21  1  0.000000  0.500000  0.500000  1

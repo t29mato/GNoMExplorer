@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CsRb2LiPb4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.19797225
+_cell_length_b   9.19797258
+_cell_length_c   10.83006300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   133.60506843
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsRb2LiPb4
+_chemical_formula_sum   'Cs2 Rb4 Li2 Pb8'
+_cell_volume   663.46840510
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.228587  0.771413  0.250000  1
+  Cs  Cs1  1  0.771413  0.228587  0.750000  1
+  Rb  Rb2  1  0.611497  0.388503  0.047502  1
+  Rb  Rb3  1  0.388503  0.611497  0.952498  1
+  Rb  Rb4  1  0.388503  0.611497  0.547502  1
+  Rb  Rb5  1  0.611497  0.388503  0.452498  1
+  Li  Li6  1  0.000000  0.000000  0.000000  1
+  Li  Li7  1  0.000000  0.000000  0.500000  1
+  Pb  Pb8  1  0.186321  0.261856  0.250000  1
+  Pb  Pb9  1  0.813679  0.738144  0.750000  1
+  Pb  Pb10  1  0.738144  0.813679  0.250000  1
+  Pb  Pb11  1  0.261856  0.186321  0.750000  1
+  Pb  Pb12  1  0.831704  0.168296  0.107072  1
+  Pb  Pb13  1  0.168296  0.831704  0.892928  1
+  Pb  Pb14  1  0.168296  0.831704  0.607072  1
+  Pb  Pb15  1  0.831704  0.168296  0.392928  1

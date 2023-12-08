@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Y4Al4IrPt3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.44603700
+_cell_length_b   6.87634500
+_cell_length_c   7.76951400
+_cell_angle_alpha   90.00121631
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y4Al4IrPt3
+_chemical_formula_sum   'Y4 Al4 Ir1 Pt3'
+_cell_volume   237.53334472
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.250000  0.030330  0.680043  1
+  Y  Y1  1  0.250000  0.527100  0.817844  1
+  Y  Y2  1  0.750000  0.977965  0.318244  1
+  Y  Y3  1  0.750000  0.470942  0.184451  1
+  Al  Al4  1  0.250000  0.149195  0.066145  1
+  Al  Al5  1  0.250000  0.642988  0.435162  1
+  Al  Al6  1  0.750000  0.851779  0.936407  1
+  Al  Al7  1  0.750000  0.352032  0.562839  1
+  Ir  Ir8  1  0.250000  0.271965  0.384263  1
+  Pt  Pt9  1  0.250000  0.776040  0.114892  1
+  Pt  Pt10  1  0.750000  0.725466  0.615905  1
+  Pt  Pt11  1  0.750000  0.224197  0.883805  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sc2Al2IrPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.31402000
+_cell_length_b   6.39960300
+_cell_length_c   7.62565900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc2Al2IrPt
+_chemical_formula_sum   'Sc4 Al4 Ir2 Pt2'
+_cell_volume   210.52931060
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.250000  0.968319  0.322803  1
+  Sc  Sc1  1  0.250000  0.468319  0.177197  1
+  Sc  Sc2  1  0.750000  0.025400  0.681596  1
+  Sc  Sc3  1  0.750000  0.525400  0.818404  1
+  Al  Al4  1  0.250000  0.354185  0.560195  1
+  Al  Al5  1  0.250000  0.854185  0.939805  1
+  Al  Al6  1  0.750000  0.648858  0.443249  1
+  Al  Al7  1  0.750000  0.148858  0.056751  1
+  Ir  Ir8  1  0.250000  0.244586  0.882023  1
+  Ir  Ir9  1  0.250000  0.744586  0.617977  1
+  Pt  Pt10  1  0.750000  0.758652  0.120843  1
+  Pt  Pt11  1  0.750000  0.258652  0.379157  1

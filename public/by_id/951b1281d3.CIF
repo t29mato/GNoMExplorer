@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LiSc3Pt2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.65420400
+_cell_length_b   5.77700712
+_cell_length_c   8.10337679
+_cell_angle_alpha   90.07057140
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiSc3Pt2
+_chemical_formula_sum   'Li2 Sc6 Pt4'
+_cell_volume   217.87832164
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.250000  0.999183  0.253887  1
+  Li  Li1  1  0.750000  0.000817  0.746113  1
+  Sc  Sc2  1  0.250000  0.497149  0.251848  1
+  Sc  Sc3  1  0.750000  0.502851  0.748152  1
+  Sc  Sc4  1  0.750000  0.823487  0.414464  1
+  Sc  Sc5  1  0.250000  0.176513  0.585536  1
+  Sc  Sc6  1  0.750000  0.174849  0.081436  1
+  Sc  Sc7  1  0.250000  0.825151  0.918564  1
+  Pt  Pt8  1  0.250000  0.308888  0.917577  1
+  Pt  Pt9  1  0.750000  0.691112  0.082423  1
+  Pt  Pt10  1  0.250000  0.695364  0.582926  1
+  Pt  Pt11  1  0.750000  0.304636  0.417074  1

@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Ba2Hg(BrO)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.57457188
+_cell_length_b   6.57457142
+_cell_length_c   8.45803764
+_cell_angle_alpha   119.44343888
+_cell_angle_beta   119.44343446
+_cell_angle_gamma   38.76533187
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Hg(BrO)2
+_chemical_formula_sum   'Ba2 Hg1 Br2 O2'
+_cell_volume   195.37651482
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.804647  0.804647  0.240465  1
+  Ba  Ba1  1  0.195353  0.195353  0.759535  1
+  Hg  Hg2  1  0.000000  0.000000  0.000000  1
+  Br  Br3  1  0.575217  0.575217  0.364087  1
+  Br  Br4  1  0.424784  0.424784  0.635913  1
+  O  O5  1  0.183133  0.183133  0.066779  1
+  O  O6  1  0.816866  0.816866  0.933221  1

@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_GdAl8Cu4Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.88243160
+_cell_length_b   5.88243215
+_cell_length_c   14.35060800
+_cell_angle_alpha   101.82680628
+_cell_angle_beta   101.82680741
+_cell_angle_gamma   90.00000406
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdAl8Cu4Ge
+_chemical_formula_sum   'Gd2 Al16 Cu8 Ge2'
+_cell_volume   475.25745176
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.750001  0.250000  0.500000  1
+  Gd  Gd1  1  0.250000  0.750001  0.500000  1
+  Al  Al2  1  0.301271  0.301271  0.104230  1
+  Al  Al3  1  0.802959  0.301271  0.104230  1
+  Al  Al4  1  0.301271  0.802959  0.104230  1
+  Al  Al5  1  0.802959  0.802959  0.104230  1
+  Al  Al6  1  0.410146  0.410146  0.308452  1
+  Al  Al7  1  0.898306  0.410146  0.308452  1
+  Al  Al8  1  0.410146  0.898306  0.308452  1
+  Al  Al9  1  0.898306  0.898306  0.308452  1
+  Al  Al10  1  0.101693  0.101693  0.691548  1
+  Al  Al11  1  0.589854  0.101693  0.691548  1
+  Al  Al12  1  0.101693  0.589854  0.691548  1
+  Al  Al13  1  0.589854  0.589854  0.691548  1
+  Al  Al14  1  0.197042  0.197042  0.895770  1
+  Al  Al15  1  0.698728  0.197042  0.895770  1
+  Al  Al16  1  0.197042  0.698728  0.895770  1
+  Al  Al17  1  0.698728  0.698728  0.895770  1
+  Cu  Cu18  1  0.000000  0.000000  0.000000  1
+  Cu  Cu19  1  0.500001  0.500001  0.000000  1
+  Cu  Cu20  1  0.604108  0.104108  0.208216  1
+  Cu  Cu21  1  0.104108  0.604108  0.208216  1
+  Cu  Cu22  1  0.704776  0.704776  0.409553  1
+  Cu  Cu23  1  0.295225  0.295225  0.590447  1
+  Cu  Cu24  1  0.895893  0.395892  0.791783  1
+  Cu  Cu25  1  0.395892  0.895893  0.791783  1
+  Ge  Ge26  1  0.209585  0.209585  0.419173  1
+  Ge  Ge27  1  0.790415  0.790415  0.580828  1

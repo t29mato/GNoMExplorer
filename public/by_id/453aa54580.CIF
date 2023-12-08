@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na2AlInAu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.40090900
+_cell_length_b   7.66513848
+_cell_length_c   8.01011600
+_cell_angle_alpha   87.41259129
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2AlInAu2
+_chemical_formula_sum   'Na4 Al2 In2 Au4'
+_cell_volume   269.93438908
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.250000  0.013778  0.340129  1
+  Na  Na1  1  0.250000  0.512845  0.170495  1
+  Na  Na2  1  0.750000  0.986222  0.659871  1
+  Na  Na3  1  0.750000  0.487155  0.829505  1
+  Al  Al4  1  0.250000  0.643835  0.567467  1
+  Al  Al5  1  0.750000  0.356165  0.432533  1
+  In  In6  1  0.750000  0.845534  0.069294  1
+  In  In7  1  0.250000  0.154466  0.930706  1
+  Au  Au8  1  0.250000  0.783465  0.852819  1
+  Au  Au9  1  0.750000  0.216535  0.147181  1
+  Au  Au10  1  0.750000  0.694690  0.399626  1
+  Au  Au11  1  0.250000  0.305310  0.600374  1

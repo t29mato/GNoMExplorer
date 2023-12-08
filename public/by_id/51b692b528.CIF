@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Th2Cr2C3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.57741752
+_cell_length_b   5.57741760
+_cell_length_c   5.83188926
+_cell_angle_alpha   76.55207123
+_cell_angle_beta   103.44792837
+_cell_angle_gamma   144.35703497
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Th2Cr2C3
+_chemical_formula_sum   'Th2 Cr2 C3'
+_cell_volume   102.51418614
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.395262  0.604740  0.175032  1
+  Th  Th1  1  0.604740  0.395261  0.824970  1
+  Cr  Cr2  1  0.159225  0.840776  0.397788  1
+  Cr  Cr3  1  0.840777  0.159225  0.602211  1
+  C  C4  1  0.718454  0.281548  0.273123  1
+  C  C5  1  0.281548  0.718454  0.726877  1
+  C  C6  1  0.999999  0.999999  0.500001  1

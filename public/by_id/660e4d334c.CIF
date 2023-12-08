@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Hf4Al4Cr3Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.06694707
+_cell_length_b   5.07301871
+_cell_length_c   8.47062900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   61.10560827
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf4Al4Cr3Ni
+_chemical_formula_sum   'Hf4 Al4 Cr3 Ni1'
+_cell_volume   190.62967631
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.334627  0.334235  0.556335  1
+  Hf  Hf1  1  0.666680  0.666339  0.427476  1
+  Hf  Hf2  1  0.666680  0.666339  0.072524  1
+  Hf  Hf3  1  0.334627  0.334235  0.943665  1
+  Al  Al4  1  0.994589  0.994254  0.494434  1
+  Al  Al5  1  0.994589  0.994254  0.005566  1
+  Al  Al6  1  0.834283  0.348638  0.750000  1
+  Al  Al7  1  0.348466  0.833985  0.750000  1
+  Cr  Cr8  1  0.173905  0.641785  0.250000  1
+  Cr  Cr9  1  0.641856  0.173610  0.250000  1
+  Cr  Cr10  1  0.174274  0.174160  0.250000  1
+  Ni  Ni11  1  0.835426  0.838164  0.750000  1

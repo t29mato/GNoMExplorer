@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Hf3Ti2Si2Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.78944641
+_cell_length_b   7.78944796
+_cell_length_c   5.29503100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.20042832
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf3Ti2Si2Ge
+_chemical_formula_sum   'Hf6 Ti4 Si4 Ge2'
+_cell_volume   277.67177880
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.251389  0.997521  0.250000  1
+  Hf  Hf1  1  0.748611  0.002479  0.750000  1
+  Hf  Hf2  1  0.997521  0.251389  0.250000  1
+  Hf  Hf3  1  0.002479  0.748611  0.750000  1
+  Hf  Hf4  1  0.755665  0.755665  0.250000  1
+  Hf  Hf5  1  0.244335  0.244335  0.750000  1
+  Ti  Ti6  1  0.330931  0.669069  0.000000  1
+  Ti  Ti7  1  0.669069  0.330931  0.000000  1
+  Ti  Ti8  1  0.669069  0.330931  0.500000  1
+  Ti  Ti9  1  0.330931  0.669069  0.500000  1
+  Si  Si10  1  0.602350  0.998521  0.250000  1
+  Si  Si11  1  0.397650  0.001479  0.750000  1
+  Si  Si12  1  0.998521  0.602350  0.250000  1
+  Si  Si13  1  0.001479  0.397650  0.750000  1
+  Ge  Ge14  1  0.398275  0.398275  0.250000  1
+  Ge  Ge15  1  0.601725  0.601725  0.750000  1

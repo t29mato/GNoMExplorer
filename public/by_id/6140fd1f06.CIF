@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LaPr2ErAu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.04891400
+_cell_length_b   7.35501798
+_cell_length_c   9.25481500
+_cell_angle_alpha   89.94840665
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaPr2ErAu2
+_chemical_formula_sum   'La2 Pr4 Er2 Au4'
+_cell_volume   343.67605763
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.750000  0.652192  0.410457  1
+  La  La1  1  0.250000  0.347808  0.589543  1
+  Pr  Pr2  1  0.250000  0.489439  0.175173  1
+  Pr  Pr3  1  0.750000  0.510561  0.824827  1
+  Pr  Pr4  1  0.250000  0.991592  0.322783  1
+  Pr  Pr5  1  0.750000  0.008408  0.677217  1
+  Er  Er6  1  0.750000  0.149084  0.076635  1
+  Er  Er7  1  0.250000  0.850916  0.923365  1
+  Au  Au8  1  0.250000  0.240323  0.913383  1
+  Au  Au9  1  0.750000  0.759677  0.086617  1
+  Au  Au10  1  0.250000  0.760228  0.612523  1
+  Au  Au11  1  0.750000  0.239772  0.387477  1

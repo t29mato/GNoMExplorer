@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ti2Co4Si3GeMo2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.61967300
+_cell_length_b   6.16367679
+_cell_length_c   6.99942982
+_cell_angle_alpha   90.30492962
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2Co4Si3GeMo2
+_chemical_formula_sum   'Ti2 Co4 Si3 Ge1 Mo2'
+_cell_volume   156.15852863
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.250000  0.518886  0.679133  1
+  Ti  Ti1  1  0.750000  0.979934  0.184648  1
+  Co  Co2  1  0.250000  0.641117  0.068423  1
+  Co  Co3  1  0.750000  0.356508  0.936969  1
+  Co  Co4  1  0.250000  0.138592  0.434475  1
+  Co  Co5  1  0.750000  0.858315  0.554448  1
+  Si  Si6  1  0.250000  0.767822  0.379491  1
+  Si  Si7  1  0.750000  0.224752  0.618469  1
+  Si  Si8  1  0.250000  0.274308  0.120360  1
+  Ge  Ge9  1  0.750000  0.734000  0.877109  1
+  Mo  Mo10  1  0.250000  0.031245  0.821345  1
+  Mo  Mo11  1  0.750000  0.474519  0.325131  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sr4Si4IrPd3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.54940870
+_cell_length_b   6.54940870
+_cell_length_c   6.54940870
+_cell_angle_alpha   89.71470918
+_cell_angle_beta   90.28529082
+_cell_angle_gamma   89.71470918
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr4Si4IrPd3
+_chemical_formula_sum   'Sr4 Si4 Ir1 Pd3'
+_cell_volume   280.92479403
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.626989  0.365219  0.871598  1
+  Sr  Sr1  1  0.371598  0.873011  0.634781  1
+  Sr  Sr2  1  0.134781  0.128402  0.126989  1
+  Sr  Sr3  1  0.867488  0.632512  0.367488  1
+  Si  Si4  1  0.162612  0.337388  0.662612  1
+  Si  Si5  1  0.659752  0.155560  0.333148  1
+  Si  Si6  1  0.344440  0.666852  0.159752  1
+  Si  Si7  1  0.833148  0.840248  0.844440  1
+  Ir  Ir8  1  0.588471  0.911529  0.088471  1
+  Pd  Pd9  1  0.090273  0.589754  0.910205  1
+  Pd  Pd10  1  0.410205  0.409727  0.410246  1
+  Pd  Pd11  1  0.910246  0.089795  0.590273  1

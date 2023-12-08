@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ta3NbCr2(CoP2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.55477300
+_cell_length_b   6.18970151
+_cell_length_c   7.17101960
+_cell_angle_alpha   89.66179709
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta3NbCr2(CoP2)2
+_chemical_formula_sum   'Ta3 Nb1 Cr2 Co2 P4'
+_cell_volume   157.78107932
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.250000  0.020995  0.828643  1
+  Ta  Ta1  1  0.250000  0.533010  0.670982  1
+  Ta  Ta2  1  0.750000  0.978657  0.171744  1
+  Nb  Nb3  1  0.750000  0.467840  0.329984  1
+  Cr  Cr4  1  0.250000  0.143435  0.437336  1
+  Cr  Cr5  1  0.750000  0.856252  0.563835  1
+  Co  Co6  1  0.250000  0.642491  0.059801  1
+  Co  Co7  1  0.750000  0.357037  0.936868  1
+  P  P8  1  0.250000  0.770722  0.366815  1
+  P  P9  1  0.250000  0.277240  0.119371  1
+  P  P10  1  0.750000  0.229757  0.633685  1
+  P  P11  1  0.750000  0.722563  0.880935  1

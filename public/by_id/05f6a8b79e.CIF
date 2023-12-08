@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_HfZr6(TiSn2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.39374000
+_cell_length_b   8.39373944
+_cell_length_c   5.62897200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999434
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfZr6(TiSn2)3
+_chemical_formula_sum   'Hf1 Zr6 Ti3 Sn6'
+_cell_volume   343.45570997
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.666667  0.333333  0.500000  1
+  Zr  Zr1  1  0.760345  0.757845  0.747874  1
+  Zr  Zr2  1  0.242155  0.002501  0.747874  1
+  Zr  Zr3  1  0.997499  0.239655  0.747874  1
+  Zr  Zr4  1  0.242155  0.239655  0.252126  1
+  Zr  Zr5  1  0.760345  0.002501  0.252126  1
+  Zr  Zr6  1  0.997499  0.757845  0.252126  1
+  Ti  Ti7  1  0.666667  0.333333  0.000000  1
+  Ti  Ti8  1  0.333333  0.666667  0.000000  1
+  Ti  Ti9  1  0.333333  0.666667  0.500000  1
+  Sn  Sn10  1  0.396610  0.402184  0.754271  1
+  Sn  Sn11  1  0.597816  0.994426  0.754271  1
+  Sn  Sn12  1  0.005574  0.603390  0.754271  1
+  Sn  Sn13  1  0.597816  0.603390  0.245729  1
+  Sn  Sn14  1  0.396610  0.994426  0.245729  1
+  Sn  Sn15  1  0.005574  0.402184  0.245729  1

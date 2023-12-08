@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Lu3(ThTc)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.30022390
+_cell_length_b   7.36320851
+_cell_length_c   8.55781413
+_cell_angle_alpha   96.71494882
+_cell_angle_beta   111.59835411
+_cell_angle_gamma   89.99999935
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu3(ThTc)2
+_chemical_formula_sum   'Lu6 Th4 Tc4'
+_cell_volume   366.19101455
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.298815  0.315184  0.428350  1
+  Lu  Lu1  1  0.701185  0.684816  0.571650  1
+  Lu  Lu2  1  0.870467  0.184816  0.571650  1
+  Lu  Lu3  1  0.129533  0.815184  0.428350  1
+  Lu  Lu4  1  0.082019  0.250000  0.000000  1
+  Lu  Lu5  1  0.917981  0.750000  0.000000  1
+  Th  Th6  1  0.519062  0.088186  0.804024  1
+  Th  Th7  1  0.480938  0.911814  0.195976  1
+  Th  Th8  1  0.715039  0.411814  0.195976  1
+  Th  Th9  1  0.284961  0.588186  0.804024  1
+  Tc  Tc10  1  0.341025  0.586540  0.217000  1
+  Tc  Tc11  1  0.658975  0.413460  0.783000  1
+  Tc  Tc12  1  0.124026  0.913460  0.783000  1
+  Tc  Tc13  1  0.875974  0.086540  0.217000  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_TbYFe2Br
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.91814700
+_cell_length_b   3.91814789
+_cell_length_c   16.56759600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001781
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbYFe2Br
+_chemical_formula_sum   'Tb2 Y2 Fe4 Br2'
+_cell_volume   220.26809695
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.000000  0.000000  0.109517  1
+  Tb  Tb1  1  0.000000  0.000000  0.890456  1
+  Y  Y2  1  0.000000  0.000000  0.610071  1
+  Y  Y3  1  0.000000  0.000000  0.389963  1
+  Fe  Fe4  1  0.333333  0.666667  0.506076  1
+  Fe  Fe5  1  0.666667  0.333333  0.493964  1
+  Fe  Fe6  1  0.666667  0.333333  0.005694  1
+  Fe  Fe7  1  0.333333  0.666667  0.994205  1
+  Br  Br8  1  0.333333  0.666667  0.250915  1
+  Br  Br9  1  0.666667  0.333333  0.749139  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Mn2Nb3FeB3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.12374997
+_cell_length_b   6.10662629
+_cell_length_c   3.11150600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.90755942
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2Nb3FeB3
+_chemical_formula_sum   'Mn2 Nb3 Fe1 B3'
+_cell_volume   100.86113630
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.757268  0.757409  0.000000  1
+  Mn  Mn1  1  0.242732  0.000141  0.000000  1
+  Nb  Nb2  1  0.410980  0.409938  0.500000  1
+  Nb  Nb3  1  0.589020  0.998958  0.500000  1
+  Nb  Nb4  1  0.000000  0.589871  0.500000  1
+  Fe  Fe5  1  0.000000  0.241697  0.000000  1
+  B  B6  1  0.666597  0.333839  0.000000  1
+  B  B7  1  0.333403  0.667243  0.000000  1
+  B  B8  1  0.000000  0.000904  0.500000  1

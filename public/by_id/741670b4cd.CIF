@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Li3Tm3InGeP
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.03233500
+_cell_length_b   7.03233596
+_cell_length_c   4.19002200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000960
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3Tm3InGeP
+_chemical_formula_sum   'Li3 Tm3 In1 Ge1 P1'
+_cell_volume   179.45107090
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.250719  0.997709  0.500000  1
+  Li  Li1  1  0.002291  0.253010  0.500000  1
+  Li  Li2  1  0.746990  0.749281  0.500000  1
+  Tm  Tm3  1  0.558102  0.998425  0.000000  1
+  Tm  Tm4  1  0.001575  0.559677  0.000000  1
+  Tm  Tm5  1  0.440323  0.441898  0.000000  1
+  In  In6  1  0.000000  0.000000  0.000000  1
+  Ge  Ge7  1  0.666667  0.333333  0.500000  1
+  P  P8  1  0.333333  0.666667  0.500000  1

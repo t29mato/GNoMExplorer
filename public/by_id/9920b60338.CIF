@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_La3SnPd3Pb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.83902500
+_cell_length_b   7.87029490
+_cell_length_c   4.23624400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.86866008
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3SnPd3Pb2
+_chemical_formula_sum   'La3 Sn1 Pd3 Pb2'
+_cell_volume   226.64070302
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.003173  0.590155  0.000000  1
+  La  La1  1  0.413018  0.409845  0.000000  1
+  La  La2  1  0.583803  0.000000  0.000000  1
+  Sn  Sn3  1  0.250708  0.000000  0.500000  1
+  Pd  Pd4  1  0.657485  0.326571  0.500000  1
+  Pd  Pd5  1  0.012442  0.000000  0.000000  1
+  Pd  Pd6  1  0.330913  0.673429  0.500000  1
+  Pb  Pb7  1  0.747819  0.747182  0.500000  1
+  Pb  Pb8  1  0.000637  0.252818  0.500000  1

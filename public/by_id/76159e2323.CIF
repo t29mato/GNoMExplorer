@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Y4TiAl(GaIr2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.34493900
+_cell_length_b   6.88421274
+_cell_length_c   7.87572699
+_cell_angle_alpha   89.34313420
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y4TiAl(GaIr2)2
+_chemical_formula_sum   'Y4 Ti1 Al1 Ga2 Ir4'
+_cell_volume   235.55920385
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.250000  0.965893  0.311862  1
+  Y  Y1  1  0.250000  0.478573  0.176649  1
+  Y  Y2  1  0.750000  0.022514  0.690723  1
+  Y  Y3  1  0.750000  0.529482  0.825318  1
+  Ti  Ti4  1  0.250000  0.367641  0.567019  1
+  Al  Al5  1  0.750000  0.641451  0.435975  1
+  Ga  Ga6  1  0.250000  0.848429  0.930543  1
+  Ga  Ga7  1  0.750000  0.153827  0.066214  1
+  Ir  Ir8  1  0.250000  0.231154  0.873964  1
+  Ir  Ir9  1  0.250000  0.722063  0.611914  1
+  Ir  Ir10  1  0.750000  0.773241  0.118773  1
+  Ir  Ir11  1  0.750000  0.265731  0.391045  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_BaSr(CuP2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.42010953
+_cell_length_b   5.72887294
+_cell_length_c   9.99071735
+_cell_angle_alpha   97.37245369
+_cell_angle_beta   74.26090191
+_cell_angle_gamma   118.23260751
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSr(CuP2)4
+_chemical_formula_sum   'Ba1 Sr1 Cu4 P8'
+_cell_volume   263.06957110
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.125000  0.749999  0.750000  1
+  Sr  Sr1  1  0.875000  0.250000  0.250000  1
+  Cu  Cu2  1  0.497542  0.250000  0.004914  1
+  Cu  Cu3  1  0.252456  0.250000  0.495086  1
+  Cu  Cu4  1  0.748993  0.749999  0.502015  1
+  Cu  Cu5  1  0.501008  0.749999  0.997985  1
+  P  P6  1  0.686355  0.623742  0.144338  1
+  P  P7  1  0.169307  0.876259  0.144338  1
+  P  P8  1  0.437388  0.623742  0.355662  1
+  P  P9  1  0.206952  0.876259  0.355662  1
+  P  P10  1  0.800285  0.128656  0.642477  1
+  P  P11  1  0.557238  0.371343  0.642477  1
+  P  P12  1  0.828372  0.128656  0.857524  1
+  P  P13  1  0.314104  0.371343  0.857524  1

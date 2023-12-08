@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LiZrNiAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.94358400
+_cell_length_b   3.94358306
+_cell_length_c   12.38780000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99997430
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiZrNiAs2
+_chemical_formula_sum   'Li2 Zr2 Ni2 As4'
+_cell_volume   166.84262649
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.666667  0.333333  0.390188  1
+  Li  Li1  1  0.333333  0.666667  0.890188  1
+  Zr  Zr2  1  0.333333  0.666667  0.610396  1
+  Zr  Zr3  1  0.666667  0.333333  0.110396  1
+  Ni  Ni4  1  0.000000  0.000000  0.780836  1
+  Ni  Ni5  1  0.000000  0.000000  0.280836  1
+  As  As6  1  0.333333  0.666667  0.239474  1
+  As  As7  1  0.000000  0.000000  0.979106  1
+  As  As8  1  0.000000  0.000000  0.479106  1
+  As  As9  1  0.666667  0.333333  0.739474  1

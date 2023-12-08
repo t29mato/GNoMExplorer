@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CsEr(SO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.45413600
+_cell_length_b   5.45413708
+_cell_length_c   8.93035300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000559
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsEr(SO4)2
+_chemical_formula_sum   'Cs1 Er1 S2 O8'
+_cell_volume   230.06536609
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.000000  0.000000  0.500000  1
+  Er  Er1  1  0.000000  0.000000  0.000000  1
+  S  S2  1  0.333333  0.666667  0.209699  1
+  S  S3  1  0.666667  0.333333  0.790301  1
+  O  O4  1  0.162625  0.371644  0.150704  1
+  O  O5  1  0.628356  0.790980  0.150704  1
+  O  O6  1  0.371644  0.162625  0.849296  1
+  O  O7  1  0.209020  0.837375  0.150704  1
+  O  O8  1  0.790980  0.628356  0.849296  1
+  O  O9  1  0.837375  0.209020  0.849296  1
+  O  O10  1  0.333333  0.666667  0.373126  1
+  O  O11  1  0.666667  0.333333  0.626874  1

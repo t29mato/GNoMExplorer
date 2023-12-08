@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Tb4Y6Si5Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.48905100
+_cell_length_b   8.49111992
+_cell_length_c   6.40744700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99193631
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb4Y6Si5Ge
+_chemical_formula_sum   'Tb4 Y6 Si5 Ge1'
+_cell_volume   400.01387400
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.333194  0.665816  0.499367  1
+  Tb  Tb1  1  0.667379  0.334184  0.000633  1
+  Tb  Tb2  1  0.667379  0.334184  0.499367  1
+  Tb  Tb3  1  0.333194  0.665816  0.000633  1
+  Y  Y4  1  0.998886  0.755864  0.750000  1
+  Y  Y5  1  0.999928  0.243287  0.250000  1
+  Y  Y6  1  0.756642  0.756713  0.250000  1
+  Y  Y7  1  0.757546  0.000000  0.750000  1
+  Y  Y8  1  0.243022  0.244136  0.750000  1
+  Y  Y9  1  0.242963  0.000000  0.250000  1
+  Si  Si10  1  0.394171  0.394116  0.250000  1
+  Si  Si11  1  0.000055  0.605884  0.250000  1
+  Si  Si12  1  0.999950  0.394166  0.750000  1
+  Si  Si13  1  0.605784  0.605834  0.750000  1
+  Si  Si14  1  0.605947  0.000000  0.250000  1
+  Ge  Ge15  1  0.393961  0.000000  0.750000  1

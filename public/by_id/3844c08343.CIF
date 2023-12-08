@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_TbSm3Dy(CoB3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.41801588
+_cell_length_b   5.41801707
+_cell_length_c   8.55914258
+_cell_angle_alpha   71.54832880
+_cell_angle_beta   71.54832061
+_cell_angle_gamma   59.99999093
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbSm3Dy(CoB3)2
+_chemical_formula_sum   'Tb1 Sm3 Dy1 Co2 B6'
+_cell_volume   202.53915729
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.418495  0.418495  0.744516  1
+  Sm  Sm1  1  0.999893  0.999893  0.000322  1
+  Sm  Sm2  1  0.252176  0.252176  0.243471  1
+  Sm  Sm3  1  0.747839  0.747839  0.756483  1
+  Dy  Dy4  1  0.581010  0.581010  0.256969  1
+  Co  Co5  1  0.121065  0.121065  0.636804  1
+  Co  Co6  1  0.878989  0.878989  0.363033  1
+  B  B7  1  0.167983  0.832336  0.499734  1
+  B  B8  1  0.832336  0.499947  0.499734  1
+  B  B9  1  0.499947  0.167983  0.499734  1
+  B  B10  1  0.167983  0.499947  0.499734  1
+  B  B11  1  0.499947  0.832336  0.499734  1
+  B  B12  1  0.832336  0.167983  0.499734  1

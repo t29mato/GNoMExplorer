@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_La2PrAlC3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.84575300
+_cell_length_b   7.62983433
+_cell_length_c   10.33391505
+_cell_angle_alpha   90.64230846
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2PrAlC3
+_chemical_formula_sum   'La4 Pr2 Al2 C6'
+_cell_volume   303.20341790
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.500000  0.986064  0.190862  1
+  La  La1  1  0.500000  0.013936  0.809138  1
+  La  La2  1  0.000000  0.749541  0.461451  1
+  La  La3  1  0.000000  0.250459  0.538549  1
+  Pr  Pr4  1  0.500000  0.510924  0.194585  1
+  Pr  Pr5  1  0.500000  0.489076  0.805415  1
+  Al  Al6  1  0.000000  0.737811  0.012301  1
+  Al  Al7  1  0.000000  0.262189  0.987699  1
+  C  C8  1  0.500000  0.506486  0.563482  1
+  C  C9  1  0.500000  0.493514  0.436518  1
+  C  C10  1  0.500000  0.994783  0.563528  1
+  C  C11  1  0.500000  0.005217  0.436472  1
+  C  C12  1  0.000000  0.747742  0.208708  1
+  C  C13  1  0.000000  0.252258  0.791292  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Rb2CdInBi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.18170556
+_cell_length_b   10.18170338
+_cell_length_c   10.18170300
+_cell_angle_alpha   136.40500161
+_cell_angle_beta   63.44975911
+_cell_angle_gamma   136.28201614
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2CdInBi2
+_chemical_formula_sum   'Rb4 Cd2 In2 Bi4'
+_cell_volume   496.49568956
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.837675  0.248170  0.085846  1
+  Rb  Rb1  1  0.662324  0.748170  0.410495  1
+  Rb  Rb2  1  0.337675  0.251830  0.589505  1
+  Rb  Rb3  1  0.162325  0.751829  0.914153  1
+  Cd  Cd4  1  0.750000  0.250000  0.500000  1
+  Cd  Cd5  1  0.250000  0.750000  0.500000  1
+  In  In6  1  0.250000  0.250000  0.000000  1
+  In  In7  1  0.750001  0.750001  0.000000  1
+  Bi  Bi8  1  0.402507  0.755200  0.157711  1
+  Bi  Bi9  1  0.097492  0.255201  0.352692  1
+  Bi  Bi10  1  0.902507  0.744799  0.647308  1
+  Bi  Bi11  1  0.597492  0.244799  0.842289  1

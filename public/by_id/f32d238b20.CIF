@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LiHgSI
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.15529500
+_cell_length_b   7.75981800
+_cell_length_c   8.59912500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiHgSI
+_chemical_formula_sum   'Li4 Hg4 S4 I4'
+_cell_volume   477.45598434
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.092533  0.170305  0.385424  1
+  Li  Li1  1  0.592533  0.329695  0.614576  1
+  Li  Li2  1  0.407467  0.829695  0.885424  1
+  Li  Li3  1  0.907467  0.670305  0.114576  1
+  Hg  Hg4  1  0.250235  0.267316  0.987981  1
+  Hg  Hg5  1  0.249765  0.732684  0.487982  1
+  Hg  Hg6  1  0.749765  0.767316  0.512019  1
+  Hg  Hg7  1  0.750235  0.232684  0.012019  1
+  S  S8  1  0.002685  0.358191  0.155603  1
+  S  S9  1  0.497315  0.641809  0.655603  1
+  S  S10  1  0.997315  0.858191  0.344397  1
+  S  S11  1  0.502685  0.141809  0.844397  1
+  I  I12  1  0.013460  0.871722  0.866148  1
+  I  I13  1  0.513460  0.628278  0.133852  1
+  I  I14  1  0.486540  0.128278  0.366148  1
+  I  I15  1  0.986540  0.371722  0.633852  1

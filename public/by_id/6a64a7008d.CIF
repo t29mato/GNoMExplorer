@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Li3Nb(NiP)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.66151400
+_cell_length_b   6.11424266
+_cell_length_c   6.76018607
+_cell_angle_alpha   89.90169454
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3Nb(NiP)4
+_chemical_formula_sum   'Li3 Nb1 Ni4 P4'
+_cell_volume   151.34266618
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.250000  0.521080  0.680451  1
+  Li  Li1  1  0.250000  0.019053  0.824599  1
+  Li  Li2  1  0.750000  0.976870  0.174200  1
+  Nb  Nb3  1  0.750000  0.476569  0.328497  1
+  Ni  Ni4  1  0.750000  0.351083  0.936837  1
+  Ni  Ni5  1  0.250000  0.141415  0.437775  1
+  Ni  Ni6  1  0.750000  0.857060  0.563196  1
+  Ni  Ni7  1  0.250000  0.655757  0.053967  1
+  P  P8  1  0.250000  0.773456  0.378788  1
+  P  P9  1  0.250000  0.279429  0.122536  1
+  P  P10  1  0.750000  0.228992  0.623470  1
+  P  P11  1  0.750000  0.719237  0.875684  1

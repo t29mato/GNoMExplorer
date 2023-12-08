@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YbEr(Co3Si2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.25180231
+_cell_length_b   6.25180246
+_cell_length_c   6.25180226
+_cell_angle_alpha   130.31155196
+_cell_angle_beta   113.99014603
+_cell_angle_gamma   86.93188977
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbEr(Co3Si2)2
+_chemical_formula_sum   'Yb1 Er1 Co6 Si4'
+_cell_volume   162.35141633
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.250000  0.535295  0.285295  1
+  Er  Er1  1  0.750000  0.461194  0.711194  1
+  Co  Co2  1  0.998673  0.000413  0.499086  1
+  Co  Co3  1  0.501327  0.000413  0.001740  1
+  Co  Co4  1  0.719864  0.001242  0.720046  1
+  Co  Co5  1  0.218803  0.500182  0.720046  1
+  Co  Co6  1  0.281197  0.001242  0.281379  1
+  Co  Co7  1  0.780136  0.500182  0.281379  1
+  Si  Si8  1  0.080635  0.879907  0.799272  1
+  Si  Si9  1  0.920756  0.121402  0.200646  1
+  Si  Si10  1  0.579244  0.779891  0.200646  1
+  Si  Si11  1  0.419365  0.218636  0.799272  1

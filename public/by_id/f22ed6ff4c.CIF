@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TaTiCo4(Si2W)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.60872500
+_cell_length_b   6.14085617
+_cell_length_c   6.98239759
+_cell_angle_alpha   90.11634922
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaTiCo4(Si2W)2
+_chemical_formula_sum   'Ta1 Ti1 Co4 Si4 W2'
+_cell_volume   154.73422828
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.250000  0.522845  0.676520  1
+  Ti  Ti1  1  0.750000  0.980590  0.178639  1
+  Co  Co2  1  0.250000  0.644965  0.062229  1
+  Co  Co3  1  0.750000  0.361634  0.937005  1
+  Co  Co4  1  0.250000  0.139297  0.436189  1
+  Co  Co5  1  0.750000  0.851142  0.561768  1
+  Si  Si6  1  0.750000  0.732830  0.882070  1
+  Si  Si7  1  0.250000  0.773162  0.373024  1
+  Si  Si8  1  0.750000  0.218263  0.619955  1
+  Si  Si9  1  0.250000  0.274824  0.120627  1
+  W  W10  1  0.250000  0.026017  0.825772  1
+  W  W11  1  0.750000  0.474431  0.326199  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Lu3In4CoAg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.95351700
+_cell_length_b   7.95351795
+_cell_length_c   3.64115500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000853
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu3In4CoAg
+_chemical_formula_sum   'Lu3 In4 Co1 Ag1'
+_cell_volume   199.47489275
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.045066  0.284415  0.500000  1
+  Lu  Lu1  1  0.715585  0.760651  0.500000  1
+  Lu  Lu2  1  0.239349  0.954934  0.500000  1
+  In  In3  1  0.669477  0.061310  0.000000  1
+  In  In4  1  0.938690  0.608168  0.000000  1
+  In  In5  1  0.391832  0.330523  0.000000  1
+  In  In6  1  0.333333  0.666667  0.000000  1
+  Co  Co7  1  0.000000  0.000000  0.000000  1
+  Ag  Ag8  1  0.666667  0.333333  0.500000  1

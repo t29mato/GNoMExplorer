@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_PaCrSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.65077453
+_cell_length_b   7.64857831
+_cell_length_c   7.44775305
+_cell_angle_alpha   60.85443145
+_cell_angle_beta   60.83516797
+_cell_angle_gamma   67.07823406
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PaCrSe4
+_chemical_formula_sum   'Pa2 Cr2 Se8'
+_cell_volume   325.70502232
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.000081  0.500003  0.500267  1
+  Pa  Pa1  1  0.499732  0.000276  0.499852  1
+  Cr  Cr2  1  0.500008  0.500159  0.499924  1
+  Cr  Cr3  1  0.500143  0.499773  0.999898  1
+  Se  Se4  1  0.749436  0.749874  0.749298  1
+  Se  Se5  1  0.250322  0.250231  0.748838  1
+  Se  Se6  1  0.306476  0.722536  0.235584  1
+  Se  Se7  1  0.722676  0.306441  0.235212  1
+  Se  Se8  1  0.693517  0.277324  0.764479  1
+  Se  Se9  1  0.277437  0.693540  0.764526  1
+  Se  Se10  1  0.250204  0.250336  0.250845  1
+  Se  Se11  1  0.749959  0.749512  0.251266  1

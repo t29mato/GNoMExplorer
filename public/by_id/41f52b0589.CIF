@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_AcBPd4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.58178954
+_cell_length_b   7.77565700
+_cell_length_c   5.58187000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   119.99896416
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AcBPd4
+_chemical_formula_sum   'Ac2 B2 Pd8'
+_cell_volume   209.80963823
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  0.000007  0.000000  0.000007  1
+  Ac  Ac1  1  0.000003  0.500000  0.000003  1
+  B  B2  1  0.666675  0.000000  0.333334  1
+  B  B3  1  0.333339  0.000000  0.666681  1
+  Pd  Pd4  1  0.500010  0.195507  0.000008  1
+  Pd  Pd5  1  0.500010  0.804494  0.000008  1
+  Pd  Pd6  1  0.666674  0.500000  0.333341  1
+  Pd  Pd7  1  0.500002  0.195510  0.500003  1
+  Pd  Pd8  1  0.500002  0.804490  0.500003  1
+  Pd  Pd9  1  0.000008  0.195509  0.500010  1
+  Pd  Pd10  1  0.000008  0.804492  0.500010  1
+  Pd  Pd11  1  0.333340  0.500000  0.666671  1

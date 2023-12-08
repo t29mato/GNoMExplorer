@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Pa3(CuSi2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.66579344
+_cell_length_b   5.66579338
+_cell_length_c   7.99433634
+_cell_angle_alpha   80.21582742
+_cell_angle_beta   80.21583015
+_cell_angle_gamma   41.48785350
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pa3(CuSi2)2
+_chemical_formula_sum   'Pa3 Cu2 Si4'
+_cell_volume   167.17557864
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.335806  0.335806  0.671398  1
+  Pa  Pa1  1  0.664194  0.664194  0.328602  1
+  Pa  Pa2  1  0.000000  0.000000  0.000000  1
+  Cu  Cu3  1  0.384614  0.384614  0.284925  1
+  Cu  Cu4  1  0.615386  0.615386  0.715075  1
+  Si  Si5  1  0.059786  0.059786  0.610414  1
+  Si  Si6  1  0.940214  0.940214  0.389586  1
+  Si  Si7  1  0.719628  0.719628  0.942231  1
+  Si  Si8  1  0.280372  0.280372  0.057769  1

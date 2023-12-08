@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_MgSc4TcHg2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.92856201
+_cell_length_b   6.95001600
+_cell_length_c   6.92841801
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00440769
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgSc4TcHg2
+_chemical_formula_sum   'Mg2 Sc8 Tc2 Hg4'
+_cell_volume   333.62838461
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.999905  0.250000  0.000002  1
+  Mg  Mg1  1  0.000095  0.750000  0.999998  1
+  Sc  Sc2  1  0.269825  0.000085  0.269826  1
+  Sc  Sc3  1  0.269825  0.499914  0.269826  1
+  Sc  Sc4  1  0.729799  0.500084  0.270203  1
+  Sc  Sc5  1  0.729799  0.999916  0.270203  1
+  Sc  Sc6  1  0.270201  0.000083  0.729798  1
+  Sc  Sc7  1  0.270201  0.499916  0.729798  1
+  Sc  Sc8  1  0.730175  0.500085  0.730175  1
+  Sc  Sc9  1  0.730175  0.999915  0.730175  1
+  Tc  Tc10  1  0.500031  0.250000  0.499988  1
+  Tc  Tc11  1  0.499968  0.750000  0.500012  1
+  Hg  Hg12  1  0.500144  0.250000  0.999992  1
+  Hg  Hg13  1  0.499856  0.750000  0.000008  1
+  Hg  Hg14  1  0.999863  0.250000  0.500004  1
+  Hg  Hg15  1  0.000137  0.750000  0.499997  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfMn(Be4Ir)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.43138700
+_cell_length_b   4.43138526
+_cell_length_c   7.29006200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000549
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfMn(Be4Ir)2
+_chemical_formula_sum   'Hf1 Mn1 Be8 Ir2'
+_cell_volume   123.97697001
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.666667  0.333333  0.939903  1
+  Mn  Mn1  1  0.333333  0.666667  0.435781  1
+  Be  Be2  1  0.000000  0.000000  0.007628  1
+  Be  Be3  1  0.000000  0.000000  0.495595  1
+  Be  Be4  1  0.832388  0.664776  0.261758  1
+  Be  Be5  1  0.168538  0.831462  0.734943  1
+  Be  Be6  1  0.662924  0.831462  0.734943  1
+  Be  Be7  1  0.335224  0.167612  0.261758  1
+  Be  Be8  1  0.832388  0.167612  0.261758  1
+  Be  Be9  1  0.168538  0.337076  0.734943  1
+  Ir  Ir10  1  0.333333  0.666667  0.064419  1
+  Ir  Ir11  1  0.666667  0.333333  0.566567  1

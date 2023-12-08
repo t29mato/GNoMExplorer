@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_PrHo(Si2Rh3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.66935746
+_cell_length_b   6.66935791
+_cell_length_c   6.66935869
+_cell_angle_alpha   130.34305214
+_cell_angle_beta   114.60217701
+_cell_angle_gamma   86.34904620
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrHo(Si2Rh3)2
+_chemical_formula_sum   'Pr1 Ho1 Si4 Rh6'
+_cell_volume   196.30233933
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.750000  0.036042  0.286042  1
+  Ho  Ho1  1  0.250000  0.948432  0.698432  1
+  Si  Si2  1  0.577248  0.380825  0.803576  1
+  Si  Si3  1  0.922752  0.726328  0.803576  1
+  Si  Si4  1  0.420502  0.615052  0.194551  1
+  Si  Si5  1  0.079498  0.274049  0.194551  1
+  Rh  Rh6  1  0.218247  0.507710  0.719735  1
+  Rh  Rh7  1  0.787975  0.507710  0.289463  1
+  Rh  Rh8  1  0.497558  0.500437  0.497995  1
+  Rh  Rh9  1  0.002442  0.500437  0.002879  1
+  Rh  Rh10  1  0.712025  0.001489  0.719735  1
+  Rh  Rh11  1  0.281753  0.001489  0.289463  1

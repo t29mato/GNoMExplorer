@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Sr5InSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.06039881
+_cell_length_b   10.06032857
+_cell_length_c   10.06038609
+_cell_angle_alpha   131.41969293
+_cell_angle_beta   131.41451243
+_cell_angle_gamma   71.14864352
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr5InSi2
+_chemical_formula_sum   'Sr10 In2 Si4'
+_cell_volume   560.61984187
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.541712  0.041816  0.854385  1
+  Sr  Sr1  1  0.187443  0.687330  0.145621  1
+  Sr  Sr2  1  0.041845  0.187432  0.500114  1
+  Sr  Sr3  1  0.687320  0.541722  0.499885  1
+  Sr  Sr4  1  0.458288  0.958184  0.145615  1
+  Sr  Sr5  1  0.812557  0.312670  0.854379  1
+  Sr  Sr6  1  0.958155  0.812568  0.499886  1
+  Sr  Sr7  1  0.312680  0.458278  0.500115  1
+  Sr  Sr8  1  0.000000  0.000000  0.000000  1
+  Sr  Sr9  1  0.500000  0.500000  0.000000  1
+  In  In10  1  0.249079  0.249050  0.999968  1
+  In  In11  1  0.750921  0.750950  0.000032  1
+  Si  Si12  1  0.894366  0.394317  0.288687  1
+  Si  Si13  1  0.105634  0.605683  0.711313  1
+  Si  Si14  1  0.394318  0.105647  0.499958  1
+  Si  Si15  1  0.605682  0.894353  0.500042  1

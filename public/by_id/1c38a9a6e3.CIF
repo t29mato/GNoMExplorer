@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Nb3Mo5W8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.40735130
+_cell_length_b   6.40735130
+_cell_length_c   6.40858229
+_cell_angle_alpha   90.02444833
+_cell_angle_beta   90.02444833
+_cell_angle_gamma   89.97447637
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb3Mo5W8
+_chemical_formula_sum   'Nb3 Mo5 W8'
+_cell_volume   263.09882945
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.500610  0.999442  0.998344  1
+  Nb  Nb1  1  0.999442  0.500610  0.998344  1
+  Nb  Nb2  1  0.999441  0.999441  0.501851  1
+  Mo  Mo3  1  0.748975  0.748975  0.250985  1
+  Mo  Mo4  1  0.251034  0.251034  0.748907  1
+  Mo  Mo5  1  0.749037  0.250927  0.749010  1
+  Mo  Mo6  1  0.250927  0.749037  0.749010  1
+  Mo  Mo7  1  0.749016  0.749016  0.748966  1
+  W  W8  1  0.999903  0.999903  0.999701  1
+  W  W9  1  0.500113  0.500113  0.999808  1
+  W  W10  1  0.251248  0.251248  0.251198  1
+  W  W11  1  0.748678  0.251269  0.251240  1
+  W  W12  1  0.251269  0.748678  0.251240  1
+  W  W13  1  0.500131  0.999925  0.500333  1
+  W  W14  1  0.999925  0.500131  0.500333  1
+  W  W15  1  0.500245  0.500245  0.500726  1

@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Pa4Si6Tc7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.20163222
+_cell_length_b   7.20163213
+_cell_length_c   7.20163200
+_cell_angle_alpha   109.47122026
+_cell_angle_beta   109.47122001
+_cell_angle_gamma   109.47122151
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pa4Si6Tc7
+_chemical_formula_sum   'Pa4 Si6 Tc7'
+_cell_volume   287.52188528
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.500000  0.500000  0.500000  1
+  Pa  Pa1  1  0.000000  0.500000  0.000000  1
+  Pa  Pa2  1  0.500000  0.000000  0.000000  1
+  Pa  Pa3  1  0.000000  0.000000  0.500000  1
+  Si  Si4  1  0.684740  0.000000  0.684740  1
+  Si  Si5  1  0.684740  0.684740  0.000000  1
+  Si  Si6  1  0.315260  0.315260  0.000000  1
+  Si  Si7  1  0.000000  0.684740  0.684740  1
+  Si  Si8  1  0.000000  0.315260  0.315260  1
+  Si  Si9  1  0.315260  0.000000  0.315260  1
+  Tc  Tc10  1  0.500000  0.750000  0.250000  1
+  Tc  Tc11  1  0.750000  0.250000  0.500000  1
+  Tc  Tc12  1  0.250000  0.750000  0.500000  1
+  Tc  Tc13  1  0.250000  0.500000  0.750000  1
+  Tc  Tc14  1  0.000000  0.000000  0.000000  1
+  Tc  Tc15  1  0.500000  0.250000  0.750000  1
+  Tc  Tc16  1  0.750000  0.500000  0.250000  1

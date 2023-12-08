@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Sc2Fe3Co(SiC)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47236480
+_cell_length_b   5.47236504
+_cell_length_c   6.64420762
+_cell_angle_alpha   89.81573904
+_cell_angle_beta   90.18425984
+_cell_angle_gamma   142.19234908
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc2Fe3Co(SiC)2
+_chemical_formula_sum   'Sc2 Fe3 Co1 Si2 C2'
+_cell_volume   121.97200393
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.545068  0.454932  0.250535  1
+  Sc  Sc1  1  0.454761  0.545239  0.748852  1
+  Fe  Fe2  1  0.162732  0.837268  0.941509  1
+  Fe  Fe3  1  0.165403  0.834597  0.559209  1
+  Fe  Fe4  1  0.835915  0.164085  0.442632  1
+  Co  Co5  1  0.835237  0.164763  0.057960  1
+  Si  Si6  1  0.266104  0.733896  0.249599  1
+  Si  Si7  1  0.733472  0.266528  0.750580  1
+  C  C8  1  0.000527  0.999473  0.999446  1
+  C  C9  1  0.000781  0.999219  0.499677  1

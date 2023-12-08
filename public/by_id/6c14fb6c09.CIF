@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Hf(PdPt3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.29367859
+_cell_length_b   6.29367898
+_cell_length_c   6.36741160
+_cell_angle_alpha   95.63611577
+_cell_angle_beta   95.63612047
+_cell_angle_gamma   143.25236597
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf(PdPt3)2
+_chemical_formula_sum   'Hf1 Pd2 Pt6'
+_cell_volume   143.38747408
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.000000  0.000000  0.000000  1
+  Pd  Pd1  1  0.666150  0.333848  0.000000  1
+  Pd  Pd2  1  0.333848  0.666150  0.000000  1
+  Pt  Pt3  1  0.663104  0.663104  0.326210  1
+  Pt  Pt4  1  0.331193  0.001204  0.332397  1
+  Pt  Pt5  1  0.001204  0.331193  0.332397  1
+  Pt  Pt6  1  0.668807  0.998796  0.667603  1
+  Pt  Pt7  1  0.998796  0.668807  0.667603  1
+  Pt  Pt8  1  0.336895  0.336895  0.673791  1

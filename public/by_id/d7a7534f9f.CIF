@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_HfZr5(Ta2Ir3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.04676526
+_cell_length_b   8.04676483
+_cell_length_c   5.32404000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.97060056
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfZr5(Ta2Ir3)2
+_chemical_formula_sum   'Hf1 Zr5 Ta4 Ir6'
+_cell_volume   298.63669177
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.751508  0.751508  0.750000  1
+  Zr  Zr1  1  0.244914  0.999316  0.750000  1
+  Zr  Zr2  1  0.999316  0.244914  0.750000  1
+  Zr  Zr3  1  0.246138  0.246138  0.250000  1
+  Zr  Zr4  1  0.754295  0.999237  0.250000  1
+  Zr  Zr5  1  0.999237  0.754295  0.250000  1
+  Ta  Ta6  1  0.667012  0.333858  0.999841  1
+  Ta  Ta7  1  0.333858  0.667012  0.999841  1
+  Ta  Ta8  1  0.333858  0.667012  0.500159  1
+  Ta  Ta9  1  0.667012  0.333858  0.500159  1
+  Ir  Ir10  1  0.407741  0.407741  0.750000  1
+  Ir  Ir11  1  0.594048  0.999399  0.750000  1
+  Ir  Ir12  1  0.999399  0.594048  0.750000  1
+  Ir  Ir13  1  0.594613  0.594613  0.250000  1
+  Ir  Ir14  1  0.406777  0.000274  0.250000  1
+  Ir  Ir15  1  0.000274  0.406777  0.250000  1

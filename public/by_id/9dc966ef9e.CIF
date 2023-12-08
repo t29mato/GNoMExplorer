@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LiGa5Co2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.27260500
+_cell_length_b   6.75073900
+_cell_length_c   5.96373400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiGa5Co2
+_chemical_formula_sum   'Li2 Ga10 Co4'
+_cell_volume   252.53264164
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.000000  0.500000  0.500000  1
+  Li  Li1  1  0.500000  0.000000  0.000000  1
+  Ga  Ga2  1  0.500000  0.000000  0.500000  1
+  Ga  Ga3  1  0.000000  0.500000  0.000000  1
+  Ga  Ga4  1  0.347855  0.666931  0.241079  1
+  Ga  Ga5  1  0.652145  0.333069  0.241079  1
+  Ga  Ga6  1  0.152145  0.166931  0.741079  1
+  Ga  Ga7  1  0.847855  0.833069  0.741079  1
+  Ga  Ga8  1  0.652145  0.333069  0.758921  1
+  Ga  Ga9  1  0.347855  0.666931  0.758921  1
+  Ga  Ga10  1  0.847855  0.833069  0.258921  1
+  Ga  Ga11  1  0.152145  0.166931  0.258921  1
+  Co  Co12  1  0.159108  0.868256  0.500000  1
+  Co  Co13  1  0.840892  0.131744  0.500000  1
+  Co  Co14  1  0.340892  0.368256  0.000000  1
+  Co  Co15  1  0.659108  0.631744  0.000000  1

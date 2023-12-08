@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ba4Li4PtAu3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.46389900
+_cell_length_b   7.88713281
+_cell_length_c   9.56728500
+_cell_angle_alpha   89.35755381
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba4Li4PtAu3
+_chemical_formula_sum   'Ba4 Li4 Pt1 Au3'
+_cell_volume   336.81771325
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.250000  0.977392  0.318605  1
+  Ba  Ba1  1  0.250000  0.463511  0.194494  1
+  Ba  Ba2  1  0.750000  0.042027  0.677078  1
+  Ba  Ba3  1  0.750000  0.536285  0.815813  1
+  Li  Li4  1  0.250000  0.373038  0.534540  1
+  Li  Li5  1  0.250000  0.881073  0.957316  1
+  Li  Li6  1  0.750000  0.604716  0.457909  1
+  Li  Li7  1  0.750000  0.123562  0.046706  1
+  Pt  Pt8  1  0.750000  0.275226  0.394770  1
+  Au  Au9  1  0.250000  0.221912  0.900630  1
+  Au  Au10  1  0.250000  0.720568  0.600503  1
+  Au  Au11  1  0.750000  0.780689  0.101636  1

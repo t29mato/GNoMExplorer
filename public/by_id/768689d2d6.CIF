@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Nd12Ru(PtBr4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.48651916
+_cell_length_b   10.48651811
+_cell_length_c   10.48651823
+_cell_angle_alpha   109.14327939
+_cell_angle_beta   109.14327739
+_cell_angle_gamma   109.14328183
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd12Ru(PtBr4)3
+_chemical_formula_sum   'Nd12 Ru1 Pt3 Br12'
+_cell_volume   898.32865620
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.263981  0.750000  0.236019  1
+  Nd  Nd1  1  0.485040  0.750000  0.014960  1
+  Nd  Nd2  1  0.238356  0.469390  0.480135  1
+  Nd  Nd3  1  0.019865  0.030610  0.261644  1
+  Nd  Nd4  1  0.236019  0.263981  0.750000  1
+  Nd  Nd5  1  0.014960  0.485040  0.750000  1
+  Nd  Nd6  1  0.480135  0.238356  0.469390  1
+  Nd  Nd7  1  0.261644  0.019865  0.030610  1
+  Nd  Nd8  1  0.750000  0.236019  0.263981  1
+  Nd  Nd9  1  0.750000  0.014960  0.485040  1
+  Nd  Nd10  1  0.469390  0.480135  0.238356  1
+  Nd  Nd11  1  0.030610  0.261644  0.019865  1
+  Ru  Ru12  1  0.250000  0.250000  0.250000  1
+  Pt  Pt13  1  0.499196  0.000804  0.250000  1
+  Pt  Pt14  1  0.250000  0.499196  0.000804  1
+  Pt  Pt15  1  0.000804  0.250000  0.499196  1
+  Br  Br16  1  0.250000  0.994630  0.505370  1
+  Br  Br17  1  0.509423  0.505251  0.755628  1
+  Br  Br18  1  0.250000  0.753562  0.746438  1
+  Br  Br19  1  0.990577  0.744372  0.994749  1
+  Br  Br20  1  0.994630  0.505370  0.250000  1
+  Br  Br21  1  0.744372  0.994749  0.990577  1
+  Br  Br22  1  0.753562  0.746438  0.250000  1
+  Br  Br23  1  0.505251  0.755628  0.509423  1
+  Br  Br24  1  0.505370  0.250000  0.994630  1
+  Br  Br25  1  0.755628  0.509423  0.505251  1
+  Br  Br26  1  0.746438  0.250000  0.753562  1
+  Br  Br27  1  0.994749  0.990577  0.744372  1

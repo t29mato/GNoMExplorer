@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_HoU3(Ir2Pb)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.81404433
+_cell_length_b   7.81404531
+_cell_length_c   3.50996600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   88.49019530
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoU3(Ir2Pb)2
+_chemical_formula_sum   'Ho1 U3 Ir4 Pb2'
+_cell_volume   214.24165044
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.668084  0.168084  0.500000  1
+  U  U1  1  0.333473  0.833473  0.500000  1
+  U  U2  1  0.168337  0.329543  0.500000  1
+  U  U3  1  0.829543  0.668337  0.500000  1
+  Ir  Ir4  1  0.142124  0.642124  0.000000  1
+  Ir  Ir5  1  0.889485  0.389485  0.000000  1
+  Ir  Ir6  1  0.623248  0.852747  0.000000  1
+  Ir  Ir7  1  0.352747  0.123248  0.000000  1
+  Pb  Pb8  1  0.503786  0.489172  0.000000  1
+  Pb  Pb9  1  0.989172  0.003786  0.000000  1

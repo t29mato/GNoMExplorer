@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_CrAuF10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.72064706
+_cell_length_b   8.00059808
+_cell_length_c   8.45740100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   89.98343131
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrAuF10
+_chemical_formula_sum   'Cr2 Au2 F20'
+_cell_volume   387.08336949
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.750175  0.919121  0.746168  1
+  Cr  Cr1  1  0.750175  0.419121  0.253832  1
+  Au  Au2  1  0.249967  0.601230  0.737977  1
+  Au  Au3  1  0.249967  0.101230  0.262023  1
+  F  F4  1  0.749982  0.471109  0.451461  1
+  F  F5  1  0.249944  0.212948  0.057880  1
+  F  F6  1  0.249944  0.712948  0.942120  1
+  F  F7  1  0.249961  0.996585  0.469624  1
+  F  F8  1  0.000963  0.256124  0.344398  1
+  F  F9  1  0.249961  0.496585  0.530376  1
+  F  F10  1  0.749982  0.971109  0.548539  1
+  F  F11  1  0.010868  0.450301  0.807726  1
+  F  F12  1  0.529049  0.551064  0.193184  1
+  F  F13  1  0.971045  0.551110  0.193174  1
+  F  F14  1  0.489082  0.450269  0.807731  1
+  F  F15  1  0.749998  0.284043  0.095866  1
+  F  F16  1  0.498965  0.256096  0.344402  1
+  F  F17  1  0.489082  0.950269  0.192269  1
+  F  F18  1  0.749998  0.784043  0.904134  1
+  F  F19  1  0.529049  0.051064  0.806816  1
+  F  F20  1  0.971045  0.051110  0.806826  1
+  F  F21  1  0.000963  0.756124  0.655602  1
+  F  F22  1  0.498965  0.756096  0.655598  1
+  F  F23  1  0.010868  0.950301  0.192274  1

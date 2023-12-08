@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Er3Lu2(FeB3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.37783888
+_cell_length_b   5.37783762
+_cell_length_c   8.14598860
+_cell_angle_alpha   70.72568626
+_cell_angle_beta   70.72569422
+_cell_angle_gamma   60.00000346
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er3Lu2(FeB3)2
+_chemical_formula_sum   'Er3 Lu2 Fe2 B6'
+_cell_volume   188.62610000
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.000000  0.000000  0.000000  1
+  Er  Er1  1  0.747940  0.747940  0.756180  1
+  Er  Er2  1  0.252060  0.252060  0.243820  1
+  Lu  Lu3  1  0.582413  0.582413  0.252760  1
+  Lu  Lu4  1  0.417587  0.417587  0.747240  1
+  Fe  Fe5  1  0.883012  0.883012  0.350964  1
+  Fe  Fe6  1  0.116988  0.116988  0.649036  1
+  B  B7  1  0.500000  0.168477  0.500000  1
+  B  B8  1  0.831523  0.500000  0.500000  1
+  B  B9  1  0.168477  0.831523  0.500000  1
+  B  B10  1  0.168477  0.500000  0.500000  1
+  B  B11  1  0.831523  0.168477  0.500000  1
+  B  B12  1  0.500000  0.831523  0.500000  1

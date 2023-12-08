@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Li3NiGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.50942400
+_cell_length_b   6.50942400
+_cell_length_c   6.50942400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3NiGe
+_chemical_formula_sum   'Li12 Ni4 Ge4'
+_cell_volume   275.82122467
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.124514  0.200153  0.452964  1
+  Li  Li1  1  0.375486  0.799847  0.952964  1
+  Li  Li2  1  0.875486  0.700153  0.047036  1
+  Li  Li3  1  0.452964  0.124514  0.200153  1
+  Li  Li4  1  0.624514  0.299847  0.547036  1
+  Li  Li5  1  0.952964  0.375486  0.799847  1
+  Li  Li6  1  0.047036  0.875486  0.700153  1
+  Li  Li7  1  0.547036  0.624514  0.299847  1
+  Li  Li8  1  0.200153  0.452964  0.124514  1
+  Li  Li9  1  0.700153  0.047036  0.875486  1
+  Li  Li10  1  0.299847  0.547036  0.624514  1
+  Li  Li11  1  0.799847  0.952964  0.375486  1
+  Ni  Ni12  1  0.684154  0.684154  0.684154  1
+  Ni  Ni13  1  0.815846  0.315846  0.184154  1
+  Ni  Ni14  1  0.315846  0.184154  0.815846  1
+  Ni  Ni15  1  0.184154  0.815846  0.315846  1
+  Ge  Ge16  1  0.064638  0.064638  0.064638  1
+  Ge  Ge17  1  0.435362  0.935362  0.564638  1
+  Ge  Ge18  1  0.935362  0.564638  0.435362  1
+  Ge  Ge19  1  0.564638  0.435362  0.935362  1

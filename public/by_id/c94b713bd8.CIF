@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CdNi2Hg(PbO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.49713309
+_cell_length_b   6.39795561
+_cell_length_c   6.49704290
+_cell_angle_alpha   60.53184844
+_cell_angle_beta   91.17111014
+_cell_angle_gamma   119.46791646
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdNi2Hg(PbO4)2
+_chemical_formula_sum   'Cd1 Ni2 Hg1 Pb2 O8'
+_cell_volume   195.77271400
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.764813  0.499935  0.764787  1
+  Ni  Ni1  1  0.375995  0.249120  0.375060  1
+  Ni  Ni2  1  0.375195  0.751120  0.376218  1
+  Hg  Hg3  1  0.976683  0.999915  0.976683  1
+  Pb  Pb4  1  0.874948  0.250434  0.373924  1
+  Pb  Pb5  1  0.373991  0.749547  0.874962  1
+  O  O6  1  0.143977  0.269949  0.143301  1
+  O  O7  1  0.600229  0.212666  0.174217  1
+  O  O8  1  0.569088  0.705806  0.156794  1
+  O  O9  1  0.143343  0.730012  0.143971  1
+  O  O10  1  0.610111  0.230343  0.610622  1
+  O  O11  1  0.156752  0.294216  0.569072  1
+  O  O12  1  0.174229  0.787353  0.600254  1
+  O  O13  1  0.610650  0.769584  0.610136  1

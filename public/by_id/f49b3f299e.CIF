@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_TaPt7Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.31478129
+_cell_length_b   6.31477983
+_cell_length_c   6.26214416
+_cell_angle_alpha   95.68182118
+_cell_angle_beta   95.68181465
+_cell_angle_gamma   143.47934556
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaPt7Rh
+_chemical_formula_sum   'Ta1 Pt7 Rh1'
+_cell_volume   140.99362702
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.996894  0.996894  0.993789  1
+  Pt  Pt1  1  0.663486  0.663486  0.326972  1
+  Pt  Pt2  1  0.661179  0.337051  0.998229  1
+  Pt  Pt3  1  0.337051  0.661179  0.998229  1
+  Pt  Pt4  1  0.001663  0.329902  0.331565  1
+  Pt  Pt5  1  0.998361  0.671824  0.670185  1
+  Pt  Pt6  1  0.671824  0.998361  0.670185  1
+  Pt  Pt7  1  0.329902  0.001663  0.331565  1
+  Rh  Rh8  1  0.339640  0.339640  0.679282  1

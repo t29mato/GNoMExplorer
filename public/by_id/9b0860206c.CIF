@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ho2Er2Lu(CoB3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.38056685
+_cell_length_b   5.38056628
+_cell_length_c   8.25119922
+_cell_angle_alpha   70.97096065
+_cell_angle_beta   70.97095040
+_cell_angle_gamma   60.00002769
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2Er2Lu(CoB3)2
+_chemical_formula_sum   'Ho2 Er2 Lu1 Co2 B6'
+_cell_volume   191.65167608
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.252077  0.252077  0.243770  1
+  Ho  Ho1  1  0.747923  0.747923  0.756230  1
+  Er  Er2  1  0.416186  0.416186  0.751442  1
+  Er  Er3  1  0.583814  0.583814  0.248558  1
+  Lu  Lu4  1  0.000000  0.000000  0.000000  1
+  Co  Co5  1  0.118669  0.118669  0.643996  1
+  Co  Co6  1  0.881331  0.881331  0.356004  1
+  B  B7  1  0.168598  0.831402  0.500000  1
+  B  B8  1  0.831402  0.500000  0.500000  1
+  B  B9  1  0.500000  0.168598  0.500000  1
+  B  B10  1  0.168598  0.500000  0.500000  1
+  B  B11  1  0.500000  0.831402  0.500000  1
+  B  B12  1  0.831402  0.168598  0.500000  1

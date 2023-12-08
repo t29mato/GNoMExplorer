@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_K3Rb3(InBi2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.06560299
+_cell_length_b   10.06560436
+_cell_length_c   10.00443400
+_cell_angle_alpha   131.13581352
+_cell_angle_beta   68.22550863
+_cell_angle_gamma   135.63106483
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3Rb3(InBi2)2
+_chemical_formula_sum   'K3 Rb3 In2 Bi4'
+_cell_volume   524.25449301
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.249654  0.250207  0.997945  1
+  K  K1  1  0.747738  0.748291  0.997945  1
+  K  K2  1  0.325489  0.794119  0.119607  1
+  Rb  Rb3  1  0.172708  0.282189  0.454899  1
+  Rb  Rb4  1  0.828997  0.717098  0.546095  1
+  Rb  Rb5  1  0.671776  0.221336  0.893113  1
+  In  In6  1  0.751054  0.247509  0.498121  1
+  In  In7  1  0.250612  0.747066  0.498120  1
+  Bi  Bi8  1  0.897494  0.295098  0.192589  1
+  Bi  Bi9  1  0.602873  0.797052  0.399924  1
+  Bi  Bi10  1  0.398035  0.196210  0.594245  1
+  Bi  Bi11  1  0.103568  0.703825  0.807395  1

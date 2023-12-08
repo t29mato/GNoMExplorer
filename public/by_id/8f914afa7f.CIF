@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TaFe5(SiMo)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.74388800
+_cell_length_b   4.76621394
+_cell_length_c   7.79931900
+_cell_angle_alpha   90.05298961
+_cell_angle_beta   89.99958935
+_cell_angle_gamma   119.82941182
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaFe5(SiMo)3
+_chemical_formula_sum   'Ta1 Fe5 Si3 Mo3'
+_cell_volume   152.98153042
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.668666  0.337374  0.068897  1
+  Fe  Fe1  1  0.826268  0.154526  0.749319  1
+  Fe  Fe2  1  0.328175  0.154583  0.749325  1
+  Fe  Fe3  1  0.173759  0.347497  0.249759  1
+  Fe  Fe4  1  0.172947  0.833271  0.250815  1
+  Fe  Fe5  1  0.660453  0.833313  0.250842  1
+  Si  Si6  1  0.819523  0.639102  0.748057  1
+  Si  Si7  1  0.007641  0.015286  0.497292  1
+  Si  Si8  1  0.006231  0.012467  0.001585  1
+  Mo  Mo9  1  0.333868  0.667678  0.931721  1
+  Mo  Mo10  1  0.333120  0.666170  0.562380  1
+  Mo  Mo11  1  0.669348  0.338732  0.440011  1

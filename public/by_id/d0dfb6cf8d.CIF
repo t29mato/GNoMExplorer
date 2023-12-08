@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_PrGaTeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.20904000
+_cell_length_b   5.20905530
+_cell_length_c   10.36404300
+_cell_angle_alpha   90.00074220
+_cell_angle_beta   89.99977575
+_cell_angle_gamma   120.00025771
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrGaTeO6
+_chemical_formula_sum   'Pr2 Ga2 Te2 O12'
+_cell_volume   243.54284220
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.999999  0.999999  0.999999  1
+  Pr  Pr1  1  0.999999  0.999997  0.499999  1
+  Ga  Ga2  1  0.333335  0.666667  0.249999  1
+  Ga  Ga3  1  0.666666  0.333333  0.750000  1
+  Te  Te4  1  0.666673  0.333351  0.249984  1
+  Te  Te5  1  0.333331  0.666666  0.750027  1
+  O  O6  1  0.633380  0.624976  0.143501  1
+  O  O7  1  0.991599  0.366619  0.143501  1
+  O  O8  1  0.375022  0.008400  0.143501  1
+  O  O9  1  0.375024  0.366625  0.356497  1
+  O  O10  1  0.991600  0.624978  0.356497  1
+  O  O11  1  0.633377  0.008403  0.356497  1
+  O  O12  1  0.366621  0.991595  0.643501  1
+  O  O13  1  0.624975  0.633373  0.643502  1
+  O  O14  1  0.008399  0.375021  0.643501  1
+  O  O15  1  0.008400  0.633381  0.856498  1
+  O  O16  1  0.624977  0.991601  0.856498  1
+  O  O17  1  0.366620  0.375024  0.856498  1

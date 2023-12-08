@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Hf4Ti5Si6Mo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.60567166
+_cell_length_b   7.73464367
+_cell_length_c   5.20472853
+_cell_angle_alpha   90.08781525
+_cell_angle_beta   89.95534542
+_cell_angle_gamma   120.56254637
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf4Ti5Si6Mo
+_chemical_formula_sum   'Hf4 Ti5 Si6 Mo1'
+_cell_volume   263.64299303
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.756131  0.754361  0.251342  1
+  Hf  Hf1  1  0.756131  0.001770  0.748658  1
+  Hf  Hf2  1  0.244348  0.245868  0.748645  1
+  Hf  Hf3  1  0.244348  0.998481  0.251355  1
+  Ti  Ti4  1  0.999806  0.738831  0.749535  1
+  Ti  Ti5  1  0.999806  0.260975  0.250465  1
+  Ti  Ti6  1  0.664287  0.332144  0.000000  1
+  Ti  Ti7  1  0.664527  0.332264  0.500000  1
+  Ti  Ti8  1  0.335782  0.667891  0.000000  1
+  Si  Si9  1  0.390909  0.994871  0.748354  1
+  Si  Si10  1  0.390909  0.396040  0.251646  1
+  Si  Si11  1  0.000667  0.598921  0.251470  1
+  Si  Si12  1  0.000667  0.401746  0.748530  1
+  Si  Si13  1  0.608104  0.604062  0.749152  1
+  Si  Si14  1  0.608104  0.004041  0.250848  1
+  Mo  Mo15  1  0.335471  0.667736  0.500000  1

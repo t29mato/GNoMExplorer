@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_TaNb2Ga2FeC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.21610081
+_cell_length_b   8.21114712
+_cell_length_c   8.21610134
+_cell_angle_alpha   59.95729152
+_cell_angle_beta   59.95722474
+_cell_angle_gamma   59.95729092
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaNb2Ga2FeC
+_chemical_formula_sum   'Ta4 Nb8 Ga8 Fe4 C4'
+_cell_volume   391.56089623
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.554313  0.945819  0.946192  1
+  Ta  Ta1  1  0.946192  0.945819  0.554313  1
+  Ta  Ta2  1  0.696971  0.303408  0.696971  1
+  Ta  Ta3  1  0.945648  0.554629  0.945648  1
+  Nb  Nb4  1  0.554728  0.945269  0.554728  1
+  Nb  Nb5  1  0.303752  0.696559  0.696846  1
+  Nb  Nb6  1  0.695996  0.304144  0.304114  1
+  Nb  Nb7  1  0.303619  0.696398  0.303619  1
+  Nb  Nb8  1  0.696846  0.696559  0.303752  1
+  Nb  Nb9  1  0.304114  0.304144  0.695996  1
+  Nb  Nb10  1  0.553659  0.553614  0.946590  1
+  Nb  Nb11  1  0.946590  0.553614  0.553659  1
+  Ga  Ga12  1  0.916374  0.915691  0.916374  1
+  Ga  Ga13  1  0.998250  0.334081  0.333351  1
+  Ga  Ga14  1  0.334199  0.998271  0.334199  1
+  Ga  Ga15  1  0.333351  0.334081  0.998250  1
+  Ga  Ga16  1  0.916472  0.251592  0.916472  1
+  Ga  Ga17  1  0.915788  0.916587  0.251485  1
+  Ga  Ga18  1  0.251485  0.916587  0.915788  1
+  Ga  Ga19  1  0.334159  0.333051  0.334159  1
+  Fe  Fe20  1  0.125209  0.125182  0.125209  1
+  Fe  Fe21  1  0.625252  0.124949  0.121058  1
+  Fe  Fe22  1  0.123753  0.624961  0.123753  1
+  Fe  Fe23  1  0.121058  0.124949  0.625252  1
+  C  C24  1  0.625566  0.622869  0.625566  1
+  C  C25  1  0.123167  0.626498  0.626505  1
+  C  C26  1  0.626980  0.124173  0.626980  1
+  C  C27  1  0.626505  0.626498  0.123167  1

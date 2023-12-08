@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_ErCoSnH
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.18124600
+_cell_length_b   7.08872800
+_cell_length_c   8.21584500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErCoSnH
+_chemical_formula_sum   'Er4 Co4 Sn4 H4'
+_cell_volume   243.51530917
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.750000  0.014039  0.685613  1
+  Er  Er1  1  0.250000  0.985961  0.314387  1
+  Er  Er2  1  0.250000  0.485961  0.185613  1
+  Er  Er3  1  0.750000  0.514039  0.814387  1
+  Co  Co4  1  0.750000  0.772219  0.106364  1
+  Co  Co5  1  0.250000  0.227781  0.893636  1
+  Co  Co6  1  0.250000  0.727781  0.606364  1
+  Co  Co7  1  0.750000  0.272219  0.393636  1
+  Sn  Sn8  1  0.750000  0.654420  0.425837  1
+  Sn  Sn9  1  0.250000  0.345580  0.574163  1
+  Sn  Sn10  1  0.250000  0.845580  0.925837  1
+  Sn  Sn11  1  0.750000  0.154420  0.074163  1
+  H  H12  1  0.250000  0.449021  0.921245  1
+  H  H13  1  0.750000  0.550979  0.078755  1
+  H  H14  1  0.750000  0.050979  0.421245  1
+  H  H15  1  0.250000  0.949021  0.578755  1

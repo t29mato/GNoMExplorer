@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_In2B(PtRh2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.78891584
+_cell_length_b   5.78891543
+_cell_length_c   5.74725400
+_cell_angle_alpha   60.23777129
+_cell_angle_beta   60.23777360
+_cell_angle_gamma   59.61244131
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In2B(PtRh2)2
+_chemical_formula_sum   'In2 B1 Pt2 Rh4'
+_cell_volume   136.26808611
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.250007  0.250007  0.250362  1
+  In  In1  1  0.749993  0.749993  0.750376  1
+  B  B2  1  0.499999  0.499999  0.491770  1
+  Pt  Pt3  1  0.757753  0.242246  0.758782  1
+  Pt  Pt4  1  0.242246  0.757753  0.758782  1
+  Rh  Rh5  1  0.242314  0.757685  0.243536  1
+  Rh  Rh6  1  0.754778  0.754778  0.246648  1
+  Rh  Rh7  1  0.757685  0.242314  0.243536  1
+  Rh  Rh8  1  0.245221  0.245221  0.756205  1

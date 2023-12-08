@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CeTm3(MoN2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.19394900
+_cell_length_b   5.67609055
+_cell_length_c   10.61211371
+_cell_angle_alpha   89.55072388
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeTm3(MoN2)4
+_chemical_formula_sum   'Ce1 Tm3 Mo4 N8'
+_cell_volume   192.38262005
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.250000  0.076794  0.854119  1
+  Tm  Tm1  1  0.250000  0.575989  0.643367  1
+  Tm  Tm2  1  0.750000  0.922600  0.150382  1
+  Tm  Tm3  1  0.750000  0.421529  0.352874  1
+  Mo  Mo4  1  0.250000  0.435157  0.096157  1
+  Mo  Mo5  1  0.250000  0.932222  0.406156  1
+  Mo  Mo6  1  0.750000  0.571594  0.904672  1
+  Mo  Mo7  1  0.750000  0.064917  0.590055  1
+  N  N8  1  0.250000  0.163622  0.248229  1
+  N  N9  1  0.250000  0.665374  0.253246  1
+  N  N10  1  0.750000  0.831131  0.748947  1
+  N  N11  1  0.750000  0.335974  0.746094  1
+  N  N12  1  0.250000  0.759947  0.997410  1
+  N  N13  1  0.250000  0.261602  0.503548  1
+  N  N14  1  0.750000  0.246011  0.010653  1
+  N  N15  1  0.750000  0.735537  0.494090  1

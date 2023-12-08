@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ce4MnFeB6Sb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.29482315
+_cell_length_b   5.29482245
+_cell_length_c   8.30746812
+_cell_angle_alpha   71.41697152
+_cell_angle_beta   71.41697314
+_cell_angle_gamma   59.99999078
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce4MnFeB6Sb
+_chemical_formula_sum   'Ce4 Mn1 Fe1 B6 Sb1'
+_cell_volume   187.54597129
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.254680  0.254680  0.235960  1
+  Ce  Ce1  1  0.745234  0.745234  0.764297  1
+  Ce  Ce2  1  0.411829  0.411829  0.764512  1
+  Ce  Ce3  1  0.588336  0.588336  0.234992  1
+  Mn  Mn4  1  0.115988  0.115988  0.652036  1
+  Fe  Fe5  1  0.884080  0.884080  0.347759  1
+  B  B6  1  0.168319  0.831695  0.500030  1
+  B  B7  1  0.831695  0.499956  0.500030  1
+  B  B8  1  0.499956  0.168319  0.500030  1
+  B  B9  1  0.168319  0.499956  0.500030  1
+  B  B10  1  0.499956  0.831695  0.500030  1
+  B  B11  1  0.831695  0.168319  0.500030  1
+  Sb  Sb12  1  0.999912  0.999912  0.000264  1

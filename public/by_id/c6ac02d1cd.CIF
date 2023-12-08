@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Lu10SiSn6Hg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.00898500
+_cell_length_b   9.00898623
+_cell_length_c   6.46956100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999917
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu10SiSn6Hg
+_chemical_formula_sum   'Lu10 Si1 Sn6 Hg1'
+_cell_volume   454.73379793
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.666667  0.333333  0.000000  1
+  Lu  Lu1  1  0.333333  0.666667  0.000000  1
+  Lu  Lu2  1  0.333333  0.666667  0.500000  1
+  Lu  Lu3  1  0.666667  0.333333  0.500000  1
+  Lu  Lu4  1  0.735256  0.735256  0.724167  1
+  Lu  Lu5  1  0.264744  0.000000  0.724167  1
+  Lu  Lu6  1  0.000000  0.264744  0.724167  1
+  Lu  Lu7  1  0.264744  0.264744  0.275833  1
+  Lu  Lu8  1  0.735256  0.000000  0.275833  1
+  Lu  Lu9  1  0.000000  0.735256  0.275833  1
+  Si  Si10  1  0.000000  0.000000  0.500000  1
+  Sn  Sn11  1  0.387823  0.387823  0.754793  1
+  Sn  Sn12  1  0.612177  0.000000  0.754793  1
+  Sn  Sn13  1  0.000000  0.612177  0.754793  1
+  Sn  Sn14  1  0.612177  0.612177  0.245207  1
+  Sn  Sn15  1  0.387823  0.000000  0.245207  1
+  Sn  Sn16  1  0.000000  0.387823  0.245207  1
+  Hg  Hg17  1  0.000000  0.000000  0.000000  1

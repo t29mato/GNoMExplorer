@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Tm4Al6FeIr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.44897500
+_cell_length_b   5.44897458
+_cell_length_c   8.60366800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000863
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tm4Al6FeIr
+_chemical_formula_sum   'Tm4 Al6 Fe1 Ir1'
+_cell_volume   221.22990586
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.666665  0.333333  0.053931  1
+  Tm  Tm1  1  0.666665  0.333333  0.443973  1
+  Tm  Tm2  1  0.333334  0.666667  0.556028  1
+  Tm  Tm3  1  0.333334  0.666667  0.946069  1
+  Al  Al4  1  0.162625  0.325249  0.253452  1
+  Al  Al5  1  0.162624  0.837375  0.253452  1
+  Al  Al6  1  0.674752  0.837375  0.253452  1
+  Al  Al7  1  0.325249  0.162625  0.746548  1
+  Al  Al8  1  0.837375  0.162625  0.746548  1
+  Al  Al9  1  0.837374  0.674751  0.746548  1
+  Fe  Fe10  1  0.000000  0.000000  0.500000  1
+  Ir  Ir11  1  0.000000  0.000000  0.000000  1

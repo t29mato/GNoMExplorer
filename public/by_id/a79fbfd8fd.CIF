@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TbDy(YAu)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.95119800
+_cell_length_b   7.17322247
+_cell_length_c   8.97492900
+_cell_angle_alpha   90.15268834
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbDy(YAu)2
+_chemical_formula_sum   'Tb2 Dy2 Y4 Au4'
+_cell_volume   318.75284816
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.750000  0.648361  0.418599  1
+  Tb  Tb1  1  0.250000  0.351639  0.581401  1
+  Dy  Dy2  1  0.750000  0.148979  0.079568  1
+  Dy  Dy3  1  0.250000  0.851021  0.920432  1
+  Y  Y4  1  0.250000  0.486453  0.176242  1
+  Y  Y5  1  0.750000  0.513547  0.823758  1
+  Y  Y6  1  0.250000  0.987261  0.323105  1
+  Y  Y7  1  0.750000  0.012739  0.676895  1
+  Au  Au8  1  0.250000  0.254036  0.901751  1
+  Au  Au9  1  0.750000  0.745964  0.098249  1
+  Au  Au10  1  0.250000  0.757042  0.601015  1
+  Au  Au11  1  0.750000  0.242958  0.398985  1

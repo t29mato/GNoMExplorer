@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_AcPr(CdPt)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.38338200
+_cell_length_b   7.53858400
+_cell_length_c   9.07781800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AcPr(CdPt)2
+_chemical_formula_sum   'Ac2 Pr2 Cd4 Pt4'
+_cell_volume   299.97189709
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  0.750000  0.960294  0.679494  1
+  Ac  Ac1  1  0.750000  0.460294  0.820506  1
+  Pr  Pr2  1  0.250000  0.039984  0.313212  1
+  Pr  Pr3  1  0.250000  0.539984  0.186788  1
+  Cd  Cd4  1  0.250000  0.135488  0.947225  1
+  Cd  Cd5  1  0.250000  0.635488  0.552775  1
+  Cd  Cd6  1  0.750000  0.864791  0.066366  1
+  Cd  Cd7  1  0.750000  0.364791  0.433634  1
+  Pt  Pt8  1  0.250000  0.245648  0.624538  1
+  Pt  Pt9  1  0.250000  0.745648  0.875462  1
+  Pt  Pt10  1  0.750000  0.753796  0.369131  1
+  Pt  Pt11  1  0.750000  0.253796  0.130869  1

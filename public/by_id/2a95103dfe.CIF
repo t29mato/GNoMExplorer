@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_LuCr3P4Ir3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.93935600
+_cell_length_b   6.93935723
+_cell_length_c   3.65163600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999415
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuCr3P4Ir3
+_chemical_formula_sum   'Lu1 Cr3 P4 Ir3'
+_cell_volume   152.28479754
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.333333  0.666667  0.000000  1
+  Cr  Cr1  1  0.250441  0.125221  0.000000  1
+  Cr  Cr2  1  0.874779  0.749559  0.000000  1
+  Cr  Cr3  1  0.874779  0.125221  0.000000  1
+  P  P4  1  0.666667  0.333333  0.000000  1
+  P  P5  1  0.717505  0.858753  0.500000  1
+  P  P6  1  0.141247  0.282495  0.500000  1
+  P  P7  1  0.141247  0.858753  0.500000  1
+  Ir  Ir8  1  0.939733  0.469866  0.500000  1
+  Ir  Ir9  1  0.530134  0.060267  0.500000  1
+  Ir  Ir10  1  0.530134  0.469866  0.500000  1

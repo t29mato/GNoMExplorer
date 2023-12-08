@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Cu(ReO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.76126700
+_cell_length_b   5.76126761
+_cell_length_c   6.63590100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001216
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu(ReO4)2
+_chemical_formula_sum   'Cu1 Re2 O8'
+_cell_volume   190.75087035
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.000000  0.000000  0.000000  1
+  Re  Re1  1  0.333333  0.666667  0.266518  1
+  Re  Re2  1  0.666667  0.333333  0.733482  1
+  O  O3  1  0.666667  0.333333  0.472391  1
+  O  O4  1  0.333333  0.666667  0.527609  1
+  O  O5  1  0.817651  0.150745  0.818719  1
+  O  O6  1  0.150745  0.333095  0.181281  1
+  O  O7  1  0.666905  0.817651  0.181281  1
+  O  O8  1  0.182349  0.849255  0.181281  1
+  O  O9  1  0.849255  0.666905  0.818719  1
+  O  O10  1  0.333095  0.182349  0.818719  1

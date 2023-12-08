@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_SrHo3(Ir2O7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.28919913
+_cell_length_b   7.28919866
+_cell_length_c   7.28919839
+_cell_angle_alpha   59.76498219
+_cell_angle_beta   59.76497975
+_cell_angle_gamma   59.76497560
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrHo3(Ir2O7)2
+_chemical_formula_sum   'Sr1 Ho3 Ir4 O14'
+_cell_volume   272.39593907
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.625000  0.625000  0.625000  1
+  Ho  Ho1  1  0.625000  0.625000  0.125000  1
+  Ho  Ho2  1  0.625000  0.125000  0.625000  1
+  Ho  Ho3  1  0.125000  0.625000  0.625000  1
+  Ir  Ir4  1  0.125000  0.125000  0.125000  1
+  Ir  Ir5  1  0.625000  0.125000  0.125000  1
+  Ir  Ir6  1  0.125000  0.625000  0.125000  1
+  Ir  Ir7  1  0.125000  0.125000  0.625000  1
+  O  O8  1  0.058808  0.456331  0.456331  1
+  O  O9  1  0.793669  0.793669  0.191192  1
+  O  O10  1  0.792683  0.208576  0.208576  1
+  O  O11  1  0.456331  0.058808  0.456331  1
+  O  O12  1  0.757937  0.757937  0.757937  1
+  O  O13  1  0.041424  0.041424  0.457317  1
+  O  O14  1  0.041424  0.457317  0.041424  1
+  O  O15  1  0.793669  0.191192  0.793669  1
+  O  O16  1  0.208576  0.792683  0.208576  1
+  O  O17  1  0.208576  0.208576  0.792683  1
+  O  O18  1  0.492063  0.492063  0.492063  1
+  O  O19  1  0.457317  0.041424  0.041424  1
+  O  O20  1  0.456331  0.456331  0.058808  1
+  O  O21  1  0.191192  0.793669  0.793669  1

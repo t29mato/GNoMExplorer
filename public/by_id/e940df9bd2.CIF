@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Tb5Dy3Lu2(SiB4)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.21947103
+_cell_length_b   7.21955403
+_cell_length_c   8.06431600
+_cell_angle_alpha   90.00017258
+_cell_angle_beta   89.99943009
+_cell_angle_gamma   90.01012664
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb5Dy3Lu2(SiB4)4
+_chemical_formula_sum   'Tb5 Dy3 Lu2 Si4 B16'
+_cell_volume   420.32312003
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.680348  0.180417  0.226206  1
+  Tb  Tb1  1  0.319656  0.819719  0.773697  1
+  Tb  Tb2  1  0.319626  0.819698  0.226257  1
+  Tb  Tb3  1  0.819727  0.680245  0.226254  1
+  Tb  Tb4  1  0.819671  0.680292  0.773740  1
+  Dy  Dy5  1  0.680324  0.180392  0.774791  1
+  Dy  Dy6  1  0.180396  0.319565  0.774903  1
+  Dy  Dy7  1  0.180345  0.319623  0.225096  1
+  Lu  Lu8  1  0.000060  0.000466  0.500147  1
+  Lu  Lu9  1  0.499742  0.499607  0.500117  1
+  Si  Si10  1  0.116036  0.615354  0.500060  1
+  Si  Si11  1  0.884348  0.383664  0.500279  1
+  Si  Si12  1  0.383904  0.116437  0.500249  1
+  Si  Si13  1  0.615838  0.884504  0.500249  1
+  B  B14  1  0.172305  0.039456  0.999899  1
+  B  B15  1  0.827836  0.961195  0.999820  1
+  B  B16  1  0.961080  0.172439  0.999875  1
+  B  B17  1  0.327696  0.538697  0.999917  1
+  B  B18  1  0.039103  0.827967  0.999918  1
+  B  B19  1  0.672172  0.460672  0.999872  1
+  B  B20  1  0.539011  0.672034  0.999898  1
+  B  B21  1  0.460749  0.327561  0.999822  1
+  B  B22  1  0.090137  0.589824  0.999955  1
+  B  B23  1  0.910140  0.409829  0.999948  1
+  B  B24  1  0.409989  0.090165  0.999757  1
+  B  B25  1  0.590098  0.910060  0.999759  1
+  B  B26  1  0.000210  0.000374  0.162700  1
+  B  B27  1  0.999909  0.000543  0.837052  1
+  B  B28  1  0.499853  0.499446  0.837055  1
+  B  B29  1  0.499691  0.499753  0.162706  1

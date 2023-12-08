@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Li3AcEu2Pb3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.12990200
+_cell_length_b   5.12990248
+_cell_length_c   11.59567500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999693
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3AcEu2Pb3
+_chemical_formula_sum   'Li3 Ac1 Eu2 Pb3'
+_cell_volume   264.26816986
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.000000  0.000000  0.815545  1
+  Li  Li1  1  0.333333  0.666667  0.523583  1
+  Li  Li2  1  0.000000  0.000000  0.163774  1
+  Ac  Ac3  1  0.666667  0.333333  0.335101  1
+  Eu  Eu4  1  0.666667  0.333333  0.673607  1
+  Eu  Eu5  1  0.666667  0.333333  0.994417  1
+  Pb  Pb6  1  0.333333  0.666667  0.147035  1
+  Pb  Pb7  1  0.333333  0.666667  0.845293  1
+  Pb  Pb8  1  0.000000  0.000000  0.501645  1

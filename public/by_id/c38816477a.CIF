@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_ScTi5(MnRh2)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.39559900
+_cell_length_b   6.15674100
+_cell_length_c   13.12983500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00073176
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScTi5(MnRh2)6
+_chemical_formula_sum   'Sc1 Ti5 Mn6 Rh12'
+_cell_volume   355.32700764
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.000000  0.500000  0.000000  1
+  Ti  Ti1  1  0.499908  0.000000  0.167235  1
+  Ti  Ti2  1  0.000119  0.500000  0.334004  1
+  Ti  Ti3  1  0.500000  0.000000  0.500000  1
+  Ti  Ti4  1  0.999881  0.500000  0.665996  1
+  Ti  Ti5  1  0.500090  0.000000  0.832765  1
+  Mn  Mn6  1  0.000000  0.000000  0.000000  1
+  Mn  Mn7  1  0.499731  0.500000  0.166867  1
+  Mn  Mn8  1  0.000247  0.000000  0.335528  1
+  Mn  Mn9  1  0.500000  0.500000  0.500000  1
+  Mn  Mn10  1  0.999753  0.000000  0.664471  1
+  Mn  Mn11  1  0.500269  0.500000  0.833133  1
+  Rh  Rh12  1  0.499999  0.241245  0.000000  1
+  Rh  Rh13  1  0.499999  0.758756  0.000000  1
+  Rh  Rh14  1  0.999920  0.245852  0.171150  1
+  Rh  Rh15  1  0.999920  0.754148  0.171150  1
+  Rh  Rh16  1  0.500226  0.250324  0.334018  1
+  Rh  Rh17  1  0.500226  0.749675  0.334018  1
+  Rh  Rh18  1  0.000000  0.250853  0.500000  1
+  Rh  Rh19  1  0.000000  0.749147  0.500000  1
+  Rh  Rh20  1  0.499772  0.250324  0.665981  1
+  Rh  Rh21  1  0.499772  0.749675  0.665981  1
+  Rh  Rh22  1  0.000080  0.245852  0.828850  1
+  Rh  Rh23  1  0.000080  0.754148  0.828850  1

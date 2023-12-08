@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Zr3Sc(FeOs)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.02947961
+_cell_length_b   5.01924839
+_cell_length_c   8.44313793
+_cell_angle_alpha   90.04681194
+_cell_angle_beta   89.92249225
+_cell_angle_gamma   120.11721607
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr3Sc(FeOs)4
+_chemical_formula_sum   'Zr3 Sc1 Fe4 Os4'
+_cell_volume   184.36635713
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.330670  0.665631  0.429886  1
+  Zr  Zr1  1  0.664537  0.334372  0.566876  1
+  Zr  Zr2  1  0.664357  0.334274  0.938284  1
+  Sc  Sc3  1  0.330182  0.665393  0.064568  1
+  Fe  Fe4  1  0.170725  0.342571  0.749768  1
+  Fe  Fe5  1  0.173079  0.826793  0.749635  1
+  Fe  Fe6  1  0.346724  0.172842  0.249498  1
+  Fe  Fe7  1  0.829593  0.658326  0.250000  1
+  Os  Os8  1  0.650456  0.826516  0.750238  1
+  Os  Os9  1  0.005636  0.000248  0.001224  1
+  Os  Os10  1  0.824925  0.173264  0.249705  1
+  Os  Os11  1  0.009116  0.999770  0.500318  1

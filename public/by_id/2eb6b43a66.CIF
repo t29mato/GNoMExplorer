@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_CeReTc3Ge2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.50755565
+_cell_length_b   7.50755590
+_cell_length_c   4.07923100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   147.80934441
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeReTc3Ge2
+_chemical_formula_sum   'Ce1 Re1 Tc3 Ge2'
+_cell_volume   122.48680997
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.999927  0.000073  0.000000  1
+  Re  Re1  1  0.698672  0.301329  0.000000  1
+  Tc  Tc2  1  0.303317  0.696684  0.000000  1
+  Tc  Tc3  1  0.810150  0.189850  0.500001  1
+  Tc  Tc4  1  0.188968  0.811032  0.500001  1
+  Ge  Ge5  1  0.586901  0.413099  0.500001  1
+  Ge  Ge6  1  0.412065  0.587935  0.500001  1

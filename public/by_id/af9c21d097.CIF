@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Nd2Al8Ga4Ir
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.00545800
+_cell_length_b   6.00545800
+_cell_length_c   16.00190500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd2Al8Ga4Ir
+_chemical_formula_sum   'Nd4 Al16 Ga8 Ir2'
+_cell_volume   577.11711746
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.500000  0.000000  0.246204  1
+  Nd  Nd1  1  0.500000  0.000000  0.753796  1
+  Nd  Nd2  1  0.000000  0.500000  0.753796  1
+  Nd  Nd3  1  0.000000  0.500000  0.246204  1
+  Al  Al4  1  0.330953  0.830953  0.430793  1
+  Al  Al5  1  0.669047  0.169047  0.430793  1
+  Al  Al6  1  0.330953  0.169047  0.569207  1
+  Al  Al7  1  0.669047  0.830953  0.569207  1
+  Al  Al8  1  0.169047  0.669047  0.569207  1
+  Al  Al9  1  0.830953  0.330953  0.569207  1
+  Al  Al10  1  0.830953  0.669047  0.430793  1
+  Al  Al11  1  0.169047  0.330953  0.430793  1
+  Al  Al12  1  0.249962  0.749962  0.914640  1
+  Al  Al13  1  0.750038  0.250038  0.914640  1
+  Al  Al14  1  0.249962  0.250038  0.085360  1
+  Al  Al15  1  0.750038  0.749962  0.085360  1
+  Al  Al16  1  0.250038  0.750038  0.085360  1
+  Al  Al17  1  0.749962  0.249962  0.085360  1
+  Al  Al18  1  0.749962  0.750038  0.914640  1
+  Al  Al19  1  0.250038  0.249962  0.914640  1
+  Ga  Ga20  1  0.500000  0.500000  0.341431  1
+  Ga  Ga21  1  0.500000  0.500000  0.658569  1
+  Ga  Ga22  1  0.000000  0.000000  0.658569  1
+  Ga  Ga23  1  0.000000  0.000000  0.341431  1
+  Ga  Ga24  1  0.500000  0.500000  0.187093  1
+  Ga  Ga25  1  0.500000  0.500000  0.812907  1
+  Ga  Ga26  1  0.000000  0.000000  0.812907  1
+  Ga  Ga27  1  0.000000  0.000000  0.187093  1
+  Ir  Ir28  1  0.500000  0.000000  0.000000  1
+  Ir  Ir29  1  0.000000  0.500000  0.000000  1

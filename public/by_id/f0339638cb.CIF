@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ce2U(SnIr)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.42167388
+_cell_length_b   7.58382096
+_cell_length_c   4.06689402
+_cell_angle_alpha   89.99180485
+_cell_angle_beta   90.00642096
+_cell_angle_gamma   120.56621682
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2U(SnIr)3
+_chemical_formula_sum   'Ce2 U1 Sn3 Ir3'
+_cell_volume   197.09569381
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.411552  0.410871  0.500022  1
+  Ce  Ce1  1  0.589348  0.999717  0.499931  1
+  U  U2  1  0.998822  0.585824  0.499994  1
+  Sn  Sn3  1  0.740482  0.747027  0.000035  1
+  Sn  Sn4  1  0.259343  0.005527  0.000075  1
+  Sn  Sn5  1  0.999178  0.246242  0.999956  1
+  Ir  Ir6  1  0.689661  0.354067  0.000019  1
+  Ir  Ir7  1  0.310394  0.663375  0.000020  1
+  Ir  Ir8  1  0.001220  0.987350  0.499947  1

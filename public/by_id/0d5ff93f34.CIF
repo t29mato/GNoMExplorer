@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_LaErCo5B2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.06771220
+_cell_length_b   5.06771226
+_cell_length_c   20.24410600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.97305727
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaErCo5B2
+_chemical_formula_sum   'La4 Er4 Co20 B8'
+_cell_volume   450.37157204
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.666661  0.333339  0.524188  1
+  La  La1  1  0.333339  0.666661  0.475812  1
+  La  La2  1  0.333339  0.666661  0.024188  1
+  La  La3  1  0.666661  0.333339  0.975812  1
+  Er  Er4  1  0.666502  0.333498  0.676492  1
+  Er  Er5  1  0.333498  0.666502  0.323508  1
+  Er  Er6  1  0.333498  0.666502  0.176492  1
+  Er  Er7  1  0.666502  0.333498  0.823508  1
+  Co  Co8  1  0.000000  0.000000  0.500000  1
+  Co  Co9  1  0.000000  0.000000  0.000000  1
+  Co  Co10  1  0.167433  0.335091  0.750000  1
+  Co  Co11  1  0.167486  0.832514  0.750000  1
+  Co  Co12  1  0.664909  0.832567  0.750000  1
+  Co  Co13  1  0.832567  0.664909  0.250000  1
+  Co  Co14  1  0.832514  0.167486  0.250000  1
+  Co  Co15  1  0.335091  0.167433  0.250000  1
+  Co  Co16  1  0.161494  0.323054  0.609703  1
+  Co  Co17  1  0.161575  0.838425  0.609718  1
+  Co  Co18  1  0.676946  0.838507  0.609703  1
+  Co  Co19  1  0.838507  0.676946  0.390297  1
+  Co  Co20  1  0.838425  0.161575  0.390282  1
+  Co  Co21  1  0.323054  0.161494  0.390297  1
+  Co  Co22  1  0.838507  0.676946  0.109703  1
+  Co  Co23  1  0.838425  0.161575  0.109718  1
+  Co  Co24  1  0.323054  0.161494  0.109703  1
+  Co  Co25  1  0.161494  0.323054  0.890297  1
+  Co  Co26  1  0.161575  0.838425  0.890282  1
+  Co  Co27  1  0.676946  0.838507  0.890297  1
+  B  B28  1  0.000024  0.999976  0.679374  1
+  B  B29  1  0.999976  0.000024  0.320626  1
+  B  B30  1  0.999976  0.000024  0.179374  1
+  B  B31  1  0.000024  0.999976  0.820626  1
+  B  B32  1  0.666677  0.333323  0.323795  1
+  B  B33  1  0.333323  0.666677  0.676205  1
+  B  B34  1  0.333323  0.666677  0.823795  1
+  B  B35  1  0.666677  0.333323  0.176205  1

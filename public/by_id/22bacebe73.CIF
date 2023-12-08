@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Tm10Si5As
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.31415600
+_cell_length_b   8.32491855
+_cell_length_c   6.20629800
+_cell_angle_alpha   90.00010549
+_cell_angle_beta   89.99992172
+_cell_angle_gamma   119.95732126
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tm10Si5As
+_chemical_formula_sum   'Tm10 Si5 As1'
+_cell_volume   372.17571408
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.667012  0.336117  0.998966  1
+  Tm  Tm1  1  0.330894  0.663879  0.998967  1
+  Tm  Tm2  1  0.757852  0.754343  0.249996  1
+  Tm  Tm3  1  0.240779  0.000000  0.250001  1
+  Tm  Tm4  1  0.003508  0.245662  0.250000  1
+  Tm  Tm5  1  0.667015  0.336122  0.501034  1
+  Tm  Tm6  1  0.330894  0.663880  0.501034  1
+  Tm  Tm7  1  0.242978  0.243231  0.749998  1
+  Tm  Tm8  1  0.757725  0.000001  0.750002  1
+  Tm  Tm9  1  0.999746  0.756764  0.750001  1
+  Si  Si10  1  0.000282  0.605724  0.249999  1
+  Si  Si11  1  0.394557  0.394276  0.250001  1
+  Si  Si12  1  0.393258  0.000000  0.749999  1
+  Si  Si13  1  0.998793  0.393166  0.749998  1
+  Si  Si14  1  0.605628  0.606834  0.750005  1
+  As  As15  1  0.609078  0.000000  0.249999  1

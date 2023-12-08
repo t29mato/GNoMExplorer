@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LaHoRe4(SiC)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.83924129
+_cell_length_b   5.83924105
+_cell_length_c   7.37656200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   140.07850720
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaHoRe4(SiC)2
+_chemical_formula_sum   'La1 Ho1 Re4 Si2 C2'
+_cell_volume   161.40766295
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.542634  0.457366  0.250000  1
+  Ho  Ho1  1  0.457635  0.542365  0.750000  1
+  Re  Re2  1  0.826631  0.173369  0.057981  1
+  Re  Re3  1  0.174335  0.825665  0.935735  1
+  Re  Re4  1  0.174335  0.825665  0.564265  1
+  Re  Re5  1  0.826631  0.173369  0.442019  1
+  Si  Si6  1  0.264183  0.735817  0.250000  1
+  Si  Si7  1  0.735417  0.264583  0.750000  1
+  C  C8  1  0.999100  0.000900  0.989933  1
+  C  C9  1  0.999100  0.000900  0.510067  1

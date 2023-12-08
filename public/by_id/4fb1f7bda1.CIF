@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_PaBr2ClO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.23384648
+_cell_length_b   9.23384612
+_cell_length_c   10.12303397
+_cell_angle_alpha   65.19880520
+_cell_angle_beta   65.19880739
+_cell_angle_gamma   25.27162308
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PaBr2ClO
+_chemical_formula_sum   'Pa2 Br4 Cl2 O2'
+_cell_volume   332.69377609
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.196137  0.196137  0.673821  1
+  Pa  Pa1  1  0.803863  0.803863  0.326179  1
+  Br  Br2  1  0.328566  0.328566  0.728957  1
+  Br  Br3  1  0.671434  0.671434  0.271043  1
+  Br  Br4  1  0.622908  0.622908  0.909883  1
+  Br  Br5  1  0.377092  0.377092  0.090117  1
+  Cl  Cl6  1  0.063190  0.063190  0.650391  1
+  Cl  Cl7  1  0.936810  0.936810  0.349609  1
+  O  O8  1  0.726186  0.726186  0.579232  1
+  O  O9  1  0.273814  0.273814  0.420768  1

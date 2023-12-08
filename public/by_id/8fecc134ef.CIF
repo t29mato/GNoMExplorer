@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ti4Co2MoRu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.10566500
+_cell_length_b   4.30987500
+_cell_length_c   8.62290000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00038037
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti4Co2MoRu
+_chemical_formula_sum   'Ti8 Co4 Mo2 Ru2'
+_cell_volume   226.90862085
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.500356  0.750001  0.124657  1
+  Ti  Ti1  1  0.999622  0.750001  0.124659  1
+  Ti  Ti2  1  0.499677  0.250000  0.375303  1
+  Ti  Ti3  1  0.000310  0.250000  0.375306  1
+  Ti  Ti4  1  0.999609  0.750001  0.624515  1
+  Ti  Ti5  1  0.500406  0.750001  0.624517  1
+  Ti  Ti6  1  0.000407  0.250000  0.875521  1
+  Ti  Ti7  1  0.499617  0.250000  0.875525  1
+  Co  Co8  1  0.750004  0.250000  0.128791  1
+  Co  Co9  1  0.249981  0.750001  0.371228  1
+  Co  Co10  1  0.750009  0.250000  0.621337  1
+  Co  Co11  1  0.250007  0.750001  0.878652  1
+  Mo  Mo12  1  0.250006  0.250000  0.623403  1
+  Mo  Mo13  1  0.750010  0.750001  0.876623  1
+  Ru  Ru14  1  0.249989  0.250000  0.126747  1
+  Ru  Ru15  1  0.749993  0.750001  0.373214  1

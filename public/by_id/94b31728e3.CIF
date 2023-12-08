@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CaZr(Ni2As)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.19645272
+_cell_length_b   7.19645272
+_cell_length_c   3.75706000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   89.13565702
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaZr(Ni2As)4
+_chemical_formula_sum   'Ca1 Zr1 Ni8 As4'
+_cell_volume   194.55198394
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.500000  0.500000  0.000000  1
+  Zr  Zr1  1  0.000000  0.000000  0.500000  1
+  Ni  Ni2  1  0.591038  0.152676  0.500000  1
+  Ni  Ni3  1  0.408962  0.847324  0.500000  1
+  Ni  Ni4  1  0.087420  0.344278  0.000000  1
+  Ni  Ni5  1  0.912580  0.655722  0.000000  1
+  Ni  Ni6  1  0.152676  0.591038  0.500000  1
+  Ni  Ni7  1  0.847324  0.408962  0.500000  1
+  Ni  Ni8  1  0.344278  0.087420  0.000000  1
+  Ni  Ni9  1  0.655722  0.912580  0.000000  1
+  As  As10  1  0.725377  0.725377  0.500000  1
+  As  As11  1  0.274623  0.274623  0.500000  1
+  As  As12  1  0.210440  0.789560  0.000000  1
+  As  As13  1  0.789560  0.210440  0.000000  1

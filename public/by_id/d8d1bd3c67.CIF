@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Zr6Mn4Fe12Si6As
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.15291481
+_cell_length_b   8.15291512
+_cell_length_c   8.15291600
+_cell_angle_alpha   59.99999641
+_cell_angle_beta   59.99999518
+_cell_angle_gamma   59.99999568
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr6Mn4Fe12Si6As
+_chemical_formula_sum   'Zr6 Mn4 Fe12 Si6 As1'
+_cell_volume   383.19845856
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.702189  0.702189  0.297811  1
+  Zr  Zr1  1  0.297811  0.702189  0.297811  1
+  Zr  Zr2  1  0.702189  0.297811  0.297811  1
+  Zr  Zr3  1  0.297811  0.297811  0.702189  1
+  Zr  Zr4  1  0.702189  0.297811  0.702189  1
+  Zr  Zr5  1  0.297811  0.702189  0.702189  1
+  Mn  Mn6  1  0.876412  0.876412  0.370766  1
+  Mn  Mn7  1  0.876412  0.370766  0.876412  1
+  Mn  Mn8  1  0.370766  0.876412  0.876412  1
+  Mn  Mn9  1  0.876412  0.876412  0.876412  1
+  Fe  Fe10  1  0.121487  0.121487  0.635538  1
+  Fe  Fe11  1  0.121487  0.635538  0.121487  1
+  Fe  Fe12  1  0.635538  0.121487  0.121487  1
+  Fe  Fe13  1  0.121487  0.121487  0.121487  1
+  Fe  Fe14  1  0.675734  0.675734  0.972797  1
+  Fe  Fe15  1  0.675734  0.972797  0.675734  1
+  Fe  Fe16  1  0.972797  0.675734  0.675734  1
+  Fe  Fe17  1  0.675734  0.675734  0.675734  1
+  Fe  Fe18  1  0.323333  0.323333  0.030001  1
+  Fe  Fe19  1  0.323333  0.030001  0.323333  1
+  Fe  Fe20  1  0.030001  0.323333  0.323333  1
+  Fe  Fe21  1  0.323333  0.323333  0.323333  1
+  Si  Si22  1  0.002198  0.002198  0.497802  1
+  Si  Si23  1  0.497802  0.002198  0.497802  1
+  Si  Si24  1  0.002198  0.497802  0.497802  1
+  Si  Si25  1  0.497802  0.497802  0.002198  1
+  Si  Si26  1  0.002198  0.497802  0.002198  1
+  Si  Si27  1  0.497802  0.002198  0.002198  1
+  As  As28  1  0.000000  0.000000  0.000000  1

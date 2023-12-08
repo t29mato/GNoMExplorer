@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_MnTc4(NiP)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.74119343
+_cell_length_b   6.74119200
+_cell_length_c   6.74119270
+_cell_angle_alpha   94.30940954
+_cell_angle_beta   94.30940549
+_cell_angle_gamma   148.18070581
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnTc4(NiP)4
+_chemical_formula_sum   'Mn1 Tc4 Ni4 P4'
+_cell_volume   155.33081002
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.500000  0.500000  0.000000  1
+  Tc  Tc1  1  0.878832  0.186549  0.065381  1
+  Tc  Tc2  1  0.121168  0.813451  0.934619  1
+  Tc  Tc3  1  0.186549  0.121168  0.307718  1
+  Tc  Tc4  1  0.813451  0.878832  0.692282  1
+  Ni  Ni5  1  0.605186  0.093050  0.698236  1
+  Ni  Ni6  1  0.394814  0.906950  0.301764  1
+  Ni  Ni7  1  0.093050  0.394814  0.487863  1
+  Ni  Ni8  1  0.906950  0.605186  0.512137  1
+  P  P9  1  0.747324  0.427145  0.174469  1
+  P  P10  1  0.252676  0.572855  0.825531  1
+  P  P11  1  0.427145  0.252676  0.679822  1
+  P  P12  1  0.572855  0.747324  0.320178  1

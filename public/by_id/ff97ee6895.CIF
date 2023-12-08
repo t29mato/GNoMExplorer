@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_TbNi3HgPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.14548884
+_cell_length_b   5.14548845
+_cell_length_c   5.14548939
+_cell_angle_alpha   58.63874482
+_cell_angle_beta   58.63874726
+_cell_angle_gamma   58.63873957
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbNi3HgPt
+_chemical_formula_sum   'Tb1 Ni3 Hg1 Pt1'
+_cell_volume   93.33336687
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.000343  0.000343  0.000343  1
+  Ni  Ni1  1  0.625238  0.625238  0.128961  1
+  Ni  Ni2  1  0.625238  0.128961  0.625238  1
+  Ni  Ni3  1  0.128961  0.625238  0.625238  1
+  Hg  Hg4  1  0.244018  0.244018  0.244018  1
+  Pt  Pt5  1  0.626202  0.626202  0.626202  1

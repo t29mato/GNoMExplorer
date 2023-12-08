@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_BeCr21MoC6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.47165025
+_cell_length_b   7.47164986
+_cell_length_c   7.47165000
+_cell_angle_alpha   59.99999937
+_cell_angle_beta   60.00000112
+_cell_angle_gamma   59.99998878
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BeCr21MoC6
+_chemical_formula_sum   'Be1 Cr21 Mo1 C6'
+_cell_volume   294.94058179
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.000000  0.000000  0.000000  1
+  Cr  Cr1  1  0.250000  0.250000  0.250000  1
+  Cr  Cr2  1  0.614535  0.614535  0.156394  1
+  Cr  Cr3  1  0.614535  0.156394  0.614535  1
+  Cr  Cr4  1  0.156394  0.614535  0.614535  1
+  Cr  Cr5  1  0.614535  0.614535  0.614535  1
+  Cr  Cr6  1  0.378977  0.378977  0.863070  1
+  Cr  Cr7  1  0.378977  0.863070  0.378977  1
+  Cr  Cr8  1  0.863070  0.378977  0.378977  1
+  Cr  Cr9  1  0.378977  0.378977  0.378977  1
+  Cr  Cr10  1  0.000772  0.000772  0.336408  1
+  Cr  Cr11  1  0.662048  0.000772  0.336408  1
+  Cr  Cr12  1  0.000772  0.662048  0.336408  1
+  Cr  Cr13  1  0.662048  0.336408  0.000772  1
+  Cr  Cr14  1  0.000772  0.336408  0.000772  1
+  Cr  Cr15  1  0.000772  0.336408  0.662048  1
+  Cr  Cr16  1  0.336408  0.662048  0.000772  1
+  Cr  Cr17  1  0.336408  0.000772  0.662048  1
+  Cr  Cr18  1  0.336408  0.000772  0.000772  1
+  Cr  Cr19  1  0.000772  0.000772  0.662048  1
+  Cr  Cr20  1  0.000772  0.662048  0.000772  1
+  Cr  Cr21  1  0.662048  0.000772  0.000772  1
+  Mo  Mo22  1  0.750000  0.750000  0.750000  1
+  C  C23  1  0.722227  0.722227  0.277773  1
+  C  C24  1  0.277773  0.722227  0.277773  1
+  C  C25  1  0.722227  0.277773  0.277773  1
+  C  C26  1  0.277773  0.277773  0.722227  1
+  C  C27  1  0.722227  0.277773  0.722227  1
+  C  C28  1  0.277773  0.722227  0.722227  1

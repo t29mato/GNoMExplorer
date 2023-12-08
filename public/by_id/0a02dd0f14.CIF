@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_PaTi2Ga2PdPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.52532990
+_cell_length_b   5.52532870
+_cell_length_c   5.53753690
+_cell_angle_alpha   100.66807403
+_cell_angle_beta   102.87338362
+_cell_angle_gamma   126.24095827
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PaTi2Ga2PdPt
+_chemical_formula_sum   'Pa1 Ti2 Ga2 Pd1 Pt1'
+_cell_volume   121.65407596
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.002809  0.999506  0.002316  1
+  Ti  Ti1  1  0.249871  0.751412  0.498059  1
+  Ti  Ti2  1  0.746646  0.248187  0.498059  1
+  Ga  Ga3  1  0.306746  0.300317  0.607060  1
+  Ga  Ga4  1  0.307383  0.698644  0.006027  1
+  Pd  Pd5  1  0.691665  0.300251  0.991917  1
+  Pt  Pt6  1  0.694882  0.701682  0.396564  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_HoErGe2(Ru2C)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.92026961
+_cell_length_b   5.92026943
+_cell_length_c   7.27324800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   141.92287588
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoErGe2(Ru2C)2
+_chemical_formula_sum   'Ho1 Er1 Ge2 Ru4 C2'
+_cell_volume   157.21737356
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.454563  0.545437  0.750000  1
+  Er  Er1  1  0.545250  0.454750  0.250000  1
+  Ge  Ge2  1  0.266407  0.733593  0.250000  1
+  Ge  Ge3  1  0.733471  0.266529  0.750000  1
+  Ru  Ru4  1  0.838329  0.161671  0.056939  1
+  Ru  Ru5  1  0.161729  0.838271  0.943672  1
+  Ru  Ru6  1  0.161729  0.838271  0.556328  1
+  Ru  Ru7  1  0.838329  0.161671  0.443061  1
+  C  C8  1  0.000097  0.999903  0.000734  1
+  C  C9  1  0.000097  0.999903  0.499266  1

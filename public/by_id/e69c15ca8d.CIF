@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_V2Si2Tc3Os
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.21967200
+_cell_length_b   6.00680800
+_cell_length_c   12.67985500
+_cell_angle_alpha   90.00156940
+_cell_angle_beta   89.99856189
+_cell_angle_gamma   89.99930359
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V2Si2Tc3Os
+_chemical_formula_sum   'V6 Si6 Tc9 Os3'
+_cell_volume   321.39323540
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.999996  0.500006  0.004558  1
+  V  V1  1  0.499717  0.999603  0.166977  1
+  V  V2  1  0.999721  0.500185  0.333127  1
+  V  V3  1  0.500006  0.001810  0.497630  1
+  V  V4  1  0.000264  0.495151  0.661181  1
+  V  V5  1  0.500271  0.002266  0.836723  1
+  Si  Si6  1  0.000011  0.999225  0.998842  1
+  Si  Si7  1  0.499742  0.500488  0.166082  1
+  Si  Si8  1  0.999750  0.999086  0.333618  1
+  Si  Si9  1  0.500015  0.500768  0.501323  1
+  Si  Si10  1  0.000266  0.999599  0.667392  1
+  Si  Si11  1  0.500294  0.500759  0.832745  1
+  Tc  Tc12  1  0.500000  0.251279  0.998709  1
+  Tc  Tc13  1  0.500002  0.749328  0.997494  1
+  Tc  Tc14  1  0.999775  0.248437  0.165988  1
+  Tc  Tc15  1  0.999780  0.751452  0.165756  1
+  Tc  Tc16  1  0.499773  0.251580  0.333589  1
+  Tc  Tc17  1  0.499781  0.748816  0.333939  1
+  Tc  Tc18  1  0.000002  0.248657  0.500892  1
+  Tc  Tc19  1  0.000006  0.751047  0.501846  1
+  Tc  Tc20  1  0.500214  0.250156  0.668482  1
+  Os  Os21  1  0.500200  0.750505  0.668287  1
+  Os  Os22  1  0.000205  0.250338  0.832975  1
+  Os  Os23  1  0.000211  0.749467  0.831846  1

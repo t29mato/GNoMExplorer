@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_CePr5(HfBi5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.78926784
+_cell_length_b   9.78926554
+_cell_length_c   6.57455300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.27817387
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CePr5(HfBi5)2
+_chemical_formula_sum   'Ce1 Pr5 Hf2 Bi10'
+_cell_volume   544.09281426
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.617895  0.617895  0.750000  1
+  Pr  Pr1  1  0.380565  0.000535  0.750000  1
+  Pr  Pr2  1  0.618289  0.999606  0.250000  1
+  Pr  Pr3  1  0.000535  0.380565  0.750000  1
+  Pr  Pr4  1  0.381180  0.381180  0.250000  1
+  Pr  Pr5  1  0.999606  0.618289  0.250000  1
+  Hf  Hf6  1  0.000840  0.000840  0.000661  1
+  Hf  Hf7  1  0.000840  0.000840  0.499339  1
+  Bi  Bi8  1  0.262715  0.000147  0.250000  1
+  Bi  Bi9  1  0.000147  0.262715  0.250000  1
+  Bi  Bi10  1  0.998121  0.737655  0.750000  1
+  Bi  Bi11  1  0.333440  0.666680  0.500107  1
+  Bi  Bi12  1  0.333440  0.666680  0.999893  1
+  Bi  Bi13  1  0.264422  0.264422  0.750000  1
+  Bi  Bi14  1  0.666680  0.333440  0.500107  1
+  Bi  Bi15  1  0.736950  0.736950  0.250000  1
+  Bi  Bi16  1  0.737655  0.998121  0.750000  1
+  Bi  Bi17  1  0.666680  0.333440  0.999893  1

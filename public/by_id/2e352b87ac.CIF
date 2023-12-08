@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_PrEu3(GaPd)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.48841600
+_cell_length_b   7.25861768
+_cell_length_c   7.89656167
+_cell_angle_alpha   90.43916156
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrEu3(GaPd)4
+_chemical_formula_sum   'Pr1 Eu3 Ga4 Pd4'
+_cell_volume   257.26001954
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.750000  0.474955  0.188454  1
+  Eu  Eu1  1  0.250000  0.022330  0.688483  1
+  Eu  Eu2  1  0.250000  0.523174  0.809176  1
+  Eu  Eu3  1  0.750000  0.978397  0.312717  1
+  Ga  Ga4  1  0.250000  0.157530  0.071960  1
+  Ga  Ga5  1  0.250000  0.660799  0.427635  1
+  Ga  Ga6  1  0.750000  0.841344  0.928844  1
+  Ga  Ga7  1  0.750000  0.339599  0.572699  1
+  Pd  Pd8  1  0.250000  0.290596  0.392039  1
+  Pd  Pd9  1  0.250000  0.786024  0.109071  1
+  Pd  Pd10  1  0.750000  0.711451  0.605996  1
+  Pd  Pd11  1  0.750000  0.213802  0.892927  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Mn4Nb4Ge3As
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.63485700
+_cell_length_b   6.46080721
+_cell_length_c   7.63533798
+_cell_angle_alpha   89.82935615
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn4Nb4Ge3As
+_chemical_formula_sum   'Mn4 Nb4 Ge3 As1'
+_cell_volume   179.30832428
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.750000  0.865446  0.560881  1
+  Mn  Mn1  1  0.250000  0.137088  0.440751  1
+  Mn  Mn2  1  0.750000  0.363558  0.938398  1
+  Mn  Mn3  1  0.250000  0.634827  0.060409  1
+  Nb  Nb4  1  0.250000  0.537058  0.672956  1
+  Nb  Nb5  1  0.750000  0.463696  0.326246  1
+  Nb  Nb6  1  0.250000  0.036640  0.826861  1
+  Nb  Nb7  1  0.750000  0.962757  0.173058  1
+  Ge  Ge8  1  0.250000  0.260314  0.131224  1
+  Ge  Ge9  1  0.750000  0.738545  0.869366  1
+  Ge  Ge10  1  0.250000  0.761568  0.368839  1
+  As  As11  1  0.750000  0.238506  0.631011  1

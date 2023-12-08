@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_HoHf(Ni2P)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.58817300
+_cell_length_b   6.99012691
+_cell_length_c   6.99012639
+_cell_angle_alpha   89.40421683
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoHf(Ni2P)4
+_chemical_formula_sum   'Ho1 Hf1 Ni8 P4'
+_cell_volume   175.31536613
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.000000  0.500000  0.500000  1
+  Hf  Hf1  1  0.500000  0.000000  0.000000  1
+  Ni  Ni2  1  0.500000  0.163461  0.586015  1
+  Ni  Ni3  1  0.500000  0.836539  0.413985  1
+  Ni  Ni4  1  0.000000  0.333927  0.083442  1
+  Ni  Ni5  1  0.000000  0.666073  0.916558  1
+  Ni  Ni6  1  0.500000  0.586015  0.163461  1
+  Ni  Ni7  1  0.500000  0.413985  0.836539  1
+  Ni  Ni8  1  0.000000  0.083442  0.333927  1
+  Ni  Ni9  1  0.000000  0.916558  0.666073  1
+  P  P10  1  0.500000  0.727646  0.727646  1
+  P  P11  1  0.500000  0.272354  0.272354  1
+  P  P12  1  0.000000  0.787457  0.212543  1
+  P  P13  1  0.000000  0.212543  0.787457  1

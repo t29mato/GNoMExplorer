@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_DyY2Al3Ge2Os
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.98930084
+_cell_length_b   6.98930068
+_cell_length_c   4.26192200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.12013024
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyY2Al3Ge2Os
+_chemical_formula_sum   'Dy1 Y2 Al3 Ge2 Os1'
+_cell_volume   180.08460811
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.583125  0.583125  0.000000  1
+  Y  Y1  1  0.417977  0.000030  0.000000  1
+  Y  Y2  1  0.000030  0.417978  0.000000  1
+  Al  Al3  1  0.775059  0.000099  0.500001  1
+  Al  Al4  1  0.224906  0.224906  0.500001  1
+  Al  Al5  1  0.000099  0.775060  0.500001  1
+  Ge  Ge6  1  0.666608  0.333855  0.500001  1
+  Ge  Ge7  1  0.333855  0.666607  0.500001  1
+  Os  Os8  1  0.998340  0.998340  0.000000  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LaPr(Al3Cu2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.11476400
+_cell_length_b   5.47614600
+_cell_length_c   9.40542500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaPr(Al3Cu2)2
+_chemical_formula_sum   'La1 Pr1 Al6 Cu4'
+_cell_volume   211.93289693
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.000000  0.999199  0.000000  1
+  Pr  Pr1  1  0.000000  0.500661  0.500000  1
+  Al  Al2  1  0.500000  0.000112  0.500000  1
+  Al  Al3  1  0.500000  0.499913  0.000000  1
+  Al  Al4  1  0.500000  0.250080  0.250948  1
+  Al  Al5  1  0.500000  0.749940  0.749050  1
+  Al  Al6  1  0.500000  0.749940  0.250950  1
+  Al  Al7  1  0.500000  0.250080  0.749052  1
+  Cu  Cu8  1  0.000000  0.000172  0.336073  1
+  Cu  Cu9  1  0.000000  0.499766  0.834096  1
+  Cu  Cu10  1  0.000000  0.499766  0.165904  1
+  Cu  Cu11  1  0.000000  0.000172  0.663927  1

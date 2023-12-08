@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Tm16MgCo2Ni2Ag3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.32216683
+_cell_length_b   9.32434849
+_cell_length_c   9.32638100
+_cell_angle_alpha   59.99279260
+_cell_angle_beta   59.98504844
+_cell_angle_gamma   60.00725073
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tm16MgCo2Ni2Ag3
+_chemical_formula_sum   'Tm16 Mg1 Co2 Ni2 Ag3'
+_cell_volume   573.17145485
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.347542  0.346972  0.343913  1
+  Tm  Tm1  1  0.347542  0.346972  0.961574  1
+  Tm  Tm2  1  0.350175  0.958552  0.345637  1
+  Tm  Tm3  1  0.947568  0.353011  0.349711  1
+  Tm  Tm4  1  0.806556  0.189466  0.189577  1
+  Tm  Tm5  1  0.186231  0.810285  0.816305  1
+  Tm  Tm6  1  0.186231  0.810285  0.187180  1
+  Tm  Tm7  1  0.806556  0.189466  0.814401  1
+  Tm  Tm8  1  0.187406  0.187760  0.812418  1
+  Tm  Tm9  1  0.810436  0.812357  0.188603  1
+  Tm  Tm10  1  0.934493  0.565453  0.562431  1
+  Tm  Tm11  1  0.563899  0.936859  0.936342  1
+  Tm  Tm12  1  0.563899  0.936859  0.562901  1
+  Tm  Tm13  1  0.934493  0.565453  0.937623  1
+  Tm  Tm14  1  0.562566  0.564040  0.936697  1
+  Tm  Tm15  1  0.934038  0.937968  0.563997  1
+  Mg  Mg16  1  0.287066  0.570933  0.570999  1
+  Co  Co17  1  0.138673  0.573965  0.143681  1
+  Co  Co18  1  0.573337  0.141631  0.142516  1
+  Ni  Ni19  1  0.139271  0.142750  0.144005  1
+  Ni  Ni20  1  0.139271  0.142750  0.573974  1
+  Ag  Ag21  1  0.584295  0.583501  0.583746  1
+  Ag  Ag22  1  0.584295  0.583501  0.248458  1
+  Ag  Ag23  1  0.584165  0.249212  0.583311  1

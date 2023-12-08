@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ta4Al4V2ZnRe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.04852416
+_cell_length_b   5.04055935
+_cell_length_c   8.41079300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.27798712
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta4Al4V2ZnRe
+_chemical_formula_sum   'Ta4 Al4 V2 Zn1 Re1'
+_cell_volume   186.69156346
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.666887  0.333586  0.306913  1
+  Ta  Ta1  1  0.334195  0.663821  0.185282  1
+  Ta  Ta2  1  0.334195  0.663821  0.814718  1
+  Ta  Ta3  1  0.666887  0.333586  0.693087  1
+  Al  Al4  1  0.997159  0.994424  0.248258  1
+  Al  Al5  1  0.997159  0.994424  0.751742  1
+  Al  Al6  1  0.651266  0.832218  0.500000  1
+  Al  Al7  1  0.166567  0.346021  0.500000  1
+  V  V8  1  0.837021  0.657505  0.000000  1
+  V  V9  1  0.836747  0.175835  0.000000  1
+  Zn  Zn10  1  0.166212  0.833762  0.500000  1
+  Re  Re11  1  0.345747  0.170955  0.000000  1

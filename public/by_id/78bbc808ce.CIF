@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Ho16Er(TmIr4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.83475700
+_cell_length_b   10.83475700
+_cell_length_c   6.33755000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho16Er(TmIr4)3
+_chemical_formula_sum   'Ho16 Er1 Tm3 Ir12'
+_cell_volume   743.97741134
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.290907  0.087626  0.377208  1
+  Ho  Ho1  1  0.290870  0.912384  0.877237  1
+  Ho  Ho2  1  0.709130  0.087616  0.877237  1
+  Ho  Ho3  1  0.709093  0.912374  0.377208  1
+  Ho  Ho4  1  0.587617  0.790859  0.877225  1
+  Ho  Ho5  1  0.587606  0.209143  0.377233  1
+  Ho  Ho6  1  0.412394  0.790857  0.377233  1
+  Ho  Ho7  1  0.412383  0.209141  0.877225  1
+  Ho  Ho8  1  0.209143  0.412394  0.622767  1
+  Ho  Ho9  1  0.209141  0.587617  0.122775  1
+  Ho  Ho10  1  0.790859  0.412383  0.122775  1
+  Ho  Ho11  1  0.790857  0.587606  0.622767  1
+  Ho  Ho12  1  0.912384  0.709130  0.122763  1
+  Ho  Ho13  1  0.912374  0.290907  0.622792  1
+  Ho  Ho14  1  0.087626  0.709093  0.622792  1
+  Ho  Ho15  1  0.087616  0.290870  0.122763  1
+  Er  Er16  1  0.000000  0.000000  0.500000  1
+  Tm  Tm17  1  0.000000  0.000000  0.000000  1
+  Tm  Tm18  1  0.500000  0.500000  0.000000  1
+  Tm  Tm19  1  0.500000  0.500000  0.500000  1
+  Ir  Ir20  1  0.847292  0.152705  0.249893  1
+  Ir  Ir21  1  0.847295  0.847292  0.750107  1
+  Ir  Ir22  1  0.152705  0.152708  0.750107  1
+  Ir  Ir23  1  0.152708  0.847295  0.249893  1
+  Ir  Ir24  1  0.652639  0.347360  0.749999  1
+  Ir  Ir25  1  0.652640  0.652639  0.250001  1
+  Ir  Ir26  1  0.347360  0.347361  0.250001  1
+  Ir  Ir27  1  0.347361  0.652640  0.749999  1
+  Ir  Ir28  1  0.500000  0.000000  0.122099  1
+  Ir  Ir29  1  0.500000  0.000000  0.622094  1
+  Ir  Ir30  1  0.000000  0.500000  0.877901  1
+  Ir  Ir31  1  0.000000  0.500000  0.377906  1

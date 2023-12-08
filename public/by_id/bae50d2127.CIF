@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_La2CdAgRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.98596700
+_cell_length_b   8.02990200
+_cell_length_c   4.02662600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2CdAgRh
+_chemical_formula_sum   'La4 Cd2 Ag2 Rh2'
+_cell_volume   258.21356259
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.822799  0.692757  0.500000  1
+  La  La1  1  0.322799  0.807243  0.500000  1
+  La  La2  1  0.675082  0.139060  0.500000  1
+  La  La3  1  0.175082  0.360940  0.500000  1
+  Cd  Cd4  1  0.002619  0.999724  0.000000  1
+  Cd  Cd5  1  0.502619  0.500276  0.000000  1
+  Ag  Ag6  1  0.864091  0.376976  0.000000  1
+  Ag  Ag7  1  0.364091  0.123024  0.000000  1
+  Rh  Rh8  1  0.635409  0.872479  0.000000  1
+  Rh  Rh9  1  0.135409  0.627521  0.000000  1

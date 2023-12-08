@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_AcPu2N4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.01667079
+_cell_length_b   7.01653062
+_cell_length_c   7.01812902
+_cell_angle_alpha   119.99547319
+_cell_angle_beta   90.02033325
+_cell_angle_gamma   119.96845529
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AcPu2N4
+_chemical_formula_sum   'Ac2 Pu4 N8'
+_cell_volume   244.41029973
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  0.000010  0.000010  0.999999  1
+  Ac  Ac1  1  0.749992  0.499990  0.250000  1
+  Pu  Pu2  1  0.374998  0.749997  0.124996  1
+  Pu  Pu3  1  0.374998  0.749998  0.625000  1
+  Pu  Pu4  1  0.374999  0.250001  0.625002  1
+  Pu  Pu5  1  0.875002  0.250003  0.625003  1
+  N  N6  1  0.603971  0.208029  0.395962  1
+  N  N7  1  0.187941  0.791997  0.395966  1
+  N  N8  1  0.604040  0.791974  0.396014  1
+  N  N9  1  0.145972  0.291974  0.437944  1
+  N  N10  1  0.604029  0.208028  0.812057  1
+  N  N11  1  0.145961  0.708025  0.853984  1
+  N  N12  1  0.146030  0.291972  0.854037  1
+  N  N13  1  0.562058  0.708002  0.854033  1

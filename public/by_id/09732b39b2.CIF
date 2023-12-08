@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_DyPu(CBr)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.98715089
+_cell_length_b   3.98715071
+_cell_length_c   10.38414021
+_cell_angle_alpha   81.49256919
+_cell_angle_beta   81.49257142
+_cell_angle_gamma   56.67058915
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyPu(CBr)2
+_chemical_formula_sum   'Dy1 Pu1 C2 Br2'
+_cell_volume   135.96682135
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.591903  0.591903  0.141530  1
+  Pu  Pu1  1  0.410943  0.410943  0.856668  1
+  C  C2  1  0.090828  0.090828  0.967790  1
+  C  C3  1  0.913427  0.913427  0.039314  1
+  Br  Br4  1  0.790669  0.790669  0.668890  1
+  Br  Br5  1  0.202230  0.202230  0.325807  1

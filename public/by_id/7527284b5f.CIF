@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ta7Ga(TcOs)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.35411400
+_cell_length_b   4.48196000
+_cell_length_c   8.98431500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.99920785
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta7Ga(TcOs)4
+_chemical_formula_sum   'Ta7 Ga1 Tc4 Os4'
+_cell_volume   255.86327173
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.000450  0.749999  0.124993  1
+  Ta  Ta1  1  0.500146  0.250000  0.369719  1
+  Ta  Ta2  1  0.999948  0.250000  0.373348  1
+  Ta  Ta3  1  0.998829  0.749999  0.624993  1
+  Ta  Ta4  1  0.498602  0.749999  0.624995  1
+  Ta  Ta5  1  0.999948  0.250000  0.876673  1
+  Ta  Ta6  1  0.500142  0.250000  0.880282  1
+  Ga  Ga7  1  0.500269  0.749999  0.124997  1
+  Tc  Tc8  1  0.749888  0.250000  0.124995  1
+  Tc  Tc9  1  0.250947  0.749999  0.375289  1
+  Tc  Tc10  1  0.749103  0.250000  0.624999  1
+  Tc  Tc11  1  0.250953  0.749999  0.874717  1
+  Os  Os12  1  0.250872  0.250000  0.124995  1
+  Os  Os13  1  0.749730  0.749999  0.375273  1
+  Os  Os14  1  0.250441  0.250000  0.624990  1
+  Os  Os15  1  0.749733  0.749999  0.874744  1

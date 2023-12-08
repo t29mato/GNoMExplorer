@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_PrDyCu2(TeO6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.17421409
+_cell_length_b   5.17651264
+_cell_length_c   10.11348419
+_cell_angle_alpha   90.01722840
+_cell_angle_beta   89.97989666
+_cell_angle_gamma   119.99488563
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrDyCu2(TeO6)2
+_chemical_formula_sum   'Pr1 Dy1 Cu2 Te2 O12'
+_cell_volume   234.60402184
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.999953  0.999984  0.999992  1
+  Dy  Dy1  1  0.999972  0.999969  0.499995  1
+  Cu  Cu2  1  0.333249  0.666660  0.256735  1
+  Cu  Cu3  1  0.666970  0.333501  0.743344  1
+  Te  Te4  1  0.666485  0.333207  0.257069  1
+  Te  Te5  1  0.333512  0.666790  0.742885  1
+  O  O6  1  0.630990  0.622297  0.146488  1
+  O  O7  1  0.991164  0.368742  0.146450  1
+  O  O8  1  0.377379  0.008609  0.146475  1
+  O  O9  1  0.363337  0.352214  0.364174  1
+  O  O10  1  0.988536  0.636275  0.364163  1
+  O  O11  1  0.647502  0.011165  0.364135  1
+  O  O12  1  0.352486  0.988869  0.635871  1
+  O  O13  1  0.636634  0.647733  0.635804  1
+  O  O14  1  0.011406  0.363682  0.635839  1
+  O  O15  1  0.008889  0.631278  0.853567  1
+  O  O16  1  0.622568  0.991340  0.853525  1
+  O  O17  1  0.368967  0.377691  0.853489  1

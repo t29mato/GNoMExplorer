@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_MgCd2Co(SnO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.42261051
+_cell_length_b   6.40008397
+_cell_length_c   6.40008375
+_cell_angle_alpha   119.30546635
+_cell_angle_beta   121.15979839
+_cell_angle_gamma   89.50250219
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgCd2Co(SnO4)2
+_chemical_formula_sum   'Mg1 Cd2 Co1 Sn2 O8'
+_cell_volume   185.46755864
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.500000  0.500000  0.000000  1
+  Cd  Cd1  1  0.137662  0.891726  0.245936  1
+  Cd  Cd2  1  0.862338  0.108274  0.754064  1
+  Co  Co3  1  0.000000  0.500000  0.500000  1
+  Sn  Sn4  1  0.500000  0.000000  0.000000  1
+  Sn  Sn5  1  0.500000  0.500000  0.500000  1
+  O  O6  1  0.728033  0.258949  0.034558  1
+  O  O7  1  0.725865  0.255466  0.470400  1
+  O  O8  1  0.728033  0.693476  0.469085  1
+  O  O9  1  0.289328  0.261460  0.027869  1
+  O  O10  1  0.710672  0.738540  0.972131  1
+  O  O11  1  0.274135  0.744534  0.529600  1
+  O  O12  1  0.271967  0.306524  0.530915  1
+  O  O13  1  0.271967  0.741051  0.965442  1

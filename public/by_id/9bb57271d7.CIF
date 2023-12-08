@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_LuMg2(Co3B2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.70019626
+_cell_length_b   5.70019685
+_cell_length_c   5.70019612
+_cell_angle_alpha   95.82411400
+_cell_angle_beta   95.82412821
+_cell_angle_gamma   95.82412693
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuMg2(Co3B2)3
+_chemical_formula_sum   'Lu1 Mg2 Co9 B6'
+_cell_volume   182.13225491
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.328039  0.328039  0.328039  1
+  Mg  Mg1  1  0.992167  0.992167  0.992167  1
+  Mg  Mg2  1  0.676394  0.676394  0.676394  1
+  Co  Co3  1  0.994770  0.994770  0.500250  1
+  Co  Co4  1  0.500250  0.994770  0.994770  1
+  Co  Co5  1  0.994770  0.500250  0.994770  1
+  Co  Co6  1  0.703133  0.205355  0.703133  1
+  Co  Co7  1  0.703133  0.703133  0.205355  1
+  Co  Co8  1  0.205355  0.703133  0.703133  1
+  Co  Co9  1  0.294805  0.804346  0.294805  1
+  Co  Co10  1  0.294805  0.294805  0.804346  1
+  Co  Co11  1  0.804346  0.294805  0.294805  1
+  B  B12  1  0.616968  0.388180  0.998867  1
+  B  B13  1  0.998867  0.616968  0.388180  1
+  B  B14  1  0.388180  0.998867  0.616968  1
+  B  B15  1  0.998867  0.388180  0.616968  1
+  B  B16  1  0.616968  0.998867  0.388180  1
+  B  B17  1  0.388180  0.616968  0.998867  1

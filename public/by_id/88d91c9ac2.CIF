@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_TbInNiH
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.00878500
+_cell_length_b   7.33414900
+_cell_length_c   8.69872400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbInNiH
+_chemical_formula_sum   'Tb4 In4 Ni4 H4'
+_cell_volume   255.75141483
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.750000  0.024201  0.682519  1
+  Tb  Tb1  1  0.250000  0.975799  0.317481  1
+  Tb  Tb2  1  0.250000  0.475799  0.182519  1
+  Tb  Tb3  1  0.750000  0.524201  0.817481  1
+  In  In4  1  0.750000  0.642848  0.437630  1
+  In  In5  1  0.250000  0.357152  0.562370  1
+  In  In6  1  0.250000  0.857152  0.937630  1
+  In  In7  1  0.750000  0.142848  0.062370  1
+  Ni  Ni8  1  0.750000  0.758970  0.129258  1
+  Ni  Ni9  1  0.250000  0.241030  0.870742  1
+  Ni  Ni10  1  0.250000  0.741030  0.629258  1
+  Ni  Ni11  1  0.750000  0.258970  0.370742  1
+  H  H12  1  0.250000  0.449248  0.927046  1
+  H  H13  1  0.750000  0.550752  0.072954  1
+  H  H14  1  0.750000  0.050752  0.427046  1
+  H  H15  1  0.250000  0.949248  0.572954  1

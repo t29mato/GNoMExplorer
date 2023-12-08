@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_TaBeNb2Si
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.64229100
+_cell_length_b   6.64634300
+_cell_length_c   3.43011600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaBeNb2Si
+_chemical_formula_sum   'Ta2 Be2 Nb4 Si2'
+_cell_volume   151.42913997
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.997369  0.993666  0.000000  1
+  Ta  Ta1  1  0.497369  0.506334  0.000000  1
+  Be  Be2  1  0.620361  0.878912  0.000000  1
+  Be  Be3  1  0.120361  0.621088  0.000000  1
+  Nb  Nb4  1  0.677845  0.172933  0.500000  1
+  Nb  Nb5  1  0.177845  0.327067  0.500000  1
+  Nb  Nb6  1  0.822046  0.682562  0.500000  1
+  Nb  Nb7  1  0.322046  0.817438  0.500000  1
+  Si  Si8  1  0.882380  0.385882  0.000000  1
+  Si  Si9  1  0.382380  0.114118  0.000000  1

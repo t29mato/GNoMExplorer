@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ta12AlSi7(RuC)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.20011976
+_cell_length_b   8.20005843
+_cell_length_c   8.20011419
+_cell_angle_alpha   60.02857142
+_cell_angle_beta   60.02745153
+_cell_angle_gamma   60.03051449
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta12AlSi7(RuC)4
+_chemical_formula_sum   'Ta12 Al1 Si7 Ru4 C4'
+_cell_volume   390.14489723
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.563763  0.936762  0.563776  1
+  Ta  Ta1  1  0.313034  0.686093  0.686072  1
+  Ta  Ta2  1  0.692223  0.311825  0.311858  1
+  Ta  Ta3  1  0.311835  0.692224  0.311859  1
+  Ta  Ta4  1  0.686097  0.686105  0.313029  1
+  Ta  Ta5  1  0.311852  0.311842  0.692210  1
+  Ta  Ta6  1  0.563745  0.563732  0.936782  1
+  Ta  Ta7  1  0.936776  0.563740  0.563766  1
+  Ta  Ta8  1  0.560786  0.937463  0.937439  1
+  Ta  Ta9  1  0.937446  0.937450  0.560796  1
+  Ta  Ta10  1  0.686068  0.313051  0.686056  1
+  Ta  Ta11  1  0.937455  0.560787  0.937434  1
+  Al  Al12  1  0.333408  0.333409  0.333405  1
+  Si  Si13  1  0.913236  0.913236  0.913232  1
+  Si  Si14  1  0.994880  0.336981  0.336974  1
+  Si  Si15  1  0.336979  0.994886  0.336978  1
+  Si  Si16  1  0.336972  0.336977  0.994881  1
+  Si  Si17  1  0.914402  0.256699  0.914406  1
+  Si  Si18  1  0.914408  0.914401  0.256706  1
+  Si  Si19  1  0.256707  0.914398  0.914408  1
+  Ru  Ru20  1  0.125840  0.125836  0.125840  1
+  Ru  Ru21  1  0.632247  0.120163  0.120157  1
+  Ru  Ru22  1  0.120161  0.632253  0.120160  1
+  Ru  Ru23  1  0.120157  0.120164  0.632252  1
+  C  C24  1  0.624704  0.624705  0.624702  1
+  C  C25  1  0.125453  0.624684  0.624684  1
+  C  C26  1  0.624684  0.125453  0.624683  1
+  C  C27  1  0.624684  0.624685  0.125453  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YbDy(LuOs4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.29247400
+_cell_length_b   5.29247442
+_cell_length_c   8.80184600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99998485
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbDy(LuOs4)2
+_chemical_formula_sum   'Yb1 Dy1 Lu2 Os8'
+_cell_volume   213.51184081
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.666667  0.333333  0.562916  1
+  Dy  Dy1  1  0.333333  0.666667  0.438863  1
+  Lu  Lu2  1  0.666667  0.333333  0.929638  1
+  Lu  Lu3  1  0.333333  0.666667  0.065944  1
+  Os  Os4  1  0.172310  0.344620  0.752853  1
+  Os  Os5  1  0.172310  0.827690  0.752853  1
+  Os  Os6  1  0.345901  0.172951  0.247408  1
+  Os  Os7  1  0.827049  0.654099  0.247408  1
+  Os  Os8  1  0.655380  0.827690  0.752853  1
+  Os  Os9  1  0.000000  0.000000  0.001067  1
+  Os  Os10  1  0.827049  0.172951  0.247408  1
+  Os  Os11  1  0.000000  0.000000  0.500788  1

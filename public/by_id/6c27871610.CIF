@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_PmSiGePt2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.88395039
+_cell_length_b   5.88395093
+_cell_length_c   5.88395130
+_cell_angle_alpha   137.27052489
+_cell_angle_beta   137.27053666
+_cell_angle_gamma   62.02206947
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PmSiGePt2
+_chemical_formula_sum   'Pm1 Si1 Ge1 Pt2'
+_cell_volume   92.68500663
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pm  Pm0  1  0.999452  0.999452  0.000000  1
+  Si  Si1  1  0.373717  0.373717  0.000000  1
+  Ge  Ge2  1  0.614900  0.614900  0.000000  1
+  Pt  Pt3  1  0.755964  0.255964  0.500000  1
+  Pt  Pt4  1  0.255964  0.755964  0.500000  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Tb3Th(Pt2Pb)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.06797835
+_cell_length_b   8.06797823
+_cell_length_c   3.61560800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.85613794
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb3Th(Pt2Pb)2
+_chemical_formula_sum   'Tb3 Th1 Pt4 Pb2'
+_cell_volume   235.32187227
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.168574  0.333704  0.500000  1
+  Tb  Tb1  1  0.833704  0.668574  0.500000  1
+  Tb  Tb2  1  0.329025  0.829025  0.500000  1
+  Th  Th3  1  0.667617  0.167617  0.500000  1
+  Pt  Pt4  1  0.374312  0.128951  0.000000  1
+  Pt  Pt5  1  0.124670  0.624670  0.000000  1
+  Pt  Pt6  1  0.628951  0.874312  0.000000  1
+  Pt  Pt7  1  0.870635  0.370635  0.000000  1
+  Pb  Pb8  1  0.007398  0.995117  0.000000  1
+  Pb  Pb9  1  0.495117  0.507398  0.000000  1

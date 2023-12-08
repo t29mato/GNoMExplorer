@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Mn13AlCr7(MoC3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.45602556
+_cell_length_b   7.45612849
+_cell_length_c   7.44796549
+_cell_angle_alpha   60.06895966
+_cell_angle_beta   59.96420149
+_cell_angle_gamma   60.00046710
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn13AlCr7(MoC3)2
+_chemical_formula_sum   'Mn13 Al1 Cr7 Mo2 C6'
+_cell_volume   292.85526263
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.616606  0.614232  0.152557  1
+  Mn  Mn1  1  0.617128  0.152452  0.613291  1
+  Mn  Mn2  1  0.152584  0.616154  0.615892  1
+  Mn  Mn3  1  0.615369  0.616154  0.615892  1
+  Mn  Mn4  1  0.384280  0.383468  0.847971  1
+  Mn  Mn5  1  0.384771  0.847758  0.382700  1
+  Mn  Mn6  1  0.848017  0.384048  0.382945  1
+  Mn  Mn7  1  0.384991  0.384048  0.382945  1
+  Mn  Mn8  1  0.000054  0.999132  0.343254  1
+  Mn  Mn9  1  0.657561  0.999132  0.343254  1
+  Mn  Mn10  1  0.998575  0.659335  0.343515  1
+  Mn  Mn11  1  0.657728  0.342263  0.999430  1
+  Mn  Mn12  1  0.000579  0.342263  0.999430  1
+  Al  Al13  1  0.996622  0.001166  0.005590  1
+  Cr  Cr14  1  0.999241  0.343801  0.657717  1
+  Cr  Cr15  1  0.342994  0.655987  0.000763  1
+  Cr  Cr16  1  0.342359  0.001214  0.656236  1
+  Cr  Cr17  1  0.342088  0.999895  0.000936  1
+  Cr  Cr18  1  0.000191  0.001214  0.656236  1
+  Cr  Cr19  1  0.000255  0.655987  0.000763  1
+  Cr  Cr20  1  0.657081  0.999895  0.000936  1
+  Mo  Mo21  1  0.750213  0.750753  0.748821  1
+  Mo  Mo22  1  0.249557  0.250075  0.250810  1
+  C  C23  1  0.721466  0.721708  0.280917  1
+  C  C24  1  0.275908  0.721708  0.280917  1
+  C  C25  1  0.725537  0.274706  0.274220  1
+  C  C26  1  0.279518  0.280689  0.721350  1
+  C  C27  1  0.718442  0.280689  0.721350  1
+  C  C28  1  0.280283  0.720072  0.719362  1

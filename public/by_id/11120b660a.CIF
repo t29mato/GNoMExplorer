@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_CaPr6(NdRh3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.65926873
+_cell_length_b   7.65926774
+_cell_length_c   7.65926734
+_cell_angle_alpha   71.23609375
+_cell_angle_beta   71.23608823
+_cell_angle_gamma   71.23609037
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaPr6(NdRh3)2
+_chemical_formula_sum   'Ca1 Pr6 Nd2 Rh6'
+_cell_volume   390.72101899
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.000000  0.000000  0.000000  1
+  Pr  Pr1  1  0.161028  0.388501  0.667569  1
+  Pr  Pr2  1  0.667569  0.161028  0.388501  1
+  Pr  Pr3  1  0.388501  0.667569  0.161028  1
+  Pr  Pr4  1  0.838972  0.611499  0.332431  1
+  Pr  Pr5  1  0.332431  0.838972  0.611499  1
+  Pr  Pr6  1  0.611499  0.332431  0.838972  1
+  Nd  Nd7  1  0.799146  0.799146  0.799146  1
+  Nd  Nd8  1  0.200854  0.200854  0.200854  1
+  Rh  Rh9  1  0.956363  0.167304  0.583341  1
+  Rh  Rh10  1  0.583341  0.956363  0.167304  1
+  Rh  Rh11  1  0.167304  0.583341  0.956363  1
+  Rh  Rh12  1  0.043637  0.832696  0.416659  1
+  Rh  Rh13  1  0.416659  0.043637  0.832696  1
+  Rh  Rh14  1  0.832696  0.416659  0.043637  1

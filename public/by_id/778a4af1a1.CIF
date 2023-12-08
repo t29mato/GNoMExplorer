@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Er3Tm(InAu2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.95481316
+_cell_length_b   7.95481316
+_cell_length_c   3.68305700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.08442954
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er3Tm(InAu2)2
+_chemical_formula_sum   'Er3 Tm1 In2 Au4'
+_cell_volume   233.06010385
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.330317  0.830317  0.500000  1
+  Er  Er1  1  0.169644  0.330177  0.500000  1
+  Er  Er2  1  0.830177  0.669644  0.500000  1
+  Tm  Tm3  1  0.669775  0.169775  0.500000  1
+  In  In4  1  0.500077  0.499903  0.000000  1
+  In  In5  1  0.999903  0.000077  0.000000  1
+  Au  Au6  1  0.128747  0.628747  0.000000  1
+  Au  Au7  1  0.870639  0.370639  0.000000  1
+  Au  Au8  1  0.628998  0.871724  0.000000  1
+  Au  Au9  1  0.371724  0.128998  0.000000  1

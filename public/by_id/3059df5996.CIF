@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Lu2Ga2CuIr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.31467700
+_cell_length_b   6.78063800
+_cell_length_c   7.52483000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2Ga2CuIr
+_chemical_formula_sum   'Lu4 Ga4 Cu2 Ir2'
+_cell_volume   220.14840419
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.250000  0.992320  0.296469  1
+  Lu  Lu1  1  0.250000  0.492320  0.203531  1
+  Lu  Lu2  1  0.750000  0.021305  0.689143  1
+  Lu  Lu3  1  0.750000  0.521305  0.810857  1
+  Ga  Ga4  1  0.250000  0.323708  0.583364  1
+  Ga  Ga5  1  0.250000  0.823708  0.916636  1
+  Ga  Ga6  1  0.750000  0.675799  0.431818  1
+  Ga  Ga7  1  0.750000  0.175799  0.068182  1
+  Cu  Cu8  1  0.250000  0.212228  0.900592  1
+  Cu  Cu9  1  0.250000  0.712228  0.599408  1
+  Ir  Ir10  1  0.750000  0.774639  0.100415  1
+  Ir  Ir11  1  0.750000  0.274639  0.399585  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_FeCo(BMo)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.20324300
+_cell_length_b   5.80464582
+_cell_length_c   6.72726470
+_cell_angle_alpha   89.58664859
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeCo(BMo)2
+_chemical_formula_sum   'Fe2 Co2 B4 Mo4'
+_cell_volume   125.08142664
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.750000  0.857939  0.559212  1
+  Fe  Fe1  1  0.250000  0.142061  0.440788  1
+  Co  Co2  1  0.750000  0.356510  0.943998  1
+  Co  Co3  1  0.250000  0.643490  0.056002  1
+  B  B4  1  0.250000  0.765461  0.366134  1
+  B  B5  1  0.750000  0.234539  0.633866  1
+  B  B6  1  0.250000  0.272916  0.124429  1
+  B  B7  1  0.750000  0.727084  0.875571  1
+  Mo  Mo8  1  0.250000  0.529508  0.674157  1
+  Mo  Mo9  1  0.750000  0.470492  0.325843  1
+  Mo  Mo10  1  0.250000  0.028751  0.828267  1
+  Mo  Mo11  1  0.750000  0.971249  0.171733  1

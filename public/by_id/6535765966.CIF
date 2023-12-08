@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_DyThCo2(Ni3B)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.98371947
+_cell_length_b   5.00362312
+_cell_length_c   6.98193600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.19672737
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyThCo2(Ni3B)2
+_chemical_formula_sum   'Dy1 Th1 Co2 Ni6 B2'
+_cell_volume   150.48053632
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.500000  0.000000  0.501148  1
+  Th  Th1  1  0.500000  0.000000  0.991779  1
+  Co  Co2  1  0.000000  0.000000  0.704379  1
+  Co  Co3  1  0.000000  0.500000  0.704186  1
+  Ni  Ni4  1  0.839538  0.669808  0.000125  1
+  Ni  Ni5  1  0.160462  0.330192  0.000125  1
+  Ni  Ni6  1  0.500000  0.500000  0.708118  1
+  Ni  Ni7  1  0.000000  0.000000  0.294740  1
+  Ni  Ni8  1  0.500000  0.500000  0.293489  1
+  Ni  Ni9  1  0.000000  0.500000  0.294943  1
+  B  B10  1  0.837147  0.668679  0.503484  1
+  B  B11  1  0.162853  0.331321  0.503484  1

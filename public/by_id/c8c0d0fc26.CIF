@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Sr5Si2SbF
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.70628288
+_cell_length_b   9.70628249
+_cell_length_c   9.70628100
+_cell_angle_alpha   129.51501946
+_cell_angle_beta   129.51501756
+_cell_angle_gamma   74.18328928
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr5Si2SbF
+_chemical_formula_sum   'Sr10 Si4 Sb2 F2'
+_cell_volume   530.61515196
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.500000  0.500000  0.000000  1
+  Sr  Sr1  1  0.000000  0.000000  0.000000  1
+  Sr  Sr2  1  0.521282  0.021282  0.826983  1
+  Sr  Sr3  1  0.194299  0.694299  0.173014  1
+  Sr  Sr4  1  0.021284  0.194296  0.499999  1
+  Sr  Sr5  1  0.694296  0.521284  0.499999  1
+  Sr  Sr6  1  0.478718  0.978718  0.173017  1
+  Sr  Sr7  1  0.805701  0.305701  0.826986  1
+  Sr  Sr8  1  0.978716  0.805704  0.500001  1
+  Sr  Sr9  1  0.305704  0.478716  0.500001  1
+  Si  Si10  1  0.888707  0.388707  0.277412  1
+  Si  Si11  1  0.111293  0.611293  0.722588  1
+  Si  Si12  1  0.388707  0.111293  0.500000  1
+  Si  Si13  1  0.611293  0.888707  0.500000  1
+  Sb  Sb14  1  0.250000  0.250000  0.000000  1
+  Sb  Sb15  1  0.750000  0.750000  0.000000  1
+  F  F16  1  0.250000  0.750000  0.500000  1
+  F  F17  1  0.750000  0.250000  0.500000  1

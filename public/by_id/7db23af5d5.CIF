@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TaMn8Mo2Ru
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.70903700
+_cell_length_b   4.70903754
+_cell_length_c   7.77847300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000326
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaMn8Mo2Ru
+_chemical_formula_sum   'Ta1 Mn8 Mo2 Ru1'
+_cell_volume   149.37888763
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.666667  0.333333  0.060473  1
+  Mn  Mn1  1  0.000000  0.000000  0.502860  1
+  Mn  Mn2  1  0.000000  0.000000  0.001125  1
+  Mn  Mn3  1  0.654270  0.827134  0.250893  1
+  Mn  Mn4  1  0.172866  0.827134  0.250893  1
+  Mn  Mn5  1  0.172866  0.345730  0.250893  1
+  Mn  Mn6  1  0.346014  0.173008  0.748941  1
+  Mn  Mn7  1  0.826992  0.173008  0.748941  1
+  Mn  Mn8  1  0.826992  0.653986  0.748941  1
+  Mo  Mo9  1  0.666667  0.333333  0.436675  1
+  Mo  Mo10  1  0.333333  0.666667  0.570235  1
+  Ru  Ru11  1  0.333333  0.666667  0.929132  1

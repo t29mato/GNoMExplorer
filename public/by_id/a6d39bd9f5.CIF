@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Mn2Nb4Cr5Si
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.85523340
+_cell_length_b   4.85523142
+_cell_length_c   8.08101925
+_cell_angle_alpha   90.28785793
+_cell_angle_beta   89.71214027
+_cell_angle_gamma   120.17679400
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2Nb4Cr5Si
+_chemical_formula_sum   'Mn2 Nb4 Cr5 Si1'
+_cell_volume   164.67704752
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.000791  0.999209  0.501605  1
+  Mn  Mn1  1  0.171203  0.828797  0.748685  1
+  Nb  Nb2  1  0.332631  0.667369  0.441431  1
+  Nb  Nb3  1  0.666649  0.333351  0.933375  1
+  Nb  Nb4  1  0.666550  0.333450  0.560254  1
+  Nb  Nb5  1  0.333550  0.666450  0.065760  1
+  Cr  Cr6  1  0.170739  0.341467  0.746977  1
+  Cr  Cr7  1  0.829164  0.170836  0.252141  1
+  Cr  Cr8  1  0.340120  0.170916  0.251942  1
+  Cr  Cr9  1  0.658533  0.829261  0.746977  1
+  Cr  Cr10  1  0.829084  0.659880  0.251942  1
+  Si  Si11  1  0.000987  0.999013  0.998910  1

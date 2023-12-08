@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Mn17Cr3Ni(MoC3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.41065953
+_cell_length_b   7.41065995
+_cell_length_c   7.41065896
+_cell_angle_alpha   60.03253874
+_cell_angle_beta   60.03252444
+_cell_angle_gamma   60.03253633
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn17Cr3Ni(MoC3)2
+_chemical_formula_sum   'Mn17 Cr3 Ni1 Mo2 C6'
+_cell_volume   287.98888810
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.616165  0.616165  0.151128  1
+  Mn  Mn1  1  0.616165  0.151128  0.616165  1
+  Mn  Mn2  1  0.151128  0.616165  0.616165  1
+  Mn  Mn3  1  0.616120  0.616120  0.616120  1
+  Mn  Mn4  1  0.382680  0.382680  0.849970  1
+  Mn  Mn5  1  0.382680  0.849970  0.382680  1
+  Mn  Mn6  1  0.849970  0.382680  0.382680  1
+  Mn  Mn7  1  0.383380  0.383380  0.383380  1
+  Mn  Mn8  1  0.000228  0.000228  0.336809  1
+  Mn  Mn9  1  0.663219  0.999293  0.338021  1
+  Mn  Mn10  1  0.999293  0.663219  0.338021  1
+  Mn  Mn11  1  0.663219  0.338021  0.999293  1
+  Mn  Mn12  1  0.000228  0.336809  0.000228  1
+  Mn  Mn13  1  0.999293  0.338021  0.663219  1
+  Mn  Mn14  1  0.338021  0.663219  0.999293  1
+  Mn  Mn15  1  0.338021  0.999293  0.663219  1
+  Mn  Mn16  1  0.336809  0.000228  0.000228  1
+  Cr  Cr17  1  0.000662  0.000662  0.662988  1
+  Cr  Cr18  1  0.000662  0.662988  0.000662  1
+  Cr  Cr19  1  0.662988  0.000662  0.000662  1
+  Ni  Ni20  1  0.000106  0.000106  0.000106  1
+  Mo  Mo21  1  0.749724  0.749724  0.749724  1
+  Mo  Mo22  1  0.249633  0.249633  0.249633  1
+  C  C23  1  0.721951  0.721951  0.281103  1
+  C  C24  1  0.274653  0.725290  0.274653  1
+  C  C25  1  0.725290  0.274653  0.274653  1
+  C  C26  1  0.274653  0.274653  0.725290  1
+  C  C27  1  0.721951  0.281103  0.721951  1
+  C  C28  1  0.281103  0.721951  0.721951  1

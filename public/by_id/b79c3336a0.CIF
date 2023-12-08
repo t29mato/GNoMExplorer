@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_LiPr3Mg2Ir2Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.48715485
+_cell_length_b   7.48715323
+_cell_length_c   4.13701200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.05454992
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiPr3Mg2Ir2Pd
+_chemical_formula_sum   'Li1 Pr3 Mg2 Ir2 Pd1'
+_cell_volume   200.72985144
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.761982  0.761982  0.000000  1
+  Pr  Pr1  1  0.427534  0.427534  0.500000  1
+  Pr  Pr2  1  0.581200  0.997154  0.500000  1
+  Pr  Pr3  1  0.997154  0.581200  0.500000  1
+  Mg  Mg4  1  0.240561  0.000416  0.000000  1
+  Mg  Mg5  1  0.000416  0.240561  0.000000  1
+  Ir  Ir6  1  0.663043  0.324655  0.000000  1
+  Ir  Ir7  1  0.324655  0.663043  0.000000  1
+  Pd  Pd8  1  0.003455  0.003455  0.500000  1

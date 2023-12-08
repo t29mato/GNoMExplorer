@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Ba4NaAs10(Ir4Ru)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.14259740
+_cell_length_b   9.15539243
+_cell_length_c   9.15285665
+_cell_angle_alpha   119.67904638
+_cell_angle_beta   119.63679471
+_cell_angle_gamma   90.63236983
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba4NaAs10(Ir4Ru)2
+_chemical_formula_sum   'Ba4 Na1 As10 Ir8 Ru2'
+_cell_volume   544.31924386
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.193604  0.606199  0.803339  1
+  Ba  Ba1  1  0.392449  0.195225  0.587242  1
+  Ba  Ba2  1  0.608688  0.804708  0.412035  1
+  Ba  Ba3  1  0.805527  0.392856  0.196628  1
+  Na  Na4  1  0.999749  0.000214  0.999937  1
+  As  As5  1  0.440058  0.043420  0.194631  1
+  As  As6  1  0.638106  0.640170  0.996037  1
+  As  As7  1  0.843090  0.243203  0.800199  1
+  As  As8  1  0.046494  0.845695  0.603145  1
+  As  As9  1  0.247531  0.445526  0.404980  1
+  As  As10  1  0.360872  0.353977  0.996954  1
+  As  As11  1  0.555623  0.955647  0.800784  1
+  As  As12  1  0.754078  0.560456  0.603801  1
+  As  As13  1  0.956466  0.157119  0.400136  1
+  As  As14  1  0.157425  0.755454  0.199720  1
+  Ir  Ir15  1  0.748962  0.251827  0.500731  1
+  Ir  Ir16  1  0.948404  0.848815  0.297952  1
+  Ir  Ir17  1  0.152912  0.447631  0.098848  1
+  Ir  Ir18  1  0.449972  0.350919  0.298304  1
+  Ir  Ir19  1  0.650650  0.949329  0.102054  1
+  Ir  Ir20  1  0.849860  0.550135  0.902397  1
+  Ir  Ir21  1  0.050148  0.151115  0.700198  1
+  Ir  Ir22  1  0.248899  0.748499  0.497612  1
+  Ru  Ru23  1  0.349633  0.049706  0.898563  1
+  Ru  Ru24  1  0.550800  0.652154  0.703773  1

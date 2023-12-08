@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LiPrZnPt3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.55324050
+_cell_length_b   5.55324039
+_cell_length_c   5.22234664
+_cell_angle_alpha   57.88093288
+_cell_angle_beta   57.88093041
+_cell_angle_gamma   60.00000139
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiPrZnPt3
+_chemical_formula_sum   'Li1 Pr1 Zn1 Pt3'
+_cell_volume   110.09406848
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.259560  0.259560  0.221321  1
+  Pr  Pr1  1  0.004480  0.004480  0.986561  1
+  Zn  Zn2  1  0.621449  0.621449  0.135652  1
+  Pt  Pt3  1  0.619818  0.124876  0.635489  1
+  Pt  Pt4  1  0.124876  0.619818  0.635489  1
+  Pt  Pt5  1  0.619818  0.619818  0.635489  1

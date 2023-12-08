@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_La2TiGa5Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.45590531
+_cell_length_b   6.45590499
+_cell_length_c   6.47511000
+_cell_angle_alpha   59.90154559
+_cell_angle_beta   59.90154723
+_cell_angle_gamma   60.19690866
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2TiGa5Ge
+_chemical_formula_sum   'La2 Ti1 Ga5 Ge1'
+_cell_volume   190.82651982
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.749968  0.749968  0.750032  1
+  La  La1  1  0.249968  0.249968  0.250032  1
+  Ti  Ti2  1  0.500952  0.500952  0.499048  1
+  Ga  Ga3  1  0.212371  0.787159  0.212841  1
+  Ga  Ga4  1  0.787159  0.212371  0.212841  1
+  Ga  Ga5  1  0.213282  0.213282  0.786718  1
+  Ga  Ga6  1  0.787159  0.212371  0.787629  1
+  Ga  Ga7  1  0.212371  0.787159  0.787629  1
+  Ge  Ge8  1  0.786770  0.786770  0.213230  1

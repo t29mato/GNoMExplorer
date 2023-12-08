@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Tb2TiCrO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.05065266
+_cell_length_b   6.05065320
+_cell_length_c   6.05065218
+_cell_angle_alpha   106.08703988
+_cell_angle_beta   106.08703701
+_cell_angle_gamma   116.47487848
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2TiCrO8
+_chemical_formula_sum   'Tb2 Ti1 Cr1 O8'
+_cell_volume   168.59033370
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.000000  0.000000  0.000000  1
+  Tb  Tb1  1  0.250000  0.750000  0.500000  1
+  Ti  Ti2  1  0.750000  0.250000  0.500000  1
+  Cr  Cr3  1  0.500000  0.500000  0.000000  1
+  O  O4  1  0.339163  0.518645  0.179481  1
+  O  O5  1  0.369791  0.057036  0.312755  1
+  O  O6  1  0.744281  0.057036  0.687245  1
+  O  O7  1  0.339163  0.159682  0.820519  1
+  O  O8  1  0.840318  0.660837  0.179481  1
+  O  O9  1  0.942964  0.255719  0.312755  1
+  O  O10  1  0.942964  0.630209  0.687245  1
+  O  O11  1  0.481355  0.660837  0.820519  1

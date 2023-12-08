@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_YCo2GeC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.63414708
+_cell_length_b   5.63414646
+_cell_length_c   6.85282800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   140.87256878
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YCo2GeC
+_chemical_formula_sum   'Y2 Co4 Ge2 C2'
+_cell_volume   137.27392218
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.549237  0.450763  0.250000  1
+  Y  Y1  1  0.450763  0.549237  0.750000  1
+  Co  Co2  1  0.839188  0.160812  0.056316  1
+  Co  Co3  1  0.160812  0.839188  0.943684  1
+  Co  Co4  1  0.160812  0.839188  0.556316  1
+  Co  Co5  1  0.839188  0.160812  0.443684  1
+  Ge  Ge6  1  0.270217  0.729783  0.250000  1
+  Ge  Ge7  1  0.729783  0.270217  0.750000  1
+  C  C8  1  0.000000  0.000000  0.000000  1
+  C  C9  1  0.000000  0.000000  0.500000  1

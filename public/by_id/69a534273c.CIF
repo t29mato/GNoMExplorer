@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ti3Ge2Mo2POs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.94182831
+_cell_length_b   6.89315923
+_cell_length_c   3.25456900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.76834413
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3Ge2Mo2POs
+_chemical_formula_sum   'Ti3 Ge2 Mo2 P1 Os1'
+_cell_volume   135.18401791
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.406353  0.398014  0.500000  1
+  Ti  Ti1  1  0.593647  0.991660  0.500000  1
+  Ti  Ti2  1  0.000000  0.608302  0.500000  1
+  Ge  Ge3  1  0.670518  0.332157  0.000000  1
+  Ge  Ge4  1  0.329482  0.661640  0.000000  1
+  Mo  Mo5  1  0.747066  0.749157  0.000000  1
+  Mo  Mo6  1  0.252934  0.002092  0.000000  1
+  P  P7  1  0.000000  0.002214  0.500000  1
+  Os  Os8  1  0.000000  0.254763  0.000000  1

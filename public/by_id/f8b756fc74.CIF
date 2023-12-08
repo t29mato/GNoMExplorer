@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_SmNiPH
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.90449800
+_cell_length_b   8.29961800
+_cell_length_c   6.81437300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmNiPH
+_chemical_formula_sum   'Sm4 Ni4 P4 H4'
+_cell_volume   220.82549396
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.750000  0.505570  0.747550  1
+  Sm  Sm1  1  0.250000  0.494430  0.252450  1
+  Sm  Sm2  1  0.250000  0.994430  0.247550  1
+  Sm  Sm3  1  0.750000  0.005570  0.752450  1
+  Ni  Ni4  1  0.750000  0.237023  0.414988  1
+  Ni  Ni5  1  0.250000  0.762977  0.585012  1
+  Ni  Ni6  1  0.250000  0.262977  0.914988  1
+  Ni  Ni7  1  0.750000  0.737023  0.085012  1
+  P  P8  1  0.750000  0.237245  0.081214  1
+  P  P9  1  0.250000  0.762755  0.918786  1
+  P  P10  1  0.250000  0.262755  0.581214  1
+  P  P11  1  0.750000  0.737245  0.418786  1
+  H  H12  1  0.250000  0.954436  0.581879  1
+  H  H13  1  0.750000  0.045564  0.418121  1
+  H  H14  1  0.750000  0.545564  0.081879  1
+  H  H15  1  0.250000  0.454436  0.918121  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Tm12Th4Mg3Co4Hg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.51062526
+_cell_length_b   9.51062604
+_cell_length_c   9.51062592
+_cell_angle_alpha   59.95883354
+_cell_angle_beta   59.95882977
+_cell_angle_gamma   59.95882865
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tm12Th4Mg3Co4Hg
+_chemical_formula_sum   'Tm12 Th4 Mg3 Co4 Hg1'
+_cell_volume   607.72430761
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.813165  0.186453  0.186453  1
+  Tm  Tm1  1  0.184933  0.814216  0.814216  1
+  Tm  Tm2  1  0.186453  0.813165  0.186453  1
+  Tm  Tm3  1  0.814216  0.184933  0.814216  1
+  Tm  Tm4  1  0.186453  0.186453  0.813165  1
+  Tm  Tm5  1  0.814216  0.814216  0.184933  1
+  Tm  Tm6  1  0.934650  0.564590  0.564590  1
+  Tm  Tm7  1  0.564798  0.934885  0.934885  1
+  Tm  Tm8  1  0.564590  0.934650  0.564590  1
+  Tm  Tm9  1  0.934885  0.564798  0.934885  1
+  Tm  Tm10  1  0.564590  0.564590  0.934650  1
+  Tm  Tm11  1  0.934885  0.934885  0.564798  1
+  Th  Th12  1  0.345364  0.345364  0.345364  1
+  Th  Th13  1  0.346693  0.346693  0.961320  1
+  Th  Th14  1  0.346693  0.961320  0.346693  1
+  Th  Th15  1  0.961320  0.346693  0.346693  1
+  Mg  Mg16  1  0.579821  0.579821  0.261673  1
+  Mg  Mg17  1  0.579821  0.261673  0.579821  1
+  Mg  Mg18  1  0.261673  0.579821  0.579821  1
+  Co  Co19  1  0.143947  0.143947  0.143947  1
+  Co  Co20  1  0.143465  0.143465  0.566198  1
+  Co  Co21  1  0.143465  0.566198  0.143465  1
+  Co  Co22  1  0.566198  0.143465  0.143465  1
+  Hg  Hg23  1  0.583708  0.583708  0.583708  1

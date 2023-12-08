@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Nb5Cr(GaRu2)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.36906100
+_cell_length_b   6.19401200
+_cell_length_c   13.08426100
+_cell_angle_alpha   89.99872678
+_cell_angle_beta   89.99987748
+_cell_angle_gamma   89.99927591
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb5Cr(GaRu2)6
+_chemical_formula_sum   'Nb5 Cr1 Ga6 Ru12'
+_cell_volume   354.08648391
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.999990  0.999946  0.995954  1
+  Nb  Nb1  1  0.499933  0.499997  0.164417  1
+  Nb  Nb2  1  0.999935  0.000057  0.333331  1
+  Nb  Nb3  1  0.499996  0.500023  0.502276  1
+  Nb  Nb4  1  0.000072  0.999950  0.670711  1
+  Cr  Cr5  1  0.500094  0.500530  0.833055  1
+  Ga  Ga6  1  0.999983  0.499911  0.998219  1
+  Ga  Ga7  1  0.499975  0.000057  0.164295  1
+  Ga  Ga8  1  0.999940  0.500051  0.333302  1
+  Ga  Ga9  1  0.500014  0.000105  0.502501  1
+  Ga  Ga10  1  0.999989  0.499892  0.668440  1
+  Ga  Ga11  1  0.500071  0.999765  0.833338  1
+  Ru  Ru12  1  0.499993  0.253135  0.997242  1
+  Ru  Ru13  1  0.499988  0.746734  0.997286  1
+  Ru  Ru14  1  0.999926  0.249813  0.165891  1
+  Ru  Ru15  1  0.999926  0.750239  0.165905  1
+  Ru  Ru16  1  0.499939  0.249560  0.333390  1
+  Ru  Ru17  1  0.499944  0.750540  0.333389  1
+  Ru  Ru18  1  0.000003  0.249843  0.500815  1
+  Ru  Ru19  1  0.000003  0.750237  0.500789  1
+  Ru  Ru20  1  0.500060  0.253138  0.669456  1
+  Ru  Ru21  1  0.500048  0.746733  0.669407  1
+  Ru  Ru22  1  0.000092  0.257516  0.833293  1
+  Ru  Ru23  1  0.000090  0.742225  0.833298  1

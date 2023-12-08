@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_La2ZnNi5(BIr)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.33729092
+_cell_length_b   5.33729096
+_cell_length_c   7.06445000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   122.39590585
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2ZnNi5(BIr)2
+_chemical_formula_sum   'La2 Zn1 Ni5 B2 Ir2'
+_cell_volume   169.92252632
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.001636  0.998364  0.500000  1
+  La  La1  1  0.993012  0.006988  0.000000  1
+  Zn  Zn2  1  0.315959  0.684041  0.000000  1
+  Ni  Ni3  1  0.675750  0.324250  0.000000  1
+  Ni  Ni4  1  0.503189  0.000923  0.299713  1
+  Ni  Ni5  1  0.999077  0.496811  0.299713  1
+  Ni  Ni6  1  0.503189  0.000923  0.700287  1
+  Ni  Ni7  1  0.999077  0.496811  0.700287  1
+  B  B8  1  0.669377  0.330623  0.500000  1
+  B  B9  1  0.334295  0.665705  0.500000  1
+  Ir  Ir10  1  0.502720  0.497280  0.285714  1
+  Ir  Ir11  1  0.502720  0.497280  0.714286  1

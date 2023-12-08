@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_TiCu2Ir3(SeS3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.30682607
+_cell_length_b   6.87067352
+_cell_length_c   7.28931100
+_cell_angle_alpha   57.96308059
+_cell_angle_beta   60.07925872
+_cell_angle_gamma   58.09397168
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiCu2Ir3(SeS3)2
+_chemical_formula_sum   'Ti1 Cu2 Ir3 Se2 S6'
+_cell_volume   250.92002942
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.660903  0.041033  0.649032  1
+  Cu  Cu1  1  0.008843  0.004662  0.993248  1
+  Cu  Cu2  1  0.215216  0.271412  0.256685  1
+  Ir  Ir3  1  0.624972  0.642806  0.617759  1
+  Ir  Ir4  1  0.624972  0.642806  0.114464  1
+  Ir  Ir5  1  0.112621  0.646929  0.620225  1
+  Se  Se6  1  0.386319  0.378192  0.847747  1
+  Se  Se7  1  0.386319  0.378192  0.387743  1
+  S  S8  1  0.883228  0.860859  0.879568  1
+  S  S9  1  0.883228  0.860859  0.376343  1
+  S  S10  1  0.382476  0.849997  0.383764  1
+  S  S11  1  0.830648  0.388474  0.390440  1
+  S  S12  1  0.389795  0.857821  0.876191  1
+  S  S13  1  0.860460  0.425956  0.856791  1

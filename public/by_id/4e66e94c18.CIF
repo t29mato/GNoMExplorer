@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_LiGd8Co(Si6Rh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.13852900
+_cell_length_b   8.13852850
+_cell_length_c   7.84937200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000609
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiGd8Co(Si6Rh)2
+_chemical_formula_sum   'Li1 Gd8 Co1 Si12 Rh2'
+_cell_volume   450.25373174
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.333333  0.666667  0.048894  1
+  Gd  Gd1  1  0.976965  0.488484  0.252475  1
+  Gd  Gd2  1  0.511516  0.488484  0.252475  1
+  Gd  Gd3  1  0.495279  0.990556  0.750030  1
+  Gd  Gd4  1  0.009444  0.504721  0.750030  1
+  Gd  Gd5  1  0.495279  0.504721  0.750030  1
+  Gd  Gd6  1  0.511516  0.023035  0.252475  1
+  Gd  Gd7  1  0.000000  0.000000  0.749452  1
+  Gd  Gd8  1  0.000000  0.000000  0.246323  1
+  Co  Co9  1  0.666667  0.333333  0.959454  1
+  Si  Si10  1  0.167043  0.832957  0.494275  1
+  Si  Si11  1  0.167043  0.334087  0.494275  1
+  Si  Si12  1  0.665913  0.832957  0.494275  1
+  Si  Si13  1  0.345125  0.172562  0.999210  1
+  Si  Si14  1  0.834656  0.669314  0.502533  1
+  Si  Si15  1  0.827438  0.172562  0.999210  1
+  Si  Si16  1  0.827438  0.654875  0.999210  1
+  Si  Si17  1  0.163782  0.327563  0.996757  1
+  Si  Si18  1  0.672437  0.836218  0.996757  1
+  Si  Si19  1  0.330686  0.165344  0.502533  1
+  Si  Si20  1  0.834656  0.165344  0.502533  1
+  Si  Si21  1  0.163782  0.836218  0.996757  1
+  Rh  Rh22  1  0.666667  0.333333  0.531295  1
+  Rh  Rh23  1  0.333333  0.666667  0.478742  1

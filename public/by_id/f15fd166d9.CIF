@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Hf3Fe4P4W
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.68076000
+_cell_length_b   6.18404158
+_cell_length_c   6.99379891
+_cell_angle_alpha   90.39303096
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf3Fe4P4W
+_chemical_formula_sum   'Hf3 Fe4 P4 W1'
+_cell_volume   159.18891562
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.750000  0.482408  0.321204  1
+  Hf  Hf1  1  0.250000  0.017316  0.814868  1
+  Hf  Hf2  1  0.750000  0.979026  0.183805  1
+  Fe  Fe3  1  0.750000  0.856276  0.565861  1
+  Fe  Fe4  1  0.250000  0.148246  0.440105  1
+  Fe  Fe5  1  0.750000  0.356259  0.934759  1
+  Fe  Fe6  1  0.250000  0.644266  0.055928  1
+  P  P7  1  0.250000  0.278393  0.115784  1
+  P  P8  1  0.750000  0.712808  0.877495  1
+  P  P9  1  0.250000  0.778920  0.393685  1
+  P  P10  1  0.750000  0.227571  0.619650  1
+  W  W11  1  0.250000  0.518510  0.676857  1

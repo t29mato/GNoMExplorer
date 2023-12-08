@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_BaNa4(SiS3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.96756280
+_cell_length_b   6.96756224
+_cell_length_c   7.79189087
+_cell_angle_alpha   81.21119121
+_cell_angle_beta   81.21119266
+_cell_angle_gamma   119.64817515
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaNa4(SiS3)2
+_chemical_formula_sum   'Ba1 Na4 Si2 S6'
+_cell_volume   313.19276241
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.334686  0.665314  0.500000  1
+  Na  Na1  1  0.824375  0.175625  0.000000  1
+  Na  Na2  1  0.174771  0.825229  0.000000  1
+  Na  Na3  1  0.499522  0.500478  0.000000  1
+  Na  Na4  1  0.665616  0.334384  0.500000  1
+  Si  Si5  1  0.051265  0.051207  0.340813  1
+  Si  Si6  1  0.948793  0.948735  0.659187  1
+  S  S7  1  0.070086  0.370335  0.246978  1
+  S  S8  1  0.382686  0.095664  0.247729  1
+  S  S9  1  0.904336  0.617314  0.752271  1
+  S  S10  1  0.629665  0.929914  0.753022  1
+  S  S11  1  0.798923  0.784724  0.249276  1
+  S  S12  1  0.215276  0.201077  0.750724  1

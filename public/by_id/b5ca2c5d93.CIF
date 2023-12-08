@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Dy4In(Si2Rh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.06032334
+_cell_length_b   8.06035605
+_cell_length_c   6.96146195
+_cell_angle_alpha   73.34639808
+_cell_angle_beta   106.65349076
+_cell_angle_gamma   149.55057030
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy4In(Si2Rh)2
+_chemical_formula_sum   'Dy4 In1 Si4 Rh2'
+_cell_volume   218.86240141
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.415437  0.584558  0.619274  1
+  Dy  Dy1  1  0.584561  0.415440  0.380726  1
+  Dy  Dy2  1  0.345455  0.654546  0.069128  1
+  Dy  Dy3  1  0.654543  0.345450  0.930880  1
+  In  In4  1  0.999999  0.999998  0.000002  1
+  Si  Si5  1  0.063807  0.936188  0.649824  1
+  Si  Si6  1  0.936190  0.063808  0.350180  1
+  Si  Si7  1  0.204466  0.795530  0.265005  1
+  Si  Si8  1  0.795530  0.204467  0.734995  1
+  Rh  Rh9  1  0.220292  0.779715  0.629626  1
+  Rh  Rh10  1  0.779709  0.220287  0.370368  1

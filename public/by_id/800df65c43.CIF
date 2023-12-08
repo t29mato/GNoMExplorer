@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_TbPrFe4(CoB2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.03209079
+_cell_length_b   7.00941579
+_cell_length_c   3.80524000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.05444980
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbPrFe4(CoB2)4
+_chemical_formula_sum   'Tb1 Pr1 Fe4 Co4 B8'
+_cell_volume   187.56342272
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.000000  0.000000  0.999169  1
+  Pr  Pr1  1  0.500000  0.500000  0.497947  1
+  Fe  Fe2  1  0.869081  0.384876  0.106564  1
+  Fe  Fe3  1  0.130919  0.615124  0.106564  1
+  Fe  Fe4  1  0.886694  0.634923  0.605608  1
+  Fe  Fe5  1  0.113306  0.365077  0.605608  1
+  Co  Co6  1  0.641818  0.114274  0.392181  1
+  Co  Co7  1  0.358182  0.885726  0.392181  1
+  Co  Co8  1  0.616657  0.863936  0.891432  1
+  Co  Co9  1  0.383343  0.136064  0.891432  1
+  B  B10  1  0.334226  0.800788  0.897604  1
+  B  B11  1  0.665774  0.199212  0.897604  1
+  B  B12  1  0.291765  0.161253  0.395194  1
+  B  B13  1  0.708235  0.838747  0.395194  1
+  B  B14  1  0.162372  0.703713  0.607844  1
+  B  B15  1  0.837628  0.296287  0.607844  1
+  B  B16  1  0.195512  0.333169  0.105015  1
+  B  B17  1  0.804488  0.666831  0.105015  1

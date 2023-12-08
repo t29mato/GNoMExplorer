@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Tc4Ni4P4Ru
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.75234196
+_cell_length_b   6.75234214
+_cell_length_c   6.75234251
+_cell_angle_alpha   94.45709494
+_cell_angle_beta   94.45710655
+_cell_angle_gamma   147.62642243
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tc4Ni4P4Ru
+_chemical_formula_sum   'Tc4 Ni4 P4 Ru1'
+_cell_volume   158.30881872
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tc  Tc0  1  0.809997  0.124204  0.934202  1
+  Tc  Tc1  1  0.124204  0.190003  0.314206  1
+  Tc  Tc2  1  0.875796  0.809997  0.685794  1
+  Tc  Tc3  1  0.190003  0.875796  0.065798  1
+  Ni  Ni4  1  0.907606  0.395638  0.303244  1
+  Ni  Ni5  1  0.092394  0.604362  0.696756  1
+  Ni  Ni6  1  0.604362  0.907606  0.511968  1
+  Ni  Ni7  1  0.395638  0.092394  0.488032  1
+  P  P8  1  0.575067  0.250012  0.825079  1
+  P  P9  1  0.250012  0.424933  0.674944  1
+  P  P10  1  0.749988  0.575067  0.325056  1
+  P  P11  1  0.424933  0.749988  0.174921  1
+  Ru  Ru12  1  0.500000  0.500000  0.000000  1

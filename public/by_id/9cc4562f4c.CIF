@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Sr4FeRhO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.91275810
+_cell_length_b   6.91275795
+_cell_length_c   5.60225500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   132.16977854
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr4FeRhO8
+_chemical_formula_sum   'Sr4 Fe1 Rh1 O8'
+_cell_volume   198.41607461
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.644221  0.355779  0.000000  1
+  Sr  Sr1  1  0.143163  0.856837  0.500000  1
+  Sr  Sr2  1  0.856837  0.143163  0.500000  1
+  Sr  Sr3  1  0.355779  0.644221  0.000000  1
+  Fe  Fe4  1  0.000000  0.000000  0.000000  1
+  Rh  Rh5  1  0.500000  0.500000  0.500000  1
+  O  O6  1  0.748977  0.748977  0.252254  1
+  O  O7  1  0.251023  0.251023  0.747746  1
+  O  O8  1  0.251023  0.251023  0.252254  1
+  O  O9  1  0.748977  0.748977  0.747746  1
+  O  O10  1  0.839171  0.160829  0.000000  1
+  O  O11  1  0.338961  0.661039  0.500000  1
+  O  O12  1  0.661039  0.338961  0.500000  1
+  O  O13  1  0.160829  0.839171  0.000000  1

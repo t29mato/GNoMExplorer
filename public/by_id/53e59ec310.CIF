@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_ErPa(CuP2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.77812000
+_cell_length_b   3.77751500
+_cell_length_c   18.85928000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErPa(CuP2)2
+_chemical_formula_sum   'Er2 Pa2 Cu4 P8'
+_cell_volume   269.15785200
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.750000  0.252119  0.613217  1
+  Er  Er1  1  0.750000  0.247881  0.113217  1
+  Pa  Pa2  1  0.250000  0.747209  0.385861  1
+  Pa  Pa3  1  0.250000  0.752791  0.885861  1
+  Cu  Cu4  1  0.250000  0.245478  0.248931  1
+  Cu  Cu5  1  0.750000  0.752882  0.749020  1
+  Cu  Cu6  1  0.250000  0.254522  0.748931  1
+  Cu  Cu7  1  0.750000  0.747118  0.249020  1
+  P  P8  1  0.750000  0.750607  0.499090  1
+  P  P9  1  0.750000  0.749393  0.999090  1
+  P  P10  1  0.250000  0.248388  0.499081  1
+  P  P11  1  0.250000  0.251612  0.999081  1
+  P  P12  1  0.250000  0.747381  0.172119  1
+  P  P13  1  0.750000  0.246872  0.332681  1
+  P  P14  1  0.750000  0.253128  0.832681  1
+  P  P15  1  0.250000  0.752619  0.672119  1

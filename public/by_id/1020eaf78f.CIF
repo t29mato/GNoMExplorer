@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Lu3In4NiRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.89536500
+_cell_length_b   7.89536418
+_cell_length_c   3.59000200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999926
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu3In4NiRh
+_chemical_formula_sum   'Lu3 In4 Ni1 Rh1'
+_cell_volume   193.80710948
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.375253  0.412429  0.000000  1
+  Lu  Lu1  1  0.037176  0.624746  0.000000  1
+  Lu  Lu2  1  0.587571  0.962825  0.000000  1
+  In  In3  1  0.996401  0.252765  0.500000  1
+  In  In4  1  0.666666  0.333334  0.500000  1
+  In  In5  1  0.747236  0.743636  0.500000  1
+  In  In6  1  0.256364  0.003600  0.500000  1
+  Ni  Ni7  1  0.000000  0.000000  0.000000  1
+  Rh  Rh8  1  0.333333  0.666666  0.500000  1

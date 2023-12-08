@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ho2GaSiNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.19774000
+_cell_length_b   6.85126571
+_cell_length_c   7.23267214
+_cell_angle_alpha   91.00731563
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2GaSiNi2
+_chemical_formula_sum   'Ho4 Ga2 Si2 Ni4'
+_cell_volume   207.97829046
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.750000  0.014322  0.296072  1
+  Ho  Ho1  1  0.250000  0.985678  0.703928  1
+  Ho  Ho2  1  0.250000  0.487804  0.803477  1
+  Ho  Ho3  1  0.750000  0.512196  0.196523  1
+  Ga  Ga4  1  0.750000  0.684503  0.582727  1
+  Ga  Ga5  1  0.250000  0.315497  0.417273  1
+  Si  Si6  1  0.250000  0.812211  0.085304  1
+  Si  Si7  1  0.750000  0.187789  0.914696  1
+  Ni  Ni8  1  0.750000  0.812101  0.923216  1
+  Ni  Ni9  1  0.250000  0.187899  0.076784  1
+  Ni  Ni10  1  0.250000  0.707753  0.400464  1
+  Ni  Ni11  1  0.750000  0.292247  0.599536  1

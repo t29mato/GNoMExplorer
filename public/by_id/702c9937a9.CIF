@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_ThCoRe2C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.69897791
+_cell_length_b   5.69897934
+_cell_length_c   7.71449400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   140.42600738
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThCoRe2C
+_chemical_formula_sum   'Th2 Co2 Re4 C2'
+_cell_volume   159.62154252
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.531973  0.468027  0.250000  1
+  Th  Th1  1  0.468027  0.531973  0.750000  1
+  Co  Co2  1  0.256165  0.743835  0.250000  1
+  Co  Co3  1  0.743835  0.256165  0.750000  1
+  Re  Re4  1  0.820999  0.179001  0.062281  1
+  Re  Re5  1  0.179001  0.820999  0.937719  1
+  Re  Re6  1  0.179001  0.820999  0.562281  1
+  Re  Re7  1  0.820999  0.179001  0.437719  1
+  C  C8  1  0.000000  0.000000  0.000000  1
+  C  C9  1  0.000000  0.000000  0.500000  1

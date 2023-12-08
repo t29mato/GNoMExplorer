@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_TiCrB2W
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.81383219
+_cell_length_b   5.81383299
+_cell_length_c   3.14971300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   91.27688286
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiCrB2W
+_chemical_formula_sum   'Ti2 Cr2 B4 W2'
+_cell_volume   106.43590820
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.179828  0.320172  0.500000  1
+  Ti  Ti1  1  0.820172  0.679828  0.500000  1
+  Cr  Cr2  1  0.500000  0.500000  0.000000  1
+  Cr  Cr3  1  0.000000  0.000000  0.000000  1
+  B  B4  1  0.111535  0.611535  0.000000  1
+  B  B5  1  0.888465  0.388465  0.000000  1
+  B  B6  1  0.613367  0.886633  0.000000  1
+  B  B7  1  0.386633  0.113367  0.000000  1
+  W  W8  1  0.679670  0.179670  0.500000  1
+  W  W9  1  0.320330  0.820330  0.500000  1

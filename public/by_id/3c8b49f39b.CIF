@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ta4Co3Si4Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.25779983
+_cell_length_b   3.67217800
+_cell_length_c   7.11622135
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.57216242
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta4Co3Si4Rh
+_chemical_formula_sum   'Ta4 Co3 Si4 Rh1'
+_cell_volume   163.52446326
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.017621  0.250000  0.823389  1
+  Ta  Ta1  1  0.526150  0.250000  0.681219  1
+  Ta  Ta2  1  0.974909  0.750000  0.171649  1
+  Ta  Ta3  1  0.480698  0.750000  0.319844  1
+  Co  Co4  1  0.641468  0.250000  0.062665  1
+  Co  Co5  1  0.854382  0.750000  0.565563  1
+  Co  Co6  1  0.360667  0.750000  0.938734  1
+  Si  Si7  1  0.768355  0.250000  0.378709  1
+  Si  Si8  1  0.277189  0.250000  0.111200  1
+  Si  Si9  1  0.231379  0.750000  0.630853  1
+  Si  Si10  1  0.723758  0.750000  0.880732  1
+  Rh  Rh11  1  0.143424  0.250000  0.435443  1

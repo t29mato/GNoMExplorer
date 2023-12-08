@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_TbCeHo3(FeB3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.42767918
+_cell_length_b   5.42767966
+_cell_length_c   8.00164804
+_cell_angle_alpha   70.17049903
+_cell_angle_beta   70.17048672
+_cell_angle_gamma   59.98993735
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbCeHo3(FeB3)2
+_chemical_formula_sum   'Tb1 Ce1 Ho3 Fe2 B6'
+_cell_volume   187.81490511
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.413728  0.413728  0.758749  1
+  Ce  Ce1  1  0.999377  0.999377  0.001865  1
+  Ho  Ho2  1  0.747437  0.747437  0.757719  1
+  Ho  Ho3  1  0.252677  0.252677  0.241939  1
+  Ho  Ho4  1  0.585727  0.585727  0.242885  1
+  Fe  Fe5  1  0.890099  0.890099  0.329674  1
+  Fe  Fe6  1  0.110112  0.110112  0.669686  1
+  B  B7  1  0.500023  0.167069  0.499579  1
+  B  B8  1  0.833286  0.500110  0.499579  1
+  B  B9  1  0.167028  0.833327  0.499582  1
+  B  B10  1  0.167069  0.500023  0.499579  1
+  B  B11  1  0.833327  0.167028  0.499582  1
+  B  B12  1  0.500110  0.833286  0.499579  1

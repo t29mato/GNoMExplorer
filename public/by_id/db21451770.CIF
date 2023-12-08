@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TiSi2MoIrRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.79003700
+_cell_length_b   6.29833000
+_cell_length_c   7.25182700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiSi2MoIrRh
+_chemical_formula_sum   'Ti2 Si4 Mo2 Ir2 Rh2'
+_cell_volume   173.10766424
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.250000  0.473549  0.675584  1
+  Ti  Ti1  1  0.250000  0.973549  0.824416  1
+  Si  Si2  1  0.250000  0.235109  0.372143  1
+  Si  Si3  1  0.750000  0.762074  0.618335  1
+  Si  Si4  1  0.250000  0.735109  0.127857  1
+  Si  Si5  1  0.750000  0.262074  0.881665  1
+  Mo  Mo6  1  0.750000  0.026924  0.177062  1
+  Mo  Mo7  1  0.750000  0.526924  0.322938  1
+  Ir  Ir8  1  0.750000  0.148467  0.566649  1
+  Ir  Ir9  1  0.750000  0.648467  0.933351  1
+  Rh  Rh10  1  0.250000  0.353876  0.059507  1
+  Rh  Rh11  1  0.250000  0.853876  0.440493  1

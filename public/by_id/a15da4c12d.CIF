@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_SrPr(Al3Pd)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.72835700
+_cell_length_b   7.73682641
+_cell_length_c   9.68068100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.56610350
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrPr(Al3Pd)3
+_chemical_formula_sum   'Sr2 Pr2 Al18 Pd6'
+_cell_volume   503.46449373
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.995248  0.668680  0.250000  1
+  Sr  Sr1  1  0.004752  0.331320  0.750000  1
+  Pr  Pr2  1  0.668560  0.995024  0.250000  1
+  Pr  Pr3  1  0.331440  0.004976  0.750000  1
+  Al  Al4  1  0.132447  0.134457  0.250000  1
+  Al  Al5  1  0.867553  0.865543  0.750000  1
+  Al  Al6  1  0.003308  0.333484  0.074197  1
+  Al  Al7  1  0.996692  0.666516  0.925803  1
+  Al  Al8  1  0.996692  0.666516  0.574197  1
+  Al  Al9  1  0.335552  0.003353  0.428194  1
+  Al  Al10  1  0.003308  0.333484  0.425803  1
+  Al  Al11  1  0.664448  0.996647  0.571806  1
+  Al  Al12  1  0.664448  0.996647  0.928194  1
+  Al  Al13  1  0.335552  0.003353  0.071806  1
+  Al  Al14  1  0.335783  0.334522  0.551983  1
+  Al  Al15  1  0.664217  0.665478  0.448017  1
+  Al  Al16  1  0.664217  0.665478  0.051983  1
+  Al  Al17  1  0.335783  0.334522  0.948017  1
+  Al  Al18  1  0.344622  0.545913  0.250000  1
+  Al  Al19  1  0.655378  0.454087  0.750000  1
+  Al  Al20  1  0.539602  0.334375  0.250000  1
+  Al  Al21  1  0.460398  0.665625  0.750000  1
+  Pd  Pd22  1  0.671349  0.329820  0.000391  1
+  Pd  Pd23  1  0.328651  0.670180  0.999609  1
+  Pd  Pd24  1  0.328651  0.670180  0.500391  1
+  Pd  Pd25  1  0.671349  0.329820  0.499609  1
+  Pd  Pd26  1  0.000000  0.000000  0.000000  1
+  Pd  Pd27  1  0.000000  0.000000  0.500000  1

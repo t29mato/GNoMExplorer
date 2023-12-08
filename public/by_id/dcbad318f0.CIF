@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Y5SnPb2Se
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.15656700
+_cell_length_b   9.15656736
+_cell_length_c   6.82679700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.19173211
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y5SnPb2Se
+_chemical_formula_sum   'Y10 Sn2 Pb4 Se2'
+_cell_volume   494.73277299
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.667252  0.331878  0.002611  1
+  Y  Y1  1  0.331878  0.667252  0.002611  1
+  Y  Y2  1  0.331878  0.667252  0.497389  1
+  Y  Y3  1  0.667252  0.331878  0.497389  1
+  Y  Y4  1  0.749403  0.749403  0.750000  1
+  Y  Y5  1  0.251357  0.000437  0.750000  1
+  Y  Y6  1  0.000437  0.251357  0.750000  1
+  Y  Y7  1  0.249548  0.249548  0.250000  1
+  Y  Y8  1  0.749129  0.001946  0.250000  1
+  Y  Y9  1  0.001946  0.749129  0.250000  1
+  Sn  Sn10  1  0.397863  0.000181  0.250000  1
+  Sn  Sn11  1  0.000181  0.397863  0.250000  1
+  Pb  Pb12  1  0.397728  0.397728  0.750000  1
+  Pb  Pb13  1  0.602810  0.999716  0.750000  1
+  Pb  Pb14  1  0.999716  0.602810  0.750000  1
+  Pb  Pb15  1  0.602438  0.602438  0.250000  1
+  Se  Se16  1  0.999591  0.999591  0.000002  1
+  Se  Se17  1  0.999591  0.999591  0.499998  1

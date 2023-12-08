@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YbZrNiS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.49374749
+_cell_length_b   6.49374758
+_cell_length_c   9.59043100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   147.24503807
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbZrNiS3
+_chemical_formula_sum   'Yb2 Zr2 Ni2 S6'
+_cell_volume   218.80848726
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.746193  0.253809  0.250000  1
+  Yb  Yb1  1  0.253809  0.746193  0.750000  1
+  Zr  Zr2  1  0.500001  0.500001  0.000000  1
+  Zr  Zr3  1  0.500001  0.500001  0.500000  1
+  Ni  Ni4  1  0.024201  0.975801  0.250000  1
+  Ni  Ni5  1  0.975801  0.024201  0.750000  1
+  S  S6  1  0.140703  0.859299  0.067876  1
+  S  S7  1  0.416644  0.583358  0.250000  1
+  S  S8  1  0.140703  0.859299  0.432124  1
+  S  S9  1  0.859299  0.140703  0.567876  1
+  S  S10  1  0.583358  0.416644  0.750000  1
+  S  S11  1  0.859299  0.140703  0.932125  1

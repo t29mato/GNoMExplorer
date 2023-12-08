@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_La2Cu2AsPt6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.32683403
+_cell_length_b   9.32683333
+_cell_length_c   4.14358700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   145.32361605
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2Cu2AsPt6
+_chemical_formula_sum   'La2 Cu2 As1 Pt6'
+_cell_volume   205.07459234
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.626978  0.381209  0.500000  1
+  La  La1  1  0.381209  0.626978  0.500000  1
+  Cu  Cu2  1  0.198577  0.792522  0.500000  1
+  Cu  Cu3  1  0.792522  0.198577  0.500000  1
+  As  As4  1  0.227527  0.227527  0.000000  1
+  Pt  Pt5  1  0.105311  0.871433  0.000000  1
+  Pt  Pt6  1  0.871433  0.105311  0.000000  1
+  Pt  Pt7  1  0.490605  0.988853  0.000000  1
+  Pt  Pt8  1  0.988853  0.490605  0.000000  1
+  Pt  Pt9  1  0.979774  0.979774  0.500000  1
+  Pt  Pt10  1  0.650809  0.650809  0.000000  1

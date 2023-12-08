@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_La2PrCoI3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.50879800
+_cell_length_b   9.40734795
+_cell_length_c   12.20398853
+_cell_angle_alpha   86.42064128
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2PrCoI3
+_chemical_formula_sum   'La4 Pr2 Co2 I6'
+_cell_volume   516.63255000
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.750000  0.690624  0.116332  1
+  La  La1  1  0.250000  0.309376  0.883668  1
+  La  La2  1  0.250000  0.887760  0.322804  1
+  La  La3  1  0.750000  0.112240  0.677196  1
+  Pr  Pr4  1  0.250000  0.907263  0.903692  1
+  Pr  Pr5  1  0.750000  0.092737  0.096308  1
+  Co  Co6  1  0.250000  0.887507  0.129254  1
+  Co  Co7  1  0.750000  0.112493  0.870746  1
+  I  I8  1  0.250000  0.867664  0.621307  1
+  I  I9  1  0.750000  0.132336  0.378693  1
+  I  I10  1  0.750000  0.636072  0.380551  1
+  I  I11  1  0.250000  0.363928  0.619449  1
+  I  I12  1  0.250000  0.391718  0.140741  1
+  I  I13  1  0.750000  0.608282  0.859259  1

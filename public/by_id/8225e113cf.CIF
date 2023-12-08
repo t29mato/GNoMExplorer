@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sc4Mn5Tc3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.01480649
+_cell_length_b   5.15114711
+_cell_length_c   8.29923800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.90351193
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc4Mn5Tc3
+_chemical_formula_sum   'Sc4 Mn5 Tc3'
+_cell_volume   183.95032477
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.333378  0.666689  0.435843  1
+  Sc  Sc1  1  0.664912  0.332456  0.563329  1
+  Sc  Sc2  1  0.664912  0.332456  0.936671  1
+  Sc  Sc3  1  0.333378  0.666689  0.064157  1
+  Mn  Mn4  1  0.826555  0.170912  0.250000  1
+  Mn  Mn5  1  0.826555  0.655643  0.250000  1
+  Mn  Mn6  1  0.365603  0.182802  0.250000  1
+  Mn  Mn7  1  0.166865  0.829199  0.750000  1
+  Mn  Mn8  1  0.166865  0.337665  0.750000  1
+  Tc  Tc9  1  0.004535  0.002268  0.491996  1
+  Tc  Tc10  1  0.004535  0.002268  0.008004  1
+  Tc  Tc11  1  0.641907  0.820953  0.750000  1

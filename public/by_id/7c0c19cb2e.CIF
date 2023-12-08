@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Ca2LuPaN4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.91259956
+_cell_length_b   9.19993887
+_cell_length_c   6.07081846
+_cell_angle_alpha   29.10071662
+_cell_angle_beta   55.29647288
+_cell_angle_gamma   41.29041851
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2LuPaN4
+_chemical_formula_sum   'Ca2 Lu1 Pa1 N4'
+_cell_volume   119.24202720
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.750000  0.500000  0.000000  1
+  Ca  Ca1  1  0.500000  0.000000  0.000000  1
+  Lu  Lu2  1  0.250000  0.500000  0.000000  1
+  Pa  Pa3  1  0.000000  0.000000  0.000000  1
+  N  N4  1  0.485366  0.500000  0.529269  1
+  N  N5  1  0.221201  0.000000  0.557599  1
+  N  N6  1  0.014634  0.500000  0.470731  1
+  N  N7  1  0.778799  0.000000  0.442401  1

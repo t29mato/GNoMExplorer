@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_HoTaN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.23050500
+_cell_length_b   5.66221400
+_cell_length_c   10.98808300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoTaN2
+_chemical_formula_sum   'Ho4 Ta4 N8'
+_cell_volume   200.99193351
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.250000  0.588006  0.864104  1
+  Ho  Ho1  1  0.750000  0.411994  0.135896  1
+  Ho  Ho2  1  0.750000  0.911994  0.364104  1
+  Ho  Ho3  1  0.250000  0.088006  0.635896  1
+  Ta  Ta4  1  0.250000  0.918433  0.113110  1
+  Ta  Ta5  1  0.750000  0.081567  0.886890  1
+  Ta  Ta6  1  0.750000  0.581567  0.613110  1
+  Ta  Ta7  1  0.250000  0.418433  0.386890  1
+  N  N8  1  0.250000  0.661980  0.243277  1
+  N  N9  1  0.750000  0.338020  0.756723  1
+  N  N10  1  0.750000  0.838020  0.743277  1
+  N  N11  1  0.250000  0.161980  0.256723  1
+  N  N12  1  0.250000  0.746285  0.503266  1
+  N  N13  1  0.750000  0.253715  0.496734  1
+  N  N14  1  0.750000  0.753715  0.003266  1
+  N  N15  1  0.250000  0.246285  0.996734  1

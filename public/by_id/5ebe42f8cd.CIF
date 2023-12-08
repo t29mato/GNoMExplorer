@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CeEr(ZnIr)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.99745000
+_cell_length_b   7.00456957
+_cell_length_c   8.28845644
+_cell_angle_alpha   90.58057385
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeEr(ZnIr)2
+_chemical_formula_sum   'Ce2 Er2 Zn4 Ir4'
+_cell_volume   232.06831916
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.250000  0.539459  0.189993  1
+  Ce  Ce1  1  0.750000  0.460541  0.810007  1
+  Er  Er2  1  0.750000  0.955337  0.681473  1
+  Er  Er3  1  0.250000  0.044663  0.318527  1
+  Zn  Zn4  1  0.250000  0.641962  0.560343  1
+  Zn  Zn5  1  0.750000  0.358038  0.439657  1
+  Zn  Zn6  1  0.750000  0.873379  0.063423  1
+  Zn  Zn7  1  0.250000  0.126621  0.936577  1
+  Ir  Ir8  1  0.250000  0.745262  0.874530  1
+  Ir  Ir9  1  0.750000  0.254738  0.125470  1
+  Ir  Ir10  1  0.750000  0.747963  0.368543  1
+  Ir  Ir11  1  0.250000  0.252037  0.631457  1

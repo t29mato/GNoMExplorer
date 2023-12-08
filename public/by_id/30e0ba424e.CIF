@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ce5Pa(TiSn5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.29733176
+_cell_length_b   9.29733219
+_cell_length_c   6.19025800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.17432843
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce5Pa(TiSn5)2
+_chemical_formula_sum   'Ce5 Pa1 Ti2 Sn10'
+_cell_volume   462.58385627
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.614106  0.002952  0.750000  1
+  Ce  Ce1  1  0.384231  0.997715  0.250000  1
+  Ce  Ce2  1  0.002952  0.614106  0.750000  1
+  Ce  Ce3  1  0.997715  0.384231  0.250000  1
+  Ce  Ce4  1  0.386149  0.386149  0.750000  1
+  Pa  Pa5  1  0.614311  0.614311  0.250000  1
+  Ti  Ti6  1  0.999974  0.999974  0.500331  1
+  Ti  Ti7  1  0.999974  0.999974  0.999669  1
+  Sn  Sn8  1  0.259180  0.000597  0.750000  1
+  Sn  Sn9  1  0.739099  0.997327  0.250000  1
+  Sn  Sn10  1  0.000597  0.259180  0.750000  1
+  Sn  Sn11  1  0.997327  0.739099  0.250000  1
+  Sn  Sn12  1  0.737836  0.737836  0.750000  1
+  Sn  Sn13  1  0.262368  0.262368  0.250000  1
+  Sn  Sn14  1  0.336636  0.665455  0.498520  1
+  Sn  Sn15  1  0.665455  0.336636  0.498520  1
+  Sn  Sn16  1  0.665455  0.336636  0.001480  1
+  Sn  Sn17  1  0.336636  0.665455  0.001480  1

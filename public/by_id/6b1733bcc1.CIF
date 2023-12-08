@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_VFePt6Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.20483810
+_cell_length_b   6.20483649
+_cell_length_c   6.15735830
+_cell_angle_alpha   95.70964207
+_cell_angle_beta   95.70964748
+_cell_angle_gamma   143.37411745
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VFePt6Rh
+_chemical_formula_sum   'V1 Fe1 Pt6 Rh1'
+_cell_volume   134.14955006
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.005488  0.005488  0.010977  1
+  Fe  Fe1  1  0.331616  0.331616  0.663234  1
+  Pt  Pt2  1  0.654173  0.340296  0.994469  1
+  Pt  Pt3  1  0.340296  0.654173  0.994469  1
+  Pt  Pt4  1  0.003626  0.329025  0.332651  1
+  Pt  Pt5  1  0.993262  0.679220  0.672482  1
+  Pt  Pt6  1  0.679220  0.993262  0.672482  1
+  Pt  Pt7  1  0.329025  0.003626  0.332651  1
+  Rh  Rh8  1  0.663292  0.663292  0.326584  1

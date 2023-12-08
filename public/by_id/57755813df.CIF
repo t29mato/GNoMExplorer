@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_LiMn17Cr3(MoC3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.40570431
+_cell_length_b   7.40570512
+_cell_length_c   7.40570444
+_cell_angle_alpha   60.03727313
+_cell_angle_beta   60.03726215
+_cell_angle_gamma   60.03727088
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiMn17Cr3(MoC3)2
+_chemical_formula_sum   'Li1 Mn17 Cr3 Mo2 C6'
+_cell_volume   287.44243786
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.002216  0.002216  0.002216  1
+  Mn  Mn1  1  0.615113  0.615113  0.152886  1
+  Mn  Mn2  1  0.615113  0.152886  0.615113  1
+  Mn  Mn3  1  0.152886  0.615113  0.615113  1
+  Mn  Mn4  1  0.615677  0.615677  0.615677  1
+  Mn  Mn5  1  0.383530  0.383530  0.847515  1
+  Mn  Mn6  1  0.383530  0.847515  0.383530  1
+  Mn  Mn7  1  0.847515  0.383530  0.383530  1
+  Mn  Mn8  1  0.383942  0.383942  0.383942  1
+  Mn  Mn9  1  0.999880  0.999880  0.341481  1
+  Mn  Mn10  1  0.659214  0.999487  0.341337  1
+  Mn  Mn11  1  0.999487  0.659214  0.341337  1
+  Mn  Mn12  1  0.659214  0.341337  0.999487  1
+  Mn  Mn13  1  0.999880  0.341481  0.999880  1
+  Mn  Mn14  1  0.999487  0.341337  0.659214  1
+  Mn  Mn15  1  0.341337  0.659214  0.999487  1
+  Mn  Mn16  1  0.341337  0.999487  0.659214  1
+  Mn  Mn17  1  0.341481  0.999880  0.999880  1
+  Cr  Cr18  1  0.000891  0.000891  0.658660  1
+  Cr  Cr19  1  0.000891  0.658660  0.000891  1
+  Cr  Cr20  1  0.658660  0.000891  0.000891  1
+  Mo  Mo21  1  0.749771  0.749771  0.749771  1
+  Mo  Mo22  1  0.250314  0.250314  0.250314  1
+  C  C23  1  0.725033  0.725033  0.277888  1
+  C  C24  1  0.270912  0.728853  0.270912  1
+  C  C25  1  0.728853  0.270912  0.270912  1
+  C  C26  1  0.270912  0.270912  0.728853  1
+  C  C27  1  0.725033  0.277888  0.725033  1
+  C  C28  1  0.277888  0.725033  0.725033  1

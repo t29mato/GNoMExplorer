@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ta4BeCo4As3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.67267100
+_cell_length_b   6.23191344
+_cell_length_c   7.12318353
+_cell_angle_alpha   89.95623885
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta4BeCo4As3
+_chemical_formula_sum   'Ta4 Be1 Co4 As3'
+_cell_volume   163.03372297
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.250000  0.535322  0.165347  1
+  Ta  Ta1  1  0.750000  0.496921  0.827973  1
+  Ta  Ta2  1  0.750000  0.962348  0.691768  1
+  Ta  Ta3  1  0.250000  0.022585  0.319772  1
+  Be  Be4  1  0.250000  0.773890  0.880892  1
+  Co  Co5  1  0.250000  0.651030  0.573021  1
+  Co  Co6  1  0.750000  0.351236  0.435656  1
+  Co  Co7  1  0.750000  0.852734  0.050798  1
+  Co  Co8  1  0.250000  0.132121  0.935217  1
+  As  As9  1  0.750000  0.226440  0.116834  1
+  As  As10  1  0.750000  0.725018  0.377691  1
+  As  As11  1  0.250000  0.270355  0.625030  1

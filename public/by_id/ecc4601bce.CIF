@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_La2Er3Os2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.66030180
+_cell_length_b   8.66030166
+_cell_length_c   7.34990948
+_cell_angle_alpha   83.03137859
+_cell_angle_beta   83.03137852
+_cell_angle_gamma   44.06404704
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2Er3Os2
+_chemical_formula_sum   'La4 Er6 Os4'
+_cell_volume   380.07507527
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.018323  0.789068  0.912501  1
+  La  La1  1  0.210932  0.981677  0.587499  1
+  La  La2  1  0.981677  0.210932  0.087499  1
+  La  La3  1  0.789068  0.018323  0.412501  1
+  Er  Er4  1  0.363411  0.205853  0.815358  1
+  Er  Er5  1  0.794147  0.636589  0.684642  1
+  Er  Er6  1  0.636589  0.794147  0.184642  1
+  Er  Er7  1  0.205853  0.363411  0.315358  1
+  Er  Er8  1  0.568294  0.431706  0.750000  1
+  Er  Er9  1  0.431706  0.568294  0.250000  1
+  Os  Os10  1  0.177879  0.598011  0.576645  1
+  Os  Os11  1  0.401989  0.822121  0.923355  1
+  Os  Os12  1  0.822121  0.401989  0.423355  1
+  Os  Os13  1  0.598011  0.177879  0.076645  1

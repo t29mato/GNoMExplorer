@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Li2Hf6MnOs3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.59155601
+_cell_length_b   6.50786200
+_cell_length_c   13.79300402
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.99352795
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Hf6MnOs3
+_chemical_formula_sum   'Li4 Hf12 Mn2 Os6'
+_cell_volume   412.15168654
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.999505  0.000000  0.331608  1
+  Li  Li1  1  0.500017  0.500000  0.498667  1
+  Li  Li2  1  0.000435  0.000000  0.668190  1
+  Li  Li3  1  0.500445  0.500000  0.835118  1
+  Hf  Hf4  1  0.499974  0.247794  0.003164  1
+  Hf  Hf5  1  0.499974  0.752206  0.003164  1
+  Hf  Hf6  1  0.999783  0.252149  0.163316  1
+  Hf  Hf7  1  0.999783  0.747850  0.163316  1
+  Hf  Hf8  1  0.499701  0.254908  0.328100  1
+  Hf  Hf9  1  0.499701  0.745091  0.328100  1
+  Hf  Hf10  1  0.000001  0.249999  0.499490  1
+  Hf  Hf11  1  0.000001  0.750001  0.499490  1
+  Hf  Hf12  1  0.500277  0.249990  0.667450  1
+  Hf  Hf13  1  0.500277  0.750009  0.667450  1
+  Hf  Hf14  1  0.000248  0.245114  0.838527  1
+  Hf  Hf15  1  0.000248  0.754885  0.838527  1
+  Mn  Mn16  1  0.999961  0.000000  0.999605  1
+  Mn  Mn17  1  0.499720  0.500000  0.166567  1
+  Os  Os18  1  0.999969  0.500000  0.998101  1
+  Os  Os19  1  0.499746  0.000000  0.168388  1
+  Os  Os20  1  0.999687  0.500000  0.334871  1
+  Os  Os21  1  0.499999  0.000000  0.501268  1
+  Os  Os22  1  0.000297  0.500000  0.665743  1
+  Os  Os23  1  0.500245  0.000000  0.831783  1

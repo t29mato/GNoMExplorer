@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_PrTh(BRu)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.79980987
+_cell_length_b   6.01711545
+_cell_length_c   5.60785073
+_cell_angle_alpha   71.49768041
+_cell_angle_beta   57.05102820
+_cell_angle_gamma   51.45127860
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrTh(BRu)4
+_chemical_formula_sum   'Pr1 Th1 B4 Ru4'
+_cell_volume   150.50083875
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.250000  0.250000  0.250000  1
+  Th  Th1  1  0.000000  0.000000  0.000000  1
+  B  B2  1  0.681420  0.318580  0.681420  1
+  B  B3  1  0.318580  0.681420  0.318580  1
+  B  B4  1  0.933311  0.566689  0.933311  1
+  B  B5  1  0.566689  0.933311  0.566689  1
+  Ru  Ru6  1  0.612947  0.612947  0.887053  1
+  Ru  Ru7  1  0.636591  0.636591  0.363408  1
+  Ru  Ru8  1  0.363408  0.363409  0.636591  1
+  Ru  Ru9  1  0.887054  0.887053  0.612946  1

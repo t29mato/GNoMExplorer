@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_SrLi2(NiN)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.40759000
+_cell_length_b   7.40759000
+_cell_length_c   3.52032900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrLi2(NiN)2
+_chemical_formula_sum   'Sr2 Li4 Ni4 N4'
+_cell_volume   193.16886444
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.000000  0.000000  0.000000  1
+  Sr  Sr1  1  0.500000  0.500000  0.000000  1
+  Li  Li2  1  0.114634  0.614634  0.000000  1
+  Li  Li3  1  0.885366  0.385366  0.000000  1
+  Li  Li4  1  0.614634  0.885366  0.000000  1
+  Li  Li5  1  0.385366  0.114634  0.000000  1
+  Ni  Ni6  1  0.675458  0.175458  0.500000  1
+  Ni  Ni7  1  0.324542  0.824542  0.500000  1
+  Ni  Ni8  1  0.175458  0.324542  0.500000  1
+  Ni  Ni9  1  0.824542  0.675458  0.500000  1
+  N  N10  1  0.674154  0.174154  0.000000  1
+  N  N11  1  0.325846  0.825846  0.000000  1
+  N  N12  1  0.174154  0.325846  0.000000  1
+  N  N13  1  0.825846  0.674154  0.000000  1

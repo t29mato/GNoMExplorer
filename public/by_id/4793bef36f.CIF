@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Er2ScCo(BIr2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.13229900
+_cell_length_b   9.63265900
+_cell_length_c   9.63265900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er2ScCo(BIr2)2
+_chemical_formula_sum   'Er4 Sc2 Co2 B4 Ir8'
+_cell_volume   290.64013364
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.000000  0.176048  0.676048  1
+  Er  Er1  1  0.000000  0.823952  0.323952  1
+  Er  Er2  1  0.000000  0.323952  0.176048  1
+  Er  Er3  1  0.000000  0.676048  0.823952  1
+  Sc  Sc4  1  0.000000  0.000000  0.000000  1
+  Sc  Sc5  1  0.000000  0.500000  0.500000  1
+  Co  Co6  1  0.500000  0.000000  0.500000  1
+  Co  Co7  1  0.500000  0.500000  0.000000  1
+  B  B8  1  0.000000  0.610817  0.110817  1
+  B  B9  1  0.000000  0.389183  0.889183  1
+  B  B10  1  0.000000  0.889183  0.610817  1
+  B  B11  1  0.000000  0.110817  0.389183  1
+  Ir  Ir12  1  0.500000  0.064998  0.230138  1
+  Ir  Ir13  1  0.500000  0.935002  0.769862  1
+  Ir  Ir14  1  0.500000  0.769862  0.064998  1
+  Ir  Ir15  1  0.500000  0.435002  0.730138  1
+  Ir  Ir16  1  0.500000  0.230138  0.935002  1
+  Ir  Ir17  1  0.500000  0.564998  0.269862  1
+  Ir  Ir18  1  0.500000  0.730138  0.564998  1
+  Ir  Ir19  1  0.500000  0.269862  0.435002  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Tb2Al4CoSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.10393354
+_cell_length_b   4.10393121
+_cell_length_c   10.17460553
+_cell_angle_alpha   101.63648818
+_cell_angle_beta   101.63642604
+_cell_angle_gamma   89.99907702
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2Al4CoSi2
+_chemical_formula_sum   'Tb2 Al4 Co1 Si2'
+_cell_volume   164.24394474
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.186362  0.186362  0.372746  1
+  Tb  Tb1  1  0.813640  0.813639  0.627255  1
+  Al  Al2  1  0.566902  0.066911  0.133685  1
+  Al  Al3  1  0.066911  0.566901  0.133685  1
+  Al  Al4  1  0.933090  0.433099  0.866315  1
+  Al  Al5  1  0.433099  0.933090  0.866315  1
+  Co  Co6  1  0.000001  0.000000  0.000000  1
+  Si  Si7  1  0.660415  0.660415  0.320896  1
+  Si  Si8  1  0.339586  0.339586  0.679104  1

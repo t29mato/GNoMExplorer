@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LaMnCdPt3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.34121152
+_cell_length_b   5.34121084
+_cell_length_c   5.34121121
+_cell_angle_alpha   62.96523590
+_cell_angle_beta   62.96522674
+_cell_angle_gamma   62.96523713
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaMnCdPt3
+_chemical_formula_sum   'La1 Mn1 Cd1 Pt3'
+_cell_volume   114.84161721
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.247474  0.247474  0.247474  1
+  Mn  Mn1  1  0.627097  0.627097  0.627097  1
+  Cd  Cd2  1  0.995846  0.995846  0.995846  1
+  Pt  Pt3  1  0.627701  0.627701  0.124182  1
+  Pt  Pt4  1  0.627701  0.124182  0.627701  1
+  Pt  Pt5  1  0.124182  0.627701  0.627701  1

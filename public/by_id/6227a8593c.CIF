@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_La2Nd3Th(ScBi5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.76070001
+_cell_length_b   9.76903768
+_cell_length_c   6.61975400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.02825987
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2Nd3Th(ScBi5)2
+_chemical_formula_sum   'La2 Nd3 Th1 Sc2 Bi10'
+_cell_volume   546.48908197
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.380843  0.381053  0.250000  1
+  La  La1  1  0.619157  0.000209  0.250000  1
+  Nd  Nd2  1  0.380747  0.000953  0.750000  1
+  Nd  Nd3  1  0.619253  0.620205  0.750000  1
+  Nd  Nd4  1  0.000000  0.377917  0.750000  1
+  Th  Th5  1  0.000000  0.616909  0.250000  1
+  Sc  Sc6  1  0.000000  0.000347  0.998641  1
+  Sc  Sc7  1  0.000000  0.000347  0.501359  1
+  Bi  Bi8  1  0.000000  0.262431  0.250000  1
+  Bi  Bi9  1  0.329935  0.666807  0.502221  1
+  Bi  Bi10  1  0.670065  0.336871  0.997779  1
+  Bi  Bi11  1  0.329935  0.666807  0.997779  1
+  Bi  Bi12  1  0.263005  0.262156  0.750000  1
+  Bi  Bi13  1  0.736995  0.999152  0.750000  1
+  Bi  Bi14  1  0.000000  0.735764  0.750000  1
+  Bi  Bi15  1  0.740537  0.737868  0.250000  1
+  Bi  Bi16  1  0.259463  0.997330  0.250000  1
+  Bi  Bi17  1  0.670065  0.336871  0.502221  1

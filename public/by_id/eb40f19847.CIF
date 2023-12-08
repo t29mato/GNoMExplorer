@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TbHo3(CoOs)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.23117106
+_cell_length_b   5.10487236
+_cell_length_c   9.08121638
+_cell_angle_alpha   73.67606613
+_cell_angle_beta   89.62821266
+_cell_angle_gamma   119.20449942
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbHo3(CoOs)4
+_chemical_formula_sum   'Tb1 Ho3 Co4 Os4'
+_cell_volume   200.14047342
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.878071  0.751984  0.374103  1
+  Ho  Ho1  1  0.378415  0.752262  0.873891  1
+  Ho  Ho2  1  0.996690  0.997942  0.000806  1
+  Ho  Ho3  1  0.496442  0.997552  0.501338  1
+  Co  Co4  1  0.187670  0.374977  0.437716  1
+  Co  Co5  1  0.687454  0.375041  0.937372  1
+  Co  Co6  1  0.937713  0.375491  0.186730  1
+  Co  Co7  1  0.437212  0.374519  0.688176  1
+  Os  Os8  1  0.437500  0.375429  0.186937  1
+  Os  Os9  1  0.937666  0.374700  0.687997  1
+  Os  Os10  1  0.437500  0.875134  0.186937  1
+  Os  Os11  1  0.937666  0.874969  0.687997  1

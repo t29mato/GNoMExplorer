@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LaPa3FeSi4Ni3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.10358400
+_cell_length_b   4.10358278
+_cell_length_c   15.03249200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00002599
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaPa3FeSi4Ni3
+_chemical_formula_sum   'La1 Pa3 Fe1 Si4 Ni3'
+_cell_volume   219.22396354
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.000000  0.000000  0.745229  1
+  Pa  Pa1  1  0.000000  0.000000  0.484760  1
+  Pa  Pa2  1  0.000000  0.000000  0.006507  1
+  Pa  Pa3  1  0.000000  0.000000  0.254895  1
+  Fe  Fe4  1  0.333333  0.666667  0.382896  1
+  Si  Si5  1  0.333333  0.666667  0.881028  1
+  Si  Si6  1  0.666667  0.333333  0.126169  1
+  Si  Si7  1  0.666667  0.333333  0.363743  1
+  Si  Si8  1  0.333333  0.666667  0.602672  1
+  Ni  Ni9  1  0.666667  0.333333  0.606274  1
+  Ni  Ni10  1  0.666667  0.333333  0.906766  1
+  Ni  Ni11  1  0.333333  0.666667  0.139061  1

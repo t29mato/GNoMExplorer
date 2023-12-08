@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_PrBeAl2Ga
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.15398359
+_cell_length_b   4.15398395
+_cell_length_c   6.05193124
+_cell_angle_alpha   69.92835440
+_cell_angle_beta   69.92836243
+_cell_angle_gamma   90.00000322
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrBeAl2Ga
+_chemical_formula_sum   'Pr1 Be1 Al2 Ga1'
+_cell_volume   91.30482671
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.999945  0.999945  0.000109  1
+  Be  Be1  1  0.617911  0.617911  0.764177  1
+  Al  Al2  1  0.741306  0.241306  0.517387  1
+  Al  Al3  1  0.241306  0.741306  0.517387  1
+  Ga  Ga4  1  0.399531  0.399531  0.200938  1

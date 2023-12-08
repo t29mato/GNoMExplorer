@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_TbHo(FeOs)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.22591599
+_cell_length_b   5.28290890
+_cell_length_c   5.28290823
+_cell_angle_alpha   59.82447700
+_cell_angle_beta   60.35623362
+_cell_angle_gamma   60.35623106
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbHo(FeOs)2
+_chemical_formula_sum   'Tb1 Ho1 Fe2 Os2'
+_cell_volume   103.54417689
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.997780  0.002220  0.002220  1
+  Ho  Ho1  1  0.252308  0.247692  0.247692  1
+  Fe  Fe2  1  0.125385  0.624957  0.624957  1
+  Fe  Fe3  1  0.624700  0.624957  0.624957  1
+  Os  Os4  1  0.624913  0.625178  0.124994  1
+  Os  Os5  1  0.624913  0.124994  0.625178  1

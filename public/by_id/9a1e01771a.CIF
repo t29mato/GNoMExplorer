@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sc4Al4Fe3Cu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.15796280
+_cell_length_b   5.19667210
+_cell_length_c   8.37396400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.25508437
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc4Al4Fe3Cu
+_chemical_formula_sum   'Sc4 Al4 Fe3 Cu1'
+_cell_volume   193.88454110
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.666412  0.333226  0.546815  1
+  Sc  Sc1  1  0.333462  0.666729  0.421724  1
+  Sc  Sc2  1  0.333462  0.666729  0.078276  1
+  Sc  Sc3  1  0.666412  0.333226  0.953185  1
+  Al  Al4  1  0.992201  0.996083  0.485077  1
+  Al  Al5  1  0.992201  0.996083  0.014923  1
+  Al  Al6  1  0.176764  0.343679  0.750000  1
+  Al  Al7  1  0.176759  0.833073  0.750000  1
+  Fe  Fe8  1  0.821694  0.643373  0.250000  1
+  Fe  Fe9  1  0.821629  0.178297  0.250000  1
+  Fe  Fe10  1  0.351377  0.175690  0.250000  1
+  Cu  Cu11  1  0.667623  0.833811  0.750000  1

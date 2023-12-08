@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Tb2Al4Ge2Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.21165088
+_cell_length_b   4.21169202
+_cell_length_c   10.28892166
+_cell_angle_alpha   101.87442491
+_cell_angle_beta   101.87454867
+_cell_angle_gamma   89.99810911
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2Al4Ge2Rh
+_chemical_formula_sum   'Tb2 Al4 Ge2 Rh1'
+_cell_volume   174.60861137
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.184439  0.184441  0.369360  1
+  Tb  Tb1  1  0.815557  0.815559  0.630640  1
+  Al  Al2  1  0.569354  0.068801  0.138048  1
+  Al  Al3  1  0.068800  0.569352  0.138048  1
+  Al  Al4  1  0.931198  0.430649  0.861953  1
+  Al  Al5  1  0.430650  0.931198  0.861953  1
+  Ge  Ge6  1  0.663312  0.663313  0.326635  1
+  Ge  Ge7  1  0.336682  0.336686  0.673362  1
+  Rh  Rh8  1  0.000012  0.000008  0.000002  1

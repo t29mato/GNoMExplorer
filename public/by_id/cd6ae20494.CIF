@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Tb3ErAl2(CdPt2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.37990600
+_cell_length_b   6.98339725
+_cell_length_c   8.21523446
+_cell_angle_alpha   92.59821983
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb3ErAl2(CdPt2)2
+_chemical_formula_sum   'Tb3 Er1 Al2 Cd2 Pt4'
+_cell_volume   251.01796604
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.250000  0.465096  0.186957  1
+  Tb  Tb1  1  0.750000  0.535269  0.813630  1
+  Tb  Tb2  1  0.750000  0.034118  0.677231  1
+  Er  Er3  1  0.250000  0.964224  0.322280  1
+  Al  Al4  1  0.750000  0.640600  0.441999  1
+  Al  Al5  1  0.250000  0.359116  0.556903  1
+  Cd  Cd6  1  0.250000  0.856881  0.935346  1
+  Cd  Cd7  1  0.750000  0.142652  0.065846  1
+  Pt  Pt8  1  0.250000  0.731170  0.597064  1
+  Pt  Pt9  1  0.750000  0.268269  0.400830  1
+  Pt  Pt10  1  0.750000  0.742761  0.144402  1
+  Pt  Pt11  1  0.250000  0.259844  0.857512  1

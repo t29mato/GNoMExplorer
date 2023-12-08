@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LuZr3Si4MoW3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.56520600
+_cell_length_b   7.03827450
+_cell_length_c   8.28786616
+_cell_angle_alpha   90.01378761
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuZr3Si4MoW3
+_chemical_formula_sum   'Lu1 Zr3 Si4 Mo1 W3'
+_cell_volume   207.96657806
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.250000  0.042151  0.335591  1
+  Zr  Zr1  1  0.250000  0.542454  0.165004  1
+  Zr  Zr2  1  0.750000  0.957309  0.669991  1
+  Zr  Zr3  1  0.750000  0.458072  0.832133  1
+  Si  Si4  1  0.250000  0.259848  0.639127  1
+  Si  Si5  1  0.250000  0.756293  0.861819  1
+  Si  Si6  1  0.750000  0.737164  0.360556  1
+  Si  Si7  1  0.750000  0.243736  0.136520  1
+  Mo  Mo8  1  0.750000  0.371839  0.441573  1
+  W  W9  1  0.250000  0.130993  0.938029  1
+  W  W10  1  0.250000  0.631302  0.560995  1
+  W  W11  1  0.750000  0.868840  0.058662  1

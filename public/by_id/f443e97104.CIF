@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YLu(GaNi)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.27838200
+_cell_length_b   6.80140800
+_cell_length_c   7.28325700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YLu(GaNi)2
+_chemical_formula_sum   'Y2 Lu2 Ga4 Ni4'
+_cell_volume   211.93565248
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.750000  0.984372  0.193294  1
+  Y  Y1  1  0.750000  0.484372  0.306706  1
+  Lu  Lu2  1  0.250000  0.018027  0.800605  1
+  Lu  Lu3  1  0.250000  0.518027  0.699395  1
+  Ga  Ga4  1  0.250000  0.180729  0.424463  1
+  Ga  Ga5  1  0.250000  0.680729  0.075537  1
+  Ga  Ga6  1  0.750000  0.822577  0.580319  1
+  Ga  Ga7  1  0.750000  0.322577  0.919681  1
+  Ni  Ni8  1  0.250000  0.787899  0.410319  1
+  Ni  Ni9  1  0.250000  0.287899  0.089681  1
+  Ni  Ni10  1  0.750000  0.206396  0.598816  1
+  Ni  Ni11  1  0.750000  0.706396  0.901184  1

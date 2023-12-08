@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Lu4CoBi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.58610773
+_cell_length_b   8.58610787
+_cell_length_c   8.58610721
+_cell_angle_alpha   96.30670636
+_cell_angle_beta   96.30671028
+_cell_angle_gamma   141.28791558
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu4CoBi2
+_chemical_formula_sum   'Lu8 Co2 Bi4'
+_cell_volume   373.49374539
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.693394  0.580295  0.273689  1
+  Lu  Lu1  1  0.580295  0.306606  0.886902  1
+  Lu  Lu2  1  0.080295  0.193394  0.273689  1
+  Lu  Lu3  1  0.919705  0.806606  0.726311  1
+  Lu  Lu4  1  0.193394  0.919705  0.113098  1
+  Lu  Lu5  1  0.806606  0.080295  0.886902  1
+  Lu  Lu6  1  0.306606  0.419705  0.726311  1
+  Lu  Lu7  1  0.419705  0.693394  0.113098  1
+  Co  Co8  1  0.250000  0.250000  0.000000  1
+  Co  Co9  1  0.750000  0.750000  0.000000  1
+  Bi  Bi10  1  0.139664  0.639664  0.779330  1
+  Bi  Bi11  1  0.360336  0.139664  0.500000  1
+  Bi  Bi12  1  0.639664  0.860336  0.500000  1
+  Bi  Bi13  1  0.860336  0.360336  0.220670  1

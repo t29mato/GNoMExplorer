@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Li4Pr4Si7Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.90832700
+_cell_length_b   7.75662024
+_cell_length_c   10.61424234
+_cell_angle_alpha   89.97122076
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li4Pr4Si7Ge
+_chemical_formula_sum   'Li4 Pr4 Si7 Ge1'
+_cell_volume   321.77504991
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.750000  0.507733  0.112155  1
+  Li  Li1  1  0.750000  0.005746  0.389638  1
+  Li  Li2  1  0.250000  0.993319  0.609525  1
+  Li  Li3  1  0.250000  0.495456  0.888475  1
+  Pr  Pr4  1  0.250000  0.137360  0.136573  1
+  Pr  Pr5  1  0.250000  0.640004  0.365551  1
+  Pr  Pr6  1  0.750000  0.360046  0.633043  1
+  Pr  Pr7  1  0.750000  0.858916  0.865459  1
+  Si  Si8  1  0.250000  0.725870  0.072837  1
+  Si  Si9  1  0.750000  0.836665  0.177451  1
+  Si  Si10  1  0.750000  0.336852  0.322929  1
+  Si  Si11  1  0.250000  0.226088  0.427248  1
+  Si  Si12  1  0.750000  0.773544  0.572338  1
+  Si  Si13  1  0.250000  0.662747  0.676878  1
+  Si  Si14  1  0.250000  0.160365  0.819388  1
+  Ge  Ge15  1  0.750000  0.279288  0.930512  1

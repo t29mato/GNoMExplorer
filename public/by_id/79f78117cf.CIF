@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LiPrCuPt3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.25104801
+_cell_length_b   5.25104684
+_cell_length_c   5.25104700
+_cell_angle_alpha   62.37074402
+_cell_angle_beta   62.37075069
+_cell_angle_gamma   62.37074322
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiPrCuPt3
+_chemical_formula_sum   'Li1 Pr1 Cu1 Pt3'
+_cell_volume   107.79613512
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.252608  0.252608  0.252608  1
+  Pr  Pr1  1  0.002209  0.002209  0.002209  1
+  Cu  Cu2  1  0.623437  0.623437  0.623437  1
+  Pt  Pt3  1  0.622817  0.622817  0.126110  1
+  Pt  Pt4  1  0.622817  0.126110  0.622817  1
+  Pt  Pt5  1  0.126110  0.622817  0.622817  1

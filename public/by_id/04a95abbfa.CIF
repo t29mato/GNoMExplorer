@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ti3Co2Si4Rh3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.72813600
+_cell_length_b   6.13735214
+_cell_length_c   7.12179203
+_cell_angle_alpha   90.75155249
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3Co2Si4Rh3
+_chemical_formula_sum   'Ti3 Co2 Si4 Rh3'
+_cell_volume   162.93887519
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.750000  0.529777  0.825649  1
+  Ti  Ti1  1  0.250000  0.484652  0.188900  1
+  Ti  Ti2  1  0.750000  0.023167  0.674403  1
+  Co  Co3  1  0.750000  0.153693  0.056462  1
+  Co  Co4  1  0.750000  0.642247  0.436697  1
+  Si  Si5  1  0.250000  0.235500  0.889074  1
+  Si  Si6  1  0.750000  0.787878  0.140481  1
+  Si  Si7  1  0.250000  0.726778  0.605530  1
+  Si  Si8  1  0.750000  0.257811  0.362902  1
+  Rh  Rh9  1  0.250000  0.962400  0.328093  1
+  Rh  Rh10  1  0.250000  0.851525  0.928984  1
+  Rh  Rh11  1  0.250000  0.344571  0.562822  1

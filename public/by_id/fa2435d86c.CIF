@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_ErPa(NCl)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.09169645
+_cell_length_b   10.09169535
+_cell_length_c   10.09169433
+_cell_angle_alpha   22.17249753
+_cell_angle_beta   22.17250124
+_cell_angle_gamma   22.17249866
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErPa(NCl)2
+_chemical_formula_sum   'Er1 Pa1 N2 Cl2'
+_cell_volume   128.35194588
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.783424  0.783424  0.783424  1
+  Pa  Pa1  1  0.210793  0.210793  0.210793  1
+  N  N2  1  0.865097  0.865097  0.865097  1
+  N  N3  1  0.140738  0.140738  0.140738  1
+  Cl  Cl4  1  0.392310  0.392310  0.392310  1
+  Cl  Cl5  1  0.607639  0.607639  0.607639  1

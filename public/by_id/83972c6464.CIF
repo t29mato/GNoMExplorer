@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LaPrHgPt2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.95101100
+_cell_length_b   7.94672200
+_cell_length_c   3.92989900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaPrHgPt2
+_chemical_formula_sum   'La2 Pr2 Hg2 Pt4'
+_cell_volume   248.30860133
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.326860  0.172174  0.500001  1
+  La  La1  1  0.826860  0.327827  0.500001  1
+  Pr  Pr2  1  0.172471  0.673238  0.500001  1
+  Pr  Pr3  1  0.672471  0.826763  0.500001  1
+  Hg  Hg4  1  0.999909  0.998630  0.000000  1
+  Hg  Hg5  1  0.499909  0.501370  0.000000  1
+  Pt  Pt6  1  0.628075  0.128534  0.000000  1
+  Pt  Pt7  1  0.128076  0.371466  0.000000  1
+  Pt  Pt8  1  0.872685  0.626721  0.000000  1
+  Pt  Pt9  1  0.372684  0.873279  0.000000  1

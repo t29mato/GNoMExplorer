@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_ZnGaRhO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.00127900
+_cell_length_b   6.09719800
+_cell_length_c   8.55044000
+_cell_angle_alpha   89.99964323
+_cell_angle_beta   89.99991775
+_cell_angle_gamma   89.99970629
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnGaRhO4
+_chemical_formula_sum   'Zn4 Ga4 Rh4 O16'
+_cell_volume   312.86903303
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.000001  0.249999  0.128289  1
+  Zn  Zn1  1  0.500000  0.750001  0.628289  1
+  Zn  Zn2  1  0.500000  0.250000  0.371710  1
+  Zn  Zn3  1  0.000001  0.750001  0.871710  1
+  Ga  Ga4  1  0.750000  0.750000  0.250000  1
+  Ga  Ga5  1  0.250001  0.250000  0.750000  1
+  Ga  Ga6  1  0.250000  0.750001  0.250000  1
+  Ga  Ga7  1  0.750000  0.250000  0.750000  1
+  Rh  Rh8  1  0.000003  0.499997  0.500000  1
+  Rh  Rh9  1  0.499996  0.499995  0.999999  1
+  Rh  Rh10  1  0.499997  0.999999  0.000000  1
+  Rh  Rh11  1  0.999999  0.999999  0.500000  1
+  O  O12  1  0.231747  0.750001  0.484200  1
+  O  O13  1  0.731746  0.249999  0.984200  1
+  O  O14  1  0.768251  0.750001  0.484200  1
+  O  O15  1  0.268257  0.250000  0.984200  1
+  O  O16  1  0.268256  0.750001  0.015802  1
+  O  O17  1  0.768254  0.250001  0.515801  1
+  O  O18  1  0.731748  0.750002  0.015800  1
+  O  O19  1  0.231746  0.249999  0.515801  1
+  O  O20  1  0.000000  0.973925  0.257214  1
+  O  O21  1  0.499999  0.473925  0.757214  1
+  O  O22  1  0.000000  0.526077  0.257214  1
+  O  O23  1  0.500000  0.026077  0.757215  1
+  O  O24  1  0.500001  0.526077  0.242786  1
+  O  O25  1  0.999999  0.026077  0.742784  1
+  O  O26  1  0.500000  0.973925  0.242787  1
+  O  O27  1  0.999999  0.473925  0.742786  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LiGaRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.14077300
+_cell_length_b   4.17915600
+_cell_length_c   7.57671900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiGaRh
+_chemical_formula_sum   'Li4 Ga4 Rh4'
+_cell_volume   162.77893054
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.470175  0.249999  0.248914  1
+  Li  Li1  1  0.970175  0.249999  0.251085  1
+  Li  Li2  1  0.029826  0.750000  0.748915  1
+  Li  Li3  1  0.529824  0.750000  0.751085  1
+  Ga  Ga4  1  0.687376  0.750000  0.076393  1
+  Ga  Ga5  1  0.187376  0.750000  0.423606  1
+  Ga  Ga6  1  0.812624  0.249999  0.576393  1
+  Ga  Ga7  1  0.312623  0.249999  0.923607  1
+  Rh  Rh8  1  0.182314  0.750000  0.091331  1
+  Rh  Rh9  1  0.682314  0.750000  0.408668  1
+  Rh  Rh10  1  0.317687  0.249999  0.591331  1
+  Rh  Rh11  1  0.817685  0.249999  0.908669  1

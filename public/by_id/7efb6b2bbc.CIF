@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_LaAlCu2Au9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.44694883
+_cell_length_b   7.06261843
+_cell_length_c   7.42466702
+_cell_angle_alpha   81.35642292
+_cell_angle_beta   47.65627780
+_cell_angle_gamma   49.47767836
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaAlCu2Au9
+_chemical_formula_sum   'La1 Al1 Cu2 Au9'
+_cell_volume   239.16303730
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.000000  0.000000  0.000000  1
+  Al  Al1  1  0.000000  0.000000  0.500000  1
+  Cu  Cu2  1  0.000000  0.500000  0.000000  1
+  Cu  Cu3  1  0.500000  0.000000  0.500000  1
+  Au  Au4  1  0.005457  0.347818  0.663129  1
+  Au  Au5  1  0.994543  0.652182  0.336871  1
+  Au  Au6  1  0.347818  0.005457  0.983597  1
+  Au  Au7  1  0.652182  0.994543  0.016403  1
+  Au  Au8  1  0.511108  0.268565  0.699572  1
+  Au  Au9  1  0.488892  0.731435  0.300428  1
+  Au  Au10  1  0.268565  0.511108  0.520754  1
+  Au  Au11  1  0.731435  0.488892  0.479246  1
+  Au  Au12  1  0.500000  0.500000  0.000000  1

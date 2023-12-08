@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_LaSmTe2(RhO6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.29238800
+_cell_length_b   5.29242604
+_cell_length_c   10.20898100
+_cell_angle_alpha   90.00007234
+_cell_angle_beta   89.99998280
+_cell_angle_gamma   119.99977048
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaSmTe2(RhO6)2
+_chemical_formula_sum   'La1 Sm1 Te2 Rh2 O12'
+_cell_volume   247.63983470
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.999998  0.999977  0.000011  1
+  Sm  Sm1  1  0.999999  0.000002  0.500002  1
+  Te  Te2  1  0.666670  0.333339  0.254127  1
+  Te  Te3  1  0.333335  0.666666  0.745873  1
+  Rh  Rh4  1  0.333335  0.666673  0.253278  1
+  Rh  Rh5  1  0.666664  0.333329  0.746725  1
+  O  O6  1  0.637714  0.626673  0.145210  1
+  O  O7  1  0.988955  0.362291  0.145210  1
+  O  O8  1  0.373339  0.011053  0.145211  1
+  O  O9  1  0.987902  0.636796  0.360120  1
+  O  O10  1  0.363211  0.351116  0.360119  1
+  O  O11  1  0.648885  0.012097  0.360122  1
+  O  O12  1  0.351126  0.987904  0.639878  1
+  O  O13  1  0.012090  0.363218  0.639874  1
+  O  O14  1  0.636789  0.648876  0.639880  1
+  O  O15  1  0.626680  0.988962  0.854792  1
+  O  O16  1  0.011043  0.637718  0.854787  1
+  O  O17  1  0.362271  0.373316  0.854787  1

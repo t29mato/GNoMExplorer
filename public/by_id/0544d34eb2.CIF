@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_HoGaHgPt3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.21957187
+_cell_length_b   5.21957085
+_cell_length_c   5.21957097
+_cell_angle_alpha   63.97396732
+_cell_angle_beta   63.97397088
+_cell_angle_gamma   63.97396152
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoGaHgPt3
+_chemical_formula_sum   'Ho1 Ga1 Hg1 Pt3'
+_cell_volume   109.35403613
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.245815  0.245815  0.245815  1
+  Ga  Ga1  1  0.627653  0.627653  0.627653  1
+  Hg  Hg2  1  0.997483  0.997483  0.997483  1
+  Pt  Pt3  1  0.626414  0.626414  0.126224  1
+  Pt  Pt4  1  0.626414  0.126224  0.626414  1
+  Pt  Pt5  1  0.126224  0.626414  0.626414  1

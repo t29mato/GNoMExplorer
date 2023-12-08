@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LaPa3(SbTe)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.36765000
+_cell_length_b   4.36255205
+_cell_length_c   18.34818028
+_cell_angle_alpha   89.98097471
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaPa3(SbTe)4
+_chemical_formula_sum   'La1 Pa3 Sb4 Te4'
+_cell_volume   349.60805139
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.750000  0.244996  0.865815  1
+  Pa  Pa1  1  0.250000  0.754971  0.139363  1
+  Pa  Pa2  1  0.750000  0.254829  0.364266  1
+  Pa  Pa3  1  0.250000  0.745196  0.631365  1
+  Sb  Sb4  1  0.250000  0.250953  0.007125  1
+  Sb  Sb5  1  0.750000  0.749870  0.497535  1
+  Sb  Sb6  1  0.250000  0.249760  0.497844  1
+  Sb  Sb7  1  0.750000  0.750426  0.006948  1
+  Te  Te8  1  0.750000  0.254200  0.186570  1
+  Te  Te9  1  0.250000  0.754351  0.317892  1
+  Te  Te10  1  0.750000  0.245905  0.676649  1
+  Te  Te11  1  0.250000  0.744540  0.808628  1

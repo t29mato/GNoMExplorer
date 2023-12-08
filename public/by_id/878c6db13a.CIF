@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Sr4TiVO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.86317599
+_cell_length_b   6.86317514
+_cell_length_c   5.57342500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   132.04121419
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr4TiVO8
+_chemical_formula_sum   'Sr4 Ti1 V1 O8'
+_cell_volume   194.96845408
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.642807  0.357193  0.000000  1
+  Sr  Sr1  1  0.143005  0.856995  0.500000  1
+  Sr  Sr2  1  0.856995  0.143005  0.500000  1
+  Sr  Sr3  1  0.357193  0.642807  0.000000  1
+  Ti  Ti4  1  0.000000  0.000000  0.000000  1
+  V  V5  1  0.500000  0.500000  0.500000  1
+  O  O6  1  0.751439  0.751439  0.750074  1
+  O  O7  1  0.248561  0.248561  0.249926  1
+  O  O8  1  0.248561  0.248561  0.750074  1
+  O  O9  1  0.751439  0.751439  0.249926  1
+  O  O10  1  0.840527  0.159473  0.000000  1
+  O  O11  1  0.345412  0.654588  0.500000  1
+  O  O12  1  0.654588  0.345412  0.500000  1
+  O  O13  1  0.159473  0.840527  0.000000  1

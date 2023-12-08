@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Co(S8Br)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   15.14702835
+_cell_length_b   15.14700096
+_cell_length_c   15.14718279
+_cell_angle_alpha   118.76395329
+_cell_angle_beta   118.76410380
+_cell_angle_gamma   118.76346564
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co(S8Br)3
+_chemical_formula_sum   'Co1 S24 Br3'
+_cell_volume   998.13077309
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.075932  0.075932  0.075917  1
+  S  S1  1  0.017934  0.614254  0.614256  1
+  S  S2  1  0.614256  0.614257  0.017938  1
+  S  S3  1  0.614255  0.017934  0.614257  1
+  S  S4  1  0.235416  0.846560  0.717792  1
+  S  S5  1  0.846561  0.717791  0.235419  1
+  S  S6  1  0.717793  0.235419  0.846564  1
+  S  S7  1  0.846562  0.235418  0.717794  1
+  S  S8  1  0.235419  0.717792  0.846563  1
+  S  S9  1  0.717794  0.846564  0.235422  1
+  S  S10  1  0.101088  0.630395  0.448349  1
+  S  S11  1  0.630400  0.448351  0.101096  1
+  S  S12  1  0.448354  0.101097  0.630404  1
+  S  S13  1  0.630399  0.101093  0.448354  1
+  S  S14  1  0.101100  0.448356  0.630407  1
+  S  S15  1  0.448356  0.630404  0.101101  1
+  S  S16  1  0.355563  0.744056  0.615048  1
+  S  S17  1  0.744062  0.615052  0.355570  1
+  S  S18  1  0.615058  0.355575  0.744067  1
+  S  S19  1  0.744062  0.355571  0.615056  1
+  S  S20  1  0.355575  0.615059  0.744067  1
+  S  S21  1  0.615058  0.744065  0.355575  1
+  S  S22  1  0.188791  0.469012  0.469015  1
+  S  S23  1  0.469016  0.469015  0.188797  1
+  S  S24  1  0.469016  0.188796  0.469019  1
+  Br  Br25  1  0.168858  0.020106  0.020108  1
+  Br  Br26  1  0.020260  0.020264  0.168988  1
+  Br  Br27  1  0.020161  0.168911  0.020158  1

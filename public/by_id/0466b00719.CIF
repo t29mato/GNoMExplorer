@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_PmZn2Ag3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.58001543
+_cell_length_b   5.58001430
+_cell_length_c   4.52223100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   57.34735392
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PmZn2Ag3
+_chemical_formula_sum   'Pm1 Zn2 Ag3'
+_cell_volume   118.55322232
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pm  Pm0  1  0.999953  0.000047  0.000000  1
+  Zn  Zn1  1  0.500331  0.999982  0.499999  1
+  Zn  Zn2  1  0.000018  0.499668  0.499999  1
+  Ag  Ag3  1  0.324615  0.324687  0.000000  1
+  Ag  Ag4  1  0.675313  0.675385  0.000000  1
+  Ag  Ag5  1  0.499765  0.500234  0.499999  1

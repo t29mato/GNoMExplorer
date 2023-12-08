@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SrLi2GdPt2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.15612400
+_cell_length_b   7.30272100
+_cell_length_c   8.64085600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrLi2GdPt2
+_chemical_formula_sum   'Sr2 Li4 Gd2 Pt4'
+_cell_volume   262.25874154
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.250000  0.041158  0.681180  1
+  Sr  Sr1  1  0.250000  0.541158  0.818820  1
+  Li  Li2  1  0.250000  0.128144  0.061783  1
+  Li  Li3  1  0.250000  0.628144  0.438217  1
+  Li  Li4  1  0.750000  0.873224  0.954824  1
+  Li  Li5  1  0.750000  0.373224  0.545176  1
+  Gd  Gd6  1  0.750000  0.959699  0.316763  1
+  Gd  Gd7  1  0.750000  0.459699  0.183237  1
+  Pt  Pt8  1  0.250000  0.255480  0.360332  1
+  Pt  Pt9  1  0.250000  0.755480  0.139668  1
+  Pt  Pt10  1  0.750000  0.742296  0.593904  1
+  Pt  Pt11  1  0.750000  0.242296  0.906096  1

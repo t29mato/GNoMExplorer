@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Sr6Li12Cd4N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.04295103
+_cell_length_b   9.04295183
+_cell_length_c   9.04295100
+_cell_angle_alpha   109.47121878
+_cell_angle_beta   109.47122056
+_cell_angle_gamma   109.47122526
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr6Li12Cd4N
+_chemical_formula_sum   'Sr6 Li12 Cd4 N1'
+_cell_volume   569.25737902
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.000000  0.249476  0.249476  1
+  Sr  Sr1  1  0.249476  0.000000  0.249476  1
+  Sr  Sr2  1  0.750524  0.000000  0.750524  1
+  Sr  Sr3  1  0.750524  0.750524  0.000000  1
+  Sr  Sr4  1  0.249476  0.249476  0.000000  1
+  Sr  Sr5  1  0.000000  0.750524  0.750524  1
+  Li  Li6  1  0.679019  0.339511  0.339511  1
+  Li  Li7  1  0.339511  0.000000  0.660489  1
+  Li  Li8  1  0.339511  0.679019  0.339511  1
+  Li  Li9  1  0.339511  0.339511  0.679019  1
+  Li  Li10  1  0.339511  0.660489  0.000000  1
+  Li  Li11  1  0.000000  0.339511  0.660489  1
+  Li  Li12  1  0.000000  0.660489  0.339511  1
+  Li  Li13  1  0.660489  0.660489  0.320981  1
+  Li  Li14  1  0.660489  0.000000  0.339511  1
+  Li  Li15  1  0.660489  0.339511  0.000000  1
+  Li  Li16  1  0.660489  0.320981  0.660489  1
+  Li  Li17  1  0.320981  0.660489  0.660489  1
+  Cd  Cd18  1  0.500000  0.500000  0.500000  1
+  Cd  Cd19  1  0.500000  0.000000  0.000000  1
+  Cd  Cd20  1  0.000000  0.500000  0.000000  1
+  Cd  Cd21  1  0.000000  0.000000  0.500000  1
+  N  N22  1  0.000000  0.000000  0.000000  1

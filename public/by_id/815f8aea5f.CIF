@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Nd3InPt2RhPb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.87591483
+_cell_length_b   7.87591425
+_cell_length_c   4.00467600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.21370379
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd3InPt2RhPb2
+_chemical_formula_sum   'Nd3 In1 Pt2 Rh1 Pb2'
+_cell_volume   214.66475965
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.995003  0.592492  0.500000  1
+  Nd  Nd1  1  0.592492  0.995003  0.500000  1
+  Nd  Nd2  1  0.410772  0.410772  0.500000  1
+  In  In3  1  0.744564  0.744564  0.000000  1
+  Pt  Pt4  1  0.668881  0.343009  0.000000  1
+  Pt  Pt5  1  0.343009  0.668881  0.000000  1
+  Rh  Rh6  1  0.993432  0.993432  0.500000  1
+  Pb  Pb7  1  0.998364  0.253481  0.000000  1
+  Pb  Pb8  1  0.253481  0.998364  0.000000  1

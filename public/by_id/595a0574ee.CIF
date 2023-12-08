@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_La2Nd(SnRh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.99396500
+_cell_length_b   8.65898700
+_cell_length_c   13.85375200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2Nd(SnRh)2
+_chemical_formula_sum   'La8 Nd4 Sn8 Rh8'
+_cell_volume   719.03279548
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.174477  0.397672  0.093411  1
+  La  La1  1  0.825523  0.602328  0.906589  1
+  La  La2  1  0.825523  0.602328  0.593411  1
+  La  La3  1  0.825523  0.897672  0.406589  1
+  La  La4  1  0.174477  0.397672  0.406589  1
+  La  La5  1  0.174477  0.102328  0.593411  1
+  La  La6  1  0.174477  0.102328  0.906589  1
+  La  La7  1  0.825523  0.897672  0.093411  1
+  Nd  Nd8  1  0.637165  0.252260  0.250000  1
+  Nd  Nd9  1  0.362835  0.747740  0.750000  1
+  Nd  Nd10  1  0.362835  0.752260  0.250000  1
+  Nd  Nd11  1  0.637165  0.247740  0.750000  1
+  Sn  Sn12  1  0.135374  0.104139  0.250000  1
+  Sn  Sn13  1  0.864626  0.895861  0.750000  1
+  Sn  Sn14  1  0.864626  0.604139  0.250000  1
+  Sn  Sn15  1  0.135374  0.395861  0.750000  1
+  Sn  Sn16  1  0.667100  0.250000  0.000000  1
+  Sn  Sn17  1  0.332900  0.750000  0.000000  1
+  Sn  Sn18  1  0.332900  0.750000  0.500000  1
+  Sn  Sn19  1  0.667100  0.250000  0.500000  1
+  Rh  Rh20  1  0.387792  0.040025  0.092871  1
+  Rh  Rh21  1  0.612208  0.959975  0.907129  1
+  Rh  Rh22  1  0.612208  0.959975  0.592871  1
+  Rh  Rh23  1  0.612208  0.540025  0.407129  1
+  Rh  Rh24  1  0.387792  0.040025  0.407129  1
+  Rh  Rh25  1  0.387792  0.459975  0.592871  1
+  Rh  Rh26  1  0.387792  0.459975  0.907129  1
+  Rh  Rh27  1  0.612208  0.540025  0.092871  1

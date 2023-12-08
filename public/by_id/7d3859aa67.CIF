@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_Sm8Ti(Pd7Pt5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.45974800
+_cell_length_b   8.44459000
+_cell_length_c   8.48522300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm8Ti(Pd7Pt5)2
+_chemical_formula_sum   'Sm8 Ti1 Pd14 Pt10'
+_cell_volume   606.17672296
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.250801  0.251103  0.251149  1
+  Sm  Sm1  1  0.748898  0.748785  0.748846  1
+  Sm  Sm2  1  0.748898  0.748785  0.251154  1
+  Sm  Sm3  1  0.749199  0.251103  0.748851  1
+  Sm  Sm4  1  0.250801  0.251103  0.748851  1
+  Sm  Sm5  1  0.251102  0.748785  0.251154  1
+  Sm  Sm6  1  0.251102  0.748785  0.748846  1
+  Sm  Sm7  1  0.749199  0.251103  0.251149  1
+  Ti  Ti8  1  0.000000  0.001139  0.000000  1
+  Pd  Pd9  1  0.000000  0.737229  0.500000  1
+  Pd  Pd10  1  0.500000  0.736811  0.000000  1
+  Pd  Pd11  1  0.500000  0.999813  0.264004  1
+  Pd  Pd12  1  0.264200  0.999641  0.500000  1
+  Pd  Pd13  1  0.500000  0.999813  0.735996  1
+  Pd  Pd14  1  0.735800  0.999641  0.500000  1
+  Pd  Pd15  1  0.000000  0.500231  0.264672  1
+  Pd  Pd16  1  0.000000  0.500231  0.735328  1
+  Pd  Pd17  1  0.254514  0.499976  0.500000  1
+  Pd  Pd18  1  0.745486  0.499976  0.500000  1
+  Pd  Pd19  1  0.500000  0.253813  0.500000  1
+  Pd  Pd20  1  0.500000  0.745585  0.500000  1
+  Pd  Pd21  1  0.500000  0.499918  0.254864  1
+  Pd  Pd22  1  0.500000  0.499918  0.745136  1
+  Pt  Pt23  1  0.264213  0.499881  0.000000  1
+  Pt  Pt24  1  0.735787  0.499881  0.000000  1
+  Pt  Pt25  1  0.000000  0.263174  0.500000  1
+  Pt  Pt26  1  0.500000  0.263790  0.000000  1
+  Pt  Pt27  1  0.299905  0.999864  0.000000  1
+  Pt  Pt28  1  0.700095  0.999864  0.000000  1
+  Pt  Pt29  1  0.000000  0.300511  0.000000  1
+  Pt  Pt30  1  0.000000  0.700697  0.000000  1
+  Pt  Pt31  1  0.000000  0.999523  0.299247  1
+  Pt  Pt32  1  0.000000  0.999523  0.700753  1

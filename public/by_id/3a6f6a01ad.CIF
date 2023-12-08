@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_MgZnSi4(Pb2O7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.15349300
+_cell_length_b   8.15349300
+_cell_length_c   5.34650300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgZnSi4(Pb2O7)2
+_chemical_formula_sum   'Mg1 Zn1 Si4 Pb4 O14'
+_cell_volume   355.43256871
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.500000  0.500000  0.000000  1
+  Zn  Zn1  1  0.000000  0.000000  0.000000  1
+  Si  Si2  1  0.859401  0.359669  0.950402  1
+  Si  Si3  1  0.140599  0.640331  0.950402  1
+  Si  Si4  1  0.640331  0.859401  0.049598  1
+  Si  Si5  1  0.359669  0.140599  0.049598  1
+  Pb  Pb6  1  0.677735  0.176530  0.505072  1
+  Pb  Pb7  1  0.823470  0.677735  0.494928  1
+  Pb  Pb8  1  0.176530  0.322265  0.494928  1
+  Pb  Pb9  1  0.322265  0.823470  0.505072  1
+  O  O10  1  0.689952  0.418020  0.806277  1
+  O  O11  1  0.310048  0.581980  0.806277  1
+  O  O12  1  0.418020  0.310048  0.193723  1
+  O  O13  1  0.581980  0.689952  0.193723  1
+  O  O14  1  0.918328  0.190241  0.803788  1
+  O  O15  1  0.809759  0.918328  0.196212  1
+  O  O16  1  0.190241  0.081672  0.196212  1
+  O  O17  1  0.081672  0.809759  0.803788  1
+  O  O18  1  0.844515  0.345519  0.252413  1
+  O  O19  1  0.654481  0.844515  0.747587  1
+  O  O20  1  0.500000  0.000000  0.122227  1
+  O  O21  1  0.000000  0.500000  0.877773  1
+  O  O22  1  0.155485  0.654481  0.252413  1
+  O  O23  1  0.345519  0.155485  0.747587  1

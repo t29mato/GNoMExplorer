@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_MgTa(ZnRh2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.04142600
+_cell_length_b   6.03230200
+_cell_length_c   6.44643000
+_cell_angle_alpha   89.99937548
+_cell_angle_beta   90.00018313
+_cell_angle_gamma   90.00326506
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTa(ZnRh2)2
+_chemical_formula_sum   'Mg2 Ta2 Zn4 Rh8'
+_cell_volume   234.93180039
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.749999  0.250035  0.000001  1
+  Mg  Mg1  1  0.250001  0.749965  0.999999  1
+  Ta  Ta2  1  0.750000  0.249974  0.499999  1
+  Ta  Ta3  1  0.250001  0.750026  0.500000  1
+  Zn  Zn4  1  0.249991  0.249977  0.999998  1
+  Zn  Zn5  1  0.750009  0.750023  0.000002  1
+  Zn  Zn6  1  0.749991  0.750017  0.499998  1
+  Zn  Zn7  1  0.250009  0.249983  0.500003  1
+  Rh  Rh8  1  0.500000  0.000003  0.252958  1
+  Rh  Rh9  1  0.000004  0.999999  0.252985  1
+  Rh  Rh10  1  0.499999  0.500001  0.253000  1
+  Rh  Rh11  1  0.000003  0.499996  0.252932  1
+  Rh  Rh12  1  0.500001  0.999997  0.747041  1
+  Rh  Rh13  1  0.999996  0.000001  0.747014  1
+  Rh  Rh14  1  0.500001  0.499999  0.746999  1
+  Rh  Rh15  1  0.999997  0.500003  0.747067  1

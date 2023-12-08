@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_HoLu7In3Fe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.10663801
+_cell_length_b   10.10682783
+_cell_length_c   6.94066000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99529634
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoLu7In3Fe
+_chemical_formula_sum   'Ho2 Lu14 In6 Fe2'
+_cell_volume   614.00733989
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.000003  0.000005  0.496488  1
+  Ho  Ho1  1  0.999997  0.999995  0.996488  1
+  Lu  Lu2  1  0.464580  0.535407  0.481969  1
+  Lu  Lu3  1  0.070829  0.535410  0.481951  1
+  Lu  Lu4  1  0.464584  0.929175  0.481963  1
+  Lu  Lu5  1  0.535420  0.464593  0.981969  1
+  Lu  Lu6  1  0.929171  0.464590  0.981951  1
+  Lu  Lu7  1  0.535416  0.070825  0.981963  1
+  Lu  Lu8  1  0.819773  0.180228  0.278380  1
+  Lu  Lu9  1  0.360463  0.180235  0.278375  1
+  Lu  Lu10  1  0.819765  0.639536  0.278376  1
+  Lu  Lu11  1  0.180227  0.819772  0.778380  1
+  Lu  Lu12  1  0.639537  0.819765  0.778375  1
+  Lu  Lu13  1  0.180235  0.360464  0.778376  1
+  Lu  Lu14  1  0.333331  0.666669  0.090578  1
+  Lu  Lu15  1  0.666669  0.333331  0.590578  1
+  In  In16  1  0.163990  0.836014  0.232845  1
+  In  In17  1  0.671911  0.835952  0.232827  1
+  In  In18  1  0.164053  0.328094  0.232741  1
+  In  In19  1  0.836010  0.163986  0.732845  1
+  In  In20  1  0.328089  0.164048  0.732827  1
+  In  In21  1  0.835947  0.671906  0.732741  1
+  Fe  Fe22  1  0.333327  0.666659  0.705783  1
+  Fe  Fe23  1  0.666673  0.333341  0.205783  1

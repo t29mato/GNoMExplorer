@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_HfZr3Ir2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.81971007
+_cell_length_b   8.81971078
+_cell_length_c   8.81971000
+_cell_angle_alpha   60.00000291
+_cell_angle_beta   60.00000028
+_cell_angle_gamma   60.00000282
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfZr3Ir2O
+_chemical_formula_sum   'Hf4 Zr12 Ir8 O4'
+_cell_volume   485.11865986
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.125000  0.625000  0.625000  1
+  Hf  Hf1  1  0.625000  0.125000  0.625000  1
+  Hf  Hf2  1  0.625000  0.625000  0.125000  1
+  Hf  Hf3  1  0.625000  0.625000  0.625000  1
+  Zr  Zr4  1  0.814583  0.814583  0.185417  1
+  Zr  Zr5  1  0.185417  0.185417  0.814583  1
+  Zr  Zr6  1  0.814583  0.185417  0.814583  1
+  Zr  Zr7  1  0.185417  0.814583  0.185417  1
+  Zr  Zr8  1  0.185417  0.814583  0.814583  1
+  Zr  Zr9  1  0.814583  0.185417  0.185417  1
+  Zr  Zr10  1  0.435417  0.435417  0.064583  1
+  Zr  Zr11  1  0.064583  0.064583  0.435417  1
+  Zr  Zr12  1  0.435417  0.064583  0.435417  1
+  Zr  Zr13  1  0.064583  0.435417  0.064583  1
+  Zr  Zr14  1  0.064583  0.435417  0.435417  1
+  Zr  Zr15  1  0.435417  0.064583  0.064583  1
+  Ir  Ir16  1  0.778344  0.407218  0.407218  1
+  Ir  Ir17  1  0.407218  0.778344  0.407218  1
+  Ir  Ir18  1  0.407218  0.407218  0.778344  1
+  Ir  Ir19  1  0.407218  0.407218  0.407218  1
+  Ir  Ir20  1  0.471656  0.842782  0.842782  1
+  Ir  Ir21  1  0.842782  0.471656  0.842782  1
+  Ir  Ir22  1  0.842782  0.842782  0.471656  1
+  Ir  Ir23  1  0.842782  0.842782  0.842782  1
+  O  O24  1  0.625000  0.125000  0.125000  1
+  O  O25  1  0.125000  0.625000  0.125000  1
+  O  O26  1  0.125000  0.125000  0.625000  1
+  O  O27  1  0.125000  0.125000  0.125000  1

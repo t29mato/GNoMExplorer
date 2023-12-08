@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ca2LaPr(GaO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.81888868
+_cell_length_b   5.38992177
+_cell_length_c   6.88725000
+_cell_angle_alpha   90.00020339
+_cell_angle_beta   89.99989480
+_cell_angle_gamma   89.93894738
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2LaPr(GaO4)2
+_chemical_formula_sum   'Ca4 La2 Pr2 Ga4 O16'
+_cell_volume   438.73744784
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.499955  0.499946  0.487244  1
+  Ca  Ca1  1  0.500044  0.500060  0.987245  1
+  Ca  Ca2  1  0.000047  0.999944  0.987138  1
+  Ca  Ca3  1  0.999952  0.000050  0.487236  1
+  La  La4  1  0.280333  0.013808  0.737086  1
+  La  La5  1  0.719669  0.986187  0.237091  1
+  Pr  Pr6  1  0.219943  0.513362  0.237107  1
+  Pr  Pr7  1  0.780058  0.486639  0.737104  1
+  Ga  Ga8  1  0.409023  0.068412  0.237080  1
+  Ga  Ga9  1  0.590977  0.931590  0.737082  1
+  Ga  Ga10  1  0.090733  0.568414  0.737074  1
+  Ga  Ga11  1  0.909267  0.431583  0.237074  1
+  O  O12  1  0.408519  0.728218  0.237235  1
+  O  O13  1  0.591481  0.271784  0.737231  1
+  O  O14  1  0.090976  0.228028  0.737222  1
+  O  O15  1  0.909027  0.771974  0.237228  1
+  O  O16  1  0.163087  0.731730  0.524503  1
+  O  O17  1  0.836912  0.268275  0.024505  1
+  O  O18  1  0.336626  0.233831  0.026188  1
+  O  O19  1  0.663373  0.766171  0.526188  1
+  O  O20  1  0.336560  0.233790  0.447964  1
+  O  O21  1  0.663439  0.766212  0.947964  1
+  O  O22  1  0.163156  0.731688  0.949656  1
+  O  O23  1  0.836845  0.268309  0.449656  1
+  O  O24  1  0.552490  0.226114  0.237227  1
+  O  O25  1  0.447509  0.773886  0.737228  1
+  O  O26  1  0.947108  0.725708  0.737219  1
+  O  O27  1  0.052892  0.274283  0.237229  1

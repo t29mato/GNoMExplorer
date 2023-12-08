@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ti5Al4Mo(PtC)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.21819850
+_cell_length_b   8.22015884
+_cell_length_c   8.21819819
+_cell_angle_alpha   59.94632532
+_cell_angle_beta   60.03258840
+_cell_angle_gamma   59.94632345
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti5Al4Mo(PtC)2
+_chemical_formula_sum   'Ti10 Al8 Mo2 Pt4 C4'
+_cell_volume   392.34877298
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.312224  0.688583  0.686759  1
+  Ti  Ti1  1  0.684969  0.681852  0.317029  1
+  Ti  Ti2  1  0.687625  0.315356  0.682605  1
+  Ti  Ti3  1  0.315187  0.683205  0.315663  1
+  Ti  Ti4  1  0.567395  0.934644  0.562375  1
+  Ti  Ti5  1  0.567765  0.931965  0.935160  1
+  Ti  Ti6  1  0.932971  0.568148  0.565031  1
+  Ti  Ti7  1  0.934337  0.566795  0.934813  1
+  Ti  Ti8  1  0.314840  0.318035  0.682235  1
+  Ti  Ti9  1  0.563241  0.561417  0.937776  1
+  Al  Al10  1  0.912934  0.257562  0.915987  1
+  Al  Al11  1  0.336153  0.336431  0.992536  1
+  Al  Al12  1  0.992227  0.332751  0.335487  1
+  Al  Al13  1  0.338373  0.335246  0.334115  1
+  Al  Al14  1  0.257464  0.913569  0.913847  1
+  Al  Al15  1  0.915885  0.914754  0.911627  1
+  Al  Al16  1  0.914513  0.917249  0.257773  1
+  Al  Al17  1  0.334013  0.992438  0.337066  1
+  Mo  Mo18  1  0.931720  0.929470  0.569013  1
+  Mo  Mo19  1  0.680987  0.320530  0.318280  1
+  Pt  Pt20  1  0.123945  0.625000  0.126055  1
+  Pt  Pt21  1  0.125867  0.127748  0.624078  1
+  Pt  Pt22  1  0.625922  0.122252  0.124133  1
+  Pt  Pt23  1  0.128915  0.125000  0.121085  1
+  C  C24  1  0.622828  0.125000  0.627172  1
+  C  C25  1  0.624848  0.627149  0.121410  1
+  C  C26  1  0.128590  0.622851  0.625152  1
+  C  C27  1  0.624266  0.625000  0.625734  1

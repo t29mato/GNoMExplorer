@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Tb2Si3Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.17485493
+_cell_length_b   8.14871078
+_cell_length_c   5.78199051
+_cell_angle_alpha   69.49735894
+_cell_angle_beta   69.01281074
+_cell_angle_gamma   41.48982724
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2Si3Pt
+_chemical_formula_sum   'Tb4 Si6 Pt2'
+_cell_volume   236.13803308
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.245027  0.754974  0.245025  1
+  Tb  Tb1  1  0.250001  0.250000  0.250000  1
+  Tb  Tb2  1  0.750000  0.749999  0.750001  1
+  Tb  Tb3  1  0.754976  0.245025  0.754974  1
+  Si  Si4  1  0.834331  0.834329  0.165670  1
+  Si  Si5  1  0.833833  0.332134  0.166168  1
+  Si  Si6  1  0.667866  0.166167  0.332135  1
+  Si  Si7  1  0.332136  0.833831  0.667865  1
+  Si  Si8  1  0.166169  0.667864  0.833832  1
+  Si  Si9  1  0.165671  0.165669  0.834330  1
+  Pt  Pt10  1  0.667136  0.667134  0.332865  1
+  Pt  Pt11  1  0.332866  0.332864  0.667135  1

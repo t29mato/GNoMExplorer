@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Pa(Ti3Bi2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.53627444
+_cell_length_b   8.53627366
+_cell_length_c   8.53627350
+_cell_angle_alpha   40.14274695
+_cell_angle_beta   40.14274986
+_cell_angle_gamma   40.14275386
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pa(Ti3Bi2)2
+_chemical_formula_sum   'Pa1 Ti6 Bi4'
+_cell_volume   233.00739012
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.000000  0.000000  0.000000  1
+  Ti  Ti1  1  0.593797  0.593797  0.122155  1
+  Ti  Ti2  1  0.877844  0.406203  0.406203  1
+  Ti  Ti3  1  0.406203  0.877844  0.406203  1
+  Ti  Ti4  1  0.593797  0.122156  0.593797  1
+  Ti  Ti5  1  0.122156  0.593797  0.593797  1
+  Ti  Ti6  1  0.406203  0.406203  0.877844  1
+  Bi  Bi7  1  0.131554  0.131554  0.131554  1
+  Bi  Bi8  1  0.330822  0.330822  0.330822  1
+  Bi  Bi9  1  0.669178  0.669178  0.669178  1
+  Bi  Bi10  1  0.868446  0.868446  0.868446  1

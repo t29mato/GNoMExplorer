@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_PaSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.90153500
+_cell_length_b   7.53272000
+_cell_length_c   10.31062100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PaSe2
+_chemical_formula_sum   'Pa4 Se8'
+_cell_volume   303.02060085
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.750000  0.170012  0.661407  1
+  Pa  Pa1  1  0.750000  0.670012  0.838593  1
+  Pa  Pa2  1  0.250000  0.829988  0.338593  1
+  Pa  Pa3  1  0.250000  0.329988  0.161407  1
+  Se  Se4  1  0.750000  0.812634  0.548974  1
+  Se  Se5  1  0.750000  0.312634  0.951026  1
+  Se  Se6  1  0.250000  0.187366  0.451026  1
+  Se  Se7  1  0.250000  0.687366  0.048974  1
+  Se  Se8  1  0.750000  0.037243  0.199119  1
+  Se  Se9  1  0.750000  0.537243  0.300881  1
+  Se  Se10  1  0.250000  0.962757  0.800881  1
+  Se  Se11  1  0.250000  0.462757  0.699119  1

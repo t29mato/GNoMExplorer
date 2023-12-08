@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Pa4Al3Re2Tc3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.43994000
+_cell_length_b   5.36897533
+_cell_length_c   8.75814000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.56941080
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pa4Al3Re2Tc3
+_chemical_formula_sum   'Pa4 Al3 Re2 Tc3'
+_cell_volume   222.48261964
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.343191  0.671596  0.440848  1
+  Pa  Pa1  1  0.654482  0.327240  0.560863  1
+  Pa  Pa2  1  0.654482  0.327240  0.939137  1
+  Pa  Pa3  1  0.343191  0.671596  0.059152  1
+  Al  Al4  1  0.333221  0.166611  0.250000  1
+  Al  Al5  1  0.158998  0.828307  0.750000  1
+  Al  Al6  1  0.158998  0.330691  0.750000  1
+  Re  Re7  1  0.833146  0.178338  0.250000  1
+  Re  Re8  1  0.833146  0.654810  0.250000  1
+  Tc  Tc9  1  0.015504  0.007751  0.498774  1
+  Tc  Tc10  1  0.015504  0.007751  0.001226  1
+  Tc  Tc11  1  0.656137  0.828068  0.750000  1

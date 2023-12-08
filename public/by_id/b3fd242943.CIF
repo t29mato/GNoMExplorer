@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CeTm(AlRh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.25949600
+_cell_length_b   6.85052442
+_cell_length_c   7.95105848
+_cell_angle_alpha   90.04005182
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeTm(AlRh)2
+_chemical_formula_sum   'Ce2 Tm2 Al4 Rh4'
+_cell_volume   232.01009149
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.250000  0.963140  0.324511  1
+  Ce  Ce1  1  0.750000  0.536793  0.824537  1
+  Tm  Tm2  1  0.250000  0.458777  0.181778  1
+  Tm  Tm3  1  0.750000  0.041311  0.681822  1
+  Al  Al4  1  0.750000  0.630187  0.440027  1
+  Al  Al5  1  0.750000  0.134680  0.058541  1
+  Al  Al6  1  0.250000  0.365243  0.558339  1
+  Al  Al7  1  0.250000  0.869901  0.939965  1
+  Rh  Rh8  1  0.750000  0.757730  0.119780  1
+  Rh  Rh9  1  0.750000  0.259962  0.375381  1
+  Rh  Rh10  1  0.250000  0.240009  0.875468  1
+  Rh  Rh11  1  0.250000  0.742266  0.619851  1

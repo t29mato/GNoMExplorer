@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_SmPu(CBr)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.05830288
+_cell_length_b   4.05830420
+_cell_length_c   10.81217029
+_cell_angle_alpha   81.50192289
+_cell_angle_beta   81.50192091
+_cell_angle_gamma   56.83152971
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmPu(CBr)2
+_chemical_formula_sum   'Sm1 Pu1 C2 Br2'
+_cell_volume   146.94099932
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.408112  0.408112  0.861597  1
+  Pu  Pu1  1  0.590804  0.590804  0.139364  1
+  C  C2  1  0.909676  0.909676  0.034486  1
+  C  C3  1  0.084269  0.084269  0.966503  1
+  Br  Br4  1  0.796647  0.796647  0.680530  1
+  Br  Br5  1  0.210493  0.210493  0.317519  1

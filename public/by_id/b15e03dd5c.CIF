@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ScPaGa3Tc
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.27953800
+_cell_length_b   5.27953934
+_cell_length_c   8.97369400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000413
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScPaGa3Tc
+_chemical_formula_sum   'Sc2 Pa2 Ga6 Tc2'
+_cell_volume   216.61764019
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.666667  0.333333  0.940212  1
+  Sc  Sc1  1  0.333333  0.666667  0.059788  1
+  Pa  Pa2  1  0.333333  0.666667  0.465775  1
+  Pa  Pa3  1  0.666667  0.333333  0.534225  1
+  Ga  Ga4  1  0.833170  0.166830  0.238766  1
+  Ga  Ga5  1  0.833170  0.666340  0.238766  1
+  Ga  Ga6  1  0.333660  0.166830  0.238766  1
+  Ga  Ga7  1  0.166830  0.833170  0.761234  1
+  Ga  Ga8  1  0.166830  0.333660  0.761234  1
+  Ga  Ga9  1  0.666340  0.833170  0.761234  1
+  Tc  Tc10  1  0.000000  0.000000  0.500000  1
+  Tc  Tc11  1  0.000000  0.000000  0.000000  1

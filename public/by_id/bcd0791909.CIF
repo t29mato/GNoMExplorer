@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Zr2MnAs2Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.88020700
+_cell_length_b   6.66373279
+_cell_length_c   7.75112623
+_cell_angle_alpha   90.60275707
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr2MnAs2Pd
+_chemical_formula_sum   'Zr4 Mn2 As4 Pd2'
+_cell_volume   200.40716544
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.250000  0.030455  0.816797  1
+  Zr  Zr1  1  0.750000  0.969545  0.183203  1
+  Zr  Zr2  1  0.250000  0.530777  0.672513  1
+  Zr  Zr3  1  0.750000  0.469223  0.327487  1
+  Mn  Mn4  1  0.750000  0.869587  0.555737  1
+  Mn  Mn5  1  0.250000  0.130413  0.444263  1
+  As  As6  1  0.250000  0.768510  0.385868  1
+  As  As7  1  0.750000  0.231490  0.614132  1
+  As  As8  1  0.250000  0.252815  0.140871  1
+  As  As9  1  0.750000  0.747185  0.859129  1
+  Pd  Pd10  1  0.750000  0.351905  0.936000  1
+  Pd  Pd11  1  0.250000  0.648095  0.064000  1

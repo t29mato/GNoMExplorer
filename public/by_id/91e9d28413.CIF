@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Er2Al2CuRu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.23401000
+_cell_length_b   6.80633500
+_cell_length_c   7.84807600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er2Al2CuRu
+_chemical_formula_sum   'Er4 Al4 Cu2 Ru2'
+_cell_volume   226.16656405
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.250000  0.969770  0.321808  1
+  Er  Er1  1  0.250000  0.469770  0.178192  1
+  Er  Er2  1  0.750000  0.023828  0.683501  1
+  Er  Er3  1  0.750000  0.523828  0.816499  1
+  Al  Al4  1  0.250000  0.355511  0.558194  1
+  Al  Al5  1  0.250000  0.855511  0.941806  1
+  Al  Al6  1  0.750000  0.646689  0.439020  1
+  Al  Al7  1  0.750000  0.146689  0.060980  1
+  Cu  Cu8  1  0.750000  0.773129  0.125269  1
+  Cu  Cu9  1  0.750000  0.273129  0.374731  1
+  Ru  Ru10  1  0.250000  0.231071  0.882284  1
+  Ru  Ru11  1  0.250000  0.731071  0.617716  1

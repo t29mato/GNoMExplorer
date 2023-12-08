@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_MnBi3Ru2(RhO7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.32869015
+_cell_length_b   7.21434968
+_cell_length_c   7.32869043
+_cell_angle_alpha   59.43628684
+_cell_angle_beta   59.99616572
+_cell_angle_gamma   59.43628231
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnBi3Ru2(RhO7)2
+_chemical_formula_sum   'Mn1 Bi3 Ru2 Rh2 O14'
+_cell_volume   271.62459811
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.125000  0.625000  0.125000  1
+  Bi  Bi1  1  0.125000  0.125000  0.125000  1
+  Bi  Bi2  1  0.625000  0.125000  0.125000  1
+  Bi  Bi3  1  0.125000  0.125000  0.625000  1
+  Ru  Ru4  1  0.625000  0.625000  0.125000  1
+  Ru  Ru5  1  0.125000  0.625000  0.625000  1
+  Rh  Rh6  1  0.625000  0.625000  0.625000  1
+  Rh  Rh7  1  0.625000  0.125000  0.625000  1
+  O  O8  1  0.238169  0.281139  0.238169  1
+  O  O9  1  0.310426  0.706322  0.310426  1
+  O  O10  1  0.957898  0.957433  0.539646  1
+  O  O11  1  0.538517  0.962232  0.538517  1
+  O  O12  1  0.712006  0.700269  0.289920  1
+  O  O13  1  0.960080  0.549731  0.537994  1
+  O  O14  1  0.711483  0.287768  0.711483  1
+  O  O15  1  0.292102  0.292567  0.710354  1
+  O  O16  1  0.710354  0.292567  0.292102  1
+  O  O17  1  0.289920  0.700269  0.712006  1
+  O  O18  1  0.939574  0.543678  0.939574  1
+  O  O19  1  0.537994  0.549731  0.960080  1
+  O  O20  1  0.011831  0.968861  0.011831  1
+  O  O21  1  0.539646  0.957433  0.957898  1

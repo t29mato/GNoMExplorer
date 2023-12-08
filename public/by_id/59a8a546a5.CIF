@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ho3Er4Tm(Si3Rh)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.14413512
+_cell_length_b   8.14413670
+_cell_length_c   7.83060100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99832143
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho3Er4Tm(Si3Rh)4
+_chemical_formula_sum   'Ho3 Er4 Tm1 Si12 Rh4'
+_cell_volume   449.80377662
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.000075  0.999925  0.250000  1
+  Ho  Ho1  1  0.999975  0.000025  0.750000  1
+  Ho  Ho2  1  0.491457  0.508543  0.250000  1
+  Er  Er3  1  0.491554  0.983250  0.250000  1
+  Er  Er4  1  0.016750  0.508446  0.250000  1
+  Er  Er5  1  0.982486  0.491218  0.750000  1
+  Er  Er6  1  0.508782  0.017514  0.750000  1
+  Tm  Tm7  1  0.508580  0.491420  0.750000  1
+  Si  Si8  1  0.833099  0.166901  0.501088  1
+  Si  Si9  1  0.832939  0.665978  0.501449  1
+  Si  Si10  1  0.334022  0.167061  0.501449  1
+  Si  Si11  1  0.833099  0.166901  0.998912  1
+  Si  Si12  1  0.832939  0.665978  0.998551  1
+  Si  Si13  1  0.334022  0.167061  0.998551  1
+  Si  Si14  1  0.167079  0.832921  0.001122  1
+  Si  Si15  1  0.665802  0.832913  0.000713  1
+  Si  Si16  1  0.167087  0.334198  0.000713  1
+  Si  Si17  1  0.167079  0.832921  0.498878  1
+  Si  Si18  1  0.665802  0.832913  0.499287  1
+  Si  Si19  1  0.167087  0.334198  0.499287  1
+  Rh  Rh20  1  0.666803  0.333197  0.466567  1
+  Rh  Rh21  1  0.666803  0.333197  0.033433  1
+  Rh  Rh22  1  0.333338  0.666662  0.964515  1
+  Rh  Rh23  1  0.333338  0.666662  0.535485  1

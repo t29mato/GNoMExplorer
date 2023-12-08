@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_TmPa3Si6Os7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.08945935
+_cell_length_b   7.08945896
+_cell_length_c   7.07903500
+_cell_angle_alpha   109.44143552
+_cell_angle_beta   109.44143442
+_cell_angle_gamma   109.50099153
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TmPa3Si6Os7
+_chemical_formula_sum   'Tm1 Pa3 Si6 Os7'
+_cell_volume   273.99199981
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.000000  0.000000  0.500000  1
+  Pa  Pa1  1  0.000000  0.500000  0.000000  1
+  Pa  Pa2  1  0.500000  0.000000  0.000000  1
+  Pa  Pa3  1  0.500000  0.500000  0.500000  1
+  Si  Si4  1  0.687799  0.687799  0.005364  1
+  Si  Si5  1  0.312201  0.000000  0.317565  1
+  Si  Si6  1  0.000000  0.312201  0.317565  1
+  Si  Si7  1  0.312201  0.312201  0.994636  1
+  Si  Si8  1  0.687799  0.000000  0.682435  1
+  Si  Si9  1  0.000000  0.687799  0.682435  1
+  Os  Os10  1  0.749362  0.250638  0.500000  1
+  Os  Os11  1  0.749362  0.498724  0.249362  1
+  Os  Os12  1  0.501276  0.250638  0.750638  1
+  Os  Os13  1  0.250638  0.501276  0.750638  1
+  Os  Os14  1  0.250638  0.749362  0.500000  1
+  Os  Os15  1  0.498724  0.749362  0.249362  1
+  Os  Os16  1  0.000000  0.000000  0.000000  1

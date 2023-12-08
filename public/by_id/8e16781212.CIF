@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Tb3Dy(InGa2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.24567438
+_cell_length_b   7.24567438
+_cell_length_c   4.46205600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.07077288
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb3Dy(InGa2)2
+_chemical_formula_sum   'Tb3 Dy1 In2 Ga4'
+_cell_volume   234.25685660
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.172647  0.327242  0.500000  1
+  Tb  Tb1  1  0.827242  0.672647  0.500000  1
+  Tb  Tb2  1  0.327456  0.827456  0.500000  1
+  Dy  Dy3  1  0.672670  0.172670  0.500000  1
+  In  In4  1  0.999930  0.000062  0.000000  1
+  In  In5  1  0.500062  0.499930  0.000000  1
+  Ga  Ga6  1  0.125813  0.625813  0.000000  1
+  Ga  Ga7  1  0.873952  0.373952  0.000000  1
+  Ga  Ga8  1  0.374348  0.125880  0.000000  1
+  Ga  Ga9  1  0.625880  0.874348  0.000000  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ho9Tm(InBi)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.54116600
+_cell_length_b   9.02383959
+_cell_length_c   9.02457200
+_cell_angle_alpha   119.99720375
+_cell_angle_beta   89.99895714
+_cell_angle_gamma   89.99971091
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho9Tm(InBi)3
+_chemical_formula_sum   'Ho9 Tm1 In3 Bi3'
+_cell_volume   461.33459088
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.493085  0.333332  0.666653  1
+  Ho  Ho1  1  0.493060  0.666674  0.333345  1
+  Ho  Ho2  1  0.006765  0.666675  0.333341  1
+  Ho  Ho3  1  0.750127  0.236244  0.999971  1
+  Ho  Ho4  1  0.750126  0.763538  0.763626  1
+  Ho  Ho5  1  0.750118  0.999945  0.236400  1
+  Ho  Ho6  1  0.249892  0.762062  0.999897  1
+  Ho  Ho7  1  0.249885  0.238039  0.238058  1
+  Ho  Ho8  1  0.249886  0.000191  0.762055  1
+  Tm  Tm9  1  0.007384  0.333337  0.666657  1
+  In  In10  1  0.249629  0.393619  0.999683  1
+  In  In11  1  0.249631  0.606181  0.606482  1
+  In  In12  1  0.249618  0.000338  0.393842  1
+  Bi  Bi13  1  0.750269  0.603522  0.999539  1
+  Bi  Bi14  1  0.750260  0.395874  0.396346  1
+  Bi  Bi15  1  0.750263  0.000432  0.604107  1

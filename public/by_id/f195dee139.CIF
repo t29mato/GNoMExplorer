@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_La2Si5PPd20Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.73787079
+_cell_length_b   8.73787039
+_cell_length_c   8.73263400
+_cell_angle_alpha   60.01982189
+_cell_angle_beta   60.01982340
+_cell_angle_gamma   59.96035153
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2Si5PPd20Au
+_chemical_formula_sum   'La2 Si5 P1 Pd20 Au1'
+_cell_volume   471.45598716
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.749945  0.749945  0.750055  1
+  La  La1  1  0.249945  0.249945  0.250055  1
+  Si  Si2  1  0.265883  0.265883  0.734117  1
+  Si  Si3  1  0.734017  0.265130  0.734870  1
+  Si  Si4  1  0.265130  0.734017  0.265983  1
+  Si  Si5  1  0.265130  0.734017  0.734870  1
+  Si  Si6  1  0.734017  0.265130  0.265983  1
+  P  P7  1  0.733985  0.733985  0.266015  1
+  Pd  Pd8  1  0.614799  0.614799  0.613203  1
+  Pd  Pd9  1  0.385506  0.385506  0.385234  1
+  Pd  Pd10  1  0.156244  0.614766  0.614494  1
+  Pd  Pd11  1  0.614766  0.156244  0.614494  1
+  Pd  Pd12  1  0.842802  0.386797  0.385201  1
+  Pd  Pd13  1  0.386797  0.842802  0.385201  1
+  Pd  Pd14  1  0.614799  0.614799  0.157198  1
+  Pd  Pd15  1  0.385506  0.385506  0.843756  1
+  Pd  Pd16  1  0.000296  0.000296  0.655140  1
+  Pd  Pd17  1  0.000296  0.000296  0.344268  1
+  Pd  Pd18  1  0.344860  0.655732  0.999704  1
+  Pd  Pd19  1  0.655732  0.344860  0.999704  1
+  Pd  Pd20  1  0.998532  0.656524  0.001468  1
+  Pd  Pd21  1  0.656524  0.998532  0.343476  1
+  Pd  Pd22  1  0.000001  0.344185  0.999999  1
+  Pd  Pd23  1  0.344185  0.000001  0.655815  1
+  Pd  Pd24  1  0.656524  0.998532  0.001468  1
+  Pd  Pd25  1  0.344185  0.000001  0.999999  1
+  Pd  Pd26  1  0.998532  0.656524  0.343476  1
+  Pd  Pd27  1  0.000001  0.344185  0.655815  1
+  Au  Au28  1  0.001063  0.001063  0.998937  1

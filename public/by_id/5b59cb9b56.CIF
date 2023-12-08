@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Cs2RbInBi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.38881509
+_cell_length_b   10.38881568
+_cell_length_c   10.38881559
+_cell_angle_alpha   129.30785516
+_cell_angle_beta   135.02839299
+_cell_angle_gamma   70.06559977
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2RbInBi2
+_chemical_formula_sum   'Cs4 Rb2 In2 Bi4'
+_cell_volume   601.25391085
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.673542  0.462915  0.789374  1
+  Cs  Cs1  1  0.826458  0.115832  0.289374  1
+  Cs  Cs2  1  0.173542  0.884168  0.710626  1
+  Cs  Cs3  1  0.326458  0.537085  0.210626  1
+  Rb  Rb4  1  0.750000  0.000000  0.750000  1
+  Rb  Rb5  1  0.250000  0.000000  0.250000  1
+  In  In6  1  0.250000  0.500000  0.750000  1
+  In  In7  1  0.750000  0.500000  0.250000  1
+  Bi  Bi8  1  0.405785  0.215203  0.809417  1
+  Bi  Bi9  1  0.594215  0.784797  0.190583  1
+  Bi  Bi10  1  0.094215  0.403632  0.309417  1
+  Bi  Bi11  1  0.905785  0.596368  0.690583  1

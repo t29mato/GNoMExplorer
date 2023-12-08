@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_PrY2Cu4(SiSn)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.27762463
+_cell_length_b   8.27762513
+_cell_length_c   8.27762438
+_cell_angle_alpha   149.45929013
+_cell_angle_beta   131.98886475
+_cell_angle_gamma   57.97734361
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrY2Cu4(SiSn)2
+_chemical_formula_sum   'Pr1 Y2 Cu4 Si2 Sn2'
+_cell_volume   212.63018798
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.500000  0.000000  0.500000  1
+  Y  Y1  1  0.123684  0.123684  0.000000  1
+  Y  Y2  1  0.876316  0.876316  0.000000  1
+  Cu  Cu3  1  0.464342  0.653510  0.810832  1
+  Cu  Cu4  1  0.842677  0.653510  0.189168  1
+  Cu  Cu5  1  0.157323  0.346490  0.810832  1
+  Cu  Cu6  1  0.535658  0.346490  0.189168  1
+  Si  Si7  1  0.177911  0.500000  0.677911  1
+  Si  Si8  1  0.822089  0.500000  0.322089  1
+  Sn  Sn9  1  0.719859  0.219859  0.500000  1
+  Sn  Sn10  1  0.280141  0.780141  0.500000  1

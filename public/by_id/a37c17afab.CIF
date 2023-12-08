@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_LiYP6Pd20Pb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.64654681
+_cell_length_b   8.64649617
+_cell_length_c   8.64673102
+_cell_angle_alpha   60.00430026
+_cell_angle_beta   60.00431788
+_cell_angle_gamma   60.00453816
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiYP6Pd20Pb
+_chemical_formula_sum   'Li1 Y1 P6 Pd20 Pb1'
+_cell_volume   457.15447928
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.999983  0.999998  0.000004  1
+  Y  Y1  1  0.749990  0.749988  0.750004  1
+  P  P2  1  0.739177  0.260826  0.260832  1
+  P  P3  1  0.260815  0.739168  0.739167  1
+  P  P4  1  0.260826  0.739176  0.260833  1
+  P  P5  1  0.739172  0.260813  0.739166  1
+  P  P6  1  0.260823  0.260822  0.739181  1
+  P  P7  1  0.739164  0.739163  0.260822  1
+  Pd  Pd8  1  0.384441  0.384436  0.384450  1
+  Pd  Pd9  1  0.614712  0.614716  0.614712  1
+  Pd  Pd10  1  0.384409  0.384409  0.846740  1
+  Pd  Pd11  1  0.384392  0.846785  0.384402  1
+  Pd  Pd12  1  0.614725  0.614727  0.155825  1
+  Pd  Pd13  1  0.614728  0.155815  0.614728  1
+  Pd  Pd14  1  0.846780  0.384391  0.384401  1
+  Pd  Pd15  1  0.155818  0.614729  0.614728  1
+  Pd  Pd16  1  0.347334  0.996582  0.996590  1
+  Pd  Pd17  1  0.659476  0.996578  0.996592  1
+  Pd  Pd18  1  0.996577  0.347342  0.659494  1
+  Pd  Pd19  1  0.996578  0.659482  0.347344  1
+  Pd  Pd20  1  0.996583  0.347334  0.996590  1
+  Pd  Pd21  1  0.659479  0.996578  0.347348  1
+  Pd  Pd22  1  0.996581  0.659474  0.996589  1
+  Pd  Pd23  1  0.347344  0.996573  0.659491  1
+  Pd  Pd24  1  0.996578  0.996581  0.347351  1
+  Pd  Pd25  1  0.996584  0.996577  0.659477  1
+  Pd  Pd26  1  0.659484  0.347331  0.996592  1
+  Pd  Pd27  1  0.347327  0.659483  0.996591  1
+  Pb  Pb28  1  0.250117  0.250127  0.249957  1

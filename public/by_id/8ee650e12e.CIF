@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Lu3Ga2Pb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.24504500
+_cell_length_b   9.14195400
+_cell_length_c   9.75878800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu3Ga2Pb
+_chemical_formula_sum   'Lu12 Ga8 Pb4'
+_cell_volume   557.14788639
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.000000  0.750000  0.127693  1
+  Lu  Lu1  1  0.500000  0.250000  0.872307  1
+  Lu  Lu2  1  0.000000  0.250000  0.872307  1
+  Lu  Lu3  1  0.500000  0.750000  0.127693  1
+  Lu  Lu4  1  0.750000  0.478504  0.606376  1
+  Lu  Lu5  1  0.250000  0.521496  0.393624  1
+  Lu  Lu6  1  0.750000  0.978504  0.393624  1
+  Lu  Lu7  1  0.250000  0.021496  0.606376  1
+  Lu  Lu8  1  0.750000  0.368671  0.211839  1
+  Lu  Lu9  1  0.250000  0.631329  0.788161  1
+  Lu  Lu10  1  0.750000  0.868671  0.788161  1
+  Lu  Lu11  1  0.250000  0.131329  0.211839  1
+  Ga  Ga12  1  0.000000  0.750000  0.549840  1
+  Ga  Ga13  1  0.500000  0.250000  0.450160  1
+  Ga  Ga14  1  0.000000  0.250000  0.450160  1
+  Ga  Ga15  1  0.500000  0.750000  0.549840  1
+  Ga  Ga16  1  0.750000  0.143635  0.645613  1
+  Ga  Ga17  1  0.250000  0.856365  0.354387  1
+  Ga  Ga18  1  0.750000  0.643635  0.354387  1
+  Ga  Ga19  1  0.250000  0.356365  0.645613  1
+  Pb  Pb20  1  0.750000  0.055669  0.088190  1
+  Pb  Pb21  1  0.250000  0.944331  0.911810  1
+  Pb  Pb22  1  0.750000  0.555669  0.911810  1
+  Pb  Pb23  1  0.250000  0.444331  0.088190  1

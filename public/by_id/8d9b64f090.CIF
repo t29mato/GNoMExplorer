@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Mn6Fe2ReW3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.66404800
+_cell_length_b   4.66404895
+_cell_length_c   7.78967900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00002160
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn6Fe2ReW3
+_chemical_formula_sum   'Mn6 Fe2 Re1 W3'
+_cell_volume   146.74935806
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.827545  0.172455  0.751091  1
+  Mn  Mn1  1  0.827545  0.655090  0.751091  1
+  Mn  Mn2  1  0.344910  0.172455  0.751091  1
+  Mn  Mn3  1  0.173046  0.826954  0.249636  1
+  Mn  Mn4  1  0.173046  0.346094  0.249636  1
+  Mn  Mn5  1  0.653906  0.826954  0.249636  1
+  Fe  Fe6  1  0.000000  0.000000  0.000244  1
+  Fe  Fe7  1  0.000000  0.000000  0.499965  1
+  Re  Re8  1  0.333333  0.666667  0.931459  1
+  W  W9  1  0.666667  0.333333  0.062767  1
+  W  W10  1  0.666667  0.333333  0.434853  1
+  W  W11  1  0.333333  0.666667  0.568531  1

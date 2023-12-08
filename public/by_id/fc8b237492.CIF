@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ti5V(SnRh2)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.15665300
+_cell_length_b   7.32234200
+_cell_length_c   12.56116100
+_cell_angle_alpha   89.99995372
+_cell_angle_beta   89.99905230
+_cell_angle_gamma   90.00008830
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti5V(SnRh2)6
+_chemical_formula_sum   'Ti5 V1 Sn6 Rh12'
+_cell_volume   382.31695828
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.500005  0.000000  0.168055  1
+  Ti  Ti1  1  0.000003  0.499999  0.330785  1
+  Ti  Ti2  1  0.499999  0.000000  0.500000  1
+  Ti  Ti3  1  0.999997  0.499999  0.669215  1
+  Ti  Ti4  1  0.499993  0.000000  0.831946  1
+  V  V5  1  0.000000  0.499999  0.000000  1
+  Sn  Sn6  1  0.000000  0.000000  0.000000  1
+  Sn  Sn7  1  0.499950  0.499999  0.160020  1
+  Sn  Sn8  1  0.000005  0.000000  0.334215  1
+  Sn  Sn9  1  0.499999  0.499999  0.500000  1
+  Sn  Sn10  1  0.999995  0.000000  0.665784  1
+  Sn  Sn11  1  0.500051  0.499999  0.839980  1
+  Rh  Rh12  1  0.499999  0.239640  0.000000  1
+  Rh  Rh13  1  0.499999  0.760360  0.000000  1
+  Rh  Rh14  1  0.000003  0.247621  0.167482  1
+  Rh  Rh15  1  0.000003  0.752379  0.167482  1
+  Rh  Rh16  1  0.500003  0.252836  0.332997  1
+  Rh  Rh17  1  0.500004  0.747164  0.332997  1
+  Rh  Rh18  1  0.000000  0.250464  0.500000  1
+  Rh  Rh19  1  0.000000  0.749536  0.500000  1
+  Rh  Rh20  1  0.499994  0.252836  0.667002  1
+  Rh  Rh21  1  0.499995  0.747164  0.667002  1
+  Rh  Rh22  1  0.999997  0.247621  0.832518  1
+  Rh  Rh23  1  0.999997  0.752379  0.832518  1

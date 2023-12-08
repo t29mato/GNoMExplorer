@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_YbTa8(CS2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.31099747
+_cell_length_b   10.31099678
+_cell_length_c   10.31099600
+_cell_angle_alpha   37.60696123
+_cell_angle_beta   37.60696685
+_cell_angle_gamma   37.60695974
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbTa8(CS2)4
+_chemical_formula_sum   'Yb1 Ta8 C4 S8'
+_cell_volume   366.18249811
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.000000  0.000000  0.000000  1
+  Ta  Ta1  1  0.879984  0.370266  0.370266  1
+  Ta  Ta2  1  0.873728  0.873728  0.873728  1
+  Ta  Ta3  1  0.370266  0.879984  0.370266  1
+  Ta  Ta4  1  0.370266  0.370266  0.879984  1
+  Ta  Ta5  1  0.120016  0.629734  0.629734  1
+  Ta  Ta6  1  0.126272  0.126272  0.126272  1
+  Ta  Ta7  1  0.629734  0.120016  0.629734  1
+  Ta  Ta8  1  0.629734  0.629734  0.120016  1
+  C  C9  1  0.000000  0.000000  0.500000  1
+  C  C10  1  0.000000  0.500000  0.000000  1
+  C  C11  1  0.500000  0.500000  0.500000  1
+  C  C12  1  0.500000  0.000000  0.000000  1
+  S  S13  1  0.733170  0.238323  0.238323  1
+  S  S14  1  0.735765  0.735765  0.735765  1
+  S  S15  1  0.238323  0.733170  0.238323  1
+  S  S16  1  0.238323  0.238323  0.733170  1
+  S  S17  1  0.266830  0.761677  0.761677  1
+  S  S18  1  0.264235  0.264235  0.264235  1
+  S  S19  1  0.761677  0.266830  0.761677  1
+  S  S20  1  0.761677  0.761677  0.266830  1

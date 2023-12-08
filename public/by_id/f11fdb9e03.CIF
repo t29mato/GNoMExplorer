@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Li4Ca4Ag3Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.29837500
+_cell_length_b   7.44665152
+_cell_length_c   8.62528900
+_cell_angle_alpha   90.12777714
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li4Ca4Ag3Pd
+_chemical_formula_sum   'Li4 Ca4 Ag3 Pd1'
+_cell_volume   276.08188261
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.250000  0.872453  0.061550  1
+  Li  Li1  1  0.250000  0.358389  0.432525  1
+  Li  Li2  1  0.750000  0.637209  0.561072  1
+  Li  Li3  1  0.750000  0.142411  0.947539  1
+  Ca  Ca4  1  0.750000  0.037100  0.308790  1
+  Ca  Ca5  1  0.250000  0.462549  0.827785  1
+  Ca  Ca6  1  0.750000  0.516754  0.179340  1
+  Ca  Ca7  1  0.250000  0.969347  0.680935  1
+  Ag  Ag8  1  0.250000  0.731859  0.375364  1
+  Ag  Ag9  1  0.750000  0.268561  0.622702  1
+  Ag  Ag10  1  0.750000  0.767922  0.878781  1
+  Pd  Pd11  1  0.250000  0.235448  0.123617  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Tb2Er2ScOs7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.39073600
+_cell_length_b   5.39073659
+_cell_length_c   8.89430100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999639
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2Er2ScOs7
+_chemical_formula_sum   'Tb2 Er2 Sc1 Os7'
+_cell_volume   223.84048850
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.333333  0.666667  0.422662  1
+  Tb  Tb1  1  0.666667  0.333333  0.577338  1
+  Er  Er2  1  0.666667  0.333333  0.940269  1
+  Er  Er3  1  0.333333  0.666667  0.059731  1
+  Sc  Sc4  1  0.000000  0.000000  0.500000  1
+  Os  Os5  1  0.000000  0.000000  0.000000  1
+  Os  Os6  1  0.827408  0.172592  0.243480  1
+  Os  Os7  1  0.827408  0.654817  0.243480  1
+  Os  Os8  1  0.345183  0.172592  0.243480  1
+  Os  Os9  1  0.172592  0.827408  0.756520  1
+  Os  Os10  1  0.172592  0.345183  0.756520  1
+  Os  Os11  1  0.654817  0.827408  0.756520  1

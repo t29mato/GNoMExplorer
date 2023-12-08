@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ho5(FeTe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.80268710
+_cell_length_b   7.80268725
+_cell_length_c   15.15530700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   150.78541640
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho5(FeTe)2
+_chemical_formula_sum   'Ho10 Fe4 Te4'
+_cell_volume   450.34544011
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.960864  0.039136  0.121339  1
+  Ho  Ho1  1  0.039136  0.960864  0.878661  1
+  Ho  Ho2  1  0.039136  0.960864  0.621339  1
+  Ho  Ho3  1  0.960864  0.039136  0.378661  1
+  Ho  Ho4  1  0.742749  0.257251  0.629225  1
+  Ho  Ho5  1  0.257251  0.742749  0.370775  1
+  Ho  Ho6  1  0.257251  0.742749  0.129225  1
+  Ho  Ho7  1  0.742749  0.257251  0.870775  1
+  Ho  Ho8  1  0.604108  0.395892  0.250000  1
+  Ho  Ho9  1  0.395892  0.604108  0.750000  1
+  Fe  Fe10  1  0.405849  0.594151  0.250000  1
+  Fe  Fe11  1  0.594151  0.405849  0.750000  1
+  Fe  Fe12  1  0.827898  0.172102  0.250000  1
+  Fe  Fe13  1  0.172102  0.827898  0.750000  1
+  Te  Te14  1  0.617815  0.382185  0.039100  1
+  Te  Te15  1  0.382185  0.617815  0.960900  1
+  Te  Te16  1  0.382185  0.617815  0.539100  1
+  Te  Te17  1  0.617815  0.382185  0.460900  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HoLu(MgIr4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.27463900
+_cell_length_b   5.27463843
+_cell_length_c   8.55219100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999730
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoLu(MgIr4)2
+_chemical_formula_sum   'Ho1 Lu1 Mg2 Ir8'
+_cell_volume   206.05989362
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.333333  0.666667  0.069278  1
+  Lu  Lu1  1  0.666667  0.333333  0.569348  1
+  Mg  Mg2  1  0.666667  0.333333  0.935029  1
+  Mg  Mg3  1  0.333333  0.666667  0.435589  1
+  Ir  Ir4  1  0.000000  0.000000  0.996365  1
+  Ir  Ir5  1  0.000000  0.000000  0.496706  1
+  Ir  Ir6  1  0.828737  0.657474  0.250192  1
+  Ir  Ir7  1  0.171107  0.828893  0.749036  1
+  Ir  Ir8  1  0.657785  0.828893  0.749036  1
+  Ir  Ir9  1  0.342526  0.171263  0.250192  1
+  Ir  Ir10  1  0.828737  0.171263  0.250192  1
+  Ir  Ir11  1  0.171107  0.342215  0.749036  1

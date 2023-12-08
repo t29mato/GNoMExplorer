@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ti4CoSi4Ir3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.83554600
+_cell_length_b   6.24120844
+_cell_length_c   7.18241665
+_cell_angle_alpha   89.88203407
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti4CoSi4Ir3
+_chemical_formula_sum   'Ti4 Co1 Si4 Ir3'
+_cell_volume   171.93550060
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.250000  0.021749  0.813761  1
+  Ti  Ti1  1  0.750000  0.482045  0.322644  1
+  Ti  Ti2  1  0.250000  0.521537  0.679211  1
+  Ti  Ti3  1  0.750000  0.972638  0.184994  1
+  Co  Co4  1  0.750000  0.850476  0.561235  1
+  Si  Si5  1  0.750000  0.732546  0.865263  1
+  Si  Si6  1  0.250000  0.768840  0.388760  1
+  Si  Si7  1  0.750000  0.224166  0.621151  1
+  Si  Si8  1  0.250000  0.272606  0.124637  1
+  Ir  Ir9  1  0.250000  0.660354  0.061938  1
+  Ir  Ir10  1  0.750000  0.344396  0.937382  1
+  Ir  Ir11  1  0.250000  0.148648  0.439024  1

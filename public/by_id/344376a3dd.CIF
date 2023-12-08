@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_MgZr12Cu3(Ir2N)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.56238481
+_cell_length_b   8.51395559
+_cell_length_c   8.56238400
+_cell_angle_alpha   59.81165942
+_cell_angle_beta   60.00000314
+_cell_angle_gamma   59.81165611
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgZr12Cu3(Ir2N)4
+_chemical_formula_sum   'Mg1 Zr12 Cu3 Ir8 N4'
+_cell_volume   440.11240127
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.625000  0.125000  0.625000  1
+  Zr  Zr1  1  0.805735  0.805681  0.194292  1
+  Zr  Zr2  1  0.190526  0.194707  0.807384  1
+  Zr  Zr3  1  0.807384  0.194707  0.807384  1
+  Zr  Zr4  1  0.194292  0.805681  0.194292  1
+  Zr  Zr5  1  0.194292  0.805681  0.805735  1
+  Zr  Zr6  1  0.807384  0.194707  0.190526  1
+  Zr  Zr7  1  0.444265  0.444319  0.055708  1
+  Zr  Zr8  1  0.059474  0.055293  0.442616  1
+  Zr  Zr9  1  0.442616  0.055293  0.442616  1
+  Zr  Zr10  1  0.055708  0.444319  0.055708  1
+  Zr  Zr11  1  0.055708  0.444319  0.444265  1
+  Zr  Zr12  1  0.442616  0.055293  0.059474  1
+  Cu  Cu13  1  0.125000  0.625000  0.625000  1
+  Cu  Cu14  1  0.625000  0.625000  0.125000  1
+  Cu  Cu15  1  0.625000  0.625000  0.625000  1
+  Ir  Ir16  1  0.752630  0.419741  0.413815  1
+  Ir  Ir17  1  0.415839  0.752484  0.415839  1
+  Ir  Ir18  1  0.413815  0.419741  0.752630  1
+  Ir  Ir19  1  0.413815  0.419741  0.413815  1
+  Ir  Ir20  1  0.497370  0.830259  0.836185  1
+  Ir  Ir21  1  0.834161  0.497516  0.834161  1
+  Ir  Ir22  1  0.836185  0.830259  0.497370  1
+  Ir  Ir23  1  0.836185  0.830259  0.836185  1
+  N  N24  1  0.625000  0.125000  0.125000  1
+  N  N25  1  0.125000  0.625000  0.125000  1
+  N  N26  1  0.125000  0.125000  0.625000  1
+  N  N27  1  0.125000  0.125000  0.125000  1

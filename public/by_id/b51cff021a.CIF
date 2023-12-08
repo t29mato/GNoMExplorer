@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_V3ReNi8(Mo3C)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.94142619
+_cell_length_b   7.90554298
+_cell_length_c   7.90554400
+_cell_angle_alpha   60.00000409
+_cell_angle_beta   60.14936212
+_cell_angle_gamma   60.14935406
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V3ReNi8(Mo3C)4
+_chemical_formula_sum   'V3 Re1 Ni8 Mo12 C4'
+_cell_volume   351.74160734
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.125000  0.125000  0.125000  1
+  V  V1  1  0.125000  0.125000  0.625000  1
+  V  V2  1  0.125000  0.625000  0.125000  1
+  Re  Re3  1  0.625000  0.125000  0.125000  1
+  Ni  Ni4  1  0.923458  0.916437  0.243669  1
+  Ni  Ni5  1  0.326542  0.333563  0.333563  1
+  Ni  Ni6  1  0.247760  0.917414  0.917414  1
+  Ni  Ni7  1  0.326542  0.006331  0.333563  1
+  Ni  Ni8  1  0.002240  0.332586  0.332586  1
+  Ni  Ni9  1  0.326542  0.333563  0.006331  1
+  Ni  Ni10  1  0.923458  0.916437  0.916437  1
+  Ni  Ni11  1  0.923458  0.243669  0.916437  1
+  Mo  Mo12  1  0.691135  0.307520  0.307520  1
+  Mo  Mo13  1  0.939965  0.939997  0.560019  1
+  Mo  Mo14  1  0.691135  0.693825  0.307520  1
+  Mo  Mo15  1  0.691135  0.307520  0.693825  1
+  Mo  Mo16  1  0.310035  0.689981  0.310003  1
+  Mo  Mo17  1  0.558865  0.942480  0.556175  1
+  Mo  Mo18  1  0.558865  0.942480  0.942480  1
+  Mo  Mo19  1  0.939965  0.560019  0.560019  1
+  Mo  Mo20  1  0.939965  0.560019  0.939997  1
+  Mo  Mo21  1  0.310035  0.310003  0.689981  1
+  Mo  Mo22  1  0.558865  0.556175  0.942480  1
+  Mo  Mo23  1  0.310035  0.689981  0.689981  1
+  C  C24  1  0.625000  0.625000  0.625000  1
+  C  C25  1  0.625000  0.625000  0.125000  1
+  C  C26  1  0.125000  0.625000  0.625000  1
+  C  C27  1  0.625000  0.125000  0.625000  1

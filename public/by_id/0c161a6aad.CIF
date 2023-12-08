@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Sr(AcSi)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.15232400
+_cell_length_b   8.15232400
+_cell_length_c   4.73824500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr(AcSi)2
+_chemical_formula_sum   'Sr2 Ac4 Si4'
+_cell_volume   314.90559451
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.500000  0.500000  0.000000  1
+  Sr  Sr1  1  0.000000  0.000000  0.000000  1
+  Ac  Ac2  1  0.675981  0.175981  0.500000  1
+  Ac  Ac3  1  0.324019  0.824019  0.500000  1
+  Ac  Ac4  1  0.175981  0.324019  0.500000  1
+  Ac  Ac5  1  0.824019  0.675981  0.500000  1
+  Si  Si6  1  0.106471  0.606471  0.000000  1
+  Si  Si7  1  0.893529  0.393529  0.000000  1
+  Si  Si8  1  0.606471  0.893529  0.000000  1
+  Si  Si9  1  0.393529  0.106471  0.000000  1

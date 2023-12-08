@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Mn3InBr7O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.22209089
+_cell_length_b   8.22208950
+_cell_length_c   8.14496800
+_cell_angle_alpha   56.97336471
+_cell_angle_beta   56.97336271
+_cell_angle_gamma   57.01186944
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn3InBr7O
+_chemical_formula_sum   'Mn3 In1 Br7 O1'
+_cell_volume   362.29048078
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.535946  0.971207  0.466036  1
+  Mn  Mn1  1  0.971207  0.535946  0.466036  1
+  Mn  Mn2  1  0.498532  0.498532  0.002075  1
+  In  In3  1  0.982060  0.982060  0.023573  1
+  Br  Br4  1  0.733923  0.733923  0.749701  1
+  Br  Br5  1  0.256176  0.735829  0.244974  1
+  Br  Br6  1  0.735829  0.256176  0.244974  1
+  Br  Br7  1  0.259831  0.259831  0.253565  1
+  Br  Br8  1  0.222287  0.222287  0.742527  1
+  Br  Br9  1  0.747340  0.253346  0.761520  1
+  Br  Br10  1  0.253346  0.747340  0.761520  1
+  O  O11  1  0.803523  0.803523  0.283502  1

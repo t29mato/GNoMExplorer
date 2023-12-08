@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_TbLu2Mg3Ga2Ag
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.34751953
+_cell_length_b   7.34751826
+_cell_length_c   4.31037500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.24308108
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbLu2Mg3Ga2Ag
+_chemical_formula_sum   'Tb1 Lu2 Mg3 Ga2 Ag1'
+_cell_volume   201.02872089
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.424100  0.424100  0.000000  1
+  Lu  Lu1  1  0.577651  0.000283  0.000000  1
+  Lu  Lu2  1  0.000283  0.577651  0.000000  1
+  Mg  Mg3  1  0.247626  0.999401  0.500000  1
+  Mg  Mg4  1  0.999401  0.247626  0.500000  1
+  Mg  Mg5  1  0.753128  0.753128  0.500000  1
+  Ga  Ga6  1  0.332561  0.667886  0.500000  1
+  Ga  Ga7  1  0.667886  0.332561  0.500000  1
+  Ag  Ag8  1  0.997364  0.997364  0.000000  1

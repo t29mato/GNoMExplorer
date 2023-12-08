@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfZrMn2SiAs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.70405100
+_cell_length_b   6.60417400
+_cell_length_c   7.72548300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfZrMn2SiAs
+_chemical_formula_sum   'Hf2 Zr2 Mn4 Si2 As2'
+_cell_volume   188.98228945
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.250000  0.529952  0.679462  1
+  Hf  Hf1  1  0.250000  0.029952  0.820538  1
+  Zr  Zr2  1  0.750000  0.966115  0.174484  1
+  Zr  Zr3  1  0.750000  0.466115  0.325516  1
+  Mn  Mn4  1  0.750000  0.366605  0.930667  1
+  Mn  Mn5  1  0.250000  0.138384  0.444469  1
+  Mn  Mn6  1  0.750000  0.866605  0.569333  1
+  Mn  Mn7  1  0.250000  0.638384  0.055531  1
+  Si  Si8  1  0.750000  0.732779  0.873654  1
+  Si  Si9  1  0.750000  0.232779  0.626346  1
+  As  As10  1  0.250000  0.266164  0.124255  1
+  As  As11  1  0.250000  0.766164  0.375745  1

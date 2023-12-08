@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Er4Al4Ir2PdPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.29665700
+_cell_length_b   6.81829522
+_cell_length_c   7.88639248
+_cell_angle_alpha   89.96950747
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er4Al4Ir2PdPt
+_chemical_formula_sum   'Er4 Al4 Ir2 Pd1 Pt1'
+_cell_volume   231.03874284
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.250000  0.025881  0.322665  1
+  Er  Er1  1  0.250000  0.540703  0.179430  1
+  Er  Er2  1  0.750000  0.962979  0.679292  1
+  Er  Er3  1  0.750000  0.474612  0.820484  1
+  Al  Al4  1  0.250000  0.135510  0.938065  1
+  Al  Al5  1  0.250000  0.641772  0.561256  1
+  Al  Al6  1  0.750000  0.856490  0.060559  1
+  Al  Al7  1  0.750000  0.364490  0.440436  1
+  Ir  Ir8  1  0.250000  0.764217  0.876783  1
+  Ir  Ir9  1  0.750000  0.734786  0.376714  1
+  Pd  Pd10  1  0.750000  0.232278  0.121996  1
+  Pt  Pt11  1  0.250000  0.266283  0.622317  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_YbTh7(Si3Pd)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.28345900
+_cell_length_b   8.23179012
+_cell_length_c   8.48652200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.20785535
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbTh7(Si3Pd)4
+_chemical_formula_sum   'Yb1 Th7 Si12 Pd4'
+_cell_volume   500.09550197
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.500784  0.001567  0.250000  1
+  Th  Th1  1  0.499240  0.998482  0.750000  1
+  Th  Th2  1  0.998964  0.500003  0.250000  1
+  Th  Th3  1  0.000618  0.500442  0.750000  1
+  Th  Th4  1  0.501040  0.500003  0.250000  1
+  Th  Th5  1  0.499823  0.500442  0.750000  1
+  Th  Th6  1  0.999955  0.999912  0.250000  1
+  Th  Th7  1  0.000008  0.000018  0.750000  1
+  Si  Si8  1  0.166561  0.333122  0.998528  1
+  Si  Si9  1  0.833429  0.666858  0.997000  1
+  Si  Si10  1  0.669515  0.833475  0.002460  1
+  Si  Si11  1  0.833429  0.666858  0.503000  1
+  Si  Si12  1  0.330397  0.166470  0.000867  1
+  Si  Si13  1  0.166561  0.333122  0.501472  1
+  Si  Si14  1  0.163961  0.833475  0.002460  1
+  Si  Si15  1  0.330397  0.166470  0.499133  1
+  Si  Si16  1  0.836073  0.166470  0.000867  1
+  Si  Si17  1  0.669515  0.833475  0.497540  1
+  Si  Si18  1  0.836073  0.166470  0.499133  1
+  Si  Si19  1  0.163961  0.833475  0.497540  1
+  Pd  Pd20  1  0.335541  0.671083  0.004283  1
+  Pd  Pd21  1  0.664306  0.328612  0.001406  1
+  Pd  Pd22  1  0.664306  0.328612  0.498594  1
+  Pd  Pd23  1  0.335541  0.671083  0.495717  1

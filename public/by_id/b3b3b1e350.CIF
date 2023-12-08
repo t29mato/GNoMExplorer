@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZrSc(ReMo)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.35105397
+_cell_length_b   5.34217297
+_cell_length_c   8.70185632
+_cell_angle_alpha   89.89979459
+_cell_angle_beta   90.05001685
+_cell_angle_gamma   119.94510701
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrSc(ReMo)2
+_chemical_formula_sum   'Zr2 Sc2 Re4 Mo4'
+_cell_volume   215.54557509
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.333230  0.666690  0.440184  1
+  Zr  Zr1  1  0.666770  0.333459  0.940184  1
+  Sc  Sc2  1  0.666782  0.333465  0.560763  1
+  Sc  Sc3  1  0.333218  0.666684  0.060763  1
+  Re  Re4  1  0.170664  0.830064  0.749890  1
+  Re  Re5  1  0.829336  0.659399  0.249890  1
+  Re  Re6  1  0.000386  0.996299  0.499428  1
+  Re  Re7  1  0.999614  0.995913  0.999428  1
+  Mo  Mo8  1  0.658841  0.831163  0.749845  1
+  Mo  Mo9  1  0.341159  0.172321  0.249845  1
+  Mo  Mo10  1  0.830270  0.172406  0.249890  1
+  Mo  Mo11  1  0.169730  0.342138  0.749890  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sr2P2IrPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.40746200
+_cell_length_b   6.41932880
+_cell_length_c   6.41602977
+_cell_angle_alpha   90.10674077
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2P2IrPt
+_chemical_formula_sum   'Sr4 P4 Ir2 Pt2'
+_cell_volume   263.90114640
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.610783  0.390943  0.885182  1
+  Sr  Sr1  1  0.388038  0.886653  0.608824  1
+  Sr  Sr2  1  0.110783  0.109057  0.114818  1
+  Sr  Sr3  1  0.888038  0.613347  0.391176  1
+  P  P4  1  0.167793  0.327649  0.659851  1
+  P  P5  1  0.667793  0.172351  0.340149  1
+  P  P6  1  0.331467  0.664551  0.174840  1
+  P  P7  1  0.831467  0.835449  0.825160  1
+  Ir  Ir8  1  0.409839  0.409010  0.409943  1
+  Ir  Ir9  1  0.909839  0.090990  0.590057  1
+  Pt  Pt10  1  0.592080  0.909904  0.092736  1
+  Pt  Pt11  1  0.092080  0.590096  0.907264  1

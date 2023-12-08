@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ho2UFe2Si4Ge3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.36150940
+_cell_length_b   12.36151001
+_cell_length_c   4.07472500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   160.78259181
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2UFe2Si4Ge3
+_chemical_formula_sum   'Ho2 U1 Fe2 Si4 Ge3'
+_cell_volume   204.94620981
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.316610  0.683390  0.000000  1
+  Ho  Ho1  1  0.683390  0.316610  0.000000  1
+  U  U2  1  0.000000  0.000000  0.500000  1
+  Fe  Fe3  1  0.123132  0.876868  0.500000  1
+  Fe  Fe4  1  0.876868  0.123132  0.500000  1
+  Si  Si5  1  0.086164  0.913836  0.000000  1
+  Si  Si6  1  0.913836  0.086164  0.000000  1
+  Si  Si7  1  0.413643  0.586357  0.500000  1
+  Si  Si8  1  0.586357  0.413643  0.500000  1
+  Ge  Ge9  1  0.219353  0.780647  0.500000  1
+  Ge  Ge10  1  0.780647  0.219353  0.500000  1
+  Ge  Ge11  1  0.500000  0.500000  0.000000  1

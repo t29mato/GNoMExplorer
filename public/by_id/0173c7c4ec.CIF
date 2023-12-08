@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Sr11Eu(CdPb)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.83600001
+_cell_length_b   8.19858700
+_cell_length_c   17.50317000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.99663925
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr11Eu(CdPb)6
+_chemical_formula_sum   'Sr11 Eu1 Cd6 Pb6'
+_cell_volume   837.47336574
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.500000  0.750030  0.000000  1
+  Sr  Sr1  1  0.000021  0.250050  0.166592  1
+  Sr  Sr2  1  0.000020  0.749945  0.166648  1
+  Sr  Sr3  1  0.500132  0.249871  0.333292  1
+  Sr  Sr4  1  0.500132  0.750134  0.333274  1
+  Sr  Sr5  1  0.000000  0.250021  0.500000  1
+  Sr  Sr6  1  0.000000  0.749975  0.500000  1
+  Sr  Sr7  1  0.499867  0.249871  0.666707  1
+  Sr  Sr8  1  0.499867  0.750134  0.666725  1
+  Sr  Sr9  1  0.999979  0.250050  0.833407  1
+  Sr  Sr10  1  0.999980  0.749945  0.833351  1
+  Eu  Eu11  1  0.500000  0.249956  0.000000  1
+  Cd  Cd12  1  0.000000  0.000241  0.000000  1
+  Cd  Cd13  1  0.500172  0.499885  0.166602  1
+  Cd  Cd14  1  0.000209  0.000004  0.333318  1
+  Cd  Cd15  1  0.500000  0.499994  0.500000  1
+  Cd  Cd16  1  0.999791  0.000004  0.666682  1
+  Cd  Cd17  1  0.499828  0.499885  0.833398  1
+  Pb  Pb18  1  0.000000  0.499659  0.000000  1
+  Pb  Pb19  1  0.500025  0.000166  0.166471  1
+  Pb  Pb20  1  0.000033  0.500007  0.333359  1
+  Pb  Pb21  1  0.500000  0.000005  0.500000  1
+  Pb  Pb22  1  0.999967  0.500007  0.666641  1
+  Pb  Pb23  1  0.499974  0.000166  0.833529  1

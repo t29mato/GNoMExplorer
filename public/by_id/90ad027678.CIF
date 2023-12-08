@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TmLuSi2RuRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.23568300
+_cell_length_b   6.83662531
+_cell_length_c   7.23779773
+_cell_angle_alpha   90.38245760
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TmLuSi2RuRh
+_chemical_formula_sum   'Tm2 Lu2 Si4 Ru2 Rh2'
+_cell_volume   209.58586746
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.250000  0.000147  0.811528  1
+  Tm  Tm1  1  0.750000  0.999853  0.188472  1
+  Lu  Lu2  1  0.250000  0.493039  0.688887  1
+  Lu  Lu3  1  0.750000  0.506961  0.311113  1
+  Si  Si4  1  0.250000  0.297614  0.115816  1
+  Si  Si5  1  0.750000  0.702386  0.884184  1
+  Si  Si6  1  0.250000  0.797358  0.398679  1
+  Si  Si7  1  0.750000  0.202642  0.601321  1
+  Ru  Ru8  1  0.750000  0.842507  0.564953  1
+  Ru  Ru9  1  0.250000  0.157493  0.435047  1
+  Rh  Rh10  1  0.750000  0.344218  0.936451  1
+  Rh  Rh11  1  0.250000  0.655782  0.063549  1

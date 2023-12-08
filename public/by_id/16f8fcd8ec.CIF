@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Sc3(TaRe12)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.43319268
+_cell_length_b   8.43924206
+_cell_length_c   8.43319209
+_cell_angle_alpha   109.48583025
+_cell_angle_beta   109.41293311
+_cell_angle_gamma   109.48582488
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc3(TaRe12)2
+_chemical_formula_sum   'Sc3 Ta2 Re24'
+_cell_volume   462.19061630
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.632230  0.000000  0.999953  1
+  Sc  Sc1  1  0.999953  0.000000  0.632230  1
+  Sc  Sc2  1  0.998758  0.000000  0.998758  1
+  Ta  Ta3  1  0.368371  0.368501  0.368371  1
+  Ta  Ta4  1  0.999870  0.631499  0.999870  1
+  Re  Re5  1  0.998690  0.398324  0.680380  1
+  Re  Re6  1  0.282057  0.601676  0.600366  1
+  Re  Re7  1  0.720203  0.323567  0.322374  1
+  Re  Re8  1  0.318538  0.718844  0.318538  1
+  Re  Re9  1  0.676882  0.000000  0.396150  1
+  Re  Re10  1  0.998808  0.676433  0.396637  1
+  Re  Re11  1  0.600366  0.601676  0.282057  1
+  Re  Re12  1  0.807974  0.806976  0.183596  1
+  Re  Re13  1  0.376620  0.193024  0.000998  1
+  Re  Re14  1  0.195039  0.377454  0.000935  1
+  Re  Re15  1  0.623680  0.815483  0.623680  1
+  Re  Re16  1  0.376901  0.000000  0.195037  1
+  Re  Re17  1  0.000935  0.377454  0.195039  1
+  Re  Re18  1  0.817585  0.622546  0.623480  1
+  Re  Re19  1  0.183596  0.806976  0.807974  1
+  Re  Re20  1  0.808197  0.184517  0.808197  1
+  Re  Re21  1  0.195037  0.000000  0.376901  1
+  Re  Re22  1  0.000998  0.193024  0.376620  1
+  Re  Re23  1  0.623480  0.622546  0.817585  1
+  Re  Re24  1  0.396150  0.000000  0.676882  1
+  Re  Re25  1  0.599693  0.281156  0.599693  1
+  Re  Re26  1  0.680380  0.398324  0.998690  1
+  Re  Re27  1  0.396637  0.676433  0.998808  1
+  Re  Re28  1  0.322374  0.323567  0.720203  1

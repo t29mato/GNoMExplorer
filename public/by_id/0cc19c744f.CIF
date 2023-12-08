@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Ti6CI12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.35832840
+_cell_length_b   9.35832903
+_cell_length_c   9.35832949
+_cell_angle_alpha   106.85076226
+_cell_angle_beta   106.85076069
+_cell_angle_gamma   106.85076472
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti6CI12
+_chemical_formula_sum   'Ti6 C1 I12'
+_cell_volume   685.31941507
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.921176  0.974364  0.756164  1
+  Ti  Ti1  1  0.756164  0.921176  0.974364  1
+  Ti  Ti2  1  0.974364  0.756164  0.921176  1
+  Ti  Ti3  1  0.078824  0.025636  0.243836  1
+  Ti  Ti4  1  0.243836  0.078824  0.025636  1
+  Ti  Ti5  1  0.025636  0.243836  0.078824  1
+  C  C6  1  0.000000  0.000000  0.000000  1
+  I  I7  1  0.415850  0.132810  0.347005  1
+  I  I8  1  0.132810  0.347006  0.415850  1
+  I  I9  1  0.652995  0.584150  0.867190  1
+  I  I10  1  0.584150  0.867190  0.652995  1
+  I  I11  1  0.867190  0.652995  0.584150  1
+  I  I12  1  0.347005  0.415850  0.132810  1
+  I  I13  1  0.785114  0.927543  0.282919  1
+  I  I14  1  0.282919  0.785114  0.927543  1
+  I  I15  1  0.927543  0.282919  0.785114  1
+  I  I16  1  0.214886  0.072457  0.717081  1
+  I  I17  1  0.717081  0.214886  0.072457  1
+  I  I18  1  0.072457  0.717081  0.214886  1

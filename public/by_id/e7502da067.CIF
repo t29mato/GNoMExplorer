@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ce2Co2(Re5C)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.96274318
+_cell_length_b   6.95773401
+_cell_length_c   6.96274343
+_cell_angle_alpha   82.86619871
+_cell_angle_beta   82.80083512
+_cell_angle_gamma   82.86620443
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2Co2(Re5C)3
+_chemical_formula_sum   'Ce2 Co2 Re15 C3'
+_cell_volume   330.03213248
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.650628  0.653336  0.650628  1
+  Ce  Ce1  1  0.349372  0.346664  0.349372  1
+  Co  Co2  1  0.000000  0.000000  0.500000  1
+  Co  Co3  1  0.500000  0.000000  0.000000  1
+  Re  Re4  1  0.000000  0.500000  0.000000  1
+  Re  Re5  1  0.281832  0.724899  0.999551  1
+  Re  Re6  1  0.722386  0.000000  0.277614  1
+  Re  Re7  1  0.000449  0.275101  0.718168  1
+  Re  Re8  1  0.277614  0.000000  0.722386  1
+  Re  Re9  1  0.999551  0.724899  0.281832  1
+  Re  Re10  1  0.718168  0.275101  0.000449  1
+  Re  Re11  1  0.351408  0.342909  0.858674  1
+  Re  Re12  1  0.345684  0.863254  0.345684  1
+  Re  Re13  1  0.858674  0.342909  0.351408  1
+  Re  Re14  1  0.648592  0.657091  0.141326  1
+  Re  Re15  1  0.654316  0.136746  0.654316  1
+  Re  Re16  1  0.141326  0.657091  0.648592  1
+  Re  Re17  1  0.898200  0.902437  0.898200  1
+  Re  Re18  1  0.101800  0.097563  0.101800  1
+  C  C19  1  0.500000  0.500000  0.000000  1
+  C  C20  1  0.500000  0.000000  0.500000  1
+  C  C21  1  0.000000  0.500000  0.500000  1

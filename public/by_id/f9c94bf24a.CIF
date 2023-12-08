@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Dy2Al5Si4Os2Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.43795294
+_cell_length_b   7.43795335
+_cell_length_c   9.35325800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.87198690
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy2Al5Si4Os2Rh
+_chemical_formula_sum   'Dy4 Al10 Si8 Os4 Rh2'
+_cell_volume   448.70322865
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.002892  0.668126  0.750000  1
+  Dy  Dy1  1  0.997108  0.331874  0.250000  1
+  Dy  Dy2  1  0.668126  0.002892  0.750000  1
+  Dy  Dy3  1  0.331874  0.997108  0.250000  1
+  Al  Al4  1  0.126659  0.126659  0.750000  1
+  Al  Al5  1  0.873341  0.873341  0.250000  1
+  Al  Al6  1  0.336399  0.336399  0.059372  1
+  Al  Al7  1  0.663601  0.663601  0.940628  1
+  Al  Al8  1  0.663601  0.663601  0.559372  1
+  Al  Al9  1  0.336399  0.336399  0.440628  1
+  Al  Al10  1  0.339546  0.547240  0.750000  1
+  Al  Al11  1  0.660454  0.452760  0.250000  1
+  Al  Al12  1  0.547240  0.339546  0.750000  1
+  Al  Al13  1  0.452760  0.660454  0.250000  1
+  Si  Si14  1  0.008778  0.337140  0.570829  1
+  Si  Si15  1  0.991222  0.662860  0.429171  1
+  Si  Si16  1  0.991222  0.662860  0.070829  1
+  Si  Si17  1  0.337140  0.008778  0.929171  1
+  Si  Si18  1  0.008778  0.337140  0.929171  1
+  Si  Si19  1  0.662860  0.991222  0.070829  1
+  Si  Si20  1  0.662860  0.991222  0.429171  1
+  Si  Si21  1  0.337140  0.008778  0.570829  1
+  Os  Os22  1  0.680992  0.319008  0.500000  1
+  Os  Os23  1  0.319008  0.680992  0.500000  1
+  Os  Os24  1  0.319008  0.680992  0.000000  1
+  Os  Os25  1  0.680992  0.319008  0.000000  1
+  Rh  Rh26  1  0.000000  0.000000  0.500000  1
+  Rh  Rh27  1  0.000000  0.000000  0.000000  1

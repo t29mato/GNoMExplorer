@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Tb13Y7(Cd3Fe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.60522400
+_cell_length_b   9.60522473
+_cell_length_c   9.83891000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00192815
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb13Y7(Cd3Fe)2
+_chemical_formula_sum   'Tb13 Y7 Cd6 Fe2'
+_cell_volume   786.11160719
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.541603  0.458397  0.250000  1
+  Tb  Tb1  1  0.212159  0.787841  0.435841  1
+  Tb  Tb2  1  0.212165  0.424315  0.435836  1
+  Tb  Tb3  1  0.575685  0.787835  0.435836  1
+  Tb  Tb4  1  0.787862  0.212138  0.564228  1
+  Tb  Tb5  1  0.787805  0.575650  0.564106  1
+  Tb  Tb6  1  0.424350  0.212195  0.564106  1
+  Tb  Tb7  1  0.787862  0.212138  0.935772  1
+  Tb  Tb8  1  0.787805  0.575650  0.935894  1
+  Tb  Tb9  1  0.424350  0.212195  0.935894  1
+  Tb  Tb10  1  0.212159  0.787841  0.064159  1
+  Tb  Tb11  1  0.212165  0.424315  0.064164  1
+  Tb  Tb12  1  0.575685  0.787835  0.064164  1
+  Y  Y13  1  0.000049  0.999951  0.500040  1
+  Y  Y14  1  0.000049  0.999951  0.999960  1
+  Y  Y15  1  0.541670  0.083296  0.250000  1
+  Y  Y16  1  0.916704  0.458330  0.250000  1
+  Y  Y17  1  0.458376  0.541624  0.750000  1
+  Y  Y18  1  0.458283  0.916669  0.750000  1
+  Y  Y19  1  0.083331  0.541717  0.750000  1
+  Cd  Cd20  1  0.885361  0.114639  0.250000  1
+  Cd  Cd21  1  0.885369  0.770729  0.250000  1
+  Cd  Cd22  1  0.229271  0.114631  0.250000  1
+  Cd  Cd23  1  0.114654  0.885346  0.750000  1
+  Cd  Cd24  1  0.114604  0.229326  0.750000  1
+  Cd  Cd25  1  0.770674  0.885396  0.750000  1
+  Fe  Fe26  1  0.333354  0.666646  0.250000  1
+  Fe  Fe27  1  0.666594  0.333406  0.750000  1

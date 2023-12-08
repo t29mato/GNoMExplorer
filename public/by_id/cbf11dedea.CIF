@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Dy16MgIn(AgIr2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.63858949
+_cell_length_b   9.62415013
+_cell_length_c   9.62415060
+_cell_angle_alpha   59.79035184
+_cell_angle_beta   59.84492183
+_cell_angle_gamma   59.84491731
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy16MgIn(AgIr2)2
+_chemical_formula_sum   'Dy16 Mg1 In1 Ag2 Ir4'
+_cell_volume   628.79878950
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.346949  0.347124  0.347124  1
+  Dy  Dy1  1  0.349227  0.349200  0.955251  1
+  Dy  Dy2  1  0.349227  0.955251  0.349200  1
+  Dy  Dy3  1  0.946918  0.351883  0.351883  1
+  Dy  Dy4  1  0.808257  0.190114  0.190114  1
+  Dy  Dy5  1  0.189566  0.809405  0.809405  1
+  Dy  Dy6  1  0.187209  0.811128  0.187952  1
+  Dy  Dy7  1  0.808049  0.190599  0.808342  1
+  Dy  Dy8  1  0.187209  0.187952  0.811128  1
+  Dy  Dy9  1  0.808049  0.808342  0.190599  1
+  Dy  Dy10  1  0.938060  0.563402  0.563402  1
+  Dy  Dy11  1  0.560985  0.939235  0.939235  1
+  Dy  Dy12  1  0.561578  0.943107  0.563535  1
+  Dy  Dy13  1  0.936709  0.561933  0.941433  1
+  Dy  Dy14  1  0.561578  0.563535  0.943107  1
+  Dy  Dy15  1  0.936709  0.941433  0.561933  1
+  Mg  Mg16  1  0.280816  0.569663  0.569663  1
+  In  In17  1  0.583617  0.579998  0.579998  1
+  Ag  Ag18  1  0.582212  0.584245  0.248638  1
+  Ag  Ag19  1  0.582212  0.248638  0.584245  1
+  Ir  Ir20  1  0.138753  0.143032  0.143032  1
+  Ir  Ir21  1  0.140342  0.143178  0.575235  1
+  Ir  Ir22  1  0.140342  0.575235  0.143178  1
+  Ir  Ir23  1  0.575427  0.142369  0.142369  1

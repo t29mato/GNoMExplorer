@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_YbMnIO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.83507178
+_cell_length_b   6.83507172
+_cell_length_c   5.55036000
+_cell_angle_alpha   89.99942892
+_cell_angle_beta   90.00057167
+_cell_angle_gamma   131.18933733
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbMnIO2
+_chemical_formula_sum   'Yb2 Mn2 I2 O4'
+_cell_volume   195.13512052
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.092478  0.907522  0.250004  1
+  Yb  Yb1  1  0.907522  0.092478  0.749998  1
+  Mn  Mn2  1  0.488573  0.511428  0.250037  1
+  Mn  Mn3  1  0.511428  0.488573  0.749965  1
+  I  I4  1  0.747628  0.252373  0.250001  1
+  I  I5  1  0.252373  0.747628  0.750001  1
+  O  O6  1  0.264969  0.264969  0.000000  1
+  O  O7  1  0.735031  0.735031  0.000000  1
+  O  O8  1  0.264979  0.264979  0.500000  1
+  O  O9  1  0.735021  0.735021  0.500000  1

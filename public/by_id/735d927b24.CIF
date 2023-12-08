@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_LiCr2(NiAs)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.17993030
+_cell_length_b   6.17992947
+_cell_length_c   3.63450900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.59495435
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCr2(NiAs)3
+_chemical_formula_sum   'Li1 Cr2 Ni3 As3'
+_cell_volume   119.48364653
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.415574  0.415574  0.500000  1
+  Cr  Cr1  1  0.589235  0.997632  0.500000  1
+  Cr  Cr2  1  0.997632  0.589235  0.500000  1
+  Ni  Ni3  1  0.742792  0.742792  0.000000  1
+  Ni  Ni4  1  0.005020  0.250565  0.000000  1
+  Ni  Ni5  1  0.250565  0.005020  0.000000  1
+  As  As6  1  0.672953  0.330151  0.000000  1
+  As  As7  1  0.330151  0.672953  0.000000  1
+  As  As8  1  0.996079  0.996079  0.500000  1

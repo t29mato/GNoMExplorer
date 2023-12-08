@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Ti13Al9CrRh7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.72302313
+_cell_length_b   8.72302272
+_cell_length_c   8.72302360
+_cell_angle_alpha   59.78101620
+_cell_angle_beta   59.78101580
+_cell_angle_gamma   59.78103069
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti13Al9CrRh7
+_chemical_formula_sum   'Ti13 Al9 Cr1 Rh7'
+_cell_volume   467.00502606
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.207715  0.207715  0.792157  1
+  Ti  Ti1  1  0.792157  0.207715  0.207715  1
+  Ti  Ti2  1  0.207715  0.792157  0.207715  1
+  Ti  Ti3  1  0.803324  0.803324  0.182332  1
+  Ti  Ti4  1  0.182332  0.803324  0.803324  1
+  Ti  Ti5  1  0.803324  0.182332  0.803324  1
+  Ti  Ti6  1  0.378718  0.378718  0.378718  1
+  Ti  Ti7  1  0.379603  0.865251  0.379603  1
+  Ti  Ti8  1  0.865251  0.379603  0.379603  1
+  Ti  Ti9  1  0.379603  0.379603  0.865251  1
+  Ti  Ti10  1  0.845946  0.464182  0.845946  1
+  Ti  Ti11  1  0.464182  0.845946  0.845946  1
+  Ti  Ti12  1  0.845946  0.845946  0.464182  1
+  Al  Al13  1  0.152370  0.152370  0.152370  1
+  Al  Al14  1  0.156649  0.534960  0.156649  1
+  Al  Al15  1  0.534960  0.156649  0.156649  1
+  Al  Al16  1  0.156649  0.156649  0.534960  1
+  Al  Al17  1  0.619150  0.619150  0.619150  1
+  Al  Al18  1  0.620122  0.142859  0.620122  1
+  Al  Al19  1  0.142859  0.620122  0.620122  1
+  Al  Al20  1  0.620122  0.620122  0.142859  1
+  Al  Al21  1  0.830927  0.830927  0.830927  1
+  Cr  Cr22  1  0.003594  0.003594  0.003594  1
+  Rh  Rh23  1  0.003741  0.003741  0.498007  1
+  Rh  Rh24  1  0.498007  0.003741  0.003741  1
+  Rh  Rh25  1  0.003741  0.498007  0.003741  1
+  Rh  Rh26  1  0.500092  0.500092  0.001005  1
+  Rh  Rh27  1  0.001005  0.500092  0.500092  1
+  Rh  Rh28  1  0.500092  0.001005  0.500092  1
+  Rh  Rh29  1  0.500105  0.500105  0.500105  1

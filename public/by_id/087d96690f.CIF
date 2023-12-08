@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Hf4Ti3P4W
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.50719300
+_cell_length_b   6.75104646
+_cell_length_c   8.14645550
+_cell_angle_alpha   90.28314819
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf4Ti3P4W
+_chemical_formula_sum   'Hf4 Ti3 P4 W1'
+_cell_volume   192.88308727
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.250000  0.535019  0.168323  1
+  Hf  Hf1  1  0.750000  0.461917  0.831492  1
+  Hf  Hf2  1  0.750000  0.964884  0.667990  1
+  Hf  Hf3  1  0.250000  0.034449  0.330829  1
+  Ti  Ti4  1  0.250000  0.634846  0.560816  1
+  Ti  Ti5  1  0.750000  0.363308  0.439717  1
+  Ti  Ti6  1  0.750000  0.866007  0.059077  1
+  P  P7  1  0.250000  0.763048  0.858205  1
+  P  P8  1  0.750000  0.237264  0.144440  1
+  P  P9  1  0.750000  0.738026  0.360844  1
+  P  P10  1  0.250000  0.261323  0.637756  1
+  W  W11  1  0.250000  0.139907  0.940512  1

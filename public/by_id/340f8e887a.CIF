@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Er3Tm(Fe2Br)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89211500
+_cell_length_b   3.89211571
+_cell_length_c   16.35052500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000243
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er3Tm(Fe2Br)2
+_chemical_formula_sum   'Er3 Tm1 Fe4 Br2'
+_cell_volume   214.50317775
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.000000  0.000000  0.108429  1
+  Er  Er1  1  0.000000  0.000000  0.391520  1
+  Er  Er2  1  0.000000  0.000000  0.608602  1
+  Tm  Tm3  1  0.000000  0.000000  0.891981  1
+  Fe  Fe4  1  0.333333  0.666665  0.005928  1
+  Fe  Fe5  1  0.333333  0.666665  0.493637  1
+  Fe  Fe6  1  0.666666  0.333333  0.506312  1
+  Fe  Fe7  1  0.666666  0.333333  0.993449  1
+  Br  Br8  1  0.666666  0.333333  0.249955  1
+  Br  Br9  1  0.333333  0.666665  0.750187  1

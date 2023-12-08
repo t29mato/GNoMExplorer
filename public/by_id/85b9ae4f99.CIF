@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_U2Ga3Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.61982300
+_cell_length_b   5.61980183
+_cell_length_c   8.03379500
+_cell_angle_alpha   89.99961748
+_cell_angle_beta   90.00102326
+_cell_angle_gamma   120.00081857
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U2Ga3Rh
+_chemical_formula_sum   'U4 Ga6 Rh2'
+_cell_volume   219.73105115
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.666678  0.333352  0.095058  1
+  U  U1  1  0.666680  0.333347  0.404521  1
+  U  U2  1  0.333320  0.666652  0.595480  1
+  U  U3  1  0.333322  0.666647  0.904942  1
+  Ga  Ga4  1  0.168809  0.337622  0.249943  1
+  Ga  Ga5  1  0.168819  0.831193  0.249943  1
+  Ga  Ga6  1  0.662376  0.831188  0.249941  1
+  Ga  Ga7  1  0.337625  0.168811  0.750059  1
+  Ga  Ga8  1  0.831181  0.168806  0.750057  1
+  Ga  Ga9  1  0.831191  0.662378  0.750057  1
+  Rh  Rh10  1  0.000000  0.000000  0.000000  1
+  Rh  Rh11  1  0.000000  0.000000  0.500001  1

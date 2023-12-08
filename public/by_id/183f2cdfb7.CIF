@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_DyHf(Ni2P)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.59645700
+_cell_length_b   7.01153439
+_cell_length_c   7.01153439
+_cell_angle_alpha   89.45470398
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyHf(Ni2P)4
+_chemical_formula_sum   'Dy1 Hf1 Ni8 P4'
+_cell_volume   176.79962507
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.000000  0.500000  0.500000  1
+  Hf  Hf1  1  0.500000  0.000000  0.000000  1
+  Ni  Ni2  1  0.500000  0.163136  0.585960  1
+  Ni  Ni3  1  0.500000  0.836864  0.414040  1
+  Ni  Ni4  1  0.000000  0.333580  0.083457  1
+  Ni  Ni5  1  0.000000  0.666420  0.916543  1
+  Ni  Ni6  1  0.500000  0.585960  0.163136  1
+  Ni  Ni7  1  0.500000  0.414040  0.836864  1
+  Ni  Ni8  1  0.000000  0.083457  0.333580  1
+  Ni  Ni9  1  0.000000  0.916543  0.666420  1
+  P  P10  1  0.500000  0.727907  0.727907  1
+  P  P11  1  0.500000  0.272093  0.272093  1
+  P  P12  1  0.000000  0.787722  0.212278  1
+  P  P13  1  0.000000  0.212278  0.787722  1

@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Sr3Fe4(CoP3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.34643968
+_cell_length_b   8.34802525
+_cell_length_c   8.34802586
+_cell_angle_alpha   153.92926292
+_cell_angle_beta   91.26598399
+_cell_angle_gamma   94.56979194
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3Fe4(CoP3)2
+_chemical_formula_sum   'Sr3 Fe4 Co2 P6'
+_cell_volume   248.92356298
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.333356  0.333372  0.999984  1
+  Sr  Sr1  1  0.666716  0.666637  0.000080  1
+  Sr  Sr2  1  0.999955  0.999945  0.000010  1
+  Fe  Fe3  1  0.581293  0.832434  0.748858  1
+  Fe  Fe4  1  0.249730  0.500903  0.748827  1
+  Fe  Fe5  1  0.752046  0.500871  0.251175  1
+  Fe  Fe6  1  0.083659  0.832461  0.251196  1
+  Co  Co7  1  0.416415  0.166692  0.249724  1
+  Co  Co8  1  0.916836  0.166650  0.750184  1
+  P  P9  1  0.318510  0.666627  0.651884  1
+  P  P10  1  0.681668  0.334410  0.347259  1
+  P  P11  1  0.987109  0.334325  0.652784  1
+  P  P12  1  0.346332  0.999082  0.347250  1
+  P  P13  1  0.014757  0.666727  0.348030  1
+  P  P14  1  0.651617  0.998864  0.652754  1

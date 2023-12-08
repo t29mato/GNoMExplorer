@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_TaTi2Si(BMo)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.17341475
+_cell_length_b   7.13853828
+_cell_length_c   7.13853769
+_cell_angle_alpha   129.58118933
+_cell_angle_beta   129.73715333
+_cell_angle_gamma   73.84709479
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaTi2Si(BMo)2
+_chemical_formula_sum   'Ta2 Ti4 Si2 B4 Mo4'
+_cell_volume   211.44691051
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.806420  0.969022  0.499952  1
+  Ta  Ta1  1  0.306420  0.806468  0.837398  1
+  Ti  Ti2  1  0.195524  0.034519  0.502678  1
+  Ti  Ti3  1  0.533249  0.693558  0.502272  1
+  Ti  Ti4  1  0.033249  0.530976  0.839691  1
+  Ti  Ti5  1  0.695524  0.192846  0.161005  1
+  Si  Si6  1  0.754324  0.747798  0.997004  1
+  Si  Si7  1  0.254324  0.257320  0.006526  1
+  B  B8  1  0.384469  0.886720  0.273884  1
+  B  B9  1  0.884469  0.610587  0.497749  1
+  B  B10  1  0.611164  0.113491  0.726451  1
+  B  B11  1  0.111164  0.384711  0.497673  1
+  Mo  Mo12  1  0.001232  0.001431  0.002743  1
+  Mo  Mo13  1  0.963619  0.464446  0.155999  1
+  Mo  Mo14  1  0.501232  0.498489  0.999801  1
+  Mo  Mo15  1  0.463619  0.307620  0.499173  1

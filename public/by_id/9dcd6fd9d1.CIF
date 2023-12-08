@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Pr8Cu(Si4Ir)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.24165500
+_cell_length_b   8.24165696
+_cell_length_c   8.60684900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000416
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr8Cu(Si4Ir)3
+_chemical_formula_sum   'Pr8 Cu1 Si12 Ir3'
+_cell_volume   506.29514422
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.497812  0.502188  0.746997  1
+  Pr  Pr1  1  0.498647  0.501353  0.253072  1
+  Pr  Pr2  1  0.004376  0.502188  0.746997  1
+  Pr  Pr3  1  0.002705  0.501353  0.253072  1
+  Pr  Pr4  1  0.497812  0.995624  0.746997  1
+  Pr  Pr5  1  0.498647  0.997295  0.253072  1
+  Pr  Pr6  1  0.000000  0.000000  0.751580  1
+  Pr  Pr7  1  0.000000  0.000000  0.248898  1
+  Cu  Cu8  1  0.666667  0.333333  0.996858  1
+  Si  Si9  1  0.833095  0.166905  0.000438  1
+  Si  Si10  1  0.166980  0.833020  0.999686  1
+  Si  Si11  1  0.333810  0.166905  0.000438  1
+  Si  Si12  1  0.166512  0.833488  0.500502  1
+  Si  Si13  1  0.666041  0.833020  0.999686  1
+  Si  Si14  1  0.832979  0.167021  0.499620  1
+  Si  Si15  1  0.833095  0.666190  0.000438  1
+  Si  Si16  1  0.666976  0.833488  0.500502  1
+  Si  Si17  1  0.166980  0.333959  0.999686  1
+  Si  Si18  1  0.334041  0.167021  0.499620  1
+  Si  Si19  1  0.166512  0.333024  0.500502  1
+  Si  Si20  1  0.832979  0.665959  0.499620  1
+  Ir  Ir21  1  0.333333  0.666667  0.001391  1
+  Ir  Ir22  1  0.333333  0.666667  0.498039  1
+  Ir  Ir23  1  0.666667  0.333333  0.502287  1

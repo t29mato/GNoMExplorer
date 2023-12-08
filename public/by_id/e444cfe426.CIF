@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_U4Si4PtRh3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.79910300
+_cell_length_b   7.19830311
+_cell_length_c   7.48057493
+_cell_angle_alpha   90.26076104
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U4Si4PtRh3
+_chemical_formula_sum   'U4 Si4 Pt1 Rh3'
+_cell_volume   204.56987402
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.750000  0.629581  0.497734  1
+  U  U1  1  0.250000  0.369404  0.504970  1
+  U  U2  1  0.750000  0.872697  0.994342  1
+  U  U3  1  0.250000  0.130810  0.000272  1
+  Si  Si4  1  0.750000  0.127896  0.699144  1
+  Si  Si5  1  0.250000  0.876986  0.299209  1
+  Si  Si6  1  0.750000  0.364927  0.202649  1
+  Si  Si7  1  0.250000  0.628370  0.797758  1
+  Pt  Pt8  1  0.250000  0.573035  0.132811  1
+  Rh  Rh9  1  0.750000  0.428291  0.871902  1
+  Rh  Rh10  1  0.250000  0.927536  0.628452  1
+  Rh  Rh11  1  0.750000  0.070466  0.370758  1

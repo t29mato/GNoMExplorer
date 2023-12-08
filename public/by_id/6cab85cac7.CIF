@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ta5B2As
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.31806834
+_cell_length_b   7.31806842
+_cell_length_c   7.31806910
+_cell_angle_alpha   129.27390294
+_cell_angle_beta   129.27390232
+_cell_angle_gamma   74.57025167
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta5B2As
+_chemical_formula_sum   'Ta10 B4 As2'
+_cell_volume   228.85664786
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.526746  0.697081  0.500000  1
+  Ta  Ta1  1  0.197081  0.026746  0.500000  1
+  Ta  Ta2  1  0.026746  0.526746  0.829666  1
+  Ta  Ta3  1  0.697081  0.197081  0.170334  1
+  Ta  Ta4  1  0.473254  0.302919  0.500000  1
+  Ta  Ta5  1  0.802919  0.973254  0.500000  1
+  Ta  Ta6  1  0.973254  0.473254  0.170334  1
+  Ta  Ta7  1  0.302919  0.802919  0.829666  1
+  Ta  Ta8  1  0.500000  0.500000  0.000000  1
+  Ta  Ta9  1  0.000000  0.000000  0.000000  1
+  B  B10  1  0.879133  0.620867  0.500000  1
+  B  B11  1  0.120867  0.379133  0.500000  1
+  B  B12  1  0.379133  0.879133  0.258264  1
+  B  B13  1  0.620867  0.120867  0.741736  1
+  As  As14  1  0.250000  0.250000  0.000000  1
+  As  As15  1  0.750000  0.750000  0.000000  1

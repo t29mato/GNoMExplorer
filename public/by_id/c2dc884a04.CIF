@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ta3Cr2ReSi2Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.73867306
+_cell_length_b   6.78436480
+_cell_length_c   3.31515700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.26463886
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta3Cr2ReSi2Ge
+_chemical_formula_sum   'Ta3 Cr2 Re1 Si2 Ge1'
+_cell_volume   130.90432641
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.402484  0.407462  0.500000  1
+  Ta  Ta1  1  0.591044  0.988798  0.500000  1
+  Ta  Ta2  1  0.008564  0.611710  0.500000  1
+  Cr  Cr3  1  0.742799  0.748599  0.000000  1
+  Cr  Cr4  1  0.251144  0.994349  0.000000  1
+  Re  Re5  1  0.004926  0.254656  0.000000  1
+  Si  Si6  1  0.334904  0.669066  0.000000  1
+  Si  Si7  1  0.999851  0.990960  0.500000  1
+  Ge  Ge8  1  0.664285  0.334401  0.000000  1

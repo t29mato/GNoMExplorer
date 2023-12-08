@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_KBa2(BeAs)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.37386586
+_cell_length_b   7.41267419
+_cell_length_c   8.50216053
+_cell_angle_alpha   110.11006171
+_cell_angle_beta   108.42297192
+_cell_angle_gamma   90.00000080
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KBa2(BeAs)6
+_chemical_formula_sum   'K1 Ba2 Be6 As6'
+_cell_volume   299.48110387
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.000000  0.000000  0.000000  1
+  Ba  Ba1  1  0.659759  0.000521  0.319516  1
+  Ba  Ba2  1  0.340241  0.999479  0.680484  1
+  Be  Be3  1  0.416095  0.499060  0.333256  1
+  Be  Be4  1  0.082838  0.500940  0.666744  1
+  Be  Be5  1  0.751132  0.500000  0.000000  1
+  Be  Be6  1  0.583905  0.500940  0.666744  1
+  Be  Be7  1  0.248868  0.500000  0.000000  1
+  Be  Be8  1  0.917162  0.499060  0.333256  1
+  As  As9  1  0.217920  0.302411  0.435839  1
+  As  As10  1  0.883337  0.303351  0.766673  1
+  As  As11  1  0.550681  0.305157  0.101365  1
+  As  As12  1  0.782080  0.697589  0.564161  1
+  As  As13  1  0.449319  0.694843  0.898635  1
+  As  As14  1  0.116663  0.696649  0.233327  1

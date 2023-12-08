@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Lu5GaBiPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.56369699
+_cell_length_b   8.56369722
+_cell_length_c   8.61076402
+_cell_angle_alpha   125.56986608
+_cell_angle_beta   125.56986940
+_cell_angle_gamma   80.22470495
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu5GaBiPd
+_chemical_formula_sum   'Lu10 Ga2 Bi2 Pd2'
+_cell_volume   404.02041787
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.000000  0.000000  0.000000  1
+  Lu  Lu1  1  0.500000  0.500000  0.000000  1
+  Lu  Lu2  1  0.789433  0.289433  0.801084  1
+  Lu  Lu3  1  0.210567  0.710567  0.198916  1
+  Lu  Lu4  1  0.488350  0.988350  0.198916  1
+  Lu  Lu5  1  0.299606  0.478804  0.500000  1
+  Lu  Lu6  1  0.021196  0.200394  0.500000  1
+  Lu  Lu7  1  0.511650  0.011650  0.801084  1
+  Lu  Lu8  1  0.700394  0.521196  0.500000  1
+  Lu  Lu9  1  0.978804  0.799606  0.500000  1
+  Ga  Ga10  1  0.137765  0.637765  0.775529  1
+  Ga  Ga11  1  0.862235  0.362235  0.224471  1
+  Bi  Bi12  1  0.250000  0.250000  0.000000  1
+  Bi  Bi13  1  0.750000  0.750000  0.000000  1
+  Pd  Pd14  1  0.634435  0.865565  0.500000  1
+  Pd  Pd15  1  0.365565  0.134435  0.500000  1

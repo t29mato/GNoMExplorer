@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ta3Si3Tc2Mo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.85397625
+_cell_length_b   6.85397518
+_cell_length_c   3.32567500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.45886291
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta3Si3Tc2Mo
+_chemical_formula_sum   'Ta3 Si3 Tc2 Mo1'
+_cell_volume   136.03102549
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.409079  0.409079  0.500000  1
+  Ta  Ta1  1  0.596917  0.990626  0.500000  1
+  Ta  Ta2  1  0.990626  0.596917  0.500000  1
+  Si  Si3  1  0.663804  0.326635  0.000000  1
+  Si  Si4  1  0.326635  0.663804  0.000000  1
+  Si  Si5  1  0.008032  0.008032  0.500000  1
+  Tc  Tc6  1  0.257869  0.999975  0.000000  1
+  Tc  Tc7  1  0.999975  0.257869  0.000000  1
+  Mo  Mo8  1  0.747063  0.747063  0.000000  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_ZrCdTeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.06316300
+_cell_length_b   5.06316300
+_cell_length_c   9.43077200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrCdTeO6
+_chemical_formula_sum   'Zr2 Cd2 Te2 O12'
+_cell_volume   241.76368319
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.500000  0.000000  0.112590  1
+  Zr  Zr1  1  0.000000  0.500000  0.887410  1
+  Cd  Cd2  1  0.000000  0.000000  0.500000  1
+  Cd  Cd3  1  0.500000  0.500000  0.500000  1
+  Te  Te4  1  0.500000  0.000000  0.765377  1
+  Te  Te5  1  0.000000  0.500000  0.234623  1
+  O  O6  1  0.814914  0.314914  0.077867  1
+  O  O7  1  0.185086  0.685086  0.077867  1
+  O  O8  1  0.197106  0.697106  0.372341  1
+  O  O9  1  0.802894  0.302894  0.372341  1
+  O  O10  1  0.771341  0.271341  0.763662  1
+  O  O11  1  0.228659  0.728659  0.763662  1
+  O  O12  1  0.697106  0.802894  0.627659  1
+  O  O13  1  0.271341  0.228659  0.236338  1
+  O  O14  1  0.302894  0.197106  0.627659  1
+  O  O15  1  0.685086  0.814914  0.922133  1
+  O  O16  1  0.314914  0.185086  0.922133  1
+  O  O17  1  0.728659  0.771341  0.236338  1

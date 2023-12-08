@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_V12Fe3Cu(Si2C)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.63004810
+_cell_length_b   7.65732197
+_cell_length_c   7.65732100
+_cell_angle_alpha   59.99999986
+_cell_angle_beta   59.88168462
+_cell_angle_gamma   59.88168390
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V12Fe3Cu(Si2C)4
+_chemical_formula_sum   'V12 Fe3 Cu1 Si8 C4'
+_cell_volume   315.78176871
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.814164  0.812828  0.186504  1
+  V  V1  1  0.187532  0.193855  0.809307  1
+  V  V2  1  0.814164  0.186504  0.812828  1
+  V  V3  1  0.187532  0.809307  0.193855  1
+  V  V4  1  0.187532  0.809307  0.809307  1
+  V  V5  1  0.814164  0.186504  0.186504  1
+  V  V6  1  0.435836  0.437172  0.063496  1
+  V  V7  1  0.062468  0.056145  0.440693  1
+  V  V8  1  0.435836  0.063496  0.437172  1
+  V  V9  1  0.062468  0.440693  0.056145  1
+  V  V10  1  0.062468  0.440693  0.440693  1
+  V  V11  1  0.435836  0.063496  0.063496  1
+  Fe  Fe12  1  0.625000  0.125000  0.625000  1
+  Fe  Fe13  1  0.625000  0.625000  0.125000  1
+  Fe  Fe14  1  0.625000  0.625000  0.625000  1
+  Cu  Cu15  1  0.125000  0.625000  0.625000  1
+  Si  Si16  1  0.763055  0.412316  0.412316  1
+  Si  Si17  1  0.421594  0.762049  0.408179  1
+  Si  Si18  1  0.421594  0.408179  0.762049  1
+  Si  Si19  1  0.421594  0.408179  0.408179  1
+  Si  Si20  1  0.486945  0.837684  0.837684  1
+  Si  Si21  1  0.828406  0.487951  0.841821  1
+  Si  Si22  1  0.828406  0.841821  0.487951  1
+  Si  Si23  1  0.828406  0.841821  0.841821  1
+  C  C24  1  0.625000  0.125000  0.125000  1
+  C  C25  1  0.125000  0.625000  0.125000  1
+  C  C26  1  0.125000  0.125000  0.625000  1
+  C  C27  1  0.125000  0.125000  0.125000  1

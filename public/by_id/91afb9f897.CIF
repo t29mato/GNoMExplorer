@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_LiTi2Tc3As2P
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.25534900
+_cell_length_b   6.81960724
+_cell_length_c   6.81960751
+_cell_angle_alpha   59.38501076
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTi2Tc3As2P
+_chemical_formula_sum   'Li1 Ti2 Tc3 As2 P1'
+_cell_volume   130.29330323
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.500000  0.609664  0.390336  1
+  Ti  Ti1  1  0.500000  0.392362  0.004238  1
+  Ti  Ti2  1  0.500000  0.995762  0.607638  1
+  Tc  Tc3  1  0.000000  0.244684  0.755316  1
+  Tc  Tc4  1  0.000000  0.748900  0.989827  1
+  Tc  Tc5  1  0.000000  0.010173  0.251100  1
+  As  As6  1  0.000000  0.342889  0.336383  1
+  As  As7  1  0.000000  0.663617  0.657111  1
+  P  P8  1  0.500000  0.991849  0.008151  1

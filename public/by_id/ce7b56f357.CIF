@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_PrDy(Co3Si2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.32065983
+_cell_length_b   6.32066021
+_cell_length_c   6.32066028
+_cell_angle_alpha   130.41314598
+_cell_angle_beta   113.87633226
+_cell_angle_gamma   86.95853999
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrDy(Co3Si2)2
+_chemical_formula_sum   'Pr1 Dy1 Co6 Si4'
+_cell_volume   167.67283797
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.750000  0.471246  0.721246  1
+  Dy  Dy1  1  0.250000  0.534276  0.284276  1
+  Co  Co2  1  0.999966  0.998298  0.498264  1
+  Co  Co3  1  0.500034  0.998298  0.998332  1
+  Co  Co4  1  0.721375  0.996959  0.721653  1
+  Co  Co5  1  0.224694  0.500278  0.721653  1
+  Co  Co6  1  0.275306  0.996959  0.275584  1
+  Co  Co7  1  0.778625  0.500278  0.275584  1
+  Si  Si8  1  0.082977  0.877814  0.794837  1
+  Si  Si9  1  0.922372  0.129241  0.206869  1
+  Si  Si10  1  0.577628  0.784496  0.206869  1
+  Si  Si11  1  0.417023  0.211858  0.794837  1

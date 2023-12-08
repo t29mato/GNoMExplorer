@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_MnAgCl4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.33094788
+_cell_length_b   7.33094824
+_cell_length_c   13.51260158
+_cell_angle_alpha   62.79052756
+_cell_angle_beta   62.79052660
+_cell_angle_gamma   30.42099651
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnAgCl4
+_chemical_formula_sum   'Mn2 Ag2 Cl8'
+_cell_volume   323.81189504
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.000000  0.000000  0.000000  1
+  Mn  Mn1  1  0.000000  0.000000  0.500000  1
+  Ag  Ag2  1  0.500384  0.499616  0.750000  1
+  Ag  Ag3  1  0.499616  0.500384  0.250000  1
+  Cl  Cl4  1  0.085559  0.120313  0.087949  1
+  Cl  Cl5  1  0.879687  0.914441  0.412051  1
+  Cl  Cl6  1  0.506715  0.720104  0.371675  1
+  Cl  Cl7  1  0.279896  0.493285  0.128325  1
+  Cl  Cl8  1  0.493285  0.279896  0.628325  1
+  Cl  Cl9  1  0.914441  0.879687  0.912051  1
+  Cl  Cl10  1  0.120313  0.085559  0.587949  1
+  Cl  Cl11  1  0.720104  0.506715  0.871675  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Nb4Al2(ZnCr)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.95833000
+_cell_length_b   4.95832936
+_cell_length_c   8.36706900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000428
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb4Al2(ZnCr)3
+_chemical_formula_sum   'Nb4 Al2 Zn3 Cr3'
+_cell_volume   178.14546155
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.333333  0.666667  0.451287  1
+  Nb  Nb1  1  0.666667  0.333333  0.570319  1
+  Nb  Nb2  1  0.666667  0.333333  0.929681  1
+  Nb  Nb3  1  0.333333  0.666667  0.048713  1
+  Al  Al4  1  0.000000  0.000000  0.501466  1
+  Al  Al5  1  0.000000  0.000000  0.998534  1
+  Zn  Zn6  1  0.828972  0.171028  0.250000  1
+  Zn  Zn7  1  0.828972  0.657945  0.250000  1
+  Zn  Zn8  1  0.342055  0.171028  0.250000  1
+  Cr  Cr9  1  0.173028  0.826972  0.750000  1
+  Cr  Cr10  1  0.173028  0.346055  0.750000  1
+  Cr  Cr11  1  0.653945  0.826972  0.750000  1

@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Ti8Al10Ga5Fe5RhAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.48734550
+_cell_length_b   8.48734541
+_cell_length_c   8.48734500
+_cell_angle_alpha   119.93309635
+_cell_angle_beta   120.01189014
+_cell_angle_gamma   90.04766159
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti8Al10Ga5Fe5RhAu
+_chemical_formula_sum   'Ti8 Al10 Ga5 Fe5 Rh1 Au1'
+_cell_volume   432.49464107
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.786944  0.289264  0.067852  1
+  Ti  Ti1  1  0.221412  0.289264  0.502320  1
+  Ti  Ti2  1  0.210459  0.710459  0.500000  1
+  Ti  Ti3  1  0.221412  0.719093  0.932148  1
+  Ti  Ti4  1  0.786944  0.719093  0.497680  1
+  Ti  Ti5  1  0.782367  0.282367  0.500000  1
+  Ti  Ti6  1  0.377727  0.130396  0.752669  1
+  Ti  Ti7  1  0.377727  0.625057  0.247331  1
+  Al  Al8  1  0.835853  0.642009  0.806157  1
+  Al  Al9  1  0.835853  0.029697  0.193843  1
+  Al  Al10  1  0.839039  0.658050  0.180989  1
+  Al  Al11  1  0.477061  0.658050  0.819011  1
+  Al  Al12  1  0.390698  0.129401  0.261297  1
+  Al  Al13  1  0.868104  0.129401  0.738703  1
+  Al  Al14  1  0.620128  0.872878  0.252750  1
+  Al  Al15  1  0.620128  0.367377  0.747250  1
+  Al  Al16  1  0.604464  0.870706  0.733758  1
+  Al  Al17  1  0.136949  0.870706  0.266242  1
+  Ga  Ga18  1  0.996396  0.496396  0.500000  1
+  Ga  Ga19  1  0.159552  0.361103  0.201550  1
+  Ga  Ga20  1  0.159552  0.958002  0.798450  1
+  Ga  Ga21  1  0.152890  0.347839  0.805050  1
+  Ga  Ga22  1  0.542788  0.347839  0.194950  1
+  Fe  Fe23  1  0.001429  0.000182  0.501877  1
+  Fe  Fe24  1  0.498307  0.000182  0.998754  1
+  Fe  Fe25  1  0.497322  0.497322  0.000000  1
+  Fe  Fe26  1  0.498307  0.499552  0.498123  1
+  Fe  Fe27  1  0.001429  0.499552  0.001246  1
+  Rh  Rh28  1  0.501641  0.001641  0.500000  1
+  Au  Au29  1  0.997115  0.997115  0.000000  1

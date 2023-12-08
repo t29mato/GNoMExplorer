@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_TaTi(NbSi)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.56270191
+_cell_length_b   7.56594417
+_cell_length_c   7.56594415
+_cell_angle_alpha   128.81832513
+_cell_angle_beta   128.81023984
+_cell_angle_gamma   75.31906551
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaTi(NbSi)3
+_chemical_formula_sum   'Ta2 Ti2 Nb6 Si6'
+_cell_volume   255.80746166
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.016522  0.184427  0.499586  1
+  Ta  Ta1  1  0.516522  0.016936  0.832096  1
+  Ti  Ti2  1  0.500012  0.499814  0.999860  1
+  Ti  Ti3  1  0.000012  0.000152  0.000198  1
+  Nb  Nb4  1  0.185172  0.685520  0.167316  1
+  Nb  Nb5  1  0.482465  0.981940  0.167150  1
+  Nb  Nb6  1  0.685172  0.517855  0.499651  1
+  Nb  Nb7  1  0.982465  0.815314  0.500525  1
+  Nb  Nb8  1  0.315585  0.482555  0.500472  1
+  Nb  Nb9  1  0.815585  0.315113  0.833031  1
+  Si  Si10  1  0.130579  0.630286  0.761033  1
+  Si  Si11  1  0.630579  0.869547  0.500293  1
+  Si  Si12  1  0.369403  0.130919  0.500343  1
+  Si  Si13  1  0.869403  0.369060  0.238483  1
+  Si  Si14  1  0.750263  0.750647  0.000348  1
+  Si  Si15  1  0.250263  0.249915  0.999616  1

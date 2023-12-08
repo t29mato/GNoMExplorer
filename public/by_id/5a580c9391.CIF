@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ta2Ti(AlOs2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.37707900
+_cell_length_b   6.20369600
+_cell_length_c   13.12255400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.99952861
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2Ti(AlOs2)3
+_chemical_formula_sum   'Ta4 Ti2 Al6 Os12'
+_cell_volume   356.33071687
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.999999  0.500000  0.996598  1
+  Ta  Ta1  1  0.499896  0.000000  0.165454  1
+  Ta  Ta2  1  0.999896  0.500000  0.334534  1
+  Ta  Ta3  1  0.499999  0.000000  0.503416  1
+  Ti  Ti4  1  0.000108  0.500000  0.668475  1
+  Ti  Ti5  1  0.500106  0.000000  0.831519  1
+  Al  Al6  1  0.999997  0.000000  0.996677  1
+  Al  Al7  1  0.499873  0.500000  0.165351  1
+  Al  Al8  1  0.999881  0.000000  0.334659  1
+  Al  Al9  1  0.499997  0.500000  0.503327  1
+  Al  Al10  1  0.000117  0.000000  0.668579  1
+  Al  Al11  1  0.500119  0.500000  0.831414  1
+  Os  Os12  1  0.499999  0.249160  0.998775  1
+  Os  Os13  1  0.499999  0.750840  0.998775  1
+  Os  Os14  1  0.999904  0.249698  0.166373  1
+  Os  Os15  1  0.999904  0.750301  0.166373  1
+  Os  Os16  1  0.499903  0.250289  0.333633  1
+  Os  Os17  1  0.499903  0.749712  0.333633  1
+  Os  Os18  1  0.000000  0.250809  0.501216  1
+  Os  Os19  1  0.000000  0.749192  0.501216  1
+  Os  Os20  1  0.500099  0.252231  0.667864  1
+  Os  Os21  1  0.500099  0.747770  0.667864  1
+  Os  Os22  1  0.000099  0.247723  0.832138  1
+  Os  Os23  1  0.000099  0.752276  0.832138  1

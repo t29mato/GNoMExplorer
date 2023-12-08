@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Pa4CoGe4Rh3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.31813300
+_cell_length_b   6.95859654
+_cell_length_c   7.51842112
+_cell_angle_alpha   89.86262970
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pa4CoGe4Rh3
+_chemical_formula_sum   'Pa4 Co1 Ge4 Rh3'
+_cell_volume   225.91396147
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.000000  0.493740  0.710115  1
+  Pa  Pa1  1  0.000000  0.986653  0.796244  1
+  Pa  Pa2  1  0.500000  0.508044  0.290078  1
+  Pa  Pa3  1  0.500000  0.007739  0.205546  1
+  Co  Co4  1  0.000000  0.733251  0.077885  1
+  Ge  Ge5  1  0.000000  0.317542  0.086763  1
+  Ge  Ge6  1  0.000000  0.799491  0.403648  1
+  Ge  Ge7  1  0.500000  0.696199  0.924096  1
+  Ge  Ge8  1  0.500000  0.192486  0.586544  1
+  Rh  Rh9  1  0.000000  0.219859  0.414660  1
+  Rh  Rh10  1  0.500000  0.272623  0.917330  1
+  Rh  Rh11  1  0.500000  0.772371  0.587089  1

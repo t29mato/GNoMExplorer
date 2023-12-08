@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ce8Mn(CuSi4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.10001200
+_cell_length_b   8.10001272
+_cell_length_c   8.30968600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999704
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce8Mn(CuSi4)3
+_chemical_formula_sum   'Ce8 Mn1 Cu3 Si12'
+_cell_volume   472.15720509
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.000000  0.000000  0.250615  1
+  Ce  Ce1  1  0.000000  0.000000  0.749332  1
+  Ce  Ce2  1  0.495827  0.504173  0.243388  1
+  Ce  Ce3  1  0.495827  0.991653  0.243388  1
+  Ce  Ce4  1  0.008347  0.504173  0.243388  1
+  Ce  Ce5  1  0.495373  0.504627  0.756646  1
+  Ce  Ce6  1  0.495373  0.990746  0.756646  1
+  Ce  Ce7  1  0.009254  0.504627  0.756646  1
+  Mn  Mn8  1  0.333333  0.666667  0.000061  1
+  Cu  Cu9  1  0.333333  0.666667  0.499267  1
+  Cu  Cu10  1  0.666667  0.333333  0.501947  1
+  Cu  Cu11  1  0.666667  0.333333  0.998658  1
+  Si  Si12  1  0.168076  0.831924  0.499821  1
+  Si  Si13  1  0.168076  0.336153  0.499821  1
+  Si  Si14  1  0.663847  0.831924  0.499821  1
+  Si  Si15  1  0.831059  0.168941  0.500180  1
+  Si  Si16  1  0.831059  0.662117  0.500180  1
+  Si  Si17  1  0.337883  0.168941  0.500180  1
+  Si  Si18  1  0.832841  0.167159  0.999684  1
+  Si  Si19  1  0.832841  0.665681  0.999684  1
+  Si  Si20  1  0.334319  0.167159  0.999684  1
+  Si  Si21  1  0.168443  0.831557  0.000322  1
+  Si  Si22  1  0.168443  0.336888  0.000322  1
+  Si  Si23  1  0.663112  0.831557  0.000322  1

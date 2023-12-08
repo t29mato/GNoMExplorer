@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_NiMo3PdN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.76932800
+_cell_length_b   6.76932800
+_cell_length_c   6.76932800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NiMo3PdN
+_chemical_formula_sum   'Ni4 Mo12 Pd4 N4'
+_cell_volume   310.19634304
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.062661  0.937339  0.437339  1
+  Ni  Ni1  1  0.437339  0.062661  0.937339  1
+  Ni  Ni2  1  0.937339  0.437339  0.062661  1
+  Ni  Ni3  1  0.562661  0.562661  0.562661  1
+  Mo  Mo4  1  0.123809  0.793242  0.052603  1
+  Mo  Mo5  1  0.376191  0.206758  0.552603  1
+  Mo  Mo6  1  0.876191  0.293242  0.447397  1
+  Mo  Mo7  1  0.623809  0.706758  0.947397  1
+  Mo  Mo8  1  0.793242  0.052603  0.123809  1
+  Mo  Mo9  1  0.206758  0.552603  0.376191  1
+  Mo  Mo10  1  0.293242  0.447397  0.876191  1
+  Mo  Mo11  1  0.706758  0.947397  0.623809  1
+  Mo  Mo12  1  0.052603  0.123809  0.793242  1
+  Mo  Mo13  1  0.552603  0.376191  0.206758  1
+  Mo  Mo14  1  0.447397  0.876191  0.293242  1
+  Mo  Mo15  1  0.947397  0.623809  0.706758  1
+  Pd  Pd16  1  0.685718  0.314282  0.814282  1
+  Pd  Pd17  1  0.314282  0.814282  0.685718  1
+  Pd  Pd18  1  0.814282  0.685718  0.314282  1
+  Pd  Pd19  1  0.185718  0.185718  0.185718  1
+  N  N20  1  0.375695  0.624305  0.124305  1
+  N  N21  1  0.124305  0.375695  0.624305  1
+  N  N22  1  0.624305  0.124305  0.375695  1
+  N  N23  1  0.875695  0.875695  0.875695  1

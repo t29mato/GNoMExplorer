@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Li4Nd(ThSn2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.78423051
+_cell_length_b   8.78422950
+_cell_length_c   8.78423190
+_cell_angle_alpha   148.74688543
+_cell_angle_beta   131.26738840
+_cell_angle_gamma   59.03879368
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li4Nd(ThSn2)2
+_chemical_formula_sum   'Li4 Nd1 Th2 Sn4'
+_cell_volume   262.19492337
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.642847  0.328720  0.314127  1
+  Li  Li1  1  0.358127  0.670708  0.687419  1
+  Li  Li2  1  0.014592  0.328720  0.685873  1
+  Li  Li3  1  0.983292  0.670708  0.312581  1
+  Nd  Nd4  1  0.627446  0.127446  0.500000  1
+  Th  Th5  1  0.373980  0.873980  0.500000  1
+  Th  Th6  1  0.999573  0.999573  0.000000  1
+  Sn  Sn7  1  0.216245  0.216245  0.000000  1
+  Sn  Sn8  1  0.785671  0.785671  0.000000  1
+  Sn  Sn9  1  0.700935  0.499113  0.201822  1
+  Sn  Sn10  1  0.297292  0.499113  0.798178  1

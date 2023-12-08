@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ce10GaBi6Se
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.65395900
+_cell_length_b   9.65396034
+_cell_length_c   6.57910000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999883
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce10GaBi6Se
+_chemical_formula_sum   'Ce10 Ga1 Bi6 Se1'
+_cell_volume   531.01658421
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.258262  0.000000  0.750360  1
+  Ce  Ce1  1  0.741738  0.000000  0.249640  1
+  Ce  Ce2  1  0.000000  0.258262  0.750360  1
+  Ce  Ce3  1  0.000000  0.741738  0.249640  1
+  Ce  Ce4  1  0.741738  0.741738  0.750360  1
+  Ce  Ce5  1  0.258262  0.258262  0.249640  1
+  Ce  Ce6  1  0.333333  0.666667  0.500000  1
+  Ce  Ce7  1  0.666667  0.333333  0.500000  1
+  Ce  Ce8  1  0.666667  0.333333  0.000000  1
+  Ce  Ce9  1  0.333333  0.666667  0.000000  1
+  Ga  Ga10  1  0.000000  0.000000  0.000000  1
+  Bi  Bi11  1  0.614901  0.000000  0.752080  1
+  Bi  Bi12  1  0.385099  0.000000  0.247920  1
+  Bi  Bi13  1  0.000000  0.614901  0.752080  1
+  Bi  Bi14  1  0.000000  0.385099  0.247920  1
+  Bi  Bi15  1  0.385099  0.385099  0.752080  1
+  Bi  Bi16  1  0.614901  0.614901  0.247920  1
+  Se  Se17  1  0.000000  0.000000  0.500000  1

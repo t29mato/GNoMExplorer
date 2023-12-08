@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Lu2Ni5BRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47772661
+_cell_length_b   5.50292571
+_cell_length_c   5.50292543
+_cell_angle_alpha   59.69729237
+_cell_angle_beta   60.15134997
+_cell_angle_gamma   60.15134542
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2Ni5BRh
+_chemical_formula_sum   'Lu2 Ni5 B1 Rh1'
+_cell_volume   117.28823859
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.748083  0.751917  0.751917  1
+  Lu  Lu1  1  0.248083  0.251917  0.251917  1
+  Ni  Ni2  1  0.756157  0.760497  0.243843  1
+  Ni  Ni3  1  0.762481  0.237519  0.237519  1
+  Ni  Ni4  1  0.239503  0.760497  0.243843  1
+  Ni  Ni5  1  0.239503  0.243843  0.760497  1
+  Ni  Ni6  1  0.756157  0.243843  0.760497  1
+  B  B7  1  0.508569  0.491431  0.491431  1
+  Rh  Rh8  1  0.241464  0.758536  0.758536  1

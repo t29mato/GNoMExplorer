@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na2Cu(SiPt2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.72139087
+_cell_length_b   6.69994044
+_cell_length_c   6.72139165
+_cell_angle_alpha   129.63832479
+_cell_angle_beta   115.01836150
+_cell_angle_gamma   86.61756420
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Cu(SiPt2)3
+_chemical_formula_sum   'Na2 Cu1 Si3 Pt6'
+_cell_volume   201.35558143
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.004508  0.984771  0.980264  1
+  Na  Na1  1  0.496182  0.046611  0.550429  1
+  Cu  Cu2  1  0.358428  0.431793  0.073363  1
+  Si  Si3  1  0.808799  0.239565  0.430765  1
+  Si  Si4  1  0.635744  0.680896  0.045152  1
+  Si  Si5  1  0.199518  0.620851  0.421334  1
+  Pt  Pt6  1  0.947910  0.500332  0.952215  1
+  Pt  Pt7  1  0.548116  0.500332  0.552422  1
+  Pt  Pt8  1  0.032217  0.994940  0.531183  1
+  Pt  Pt9  1  0.797704  0.494986  0.287871  1
+  Pt  Pt10  1  0.207115  0.494986  0.697281  1
+  Pt  Pt11  1  0.463757  0.994940  0.962722  1

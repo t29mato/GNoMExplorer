@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_NaAg3SeS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.05866074
+_cell_length_b   9.05866140
+_cell_length_c   9.05866102
+_cell_angle_alpha   59.99311494
+_cell_angle_beta   59.99311454
+_cell_angle_gamma   59.99310990
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaAg3SeS
+_chemical_formula_sum   'Na4 Ag12 Se4 S4'
+_cell_volume   525.54415717
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.628297  0.628297  0.132935  1
+  Na  Na1  1  0.628297  0.132935  0.628297  1
+  Na  Na2  1  0.132935  0.628297  0.628297  1
+  Na  Na3  1  0.615126  0.615126  0.615126  1
+  Ag  Ag4  1  0.074731  0.421628  0.421628  1
+  Ag  Ag5  1  0.827924  0.171056  0.171056  1
+  Ag  Ag6  1  0.421628  0.074731  0.421628  1
+  Ag  Ag7  1  0.421628  0.421628  0.074731  1
+  Ag  Ag8  1  0.081279  0.081279  0.416872  1
+  Ag  Ag9  1  0.081279  0.416872  0.081279  1
+  Ag  Ag10  1  0.165849  0.831601  0.831601  1
+  Ag  Ag11  1  0.831601  0.831601  0.165849  1
+  Ag  Ag12  1  0.171056  0.171056  0.827924  1
+  Ag  Ag13  1  0.171056  0.827924  0.171056  1
+  Ag  Ag14  1  0.831601  0.165849  0.831601  1
+  Ag  Ag15  1  0.416872  0.081279  0.081279  1
+  Se  Se16  1  0.856079  0.856079  0.424487  1
+  Se  Se17  1  0.389824  0.389824  0.389824  1
+  Se  Se18  1  0.424487  0.856079  0.856079  1
+  Se  Se19  1  0.856079  0.424487  0.856079  1
+  S  S20  1  0.383585  0.383585  0.842011  1
+  S  S21  1  0.383585  0.842011  0.383585  1
+  S  S22  1  0.842011  0.383585  0.383585  1
+  S  S23  1  0.863192  0.863192  0.863192  1

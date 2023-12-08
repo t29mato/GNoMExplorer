@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_CoBi3(Ir2O7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.21305846
+_cell_length_b   7.33693506
+_cell_length_c   7.33693500
+_cell_angle_alpha   59.99999575
+_cell_angle_beta   59.43024153
+_cell_angle_gamma   59.43024334
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoBi3(Ir2O7)2
+_chemical_formula_sum   'Co1 Bi3 Ir4 O14'
+_cell_volume   272.16953501
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.625000  0.125000  0.125000  1
+  Bi  Bi1  1  0.125000  0.625000  0.125000  1
+  Bi  Bi2  1  0.125000  0.125000  0.625000  1
+  Bi  Bi3  1  0.125000  0.125000  0.125000  1
+  Ir  Ir4  1  0.125000  0.625000  0.625000  1
+  Ir  Ir5  1  0.625000  0.125000  0.625000  1
+  Ir  Ir6  1  0.625000  0.625000  0.125000  1
+  Ir  Ir7  1  0.625000  0.625000  0.625000  1
+  O  O8  1  0.704198  0.706380  0.294711  1
+  O  O9  1  0.289871  0.292646  0.708741  1
+  O  O10  1  0.704198  0.294711  0.706380  1
+  O  O11  1  0.289871  0.708741  0.292646  1
+  O  O12  1  0.289871  0.708741  0.708741  1
+  O  O13  1  0.704198  0.294711  0.294711  1
+  O  O14  1  0.545802  0.543620  0.955289  1
+  O  O15  1  0.960129  0.957354  0.541259  1
+  O  O16  1  0.545802  0.955289  0.543620  1
+  O  O17  1  0.960129  0.541259  0.957354  1
+  O  O18  1  0.960129  0.541259  0.541259  1
+  O  O19  1  0.545802  0.955289  0.955289  1
+  O  O20  1  0.285421  0.238193  0.238193  1
+  O  O21  1  0.964579  0.011807  0.011807  1

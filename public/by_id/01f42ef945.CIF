@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Ta2Cr(Fe10B3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.51960975
+_cell_length_b   7.51960918
+_cell_length_c   7.51960900
+_cell_angle_alpha   59.99999638
+_cell_angle_beta   59.99999891
+_cell_angle_gamma   59.99999929
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2Cr(Fe10B3)2
+_chemical_formula_sum   'Ta2 Cr1 Fe20 B6'
+_cell_volume   300.65665068
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.750000  0.750000  0.750000  1
+  Ta  Ta1  1  0.250000  0.250000  0.250000  1
+  Cr  Cr2  1  0.000000  0.000000  0.000000  1
+  Fe  Fe3  1  0.615924  0.615924  0.152230  1
+  Fe  Fe4  1  0.615924  0.152230  0.615924  1
+  Fe  Fe5  1  0.152230  0.615924  0.615924  1
+  Fe  Fe6  1  0.615924  0.615924  0.615924  1
+  Fe  Fe7  1  0.384076  0.384076  0.847770  1
+  Fe  Fe8  1  0.384076  0.847770  0.384076  1
+  Fe  Fe9  1  0.847770  0.384076  0.384076  1
+  Fe  Fe10  1  0.384076  0.384076  0.384076  1
+  Fe  Fe11  1  0.000000  0.000000  0.339478  1
+  Fe  Fe12  1  0.660522  0.000000  0.339478  1
+  Fe  Fe13  1  0.000000  0.660522  0.339478  1
+  Fe  Fe14  1  0.660522  0.339478  0.000000  1
+  Fe  Fe15  1  0.000000  0.339478  0.000000  1
+  Fe  Fe16  1  0.000000  0.339478  0.660522  1
+  Fe  Fe17  1  0.339478  0.660522  0.000000  1
+  Fe  Fe18  1  0.339478  0.000000  0.660522  1
+  Fe  Fe19  1  0.339478  0.000000  0.000000  1
+  Fe  Fe20  1  0.000000  0.000000  0.660522  1
+  Fe  Fe21  1  0.000000  0.660522  0.000000  1
+  Fe  Fe22  1  0.660522  0.000000  0.000000  1
+  B  B23  1  0.726038  0.726038  0.273962  1
+  B  B24  1  0.273962  0.726038  0.273962  1
+  B  B25  1  0.726038  0.273962  0.273962  1
+  B  B26  1  0.273962  0.273962  0.726038  1
+  B  B27  1  0.726038  0.273962  0.726038  1
+  B  B28  1  0.273962  0.726038  0.726038  1

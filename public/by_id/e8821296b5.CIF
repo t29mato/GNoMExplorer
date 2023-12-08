@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_V9Tc(B2P)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.75155838
+_cell_length_b   5.75155904
+_cell_length_c   6.69183933
+_cell_angle_alpha   115.39452639
+_cell_angle_beta   115.39453044
+_cell_angle_gamma   90.12202149
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V9Tc(B2P)2
+_chemical_formula_sum   'V9 Tc1 B4 P2'
+_cell_volume   175.89976951
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.501421  0.499218  0.001293  1
+  V  V1  1  0.999218  0.001421  0.001293  1
+  V  V2  1  0.690584  0.190584  0.720938  1
+  V  V3  1  0.191044  0.029661  0.720011  1
+  V  V4  1  0.529661  0.691044  0.720011  1
+  V  V5  1  0.971406  0.471406  0.280180  1
+  V  V6  1  0.308311  0.808311  0.279282  1
+  V  V7  1  0.808661  0.969928  0.278358  1
+  V  V8  1  0.469928  0.308661  0.278358  1
+  Tc  Tc9  1  0.029801  0.529801  0.720613  1
+  B  B10  1  0.615064  0.115064  0.999165  1
+  B  B11  1  0.386904  0.886904  0.001394  1
+  B  B12  1  0.883280  0.616875  0.003107  1
+  B  B13  1  0.116875  0.383280  0.003107  1
+  P  P14  1  0.251613  0.246229  0.496446  1
+  P  P15  1  0.746229  0.751613  0.496446  1

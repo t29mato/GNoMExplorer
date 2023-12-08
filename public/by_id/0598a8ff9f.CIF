@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Li8Si2(GePd)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.03962323
+_cell_length_b   6.03962323
+_cell_length_c   6.03962323
+_cell_angle_alpha   89.94826713
+_cell_angle_beta   90.05173287
+_cell_angle_gamma   90.05173287
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li8Si2(GePd)3
+_chemical_formula_sum   'Li8 Si2 Ge3 Pd3'
+_cell_volume   220.30736185
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.249441  0.750559  0.249534  1
+  Li  Li1  1  0.750332  0.249668  0.249668  1
+  Li  Li2  1  0.249441  0.249534  0.750559  1
+  Li  Li3  1  0.000985  0.999015  0.999015  1
+  Li  Li4  1  0.001399  0.501439  0.501439  1
+  Li  Li5  1  0.750466  0.750559  0.750559  1
+  Li  Li6  1  0.498561  0.998601  0.501439  1
+  Li  Li7  1  0.498561  0.501439  0.998601  1
+  Si  Si8  1  0.495646  0.504354  0.504354  1
+  Si  Si9  1  0.249033  0.750967  0.750967  1
+  Ge  Ge10  1  0.249953  0.250218  0.250218  1
+  Ge  Ge11  1  0.749782  0.250218  0.750047  1
+  Ge  Ge12  1  0.749782  0.750047  0.250218  1
+  Pd  Pd13  1  0.006614  0.993386  0.506612  1
+  Pd  Pd14  1  0.006614  0.506612  0.993386  1
+  Pd  Pd15  1  0.493388  0.993386  0.993386  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfScCo3Si
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.00011600
+_cell_length_b   5.00011559
+_cell_length_c   7.51685000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000274
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfScCo3Si
+_chemical_formula_sum   'Hf2 Sc2 Co6 Si2'
+_cell_volume   162.75210989
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.333333  0.666667  0.566689  1
+  Hf  Hf1  1  0.666667  0.333333  0.433311  1
+  Sc  Sc2  1  0.666667  0.333333  0.052418  1
+  Sc  Sc3  1  0.333333  0.666667  0.947582  1
+  Co  Co4  1  0.830423  0.169577  0.745663  1
+  Co  Co5  1  0.660847  0.830423  0.254337  1
+  Co  Co6  1  0.169577  0.830423  0.254337  1
+  Co  Co7  1  0.830423  0.660847  0.745663  1
+  Co  Co8  1  0.169577  0.339153  0.254337  1
+  Co  Co9  1  0.339153  0.169577  0.745663  1
+  Si  Si10  1  0.000000  0.000000  0.500000  1
+  Si  Si11  1  0.000000  0.000000  0.000000  1

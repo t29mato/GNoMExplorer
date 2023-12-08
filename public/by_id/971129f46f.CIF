@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_FeCoTeCl2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.85985500
+_cell_length_b   5.12086529
+_cell_length_c   8.47661146
+_cell_angle_alpha   73.61438270
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeCoTeCl2O3
+_chemical_formula_sum   'Fe2 Co2 Te2 Cl4 O6'
+_cell_volume   285.67576975
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.250000  0.745380  0.787490  1
+  Fe  Fe1  1  0.750000  0.254620  0.212510  1
+  Co  Co2  1  0.500000  0.000000  0.000000  1
+  Co  Co3  1  0.000000  0.000000  0.000000  1
+  Te  Te4  1  0.750000  0.608397  0.752531  1
+  Te  Te5  1  0.250000  0.391603  0.247469  1
+  Cl  Cl6  1  0.250000  0.833672  0.494411  1
+  Cl  Cl7  1  0.250000  0.249197  0.799430  1
+  Cl  Cl8  1  0.750000  0.750803  0.200570  1
+  Cl  Cl9  1  0.750000  0.166328  0.505589  1
+  O  O10  1  0.040322  0.235155  0.158371  1
+  O  O11  1  0.540322  0.764845  0.841629  1
+  O  O12  1  0.959678  0.764845  0.841629  1
+  O  O13  1  0.750000  0.262159  0.928053  1
+  O  O14  1  0.250000  0.737841  0.071947  1
+  O  O15  1  0.459678  0.235155  0.158371  1

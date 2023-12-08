@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LuMgPaNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.38593938
+_cell_length_b   7.38593875
+_cell_length_c   3.52959600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   93.45370963
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuMgPaNi2
+_chemical_formula_sum   'Lu2 Mg2 Pa2 Ni4'
+_cell_volume   192.19715469
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.167747  0.332253  0.500000  1
+  Lu  Lu1  1  0.832253  0.667747  0.500000  1
+  Mg  Mg2  1  0.000000  0.000000  0.000000  1
+  Mg  Mg3  1  0.500000  0.500000  0.000000  1
+  Pa  Pa4  1  0.671339  0.171339  0.500000  1
+  Pa  Pa5  1  0.328661  0.828661  0.500000  1
+  Ni  Ni6  1  0.135310  0.635310  0.000000  1
+  Ni  Ni7  1  0.864690  0.364690  0.000000  1
+  Ni  Ni8  1  0.619922  0.880078  0.000000  1
+  Ni  Ni9  1  0.380078  0.119922  0.000000  1

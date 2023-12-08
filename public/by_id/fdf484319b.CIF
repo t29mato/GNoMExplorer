@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ce2Mn14(SiC)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.43265142
+_cell_length_b   6.43265037
+_cell_length_c   6.43265073
+_cell_angle_alpha   83.14022276
+_cell_angle_beta   83.14023135
+_cell_angle_gamma   83.14022484
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2Mn14(SiC)3
+_chemical_formula_sum   'Ce2 Mn14 Si3 C3'
+_cell_volume   260.88165309
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.653461  0.653461  0.653461  1
+  Ce  Ce1  1  0.346539  0.346539  0.346539  1
+  Mn  Mn2  1  0.274532  0.725468  0.000000  1
+  Mn  Mn3  1  0.725468  0.000000  0.274532  1
+  Mn  Mn4  1  0.000000  0.274532  0.725468  1
+  Mn  Mn5  1  0.274532  0.000000  0.725468  1
+  Mn  Mn6  1  0.000000  0.725468  0.274532  1
+  Mn  Mn7  1  0.725468  0.274532  0.000000  1
+  Mn  Mn8  1  0.346155  0.346155  0.855702  1
+  Mn  Mn9  1  0.346155  0.855702  0.346155  1
+  Mn  Mn10  1  0.855702  0.346155  0.346155  1
+  Mn  Mn11  1  0.653845  0.653845  0.144298  1
+  Mn  Mn12  1  0.653845  0.144298  0.653845  1
+  Mn  Mn13  1  0.144298  0.653845  0.653845  1
+  Mn  Mn14  1  0.904614  0.904614  0.904614  1
+  Mn  Mn15  1  0.095386  0.095386  0.095386  1
+  Si  Si16  1  0.000000  0.000000  0.500000  1
+  Si  Si17  1  0.000000  0.500000  0.000000  1
+  Si  Si18  1  0.500000  0.000000  0.000000  1
+  C  C19  1  0.500000  0.500000  0.000000  1
+  C  C20  1  0.500000  0.000000  0.500000  1
+  C  C21  1  0.000000  0.500000  0.500000  1

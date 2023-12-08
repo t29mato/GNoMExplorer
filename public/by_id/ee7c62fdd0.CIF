@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ba3Sn(BRh3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.25207386
+_cell_length_b   8.25207417
+_cell_length_c   8.25207416
+_cell_angle_alpha   41.83587930
+_cell_angle_beta   41.83587339
+_cell_angle_gamma   41.83588027
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3Sn(BRh3)2
+_chemical_formula_sum   'Ba3 Sn1 B2 Rh6'
+_cell_volume   226.06836441
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.354959  0.354959  0.354959  1
+  Ba  Ba1  1  0.500000  0.500000  0.500000  1
+  Ba  Ba2  1  0.645041  0.645041  0.645041  1
+  Sn  Sn3  1  0.000000  0.000000  0.000000  1
+  B  B4  1  0.169407  0.169407  0.169407  1
+  B  B5  1  0.830593  0.830593  0.830593  1
+  Rh  Rh6  1  0.571860  0.057975  0.057975  1
+  Rh  Rh7  1  0.057975  0.571860  0.057975  1
+  Rh  Rh8  1  0.942025  0.942025  0.428139  1
+  Rh  Rh9  1  0.057975  0.057975  0.571861  1
+  Rh  Rh10  1  0.942025  0.428140  0.942025  1
+  Rh  Rh11  1  0.428140  0.942025  0.942025  1

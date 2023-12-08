@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Ta6Co15Si7Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.90556000
+_cell_length_b   7.90555994
+_cell_length_c   7.89870149
+_cell_angle_alpha   120.02872929
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000025
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta6Co15Si7Ni
+_chemical_formula_sum   'Ta6 Co15 Si7 Ni1'
+_cell_volume   348.91308012
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.200997  0.000921  0.201918  1
+  Ta  Ta1  1  0.200997  0.401994  0.201918  1
+  Ta  Ta2  1  0.799923  0.000921  0.201918  1
+  Ta  Ta3  1  0.202069  0.999671  0.797272  1
+  Ta  Ta4  1  0.797601  0.595203  0.797272  1
+  Ta  Ta5  1  0.797601  0.999671  0.797272  1
+  Co  Co6  1  0.497588  0.331907  0.166226  1
+  Co  Co7  1  0.834318  0.331907  0.166226  1
+  Co  Co8  1  0.834318  0.668638  0.166226  1
+  Co  Co9  1  0.618125  0.236247  0.380640  1
+  Co  Co10  1  0.144393  0.762517  0.380640  1
+  Co  Co11  1  0.618125  0.762517  0.380640  1
+  Co  Co12  1  0.166328  0.332656  0.498985  1
+  Co  Co13  1  0.834099  0.668199  0.502298  1
+  Co  Co14  1  0.855753  0.237215  0.618676  1
+  Co  Co15  1  0.381463  0.237215  0.618677  1
+  Co  Co16  1  0.381463  0.762925  0.618677  1
+  Co  Co17  1  0.165701  0.331402  0.833863  1
+  Co  Co18  1  0.165701  0.668161  0.833863  1
+  Co  Co19  1  0.502460  0.668161  0.833863  1
+  Co  Co20  1  0.618789  0.237577  0.856366  1
+  Si  Si21  1  0.500280  0.000559  0.998737  1
+  Si  Si22  1  0.998178  0.498458  0.998737  1
+  Si  Si23  1  0.500280  0.498458  0.998737  1
+  Si  Si24  1  0.000131  0.000262  0.500407  1
+  Si  Si25  1  0.500916  0.001832  0.502748  1
+  Si  Si26  1  0.000131  0.500276  0.500407  1
+  Si  Si27  1  0.500145  0.500276  0.500407  1
+  Ni  Ni28  1  0.382128  0.764256  0.146381  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ErHf(SiMo)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.57420700
+_cell_length_b   7.11977365
+_cell_length_c   8.30242597
+_cell_angle_alpha   90.24956819
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErHf(SiMo)2
+_chemical_formula_sum   'Er2 Hf2 Si4 Mo4'
+_cell_volume   211.27435262
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.250000  0.043164  0.331690  1
+  Er  Er1  1  0.750000  0.956836  0.668310  1
+  Hf  Hf2  1  0.250000  0.542518  0.164659  1
+  Hf  Hf3  1  0.750000  0.457482  0.835341  1
+  Si  Si4  1  0.250000  0.267664  0.640295  1
+  Si  Si5  1  0.750000  0.732336  0.359705  1
+  Si  Si6  1  0.250000  0.752376  0.867485  1
+  Si  Si7  1  0.750000  0.247624  0.132515  1
+  Mo  Mo8  1  0.750000  0.375413  0.440297  1
+  Mo  Mo9  1  0.250000  0.624587  0.559703  1
+  Mo  Mo10  1  0.750000  0.867023  0.060572  1
+  Mo  Mo11  1  0.250000  0.132977  0.939428  1

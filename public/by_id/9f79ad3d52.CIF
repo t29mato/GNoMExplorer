@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ce(NbC)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.36992214
+_cell_length_b   6.36992365
+_cell_length_c   6.36994406
+_cell_angle_alpha   93.91686469
+_cell_angle_beta   93.91697243
+_cell_angle_gamma   149.69818464
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce(NbC)4
+_chemical_formula_sum   'Ce1 Nb4 C4'
+_cell_volume   125.87755144
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.000000  0.000000  0.000000  1
+  Nb  Nb1  1  0.825936  0.372158  0.198096  1
+  Nb  Nb2  1  0.627840  0.825936  0.453777  1
+  Nb  Nb3  1  0.372159  0.174063  0.546223  1
+  Nb  Nb4  1  0.174063  0.627841  0.801904  1
+  C  C5  1  0.399280  0.724766  0.124048  1
+  C  C6  1  0.724766  0.600718  0.325486  1
+  C  C7  1  0.275233  0.399281  0.674514  1
+  C  C8  1  0.600719  0.275233  0.875952  1

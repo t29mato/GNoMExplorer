@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_LiLa16Ag(HgIr2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.13214911
+_cell_length_b   10.13664002
+_cell_length_c   10.13664000
+_cell_angle_alpha   59.87259404
+_cell_angle_beta   59.81990211
+_cell_angle_gamma   59.81989326
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiLa16Ag(HgIr2)2
+_chemical_formula_sum   'Li1 La16 Ag1 Hg2 Ir4'
+_cell_volume   733.44804965
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.816542  0.815723  0.815723  1
+  La  La1  1  0.597226  0.598810  0.598810  1
+  La  La2  1  0.596963  0.598291  0.207349  1
+  La  La3  1  0.596963  0.207349  0.598291  1
+  La  La4  1  0.208559  0.596792  0.596792  1
+  La  La5  1  0.057645  0.443479  0.443479  1
+  La  La6  1  0.436452  0.062681  0.062681  1
+  La  La7  1  0.442297  0.058706  0.441962  1
+  La  La8  1  0.060786  0.438650  0.062338  1
+  La  La9  1  0.442297  0.441962  0.058706  1
+  La  La10  1  0.060786  0.062338  0.438650  1
+  La  La11  1  0.191999  0.812108  0.812108  1
+  La  La12  1  0.810160  0.190214  0.190214  1
+  La  La13  1  0.812433  0.189968  0.810544  1
+  La  La14  1  0.191935  0.810307  0.187776  1
+  La  La15  1  0.812433  0.810544  0.189968  1
+  La  La16  1  0.191935  0.187776  0.810307  1
+  Ag  Ag17  1  0.499098  0.834908  0.834908  1
+  Hg  Hg18  1  0.836069  0.837849  0.498242  1
+  Hg  Hg19  1  0.836069  0.498242  0.837849  1
+  Ir  Ir20  1  0.391889  0.391056  0.391056  1
+  Ir  Ir21  1  0.391285  0.391627  0.828287  1
+  Ir  Ir22  1  0.391285  0.828287  0.391627  1
+  Ir  Ir23  1  0.826891  0.392330  0.392330  1

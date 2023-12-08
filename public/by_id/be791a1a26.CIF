@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Li2Ce(USb2)5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.22067600
+_cell_length_b   9.22454214
+_cell_length_c   6.12214700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.98614394
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Ce(USb2)5
+_chemical_formula_sum   'Li2 Ce1 U5 Sb10'
+_cell_volume   451.02704724
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.999628  0.000000  0.500251  1
+  Li  Li1  1  0.999628  0.000000  0.999749  1
+  Ce  Ce2  1  0.616800  0.000000  0.750000  1
+  U  U3  1  0.384390  0.000000  0.250000  1
+  U  U4  1  0.000173  0.613163  0.750000  1
+  U  U5  1  0.999528  0.385660  0.250000  1
+  U  U6  1  0.387010  0.386837  0.750000  1
+  U  U7  1  0.613868  0.614340  0.250000  1
+  Sb  Sb8  1  0.263482  0.000000  0.750000  1
+  Sb  Sb9  1  0.736035  0.000000  0.250000  1
+  Sb  Sb10  1  0.003881  0.269193  0.750000  1
+  Sb  Sb11  1  0.999912  0.734076  0.250000  1
+  Sb  Sb12  1  0.734688  0.730807  0.750000  1
+  Sb  Sb13  1  0.265836  0.265924  0.250000  1
+  Sb  Sb14  1  0.330922  0.664272  0.498052  1
+  Sb  Sb15  1  0.666650  0.335728  0.498052  1
+  Sb  Sb16  1  0.666650  0.335728  0.001948  1
+  Sb  Sb17  1  0.330922  0.664272  0.001948  1

@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_La2MgSi4(PPd10)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.72439455
+_cell_length_b   8.72439601
+_cell_length_c   8.72831100
+_cell_angle_alpha   59.98515848
+_cell_angle_beta   59.98515291
+_cell_angle_gamma   60.02968818
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2MgSi4(PPd10)2
+_chemical_formula_sum   'La2 Mg1 Si4 P2 Pd20'
+_cell_volume   469.77046240
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.250000  0.250000  0.250000  1
+  La  La1  1  0.750000  0.750000  0.750000  1
+  Mg  Mg2  1  0.000000  0.000000  0.000000  1
+  Si  Si3  1  0.736044  0.263956  0.263956  1
+  Si  Si4  1  0.263956  0.736044  0.736044  1
+  Si  Si5  1  0.263956  0.736044  0.263956  1
+  Si  Si6  1  0.736044  0.263956  0.736044  1
+  P  P7  1  0.263905  0.263905  0.736095  1
+  P  P8  1  0.736095  0.736095  0.263905  1
+  Pd  Pd9  1  0.385396  0.385396  0.387241  1
+  Pd  Pd10  1  0.614604  0.614604  0.612759  1
+  Pd  Pd11  1  0.385396  0.385396  0.841966  1
+  Pd  Pd12  1  0.387241  0.841966  0.385396  1
+  Pd  Pd13  1  0.614604  0.614604  0.158034  1
+  Pd  Pd14  1  0.612759  0.158034  0.614604  1
+  Pd  Pd15  1  0.841966  0.387241  0.385396  1
+  Pd  Pd16  1  0.158034  0.612759  0.614604  1
+  Pd  Pd17  1  0.343437  0.002029  0.997971  1
+  Pd  Pd18  1  0.656563  0.997971  0.002029  1
+  Pd  Pd19  1  0.002029  0.343437  0.656563  1
+  Pd  Pd20  1  0.997971  0.656563  0.343437  1
+  Pd  Pd21  1  0.002029  0.343437  0.997971  1
+  Pd  Pd22  1  0.656563  0.997971  0.343437  1
+  Pd  Pd23  1  0.997971  0.656563  0.002029  1
+  Pd  Pd24  1  0.343437  0.002029  0.656563  1
+  Pd  Pd25  1  0.000000  0.000000  0.345121  1
+  Pd  Pd26  1  0.000000  0.000000  0.654879  1
+  Pd  Pd27  1  0.654879  0.345121  0.000000  1
+  Pd  Pd28  1  0.345121  0.654879  0.000000  1

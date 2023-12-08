@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Dy2CoSi2Ru
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.28531200
+_cell_length_b   6.98354090
+_cell_length_c   6.95307817
+_cell_angle_alpha   90.28156041
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy2CoSi2Ru
+_chemical_formula_sum   'Dy4 Co2 Si4 Ru2'
+_cell_volume   208.07983559
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.750000  0.194225  0.516055  1
+  Dy  Dy1  1  0.250000  0.805775  0.483945  1
+  Dy  Dy2  1  0.750000  0.320711  0.019004  1
+  Dy  Dy3  1  0.250000  0.679289  0.980996  1
+  Co  Co4  1  0.250000  0.433475  0.647892  1
+  Co  Co5  1  0.750000  0.566525  0.352108  1
+  Si  Si6  1  0.750000  0.891156  0.197546  1
+  Si  Si7  1  0.250000  0.108844  0.802454  1
+  Si  Si8  1  0.750000  0.605293  0.691173  1
+  Si  Si9  1  0.250000  0.394707  0.308827  1
+  Ru  Ru10  1  0.250000  0.068995  0.153019  1
+  Ru  Ru11  1  0.750000  0.931005  0.846981  1

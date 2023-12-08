@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_KCaCuH4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.57082900
+_cell_length_b   7.57082900
+_cell_length_c   7.57082900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KCaCuH4
+_chemical_formula_sum   'K4 Ca4 Cu4 H16'
+_cell_volume   433.94062589
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.160587  0.660587  0.839413  1
+  K  K1  1  0.660587  0.839413  0.160587  1
+  K  K2  1  0.839413  0.160587  0.660587  1
+  K  K3  1  0.339413  0.339413  0.339413  1
+  Ca  Ca4  1  0.840963  0.340963  0.159037  1
+  Ca  Ca5  1  0.340963  0.159037  0.840963  1
+  Ca  Ca6  1  0.159037  0.840963  0.340963  1
+  Ca  Ca7  1  0.659037  0.659037  0.659037  1
+  Cu  Cu8  1  0.450998  0.950998  0.549002  1
+  Cu  Cu9  1  0.950998  0.549002  0.450998  1
+  Cu  Cu10  1  0.549002  0.450998  0.950998  1
+  Cu  Cu11  1  0.049002  0.049002  0.049002  1
+  H  H12  1  0.572663  0.072663  0.427337  1
+  H  H13  1  0.072663  0.427337  0.572663  1
+  H  H14  1  0.427337  0.572663  0.072663  1
+  H  H15  1  0.927337  0.927337  0.927337  1
+  H  H16  1  0.252008  0.968796  0.073219  1
+  H  H17  1  0.926781  0.752008  0.531204  1
+  H  H18  1  0.468796  0.426781  0.747992  1
+  H  H19  1  0.752008  0.531204  0.926781  1
+  H  H20  1  0.426781  0.747992  0.468796  1
+  H  H21  1  0.968796  0.073219  0.252008  1
+  H  H22  1  0.747992  0.468796  0.426781  1
+  H  H23  1  0.073219  0.252008  0.968796  1
+  H  H24  1  0.531204  0.926781  0.752008  1
+  H  H25  1  0.247992  0.031204  0.573219  1
+  H  H26  1  0.573219  0.247992  0.031204  1
+  H  H27  1  0.031204  0.573219  0.247992  1

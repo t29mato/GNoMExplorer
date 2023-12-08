@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Pr12Co(PtBr4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.52099904
+_cell_length_b   10.52099968
+_cell_length_c   10.52099970
+_cell_angle_alpha   109.30941398
+_cell_angle_beta   109.30941800
+_cell_angle_gamma   109.30942359
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr12Co(PtBr4)3
+_chemical_formula_sum   'Pr12 Co1 Pt3 Br12'
+_cell_volume   901.82809265
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.467843  0.477597  0.239396  1
+  Pr  Pr1  1  0.750000  0.236983  0.263017  1
+  Pr  Pr2  1  0.750000  0.013431  0.486569  1
+  Pr  Pr3  1  0.239396  0.467843  0.477597  1
+  Pr  Pr4  1  0.263017  0.750000  0.236983  1
+  Pr  Pr5  1  0.032157  0.260604  0.022403  1
+  Pr  Pr6  1  0.022403  0.032157  0.260604  1
+  Pr  Pr7  1  0.486569  0.750000  0.013431  1
+  Pr  Pr8  1  0.477597  0.239396  0.467843  1
+  Pr  Pr9  1  0.013431  0.486569  0.750000  1
+  Pr  Pr10  1  0.260604  0.022403  0.032157  1
+  Pr  Pr11  1  0.236983  0.263017  0.750000  1
+  Co  Co12  1  0.250000  0.250000  0.250000  1
+  Pt  Pt13  1  0.499449  0.000551  0.250000  1
+  Pt  Pt14  1  0.000551  0.250000  0.499449  1
+  Pt  Pt15  1  0.250000  0.499449  0.000551  1
+  Br  Br16  1  0.250000  0.753797  0.746203  1
+  Br  Br17  1  0.509931  0.504839  0.754586  1
+  Br  Br18  1  0.990069  0.745414  0.995161  1
+  Br  Br19  1  0.746203  0.250000  0.753797  1
+  Br  Br20  1  0.995161  0.990069  0.745414  1
+  Br  Br21  1  0.250000  0.994711  0.505289  1
+  Br  Br22  1  0.754586  0.509931  0.504839  1
+  Br  Br23  1  0.505289  0.250000  0.994711  1
+  Br  Br24  1  0.753797  0.746203  0.250000  1
+  Br  Br25  1  0.745414  0.995161  0.990069  1
+  Br  Br26  1  0.994711  0.505289  0.250000  1
+  Br  Br27  1  0.504839  0.754586  0.509931  1

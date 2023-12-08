@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_PrNd2Pa(Pd2Pb)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.74045400
+_cell_length_b   8.06912444
+_cell_length_c   8.06912485
+_cell_angle_alpha   91.81418325
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrNd2Pa(Pd2Pb)2
+_chemical_formula_sum   'Pr1 Nd2 Pa1 Pd4 Pb2'
+_cell_volume   243.42177437
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.500000  0.824178  0.324178  1
+  Nd  Nd1  1  0.500000  0.326202  0.172999  1
+  Nd  Nd2  1  0.500000  0.672999  0.826202  1
+  Pa  Pa3  1  0.500000  0.170878  0.670878  1
+  Pd  Pd4  1  0.000000  0.616821  0.116821  1
+  Pd  Pd5  1  0.000000  0.359334  0.859334  1
+  Pd  Pd6  1  0.000000  0.893539  0.634276  1
+  Pd  Pd7  1  0.000000  0.134276  0.393539  1
+  Pb  Pb8  1  0.000000  0.999505  0.002266  1
+  Pb  Pb9  1  0.000000  0.502266  0.499505  1

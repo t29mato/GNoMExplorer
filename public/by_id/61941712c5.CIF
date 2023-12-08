@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ThNi3BRu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.22490827
+_cell_length_b   5.22490801
+_cell_length_c   7.15756700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   122.82732334
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThNi3BRu
+_chemical_formula_sum   'Th2 Ni6 B2 Ru2'
+_cell_volume   164.19553019
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.000000  0.000000  0.500000  1
+  Th  Th1  1  0.000000  0.000000  0.000000  1
+  Ni  Ni2  1  0.332911  0.667089  0.000000  1
+  Ni  Ni3  1  0.667089  0.332911  0.000000  1
+  Ni  Ni4  1  0.500000  0.000000  0.291483  1
+  Ni  Ni5  1  0.000000  0.500000  0.291483  1
+  Ni  Ni6  1  0.500000  0.000000  0.708517  1
+  Ni  Ni7  1  0.000000  0.500000  0.708517  1
+  B  B8  1  0.671403  0.328597  0.500000  1
+  B  B9  1  0.328597  0.671403  0.500000  1
+  Ru  Ru10  1  0.500000  0.500000  0.291091  1
+  Ru  Ru11  1  0.500000  0.500000  0.708909  1

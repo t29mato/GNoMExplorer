@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_CaAc(InHg2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.34252066
+_cell_length_b   7.55776100
+_cell_length_c   16.24166743
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.87810812
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaAc(InHg2)2
+_chemical_formula_sum   'Ca3 Ac3 In6 Hg12'
+_cell_volume   655.79635013
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.499956  0.000000  0.504475  1
+  Ca  Ca1  1  0.000161  0.500000  0.666783  1
+  Ca  Ca2  1  0.499965  0.000000  0.828654  1
+  Ac  Ac3  1  0.000035  0.500000  0.995133  1
+  Ac  Ac4  1  0.499707  0.000000  0.166805  1
+  Ac  Ac5  1  0.000068  0.500000  0.338171  1
+  In  In6  1  0.999887  0.000000  0.997629  1
+  In  In7  1  0.500105  0.500000  0.166544  1
+  In  In8  1  0.000086  0.000000  0.335756  1
+  In  In9  1  0.499944  0.500000  0.503247  1
+  In  In10  1  0.000089  0.000000  0.666583  1
+  In  In11  1  0.499879  0.500000  0.830310  1
+  Hg  Hg12  1  0.499789  0.237466  0.992769  1
+  Hg  Hg13  1  0.499789  0.762534  0.992769  1
+  Hg  Hg14  1  0.999868  0.258087  0.166624  1
+  Hg  Hg15  1  0.999868  0.741913  0.166624  1
+  Hg  Hg16  1  0.500216  0.237272  0.340701  1
+  Hg  Hg17  1  0.500216  0.762728  0.340701  1
+  Hg  Hg18  1  0.999922  0.241424  0.506387  1
+  Hg  Hg19  1  0.999922  0.758576  0.506387  1
+  Hg  Hg20  1  0.500154  0.254253  0.666712  1
+  Hg  Hg21  1  0.500154  0.745747  0.666712  1
+  Hg  Hg22  1  0.000009  0.241722  0.826761  1
+  Hg  Hg23  1  0.000009  0.758278  0.826761  1

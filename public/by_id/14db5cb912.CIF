@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_La2Th(AlPt)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.41014354
+_cell_length_b   8.41014386
+_cell_length_c   8.41014287
+_cell_angle_alpha   150.83587197
+_cell_angle_beta   128.25361293
+_cell_angle_gamma   60.50347084
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2Th(AlPt)4
+_chemical_formula_sum   'La2 Th1 Al4 Pt4'
+_cell_volume   225.81722891
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.879431  0.879431  0.000000  1
+  La  La1  1  0.120569  0.120569  0.000000  1
+  Th  Th2  1  0.500000  0.000000  0.500000  1
+  Al  Al3  1  0.486384  0.678908  0.807477  1
+  Al  Al4  1  0.871430  0.678908  0.192523  1
+  Al  Al5  1  0.128570  0.321092  0.807477  1
+  Al  Al6  1  0.513616  0.321092  0.192523  1
+  Pt  Pt7  1  0.283324  0.783324  0.500000  1
+  Pt  Pt8  1  0.716676  0.216676  0.500000  1
+  Pt  Pt9  1  0.779104  0.500000  0.279104  1
+  Pt  Pt10  1  0.220896  0.500000  0.720896  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Er2MnFe3(SiC)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.52106392
+_cell_length_b   5.52106386
+_cell_length_c   6.83191893
+_cell_angle_alpha   91.13148662
+_cell_angle_beta   88.86851492
+_cell_angle_gamma   140.64463559
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er2MnFe3(SiC)2
+_chemical_formula_sum   'Er2 Mn1 Fe3 Si2 C2'
+_cell_volume   132.02916696
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.547112  0.452888  0.247631  1
+  Er  Er1  1  0.453106  0.546894  0.752009  1
+  Mn  Mn2  1  0.831086  0.168914  0.441251  1
+  Fe  Fe3  1  0.833814  0.166186  0.063744  1
+  Fe  Fe4  1  0.164548  0.835452  0.938035  1
+  Fe  Fe5  1  0.172395  0.827605  0.557372  1
+  Si  Si6  1  0.267161  0.732839  0.235740  1
+  Si  Si7  1  0.730231  0.269769  0.762944  1
+  C  C8  1  0.999249  0.000751  0.000627  1
+  C  C9  1  0.001298  0.998702  0.500646  1

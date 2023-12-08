@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_SrPu2(CdAu)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.01134513
+_cell_length_b   8.01134409
+_cell_length_c   4.04362300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.73332123
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrPu2(CdAu)3
+_chemical_formula_sum   'Sr1 Pu2 Cd3 Au3'
+_cell_volume   223.07724041
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.404644  0.404644  0.000000  1
+  Pu  Pu1  1  0.596031  0.001416  0.000000  1
+  Pu  Pu2  1  0.001416  0.596031  0.000000  1
+  Cd  Cd3  1  0.256831  0.997210  0.500000  1
+  Cd  Cd4  1  0.997210  0.256831  0.500000  1
+  Cd  Cd5  1  0.743129  0.743129  0.500000  1
+  Au  Au6  1  0.331165  0.674705  0.500000  1
+  Au  Au7  1  0.674705  0.331165  0.500000  1
+  Au  Au8  1  0.994868  0.994868  0.000000  1

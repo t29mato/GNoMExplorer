@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ti12AlSi7(RhC)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.06652426
+_cell_length_b   8.06105748
+_cell_length_c   8.06652500
+_cell_angle_alpha   59.97756478
+_cell_angle_beta   60.00000105
+_cell_angle_gamma   59.97756443
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti12AlSi7(RhC)4
+_chemical_formula_sum   'Ti12 Al1 Si7 Rh4 C4'
+_cell_volume   370.76829888
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.937908  0.937873  0.562110  1
+  Ti  Ti1  1  0.688974  0.311295  0.310758  1
+  Ti  Ti2  1  0.311059  0.684731  0.693151  1
+  Ti  Ti3  1  0.693151  0.684731  0.311059  1
+  Ti  Ti4  1  0.688974  0.311295  0.688974  1
+  Ti  Ti5  1  0.311059  0.684731  0.311059  1
+  Ti  Ti6  1  0.562110  0.937873  0.562110  1
+  Ti  Ti7  1  0.562110  0.937873  0.937908  1
+  Ti  Ti8  1  0.937835  0.562878  0.561452  1
+  Ti  Ti9  1  0.937835  0.562878  0.937835  1
+  Ti  Ti10  1  0.310758  0.311295  0.688974  1
+  Ti  Ti11  1  0.561452  0.562878  0.937835  1
+  Al  Al12  1  0.333993  0.998020  0.333993  1
+  Si  Si13  1  0.912163  0.263513  0.912163  1
+  Si  Si14  1  0.337199  0.333148  0.992452  1
+  Si  Si15  1  0.992452  0.333148  0.337199  1
+  Si  Si16  1  0.337199  0.333148  0.337199  1
+  Si  Si17  1  0.259855  0.913418  0.913364  1
+  Si  Si18  1  0.913364  0.913418  0.913364  1
+  Si  Si19  1  0.913364  0.913418  0.259855  1
+  Rh  Rh20  1  0.125051  0.624848  0.125051  1
+  Rh  Rh21  1  0.120972  0.127310  0.630746  1
+  Rh  Rh22  1  0.630746  0.127310  0.120972  1
+  Rh  Rh23  1  0.120972  0.127310  0.120972  1
+  C  C24  1  0.624789  0.125632  0.624789  1
+  C  C25  1  0.624506  0.625342  0.125646  1
+  C  C26  1  0.125646  0.625342  0.624506  1
+  C  C27  1  0.624506  0.625342  0.624506  1

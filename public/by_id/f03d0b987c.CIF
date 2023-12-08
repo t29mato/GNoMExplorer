@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_MnNb3Ga2C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.27621460
+_cell_length_b   8.27733481
+_cell_length_c   8.27842812
+_cell_angle_alpha   60.01553163
+_cell_angle_beta   59.99807385
+_cell_angle_gamma   60.01594670
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnNb3Ga2C
+_chemical_formula_sum   'Mn4 Nb12 Ga8 C4'
+_cell_volume   401.09948237
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.125000  0.125000  0.125000  1
+  Mn  Mn1  1  0.625000  0.125000  0.125000  1
+  Mn  Mn2  1  0.125000  0.625000  0.125000  1
+  Mn  Mn3  1  0.125000  0.125000  0.625000  1
+  Nb  Nb4  1  0.695181  0.304753  0.695278  1
+  Nb  Nb5  1  0.945286  0.554804  0.554708  1
+  Nb  Nb6  1  0.554737  0.945163  0.945356  1
+  Nb  Nb7  1  0.945168  0.554743  0.945340  1
+  Nb  Nb8  1  0.554756  0.554729  0.945373  1
+  Nb  Nb9  1  0.945290  0.945280  0.554666  1
+  Nb  Nb10  1  0.695244  0.695271  0.304627  1
+  Nb  Nb11  1  0.304714  0.695196  0.695292  1
+  Nb  Nb12  1  0.695263  0.304837  0.304644  1
+  Nb  Nb13  1  0.304710  0.304720  0.695334  1
+  Nb  Nb14  1  0.554819  0.945247  0.554722  1
+  Nb  Nb15  1  0.304832  0.695257  0.304660  1
+  Ga  Ga16  1  0.336192  0.336151  0.336270  1
+  Ga  Ga17  1  0.258559  0.913896  0.913764  1
+  Ga  Ga18  1  0.913854  0.258570  0.913788  1
+  Ga  Ga19  1  0.913781  0.913826  0.258677  1
+  Ga  Ga20  1  0.336146  0.991430  0.336212  1
+  Ga  Ga21  1  0.336219  0.336174  0.991323  1
+  Ga  Ga22  1  0.991441  0.336104  0.336236  1
+  Ga  Ga23  1  0.913808  0.913849  0.913730  1
+  C  C24  1  0.625000  0.625000  0.625000  1
+  C  C25  1  0.125000  0.625000  0.625000  1
+  C  C26  1  0.625000  0.125000  0.625000  1
+  C  C27  1  0.625000  0.625000  0.125000  1

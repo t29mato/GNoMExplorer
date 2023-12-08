@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_K3Sr(USe3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.54365382
+_cell_length_b   7.54365305
+_cell_length_c   8.09162304
+_cell_angle_alpha   81.00841762
+_cell_angle_beta   81.00840084
+_cell_angle_gamma   119.95779091
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3Sr(USe3)2
+_chemical_formula_sum   'K3 Sr1 U2 Se6'
+_cell_volume   378.98182526
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.339366  0.660634  0.500000  1
+  K  K1  1  0.660634  0.339366  0.500000  1
+  K  K2  1  0.000000  0.000000  0.500000  1
+  Sr  Sr3  1  0.500000  0.500000  0.000000  1
+  U  U4  1  0.167425  0.832575  0.000000  1
+  U  U5  1  0.832575  0.167425  0.000000  1
+  Se  Se6  1  0.785401  0.785401  0.206276  1
+  Se  Se7  1  0.429939  0.074996  0.207937  1
+  Se  Se8  1  0.074996  0.429939  0.207937  1
+  Se  Se9  1  0.570061  0.925004  0.792063  1
+  Se  Se10  1  0.925004  0.570061  0.792063  1
+  Se  Se11  1  0.214599  0.214599  0.793724  1

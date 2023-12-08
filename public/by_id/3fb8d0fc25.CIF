@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Zr4TiBeRe6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.25829900
+_cell_length_b   5.25829744
+_cell_length_c   8.59961800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000353
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr4TiBeRe6
+_chemical_formula_sum   'Zr4 Ti1 Be1 Re6'
+_cell_volume   205.92079317
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.333333  0.666667  0.432493  1
+  Zr  Zr1  1  0.666667  0.333333  0.567507  1
+  Zr  Zr2  1  0.666667  0.333333  0.939934  1
+  Zr  Zr3  1  0.333333  0.666667  0.060066  1
+  Ti  Ti4  1  0.000000  0.000000  0.500000  1
+  Be  Be5  1  0.000000  0.000000  0.000000  1
+  Re  Re6  1  0.832274  0.167726  0.242849  1
+  Re  Re7  1  0.832274  0.664548  0.242849  1
+  Re  Re8  1  0.335452  0.167726  0.242849  1
+  Re  Re9  1  0.167726  0.832274  0.757151  1
+  Re  Re10  1  0.167726  0.335452  0.757151  1
+  Re  Re11  1  0.664548  0.832274  0.757151  1

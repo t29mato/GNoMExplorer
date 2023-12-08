@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_SrPrSiN3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.12628800
+_cell_length_b   6.12628818
+_cell_length_c   11.92562600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   127.21632932
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrPrSiN3
+_chemical_formula_sum   'Sr4 Pr4 Si4 N12'
+_cell_volume   356.43811014
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.051673  0.948327  0.856302  1
+  Sr  Sr1  1  0.948327  0.051673  0.143698  1
+  Sr  Sr2  1  0.448327  0.551673  0.356302  1
+  Sr  Sr3  1  0.551673  0.448327  0.643698  1
+  Pr  Pr4  1  0.643384  0.356616  0.078520  1
+  Pr  Pr5  1  0.356616  0.643384  0.921480  1
+  Pr  Pr6  1  0.856616  0.143384  0.578520  1
+  Pr  Pr7  1  0.143384  0.856616  0.421480  1
+  Si  Si8  1  0.734323  0.265677  0.835989  1
+  Si  Si9  1  0.265677  0.734323  0.164011  1
+  Si  Si10  1  0.765677  0.234323  0.335989  1
+  Si  Si11  1  0.234323  0.765677  0.664011  1
+  N  N12  1  0.577209  0.422791  0.873132  1
+  N  N13  1  0.422791  0.577209  0.126868  1
+  N  N14  1  0.922791  0.077209  0.373132  1
+  N  N15  1  0.077209  0.922791  0.626868  1
+  N  N16  1  0.518667  0.981333  0.750000  1
+  N  N17  1  0.981333  0.518667  0.250000  1
+  N  N18  1  0.481333  0.018667  0.250000  1
+  N  N19  1  0.018667  0.481333  0.750000  1
+  N  N20  1  0.832472  0.167528  0.951396  1
+  N  N21  1  0.167528  0.832472  0.048604  1
+  N  N22  1  0.667528  0.332472  0.451396  1
+  N  N23  1  0.332472  0.667528  0.548604  1

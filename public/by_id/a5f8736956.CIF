@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ta5(CuSi)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.42841712
+_cell_length_b   7.42841582
+_cell_length_c   7.43076832
+_cell_angle_alpha   93.44693370
+_cell_angle_beta   93.39936764
+_cell_angle_gamma   151.70793878
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta5(CuSi)4
+_chemical_formula_sum   'Ta5 Cu4 Si4'
+_cell_volume   188.45551757
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.499948  0.499985  0.999933  1
+  Ta  Ta1  1  0.128444  0.804857  0.933302  1
+  Ta  Ta2  1  0.195364  0.128800  0.324164  1
+  Ta  Ta3  1  0.804593  0.871192  0.675784  1
+  Ta  Ta4  1  0.871427  0.195276  0.066704  1
+  Cu  Cu5  1  0.395895  0.917671  0.313564  1
+  Cu  Cu6  1  0.604206  0.082448  0.686655  1
+  Cu  Cu7  1  0.917417  0.604066  0.521484  1
+  Cu  Cu8  1  0.082849  0.395736  0.478585  1
+  Si  Si9  1  0.247898  0.559633  0.807532  1
+  Si  Si10  1  0.440389  0.247776  0.688163  1
+  Si  Si11  1  0.559494  0.752122  0.311616  1
+  Si  Si12  1  0.752077  0.440439  0.192515  1

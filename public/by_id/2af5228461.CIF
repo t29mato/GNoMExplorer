@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_EuBeCu12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.11836700
+_cell_length_b   8.11836725
+_cell_length_c   8.11836700
+_cell_angle_alpha   120.00000307
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000307
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuBeCu12
+_chemical_formula_sum   'Eu2 Be2 Cu24'
+_cell_volume   378.34762812
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.749999  0.500000  0.250000  1
+  Eu  Eu1  1  0.250000  0.500000  0.749999  1
+  Be  Be2  1  0.000000  0.000000  0.000000  1
+  Be  Be3  1  0.500000  0.000000  0.500000  1
+  Cu  Cu4  1  0.292249  0.354336  0.062087  1
+  Cu  Cu5  1  0.707750  0.000000  0.062087  1
+  Cu  Cu6  1  0.062087  0.769838  0.062087  1
+  Cu  Cu7  1  0.437912  0.000000  0.207751  1
+  Cu  Cu8  1  0.207751  0.645663  0.207751  1
+  Cu  Cu9  1  0.562087  0.769838  0.207751  1
+  Cu  Cu10  1  0.292249  0.230162  0.292249  1
+  Cu  Cu11  1  0.062087  0.354336  0.292249  1
+  Cu  Cu12  1  0.937913  0.000000  0.292250  1
+  Cu  Cu13  1  0.207751  0.000000  0.437912  1
+  Cu  Cu14  1  0.437912  0.645663  0.437912  1
+  Cu  Cu15  1  0.792248  0.230162  0.437912  1
+  Cu  Cu16  1  0.562087  0.354336  0.562087  1
+  Cu  Cu17  1  0.207751  0.769838  0.562087  1
+  Cu  Cu18  1  0.792249  0.000000  0.562088  1
+  Cu  Cu19  1  0.062087  0.000000  0.707750  1
+  Cu  Cu20  1  0.937912  0.645663  0.707750  1
+  Cu  Cu21  1  0.707750  0.769838  0.707750  1
+  Cu  Cu22  1  0.437912  0.230162  0.792248  1
+  Cu  Cu23  1  0.792249  0.354336  0.792249  1
+  Cu  Cu24  1  0.562088  0.000000  0.792249  1
+  Cu  Cu25  1  0.707750  0.645663  0.937912  1
+  Cu  Cu26  1  0.937913  0.230162  0.937913  1
+  Cu  Cu27  1  0.292250  0.000000  0.937913  1

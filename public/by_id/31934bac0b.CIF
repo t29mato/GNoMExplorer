@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LaRhBr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.38931500
+_cell_length_b   4.38931586
+_cell_length_c   11.01368600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000105
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaRhBr
+_chemical_formula_sum   'La2 Rh2 Br2'
+_cell_volume   183.76250448
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.000000  0.000000  0.172242  1
+  La  La1  1  0.000000  0.000000  0.827758  1
+  Rh  Rh2  1  0.333333  0.666667  0.995512  1
+  Rh  Rh3  1  0.666667  0.333333  0.004488  1
+  Br  Br4  1  0.666667  0.333333  0.659051  1
+  Br  Br5  1  0.333333  0.666667  0.340949  1

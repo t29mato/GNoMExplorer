@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HoGaCoNi2B
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.15556760
+_cell_length_b   5.13503906
+_cell_length_c   6.76048700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.86837909
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoGaCoNi2B
+_chemical_formula_sum   'Ho2 Ga2 Co2 Ni4 B2'
+_cell_volume   155.20414975
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.000000  0.000000  0.500000  1
+  Ho  Ho1  1  0.000000  0.000000  0.000000  1
+  Ga  Ga2  1  0.670436  0.335217  0.500000  1
+  Ga  Ga3  1  0.329564  0.664783  0.500000  1
+  Co  Co4  1  0.000000  0.500000  0.798570  1
+  Co  Co5  1  0.000000  0.500000  0.201430  1
+  Ni  Ni6  1  0.500000  0.500000  0.794731  1
+  Ni  Ni7  1  0.500000  0.000000  0.794731  1
+  Ni  Ni8  1  0.500000  0.500000  0.205269  1
+  Ni  Ni9  1  0.500000  0.000000  0.205269  1
+  B  B10  1  0.673846  0.336923  0.000000  1
+  B  B11  1  0.326154  0.663077  0.000000  1

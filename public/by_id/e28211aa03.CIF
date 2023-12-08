@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CeTmTc3Os
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.24487401
+_cell_length_b   5.24487233
+_cell_length_c   9.25937801
+_cell_angle_alpha   90.00450427
+_cell_angle_beta   89.99549248
+_cell_angle_gamma   119.99587405
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeTmTc3Os
+_chemical_formula_sum   'Ce2 Tm2 Tc6 Os2'
+_cell_volume   220.59744585
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.666676  0.333324  0.558542  1
+  Ce  Ce1  1  0.333324  0.666676  0.441458  1
+  Tm  Tm2  1  0.333311  0.666689  0.064341  1
+  Tm  Tm3  1  0.666689  0.333311  0.935659  1
+  Tc  Tc4  1  0.170655  0.341285  0.755772  1
+  Tc  Tc5  1  0.170659  0.829341  0.755788  1
+  Tc  Tc6  1  0.658715  0.829345  0.755772  1
+  Tc  Tc7  1  0.829345  0.658715  0.244228  1
+  Tc  Tc8  1  0.829341  0.170659  0.244212  1
+  Tc  Tc9  1  0.341285  0.170655  0.244228  1
+  Os  Os10  1  0.000000  0.000000  0.500000  1
+  Os  Os11  1  0.000000  0.000000  0.000000  1

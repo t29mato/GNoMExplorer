@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sm3Th(CuSi3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.15182049
+_cell_length_b   8.07176393
+_cell_length_c   5.82656656
+_cell_angle_alpha   69.68904490
+_cell_angle_beta   68.21957884
+_cell_angle_gamma   42.09137129
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm3Th(CuSi3)2
+_chemical_formula_sum   'Sm3 Th1 Cu2 Si6'
+_cell_volume   237.05184556
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.249849  0.250151  0.249848  1
+  Sm  Sm1  1  0.749849  0.750151  0.749848  1
+  Sm  Sm2  1  0.756406  0.243595  0.756405  1
+  Th  Th3  1  0.244128  0.755872  0.244128  1
+  Cu  Cu4  1  0.666739  0.666533  0.333467  1
+  Cu  Cu5  1  0.333468  0.333261  0.666739  1
+  Si  Si6  1  0.829696  0.831430  0.168570  1
+  Si  Si7  1  0.829510  0.339578  0.171137  1
+  Si  Si8  1  0.660423  0.170491  0.340225  1
+  Si  Si9  1  0.340225  0.828863  0.660422  1
+  Si  Si10  1  0.171137  0.659775  0.829510  1
+  Si  Si11  1  0.168570  0.170304  0.829696  1

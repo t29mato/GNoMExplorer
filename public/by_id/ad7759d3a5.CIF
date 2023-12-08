@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Y3Ho17(Cd3Fe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.52142900
+_cell_length_b   9.52142754
+_cell_length_c   9.74654200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000159
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y3Ho17(Cd3Fe)2
+_chemical_formula_sum   'Y3 Ho17 Cd6 Fe2'
+_cell_volume   765.21836327
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.459214  0.540786  0.750000  1
+  Y  Y1  1  0.459214  0.918427  0.750000  1
+  Y  Y2  1  0.081573  0.540786  0.750000  1
+  Ho  Ho3  1  0.000000  0.000000  0.497348  1
+  Ho  Ho4  1  0.000000  0.000000  0.002652  1
+  Ho  Ho5  1  0.211903  0.788097  0.436172  1
+  Ho  Ho6  1  0.211903  0.423807  0.436172  1
+  Ho  Ho7  1  0.576193  0.788097  0.436172  1
+  Ho  Ho8  1  0.787878  0.212122  0.562946  1
+  Ho  Ho9  1  0.787878  0.575756  0.562946  1
+  Ho  Ho10  1  0.424244  0.212122  0.562946  1
+  Ho  Ho11  1  0.787878  0.212122  0.937054  1
+  Ho  Ho12  1  0.787878  0.575756  0.937054  1
+  Ho  Ho13  1  0.424244  0.212122  0.937054  1
+  Ho  Ho14  1  0.211903  0.788097  0.063828  1
+  Ho  Ho15  1  0.211903  0.423807  0.063828  1
+  Ho  Ho16  1  0.576193  0.788097  0.063828  1
+  Ho  Ho17  1  0.541198  0.458802  0.250000  1
+  Ho  Ho18  1  0.541198  0.082395  0.250000  1
+  Ho  Ho19  1  0.917605  0.458802  0.250000  1
+  Cd  Cd20  1  0.113065  0.886935  0.750000  1
+  Cd  Cd21  1  0.113065  0.226130  0.750000  1
+  Cd  Cd22  1  0.773870  0.886935  0.750000  1
+  Cd  Cd23  1  0.884466  0.115534  0.250000  1
+  Cd  Cd24  1  0.884466  0.768935  0.250000  1
+  Cd  Cd25  1  0.231065  0.115534  0.250000  1
+  Fe  Fe26  1  0.333333  0.666667  0.250000  1
+  Fe  Fe27  1  0.666667  0.333333  0.750000  1

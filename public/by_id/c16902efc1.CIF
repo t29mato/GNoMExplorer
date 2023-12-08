@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_CsCaNd(H6Ir)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.19636500
+_cell_length_b   5.19636740
+_cell_length_c   9.52285800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000383
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsCaNd(H6Ir)2
+_chemical_formula_sum   'Cs1 Ca1 Nd1 H12 Ir2'
+_cell_volume   222.68831112
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.000000  0.000000  0.012879  1
+  Ca  Ca1  1  0.666667  0.333333  0.364096  1
+  Nd  Nd2  1  0.333333  0.666667  0.618058  1
+  H  H3  1  0.173828  0.826172  0.395328  1
+  H  H4  1  0.652345  0.826172  0.395328  1
+  H  H5  1  0.173828  0.347655  0.395328  1
+  H  H6  1  0.825173  0.174827  0.604884  1
+  H  H7  1  0.349653  0.174827  0.604884  1
+  H  H8  1  0.825173  0.650347  0.604884  1
+  H  H9  1  0.520939  0.041878  0.809440  1
+  H  H10  1  0.520939  0.479061  0.809440  1
+  H  H11  1  0.958122  0.479061  0.809440  1
+  H  H12  1  0.477622  0.955243  0.191332  1
+  H  H13  1  0.477622  0.522378  0.191332  1
+  H  H14  1  0.044757  0.522378  0.191332  1
+  Ir  Ir15  1  0.666667  0.333333  0.700417  1
+  Ir  Ir16  1  0.333333  0.666667  0.301599  1

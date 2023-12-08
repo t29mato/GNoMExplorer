@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Lu10MnAg3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.18954000
+_cell_length_b   9.18954079
+_cell_length_c   9.46499300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999716
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu10MnAg3
+_chemical_formula_sum   'Lu20 Mn2 Ag6'
+_cell_volume   692.21104313
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.000000  0.000000  0.500000  1
+  Lu  Lu1  1  0.000000  0.000000  0.000000  1
+  Lu  Lu2  1  0.540033  0.459967  0.250000  1
+  Lu  Lu3  1  0.540033  0.080068  0.250000  1
+  Lu  Lu4  1  0.919932  0.459967  0.250000  1
+  Lu  Lu5  1  0.459967  0.540033  0.750000  1
+  Lu  Lu6  1  0.459967  0.919932  0.750000  1
+  Lu  Lu7  1  0.080068  0.540033  0.750000  1
+  Lu  Lu8  1  0.211171  0.788829  0.439597  1
+  Lu  Lu9  1  0.211171  0.422343  0.439597  1
+  Lu  Lu10  1  0.577657  0.788829  0.439597  1
+  Lu  Lu11  1  0.788829  0.211171  0.560403  1
+  Lu  Lu12  1  0.788829  0.577657  0.560403  1
+  Lu  Lu13  1  0.422343  0.211171  0.560403  1
+  Lu  Lu14  1  0.788829  0.211171  0.939597  1
+  Lu  Lu15  1  0.788829  0.577657  0.939597  1
+  Lu  Lu16  1  0.422343  0.211171  0.939597  1
+  Lu  Lu17  1  0.211171  0.788829  0.060403  1
+  Lu  Lu18  1  0.211171  0.422343  0.060403  1
+  Lu  Lu19  1  0.577657  0.788829  0.060403  1
+  Mn  Mn20  1  0.333333  0.666667  0.250000  1
+  Mn  Mn21  1  0.666667  0.333333  0.750000  1
+  Ag  Ag22  1  0.884387  0.115613  0.250000  1
+  Ag  Ag23  1  0.884387  0.768773  0.250000  1
+  Ag  Ag24  1  0.231227  0.115613  0.250000  1
+  Ag  Ag25  1  0.115613  0.884387  0.750000  1
+  Ag  Ag26  1  0.115613  0.231227  0.750000  1
+  Ag  Ag27  1  0.768773  0.884387  0.750000  1

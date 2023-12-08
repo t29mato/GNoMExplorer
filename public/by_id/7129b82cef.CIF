@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ho3(PRh)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89133953
+_cell_length_b   4.03591671
+_cell_length_c   12.33152306
+_cell_angle_alpha   80.58162735
+_cell_angle_beta   80.92194336
+_cell_angle_gamma   89.99999996
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho3(PRh)4
+_chemical_formula_sum   'Ho3 P4 Rh4'
+_cell_volume   188.59797686
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.000000  0.000000  0.000000  1
+  Ho  Ho1  1  0.855193  0.355193  0.289615  1
+  Ho  Ho2  1  0.144807  0.644807  0.710385  1
+  P  P3  1  0.691425  0.191425  0.617149  1
+  P  P4  1  0.308575  0.808575  0.382851  1
+  P  P5  1  0.451457  0.451457  0.097088  1
+  P  P6  1  0.548543  0.548543  0.902912  1
+  Rh  Rh7  1  0.595159  0.095159  0.809682  1
+  Rh  Rh8  1  0.404841  0.904841  0.190318  1
+  Rh  Rh9  1  0.248062  0.248062  0.503877  1
+  Rh  Rh10  1  0.751938  0.751938  0.496123  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Li2Ta(SbPt)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.66003583
+_cell_length_b   7.65987631
+_cell_length_c   7.66233042
+_cell_angle_alpha   99.73936498
+_cell_angle_beta   99.75210198
+_cell_angle_gamma   119.66142829
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Ta(SbPt)3
+_chemical_formula_sum   'Li4 Ta2 Sb6 Pt6'
+_cell_volume   367.84611867
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.332614  0.168163  0.499583  1
+  Li  Li1  1  0.997944  0.504495  0.501193  1
+  Li  Li2  1  0.168187  0.332730  0.999619  1
+  Li  Li3  1  0.504324  0.997849  0.001089  1
+  Ta  Ta4  1  0.669387  0.829987  0.499465  1
+  Ta  Ta5  1  0.830018  0.669395  0.999420  1
+  Sb  Sb6  1  0.923104  0.105058  0.246943  1
+  Sb  Sb7  1  0.254096  0.749174  0.247984  1
+  Sb  Sb8  1  0.569571  0.395958  0.256344  1
+  Sb  Sb9  1  0.105164  0.922989  0.746827  1
+  Sb  Sb10  1  0.749182  0.254049  0.748009  1
+  Sb  Sb11  1  0.395893  0.569580  0.756249  1
+  Pt  Pt12  1  0.189720  0.023380  0.116798  1
+  Pt  Pt13  1  0.872357  0.390793  0.119072  1
+  Pt  Pt14  1  0.561071  0.713014  0.137671  1
+  Pt  Pt15  1  0.023356  0.189707  0.616987  1
+  Pt  Pt16  1  0.390952  0.872483  0.618996  1
+  Pt  Pt17  1  0.713015  0.561155  0.637752  1

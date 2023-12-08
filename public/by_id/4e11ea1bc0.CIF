@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LaCdCuPt3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.30200708
+_cell_length_b   5.30200672
+_cell_length_c   5.30200711
+_cell_angle_alpha   62.71974022
+_cell_angle_beta   62.71973022
+_cell_angle_gamma   62.71974134
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaCdCuPt3
+_chemical_formula_sum   'La1 Cd1 Cu1 Pt3'
+_cell_volume   111.76877448
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.249478  0.249478  0.249478  1
+  Cd  Cd1  1  0.996580  0.996580  0.996580  1
+  Cu  Cu2  1  0.626669  0.626669  0.626669  1
+  Pt  Pt3  1  0.626814  0.626814  0.123645  1
+  Pt  Pt4  1  0.626814  0.123645  0.626814  1
+  Pt  Pt5  1  0.123645  0.626814  0.626814  1

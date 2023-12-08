@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SmThCo2(Ni3B)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.01409974
+_cell_length_b   5.00031620
+_cell_length_c   6.98181355
+_cell_angle_alpha   90.09501633
+_cell_angle_beta   89.89582033
+_cell_angle_gamma   119.65985127
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmThCo2(Ni3B)2
+_chemical_formula_sum   'Sm1 Th1 Co2 Ni6 B2'
+_cell_volume   152.11317225
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.000038  0.999925  0.500254  1
+  Th  Th1  1  0.999970  0.000103  0.009390  1
+  Co  Co2  1  0.500124  0.999590  0.295620  1
+  Co  Co3  1  0.000426  0.499818  0.295429  1
+  Ni  Ni4  1  0.330086  0.671100  0.999844  1
+  Ni  Ni5  1  0.669920  0.329279  0.999706  1
+  Ni  Ni6  1  0.500278  0.499862  0.290610  1
+  Ni  Ni7  1  0.499843  0.000377  0.704676  1
+  Ni  Ni8  1  0.499820  0.500011  0.707333  1
+  Ni  Ni9  1  0.999443  0.500017  0.705270  1
+  B  B10  1  0.331224  0.667584  0.496043  1
+  B  B11  1  0.668627  0.332333  0.495827  1

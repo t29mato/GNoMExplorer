@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_TmZr(Re2Si)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.37658320
+_cell_length_b   7.37658287
+_cell_length_c   4.10364000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.86768332
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TmZr(Re2Si)4
+_chemical_formula_sum   'Tm1 Zr1 Re8 Si4'
+_cell_volume   223.26976888
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.000000  0.000000  0.500000  1
+  Zr  Zr1  1  0.500000  0.500000  0.000000  1
+  Re  Re2  1  0.655944  0.902507  0.000000  1
+  Re  Re3  1  0.159539  0.588474  0.500000  1
+  Re  Re4  1  0.097493  0.344056  0.000000  1
+  Re  Re5  1  0.902507  0.655944  0.000000  1
+  Re  Re6  1  0.411526  0.840461  0.500000  1
+  Re  Re7  1  0.588474  0.159539  0.500000  1
+  Re  Re8  1  0.344056  0.097493  0.000000  1
+  Re  Re9  1  0.840461  0.411526  0.500000  1
+  Si  Si10  1  0.210637  0.789363  0.000000  1
+  Si  Si11  1  0.789363  0.210637  0.000000  1
+  Si  Si12  1  0.704058  0.704058  0.500000  1
+  Si  Si13  1  0.295942  0.295942  0.500000  1

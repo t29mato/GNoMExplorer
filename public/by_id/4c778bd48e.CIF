@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_DyNi2Pt2Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.03699644
+_cell_length_b   5.13665599
+_cell_length_c   5.13665683
+_cell_angle_alpha   63.12781514
+_cell_angle_beta   60.63975791
+_cell_angle_gamma   60.63974904
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyNi2Pt2Au
+_chemical_formula_sum   'Dy1 Ni2 Pt2 Au1'
+_cell_volume   96.95718701
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.000069  0.999931  0.999931  1
+  Ni  Ni1  1  0.127764  0.621376  0.621376  1
+  Ni  Ni2  1  0.629485  0.621376  0.621376  1
+  Pt  Pt3  1  0.626020  0.623796  0.124165  1
+  Pt  Pt4  1  0.626020  0.124165  0.623796  1
+  Au  Au5  1  0.240644  0.259356  0.259356  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_DyLu3Cu2(Si2Ru)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.17578900
+_cell_length_b   6.83593243
+_cell_length_c   7.33667341
+_cell_angle_alpha   91.10556119
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyLu3Cu2(Si2Ru)2
+_chemical_formula_sum   'Dy1 Lu3 Cu2 Si4 Ru2'
+_cell_volume   209.38937454
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.750000  0.503544  0.313691  1
+  Lu  Lu1  1  0.250000  0.996305  0.798793  1
+  Lu  Lu2  1  0.750000  0.002858  0.199563  1
+  Lu  Lu3  1  0.250000  0.493826  0.692118  1
+  Cu  Cu4  1  0.750000  0.833825  0.575020  1
+  Cu  Cu5  1  0.250000  0.167376  0.427463  1
+  Si  Si6  1  0.250000  0.296254  0.090944  1
+  Si  Si7  1  0.750000  0.704939  0.904714  1
+  Si  Si8  1  0.250000  0.794952  0.390774  1
+  Si  Si9  1  0.750000  0.204014  0.611100  1
+  Ru  Ru10  1  0.750000  0.344416  0.933845  1
+  Ru  Ru11  1  0.250000  0.657690  0.061976  1

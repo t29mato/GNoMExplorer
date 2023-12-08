@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Zr9Al(TcO)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.62778000
+_cell_length_b   8.62791524
+_cell_length_c   8.58469200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99738048
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr9Al(TcO)3
+_chemical_formula_sum   'Zr18 Al2 Tc6 O6'
+_cell_volume   553.44152999
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.452751  0.905504  0.250000  1
+  Zr  Zr1  1  0.547249  0.094496  0.750000  1
+  Zr  Zr2  1  0.094483  0.547240  0.250000  1
+  Zr  Zr3  1  0.905517  0.452760  0.750000  1
+  Zr  Zr4  1  0.452752  0.547242  0.250000  1
+  Zr  Zr5  1  0.547248  0.452758  0.750000  1
+  Zr  Zr6  1  0.200378  0.400761  0.563426  1
+  Zr  Zr7  1  0.799622  0.599239  0.436574  1
+  Zr  Zr8  1  0.599237  0.799623  0.563439  1
+  Zr  Zr9  1  0.799622  0.599239  0.063426  1
+  Zr  Zr10  1  0.400763  0.200377  0.436561  1
+  Zr  Zr11  1  0.200378  0.400761  0.936574  1
+  Zr  Zr12  1  0.200386  0.799617  0.563437  1
+  Zr  Zr13  1  0.400763  0.200377  0.063439  1
+  Zr  Zr14  1  0.799614  0.200383  0.436563  1
+  Zr  Zr15  1  0.599237  0.799623  0.936561  1
+  Zr  Zr16  1  0.799614  0.200383  0.063437  1
+  Zr  Zr17  1  0.200386  0.799617  0.936563  1
+  Al  Al18  1  0.000000  0.000000  0.000000  1
+  Al  Al19  1  0.000000  0.000000  0.500000  1
+  Tc  Tc20  1  0.110883  0.221764  0.250000  1
+  Tc  Tc21  1  0.889117  0.778236  0.750000  1
+  Tc  Tc22  1  0.778262  0.889118  0.250000  1
+  Tc  Tc23  1  0.221738  0.110882  0.750000  1
+  Tc  Tc24  1  0.110878  0.889098  0.250000  1
+  Tc  Tc25  1  0.889122  0.110902  0.750000  1
+  O  O26  1  0.500000  0.000000  0.000000  1
+  O  O27  1  0.000000  0.500000  0.000000  1
+  O  O28  1  0.500000  0.000000  0.500000  1
+  O  O29  1  0.500000  0.500000  0.000000  1
+  O  O30  1  0.000000  0.500000  0.500000  1
+  O  O31  1  0.500000  0.500000  0.500000  1

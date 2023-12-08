@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ti3NbCuSi4Rh3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.76042300
+_cell_length_b   6.30884710
+_cell_length_c   7.33572252
+_cell_angle_alpha   90.73949293
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3NbCuSi4Rh3
+_chemical_formula_sum   'Ti3 Nb1 Cu1 Si4 Rh3'
+_cell_volume   174.01769993
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.750000  0.471146  0.328136  1
+  Ti  Ti1  1  0.750000  0.975393  0.179832  1
+  Ti  Ti2  1  0.250000  0.530835  0.677613  1
+  Nb  Nb3  1  0.250000  0.030519  0.821717  1
+  Cu  Cu4  1  0.750000  0.351822  0.938324  1
+  Si  Si5  1  0.250000  0.264504  0.125493  1
+  Si  Si6  1  0.250000  0.763819  0.373788  1
+  Si  Si7  1  0.750000  0.740943  0.876654  1
+  Si  Si8  1  0.750000  0.236468  0.624805  1
+  Rh  Rh9  1  0.250000  0.639568  0.059339  1
+  Rh  Rh10  1  0.250000  0.148763  0.434775  1
+  Rh  Rh11  1  0.750000  0.846219  0.559524  1

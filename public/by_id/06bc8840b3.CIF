@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Er2MgAlRh2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.09419200
+_cell_length_b   7.00399098
+_cell_length_c   8.28784301
+_cell_angle_alpha   90.34179899
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er2MgAlRh2
+_chemical_formula_sum   'Er4 Mg2 Al2 Rh4'
+_cell_volume   237.65533687
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.250000  0.543307  0.173309  1
+  Er  Er1  1  0.750000  0.456693  0.826691  1
+  Er  Er2  1  0.750000  0.968160  0.685132  1
+  Er  Er3  1  0.250000  0.031840  0.314868  1
+  Mg  Mg4  1  0.250000  0.638808  0.564173  1
+  Mg  Mg5  1  0.750000  0.361192  0.435827  1
+  Al  Al6  1  0.750000  0.864297  0.058019  1
+  Al  Al7  1  0.250000  0.135703  0.941981  1
+  Rh  Rh8  1  0.250000  0.766942  0.890861  1
+  Rh  Rh9  1  0.750000  0.233058  0.109139  1
+  Rh  Rh10  1  0.750000  0.753248  0.361667  1
+  Rh  Rh11  1  0.250000  0.246752  0.638333  1

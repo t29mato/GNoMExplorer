@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ho3Lu(MnTc3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.29754984
+_cell_length_b   5.29754957
+_cell_length_c   8.88969300
+_cell_angle_alpha   90.00175654
+_cell_angle_beta   89.99824503
+_cell_angle_gamma   120.03732420
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho3Lu(MnTc3)2
+_chemical_formula_sum   'Ho3 Lu1 Mn2 Tc6'
+_cell_volume   215.97526388
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.666598  0.333402  0.065347  1
+  Ho  Ho1  1  0.333409  0.666591  0.935146  1
+  Ho  Ho2  1  0.333405  0.666595  0.564071  1
+  Lu  Lu3  1  0.666590  0.333410  0.434457  1
+  Mn  Mn4  1  0.999993  0.000007  0.000450  1
+  Mn  Mn5  1  0.999995  0.000005  0.499531  1
+  Tc  Tc6  1  0.168368  0.337307  0.251476  1
+  Tc  Tc7  1  0.168417  0.831583  0.251486  1
+  Tc  Tc8  1  0.662693  0.831632  0.251476  1
+  Tc  Tc9  1  0.831523  0.662478  0.748845  1
+  Tc  Tc10  1  0.831488  0.168512  0.748869  1
+  Tc  Tc11  1  0.337522  0.168477  0.748845  1

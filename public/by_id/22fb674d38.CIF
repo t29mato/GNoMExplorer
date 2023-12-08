@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Co2Cu3SbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.44444989
+_cell_length_b   5.44444963
+_cell_length_c   6.03389329
+_cell_angle_alpha   81.78591116
+_cell_angle_beta   81.78590868
+_cell_angle_gamma   119.88132797
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co2Cu3SbO6
+_chemical_formula_sum   'Co2 Cu3 Sb1 O6'
+_cell_volume   148.63719404
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.666521  0.333478  0.000000  1
+  Co  Co1  1  0.333478  0.666521  0.000000  1
+  Cu  Cu2  1  0.841018  0.158981  0.500000  1
+  Cu  Cu3  1  0.499999  0.499999  0.500000  1
+  Cu  Cu4  1  0.158981  0.841018  0.500000  1
+  Sb  Sb5  1  0.000000  0.000000  0.000000  1
+  O  O6  1  0.623639  0.623639  0.179793  1
+  O  O7  1  0.264579  0.944243  0.179224  1
+  O  O8  1  0.944243  0.264579  0.179224  1
+  O  O9  1  0.055758  0.735422  0.820777  1
+  O  O10  1  0.735422  0.055758  0.820777  1
+  O  O11  1  0.376362  0.376362  0.820207  1

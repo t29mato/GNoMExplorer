@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Y10(SnSb)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.44274600
+_cell_length_b   8.99158451
+_cell_length_c   8.99175921
+_cell_angle_alpha   119.99936228
+_cell_angle_beta   90.00006742
+_cell_angle_gamma   89.99987228
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y10(SnSb)3
+_chemical_formula_sum   'Y10 Sn3 Sb3'
+_cell_volume   451.11298859
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.500370  0.333333  0.666665  1
+  Y  Y1  1  0.500370  0.666668  0.333335  1
+  Y  Y2  1  0.999630  0.666668  0.333335  1
+  Y  Y3  1  0.999630  0.333333  0.666665  1
+  Y  Y4  1  0.750001  0.241821  0.000000  1
+  Y  Y5  1  0.750003  0.758210  0.758208  1
+  Y  Y6  1  0.750003  0.000002  0.241792  1
+  Y  Y7  1  0.249996  0.757306  0.000000  1
+  Y  Y8  1  0.250003  0.242663  0.242662  1
+  Y  Y9  1  0.250003  0.000001  0.757338  1
+  Sn  Sn10  1  0.749999  0.607717  0.000000  1
+  Sn  Sn11  1  0.750001  0.392294  0.392286  1
+  Sn  Sn12  1  0.750001  0.000007  0.607714  1
+  Sb  Sb13  1  0.249990  0.390855  0.000000  1
+  Sb  Sb14  1  0.250001  0.609128  0.609135  1
+  Sb  Sb15  1  0.250001  0.999993  0.390865  1

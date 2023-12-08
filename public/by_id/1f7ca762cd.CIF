@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_La3Zn(GaRh3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.67391800
+_cell_length_b   5.67391652
+_cell_length_c   15.98955000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999695
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3Zn(GaRh3)2
+_chemical_formula_sum   'La6 Zn2 Ga4 Rh12'
+_cell_volume   445.79262926
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.333333  0.666667  0.540913  1
+  La  La1  1  0.666667  0.333333  0.040913  1
+  La  La2  1  0.666667  0.333333  0.459087  1
+  La  La3  1  0.333333  0.666667  0.959087  1
+  La  La4  1  0.333333  0.666667  0.750000  1
+  La  La5  1  0.666667  0.333333  0.250000  1
+  Zn  Zn6  1  0.000000  0.000000  0.250000  1
+  Zn  Zn7  1  0.000000  0.000000  0.750000  1
+  Ga  Ga8  1  0.333333  0.666667  0.250000  1
+  Ga  Ga9  1  0.666667  0.333333  0.750000  1
+  Ga  Ga10  1  0.000000  0.000000  0.000000  1
+  Ga  Ga11  1  0.000000  0.000000  0.500000  1
+  Rh  Rh12  1  0.167501  0.335002  0.125870  1
+  Rh  Rh13  1  0.832499  0.664998  0.625870  1
+  Rh  Rh14  1  0.664998  0.832499  0.125870  1
+  Rh  Rh15  1  0.167501  0.832499  0.125870  1
+  Rh  Rh16  1  0.832499  0.167501  0.625870  1
+  Rh  Rh17  1  0.335002  0.167501  0.625870  1
+  Rh  Rh18  1  0.832499  0.664998  0.874130  1
+  Rh  Rh19  1  0.832499  0.167501  0.874130  1
+  Rh  Rh20  1  0.335002  0.167501  0.874130  1
+  Rh  Rh21  1  0.664998  0.832499  0.374130  1
+  Rh  Rh22  1  0.167501  0.832499  0.374130  1
+  Rh  Rh23  1  0.167501  0.335002  0.374130  1

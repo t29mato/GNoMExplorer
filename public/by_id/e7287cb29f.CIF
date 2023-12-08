@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_DyCu2(PPd)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.54661700
+_cell_length_b   7.33323300
+_cell_length_c   3.83192400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyCu2(PPd)2
+_chemical_formula_sum   'Dy2 Cu4 P4 Pd4'
+_cell_volume   212.06289243
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.500000  0.500000  0.000000  1
+  Dy  Dy1  1  0.000000  0.000000  0.500000  1
+  Cu  Cu2  1  0.160228  0.580336  0.500000  1
+  Cu  Cu3  1  0.839772  0.419664  0.500000  1
+  Cu  Cu4  1  0.339772  0.080336  0.000000  1
+  Cu  Cu5  1  0.660228  0.919664  0.000000  1
+  P  P6  1  0.714576  0.721758  0.500000  1
+  P  P7  1  0.285424  0.278242  0.500000  1
+  P  P8  1  0.214576  0.778242  0.000000  1
+  P  P9  1  0.785424  0.221758  0.000000  1
+  Pd  Pd10  1  0.588016  0.173024  0.500000  1
+  Pd  Pd11  1  0.411984  0.826976  0.500000  1
+  Pd  Pd12  1  0.088016  0.326976  0.000000  1
+  Pd  Pd13  1  0.911984  0.673024  0.000000  1

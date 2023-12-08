@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ta3MnFe2B3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.04661800
+_cell_length_b   6.02848455
+_cell_length_c   3.14802100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.09956355
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta3MnFe2B3
+_chemical_formula_sum   'Ta3 Mn1 Fe2 B3'
+_cell_volume   99.27784657
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.410481  0.000000  0.500000  1
+  Ta  Ta1  1  0.998604  0.410145  0.500000  1
+  Ta  Ta2  1  0.588459  0.589855  0.500000  1
+  Mn  Mn3  1  0.759043  0.000000  0.000000  1
+  Fe  Fe4  1  0.000174  0.759532  0.000000  1
+  Fe  Fe5  1  0.240642  0.240468  0.000000  1
+  B  B6  1  0.333614  0.666563  0.000000  1
+  B  B7  1  0.667053  0.333437  0.000000  1
+  B  B8  1  0.001930  0.000000  0.500000  1

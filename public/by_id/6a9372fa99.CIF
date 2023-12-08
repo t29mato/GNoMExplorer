@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ho7Lu3(InSb2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.89260168
+_cell_length_b   8.89626700
+_cell_length_c   6.37067696
+_cell_angle_alpha   89.93738578
+_cell_angle_beta   90.03132602
+_cell_angle_gamma   120.01363273
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho7Lu3(InSb2)2
+_chemical_formula_sum   'Ho7 Lu3 In2 Sb4'
+_cell_volume   436.40822566
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.334841  0.667421  0.500000  1
+  Ho  Ho1  1  0.758307  0.998387  0.749989  1
+  Ho  Ho2  1  0.758307  0.759919  0.250011  1
+  Ho  Ho3  1  0.002348  0.242200  0.249847  1
+  Ho  Ho4  1  0.002348  0.760148  0.750153  1
+  Ho  Ho5  1  0.240625  0.236794  0.750241  1
+  Ho  Ho6  1  0.240625  0.003830  0.249759  1
+  Lu  Lu7  1  0.334798  0.667399  0.000000  1
+  Lu  Lu8  1  0.662871  0.331435  0.500000  1
+  Lu  Lu9  1  0.663182  0.331591  0.000000  1
+  In  In10  1  0.396506  0.999411  0.750954  1
+  In  In11  1  0.396506  0.397094  0.249046  1
+  Sb  Sb12  1  0.998376  0.606054  0.249124  1
+  Sb  Sb13  1  0.998376  0.392322  0.750876  1
+  Sb  Sb14  1  0.605991  0.604715  0.750800  1
+  Sb  Sb15  1  0.605991  0.001276  0.249200  1

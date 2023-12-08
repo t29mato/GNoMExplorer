@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Th2Ni7B2Os
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.15486406
+_cell_length_b   5.15486414
+_cell_length_c   7.13915500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   121.70270880
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Th2Ni7B2Os
+_chemical_formula_sum   'Th2 Ni7 B2 Os1'
+_cell_volume   161.39932790
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.000000  0.000000  0.504719  1
+  Th  Th1  1  0.000000  0.000000  0.008565  1
+  Ni  Ni2  1  0.329699  0.670301  0.994639  1
+  Ni  Ni3  1  0.670301  0.329699  0.994639  1
+  Ni  Ni4  1  0.500000  0.000000  0.290792  1
+  Ni  Ni5  1  0.000000  0.500000  0.290792  1
+  Ni  Ni6  1  0.500000  0.000000  0.707519  1
+  Ni  Ni7  1  0.500000  0.500000  0.709452  1
+  Ni  Ni8  1  0.000000  0.500000  0.707519  1
+  B  B9  1  0.668519  0.331481  0.501557  1
+  B  B10  1  0.331481  0.668519  0.501557  1
+  Os  Os11  1  0.500000  0.500000  0.288250  1

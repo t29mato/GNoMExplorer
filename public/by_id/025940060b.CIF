@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Tb2Co4CuNi2B3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.05745426
+_cell_length_b   5.05721617
+_cell_length_c   12.84895400
+_cell_angle_alpha   89.99992598
+_cell_angle_beta   90.00020943
+_cell_angle_gamma   120.20851095
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2Co4CuNi2B3
+_chemical_formula_sum   'Tb4 Co8 Cu2 Ni4 B6'
+_cell_volume   284.00471744
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.999989  0.000001  0.999992  1
+  Tb  Tb1  1  0.999992  0.000000  0.499952  1
+  Tb  Tb2  1  0.999987  0.000000  0.262608  1
+  Tb  Tb3  1  0.999998  0.000001  0.737450  1
+  Co  Co4  1  0.499985  0.499998  0.161368  1
+  Co  Co5  1  0.499998  0.500001  0.838628  1
+  Co  Co6  1  0.499990  0.000001  0.384833  1
+  Co  Co7  1  0.499990  0.500000  0.384682  1
+  Co  Co8  1  0.999988  0.500000  0.384822  1
+  Co  Co9  1  0.499995  0.000001  0.615154  1
+  Co  Co10  1  0.499995  0.500002  0.615342  1
+  Co  Co11  1  0.999995  0.500001  0.615156  1
+  Cu  Cu12  1  0.336120  0.663795  0.999986  1
+  Cu  Cu13  1  0.663864  0.336207  0.999987  1
+  Ni  Ni14  1  0.499983  0.999995  0.159086  1
+  Ni  Ni15  1  0.999984  0.499995  0.159085  1
+  Ni  Ni16  1  0.499998  0.000001  0.840925  1
+  Ni  Ni17  1  0.999996  0.500000  0.840918  1
+  B  B18  1  0.333447  0.666557  0.499972  1
+  B  B19  1  0.666536  0.333444  0.499972  1
+  B  B20  1  0.335693  0.664391  0.270535  1
+  B  B21  1  0.664280  0.335608  0.270535  1
+  B  B22  1  0.664329  0.335637  0.729503  1
+  B  B23  1  0.335665  0.664365  0.729503  1

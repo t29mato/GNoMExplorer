@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Lu12Fe2ReHg2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.13209356
+_cell_length_b   8.13209321
+_cell_length_c   8.13209259
+_cell_angle_alpha   108.62732211
+_cell_angle_beta   108.62733240
+_cell_angle_gamma   111.17251877
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu12Fe2ReHg2
+_chemical_formula_sum   'Lu12 Fe2 Re1 Hg2'
+_cell_volume   413.71084551
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.308143  0.308143  0.616287  1
+  Lu  Lu1  1  0.691857  0.691857  0.383713  1
+  Lu  Lu2  1  0.691857  0.308143  0.000000  1
+  Lu  Lu3  1  0.308143  0.691857  0.000000  1
+  Lu  Lu4  1  0.192110  0.432737  0.240627  1
+  Lu  Lu5  1  0.807890  0.567263  0.759373  1
+  Lu  Lu6  1  0.192110  0.951484  0.759373  1
+  Lu  Lu7  1  0.951484  0.192110  0.759373  1
+  Lu  Lu8  1  0.807890  0.048516  0.240627  1
+  Lu  Lu9  1  0.048516  0.807890  0.240627  1
+  Lu  Lu10  1  0.432737  0.192110  0.240627  1
+  Lu  Lu11  1  0.567263  0.807890  0.759373  1
+  Fe  Fe12  1  0.382300  0.382300  0.000000  1
+  Fe  Fe13  1  0.617700  0.617700  0.000000  1
+  Re  Re14  1  0.000000  0.000000  0.000000  1
+  Hg  Hg15  1  0.000000  0.500000  0.500000  1
+  Hg  Hg16  1  0.500000  0.000000  0.500000  1

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Li4Tb(PrPb2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.79656363
+_cell_length_b   7.17715989
+_cell_length_c   8.93109866
+_cell_angle_alpha   113.69120274
+_cell_angle_beta   105.57690953
+_cell_angle_gamma   90.00001202
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li4Tb(PrPb2)2
+_chemical_formula_sum   'Li4 Tb1 Pr2 Pb4'
+_cell_volume   269.17038951
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.671955  0.981681  0.343910  1
+  Li  Li1  1  0.328045  0.018319  0.656090  1
+  Li  Li2  1  0.328045  0.637771  0.656090  1
+  Li  Li3  1  0.671955  0.362229  0.343910  1
+  Tb  Tb4  1  0.000000  0.000000  0.000000  1
+  Pr  Pr5  1  0.129868  0.629868  0.259735  1
+  Pr  Pr6  1  0.870132  0.370132  0.740265  1
+  Pb  Pb7  1  0.500000  0.710000  0.000000  1
+  Pb  Pb8  1  0.500000  0.290000  0.000000  1
+  Pb  Pb9  1  0.788962  0.788962  0.577923  1
+  Pb  Pb10  1  0.211038  0.211038  0.422077  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Cu3SiNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.16154000
+_cell_length_b   6.16154000
+_cell_length_c   6.16154000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu3SiNi
+_chemical_formula_sum   'Cu12 Si4 Ni4'
+_cell_volume   233.92024850
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.120799  0.206729  0.454348  1
+  Cu  Cu1  1  0.379201  0.793271  0.954348  1
+  Cu  Cu2  1  0.879201  0.706729  0.045652  1
+  Cu  Cu3  1  0.454348  0.120799  0.206729  1
+  Cu  Cu4  1  0.620799  0.293271  0.545652  1
+  Cu  Cu5  1  0.954348  0.379201  0.793271  1
+  Cu  Cu6  1  0.045652  0.879201  0.706729  1
+  Cu  Cu7  1  0.545652  0.620799  0.293271  1
+  Cu  Cu8  1  0.206729  0.454348  0.120799  1
+  Cu  Cu9  1  0.706729  0.045652  0.879201  1
+  Cu  Cu10  1  0.293271  0.545652  0.620799  1
+  Cu  Cu11  1  0.793271  0.954348  0.379201  1
+  Si  Si12  1  0.064492  0.064492  0.064492  1
+  Si  Si13  1  0.435508  0.935508  0.564492  1
+  Si  Si14  1  0.935508  0.564492  0.435508  1
+  Si  Si15  1  0.564492  0.435508  0.935508  1
+  Ni  Ni16  1  0.682981  0.682981  0.682981  1
+  Ni  Ni17  1  0.817019  0.317019  0.182981  1
+  Ni  Ni18  1  0.317019  0.182981  0.817019  1
+  Ni  Ni19  1  0.182981  0.817019  0.317019  1

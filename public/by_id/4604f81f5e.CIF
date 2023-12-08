@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_LiCa4(Ni3C2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.20156700
+_cell_length_b   8.20156700
+_cell_length_c   3.95974200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCa4(Ni3C2)3
+_chemical_formula_sum   'Li1 Ca4 Ni9 C6'
+_cell_volume   266.35482242
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.500000  0.500000  0.000000  1
+  Ca  Ca1  1  0.341991  0.850029  0.000000  1
+  Ca  Ca2  1  0.658009  0.149971  0.000000  1
+  Ca  Ca3  1  0.149971  0.341991  0.000000  1
+  Ca  Ca4  1  0.850029  0.658009  0.000000  1
+  Ni  Ni5  1  0.577144  0.711050  0.500000  1
+  Ni  Ni6  1  0.422856  0.288950  0.500000  1
+  Ni  Ni7  1  0.920451  0.212544  0.500000  1
+  Ni  Ni8  1  0.079549  0.787456  0.500000  1
+  Ni  Ni9  1  0.711050  0.422856  0.500000  1
+  Ni  Ni10  1  0.288950  0.577144  0.500000  1
+  Ni  Ni11  1  0.212544  0.079549  0.500000  1
+  Ni  Ni12  1  0.787456  0.920451  0.500000  1
+  Ni  Ni13  1  0.000000  0.000000  0.000000  1
+  C  C14  1  0.500000  0.500000  0.500000  1
+  C  C15  1  0.000000  0.000000  0.500000  1
+  C  C16  1  0.059161  0.556585  0.500000  1
+  C  C17  1  0.940839  0.443415  0.500000  1
+  C  C18  1  0.443415  0.059161  0.500000  1
+  C  C19  1  0.556585  0.940839  0.500000  1

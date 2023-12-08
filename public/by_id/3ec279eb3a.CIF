@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Tb3Dy13(NiHg)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.53616950
+_cell_length_b   9.53406943
+_cell_length_c   9.53407000
+_cell_angle_alpha   59.99999802
+_cell_angle_beta   60.00728263
+_cell_angle_gamma   60.00728299
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb3Dy13(NiHg)4
+_chemical_formula_sum   'Tb3 Dy13 Ni4 Hg4'
+_cell_volume   613.00413240
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.599920  0.600191  0.600191  1
+  Tb  Tb1  1  0.599920  0.600191  0.199699  1
+  Tb  Tb2  1  0.599920  0.199699  0.600191  1
+  Dy  Dy3  1  0.199580  0.600140  0.600140  1
+  Dy  Dy4  1  0.061672  0.438393  0.438393  1
+  Dy  Dy5  1  0.438403  0.061710  0.061710  1
+  Dy  Dy6  1  0.438403  0.061710  0.438175  1
+  Dy  Dy7  1  0.061672  0.438393  0.061541  1
+  Dy  Dy8  1  0.438403  0.438175  0.061710  1
+  Dy  Dy9  1  0.061672  0.061541  0.438393  1
+  Dy  Dy10  1  0.186216  0.813751  0.813751  1
+  Dy  Dy11  1  0.813866  0.186189  0.186189  1
+  Dy  Dy12  1  0.813866  0.186189  0.813756  1
+  Dy  Dy13  1  0.186216  0.813751  0.186282  1
+  Dy  Dy14  1  0.813866  0.813756  0.186189  1
+  Dy  Dy15  1  0.186216  0.186282  0.813751  1
+  Ni  Ni16  1  0.391852  0.392552  0.392552  1
+  Ni  Ni17  1  0.391852  0.392552  0.823043  1
+  Ni  Ni18  1  0.391852  0.823043  0.392552  1
+  Ni  Ni19  1  0.823400  0.392200  0.392200  1
+  Hg  Hg20  1  0.835780  0.835238  0.835238  1
+  Hg  Hg21  1  0.835780  0.835238  0.493744  1
+  Hg  Hg22  1  0.835780  0.493744  0.835238  1
+  Hg  Hg23  1  0.493892  0.835369  0.835369  1

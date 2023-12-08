@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Ca2Eu(H6Ir)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.98944700
+_cell_length_b   4.98944861
+_cell_length_c   8.22218600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99998270
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2Eu(H6Ir)2
+_chemical_formula_sum   'Ca2 Eu1 H12 Ir2'
+_cell_volume   177.26499061
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.666667  0.333333  0.364678  1
+  Ca  Ca1  1  0.333333  0.666667  0.635322  1
+  Eu  Eu2  1  0.000000  0.000000  0.000000  1
+  H  H3  1  0.172287  0.827713  0.371211  1
+  H  H4  1  0.655425  0.827713  0.371211  1
+  H  H5  1  0.172287  0.344575  0.371211  1
+  H  H6  1  0.827713  0.172287  0.628789  1
+  H  H7  1  0.344575  0.172287  0.628789  1
+  H  H8  1  0.827713  0.655425  0.628789  1
+  H  H9  1  0.510666  0.021330  0.865506  1
+  H  H10  1  0.510666  0.489334  0.865506  1
+  H  H11  1  0.978670  0.489334  0.865506  1
+  H  H12  1  0.489334  0.978670  0.134494  1
+  H  H13  1  0.489334  0.510666  0.134494  1
+  H  H14  1  0.021330  0.510666  0.134494  1
+  Ir  Ir15  1  0.666667  0.333333  0.743727  1
+  Ir  Ir16  1  0.333333  0.666667  0.256273  1

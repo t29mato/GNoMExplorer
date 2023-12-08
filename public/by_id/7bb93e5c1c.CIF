@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_AcLa(ZnCu)5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.22632800
+_cell_length_b   5.42324700
+_cell_length_c   9.27744200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AcLa(ZnCu)5
+_chemical_formula_sum   'Ac1 La1 Zn5 Cu5'
+_cell_volume   212.64287317
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  0.000000  0.000000  0.500000  1
+  La  La1  1  0.000000  0.500000  0.000000  1
+  Zn  Zn2  1  0.500000  0.000000  0.000000  1
+  Zn  Zn3  1  0.500000  0.747110  0.248359  1
+  Zn  Zn4  1  0.500000  0.252890  0.751641  1
+  Zn  Zn5  1  0.500000  0.252890  0.248359  1
+  Zn  Zn6  1  0.500000  0.747110  0.751641  1
+  Cu  Cu7  1  0.000000  0.500000  0.329183  1
+  Cu  Cu8  1  0.000000  0.000000  0.837449  1
+  Cu  Cu9  1  0.000000  0.000000  0.162551  1
+  Cu  Cu10  1  0.000000  0.500000  0.670817  1
+  Cu  Cu11  1  0.500000  0.500000  0.500000  1

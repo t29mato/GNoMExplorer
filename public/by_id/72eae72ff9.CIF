@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Fe8Mo12As4C3N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.94133034
+_cell_length_b   7.94133019
+_cell_length_c   7.94133110
+_cell_angle_alpha   60.08261435
+_cell_angle_beta   60.08261428
+_cell_angle_gamma   60.08261261
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe8Mo12As4C3N
+_chemical_formula_sum   'Fe8 Mo12 As4 C3 N1'
+_cell_volume   354.79467768
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.917536  0.917536  0.247309  1
+  Fe  Fe1  1  0.247309  0.917536  0.917536  1
+  Fe  Fe2  1  0.917536  0.247309  0.917536  1
+  Fe  Fe3  1  0.332464  0.002691  0.332464  1
+  Fe  Fe4  1  0.332464  0.332464  0.002691  1
+  Fe  Fe5  1  0.332481  0.332481  0.332481  1
+  Fe  Fe6  1  0.917519  0.917519  0.917519  1
+  Fe  Fe7  1  0.002691  0.332464  0.332464  1
+  Mo  Mo8  1  0.560089  0.940366  0.940366  1
+  Mo  Mo9  1  0.309634  0.689911  0.309634  1
+  Mo  Mo10  1  0.940366  0.940366  0.560089  1
+  Mo  Mo11  1  0.939745  0.560412  0.560412  1
+  Mo  Mo12  1  0.689588  0.310255  0.689588  1
+  Mo  Mo13  1  0.309634  0.309634  0.689911  1
+  Mo  Mo14  1  0.689911  0.309634  0.309634  1
+  Mo  Mo15  1  0.560412  0.939745  0.560412  1
+  Mo  Mo16  1  0.310255  0.689588  0.689588  1
+  Mo  Mo17  1  0.940366  0.560089  0.940366  1
+  Mo  Mo18  1  0.560412  0.560412  0.939745  1
+  Mo  Mo19  1  0.689588  0.689588  0.310255  1
+  As  As20  1  0.625000  0.125000  0.125000  1
+  As  As21  1  0.125000  0.125000  0.625000  1
+  As  As22  1  0.125000  0.625000  0.125000  1
+  As  As23  1  0.125000  0.125000  0.125000  1
+  C  C24  1  0.125000  0.625000  0.625000  1
+  C  C25  1  0.625000  0.125000  0.625000  1
+  C  C26  1  0.625000  0.625000  0.125000  1
+  N  N27  1  0.625000  0.625000  0.625000  1

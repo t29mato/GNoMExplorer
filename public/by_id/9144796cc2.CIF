@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_MnCrCoMoP2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.62280200
+_cell_length_b   5.87166321
+_cell_length_c   6.69006524
+_cell_angle_alpha   90.03045483
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnCrCoMoP2
+_chemical_formula_sum   'Mn2 Cr2 Co2 Mo2 P4'
+_cell_volume   142.31019938
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.750000  0.639296  0.436021  1
+  Mn  Mn1  1  0.250000  0.861082  0.941853  1
+  Cr  Cr2  1  0.250000  0.477955  0.173935  1
+  Cr  Cr3  1  0.250000  0.969804  0.322379  1
+  Co  Co4  1  0.750000  0.144976  0.067103  1
+  Co  Co5  1  0.250000  0.354774  0.558991  1
+  Mo  Mo6  1  0.750000  0.023364  0.671545  1
+  Mo  Mo7  1  0.750000  0.529358  0.828751  1
+  P  P8  1  0.250000  0.731644  0.616234  1
+  P  P9  1  0.250000  0.233457  0.881629  1
+  P  P10  1  0.750000  0.265023  0.375101  1
+  P  P11  1  0.750000  0.769268  0.126459  1

@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Lu6Al16Os6Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.88451192
+_cell_length_b   8.88451154
+_cell_length_c   8.88451100
+_cell_angle_alpha   59.99999828
+_cell_angle_beta   59.99999970
+_cell_angle_gamma   59.99999623
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu6Al16Os6Rh
+_chemical_formula_sum   'Lu6 Al16 Os6 Rh1'
+_cell_volume   495.89033370
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.710945  0.289055  0.289055  1
+  Lu  Lu1  1  0.710945  0.289055  0.710945  1
+  Lu  Lu2  1  0.710945  0.710945  0.289055  1
+  Lu  Lu3  1  0.289055  0.710945  0.710945  1
+  Lu  Lu4  1  0.289055  0.710945  0.289055  1
+  Lu  Lu5  1  0.289055  0.289055  0.710945  1
+  Al  Al6  1  0.632047  0.122651  0.122651  1
+  Al  Al7  1  0.122651  0.632047  0.122651  1
+  Al  Al8  1  0.122651  0.122651  0.632047  1
+  Al  Al9  1  0.122651  0.122651  0.122651  1
+  Al  Al10  1  0.367953  0.877349  0.877349  1
+  Al  Al11  1  0.877349  0.367953  0.877349  1
+  Al  Al12  1  0.877349  0.877349  0.367953  1
+  Al  Al13  1  0.877349  0.877349  0.877349  1
+  Al  Al14  1  0.996969  0.334344  0.334344  1
+  Al  Al15  1  0.334344  0.996969  0.334344  1
+  Al  Al16  1  0.334344  0.334344  0.996969  1
+  Al  Al17  1  0.334344  0.334344  0.334344  1
+  Al  Al18  1  0.003031  0.665656  0.665656  1
+  Al  Al19  1  0.665656  0.003031  0.665656  1
+  Al  Al20  1  0.665656  0.665656  0.003031  1
+  Al  Al21  1  0.665656  0.665656  0.665656  1
+  Os  Os22  1  0.500000  0.000000  0.000000  1
+  Os  Os23  1  0.500000  0.000000  0.500000  1
+  Os  Os24  1  0.500000  0.500000  0.000000  1
+  Os  Os25  1  0.000000  0.500000  0.500000  1
+  Os  Os26  1  0.000000  0.500000  0.000000  1
+  Os  Os27  1  0.000000  0.000000  0.500000  1
+  Rh  Rh28  1  0.000000  0.000000  0.000000  1

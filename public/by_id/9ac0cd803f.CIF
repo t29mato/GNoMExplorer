@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_DyLuSi3Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.16984311
+_cell_length_b   8.15521956
+_cell_length_c   5.75462395
+_cell_angle_alpha   69.58683152
+_cell_angle_beta   69.22336197
+_cell_angle_gamma   41.28078203
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyLuSi3Au
+_chemical_formula_sum   'Dy2 Lu2 Si6 Au2'
+_cell_volume   234.39648183
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.750062  0.749938  0.749938  1
+  Dy  Dy1  1  0.242707  0.757292  0.757293  1
+  Lu  Lu2  1  0.757428  0.242571  0.242573  1
+  Lu  Lu3  1  0.249878  0.250121  0.250122  1
+  Si  Si4  1  0.836793  0.837094  0.163589  1
+  Si  Si5  1  0.327308  0.836184  0.164679  1
+  Si  Si6  1  0.164192  0.672198  0.327765  1
+  Si  Si7  1  0.835845  0.327765  0.672198  1
+  Si  Si8  1  0.671830  0.164678  0.836185  1
+  Si  Si9  1  0.162525  0.163588  0.837095  1
+  Au  Au10  1  0.667421  0.665904  0.332657  1
+  Au  Au11  1  0.334018  0.332657  0.665905  1

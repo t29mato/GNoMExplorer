@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Eu6Ta(RuC4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.33271400
+_cell_length_b   8.33271349
+_cell_length_c   5.26415600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999407
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu6Ta(RuC4)3
+_chemical_formula_sum   'Eu6 Ta1 Ru3 C12'
+_cell_volume   316.54272311
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.607580  0.682462  0.745726  1
+  Eu  Eu1  1  0.925118  0.607580  0.254274  1
+  Eu  Eu2  1  0.682462  0.074882  0.254274  1
+  Eu  Eu3  1  0.317538  0.925118  0.745726  1
+  Eu  Eu4  1  0.074882  0.392420  0.745726  1
+  Eu  Eu5  1  0.392420  0.317538  0.254274  1
+  Ta  Ta6  1  0.000000  0.000000  0.500000  1
+  Ru  Ru7  1  0.000000  0.000000  0.000000  1
+  Ru  Ru8  1  0.666667  0.333333  0.760330  1
+  Ru  Ru9  1  0.333333  0.666667  0.239670  1
+  C  C10  1  0.958857  0.768483  0.744672  1
+  C  C11  1  0.190374  0.958857  0.255328  1
+  C  C12  1  0.768483  0.809626  0.255328  1
+  C  C13  1  0.231517  0.190374  0.744672  1
+  C  C14  1  0.809626  0.041143  0.744672  1
+  C  C15  1  0.041143  0.231517  0.255328  1
+  C  C16  1  0.865715  0.583294  0.759456  1
+  C  C17  1  0.282418  0.865715  0.240544  1
+  C  C18  1  0.583294  0.717582  0.240544  1
+  C  C19  1  0.416706  0.282418  0.759456  1
+  C  C20  1  0.134285  0.416706  0.240544  1
+  C  C21  1  0.717582  0.134285  0.759456  1

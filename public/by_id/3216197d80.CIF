@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Nd12Ir(PtCl4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.27221995
+_cell_length_b   10.27221945
+_cell_length_c   10.27222041
+_cell_angle_alpha   109.24422180
+_cell_angle_beta   109.24422488
+_cell_angle_gamma   109.24422547
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd12Ir(PtCl4)3
+_chemical_formula_sum   'Nd12 Ir1 Pt3 Cl12'
+_cell_volume   841.33318653
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.260082  0.750000  0.239918  1
+  Nd  Nd1  1  0.488594  0.750000  0.011406  1
+  Nd  Nd2  1  0.240817  0.477999  0.485239  1
+  Nd  Nd3  1  0.014761  0.022001  0.259183  1
+  Nd  Nd4  1  0.239918  0.260082  0.750000  1
+  Nd  Nd5  1  0.011406  0.488594  0.750000  1
+  Nd  Nd6  1  0.485239  0.240817  0.477999  1
+  Nd  Nd7  1  0.259183  0.014761  0.022001  1
+  Nd  Nd8  1  0.750000  0.239918  0.260082  1
+  Nd  Nd9  1  0.750000  0.011406  0.488594  1
+  Nd  Nd10  1  0.477999  0.485239  0.240817  1
+  Nd  Nd11  1  0.022001  0.259183  0.014761  1
+  Ir  Ir12  1  0.250000  0.250000  0.250000  1
+  Pt  Pt13  1  0.499102  0.000898  0.250000  1
+  Pt  Pt14  1  0.250000  0.499102  0.000898  1
+  Pt  Pt15  1  0.000898  0.250000  0.499102  1
+  Cl  Cl16  1  0.250000  0.999530  0.500470  1
+  Cl  Cl17  1  0.497726  0.500130  0.750424  1
+  Cl  Cl18  1  0.250000  0.747640  0.752360  1
+  Cl  Cl19  1  0.002274  0.749576  0.999870  1
+  Cl  Cl20  1  0.999530  0.500470  0.250000  1
+  Cl  Cl21  1  0.749576  0.999870  0.002274  1
+  Cl  Cl22  1  0.747640  0.752360  0.250000  1
+  Cl  Cl23  1  0.500130  0.750424  0.497726  1
+  Cl  Cl24  1  0.500470  0.250000  0.999530  1
+  Cl  Cl25  1  0.750424  0.497726  0.500130  1
+  Cl  Cl26  1  0.752360  0.250000  0.747640  1
+  Cl  Cl27  1  0.999870  0.002274  0.749576  1

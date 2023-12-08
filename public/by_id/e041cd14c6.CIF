@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ce2Al2(Tc5C)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.98110431
+_cell_length_b   6.96883870
+_cell_length_c   6.98110385
+_cell_angle_alpha   82.34718735
+_cell_angle_beta   82.66110702
+_cell_angle_gamma   82.34719616
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2Al2(Tc5C)3
+_chemical_formula_sum   'Ce2 Al2 Tc15 C3'
+_cell_volume   331.51030512
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.656261  0.657646  0.656261  1
+  Ce  Ce1  1  0.343739  0.342354  0.343739  1
+  Al  Al2  1  0.000000  0.000000  0.500000  1
+  Al  Al3  1  0.500000  0.000000  0.000000  1
+  Tc  Tc4  1  0.000000  0.500000  0.000000  1
+  Tc  Tc5  1  0.275483  0.723819  0.995429  1
+  Tc  Tc6  1  0.722976  0.000000  0.277024  1
+  Tc  Tc7  1  0.004571  0.276181  0.724517  1
+  Tc  Tc8  1  0.277024  0.000000  0.722976  1
+  Tc  Tc9  1  0.995429  0.723819  0.275483  1
+  Tc  Tc10  1  0.724517  0.276181  0.004571  1
+  Tc  Tc11  1  0.355840  0.353927  0.849576  1
+  Tc  Tc12  1  0.347221  0.854151  0.347221  1
+  Tc  Tc13  1  0.849576  0.353927  0.355840  1
+  Tc  Tc14  1  0.644160  0.646073  0.150424  1
+  Tc  Tc15  1  0.652779  0.145849  0.652779  1
+  Tc  Tc16  1  0.150424  0.646073  0.644160  1
+  Tc  Tc17  1  0.903123  0.900721  0.903123  1
+  Tc  Tc18  1  0.096877  0.099279  0.096877  1
+  C  C19  1  0.500000  0.500000  0.000000  1
+  C  C20  1  0.500000  0.000000  0.500000  1
+  C  C21  1  0.000000  0.500000  0.500000  1

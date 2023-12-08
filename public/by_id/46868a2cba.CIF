@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_TbHoSi2(Os2C)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.89059673
+_cell_length_b   5.89059682
+_cell_length_c   7.13637100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   141.62822738
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbHoSi2(Os2C)2
+_chemical_formula_sum   'Tb1 Ho1 Si2 Os4 C2'
+_cell_volume   153.71663226
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.547691  0.452309  0.250000  1
+  Ho  Ho1  1  0.452384  0.547616  0.750000  1
+  Si  Si2  1  0.269120  0.730880  0.250000  1
+  Si  Si3  1  0.731109  0.268891  0.750000  1
+  Os  Os4  1  0.834728  0.165272  0.057363  1
+  Os  Os5  1  0.165287  0.834713  0.941702  1
+  Os  Os6  1  0.165287  0.834713  0.558298  1
+  Os  Os7  1  0.834728  0.165272  0.442637  1
+  C  C8  1  0.999833  0.000167  0.998455  1
+  C  C9  1  0.999833  0.000167  0.501545  1

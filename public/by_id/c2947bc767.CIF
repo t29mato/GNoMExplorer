@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_ThP12(OsRu)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.02865169
+_cell_length_b   7.02431641
+_cell_length_c   7.02437023
+_cell_angle_alpha   109.44229564
+_cell_angle_beta   109.47232806
+_cell_angle_gamma   109.47277985
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThP12(OsRu)2
+_chemical_formula_sum   'Th1 P12 Os2 Ru2'
+_cell_volume   267.05592630
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.000000  0.000000  0.000000  1
+  P  P1  1  0.855635  0.644260  0.500929  1
+  P  P2  1  0.144365  0.355740  0.499071  1
+  P  P3  1  0.144358  0.645288  0.788623  1
+  P  P4  1  0.855642  0.354712  0.211377  1
+  P  P5  1  0.644279  0.500885  0.855642  1
+  P  P6  1  0.355721  0.499115  0.144358  1
+  P  P7  1  0.644288  0.788637  0.143401  1
+  P  P8  1  0.355712  0.211363  0.856599  1
+  P  P9  1  0.500959  0.855955  0.644990  1
+  P  P10  1  0.499041  0.144045  0.355010  1
+  P  P11  1  0.211883  0.856378  0.355510  1
+  P  P12  1  0.788117  0.143622  0.644490  1
+  Os  Os13  1  0.000000  0.500000  0.000000  1
+  Os  Os14  1  0.000000  0.000000  0.500000  1
+  Ru  Ru15  1  0.500000  0.500000  0.500000  1
+  Ru  Ru16  1  0.500000  0.000000  0.000000  1

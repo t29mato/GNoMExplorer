@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sr4Cu3P4Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.11443100
+_cell_length_b   8.66181842
+_cell_length_c   7.19819186
+_cell_angle_alpha   90.00976310
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr4Cu3P4Pd
+_chemical_formula_sum   'Sr4 Cu3 P4 Pd1'
+_cell_volume   256.53242748
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.250000  0.500572  0.247848  1
+  Sr  Sr1  1  0.750000  0.497231  0.750989  1
+  Sr  Sr2  1  0.750000  0.003050  0.751279  1
+  Sr  Sr3  1  0.250000  0.999165  0.248428  1
+  Cu  Cu4  1  0.250000  0.749998  0.584159  1
+  Cu  Cu5  1  0.750000  0.250191  0.417417  1
+  Cu  Cu6  1  0.750000  0.750011  0.083072  1
+  P  P7  1  0.250000  0.749936  0.915243  1
+  P  P8  1  0.750000  0.249580  0.092860  1
+  P  P9  1  0.750000  0.749978  0.416587  1
+  P  P10  1  0.250000  0.250267  0.574572  1
+  Pd  Pd11  1  0.250000  0.250019  0.917548  1

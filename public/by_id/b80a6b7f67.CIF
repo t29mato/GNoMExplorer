@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_LiAgPPd3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.24149913
+_cell_length_b   7.24149926
+_cell_length_c   7.24149900
+_cell_angle_alpha   90.01093458
+_cell_angle_beta   90.01093458
+_cell_angle_gamma   90.01093250
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAgPPd3
+_chemical_formula_sum   'Li4 Ag4 P4 Pd12'
+_cell_volume   379.73919476
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.207297  0.704275  0.794800  1
+  Li  Li1  1  0.956211  0.956211  0.956211  1
+  Li  Li2  1  0.794800  0.207297  0.704275  1
+  Li  Li3  1  0.704275  0.794800  0.207297  1
+  Ag  Ag4  1  0.297615  0.297615  0.297615  1
+  Ag  Ag5  1  0.046468  0.453568  0.556581  1
+  Ag  Ag6  1  0.556581  0.046468  0.453568  1
+  Ag  Ag7  1  0.453568  0.556581  0.046468  1
+  P  P8  1  0.871696  0.371706  0.118139  1
+  P  P9  1  0.371706  0.118139  0.871696  1
+  P  P10  1  0.625076  0.625076  0.625076  1
+  P  P11  1  0.118139  0.871696  0.371706  1
+  Pd  Pd12  1  0.179720  0.067237  0.621060  1
+  Pd  Pd13  1  0.431696  0.375130  0.683740  1
+  Pd  Pd14  1  0.067237  0.621060  0.179720  1
+  Pd  Pd15  1  0.928645  0.125031  0.316441  1
+  Pd  Pd16  1  0.316441  0.928645  0.125031  1
+  Pd  Pd17  1  0.683740  0.431696  0.375130  1
+  Pd  Pd18  1  0.572311  0.875204  0.820349  1
+  Pd  Pd19  1  0.621060  0.179720  0.067237  1
+  Pd  Pd20  1  0.375130  0.683740  0.431696  1
+  Pd  Pd21  1  0.875204  0.820349  0.572311  1
+  Pd  Pd22  1  0.125031  0.316441  0.928645  1
+  Pd  Pd23  1  0.820349  0.572311  0.875204  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Sc3SiTc2Ge2Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.04050709
+_cell_length_b   6.98887073
+_cell_length_c   3.44401800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.75769005
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc3SiTc2Ge2Rh
+_chemical_formula_sum   'Sc3 Si1 Tc2 Ge2 Rh1'
+_cell_volume   147.11678599
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.401194  0.397480  0.500000  1
+  Sc  Sc1  1  0.598806  0.996285  0.500000  1
+  Sc  Sc2  1  0.000000  0.606888  0.500000  1
+  Si  Si3  1  0.000000  0.997247  0.500000  1
+  Tc  Tc4  1  0.750248  0.751004  0.000000  1
+  Tc  Tc5  1  0.249752  0.000756  0.000000  1
+  Ge  Ge6  1  0.665481  0.333489  0.000000  1
+  Ge  Ge7  1  0.334519  0.668008  0.000000  1
+  Rh  Rh8  1  0.000000  0.248842  0.000000  1

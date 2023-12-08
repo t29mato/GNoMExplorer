@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_LiSc2(SbAu)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.85568484
+_cell_length_b   7.85568377
+_cell_length_c   7.85568300
+_cell_angle_alpha   130.93135080
+_cell_angle_beta   130.93134404
+_cell_angle_gamma   71.92217310
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiSc2(SbAu)4
+_chemical_formula_sum   'Li1 Sc2 Sb4 Au4'
+_cell_volume   270.63169261
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.000000  0.000000  0.000000  1
+  Sc  Sc1  1  0.750001  0.250000  0.500001  1
+  Sc  Sc2  1  0.250000  0.750001  0.500001  1
+  Sb  Sb3  1  0.253918  0.253918  0.000000  1
+  Sb  Sb4  1  0.746082  0.746082  0.000000  1
+  Sb  Sb5  1  0.500001  0.000000  0.500001  1
+  Sb  Sb6  1  0.000000  0.500001  0.500001  1
+  Au  Au7  1  0.629973  0.127012  0.000000  1
+  Au  Au8  1  0.127012  0.629973  0.000000  1
+  Au  Au9  1  0.872988  0.872988  0.502962  1
+  Au  Au10  1  0.370027  0.370027  0.497039  1

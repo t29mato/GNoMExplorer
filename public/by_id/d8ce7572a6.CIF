@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Th3(CuGe)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.15790421
+_cell_length_b   4.17059832
+_cell_length_c   12.58386887
+_cell_angle_alpha   99.53859951
+_cell_angle_beta   99.50929895
+_cell_angle_gamma   89.99999523
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Th3(CuGe)4
+_chemical_formula_sum   'Th3 Cu4 Ge4'
+_cell_volume   212.15801396
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.851738  0.351738  0.703477  1
+  Th  Th1  1  0.148262  0.648262  0.296523  1
+  Th  Th2  1  0.000000  0.000000  0.000000  1
+  Cu  Cu3  1  0.249948  0.249948  0.499894  1
+  Cu  Cu4  1  0.750052  0.750052  0.500106  1
+  Cu  Cu5  1  0.596841  0.096841  0.193681  1
+  Cu  Cu6  1  0.403159  0.903159  0.806319  1
+  Ge  Ge7  1  0.449030  0.449030  0.898059  1
+  Ge  Ge8  1  0.550970  0.550970  0.101941  1
+  Ge  Ge9  1  0.694339  0.194339  0.388677  1
+  Ge  Ge10  1  0.305661  0.805661  0.611323  1

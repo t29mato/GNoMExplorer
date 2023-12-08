@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_BeV2Si5W8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.21847166
+_cell_length_b   7.21852488
+_cell_length_c   7.21847100
+_cell_angle_alpha   96.38099798
+_cell_angle_beta   96.38091167
+_cell_angle_gamma   141.05194563
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BeV2Si5W8
+_chemical_formula_sum   'Be1 V2 Si5 W8'
+_cell_volume   222.91632993
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.250003  0.250000  0.000003  1
+  V  V1  1  0.250002  0.750000  0.500002  1
+  V  V2  1  0.750005  0.250000  0.500005  1
+  Si  Si3  1  0.749992  0.750000  0.999992  1
+  Si  Si4  1  0.163835  0.663834  0.827660  1
+  Si  Si5  1  0.836176  0.336172  0.172343  1
+  Si  Si6  1  0.336170  0.163828  0.500003  1
+  Si  Si7  1  0.663828  0.836166  0.500001  1
+  W  W8  1  0.079522  0.227111  0.299769  1
+  W  W9  1  0.927333  0.779753  0.700228  1
+  W  W10  1  0.779744  0.079516  0.852411  1
+  W  W11  1  0.420474  0.720247  0.147579  1
+  W  W12  1  0.227115  0.927340  0.147591  1
+  W  W13  1  0.572658  0.272889  0.852410  1
+  W  W14  1  0.720251  0.572660  0.299774  1
+  W  W15  1  0.272895  0.420484  0.700230  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Pa6Al6Ir5Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.06251000
+_cell_length_b   7.06250957
+_cell_length_c   8.14602900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001138
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pa6Al6Ir5Pt
+_chemical_formula_sum   'Pa6 Al6 Ir5 Pt1'
+_cell_volume   351.88006114
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.001389  0.576550  0.750000  1
+  Pa  Pa1  1  0.998553  0.580674  0.250000  1
+  Pa  Pa2  1  0.582121  0.001447  0.250000  1
+  Pa  Pa3  1  0.575161  0.998611  0.750000  1
+  Pa  Pa4  1  0.419326  0.417879  0.250000  1
+  Pa  Pa5  1  0.423450  0.424839  0.750000  1
+  Al  Al6  1  0.000077  0.238680  0.497639  1
+  Al  Al7  1  0.761320  0.761398  0.002361  1
+  Al  Al8  1  0.000077  0.238680  0.002361  1
+  Al  Al9  1  0.238602  0.999923  0.497639  1
+  Al  Al10  1  0.238602  0.999923  0.002361  1
+  Al  Al11  1  0.761320  0.761398  0.497639  1
+  Ir  Ir12  1  0.333333  0.666667  0.500066  1
+  Ir  Ir13  1  0.666667  0.333333  0.501972  1
+  Ir  Ir14  1  0.666667  0.333333  0.998028  1
+  Ir  Ir15  1  0.000000  0.000000  0.250000  1
+  Ir  Ir16  1  0.333333  0.666667  0.999934  1
+  Pt  Pt17  1  0.000000  0.000000  0.750000  1

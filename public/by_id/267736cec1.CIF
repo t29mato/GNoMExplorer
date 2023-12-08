@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Hf17ScV2(Re3P)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.58662623
+_cell_length_b   8.58662726
+_cell_length_c   8.48687300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00309909
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf17ScV2(Re3P)2
+_chemical_formula_sum   'Hf17 Sc1 V2 Re6 P2'
+_cell_volume   541.88850901
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.195008  0.804992  0.450752  1
+  Hf  Hf1  1  0.195152  0.389635  0.450112  1
+  Hf  Hf2  1  0.610365  0.804848  0.450112  1
+  Hf  Hf3  1  0.804512  0.195488  0.549247  1
+  Hf  Hf4  1  0.804921  0.610232  0.549979  1
+  Hf  Hf5  1  0.389768  0.195079  0.549979  1
+  Hf  Hf6  1  0.804512  0.195488  0.950753  1
+  Hf  Hf7  1  0.804921  0.610232  0.950021  1
+  Hf  Hf8  1  0.389768  0.195079  0.950021  1
+  Hf  Hf9  1  0.195008  0.804992  0.049248  1
+  Hf  Hf10  1  0.195152  0.389635  0.049888  1
+  Hf  Hf11  1  0.610365  0.804848  0.049888  1
+  Hf  Hf12  1  0.540196  0.080064  0.250000  1
+  Hf  Hf13  1  0.919936  0.459804  0.250000  1
+  Hf  Hf14  1  0.459197  0.540803  0.750000  1
+  Hf  Hf15  1  0.459699  0.919205  0.750000  1
+  Hf  Hf16  1  0.080795  0.540301  0.750000  1
+  Sc  Sc17  1  0.541446  0.458554  0.250000  1
+  V  V18  1  0.000049  0.999951  0.498657  1
+  V  V19  1  0.000049  0.999951  0.001343  1
+  Re  Re20  1  0.891386  0.108614  0.250000  1
+  Re  Re21  1  0.891508  0.782051  0.250000  1
+  Re  Re22  1  0.217949  0.108492  0.250000  1
+  Re  Re23  1  0.108377  0.891623  0.750000  1
+  Re  Re24  1  0.108216  0.217241  0.750000  1
+  Re  Re25  1  0.782759  0.891784  0.750000  1
+  P  P26  1  0.332416  0.667584  0.250000  1
+  P  P27  1  0.666571  0.333429  0.750000  1

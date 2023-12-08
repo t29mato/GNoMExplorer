@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_HoThPd2Pb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.02805000
+_cell_length_b   8.02497300
+_cell_length_c   3.68029400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoThPd2Pb
+_chemical_formula_sum   'Ho2 Th2 Pd4 Pb2'
+_cell_volume   237.10251585
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.828606  0.673415  0.500000  1
+  Ho  Ho1  1  0.328606  0.826585  0.500000  1
+  Th  Th2  1  0.670828  0.167134  0.500000  1
+  Th  Th3  1  0.170828  0.332866  0.500000  1
+  Pd  Pd4  1  0.371446  0.126083  0.000000  1
+  Pd  Pd5  1  0.125582  0.623870  0.000000  1
+  Pd  Pd6  1  0.625582  0.876130  0.000000  1
+  Pd  Pd7  1  0.871446  0.373917  0.000000  1
+  Pb  Pb8  1  0.003538  0.987825  0.000000  1
+  Pb  Pb9  1  0.503538  0.512175  0.000000  1

@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_Lu2Si(GeMo)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.78416400
+_cell_length_b   7.00061500
+_cell_length_c   13.03123800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2Si(GeMo)3
+_chemical_formula_sum   'Lu8 Si4 Ge12 Mo12'
+_cell_volume   618.89675973
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.491138  0.330403  0.092579  1
+  Lu  Lu1  1  0.991138  0.169597  0.407421  1
+  Lu  Lu2  1  0.508862  0.669597  0.592579  1
+  Lu  Lu3  1  0.008862  0.830403  0.907421  1
+  Lu  Lu4  1  0.508862  0.669597  0.907421  1
+  Lu  Lu5  1  0.008862  0.830403  0.592579  1
+  Lu  Lu6  1  0.491138  0.330403  0.407421  1
+  Lu  Lu7  1  0.991138  0.169597  0.092579  1
+  Si  Si8  1  0.531235  0.367515  0.750000  1
+  Si  Si9  1  0.031235  0.132485  0.750000  1
+  Si  Si10  1  0.468765  0.632485  0.250000  1
+  Si  Si11  1  0.968765  0.867515  0.250000  1
+  Ge  Ge12  1  0.670792  0.042962  0.547290  1
+  Ge  Ge13  1  0.170792  0.457038  0.952710  1
+  Ge  Ge14  1  0.329208  0.957038  0.047290  1
+  Ge  Ge15  1  0.829208  0.542962  0.452710  1
+  Ge  Ge16  1  0.329208  0.957038  0.452710  1
+  Ge  Ge17  1  0.829208  0.542962  0.047290  1
+  Ge  Ge18  1  0.670792  0.042962  0.952710  1
+  Ge  Ge19  1  0.170792  0.457038  0.547290  1
+  Ge  Ge20  1  0.805724  0.644140  0.750000  1
+  Ge  Ge21  1  0.305724  0.855860  0.750000  1
+  Ge  Ge22  1  0.194276  0.355860  0.250000  1
+  Ge  Ge23  1  0.694276  0.144140  0.250000  1
+  Mo  Mo24  1  0.828430  0.340494  0.628204  1
+  Mo  Mo25  1  0.328430  0.159506  0.871796  1
+  Mo  Mo26  1  0.171570  0.659506  0.128204  1
+  Mo  Mo27  1  0.671570  0.840494  0.371796  1
+  Mo  Mo28  1  0.171570  0.659506  0.371796  1
+  Mo  Mo29  1  0.671570  0.840494  0.128204  1
+  Mo  Mo30  1  0.828430  0.340494  0.871796  1
+  Mo  Mo31  1  0.328430  0.159506  0.628204  1
+  Mo  Mo32  1  0.668372  0.004869  0.750000  1
+  Mo  Mo33  1  0.168372  0.495131  0.750000  1
+  Mo  Mo34  1  0.331628  0.995131  0.250000  1
+  Mo  Mo35  1  0.831628  0.504869  0.250000  1

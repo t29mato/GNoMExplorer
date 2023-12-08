@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_ScU2(GaIr)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.10592135
+_cell_length_b   7.10592082
+_cell_length_c   3.84090900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.78900757
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScU2(GaIr)3
+_chemical_formula_sum   'Sc1 U2 Ga3 Ir3'
+_cell_volume   166.60856550
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.404802  0.404802  0.500000  1
+  U  U1  1  0.586728  0.001086  0.500000  1
+  U  U2  1  0.001086  0.586728  0.500000  1
+  Ga  Ga3  1  0.733890  0.733890  0.000000  1
+  Ga  Ga4  1  0.251383  0.016673  0.000000  1
+  Ga  Ga5  1  0.016673  0.251383  0.000000  1
+  Ir  Ir6  1  0.683966  0.330750  0.000000  1
+  Ir  Ir7  1  0.330750  0.683966  0.000000  1
+  Ir  Ir8  1  0.990720  0.990720  0.500000  1

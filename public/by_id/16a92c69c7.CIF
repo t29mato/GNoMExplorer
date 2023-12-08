@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ba3Tl(SnPb3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.47399808
+_cell_length_b   9.42302231
+_cell_length_c   9.47399800
+_cell_angle_alpha   46.60174015
+_cell_angle_beta   46.36652947
+_cell_angle_gamma   46.60174426
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3Tl(SnPb3)2
+_chemical_formula_sum   'Ba3 Tl1 Sn2 Pb6'
+_cell_volume   406.68241147
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.784302  0.781000  0.784302  1
+  Ba  Ba1  1  0.213109  0.211766  0.213109  1
+  Ba  Ba2  1  0.004919  0.003095  0.004919  1
+  Tl  Tl3  1  0.294536  0.742153  0.294536  1
+  Sn  Sn4  1  0.720310  0.303576  0.309509  1
+  Sn  Sn5  1  0.309509  0.303576  0.720310  1
+  Pb  Pb6  1  0.498810  0.493526  0.006952  1
+  Pb  Pb7  1  0.497028  0.006880  0.497028  1
+  Pb  Pb8  1  0.006952  0.493526  0.498810  1
+  Pb  Pb9  1  0.703097  0.262589  0.703097  1
+  Pb  Pb10  1  0.704776  0.699157  0.262652  1
+  Pb  Pb11  1  0.262652  0.699157  0.704776  1

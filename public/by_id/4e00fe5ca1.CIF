@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Ta9(NiP2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.48349200
+_cell_length_b   11.48349200
+_cell_length_c   3.45501400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta9(NiP2)2
+_chemical_formula_sum   'Ta18 Ni4 P8'
+_cell_volume   455.61472950
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.000000  0.000000  0.000000  1
+  Ta  Ta1  1  0.500000  0.500000  0.000000  1
+  Ta  Ta2  1  0.103153  0.183458  0.500000  1
+  Ta  Ta3  1  0.183458  0.896847  0.500000  1
+  Ta  Ta4  1  0.816542  0.103153  0.500000  1
+  Ta  Ta5  1  0.896847  0.816542  0.500000  1
+  Ta  Ta6  1  0.396847  0.683458  0.500000  1
+  Ta  Ta7  1  0.603153  0.316542  0.500000  1
+  Ta  Ta8  1  0.683458  0.603153  0.500000  1
+  Ta  Ta9  1  0.316542  0.396847  0.500000  1
+  Ta  Ta10  1  0.101690  0.398310  0.000000  1
+  Ta  Ta11  1  0.398310  0.898310  0.000000  1
+  Ta  Ta12  1  0.601690  0.101690  0.000000  1
+  Ta  Ta13  1  0.898310  0.601690  0.000000  1
+  Ta  Ta14  1  0.393585  0.106415  0.500000  1
+  Ta  Ta15  1  0.106415  0.606415  0.500000  1
+  Ta  Ta16  1  0.893585  0.393585  0.500000  1
+  Ta  Ta17  1  0.606415  0.893585  0.500000  1
+  Ni  Ni18  1  0.264850  0.235150  0.000000  1
+  Ni  Ni19  1  0.235150  0.735150  0.000000  1
+  Ni  Ni20  1  0.764850  0.264850  0.000000  1
+  Ni  Ni21  1  0.735150  0.764850  0.000000  1
+  P  P22  1  0.226124  0.052417  0.000000  1
+  P  P23  1  0.052417  0.773876  0.000000  1
+  P  P24  1  0.947583  0.226124  0.000000  1
+  P  P25  1  0.773876  0.947583  0.000000  1
+  P  P26  1  0.273876  0.552417  0.000000  1
+  P  P27  1  0.726124  0.447583  0.000000  1
+  P  P28  1  0.552417  0.726124  0.000000  1
+  P  P29  1  0.447583  0.273876  0.000000  1

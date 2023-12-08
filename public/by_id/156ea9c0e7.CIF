@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_MnCd2Fe(SiO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.97154300
+_cell_length_b   6.42818803
+_cell_length_c   11.20658960
+_cell_angle_alpha   90.75962754
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnCd2Fe(SiO4)2
+_chemical_formula_sum   'Mn2 Cd4 Fe2 Si4 O16'
+_cell_volume   358.10886262
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.500000  0.500000  0.500000  1
+  Mn  Mn1  1  0.000000  0.500000  0.000000  1
+  Cd  Cd2  1  0.014261  0.751864  0.721212  1
+  Cd  Cd3  1  0.985739  0.248136  0.278788  1
+  Cd  Cd4  1  0.514261  0.248136  0.778788  1
+  Cd  Cd5  1  0.485739  0.751864  0.221212  1
+  Fe  Fe6  1  0.500000  0.000000  0.500000  1
+  Fe  Fe7  1  0.000000  0.000000  0.000000  1
+  Si  Si8  1  0.578983  0.752983  0.911557  1
+  Si  Si9  1  0.421017  0.247017  0.088443  1
+  Si  Si10  1  0.078983  0.247017  0.588443  1
+  Si  Si11  1  0.921017  0.752983  0.411557  1
+  O  O12  1  0.773872  0.753666  0.546226  1
+  O  O13  1  0.226128  0.246334  0.453774  1
+  O  O14  1  0.273872  0.246334  0.953774  1
+  O  O15  1  0.726128  0.753666  0.046226  1
+  O  O16  1  0.248962  0.756033  0.916770  1
+  O  O17  1  0.751038  0.243967  0.083230  1
+  O  O18  1  0.748962  0.243967  0.583230  1
+  O  O19  1  0.251038  0.756033  0.416770  1
+  O  O20  1  0.714680  0.545192  0.845324  1
+  O  O21  1  0.285320  0.454808  0.154676  1
+  O  O22  1  0.214680  0.454808  0.654676  1
+  O  O23  1  0.280906  0.043262  0.153602  1
+  O  O24  1  0.785320  0.545192  0.345324  1
+  O  O25  1  0.719094  0.956738  0.846398  1
+  O  O26  1  0.780906  0.956738  0.346398  1
+  O  O27  1  0.219094  0.043262  0.653602  1

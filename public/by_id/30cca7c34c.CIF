@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Be2Nb4VAs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.47199140
+_cell_length_b   7.47199091
+_cell_length_c   7.47199200
+_cell_angle_alpha   129.93037441
+_cell_angle_beta   129.93037123
+_cell_angle_gamma   73.51809765
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Be2Nb4VAs
+_chemical_formula_sum   'Be4 Nb8 V2 As2'
+_cell_volume   239.39517229
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.124711  0.624711  0.749424  1
+  Be  Be1  1  0.875289  0.375289  0.250576  1
+  Be  Be2  1  0.624711  0.875289  0.500000  1
+  Be  Be3  1  0.375289  0.124711  0.500000  1
+  Nb  Nb4  1  0.807982  0.307982  0.836933  1
+  Nb  Nb5  1  0.192018  0.692018  0.163067  1
+  Nb  Nb6  1  0.471048  0.971048  0.163067  1
+  Nb  Nb7  1  0.307982  0.471048  0.500000  1
+  Nb  Nb8  1  0.028952  0.192018  0.500000  1
+  Nb  Nb9  1  0.528952  0.028952  0.836933  1
+  Nb  Nb10  1  0.692018  0.528952  0.500000  1
+  Nb  Nb11  1  0.971048  0.807982  0.500000  1
+  V  V12  1  0.000000  0.000000  0.000000  1
+  V  V13  1  0.500000  0.500000  0.000000  1
+  As  As14  1  0.250000  0.250000  0.000000  1
+  As  As15  1  0.750000  0.750000  0.000000  1

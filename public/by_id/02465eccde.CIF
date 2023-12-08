@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ba4Li2Al2Si3Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.92454492
+_cell_length_b   8.90859523
+_cell_length_c   8.90859497
+_cell_angle_alpha   137.43669735
+_cell_angle_beta   137.01421321
+_cell_angle_gamma   62.06145745
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba4Li2Al2Si3Ge
+_chemical_formula_sum   'Ba4 Li2 Al2 Si3 Ge1'
+_cell_volume   322.83357752
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.098317  0.838965  0.259352  1
+  Ba  Ba1  1  0.902018  0.161115  0.740904  1
+  Ba  Ba2  1  0.420000  0.660765  0.759236  1
+  Ba  Ba3  1  0.579849  0.338946  0.240902  1
+  Li  Li4  1  0.499599  0.250717  0.749914  1
+  Li  Li5  1  0.499599  0.749685  0.248882  1
+  Al  Al6  1  0.002580  0.252671  0.253823  1
+  Al  Al7  1  0.002580  0.748757  0.749909  1
+  Si  Si8  1  0.136892  0.406058  0.730833  1
+  Si  Si9  1  0.863173  0.593956  0.269218  1
+  Si  Si10  1  0.324524  0.093933  0.230592  1
+  Ge  Ge11  1  0.670868  0.904433  0.766435  1

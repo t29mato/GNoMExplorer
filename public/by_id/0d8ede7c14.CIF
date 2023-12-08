@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Pu(ZnAu)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.56377100
+_cell_length_b   5.56376941
+_cell_length_c   5.67298043
+_cell_angle_alpha   102.82526581
+_cell_angle_beta   102.82526209
+_cell_angle_gamma   123.18393103
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pu(ZnAu)3
+_chemical_formula_sum   'Pu1 Zn3 Au3'
+_cell_volume   129.99233475
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pu  Pu0  1  0.005255  0.005255  0.010508  1
+  Zn  Zn1  1  0.247744  0.747744  0.495488  1
+  Zn  Zn2  1  0.747744  0.247744  0.495488  1
+  Zn  Zn3  1  0.304441  0.304441  0.608883  1
+  Au  Au4  1  0.708949  0.708949  0.417900  1
+  Au  Au5  1  0.680205  0.305661  0.985866  1
+  Au  Au6  1  0.305661  0.680205  0.985866  1

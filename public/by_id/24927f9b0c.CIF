@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_DyCd(NiPt)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.05242800
+_cell_length_b   5.17070454
+_cell_length_c   5.17070395
+_cell_angle_alpha   63.10900764
+_cell_angle_beta   60.75382797
+_cell_angle_gamma   60.75383594
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyCd(NiPt)2
+_chemical_formula_sum   'Dy1 Cd1 Ni2 Pt2'
+_cell_volume   98.70853322
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.247994  0.252006  0.252006  1
+  Cd  Cd1  1  0.006610  0.993390  0.993390  1
+  Ni  Ni2  1  0.121839  0.627409  0.627409  1
+  Ni  Ni3  1  0.623344  0.627409  0.627409  1
+  Pt  Pt4  1  0.625107  0.625998  0.123790  1
+  Pt  Pt5  1  0.625107  0.123790  0.625998  1

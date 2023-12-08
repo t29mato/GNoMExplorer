@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_U4Re5Si4(PRu)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.10099296
+_cell_length_b   7.09992283
+_cell_length_c   7.10099169
+_cell_angle_alpha   109.55128837
+_cell_angle_beta   109.31732498
+_cell_angle_gamma   109.55128186
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U4Re5Si4(PRu)2
+_chemical_formula_sum   'U4 Re5 Si4 P2 Ru2'
+_cell_volume   275.57169098
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.489255  0.493581  0.489255  1
+  U  U1  1  0.999069  0.998139  0.499069  1
+  U  U2  1  0.499069  0.998139  0.999069  1
+  U  U3  1  0.004325  0.493581  0.004325  1
+  Re  Re4  1  0.500824  0.748394  0.247570  1
+  Re  Re5  1  0.249743  0.499484  0.749743  1
+  Re  Re6  1  0.749743  0.499484  0.249743  1
+  Re  Re7  1  0.247570  0.748394  0.500824  1
+  Re  Re8  1  0.007872  0.015742  0.007872  1
+  Si  Si9  1  0.996134  0.691291  0.695156  1
+  Si  Si10  1  0.686152  0.997899  0.686152  1
+  Si  Si11  1  0.311747  0.997899  0.311747  1
+  Si  Si12  1  0.695156  0.691291  0.996134  1
+  P  P13  1  0.315155  0.312683  0.997528  1
+  P  P14  1  0.997528  0.312683  0.315155  1
+  Ru  Ru15  1  0.748897  0.250659  0.501762  1
+  Ru  Ru16  1  0.501762  0.250659  0.748897  1

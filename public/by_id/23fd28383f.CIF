@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ScPa3Si4(IrPt)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.25713300
+_cell_length_b   6.92461168
+_cell_length_c   7.48293482
+_cell_angle_alpha   89.78495289
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScPa3Si4(IrPt)2
+_chemical_formula_sum   'Sc1 Pa3 Si4 Ir2 Pt2'
+_cell_volume   220.58782845
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.750000  0.504806  0.792524  1
+  Pa  Pa1  1  0.250000  0.998321  0.303655  1
+  Pa  Pa2  1  0.250000  0.496469  0.205401  1
+  Pa  Pa3  1  0.750000  0.002874  0.704302  1
+  Si  Si4  1  0.250000  0.321810  0.591875  1
+  Si  Si5  1  0.250000  0.787942  0.905416  1
+  Si  Si6  1  0.750000  0.681120  0.421107  1
+  Si  Si7  1  0.750000  0.193049  0.084070  1
+  Ir  Ir8  1  0.250000  0.712876  0.581284  1
+  Ir  Ir9  1  0.750000  0.282930  0.411254  1
+  Pt  Pt10  1  0.250000  0.223923  0.914751  1
+  Pt  Pt11  1  0.750000  0.793881  0.084362  1

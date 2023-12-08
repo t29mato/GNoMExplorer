@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Lu2ZrTeP2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.92073600
+_cell_length_b   9.82664838
+_cell_length_c   6.76486800
+_cell_angle_alpha   89.87501402
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2ZrTeP2
+_chemical_formula_sum   'Lu4 Zr2 Te2 P4'
+_cell_volume   260.63414457
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.250000  0.790897  0.915953  1
+  Lu  Lu1  1  0.750000  0.209103  0.084047  1
+  Lu  Lu2  1  0.750000  0.789992  0.416917  1
+  Lu  Lu3  1  0.250000  0.210008  0.583083  1
+  Zr  Zr4  1  0.250000  0.500180  0.249117  1
+  Zr  Zr5  1  0.750000  0.499820  0.750883  1
+  Te  Te6  1  0.750000  0.000444  0.749494  1
+  Te  Te7  1  0.250000  0.999556  0.250506  1
+  P  P8  1  0.250000  0.648757  0.583343  1
+  P  P9  1  0.750000  0.351243  0.416657  1
+  P  P10  1  0.750000  0.649833  0.082770  1
+  P  P11  1  0.250000  0.350167  0.917230  1

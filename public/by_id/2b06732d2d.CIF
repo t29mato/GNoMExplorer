@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_DyCo2Si2Ir
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.45048071
+_cell_length_b   6.45047960
+_cell_length_c   6.45047972
+_cell_angle_alpha   132.02357061
+_cell_angle_beta   114.00310782
+_cell_angle_gamma   85.62852685
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyCo2Si2Ir
+_chemical_formula_sum   'Dy2 Co4 Si4 Ir2'
+_cell_volume   174.37144956
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.250000  0.525715  0.275715  1
+  Dy  Dy1  1  0.750000  0.474285  0.724285  1
+  Co  Co2  1  0.724608  0.000000  0.724608  1
+  Co  Co3  1  0.224608  0.500000  0.724608  1
+  Co  Co4  1  0.275392  0.000000  0.275392  1
+  Co  Co5  1  0.775392  0.500000  0.275392  1
+  Si  Si6  1  0.069638  0.861263  0.791625  1
+  Si  Si7  1  0.930362  0.138737  0.208375  1
+  Si  Si8  1  0.569638  0.778013  0.208375  1
+  Si  Si9  1  0.430362  0.221987  0.791625  1
+  Ir  Ir10  1  0.000000  0.000000  0.500000  1
+  Ir  Ir11  1  0.500000  0.000000  0.000000  1

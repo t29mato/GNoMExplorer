@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_La2MgInIr2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.39693000
+_cell_length_b   4.23620000
+_cell_length_c   8.84527500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2MgInIr2
+_chemical_formula_sum   'La4 Mg2 In2 Ir4'
+_cell_volume   277.16558528
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.463353  0.750000  0.181974  1
+  La  La1  1  0.963352  0.750000  0.318025  1
+  La  La2  1  0.037486  0.250000  0.680504  1
+  La  La3  1  0.537486  0.250000  0.819496  1
+  Mg  Mg4  1  0.135674  0.250000  0.059838  1
+  Mg  Mg5  1  0.635674  0.250000  0.440161  1
+  In  In6  1  0.364848  0.750000  0.559064  1
+  In  In7  1  0.864847  0.750000  0.940936  1
+  Ir  Ir8  1  0.752381  0.250000  0.131753  1
+  Ir  Ir9  1  0.252382  0.250000  0.368246  1
+  Ir  Ir10  1  0.746260  0.750000  0.629137  1
+  Ir  Ir11  1  0.246259  0.750000  0.870863  1

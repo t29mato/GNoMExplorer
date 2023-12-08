@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_HfZr5(PN)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.81438523
+_cell_length_b   5.81438568
+_cell_length_c   8.41304000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   145.51001034
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfZr5(PN)2
+_chemical_formula_sum   'Hf1 Zr5 P2 N2'
+_cell_volume   161.05647767
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.063706  0.936294  0.750000  1
+  Zr  Zr1  1  0.936219  0.063781  0.250000  1
+  Zr  Zr2  1  0.635278  0.364722  0.442354  1
+  Zr  Zr3  1  0.365279  0.634721  0.558917  1
+  Zr  Zr4  1  0.635278  0.364722  0.057646  1
+  Zr  Zr5  1  0.365279  0.634721  0.941083  1
+  P  P6  1  0.256495  0.743505  0.250000  1
+  P  P7  1  0.741284  0.258716  0.750000  1
+  N  N8  1  0.000591  0.999409  0.503256  1
+  N  N9  1  0.000591  0.999409  0.996744  1

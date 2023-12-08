@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_SmAl8Cu4Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.87247148
+_cell_length_b   5.87247106
+_cell_length_c   14.21767083
+_cell_angle_alpha   101.02687952
+_cell_angle_beta   101.02687774
+_cell_angle_gamma   90.05411280
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmAl8Cu4Ge
+_chemical_formula_sum   'Sm2 Al16 Cu8 Ge2'
+_cell_volume   472.01343590
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.750921  0.249080  0.500000  1
+  Sm  Sm1  1  0.249080  0.750920  0.500000  1
+  Al  Al2  1  0.297794  0.297794  0.104015  1
+  Al  Al3  1  0.806088  0.305053  0.104504  1
+  Al  Al4  1  0.305053  0.806088  0.104503  1
+  Al  Al5  1  0.798292  0.798292  0.103414  1
+  Al  Al6  1  0.412652  0.412652  0.307217  1
+  Al  Al7  1  0.895941  0.408890  0.307721  1
+  Al  Al8  1  0.408890  0.895941  0.307721  1
+  Al  Al9  1  0.899822  0.899822  0.307300  1
+  Al  Al10  1  0.100178  0.100178  0.692700  1
+  Al  Al11  1  0.591110  0.104059  0.692279  1
+  Al  Al12  1  0.104059  0.591110  0.692279  1
+  Al  Al13  1  0.587348  0.587348  0.692783  1
+  Al  Al14  1  0.201709  0.201709  0.896586  1
+  Al  Al15  1  0.694946  0.193912  0.895496  1
+  Al  Al16  1  0.193912  0.694946  0.895496  1
+  Al  Al17  1  0.702206  0.702206  0.895985  1
+  Cu  Cu18  1  0.000000  0.000000  0.000000  1
+  Cu  Cu19  1  0.500000  0.500000  0.000000  1
+  Cu  Cu20  1  0.605538  0.104117  0.207938  1
+  Cu  Cu21  1  0.104116  0.605539  0.207938  1
+  Cu  Cu22  1  0.704287  0.704287  0.409558  1
+  Cu  Cu23  1  0.295713  0.295713  0.590442  1
+  Cu  Cu24  1  0.895884  0.394461  0.792062  1
+  Cu  Cu25  1  0.394461  0.895884  0.792062  1
+  Ge  Ge26  1  0.209360  0.209360  0.418841  1
+  Ge  Ge27  1  0.790640  0.790640  0.581159  1

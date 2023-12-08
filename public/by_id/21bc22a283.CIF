@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LiHo(NiIr)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.96182035
+_cell_length_b   5.09843336
+_cell_length_c   5.09843288
+_cell_angle_alpha   60.60767912
+_cell_angle_beta   60.88247130
+_cell_angle_gamma   60.88248621
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiHo(NiIr)2
+_chemical_formula_sum   'Li1 Ho1 Ni2 Ir2'
+_cell_volume   92.82656888
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.748785  0.751215  0.751215  1
+  Ho  Ho1  1  0.496731  0.503269  0.503269  1
+  Ni  Ni2  1  0.125001  0.123868  0.123868  1
+  Ni  Ni3  1  0.627264  0.123868  0.123868  1
+  Ir  Ir4  1  0.126110  0.122732  0.625049  1
+  Ir  Ir5  1  0.126110  0.625049  0.122732  1

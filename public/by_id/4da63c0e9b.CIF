@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TbPa(ZnRh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.83354400
+_cell_length_b   7.17510180
+_cell_length_c   8.40428198
+_cell_angle_alpha   91.45918933
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbPa(ZnRh)2
+_chemical_formula_sum   'Tb2 Pa2 Zn4 Rh4'
+_cell_volume   231.09379101
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.250000  0.056199  0.313611  1
+  Tb  Tb1  1  0.750000  0.943801  0.686389  1
+  Pa  Pa2  1  0.250000  0.551971  0.189254  1
+  Pa  Pa3  1  0.750000  0.448029  0.810746  1
+  Zn  Zn4  1  0.250000  0.117039  0.939135  1
+  Zn  Zn5  1  0.750000  0.882961  0.060865  1
+  Zn  Zn6  1  0.250000  0.631319  0.558344  1
+  Zn  Zn7  1  0.750000  0.368681  0.441656  1
+  Rh  Rh8  1  0.750000  0.744701  0.355522  1
+  Rh  Rh9  1  0.250000  0.255299  0.644478  1
+  Rh  Rh10  1  0.750000  0.283614  0.120880  1
+  Rh  Rh11  1  0.250000  0.716386  0.879120  1

@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Ca(LuCu6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.99263813
+_cell_length_b   4.99263909
+_cell_length_c   10.59301632
+_cell_angle_alpha   95.00542189
+_cell_angle_beta   95.00541887
+_cell_angle_gamma   120.00388346
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca(LuCu6)2
+_chemical_formula_sum   'Ca1 Lu2 Cu12'
+_cell_volume   225.15302648
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.000000  0.000000  0.000000  1
+  Lu  Lu1  1  0.135613  0.135613  0.360094  1
+  Lu  Lu2  1  0.864387  0.864387  0.639906  1
+  Cu  Cu3  1  0.663470  0.336531  0.000000  1
+  Cu  Cu4  1  0.336531  0.663470  0.000000  1
+  Cu  Cu5  1  0.571673  0.070381  0.198662  1
+  Cu  Cu6  1  0.070381  0.571673  0.198662  1
+  Cu  Cu7  1  0.572484  0.572484  0.203859  1
+  Cu  Cu8  1  0.810561  0.477690  0.407584  1
+  Cu  Cu9  1  0.477690  0.810561  0.407584  1
+  Cu  Cu10  1  0.522312  0.189440  0.592416  1
+  Cu  Cu11  1  0.189440  0.522312  0.592416  1
+  Cu  Cu12  1  0.427515  0.427515  0.796141  1
+  Cu  Cu13  1  0.929618  0.428326  0.801339  1
+  Cu  Cu14  1  0.428326  0.929618  0.801339  1

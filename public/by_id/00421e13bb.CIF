@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_ScVCo4Si3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.62927600
+_cell_length_b   10.44504300
+_cell_length_c   11.99875000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScVCo4Si3
+_chemical_formula_sum   'Sc4 V4 Co16 Si12'
+_cell_volume   454.84794162
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.250000  0.576812  0.704688  1
+  Sc  Sc1  1  0.250000  0.923188  0.204688  1
+  Sc  Sc2  1  0.750000  0.423188  0.295312  1
+  Sc  Sc3  1  0.750000  0.076812  0.795312  1
+  V  V4  1  0.250000  0.696251  0.992211  1
+  V  V5  1  0.250000  0.803749  0.492211  1
+  V  V6  1  0.750000  0.303749  0.007789  1
+  V  V7  1  0.750000  0.196251  0.507789  1
+  Co  Co8  1  0.250000  0.404640  0.486747  1
+  Co  Co9  1  0.250000  0.095360  0.986747  1
+  Co  Co10  1  0.750000  0.595360  0.513253  1
+  Co  Co11  1  0.750000  0.904640  0.013253  1
+  Co  Co12  1  0.250000  0.216042  0.169640  1
+  Co  Co13  1  0.250000  0.283959  0.669640  1
+  Co  Co14  1  0.750000  0.783959  0.830360  1
+  Co  Co15  1  0.750000  0.716041  0.330360  1
+  Co  Co16  1  0.250000  0.878250  0.699384  1
+  Co  Co17  1  0.250000  0.621750  0.199384  1
+  Co  Co18  1  0.750000  0.121750  0.300616  1
+  Co  Co19  1  0.750000  0.378250  0.800616  1
+  Co  Co20  1  0.250000  0.463213  0.933306  1
+  Co  Co21  1  0.250000  0.036787  0.433306  1
+  Co  Co22  1  0.750000  0.536787  0.066694  1
+  Co  Co23  1  0.750000  0.963213  0.566694  1
+  Si  Si24  1  0.250000  0.422130  0.119251  1
+  Si  Si25  1  0.250000  0.077870  0.619251  1
+  Si  Si26  1  0.750000  0.577870  0.880749  1
+  Si  Si27  1  0.750000  0.922130  0.380749  1
+  Si  Si28  1  0.250000  0.262600  0.859659  1
+  Si  Si29  1  0.250000  0.237400  0.359659  1
+  Si  Si30  1  0.750000  0.737400  0.140341  1
+  Si  Si31  1  0.750000  0.762600  0.640341  1
+  Si  Si32  1  0.250000  0.595366  0.390214  1
+  Si  Si33  1  0.250000  0.904634  0.890214  1
+  Si  Si34  1  0.750000  0.404634  0.609786  1
+  Si  Si35  1  0.750000  0.095366  0.109786  1

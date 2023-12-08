@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_HoLu(Re2Si)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.39390800
+_cell_length_b   7.39390723
+_cell_length_c   4.13177800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.60788588
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoLu(Re2Si)4
+_chemical_formula_sum   'Ho1 Lu1 Re8 Si4'
+_cell_volume   225.87105248
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.000000  0.000000  0.500000  1
+  Lu  Lu1  1  0.500000  0.500000  0.000000  1
+  Re  Re2  1  0.656846  0.903480  0.000000  1
+  Re  Re3  1  0.160775  0.591969  0.500000  1
+  Re  Re4  1  0.096520  0.343154  0.000000  1
+  Re  Re5  1  0.903480  0.656846  0.000000  1
+  Re  Re6  1  0.408031  0.839225  0.500000  1
+  Re  Re7  1  0.591969  0.160775  0.500000  1
+  Re  Re8  1  0.343154  0.096520  0.000000  1
+  Re  Re9  1  0.839225  0.408031  0.500000  1
+  Si  Si10  1  0.209745  0.790255  0.000000  1
+  Si  Si11  1  0.790255  0.209745  0.000000  1
+  Si  Si12  1  0.706770  0.706770  0.500000  1
+  Si  Si13  1  0.293230  0.293230  0.500000  1

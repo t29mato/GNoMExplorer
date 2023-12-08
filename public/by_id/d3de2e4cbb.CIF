@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_La2Sm2CdCo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.87810486
+_cell_length_b   9.80834471
+_cell_length_c   9.80834486
+_cell_angle_alpha   60.47111191
+_cell_angle_beta   59.76445055
+_cell_angle_gamma   59.76444563
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2Sm2CdCo
+_chemical_formula_sum   'La8 Sm8 Cd4 Co4'
+_cell_volume   671.90187512
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.187726  0.812275  0.187726  1
+  La  La1  1  0.187726  0.187726  0.812275  1
+  La  La2  1  0.812274  0.187727  0.812274  1
+  La  La3  1  0.812274  0.812274  0.187727  1
+  La  La4  1  0.349789  0.343648  0.343648  1
+  La  La5  1  0.343648  0.349789  0.962914  1
+  La  La6  1  0.962914  0.343648  0.343648  1
+  La  La7  1  0.343648  0.962914  0.349789  1
+  Sm  Sm8  1  0.937878  0.562122  0.562122  1
+  Sm  Sm9  1  0.562123  0.937877  0.937877  1
+  Sm  Sm10  1  0.565633  0.934367  0.565633  1
+  Sm  Sm11  1  0.565633  0.565633  0.934367  1
+  Sm  Sm12  1  0.934366  0.565634  0.934366  1
+  Sm  Sm13  1  0.934366  0.934366  0.565634  1
+  Sm  Sm14  1  0.806453  0.193548  0.193548  1
+  Sm  Sm15  1  0.193549  0.806452  0.806452  1
+  Cd  Cd16  1  0.578761  0.581425  0.581425  1
+  Cd  Cd17  1  0.581425  0.578761  0.258387  1
+  Cd  Cd18  1  0.258387  0.581425  0.581425  1
+  Cd  Cd19  1  0.581425  0.258387  0.578761  1
+  Co  Co20  1  0.145012  0.137032  0.137032  1
+  Co  Co21  1  0.137032  0.145012  0.580922  1
+  Co  Co22  1  0.580922  0.137032  0.137032  1
+  Co  Co23  1  0.137032  0.580922  0.145012  1

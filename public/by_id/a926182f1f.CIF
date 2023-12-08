@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_LiHo2Si3P3Pd20
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.64285289
+_cell_length_b   8.64147343
+_cell_length_c   8.64520811
+_cell_angle_alpha   59.99625805
+_cell_angle_beta   59.98042496
+_cell_angle_gamma   60.02331180
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiHo2Si3P3Pd20
+_chemical_formula_sum   'Li1 Ho2 Si3 P3 Pd20'
+_cell_volume   456.56775162
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.000175  0.999825  0.000175  1
+  Ho  Ho1  1  0.249569  0.250431  0.249569  1
+  Ho  Ho2  1  0.749569  0.750431  0.749569  1
+  Si  Si3  1  0.737014  0.262986  0.261812  1
+  Si  Si4  1  0.261812  0.738188  0.737014  1
+  Si  Si5  1  0.262785  0.737215  0.262785  1
+  P  P6  1  0.738356  0.261644  0.738356  1
+  P  P7  1  0.261215  0.262583  0.737417  1
+  P  P8  1  0.737417  0.738785  0.261215  1
+  Pd  Pd9  1  0.383558  0.383496  0.385559  1
+  Pd  Pd10  1  0.616563  0.614897  0.614922  1
+  Pd  Pd11  1  0.385103  0.383437  0.846384  1
+  Pd  Pd12  1  0.385559  0.847388  0.383558  1
+  Pd  Pd13  1  0.616504  0.616442  0.152612  1
+  Pd  Pd14  1  0.614922  0.153616  0.616563  1
+  Pd  Pd15  1  0.846384  0.385078  0.385103  1
+  Pd  Pd16  1  0.152612  0.614441  0.616504  1
+  Pd  Pd17  1  0.344716  0.001798  0.998202  1
+  Pd  Pd18  1  0.656274  0.999919  0.000081  1
+  Pd  Pd19  1  0.000081  0.343726  0.656274  1
+  Pd  Pd20  1  0.998202  0.655284  0.344716  1
+  Pd  Pd21  1  0.002468  0.344428  0.998782  1
+  Pd  Pd22  1  0.655572  0.997532  0.345677  1
+  Pd  Pd23  1  0.998782  0.654323  0.002468  1
+  Pd  Pd24  1  0.345677  0.001218  0.655572  1
+  Pd  Pd25  1  0.000050  0.999950  0.346208  1
+  Pd  Pd26  1  0.998274  0.001726  0.654576  1
+  Pd  Pd27  1  0.654576  0.345424  0.998274  1
+  Pd  Pd28  1  0.346208  0.653792  0.000050  1

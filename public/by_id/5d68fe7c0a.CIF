@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sr3Ho(NiP)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.92409100
+_cell_length_b   3.92409032
+_cell_length_c   17.41619200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999727
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3Ho(NiP)4
+_chemical_formula_sum   'Sr3 Ho1 Ni4 P4'
+_cell_volume   232.25331038
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.000000  0.000000  0.500000  1
+  Sr  Sr1  1  0.000000  0.000000  0.240416  1
+  Sr  Sr2  1  0.000000  0.000000  0.759584  1
+  Ho  Ho3  1  0.000000  0.000000  0.000000  1
+  Ni  Ni4  1  0.333333  0.666667  0.369268  1
+  Ni  Ni5  1  0.666667  0.333333  0.630732  1
+  Ni  Ni6  1  0.666667  0.333333  0.891110  1
+  Ni  Ni7  1  0.333333  0.666667  0.108890  1
+  P  P8  1  0.333333  0.666667  0.890883  1
+  P  P9  1  0.666667  0.333333  0.109117  1
+  P  P10  1  0.666667  0.333333  0.369700  1
+  P  P11  1  0.333333  0.666667  0.630300  1

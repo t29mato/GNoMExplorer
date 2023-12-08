@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Hf2Ni2BRh4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.62907499
+_cell_length_b   5.62907540
+_cell_length_c   5.53147100
+_cell_angle_alpha   60.57193598
+_cell_angle_beta   60.57193360
+_cell_angle_gamma   59.74157247
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf2Ni2BRh4
+_chemical_formula_sum   'Hf2 Ni2 B1 Rh4'
+_cell_volume   124.74722003
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.250537  0.250537  0.251018  1
+  Hf  Hf1  1  0.749464  0.749464  0.752089  1
+  Ni  Ni2  1  0.761836  0.238164  0.244828  1
+  Ni  Ni3  1  0.238164  0.761836  0.244828  1
+  B  B4  1  0.500000  0.500000  0.483273  1
+  Rh  Rh5  1  0.757050  0.757050  0.247173  1
+  Rh  Rh6  1  0.242950  0.242950  0.761272  1
+  Rh  Rh7  1  0.754888  0.245112  0.757760  1
+  Rh  Rh8  1  0.245112  0.754888  0.757760  1

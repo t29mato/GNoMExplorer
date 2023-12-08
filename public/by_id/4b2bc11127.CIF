@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ce(MnC)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.64794695
+_cell_length_b   5.64794559
+_cell_length_c   5.64794601
+_cell_angle_alpha   94.81109590
+_cell_angle_beta   94.81109280
+_cell_angle_gamma   146.33142992
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce(MnC)4
+_chemical_formula_sum   'Ce1 Mn4 C4'
+_cell_volume   95.60130441
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.000000  0.000000  0.000000  1
+  Mn  Mn1  1  0.636691  0.821726  0.458416  1
+  Mn  Mn2  1  0.363309  0.178274  0.541584  1
+  Mn  Mn3  1  0.821726  0.363309  0.185034  1
+  Mn  Mn4  1  0.178274  0.636691  0.814966  1
+  C  C5  1  0.242807  0.398106  0.640913  1
+  C  C6  1  0.757193  0.601894  0.359087  1
+  C  C7  1  0.398106  0.757193  0.155299  1
+  C  C8  1  0.601894  0.242807  0.844701  1

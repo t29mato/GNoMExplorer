@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NdSmCo4(Si2Rh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.49672368
+_cell_length_b   6.49672283
+_cell_length_c   6.49672385
+_cell_angle_alpha   131.54554656
+_cell_angle_beta   115.31960109
+_cell_angle_gamma   84.78562931
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdSmCo4(Si2Rh)2
+_chemical_formula_sum   'Nd1 Sm1 Co4 Si4 Rh2'
+_cell_volume   177.82289552
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.250000  0.968401  0.718401  1
+  Sm  Sm1  1  0.750000  0.032645  0.282645  1
+  Co  Co2  1  0.219207  0.499408  0.719251  1
+  Co  Co3  1  0.719843  0.000044  0.719251  1
+  Co  Co4  1  0.780157  0.499408  0.280201  1
+  Co  Co5  1  0.280793  0.000044  0.280201  1
+  Si  Si6  1  0.569630  0.367952  0.798323  1
+  Si  Si7  1  0.431299  0.633405  0.202105  1
+  Si  Si8  1  0.068701  0.270806  0.202105  1
+  Si  Si9  1  0.930370  0.728693  0.798323  1
+  Rh  Rh10  1  0.500872  0.499597  0.500468  1
+  Rh  Rh11  1  0.999128  0.499597  0.998725  1

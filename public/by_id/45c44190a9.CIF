@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_NaHoSnI6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.64102578
+_cell_length_b   8.64101164
+_cell_length_c   8.64101213
+_cell_angle_alpha   54.33667962
+_cell_angle_beta   54.33592094
+_cell_angle_gamma   54.33576621
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaHoSnI6
+_chemical_formula_sum   'Na1 Ho1 Sn1 I6'
+_cell_volume   395.94539915
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.669845  0.669842  0.669857  1
+  Ho  Ho1  1  0.999759  0.999758  0.999737  1
+  Sn  Sn2  1  0.331043  0.331046  0.331032  1
+  I  I3  1  0.233931  0.607372  0.918232  1
+  I  I4  1  0.607360  0.918235  0.233930  1
+  I  I5  1  0.918226  0.233937  0.607358  1
+  I  I6  1  0.760302  0.387761  0.091776  1
+  I  I7  1  0.387775  0.091747  0.760309  1
+  I  I8  1  0.091759  0.760301  0.387769  1

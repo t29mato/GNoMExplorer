@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Tb19Y(Hg3Ru)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.66920400
+_cell_length_b   9.66916363
+_cell_length_c   9.73960500
+_cell_angle_alpha   89.99960576
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99993285
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb19Y(Hg3Ru)2
+_chemical_formula_sum   'Tb19 Y1 Hg6 Ru2'
+_cell_volume   788.59115603
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.000000  0.000000  0.500000  1
+  Tb  Tb1  1  0.209515  0.790484  0.439608  1
+  Tb  Tb2  1  0.209515  0.419030  0.439606  1
+  Tb  Tb3  1  0.580968  0.790483  0.439607  1
+  Tb  Tb4  1  0.790485  0.209516  0.560392  1
+  Tb  Tb5  1  0.790485  0.580970  0.560394  1
+  Tb  Tb6  1  0.419032  0.209517  0.560393  1
+  Tb  Tb7  1  0.790487  0.209513  0.939537  1
+  Tb  Tb8  1  0.790487  0.580974  0.939537  1
+  Tb  Tb9  1  0.419027  0.209514  0.939536  1
+  Tb  Tb10  1  0.209513  0.790487  0.060463  1
+  Tb  Tb11  1  0.209513  0.419026  0.060463  1
+  Tb  Tb12  1  0.580973  0.790486  0.060464  1
+  Tb  Tb13  1  0.541142  0.458856  0.249988  1
+  Tb  Tb14  1  0.541143  0.082286  0.249987  1
+  Tb  Tb15  1  0.917713  0.458857  0.249988  1
+  Tb  Tb16  1  0.458858  0.541144  0.750012  1
+  Tb  Tb17  1  0.458857  0.917714  0.750013  1
+  Tb  Tb18  1  0.082287  0.541143  0.750012  1
+  Y  Y19  1  0.000000  0.000000  0.000000  1
+  Hg  Hg20  1  0.881538  0.118461  0.249921  1
+  Hg  Hg21  1  0.881536  0.763076  0.249922  1
+  Hg  Hg22  1  0.236924  0.118461  0.249921  1
+  Hg  Hg23  1  0.118462  0.881539  0.750079  1
+  Hg  Hg24  1  0.118464  0.236924  0.750078  1
+  Hg  Hg25  1  0.763076  0.881539  0.750079  1
+  Ru  Ru26  1  0.333334  0.666663  0.250005  1
+  Ru  Ru27  1  0.666666  0.333337  0.749995  1

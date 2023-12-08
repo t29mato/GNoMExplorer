@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ce8Fe(Si4Ru)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.22456402
+_cell_length_b   8.22533361
+_cell_length_c   8.13236700
+_cell_angle_alpha   90.00237533
+_cell_angle_beta   89.99600127
+_cell_angle_gamma   120.01693445
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce8Fe(Si4Ru)3
+_chemical_formula_sum   'Ce8 Fe1 Si12 Ru3'
+_cell_volume   476.36502997
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.000004  0.000008  0.249111  1
+  Ce  Ce1  1  0.999996  0.000008  0.750909  1
+  Ce  Ce2  1  0.499959  0.500078  0.249324  1
+  Ce  Ce3  1  0.499917  0.999818  0.249314  1
+  Ce  Ce4  1  0.000200  0.500112  0.249318  1
+  Ce  Ce5  1  0.499568  0.500460  0.749995  1
+  Ce  Ce6  1  0.499556  0.999094  0.750004  1
+  Ce  Ce7  1  0.000919  0.500466  0.749992  1
+  Fe  Fe8  1  0.333318  0.666768  0.013279  1
+  Si  Si9  1  0.165493  0.834617  0.499676  1
+  Si  Si10  1  0.165419  0.330851  0.499612  1
+  Si  Si11  1  0.669164  0.834641  0.499780  1
+  Si  Si12  1  0.834406  0.165492  0.500169  1
+  Si  Si13  1  0.834489  0.668956  0.500118  1
+  Si  Si14  1  0.331041  0.165463  0.500279  1
+  Si  Si15  1  0.834850  0.165040  0.001669  1
+  Si  Si16  1  0.834908  0.669834  0.001717  1
+  Si  Si17  1  0.330114  0.165006  0.001578  1
+  Si  Si18  1  0.170315  0.829834  0.998270  1
+  Si  Si19  1  0.170227  0.340449  0.998348  1
+  Si  Si20  1  0.659511  0.829826  0.998156  1
+  Ru  Ru21  1  0.333291  0.666736  0.496752  1
+  Ru  Ru22  1  0.666666  0.333223  0.502069  1
+  Ru  Ru23  1  0.666674  0.333216  0.990561  1

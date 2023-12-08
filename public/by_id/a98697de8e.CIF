@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Sc3Ta3C5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.55551105
+_cell_length_b   5.55551182
+_cell_length_c   5.63696213
+_cell_angle_alpha   99.55571711
+_cell_angle_beta   99.55572763
+_cell_angle_gamma   119.95347946
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc3Ta3C5
+_chemical_formula_sum   'Sc3 Ta3 C5'
+_cell_volume   142.20117437
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.426699  0.083498  0.249602  1
+  Sc  Sc1  1  0.083498  0.426699  0.249602  1
+  Sc  Sc2  1  0.743838  0.743838  0.262066  1
+  Ta  Ta3  1  0.267465  0.267465  0.736713  1
+  Ta  Ta4  1  0.913563  0.557601  0.743499  1
+  Ta  Ta5  1  0.557601  0.913563  0.743499  1
+  C  C6  1  0.661899  0.328575  0.984020  1
+  C  C7  1  0.328575  0.661899  0.984020  1
+  C  C8  1  0.839387  0.172654  0.515412  1
+  C  C9  1  0.504826  0.504826  0.516152  1
+  C  C10  1  0.172654  0.839387  0.515412  1

@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Ti2Co20CuB6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.40211867
+_cell_length_b   7.40211896
+_cell_length_c   7.40212000
+_cell_angle_alpha   60.00000427
+_cell_angle_beta   60.00000298
+_cell_angle_gamma   60.00000070
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2Co20CuB6
+_chemical_formula_sum   'Ti2 Co20 Cu1 B6'
+_cell_volume   286.78290058
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.250000  0.250000  0.250000  1
+  Ti  Ti1  1  0.750000  0.750000  0.750000  1
+  Co  Co2  1  0.852194  0.382602  0.382602  1
+  Co  Co3  1  0.382602  0.852194  0.382602  1
+  Co  Co4  1  0.382602  0.382602  0.852194  1
+  Co  Co5  1  0.382602  0.382602  0.382602  1
+  Co  Co6  1  0.147806  0.617398  0.617398  1
+  Co  Co7  1  0.617398  0.147806  0.617398  1
+  Co  Co8  1  0.617398  0.617398  0.147806  1
+  Co  Co9  1  0.617398  0.617398  0.617398  1
+  Co  Co10  1  0.659229  0.000000  0.000000  1
+  Co  Co11  1  0.659229  0.000000  0.340771  1
+  Co  Co12  1  0.659229  0.340771  0.000000  1
+  Co  Co13  1  0.000000  0.659229  0.340771  1
+  Co  Co14  1  0.000000  0.659229  0.000000  1
+  Co  Co15  1  0.340771  0.659229  0.000000  1
+  Co  Co16  1  0.000000  0.340771  0.659229  1
+  Co  Co17  1  0.340771  0.000000  0.659229  1
+  Co  Co18  1  0.000000  0.000000  0.659229  1
+  Co  Co19  1  0.340771  0.000000  0.000000  1
+  Co  Co20  1  0.000000  0.340771  0.000000  1
+  Co  Co21  1  0.000000  0.000000  0.340771  1
+  Cu  Cu22  1  0.000000  0.000000  0.000000  1
+  B  B23  1  0.725132  0.274868  0.274868  1
+  B  B24  1  0.725132  0.274868  0.725132  1
+  B  B25  1  0.725132  0.725132  0.274868  1
+  B  B26  1  0.274868  0.725132  0.725132  1
+  B  B27  1  0.274868  0.725132  0.274868  1
+  B  B28  1  0.274868  0.274868  0.725132  1

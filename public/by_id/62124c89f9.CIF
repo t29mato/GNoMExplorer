@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Yb12InGe7Pt8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.60833900
+_cell_length_b   8.15431918
+_cell_length_c   13.29871900
+_cell_angle_alpha   89.82466914
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Yb12InGe7Pt8
+_chemical_formula_sum   'Yb12 In1 Ge7 Pt8'
+_cell_volume   608.17664693
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.642261  0.250687  0.255322  1
+  Yb  Yb1  1  0.358880  0.748792  0.745444  1
+  Yb  Yb2  1  0.358880  0.751208  0.254556  1
+  Yb  Yb3  1  0.642261  0.249313  0.744678  1
+  Yb  Yb4  1  0.153077  0.397563  0.102934  1
+  Yb  Yb5  1  0.852571  0.610632  0.898583  1
+  Yb  Yb6  1  0.858184  0.609922  0.599991  1
+  Yb  Yb7  1  0.858184  0.890078  0.400009  1
+  Yb  Yb8  1  0.143888  0.388234  0.399602  1
+  Yb  Yb9  1  0.143888  0.111766  0.600398  1
+  Yb  Yb10  1  0.153077  0.102437  0.897066  1
+  Yb  Yb11  1  0.852571  0.889368  0.101417  1
+  In  In12  1  0.659277  0.250000  0.000000  1
+  Ge  Ge13  1  0.138233  0.102444  0.250480  1
+  Ge  Ge14  1  0.862453  0.898798  0.747340  1
+  Ge  Ge15  1  0.862453  0.601202  0.252660  1
+  Ge  Ge16  1  0.138233  0.397556  0.749520  1
+  Ge  Ge17  1  0.348302  0.750000  0.000000  1
+  Ge  Ge18  1  0.366493  0.750000  0.500000  1
+  Ge  Ge19  1  0.633559  0.250000  0.500000  1
+  Pt  Pt20  1  0.363156  0.026248  0.094687  1
+  Pt  Pt21  1  0.624524  0.950944  0.904095  1
+  Pt  Pt22  1  0.627797  0.966244  0.590822  1
+  Pt  Pt23  1  0.627797  0.533756  0.409178  1
+  Pt  Pt24  1  0.371158  0.033848  0.408358  1
+  Pt  Pt25  1  0.371158  0.466152  0.591642  1
+  Pt  Pt26  1  0.363156  0.473752  0.905313  1
+  Pt  Pt27  1  0.624524  0.549056  0.095905  1

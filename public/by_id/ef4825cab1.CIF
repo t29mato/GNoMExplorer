@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Tb2Th(AlNi)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.17702500
+_cell_length_b   7.06924778
+_cell_length_c   3.86676600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.50562109
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2Th(AlNi)3
+_chemical_formula_sum   'Tb2 Th1 Al3 Ni3'
+_cell_volume   169.02885222
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.999369  0.417040  0.500000  1
+  Tb  Tb1  1  0.582328  0.582960  0.500000  1
+  Th  Th2  1  0.421674  0.000000  0.500000  1
+  Al  Al3  1  0.774450  0.000000  0.000000  1
+  Al  Al4  1  0.991934  0.758269  0.000000  1
+  Al  Al5  1  0.233665  0.241731  0.000000  1
+  Ni  Ni6  1  0.333882  0.676766  0.000000  1
+  Ni  Ni7  1  0.657117  0.323234  0.000000  1
+  Ni  Ni8  1  0.005582  0.000000  0.500000  1

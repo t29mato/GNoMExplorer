@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Tm5Lu5(SnSb)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.82790966
+_cell_length_b   8.83383480
+_cell_length_c   6.28231100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.02220133
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tm5Lu5(SnSb)3
+_chemical_formula_sum   'Tm5 Lu5 Sn3 Sb3'
+_cell_volume   424.18959879
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.760100  0.759954  0.750000  1
+  Tm  Tm1  1  0.239900  0.999853  0.750000  1
+  Tm  Tm2  1  0.000000  0.240275  0.750000  1
+  Tm  Tm3  1  0.239376  0.239399  0.250000  1
+  Tm  Tm4  1  0.760624  0.000023  0.250000  1
+  Lu  Lu5  1  0.666610  0.333306  0.000960  1
+  Lu  Lu6  1  0.333390  0.666696  0.000960  1
+  Lu  Lu7  1  0.333390  0.666696  0.499040  1
+  Lu  Lu8  1  0.666610  0.333306  0.499040  1
+  Lu  Lu9  1  0.000000  0.760546  0.250000  1
+  Sn  Sn10  1  0.606630  0.605943  0.250000  1
+  Sn  Sn11  1  0.393370  0.999312  0.250000  1
+  Sn  Sn12  1  0.000000  0.394637  0.250000  1
+  Sb  Sb13  1  0.393228  0.393255  0.750000  1
+  Sb  Sb14  1  0.606772  0.000028  0.750000  1
+  Sb  Sb15  1  0.000000  0.606772  0.750000  1

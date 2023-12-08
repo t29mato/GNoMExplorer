@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TbHoSi2NiOs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.25280700
+_cell_length_b   6.91466659
+_cell_length_c   7.13946802
+_cell_angle_alpha   91.77427219
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbHoSi2NiOs
+_chemical_formula_sum   'Tb2 Ho2 Si4 Ni2 Os2'
+_cell_volume   209.84784075
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.750000  0.012892  0.700262  1
+  Tb  Tb1  1  0.250000  0.987108  0.299738  1
+  Ho  Ho2  1  0.250000  0.487339  0.179636  1
+  Ho  Ho3  1  0.750000  0.512661  0.820364  1
+  Si  Si4  1  0.250000  0.803660  0.894420  1
+  Si  Si5  1  0.750000  0.196340  0.105580  1
+  Si  Si6  1  0.750000  0.697675  0.402136  1
+  Si  Si7  1  0.250000  0.302325  0.597864  1
+  Ni  Ni8  1  0.750000  0.838030  0.073500  1
+  Ni  Ni9  1  0.250000  0.161970  0.926500  1
+  Os  Os10  1  0.250000  0.655237  0.571301  1
+  Os  Os11  1  0.750000  0.344763  0.428699  1

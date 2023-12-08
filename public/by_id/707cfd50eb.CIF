@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Eu2MgInAu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.53297500
+_cell_length_b   7.78478100
+_cell_length_c   8.94341100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu2MgInAu2
+_chemical_formula_sum   'Eu4 Mg2 In2 Au4'
+_cell_volume   315.59703393
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.750000  0.962240  0.676665  1
+  Eu  Eu1  1  0.250000  0.031235  0.321474  1
+  Eu  Eu2  1  0.750000  0.468765  0.821474  1
+  Eu  Eu3  1  0.250000  0.537760  0.176665  1
+  Mg  Mg4  1  0.750000  0.360920  0.439484  1
+  Mg  Mg5  1  0.250000  0.139080  0.939484  1
+  In  In6  1  0.250000  0.638455  0.559571  1
+  In  In7  1  0.750000  0.861545  0.059571  1
+  Au  Au8  1  0.250000  0.765873  0.871875  1
+  Au  Au9  1  0.250000  0.260181  0.630931  1
+  Au  Au10  1  0.750000  0.734127  0.371875  1
+  Au  Au11  1  0.750000  0.239819  0.130931  1

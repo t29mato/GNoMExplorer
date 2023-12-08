@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Tb2SmCu5(Ni4B)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.04240200
+_cell_length_b   5.03749953
+_cell_length_c   10.87754200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.03218514
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2SmCu5(Ni4B)2
+_chemical_formula_sum   'Tb2 Sm1 Cu5 Ni8 B2'
+_cell_volume   239.20648207
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.000000  0.000000  0.999471  1
+  Tb  Tb1  1  0.000000  0.000000  0.672398  1
+  Sm  Sm2  1  0.000000  0.000000  0.327873  1
+  Cu  Cu3  1  0.500000  0.000000  0.500647  1
+  Cu  Cu4  1  0.331692  0.663385  0.316373  1
+  Cu  Cu5  1  0.668308  0.336615  0.316373  1
+  Cu  Cu6  1  0.668367  0.336733  0.683757  1
+  Cu  Cu7  1  0.331633  0.663267  0.683757  1
+  Ni  Ni8  1  0.500000  0.500000  0.500601  1
+  Ni  Ni9  1  0.000000  0.500000  0.500601  1
+  Ni  Ni10  1  0.500000  0.000000  0.129531  1
+  Ni  Ni11  1  0.500000  0.500000  0.129335  1
+  Ni  Ni12  1  0.000000  0.500000  0.129335  1
+  Ni  Ni13  1  0.500000  0.000000  0.869959  1
+  Ni  Ni14  1  0.500000  0.500000  0.870150  1
+  Ni  Ni15  1  0.000000  0.500000  0.870150  1
+  B  B16  1  0.333606  0.667215  0.999845  1
+  B  B17  1  0.666394  0.332785  0.999845  1

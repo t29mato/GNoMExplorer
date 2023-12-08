@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Hf3ZrSi4(RhAu)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.93430300
+_cell_length_b   6.64276652
+_cell_length_c   7.63082058
+_cell_angle_alpha   88.67163803
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf3ZrSi4(RhAu)2
+_chemical_formula_sum   'Hf3 Zr1 Si4 Rh2 Au2'
+_cell_volume   199.37527730
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.750000  0.477049  0.812506  1
+  Hf  Hf1  1  0.250000  0.024335  0.328983  1
+  Hf  Hf2  1  0.750000  0.975472  0.671034  1
+  Zr  Zr3  1  0.250000  0.523419  0.184750  1
+  Si  Si4  1  0.250000  0.750783  0.863049  1
+  Si  Si5  1  0.750000  0.248004  0.137252  1
+  Si  Si6  1  0.250000  0.270332  0.607240  1
+  Si  Si7  1  0.750000  0.729689  0.392413  1
+  Rh  Rh8  1  0.750000  0.357224  0.441931  1
+  Rh  Rh9  1  0.250000  0.641658  0.562284  1
+  Au  Au10  1  0.750000  0.849628  0.065616  1
+  Au  Au11  1  0.250000  0.152406  0.932942  1

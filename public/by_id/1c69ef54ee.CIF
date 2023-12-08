@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Li2Er3TiIr3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.14176456
+_cell_length_b   7.14176314
+_cell_length_c   3.96948300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.80698594
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Er3TiIr3
+_chemical_formula_sum   'Li2 Er3 Ti1 Ir3'
+_cell_volume   173.89465584
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.244037  0.996411  0.000000  1
+  Li  Li1  1  0.996411  0.244037  0.000000  1
+  Er  Er2  1  0.398011  0.398011  0.500000  1
+  Er  Er3  1  0.586831  0.005998  0.500000  1
+  Er  Er4  1  0.005998  0.586831  0.500000  1
+  Ti  Ti5  1  0.757680  0.757680  0.000000  1
+  Ir  Ir6  1  0.675179  0.363627  0.000000  1
+  Ir  Ir7  1  0.363627  0.675179  0.000000  1
+  Ir  Ir8  1  0.972226  0.972226  0.500000  1

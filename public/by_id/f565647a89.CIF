@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ba4ScTaO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.39645397
+_cell_length_b   7.39645412
+_cell_length_c   5.88544500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   133.16194134
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba4ScTaO8
+_chemical_formula_sum   'Ba4 Sc1 Ta1 O8'
+_cell_volume   234.85834166
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.646779  0.353221  0.000000  1
+  Ba  Ba1  1  0.145580  0.854420  0.500000  1
+  Ba  Ba2  1  0.854420  0.145580  0.500000  1
+  Ba  Ba3  1  0.353221  0.646779  0.000000  1
+  Sc  Sc4  1  0.000000  0.000000  0.000000  1
+  Ta  Ta5  1  0.500000  0.500000  0.500000  1
+  O  O6  1  0.742877  0.742877  0.740357  1
+  O  O7  1  0.257123  0.257123  0.259643  1
+  O  O8  1  0.257123  0.257123  0.740357  1
+  O  O9  1  0.742877  0.742877  0.259643  1
+  O  O10  1  0.843229  0.156771  0.000000  1
+  O  O11  1  0.349635  0.650365  0.500000  1
+  O  O12  1  0.650365  0.349635  0.500000  1
+  O  O13  1  0.156771  0.843229  0.000000  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Tb7Np(Si3Au)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.22570400
+_cell_length_b   8.22570346
+_cell_length_c   8.32225100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000219
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb7Np(Si3Au)4
+_chemical_formula_sum   'Tb7 Np1 Si12 Au4'
+_cell_volume   487.66047616
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.499881  0.500119  0.750000  1
+  Tb  Tb1  1  0.500114  0.499886  0.250000  1
+  Tb  Tb2  1  0.000237  0.500119  0.750000  1
+  Tb  Tb3  1  0.999774  0.499886  0.250000  1
+  Tb  Tb4  1  0.499881  0.999763  0.750000  1
+  Tb  Tb5  1  0.500114  0.000226  0.250000  1
+  Tb  Tb6  1  0.000000  0.000000  0.750000  1
+  Np  Np7  1  0.000000  0.000000  0.250000  1
+  Si  Si8  1  0.836612  0.163388  0.003368  1
+  Si  Si9  1  0.163370  0.836630  0.003416  1
+  Si  Si10  1  0.326776  0.163388  0.003368  1
+  Si  Si11  1  0.163370  0.836630  0.496584  1
+  Si  Si12  1  0.673261  0.836630  0.003416  1
+  Si  Si13  1  0.836612  0.163388  0.496632  1
+  Si  Si14  1  0.836612  0.673224  0.003368  1
+  Si  Si15  1  0.673261  0.836630  0.496584  1
+  Si  Si16  1  0.163370  0.326739  0.003416  1
+  Si  Si17  1  0.326776  0.163388  0.496632  1
+  Si  Si18  1  0.163370  0.326739  0.496584  1
+  Si  Si19  1  0.836612  0.673224  0.496632  1
+  Au  Au20  1  0.666667  0.333333  0.998187  1
+  Au  Au21  1  0.333333  0.666667  0.998612  1
+  Au  Au22  1  0.333333  0.666667  0.501388  1
+  Au  Au23  1  0.666667  0.333333  0.501813  1

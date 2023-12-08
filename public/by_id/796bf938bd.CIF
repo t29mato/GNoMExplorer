@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Pa8AlCo2Si12Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.07096700
+_cell_length_b   8.07116119
+_cell_length_c   7.91080100
+_cell_angle_alpha   90.00055602
+_cell_angle_beta   90.00035098
+_cell_angle_gamma   119.99994497
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pa8AlCo2Si12Rh
+_chemical_formula_sum   'Pa8 Al1 Co2 Si12 Rh1'
+_cell_volume   446.28565215
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.000001  0.999997  0.249809  1
+  Pa  Pa1  1  0.999997  0.999999  0.750107  1
+  Pa  Pa2  1  0.504035  0.495962  0.249306  1
+  Pa  Pa3  1  0.504024  0.008052  0.249305  1
+  Pa  Pa4  1  0.991935  0.495971  0.249310  1
+  Pa  Pa5  1  0.503824  0.496173  0.750227  1
+  Pa  Pa6  1  0.503828  0.007661  0.750215  1
+  Pa  Pa7  1  0.992366  0.496181  0.750238  1
+  Al  Al8  1  0.333324  0.666639  0.498910  1
+  Co  Co9  1  0.666686  0.333354  0.503181  1
+  Co  Co10  1  0.666669  0.333348  0.999629  1
+  Si  Si11  1  0.163832  0.836141  0.500254  1
+  Si  Si12  1  0.163849  0.327691  0.500267  1
+  Si  Si13  1  0.672327  0.836146  0.500237  1
+  Si  Si14  1  0.827999  0.172063  0.499656  1
+  Si  Si15  1  0.827983  0.655935  0.499674  1
+  Si  Si16  1  0.344071  0.172051  0.499643  1
+  Si  Si17  1  0.829050  0.170987  0.999837  1
+  Si  Si18  1  0.829028  0.658062  0.999830  1
+  Si  Si19  1  0.341922  0.170983  0.999827  1
+  Si  Si20  1  0.163995  0.835962  0.000146  1
+  Si  Si21  1  0.164009  0.328035  0.000152  1
+  Si  Si22  1  0.671940  0.835956  0.000140  1
+  Rh  Rh23  1  0.333305  0.666652  0.000099  1

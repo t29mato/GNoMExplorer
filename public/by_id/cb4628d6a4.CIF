@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na2ZnCdAu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.19101400
+_cell_length_b   7.41583205
+_cell_length_c   8.68608500
+_cell_angle_alpha   90.47612132
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2ZnCdAu2
+_chemical_formula_sum   'Na4 Zn2 Cd2 Au4'
+_cell_volume   269.95294939
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.250000  0.037686  0.323477  1
+  Na  Na1  1  0.750000  0.466278  0.830626  1
+  Na  Na2  1  0.750000  0.962314  0.676523  1
+  Na  Na3  1  0.250000  0.533722  0.169374  1
+  Zn  Zn4  1  0.750000  0.859932  0.066412  1
+  Zn  Zn5  1  0.250000  0.140068  0.933588  1
+  Cd  Cd6  1  0.250000  0.646630  0.571611  1
+  Cd  Cd7  1  0.750000  0.353370  0.428389  1
+  Au  Au8  1  0.250000  0.255075  0.645405  1
+  Au  Au9  1  0.250000  0.777292  0.884113  1
+  Au  Au10  1  0.750000  0.744925  0.354595  1
+  Au  Au11  1  0.750000  0.222708  0.115887  1

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ho2Fe4CoB4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.14209334
+_cell_length_b   5.95474724
+_cell_length_c   5.30144585
+_cell_angle_alpha   78.53032083
+_cell_angle_beta   54.79591503
+_cell_angle_gamma   46.67374932
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2Fe4CoB4
+_chemical_formula_sum   'Ho2 Fe4 Co1 B4'
+_cell_volume   126.46816629
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.853939  0.853939  0.146061  1
+  Ho  Ho1  1  0.146061  0.146061  0.853940  1
+  Fe  Fe2  1  0.499916  0.499914  0.000085  1
+  Fe  Fe3  1  0.000085  0.000085  0.499914  1
+  Fe  Fe4  1  0.500000  0.500000  0.500000  1
+  Fe  Fe5  1  0.750001  0.750000  0.749999  1
+  Co  Co6  1  0.250001  0.250000  0.249998  1
+  B  B7  1  0.483594  0.783942  0.208873  1
+  B  B8  1  0.208873  0.523591  0.483594  1
+  B  B9  1  0.783942  0.483593  0.523592  1
+  B  B10  1  0.523592  0.208873  0.783942  1

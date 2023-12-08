@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_NaAc(BeN)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.48555728
+_cell_length_b   5.48555647
+_cell_length_c   5.48555731
+_cell_angle_alpha   118.53231777
+_cell_angle_beta   118.53231552
+_cell_angle_gamma   92.56146816
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaAc(BeN)4
+_chemical_formula_sum   'Na1 Ac1 Be4 N4'
+_cell_volume   119.18101143
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.750000  0.750000  0.000000  1
+  Ac  Ac1  1  0.250000  0.250000  0.000000  1
+  Be  Be2  1  0.127318  0.627318  0.754637  1
+  Be  Be3  1  0.627318  0.872682  0.500000  1
+  Be  Be4  1  0.872682  0.372682  0.245363  1
+  Be  Be5  1  0.372682  0.127318  0.500000  1
+  N  N6  1  0.167775  0.332225  0.500000  1
+  N  N7  1  0.667775  0.167775  0.835552  1
+  N  N8  1  0.332225  0.832225  0.164448  1
+  N  N9  1  0.832225  0.667775  0.500000  1

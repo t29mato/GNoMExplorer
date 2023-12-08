@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Li2Er3Pa(ZnPt2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.95786400
+_cell_length_b   7.03495174
+_cell_length_c   8.41862192
+_cell_angle_alpha   89.31261691
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Er3Pa(ZnPt2)2
+_chemical_formula_sum   'Li2 Er3 Pa1 Zn2 Pt4'
+_cell_volume   234.38603940
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.250000  0.630814  0.560963  1
+  Li  Li1  1  0.250000  0.123608  0.940188  1
+  Er  Er2  1  0.250000  0.550333  0.180912  1
+  Er  Er3  1  0.750000  0.950153  0.692419  1
+  Er  Er4  1  0.750000  0.448724  0.811716  1
+  Pa  Pa5  1  0.250000  0.048269  0.316781  1
+  Zn  Zn6  1  0.750000  0.382635  0.437813  1
+  Zn  Zn7  1  0.750000  0.867874  0.057877  1
+  Pt  Pt8  1  0.250000  0.243270  0.615247  1
+  Pt  Pt9  1  0.250000  0.737778  0.877177  1
+  Pt  Pt10  1  0.750000  0.768396  0.376976  1
+  Pt  Pt11  1  0.750000  0.248147  0.131932  1

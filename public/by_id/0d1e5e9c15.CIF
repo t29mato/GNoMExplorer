@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ce5Ho(Si3Pd2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.69353843
+_cell_length_b   5.69353950
+_cell_length_c   14.39154300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   135.31004626
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce5Ho(Si3Pd2)2
+_chemical_formula_sum   'Ce5 Ho1 Si6 Pd4'
+_cell_volume   328.09082303
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.412446  0.587554  0.387105  1
+  Ce  Ce1  1  0.588301  0.411699  0.613082  1
+  Ce  Ce2  1  0.128935  0.871065  0.250000  1
+  Ce  Ce3  1  0.412446  0.587554  0.112895  1
+  Ce  Ce4  1  0.588301  0.411699  0.886918  1
+  Ho  Ho5  1  0.867931  0.132069  0.750000  1
+  Si  Si6  1  0.831334  0.168666  0.250000  1
+  Si  Si7  1  0.169843  0.830157  0.750000  1
+  Si  Si8  1  0.894748  0.105252  0.540866  1
+  Si  Si9  1  0.102850  0.897150  0.461017  1
+  Si  Si10  1  0.102850  0.897150  0.038983  1
+  Si  Si11  1  0.894748  0.105252  0.959134  1
+  Pd  Pd12  1  0.295597  0.704403  0.595514  1
+  Pd  Pd13  1  0.707037  0.292963  0.408470  1
+  Pd  Pd14  1  0.707037  0.292963  0.091530  1
+  Pd  Pd15  1  0.295597  0.704403  0.904486  1

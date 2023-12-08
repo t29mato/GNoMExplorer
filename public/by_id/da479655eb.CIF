@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ho2MgAl5(CdNi)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.31411311
+_cell_length_b   8.31411283
+_cell_length_c   6.71667600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   151.89996076
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2MgAl5(CdNi)2
+_chemical_formula_sum   'Ho2 Mg1 Al5 Cd2 Ni2'
+_cell_volume   218.68483196
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.874251  0.125749  0.250000  1
+  Ho  Ho1  1  0.127717  0.872283  0.750000  1
+  Mg  Mg2  1  0.921856  0.078144  0.750000  1
+  Al  Al3  1  0.079903  0.920097  0.250000  1
+  Al  Al4  1  0.307374  0.692626  0.948019  1
+  Al  Al5  1  0.692613  0.307387  0.054875  1
+  Al  Al6  1  0.692613  0.307387  0.445125  1
+  Al  Al7  1  0.307374  0.692626  0.551981  1
+  Cd  Cd8  1  0.501435  0.498565  0.003886  1
+  Cd  Cd9  1  0.501435  0.498565  0.496114  1
+  Ni  Ni10  1  0.225389  0.774611  0.250000  1
+  Ni  Ni11  1  0.768038  0.231962  0.750000  1

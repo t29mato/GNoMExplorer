@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CePa(CoGe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.28920500
+_cell_length_b   7.47787575
+_cell_length_c   6.95830033
+_cell_angle_alpha   93.36849815
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CePa(CoGe)2
+_chemical_formula_sum   'Ce2 Pa2 Co4 Ge4'
+_cell_volume   222.79591930
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.250000  0.975939  0.767898  1
+  Ce  Ce1  1  0.750000  0.024061  0.232102  1
+  Pa  Pa2  1  0.250000  0.491140  0.698364  1
+  Pa  Pa3  1  0.750000  0.508860  0.301636  1
+  Co  Co4  1  0.750000  0.380865  0.958449  1
+  Co  Co5  1  0.250000  0.265126  0.450040  1
+  Co  Co6  1  0.750000  0.734874  0.549960  1
+  Co  Co7  1  0.250000  0.619135  0.041551  1
+  Ge  Ge8  1  0.250000  0.790932  0.381317  1
+  Ge  Ge9  1  0.750000  0.718615  0.910741  1
+  Ge  Ge10  1  0.250000  0.281385  0.089259  1
+  Ge  Ge11  1  0.750000  0.209068  0.618683  1

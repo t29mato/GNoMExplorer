@@ -1,0 +1,64 @@
+# generated using pymatgen
+data_Ho3Al8(FeSi)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.45039800
+_cell_length_b   8.45039733
+_cell_length_c   9.18834900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00486464
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho3Al8(FeSi)4
+_chemical_formula_sum   'Ho6 Al16 Fe8 Si8'
+_cell_volume   568.19985308
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.192013  0.387828  0.250000  1
+  Ho  Ho1  1  0.807987  0.612172  0.750000  1
+  Ho  Ho2  1  0.612172  0.807987  0.250000  1
+  Ho  Ho3  1  0.387828  0.192013  0.750000  1
+  Ho  Ho4  1  0.195375  0.804625  0.250000  1
+  Ho  Ho5  1  0.804625  0.195375  0.750000  1
+  Al  Al6  1  0.164161  0.327427  0.575264  1
+  Al  Al7  1  0.835839  0.672573  0.424736  1
+  Al  Al8  1  0.672573  0.835839  0.575264  1
+  Al  Al9  1  0.835839  0.672573  0.075264  1
+  Al  Al10  1  0.327427  0.164161  0.424736  1
+  Al  Al11  1  0.164161  0.327427  0.924736  1
+  Al  Al12  1  0.164264  0.835736  0.574820  1
+  Al  Al13  1  0.327427  0.164161  0.075264  1
+  Al  Al14  1  0.835736  0.164264  0.425180  1
+  Al  Al15  1  0.672573  0.835839  0.924736  1
+  Al  Al16  1  0.835736  0.164264  0.074820  1
+  Al  Al17  1  0.164264  0.835736  0.925180  1
+  Al  Al18  1  0.563040  0.436960  0.250000  1
+  Al  Al19  1  0.436960  0.563040  0.750000  1
+  Al  Al20  1  0.000483  0.999517  0.250000  1
+  Al  Al21  1  0.999517  0.000483  0.750000  1
+  Fe  Fe22  1  0.500000  0.000000  0.000000  1
+  Fe  Fe23  1  0.000000  0.500000  0.000000  1
+  Fe  Fe24  1  0.500000  0.000000  0.500000  1
+  Fe  Fe25  1  0.500000  0.500000  0.000000  1
+  Fe  Fe26  1  0.000000  0.500000  0.500000  1
+  Fe  Fe27  1  0.500000  0.500000  0.500000  1
+  Fe  Fe28  1  0.000000  0.000000  0.000000  1
+  Fe  Fe29  1  0.000000  0.000000  0.500000  1
+  Si  Si30  1  0.335451  0.664549  0.032890  1
+  Si  Si31  1  0.664549  0.335451  0.967110  1
+  Si  Si32  1  0.664549  0.335451  0.532890  1
+  Si  Si33  1  0.335451  0.664549  0.467110  1
+  Si  Si34  1  0.561414  0.119323  0.250000  1
+  Si  Si35  1  0.438586  0.880677  0.750000  1
+  Si  Si36  1  0.880677  0.438586  0.250000  1
+  Si  Si37  1  0.119323  0.561414  0.750000  1

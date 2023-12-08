@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Lu12Mn(TcAg)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.15554432
+_cell_length_b   8.15554457
+_cell_length_c   8.15554500
+_cell_angle_alpha   108.75270142
+_cell_angle_beta   108.75270203
+_cell_angle_gamma   110.91801173
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu12Mn(TcAg)2
+_chemical_formula_sum   'Lu12 Mn1 Tc2 Ag2'
+_cell_volume   417.37719506
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.306813  0.306813  0.615071  1
+  Lu  Lu1  1  0.691742  0.691740  0.384928  1
+  Lu  Lu2  1  0.691741  0.306813  0.000000  1
+  Lu  Lu3  1  0.306813  0.691740  0.999998  1
+  Lu  Lu4  1  0.188392  0.434042  0.245650  1
+  Lu  Lu5  1  0.809234  0.565792  0.756557  1
+  Lu  Lu6  1  0.188390  0.942742  0.754353  1
+  Lu  Lu7  1  0.942745  0.188392  0.754352  1
+  Lu  Lu8  1  0.809235  0.052676  0.243439  1
+  Lu  Lu9  1  0.052680  0.809239  0.243441  1
+  Lu  Lu10  1  0.434039  0.188392  0.245646  1
+  Lu  Lu11  1  0.565799  0.809239  0.756560  1
+  Mn  Mn12  1  0.635992  0.635993  0.000001  1
+  Tc  Tc13  1  0.380040  0.380041  0.000000  1
+  Tc  Tc14  1  0.000546  0.000548  0.000002  1
+  Ag  Ag15  1  0.997890  0.497889  0.499999  1
+  Ag  Ag16  1  0.497905  0.997905  0.500001  1

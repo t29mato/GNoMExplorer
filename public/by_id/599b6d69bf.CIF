@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_LaFe3P12Ir
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.85163187
+_cell_length_b   6.85163228
+_cell_length_c   6.85163146
+_cell_angle_alpha   109.51970041
+_cell_angle_beta   109.51969933
+_cell_angle_gamma   109.51970094
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaFe3P12Ir
+_chemical_formula_sum   'La1 Fe3 P12 Ir1'
+_cell_volume   247.16000570
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.000000  0.000000  0.000000  1
+  Fe  Fe1  1  0.000000  0.000000  0.500000  1
+  Fe  Fe2  1  0.000000  0.500000  0.000000  1
+  Fe  Fe3  1  0.500000  0.000000  0.000000  1
+  P  P4  1  0.655000  0.497715  0.864349  1
+  P  P5  1  0.151685  0.649960  0.800877  1
+  P  P6  1  0.649960  0.800877  0.151685  1
+  P  P7  1  0.135651  0.345000  0.502285  1
+  P  P8  1  0.864349  0.655000  0.497715  1
+  P  P9  1  0.848315  0.350040  0.199123  1
+  P  P10  1  0.199123  0.848315  0.350040  1
+  P  P11  1  0.800877  0.151685  0.649960  1
+  P  P12  1  0.345000  0.502285  0.135651  1
+  P  P13  1  0.502285  0.135651  0.345000  1
+  P  P14  1  0.497715  0.864349  0.655000  1
+  P  P15  1  0.350040  0.199123  0.848315  1
+  Ir  Ir16  1  0.500000  0.500000  0.500000  1

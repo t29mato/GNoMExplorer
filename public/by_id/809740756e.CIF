@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ac2Nd(InPt)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.88189748
+_cell_length_b   7.88189657
+_cell_length_c   4.23983700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.42993029
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ac2Nd(InPt)3
+_chemical_formula_sum   'Ac2 Nd1 In3 Pt3'
+_cell_volume   227.11377611
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  0.999807  0.588711  0.500000  1
+  Ac  Ac1  1  0.588711  0.999807  0.500000  1
+  Nd  Nd2  1  0.408598  0.408598  0.500000  1
+  In  In3  1  0.006908  0.246013  0.000000  1
+  In  In4  1  0.246013  0.006908  0.000000  1
+  In  In5  1  0.748767  0.748767  0.000000  1
+  Pt  Pt6  1  0.003767  0.003767  0.500000  1
+  Pt  Pt7  1  0.662789  0.334640  0.000000  1
+  Pt  Pt8  1  0.334640  0.662789  0.000000  1

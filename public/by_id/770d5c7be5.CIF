@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Ho5(ZnB4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.17698800
+_cell_length_b   7.17698800
+_cell_length_c   8.34423500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho5(ZnB4)2
+_chemical_formula_sum   'Ho10 Zn4 B16'
+_cell_volume   429.80450859
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.682035  0.182035  0.212855  1
+  Ho  Ho1  1  0.317965  0.817965  0.787145  1
+  Ho  Ho2  1  0.317965  0.817965  0.212855  1
+  Ho  Ho3  1  0.817965  0.682035  0.212855  1
+  Ho  Ho4  1  0.817965  0.682035  0.787145  1
+  Ho  Ho5  1  0.682035  0.182035  0.787145  1
+  Ho  Ho6  1  0.182035  0.317965  0.787145  1
+  Ho  Ho7  1  0.182035  0.317965  0.212855  1
+  Ho  Ho8  1  0.000000  0.000000  0.500000  1
+  Ho  Ho9  1  0.500000  0.500000  0.500000  1
+  Zn  Zn10  1  0.118236  0.618236  0.500000  1
+  Zn  Zn11  1  0.881764  0.381764  0.500000  1
+  Zn  Zn12  1  0.381764  0.118236  0.500000  1
+  Zn  Zn13  1  0.618236  0.881764  0.500000  1
+  B  B14  1  0.171941  0.040267  0.000000  1
+  B  B15  1  0.828059  0.959733  0.000000  1
+  B  B16  1  0.959733  0.171941  0.000000  1
+  B  B17  1  0.328059  0.540267  0.000000  1
+  B  B18  1  0.040267  0.828059  0.000000  1
+  B  B19  1  0.671941  0.459733  0.000000  1
+  B  B20  1  0.540267  0.671941  0.000000  1
+  B  B21  1  0.459733  0.328059  0.000000  1
+  B  B22  1  0.090251  0.590251  0.000000  1
+  B  B23  1  0.909749  0.409749  0.000000  1
+  B  B24  1  0.409749  0.090251  0.000000  1
+  B  B25  1  0.590251  0.909749  0.000000  1
+  B  B26  1  0.000000  0.000000  0.159197  1
+  B  B27  1  0.000000  0.000000  0.840803  1
+  B  B28  1  0.500000  0.500000  0.840803  1
+  B  B29  1  0.500000  0.500000  0.159197  1

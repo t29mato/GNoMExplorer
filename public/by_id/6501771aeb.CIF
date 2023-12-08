@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sr4Ca4Si3Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.94123500
+_cell_length_b   8.10875800
+_cell_length_c   9.15551200
+_cell_angle_alpha   89.99905097
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr4Ca4Si3Ge
+_chemical_formula_sum   'Sr4 Ca4 Si3 Ge1'
+_cell_volume   366.83645217
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.250000  0.522157  0.178566  1
+  Sr  Sr1  1  0.250000  0.022277  0.321600  1
+  Sr  Sr2  1  0.750000  0.977893  0.678246  1
+  Sr  Sr3  1  0.750000  0.477482  0.821521  1
+  Ca  Ca4  1  0.750000  0.352644  0.426658  1
+  Ca  Ca5  1  0.250000  0.147611  0.926682  1
+  Ca  Ca6  1  0.750000  0.852763  0.073597  1
+  Ca  Ca7  1  0.250000  0.647284  0.573173  1
+  Si  Si8  1  0.250000  0.267452  0.606512  1
+  Si  Si9  1  0.750000  0.232546  0.106500  1
+  Si  Si10  1  0.750000  0.732553  0.393501  1
+  Ge  Ge11  1  0.250000  0.767338  0.893445  1

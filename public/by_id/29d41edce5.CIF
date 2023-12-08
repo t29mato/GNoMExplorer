@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_K2Hf(BrO3)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.70323307
+_cell_length_b   7.70323335
+_cell_length_c   7.70323200
+_cell_angle_alpha   96.35781745
+_cell_angle_beta   96.35781768
+_cell_angle_gamma   96.35780102
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Hf(BrO3)6
+_chemical_formula_sum   'K2 Hf1 Br6 O18'
+_cell_volume   447.98847443
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.176639  0.176639  0.176639  1
+  K  K1  1  0.823361  0.823361  0.823361  1
+  Hf  Hf2  1  0.500000  0.500000  0.500000  1
+  Br  Br3  1  0.710806  0.317256  0.141780  1
+  Br  Br4  1  0.682744  0.858220  0.289194  1
+  Br  Br5  1  0.141780  0.710806  0.317256  1
+  Br  Br6  1  0.858220  0.289194  0.682744  1
+  Br  Br7  1  0.289194  0.682744  0.858220  1
+  Br  Br8  1  0.317256  0.141780  0.710806  1
+  O  O9  1  0.893959  0.359327  0.283441  1
+  O  O10  1  0.640673  0.716559  0.106041  1
+  O  O11  1  0.716559  0.106041  0.640673  1
+  O  O12  1  0.670544  0.712218  0.451795  1
+  O  O13  1  0.680011  0.103007  0.072838  1
+  O  O14  1  0.451795  0.670544  0.712218  1
+  O  O15  1  0.287782  0.548205  0.329456  1
+  O  O16  1  0.329456  0.287782  0.548205  1
+  O  O17  1  0.103007  0.072838  0.680011  1
+  O  O18  1  0.927162  0.319989  0.896993  1
+  O  O19  1  0.712218  0.451795  0.670544  1
+  O  O20  1  0.106041  0.640673  0.716559  1
+  O  O21  1  0.548205  0.329456  0.287782  1
+  O  O22  1  0.319989  0.896993  0.927162  1
+  O  O23  1  0.896993  0.927162  0.319989  1
+  O  O24  1  0.359327  0.283441  0.893959  1
+  O  O25  1  0.283441  0.893959  0.359327  1
+  O  O26  1  0.072838  0.680011  0.103007  1

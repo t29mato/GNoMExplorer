@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CeY(ZnRh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.95105000
+_cell_length_b   7.06894491
+_cell_length_c   8.34889295
+_cell_angle_alpha   91.50845501
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeY(ZnRh)2
+_chemical_formula_sum   'Ce2 Y2 Zn4 Rh4'
+_cell_volume   233.10172365
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.250000  0.544478  0.189200  1
+  Ce  Ce1  1  0.750000  0.455522  0.810800  1
+  Y  Y2  1  0.750000  0.950968  0.683345  1
+  Y  Y3  1  0.250000  0.049032  0.316655  1
+  Zn  Zn4  1  0.250000  0.634945  0.558670  1
+  Zn  Zn5  1  0.750000  0.365055  0.441330  1
+  Zn  Zn6  1  0.750000  0.878134  0.061747  1
+  Zn  Zn7  1  0.250000  0.121866  0.938253  1
+  Rh  Rh8  1  0.250000  0.734950  0.876233  1
+  Rh  Rh9  1  0.750000  0.265050  0.123767  1
+  Rh  Rh10  1  0.750000  0.744574  0.362896  1
+  Rh  Rh11  1  0.250000  0.255426  0.637104  1

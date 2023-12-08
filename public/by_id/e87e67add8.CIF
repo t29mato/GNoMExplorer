@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NaAc9(Si2Pb)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.36212688
+_cell_length_b   8.36212807
+_cell_length_c   9.81228000
+_cell_angle_alpha   115.22064468
+_cell_angle_beta   115.22064854
+_cell_angle_gamma   89.99999741
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaAc9(Si2Pb)2
+_chemical_formula_sum   'Na1 Ac9 Si4 Pb2'
+_cell_volume   547.55581410
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.000000  0.000000  0.000000  1
+  Ac  Ac1  1  0.500000  0.500000  0.000000  1
+  Ac  Ac2  1  0.968631  0.818360  0.274915  1
+  Ac  Ac3  1  0.306283  0.456554  0.274915  1
+  Ac  Ac4  1  0.818360  0.306283  0.274915  1
+  Ac  Ac5  1  0.456554  0.968631  0.274915  1
+  Ac  Ac6  1  0.031369  0.181640  0.725085  1
+  Ac  Ac7  1  0.693717  0.543446  0.725085  1
+  Ac  Ac8  1  0.181640  0.693717  0.725085  1
+  Ac  Ac9  1  0.543446  0.031369  0.725085  1
+  Si  Si10  1  0.606852  0.883633  0.000000  1
+  Si  Si11  1  0.393148  0.116367  0.000000  1
+  Si  Si12  1  0.883633  0.393148  0.000000  1
+  Si  Si13  1  0.116367  0.606852  0.000000  1
+  Pb  Pb14  1  0.740408  0.740408  0.480816  1
+  Pb  Pb15  1  0.259592  0.259592  0.519184  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Li2Sm2Si2Pb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.76749616
+_cell_length_b   9.76749672
+_cell_length_c   6.83932600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   153.34493013
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Sm2Si2Pb
+_chemical_formula_sum   'Li4 Sm4 Si4 Pb2'
+_cell_volume   292.72297585
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.816483  0.183517  0.553145  1
+  Li  Li1  1  0.183517  0.816483  0.446855  1
+  Li  Li2  1  0.183517  0.816483  0.053145  1
+  Li  Li3  1  0.816483  0.183517  0.946855  1
+  Sm  Sm4  1  0.547618  0.452382  0.250000  1
+  Sm  Sm5  1  0.452382  0.547618  0.750000  1
+  Sm  Sm6  1  0.352896  0.647104  0.250000  1
+  Sm  Sm7  1  0.647104  0.352896  0.750000  1
+  Si  Si8  1  0.942778  0.057222  0.073466  1
+  Si  Si9  1  0.057222  0.942778  0.926534  1
+  Si  Si10  1  0.057222  0.942778  0.573466  1
+  Si  Si11  1  0.942778  0.057222  0.426534  1
+  Pb  Pb12  1  0.718830  0.281170  0.250000  1
+  Pb  Pb13  1  0.281170  0.718830  0.750000  1

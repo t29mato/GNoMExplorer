@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CeNd5(In4Te)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.57426828
+_cell_length_b   8.57426673
+_cell_length_c   8.57426800
+_cell_angle_alpha   119.23132296
+_cell_angle_beta   119.23132482
+_cell_angle_gamma   91.33662931
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeNd5(In4Te)2
+_chemical_formula_sum   'Ce1 Nd5 In8 Te2'
+_cell_volume   450.78036052
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.750000  0.750000  0.000000  1
+  Nd  Nd1  1  0.250000  0.250000  0.000000  1
+  Nd  Nd2  1  0.658869  0.158869  0.817739  1
+  Nd  Nd3  1  0.341131  0.841131  0.182261  1
+  Nd  Nd4  1  0.158869  0.341131  0.500000  1
+  Nd  Nd5  1  0.841131  0.658869  0.500000  1
+  In  In6  1  0.332413  0.831244  0.791606  1
+  In  In7  1  0.668756  0.167587  0.208394  1
+  In  In8  1  0.039638  0.540807  0.208394  1
+  In  In9  1  0.831244  0.039638  0.498831  1
+  In  In10  1  0.460362  0.668756  0.501169  1
+  In  In11  1  0.959193  0.460362  0.791606  1
+  In  In12  1  0.167587  0.959193  0.498831  1
+  In  In13  1  0.540807  0.332413  0.501169  1
+  Te  Te14  1  0.501990  0.501990  0.000000  1
+  Te  Te15  1  0.998010  0.998010  0.000000  1

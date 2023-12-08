@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_UCuNi(PO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.14754400
+_cell_length_b   5.80421413
+_cell_length_c   7.83582399
+_cell_angle_alpha   115.44238524
+_cell_angle_beta   107.04446526
+_cell_angle_gamma   92.09758416
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UCuNi(PO5)2
+_chemical_formula_sum   'U1 Cu1 Ni1 P2 O10'
+_cell_volume   198.51021852
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.000000  0.000000  0.000000  1
+  Cu  Cu1  1  0.499999  0.000000  0.500000  1
+  Ni  Ni2  1  0.499999  0.500000  0.500000  1
+  P  P3  1  0.903327  0.649374  0.283919  1
+  P  P4  1  0.096673  0.350626  0.716081  1
+  O  O5  1  0.828820  0.354946  0.138759  1
+  O  O6  1  0.876313  0.809399  0.168492  1
+  O  O7  1  0.327615  0.170320  0.217786  1
+  O  O8  1  0.700497  0.711817  0.404559  1
+  O  O9  1  0.207588  0.716144  0.432633  1
+  O  O10  1  0.792412  0.283855  0.567366  1
+  O  O11  1  0.299503  0.288182  0.595441  1
+  O  O12  1  0.672384  0.829679  0.782214  1
+  O  O13  1  0.123686  0.190602  0.831509  1
+  O  O14  1  0.171179  0.645053  0.861241  1

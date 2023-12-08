@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Li(Tb4Pt3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.56055683
+_cell_length_b   7.56055735
+_cell_length_c   7.56055837
+_cell_angle_alpha   69.39629632
+_cell_angle_beta   69.39629905
+_cell_angle_gamma   69.39630866
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li(Tb4Pt3)2
+_chemical_formula_sum   'Li1 Tb8 Pt6'
+_cell_volume   365.60483668
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.000000  0.000000  0.000000  1
+  Tb  Tb1  1  0.816645  0.816645  0.816645  1
+  Tb  Tb2  1  0.183355  0.183355  0.183355  1
+  Tb  Tb3  1  0.322615  0.609497  0.859469  1
+  Tb  Tb4  1  0.859469  0.322615  0.609497  1
+  Tb  Tb5  1  0.609497  0.859469  0.322615  1
+  Tb  Tb6  1  0.677385  0.390503  0.140531  1
+  Tb  Tb7  1  0.140531  0.677385  0.390503  1
+  Tb  Tb8  1  0.390503  0.140531  0.677385  1
+  Pt  Pt9  1  0.184813  0.949582  0.573453  1
+  Pt  Pt10  1  0.573453  0.184813  0.949582  1
+  Pt  Pt11  1  0.949582  0.573453  0.184813  1
+  Pt  Pt12  1  0.815187  0.050418  0.426547  1
+  Pt  Pt13  1  0.426547  0.815187  0.050418  1
+  Pt  Pt14  1  0.050418  0.426547  0.815187  1

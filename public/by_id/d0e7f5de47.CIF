@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Sm2MnFe3(SiC)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.58299466
+_cell_length_b   5.58299529
+_cell_length_c   6.88213053
+_cell_angle_alpha   91.57376788
+_cell_angle_beta   88.42623310
+_cell_angle_gamma   139.93224677
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm2MnFe3(SiC)2
+_chemical_formula_sum   'Sm2 Mn1 Fe3 Si2 C2'
+_cell_volume   138.02270531
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.549940  0.450060  0.246665  1
+  Sm  Sm1  1  0.450348  0.549652  0.753080  1
+  Mn  Mn2  1  0.830685  0.169315  0.440477  1
+  Fe  Fe3  1  0.834257  0.165743  0.065589  1
+  Fe  Fe4  1  0.164423  0.835577  0.936130  1
+  Fe  Fe5  1  0.171871  0.828129  0.558227  1
+  Si  Si6  1  0.269629  0.730371  0.232769  1
+  Si  Si7  1  0.728330  0.271670  0.766141  1
+  C  C8  1  0.999337  0.000663  0.000714  1
+  C  C9  1  0.001179  0.998821  0.500208  1

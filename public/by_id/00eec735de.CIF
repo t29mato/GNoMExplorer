@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Tl6Cr(IrCl6)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.18651900
+_cell_length_b   7.18651873
+_cell_length_c   18.20535400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999662
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl6Cr(IrCl6)3
+_chemical_formula_sum   'Tl6 Cr1 Ir3 Cl18'
+_cell_volume   814.26715069
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.666737  0.333406  0.947435  1
+  Tl  Tl1  1  0.333089  0.666473  0.451146  1
+  Tl  Tl2  1  0.666772  0.333356  0.554803  1
+  Tl  Tl3  1  0.333024  0.666484  0.049317  1
+  Tl  Tl4  1  0.999366  0.999678  0.744826  1
+  Tl  Tl5  1  0.000272  0.000160  0.253296  1
+  Cr  Cr6  1  0.333332  0.666689  0.837616  1
+  Ir  Ir7  1  0.333364  0.666669  0.667543  1
+  Ir  Ir8  1  0.666740  0.333394  0.162882  1
+  Ir  Ir9  1  0.666717  0.333375  0.336171  1
+  Cl  Cl10  1  0.820401  0.640635  0.409986  1
+  Cl  Cl11  1  0.178646  0.357227  0.906492  1
+  Cl  Cl12  1  0.178552  0.821379  0.906524  1
+  Cl  Cl13  1  0.179259  0.358606  0.593337  1
+  Cl  Cl14  1  0.642791  0.821376  0.906528  1
+  Cl  Cl15  1  0.359444  0.179758  0.409981  1
+  Cl  Cl16  1  0.034821  0.517428  0.749835  1
+  Cl  Cl17  1  0.820336  0.179713  0.409975  1
+  Cl  Cl18  1  0.520196  0.040429  0.249509  1
+  Cl  Cl19  1  0.482667  0.517360  0.749819  1
+  Cl  Cl20  1  0.520233  0.479863  0.249511  1
+  Cl  Cl21  1  0.959691  0.479821  0.249515  1
+  Cl  Cl22  1  0.359377  0.179725  0.089156  1
+  Cl  Cl23  1  0.482607  0.965231  0.749846  1
+  Cl  Cl24  1  0.820491  0.640764  0.089159  1
+  Cl  Cl25  1  0.179288  0.820645  0.593327  1
+  Cl  Cl26  1  0.641366  0.820669  0.593294  1
+  Cl  Cl27  1  0.820418  0.179690  0.089169  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_PuMoN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.23387000
+_cell_length_b   5.60641500
+_cell_length_c   10.80369400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PuMoN2
+_chemical_formula_sum   'Pu4 Mo4 N8'
+_cell_volume   195.87548034
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pu  Pu0  1  0.250000  0.576566  0.856417  1
+  Pu  Pu1  1  0.750000  0.423434  0.143583  1
+  Pu  Pu2  1  0.750000  0.923434  0.356417  1
+  Pu  Pu3  1  0.250000  0.076566  0.643583  1
+  Mo  Mo4  1  0.250000  0.927997  0.099860  1
+  Mo  Mo5  1  0.750000  0.072003  0.900140  1
+  Mo  Mo6  1  0.750000  0.572003  0.599860  1
+  Mo  Mo7  1  0.250000  0.427997  0.400140  1
+  N  N8  1  0.250000  0.660959  0.243650  1
+  N  N9  1  0.750000  0.339041  0.756350  1
+  N  N10  1  0.750000  0.839041  0.743650  1
+  N  N11  1  0.250000  0.160959  0.256350  1
+  N  N12  1  0.250000  0.755100  0.503581  1
+  N  N13  1  0.750000  0.244900  0.496419  1
+  N  N14  1  0.750000  0.744900  0.003581  1
+  N  N15  1  0.250000  0.255100  0.996419  1

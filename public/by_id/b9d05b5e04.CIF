@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ta4Cr6GaAs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.90103200
+_cell_length_b   4.90103318
+_cell_length_c   8.17221600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000555
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta4Cr6GaAs
+_chemical_formula_sum   'Ta4 Cr6 Ga1 As1'
+_cell_volume   169.99870970
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.333333  0.666667  0.432234  1
+  Ta  Ta1  1  0.666667  0.333333  0.567766  1
+  Ta  Ta2  1  0.666667  0.333333  0.934467  1
+  Ta  Ta3  1  0.333333  0.666667  0.065533  1
+  Cr  Cr4  1  0.825138  0.174862  0.251162  1
+  Cr  Cr5  1  0.825138  0.650277  0.251162  1
+  Cr  Cr6  1  0.349723  0.174862  0.251162  1
+  Cr  Cr7  1  0.174862  0.825138  0.748838  1
+  Cr  Cr8  1  0.174862  0.349723  0.748838  1
+  Cr  Cr9  1  0.650277  0.825138  0.748838  1
+  Ga  Ga10  1  0.000000  0.000000  0.000000  1
+  As  As11  1  0.000000  0.000000  0.500000  1

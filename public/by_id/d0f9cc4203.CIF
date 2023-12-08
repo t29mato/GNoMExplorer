@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LuU3(ZnIr)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89685000
+_cell_length_b   6.96767189
+_cell_length_c   8.28999068
+_cell_angle_alpha   90.58075901
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuU3(ZnIr)4
+_chemical_formula_sum   'Lu1 U3 Zn4 Ir4'
+_cell_volume   225.07803361
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.250000  0.051844  0.314184  1
+  U  U1  1  0.250000  0.550441  0.189229  1
+  U  U2  1  0.750000  0.454944  0.814150  1
+  U  U3  1  0.750000  0.950715  0.684065  1
+  Zn  Zn4  1  0.250000  0.622432  0.557997  1
+  Zn  Zn5  1  0.750000  0.360965  0.440087  1
+  Zn  Zn6  1  0.750000  0.883083  0.064118  1
+  Zn  Zn7  1  0.250000  0.126066  0.944291  1
+  Ir  Ir8  1  0.250000  0.736621  0.867736  1
+  Ir  Ir9  1  0.750000  0.280563  0.122386  1
+  Ir  Ir10  1  0.750000  0.747128  0.363410  1
+  Ir  Ir11  1  0.250000  0.235196  0.638347  1

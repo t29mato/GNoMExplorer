@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CaU5(Ni3Sb4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.16601297
+_cell_length_b   8.16601213
+_cell_length_c   8.16601276
+_cell_angle_alpha   109.54615045
+_cell_angle_beta   109.32147170
+_cell_angle_gamma   109.54614543
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaU5(Ni3Sb4)2
+_chemical_formula_sum   'Ca1 U5 Ni6 Sb8'
+_cell_volume   419.18527107
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.875000  0.250000  0.125000  1
+  U  U1  1  0.625000  0.750000  0.375000  1
+  U  U2  1  0.249497  0.123515  0.879199  1
+  U  U3  1  0.755684  0.376485  0.625981  1
+  U  U4  1  0.120801  0.870298  0.244316  1
+  U  U5  1  0.374019  0.629702  0.750503  1
+  Ni  Ni6  1  0.375000  0.250000  0.625000  1
+  Ni  Ni7  1  0.125000  0.750000  0.875000  1
+  Ni  Ni8  1  0.267817  0.636127  0.381853  1
+  Ni  Ni9  1  0.745726  0.863873  0.131690  1
+  Ni  Ni10  1  0.618147  0.385964  0.254274  1
+  Ni  Ni11  1  0.868310  0.114036  0.732183  1
+  Sb  Sb12  1  0.660827  0.496971  0.996364  1
+  Sb  Sb13  1  0.499393  0.003029  0.663856  1
+  Sb  Sb14  1  0.999227  0.662486  0.496629  1
+  Sb  Sb15  1  0.834143  0.837514  0.836740  1
+  Sb  Sb16  1  0.503371  0.002598  0.165857  1
+  Sb  Sb17  1  0.163260  0.497402  0.000773  1
+  Sb  Sb18  1  0.003636  0.164463  0.500607  1
+  Sb  Sb19  1  0.336144  0.335537  0.339173  1

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_K5(AsPd)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   15.72248231
+_cell_length_b   15.72248157
+_cell_length_c   5.41844400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   165.34718187
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K5(AsPd)3
+_chemical_formula_sum   'K5 As3 Pd3'
+_cell_volume   338.82148486
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.000523  0.999477  0.000000  1
+  K  K1  1  0.613053  0.386945  0.000000  1
+  K  K2  1  0.384376  0.615622  0.000000  1
+  K  K3  1  0.803559  0.196439  0.500001  1
+  K  K4  1  0.196320  0.803678  0.500001  1
+  As  As5  1  0.269612  0.730386  0.000000  1
+  As  As6  1  0.458015  0.541983  0.500001  1
+  As  As7  1  0.084279  0.915720  0.500001  1
+  Pd  Pd8  1  0.729409  0.270589  0.000000  1
+  Pd  Pd9  1  0.918190  0.081809  0.500001  1
+  Pd  Pd10  1  0.542656  0.457342  0.500001  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_MgZn3(In2Ir)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.85410847
+_cell_length_b   6.99210698
+_cell_length_c   7.32375000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   89.37384285
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgZn3(In2Ir)4
+_chemical_formula_sum   'Mg1 Zn3 In8 Ir4'
+_cell_volume   350.96726679
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.500000  0.000000  0.500000  1
+  Zn  Zn1  1  0.000000  0.500000  0.000000  1
+  Zn  Zn2  1  0.500000  0.000000  0.000000  1
+  Zn  Zn3  1  0.000000  0.500000  0.500000  1
+  In  In4  1  0.335304  0.340814  0.267105  1
+  In  In5  1  0.161910  0.833989  0.770010  1
+  In  In6  1  0.161910  0.833989  0.229990  1
+  In  In7  1  0.838090  0.166011  0.229990  1
+  In  In8  1  0.838090  0.166011  0.770010  1
+  In  In9  1  0.664696  0.659186  0.267105  1
+  In  In10  1  0.664696  0.659186  0.732895  1
+  In  In11  1  0.335304  0.340814  0.732895  1
+  Ir  Ir12  1  0.157640  0.156595  0.000000  1
+  Ir  Ir13  1  0.658293  0.347179  0.500000  1
+  Ir  Ir14  1  0.341707  0.652821  0.500000  1
+  Ir  Ir15  1  0.842360  0.843405  0.000000  1

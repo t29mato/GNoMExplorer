@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Th5Si2Tc3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.47431169
+_cell_length_b   8.47431121
+_cell_length_c   8.47431115
+_cell_angle_alpha   109.49576094
+_cell_angle_beta   109.49576681
+_cell_angle_gamma   109.49576802
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Th5Si2Tc3
+_chemical_formula_sum   'Th10 Si4 Tc6'
+_cell_volume   468.05411483
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.458080  0.157188  0.208000  1
+  Th  Th1  1  0.157188  0.208000  0.458080  1
+  Th  Th2  1  0.208000  0.458080  0.157188  1
+  Th  Th3  1  0.407263  0.681147  0.906838  1
+  Th  Th4  1  0.681147  0.906838  0.407263  1
+  Th  Th5  1  0.906838  0.407263  0.681147  1
+  Th  Th6  1  0.657224  0.107088  0.857087  1
+  Th  Th7  1  0.107088  0.857087  0.657224  1
+  Th  Th8  1  0.857087  0.657224  0.107088  1
+  Th  Th9  1  0.633471  0.633471  0.633471  1
+  Si  Si10  1  0.407486  0.301766  0.908378  1
+  Si  Si11  1  0.301766  0.908378  0.407486  1
+  Si  Si12  1  0.908378  0.407486  0.301766  1
+  Si  Si13  1  0.013292  0.013292  0.013292  1
+  Tc  Tc14  1  0.038037  0.157315  0.788486  1
+  Tc  Tc15  1  0.157315  0.788486  0.038037  1
+  Tc  Tc16  1  0.788486  0.038037  0.157315  1
+  Tc  Tc17  1  0.658554  0.526037  0.277265  1
+  Tc  Tc18  1  0.526037  0.277265  0.658554  1
+  Tc  Tc19  1  0.277265  0.658554  0.526037  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sr4Ca4Si3Sn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.99937800
+_cell_length_b   8.17560873
+_cell_length_c   9.27880607
+_cell_angle_alpha   89.45611041
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr4Ca4Si3Sn
+_chemical_formula_sum   'Sr4 Ca4 Si3 Sn1'
+_cell_volume   379.23516741
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.750000  0.978711  0.674837  1
+  Sr  Sr1  1  0.250000  0.023873  0.322781  1
+  Sr  Sr2  1  0.750000  0.472355  0.818213  1
+  Sr  Sr3  1  0.250000  0.516469  0.184108  1
+  Ca  Ca4  1  0.750000  0.857919  0.082634  1
+  Ca  Ca5  1  0.250000  0.158639  0.930006  1
+  Ca  Ca6  1  0.750000  0.351667  0.428328  1
+  Ca  Ca7  1  0.250000  0.643709  0.562295  1
+  Si  Si8  1  0.750000  0.731275  0.393197  1
+  Si  Si9  1  0.250000  0.267092  0.603991  1
+  Si  Si10  1  0.750000  0.233899  0.110276  1
+  Sn  Sn11  1  0.250000  0.764393  0.889334  1

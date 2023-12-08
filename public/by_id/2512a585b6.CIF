@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YbAg3(RhO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47091991
+_cell_length_b   5.46274020
+_cell_length_c   6.64613206
+_cell_angle_alpha   74.05173682
+_cell_angle_beta   97.88465660
+_cell_angle_gamma   119.95055041
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbAg3(RhO3)2
+_chemical_formula_sum   'Yb1 Ag3 Rh2 O6'
+_cell_volume   165.47812254
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.333333  0.166667  0.500000  1
+  Ag  Ag1  1  0.690490  0.345244  0.000000  1
+  Ag  Ag2  1  0.333333  0.666667  0.000000  1
+  Ag  Ag3  1  0.976177  0.988089  0.000000  1
+  Rh  Rh4  1  0.000423  0.500211  0.500000  1
+  Rh  Rh5  1  0.666244  0.833122  0.500000  1
+  O  O6  1  0.333333  0.743045  0.670369  1
+  O  O7  1  0.967650  0.109955  0.670077  1
+  O  O8  1  0.699017  0.475638  0.670077  1
+  O  O9  1  0.699017  0.223378  0.329923  1
+  O  O10  1  0.333333  0.590289  0.329631  1
+  O  O11  1  0.967650  0.857695  0.329923  1

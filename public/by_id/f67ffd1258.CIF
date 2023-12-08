@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Dy2GaSi4Ir3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.17750280
+_cell_length_b   8.17750281
+_cell_length_c   5.73816900
+_cell_angle_alpha   71.65988787
+_cell_angle_beta   71.65988786
+_cell_angle_gamma   94.24640118
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy2GaSi4Ir3
+_chemical_formula_sum   'Dy4 Ga2 Si8 Ir6'
+_cell_volume   339.29132295
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.866989  0.597776  0.756586  1
+  Dy  Dy1  1  0.133011  0.402224  0.243414  1
+  Dy  Dy2  1  0.402224  0.133011  0.743414  1
+  Dy  Dy3  1  0.597776  0.866989  0.256586  1
+  Ga  Ga4  1  0.774700  0.225300  0.750000  1
+  Ga  Ga5  1  0.225300  0.774700  0.250000  1
+  Si  Si6  1  0.516899  0.483101  0.750000  1
+  Si  Si7  1  0.483101  0.516899  0.250000  1
+  Si  Si8  1  0.212423  0.787577  0.750000  1
+  Si  Si9  1  0.787577  0.212423  0.250000  1
+  Si  Si10  1  0.264164  0.062263  0.338441  1
+  Si  Si11  1  0.735836  0.937737  0.661559  1
+  Si  Si12  1  0.937737  0.735836  0.161559  1
+  Si  Si13  1  0.062263  0.264164  0.838441  1
+  Ir  Ir14  1  0.533418  0.260141  0.139873  1
+  Ir  Ir15  1  0.739859  0.466582  0.360127  1
+  Ir  Ir16  1  0.466582  0.739859  0.860127  1
+  Ir  Ir17  1  0.260141  0.533418  0.639873  1
+  Ir  Ir18  1  0.992266  0.007734  0.250000  1
+  Ir  Ir19  1  0.007734  0.992266  0.750000  1

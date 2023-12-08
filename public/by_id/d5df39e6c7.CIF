@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ca2Fe2CuN3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.28686124
+_cell_length_b   6.28686142
+_cell_length_c   6.18479755
+_cell_angle_alpha   88.66208171
+_cell_angle_beta   88.66206935
+_cell_angle_gamma   118.37667192
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2Fe2CuN3
+_chemical_formula_sum   'Ca4 Fe4 Cu2 N6'
+_cell_volume   214.85542799
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.821914  0.680700  0.897792  1
+  Ca  Ca1  1  0.319300  0.178086  0.602208  1
+  Ca  Ca2  1  0.178086  0.319300  0.102208  1
+  Ca  Ca3  1  0.680700  0.821914  0.397792  1
+  Fe  Fe4  1  0.572942  0.171981  0.101136  1
+  Fe  Fe5  1  0.427058  0.828019  0.898864  1
+  Fe  Fe6  1  0.828019  0.427058  0.398864  1
+  Fe  Fe7  1  0.171981  0.572942  0.601136  1
+  Cu  Cu8  1  0.813473  0.186527  0.750000  1
+  Cu  Cu9  1  0.186527  0.813473  0.250000  1
+  N  N10  1  0.422713  0.577287  0.750000  1
+  N  N11  1  0.577287  0.422713  0.250000  1
+  N  N12  1  0.998380  0.729999  0.520033  1
+  N  N13  1  0.729999  0.998380  0.020033  1
+  N  N14  1  0.001620  0.270001  0.479967  1
+  N  N15  1  0.270001  0.001620  0.979967  1

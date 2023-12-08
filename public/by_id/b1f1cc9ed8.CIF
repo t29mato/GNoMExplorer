@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Th2ZnAgAu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.73418300
+_cell_length_b   6.96345900
+_cell_length_c   8.26766200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Th2ZnAgAu2
+_chemical_formula_sum   'Th4 Zn2 Ag2 Au4'
+_cell_volume   272.55413666
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.250000  0.001763  0.271176  1
+  Th  Th1  1  0.250000  0.501763  0.228824  1
+  Th  Th2  1  0.750000  0.994631  0.728987  1
+  Th  Th3  1  0.750000  0.494631  0.771013  1
+  Zn  Zn4  1  0.750000  0.783252  0.078840  1
+  Zn  Zn5  1  0.750000  0.283252  0.421160  1
+  Ag  Ag6  1  0.250000  0.216497  0.913659  1
+  Ag  Ag7  1  0.250000  0.716497  0.586341  1
+  Au  Au8  1  0.250000  0.270389  0.573776  1
+  Au  Au9  1  0.250000  0.770389  0.926224  1
+  Au  Au10  1  0.750000  0.733470  0.402833  1
+  Au  Au11  1  0.750000  0.233470  0.097167  1

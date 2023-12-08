@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_HfTaNb4C5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.54499024
+_cell_length_b   5.54499269
+_cell_length_c   5.52483384
+_cell_angle_alpha   80.47309754
+_cell_angle_beta   80.47309343
+_cell_angle_gamma   120.22122318
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfTaNb4C5
+_chemical_formula_sum   'Hf1 Ta1 Nb4 C5'
+_cell_volume   138.45161087
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.740706  0.740706  0.738991  1
+  Ta  Ta1  1  0.263927  0.263927  0.264964  1
+  Nb  Nb2  1  0.081568  0.438989  0.746596  1
+  Nb  Nb3  1  0.561703  0.916935  0.252376  1
+  Nb  Nb4  1  0.916935  0.561703  0.252376  1
+  Nb  Nb5  1  0.438989  0.081568  0.746596  1
+  C  C6  1  0.497363  0.497363  0.498432  1
+  C  C7  1  0.660805  0.331176  0.003634  1
+  C  C8  1  0.331176  0.660805  0.003634  1
+  C  C9  1  0.837335  0.169492  0.496200  1
+  C  C10  1  0.169492  0.837335  0.496200  1

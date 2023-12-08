@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Th(SiTc2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.16789900
+_cell_length_b   7.16816900
+_cell_length_c   15.73946900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Th(SiTc2)2
+_chemical_formula_sum   'Th4 Si8 Tc16'
+_cell_volume   470.23559310
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.000000  0.590641  0.116991  1
+  Th  Th1  1  0.000000  0.409359  0.883009  1
+  Th  Th2  1  0.500000  0.090641  0.383009  1
+  Th  Th3  1  0.500000  0.909359  0.616991  1
+  Si  Si4  1  0.000000  0.826635  0.472436  1
+  Si  Si5  1  0.000000  0.173365  0.527564  1
+  Si  Si6  1  0.500000  0.326635  0.027564  1
+  Si  Si7  1  0.500000  0.673365  0.972436  1
+  Si  Si8  1  0.000000  0.311557  0.274359  1
+  Si  Si9  1  0.000000  0.688443  0.725641  1
+  Si  Si10  1  0.500000  0.811557  0.225641  1
+  Si  Si11  1  0.500000  0.188443  0.774359  1
+  Tc  Tc12  1  0.000000  0.141264  0.051195  1
+  Tc  Tc13  1  0.000000  0.858736  0.948805  1
+  Tc  Tc14  1  0.500000  0.641264  0.448805  1
+  Tc  Tc15  1  0.500000  0.358736  0.551195  1
+  Tc  Tc16  1  0.000000  0.735035  0.319751  1
+  Tc  Tc17  1  0.000000  0.264965  0.680249  1
+  Tc  Tc18  1  0.500000  0.235035  0.180249  1
+  Tc  Tc19  1  0.500000  0.764965  0.819751  1
+  Tc  Tc20  1  0.000000  0.429413  0.421256  1
+  Tc  Tc21  1  0.000000  0.570587  0.578744  1
+  Tc  Tc22  1  0.500000  0.929413  0.078744  1
+  Tc  Tc23  1  0.500000  0.070587  0.921256  1
+  Tc  Tc24  1  0.000000  0.004571  0.205776  1
+  Tc  Tc25  1  0.000000  0.995429  0.794224  1
+  Tc  Tc26  1  0.500000  0.504571  0.294224  1
+  Tc  Tc27  1  0.500000  0.495429  0.705776  1

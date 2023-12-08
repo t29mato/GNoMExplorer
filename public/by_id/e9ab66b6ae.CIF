@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ce6Al4Si5Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.92693607
+_cell_length_b   7.92693632
+_cell_length_c   7.92693618
+_cell_angle_alpha   120.37993330
+_cell_angle_beta   120.37993360
+_cell_angle_gamma   89.34317885
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce6Al4Si5Ge
+_chemical_formula_sum   'Ce6 Al4 Si5 Ge1'
+_cell_volume   350.16196817
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.356590  0.178588  0.496742  1
+  Ce  Ce1  1  0.681847  0.859849  0.503258  1
+  Ce  Ce2  1  0.178588  0.681847  0.821998  1
+  Ce  Ce3  1  0.859849  0.356590  0.178002  1
+  Ce  Ce4  1  0.749769  0.749769  0.000000  1
+  Ce  Ce5  1  0.246599  0.246599  0.000000  1
+  Al  Al6  1  0.690776  0.459831  0.500169  1
+  Al  Al7  1  0.959662  0.190607  0.499831  1
+  Al  Al8  1  0.459831  0.959662  0.769055  1
+  Al  Al9  1  0.190607  0.690776  0.230945  1
+  Si  Si10  1  0.364430  0.562357  0.500122  1
+  Si  Si11  1  0.062235  0.864308  0.499878  1
+  Si  Si12  1  0.562357  0.062235  0.197928  1
+  Si  Si13  1  0.864308  0.364430  0.802072  1
+  Si  Si14  1  0.995906  0.995906  0.000000  1
+  Ge  Ge15  1  0.495468  0.495468  0.000000  1

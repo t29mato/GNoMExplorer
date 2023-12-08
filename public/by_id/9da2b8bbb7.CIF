@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_MnAl(GaIr2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.30258206
+_cell_length_b   6.08031600
+_cell_length_c   12.91923812
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.98262434
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnAl(GaIr2)2
+_chemical_formula_sum   'Mn3 Al3 Ga6 Ir12'
+_cell_volume   337.98092922
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.499954  0.000000  0.499476  1
+  Mn  Mn1  1  0.000146  0.500001  0.666672  1
+  Mn  Mn2  1  0.500139  0.000000  0.833855  1
+  Al  Al3  1  0.000068  0.500001  0.000205  1
+  Al  Al4  1  0.499866  0.000000  0.166654  1
+  Al  Al5  1  0.999796  0.500001  0.333130  1
+  Ga  Ga6  1  0.000050  0.000000  0.997084  1
+  Ga  Ga7  1  0.499880  0.500001  0.166647  1
+  Ga  Ga8  1  0.999830  0.000000  0.336257  1
+  Ga  Ga9  1  0.499941  0.500001  0.503387  1
+  Ga  Ga10  1  0.000148  0.000000  0.666695  1
+  Ga  Ga11  1  0.500164  0.500001  0.829968  1
+  Ir  Ir12  1  0.500043  0.252001  0.003503  1
+  Ir  Ir13  1  0.500043  0.747999  0.003503  1
+  Ir  Ir14  1  0.999890  0.248713  0.166651  1
+  Ir  Ir15  1  0.999890  0.751287  0.166651  1
+  Ir  Ir16  1  0.499832  0.252007  0.329798  1
+  Ir  Ir17  1  0.499832  0.747993  0.329798  1
+  Ir  Ir18  1  0.999949  0.254015  0.496034  1
+  Ir  Ir19  1  0.999949  0.745985  0.496034  1
+  Ir  Ir20  1  0.500158  0.247577  0.666687  1
+  Ir  Ir21  1  0.500158  0.752423  0.666687  1
+  Ir  Ir22  1  0.000144  0.254006  0.837310  1
+  Ir  Ir23  1  0.000144  0.745994  0.837310  1

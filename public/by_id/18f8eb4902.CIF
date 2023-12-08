@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SnHg3Te2F6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.01838160
+_cell_length_b   8.01838264
+_cell_length_c   5.50957616
+_cell_angle_alpha   91.57339786
+_cell_angle_beta   91.57339597
+_cell_angle_gamma   59.02310537
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnHg3Te2F6
+_chemical_formula_sum   'Sn1 Hg3 Te2 F6'
+_cell_volume   303.56115541
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.000000  0.000000  0.000000  1
+  Hg  Hg1  1  0.500001  0.000000  0.500000  1
+  Hg  Hg2  1  0.000000  0.500001  0.500000  1
+  Hg  Hg3  1  0.500000  0.500000  0.500000  1
+  Te  Te4  1  0.331830  0.331830  0.249709  1
+  Te  Te5  1  0.668169  0.668169  0.750290  1
+  F  F6  1  0.757943  0.121784  0.201294  1
+  F  F7  1  0.121784  0.757943  0.201294  1
+  F  F8  1  0.118607  0.118607  0.218534  1
+  F  F9  1  0.881393  0.881393  0.781464  1
+  F  F10  1  0.878217  0.242058  0.798706  1
+  F  F11  1  0.242058  0.878217  0.798706  1

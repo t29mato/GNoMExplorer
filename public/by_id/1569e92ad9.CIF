@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_ScPa3(Ni2Sn)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.36907615
+_cell_length_b   7.36907615
+_cell_length_c   3.52355800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   89.12433690
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScPa3(Ni2Sn)2
+_chemical_formula_sum   'Sc1 Pa3 Ni4 Sn2'
+_cell_volume   191.31842263
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.327165  0.827165  0.500000  1
+  Pa  Pa1  1  0.670089  0.170089  0.500000  1
+  Pa  Pa2  1  0.174584  0.326388  0.500000  1
+  Pa  Pa3  1  0.826388  0.674584  0.500000  1
+  Ni  Ni4  1  0.871025  0.371025  0.000000  1
+  Ni  Ni5  1  0.378095  0.128938  0.000000  1
+  Ni  Ni6  1  0.628938  0.878095  0.000000  1
+  Ni  Ni7  1  0.117053  0.617053  0.000000  1
+  Sn  Sn8  1  0.016067  0.990596  0.000000  1
+  Sn  Sn9  1  0.490596  0.516067  0.000000  1

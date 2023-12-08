@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Lu2SiTc8Ge3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.33877405
+_cell_length_b   7.33877405
+_cell_length_c   4.22827800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   89.54032241
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2SiTc8Ge3
+_chemical_formula_sum   'Lu2 Si1 Tc8 Ge3'
+_cell_volume   227.71759535
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.502015  0.502015  0.000000  1
+  Lu  Lu1  1  0.001366  0.001366  0.500000  1
+  Si  Si2  1  0.706794  0.706794  0.500000  1
+  Tc  Tc3  1  0.146512  0.599793  0.500000  1
+  Tc  Tc4  1  0.844744  0.404694  0.500000  1
+  Tc  Tc5  1  0.348691  0.099242  0.000000  1
+  Tc  Tc6  1  0.653995  0.896277  0.000000  1
+  Tc  Tc7  1  0.599793  0.146512  0.500000  1
+  Tc  Tc8  1  0.404694  0.844744  0.500000  1
+  Tc  Tc9  1  0.099242  0.348691  0.000000  1
+  Tc  Tc10  1  0.896277  0.653995  0.000000  1
+  Ge  Ge11  1  0.296574  0.296574  0.500000  1
+  Ge  Ge12  1  0.793828  0.205474  0.000000  1
+  Ge  Ge13  1  0.205474  0.793828  0.000000  1

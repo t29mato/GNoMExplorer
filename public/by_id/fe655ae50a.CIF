@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_SmTa2(Nb2Sn3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.81547000
+_cell_length_b   5.81364790
+_cell_length_c   9.61998500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.98962529
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmTa2(Nb2Sn3)2
+_chemical_formula_sum   'Sm1 Ta2 Nb4 Sn6'
+_cell_volume   281.69813037
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.000000  0.000000  0.999901  1
+  Ta  Ta1  1  0.500000  0.500000  0.750684  1
+  Ta  Ta2  1  0.500000  0.000000  0.750684  1
+  Nb  Nb3  1  0.000000  0.500000  0.750242  1
+  Nb  Nb4  1  0.000000  0.500000  0.249817  1
+  Nb  Nb5  1  0.500000  0.500000  0.249834  1
+  Nb  Nb6  1  0.500000  0.000000  0.249834  1
+  Sn  Sn7  1  0.666216  0.333107  0.499890  1
+  Sn  Sn8  1  0.333784  0.666893  0.499890  1
+  Sn  Sn9  1  0.666674  0.333337  0.000112  1
+  Sn  Sn10  1  0.333326  0.666663  0.000112  1
+  Sn  Sn11  1  0.000000  0.000000  0.668194  1
+  Sn  Sn12  1  0.000000  0.000000  0.330806  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_LaPrBe2(Co4P3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.99994822
+_cell_length_b   5.99994940
+_cell_length_c   11.23587400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   144.90345293
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaPrBe2(Co4P3)2
+_chemical_formula_sum   'La1 Pr1 Be2 Co8 P6'
+_cell_volume   232.56080381
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.670872  0.329128  0.750000  1
+  Pr  Pr1  1  0.329486  0.670514  0.250000  1
+  Be  Be2  1  0.500028  0.499972  0.499936  1
+  Be  Be3  1  0.500028  0.499972  0.000064  1
+  Co  Co4  1  0.046107  0.953893  0.138816  1
+  Co  Co5  1  0.046107  0.953893  0.361184  1
+  Co  Co6  1  0.687797  0.312203  0.438652  1
+  Co  Co7  1  0.312191  0.687809  0.560043  1
+  Co  Co8  1  0.312191  0.687809  0.939957  1
+  Co  Co9  1  0.687797  0.312203  0.061348  1
+  Co  Co10  1  0.953648  0.046352  0.638131  1
+  Co  Co11  1  0.953648  0.046352  0.861869  1
+  P  P12  1  0.604850  0.395150  0.250000  1
+  P  P13  1  0.395356  0.604644  0.750000  1
+  P  P14  1  0.123103  0.876897  0.540252  1
+  P  P15  1  0.876844  0.123156  0.458373  1
+  P  P16  1  0.876844  0.123156  0.041627  1
+  P  P17  1  0.123103  0.876897  0.959748  1

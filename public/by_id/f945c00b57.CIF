@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Sc2Ni3BRh3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.58193071
+_cell_length_b   5.58193008
+_cell_length_c   5.49590232
+_cell_angle_alpha   59.48083825
+_cell_angle_beta   59.48084022
+_cell_angle_gamma   60.00000593
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc2Ni3BRh3
+_chemical_formula_sum   'Sc2 Ni3 B1 Rh3'
+_cell_volume   120.12681243
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.250670  0.250670  0.247990  1
+  Sc  Sc1  1  0.752700  0.752700  0.741901  1
+  Ni  Ni2  1  0.739079  0.267827  0.254018  1
+  Ni  Ni3  1  0.267827  0.739079  0.254018  1
+  Ni  Ni4  1  0.739077  0.739077  0.254020  1
+  B  B5  1  0.990406  0.990406  0.028781  1
+  Rh  Rh6  1  0.257553  0.257553  0.739759  1
+  Rh  Rh7  1  0.745135  0.257555  0.739757  1
+  Rh  Rh8  1  0.257555  0.745135  0.739757  1

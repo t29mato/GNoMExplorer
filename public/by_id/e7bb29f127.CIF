@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ca(GaCu)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.63751926
+_cell_length_b   6.63751865
+_cell_length_c   6.63752011
+_cell_angle_alpha   133.72536720
+_cell_angle_beta   100.12685465
+_cell_angle_gamma   97.64121358
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca(GaCu)6
+_chemical_formula_sum   'Ca1 Ga6 Cu6'
+_cell_volume   194.26539623
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.000000  0.000000  0.000000  1
+  Ga  Ga1  1  0.650182  0.000000  0.650182  1
+  Ga  Ga2  1  0.349818  0.000000  0.349818  1
+  Ga  Ga3  1  0.651298  0.651298  0.000000  1
+  Ga  Ga4  1  0.348702  0.348702  0.000000  1
+  Ga  Ga5  1  0.192519  0.692519  0.500000  1
+  Ga  Ga6  1  0.807481  0.307481  0.500000  1
+  Cu  Cu7  1  0.000000  0.000000  0.500000  1
+  Cu  Cu8  1  0.000000  0.500000  0.000000  1
+  Cu  Cu9  1  0.500000  0.500000  0.500000  1
+  Cu  Cu10  1  0.500000  0.000000  0.000000  1
+  Cu  Cu11  1  0.236775  0.500000  0.736775  1
+  Cu  Cu12  1  0.763225  0.500000  0.263225  1

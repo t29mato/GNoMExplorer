@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_ZrTa2(CrP)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.55104647
+_cell_length_b   6.53377694
+_cell_length_c   3.34317300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.91282310
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrTa2(CrP)3
+_chemical_formula_sum   'Zr1 Ta2 Cr3 P3'
+_cell_volume   124.03530054
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.000000  0.593577  0.500000  1
+  Ta  Ta1  1  0.403423  0.402753  0.500000  1
+  Ta  Ta2  1  0.596577  0.999330  0.500000  1
+  Cr  Cr3  1  0.000000  0.247510  0.000000  1
+  Cr  Cr4  1  0.253253  0.005379  0.000000  1
+  Cr  Cr5  1  0.746747  0.752126  0.000000  1
+  P  P6  1  0.659822  0.328403  0.000000  1
+  P  P7  1  0.340178  0.668582  0.000000  1
+  P  P8  1  0.000000  0.002339  0.500000  1

@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Ca2Si2Tc2C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.92061159
+_cell_length_b   5.92061173
+_cell_length_c   7.21775944
+_cell_angle_alpha   126.96469273
+_cell_angle_beta   126.96468390
+_cell_angle_gamma   40.03585083
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2Si2Tc2C
+_chemical_formula_sum   'Ca2 Si2 Tc2 C1'
+_cell_volume   125.05639812
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.574014  0.574014  0.303784  1
+  Ca  Ca1  1  0.425986  0.425986  0.696216  1
+  Si  Si2  1  0.853624  0.853624  0.300050  1
+  Si  Si3  1  0.146376  0.146376  0.699950  1
+  Tc  Tc4  1  0.203226  0.203226  0.088612  1
+  Tc  Tc5  1  0.796774  0.796774  0.911388  1
+  C  C6  1  0.000000  0.000000  0.000000  1

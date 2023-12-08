@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_LiNd16Ni4Hg3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.83348589
+_cell_length_b   9.81102833
+_cell_length_c   9.81102800
+_cell_angle_alpha   59.99999436
+_cell_angle_beta   60.07551265
+_cell_angle_gamma   60.07551427
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiNd16Ni4Hg3
+_chemical_formula_sum   'Li1 Nd16 Ni4 Hg3'
+_cell_volume   670.06399601
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.551444  0.816185  0.816185  1
+  Nd  Nd1  1  0.598748  0.596738  0.596738  1
+  Nd  Nd2  1  0.598748  0.596738  0.207776  1
+  Nd  Nd3  1  0.598748  0.207776  0.596738  1
+  Nd  Nd4  1  0.200625  0.599792  0.599792  1
+  Nd  Nd5  1  0.054658  0.443591  0.443591  1
+  Nd  Nd6  1  0.434892  0.063539  0.063539  1
+  Nd  Nd7  1  0.434892  0.063539  0.438032  1
+  Nd  Nd8  1  0.054658  0.443591  0.058161  1
+  Nd  Nd9  1  0.434892  0.438032  0.063539  1
+  Nd  Nd10  1  0.054658  0.058161  0.443591  1
+  Nd  Nd11  1  0.188131  0.813641  0.813641  1
+  Nd  Nd12  1  0.812567  0.186771  0.186771  1
+  Nd  Nd13  1  0.812567  0.186771  0.813891  1
+  Nd  Nd14  1  0.188131  0.813641  0.184586  1
+  Nd  Nd15  1  0.812567  0.813891  0.186771  1
+  Nd  Nd16  1  0.188131  0.184586  0.813641  1
+  Ni  Ni17  1  0.392193  0.392293  0.392293  1
+  Ni  Ni18  1  0.392193  0.392293  0.823220  1
+  Ni  Ni19  1  0.392193  0.823220  0.392293  1
+  Ni  Ni20  1  0.823568  0.392144  0.392144  1
+  Hg  Hg21  1  0.826933  0.835976  0.835976  1
+  Hg  Hg22  1  0.826933  0.835976  0.501115  1
+  Hg  Hg23  1  0.826933  0.501115  0.835976  1

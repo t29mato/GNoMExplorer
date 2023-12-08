@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_TbMnFeB6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.39998846
+_cell_length_b   5.39998702
+_cell_length_c   5.39998729
+_cell_angle_alpha   146.25245119
+_cell_angle_beta   109.50521459
+_cell_angle_gamma   80.48033459
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbMnFeB6
+_chemical_formula_sum   'Tb1 Mn1 Fe1 B6'
+_cell_volume   80.53947601
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.502341  0.002341  0.500000  1
+  Mn  Mn1  1  0.844494  0.844494  0.000000  1
+  Fe  Fe2  1  0.152374  0.152374  0.000000  1
+  B  B3  1  0.858604  0.499984  0.358620  1
+  B  B4  1  0.141364  0.499984  0.641380  1
+  B  B5  1  0.962746  0.696856  0.265890  1
+  B  B6  1  0.042891  0.303556  0.739335  1
+  B  B7  1  0.564222  0.303556  0.260665  1
+  B  B8  1  0.430964  0.696856  0.734110  1

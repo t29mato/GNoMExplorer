@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_SmPuSi2(Os2C)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.88213800
+_cell_length_b   5.88213987
+_cell_length_c   7.12928600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   141.06513986
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmPuSi2(Os2C)2
+_chemical_formula_sum   'Sm1 Pu1 Si2 Os4 C2'
+_cell_volume   155.01651021
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.548996  0.451004  0.250000  1
+  Pu  Pu1  1  0.450520  0.549480  0.750000  1
+  Si  Si2  1  0.268992  0.731008  0.250000  1
+  Si  Si3  1  0.728838  0.271162  0.750000  1
+  Os  Os4  1  0.833902  0.166098  0.058416  1
+  Os  Os5  1  0.167410  0.832590  0.942102  1
+  Os  Os6  1  0.167410  0.832590  0.557898  1
+  Os  Os7  1  0.833902  0.166098  0.441584  1
+  C  C8  1  0.000015  0.999985  0.994022  1
+  C  C9  1  0.000015  0.999985  0.505978  1

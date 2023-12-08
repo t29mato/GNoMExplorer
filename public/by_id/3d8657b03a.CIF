@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_SiNi8P3(W6C)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.72149138
+_cell_length_b   7.72149143
+_cell_length_c   7.72149099
+_cell_angle_alpha   59.93279524
+_cell_angle_beta   59.93279657
+_cell_angle_gamma   59.93279508
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiNi8P3(W6C)2
+_chemical_formula_sum   'Si1 Ni8 P3 W12 C2'
+_cell_volume   325.03194093
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.625000  0.625000  0.625000  1
+  Ni  Ni1  1  0.417331  0.417331  0.742154  1
+  Ni  Ni2  1  0.417331  0.742154  0.417331  1
+  Ni  Ni3  1  0.742154  0.417331  0.417331  1
+  Ni  Ni4  1  0.418863  0.418863  0.418863  1
+  Ni  Ni5  1  0.832669  0.832669  0.507846  1
+  Ni  Ni6  1  0.832669  0.507846  0.832669  1
+  Ni  Ni7  1  0.507846  0.832669  0.832669  1
+  Ni  Ni8  1  0.831137  0.831137  0.831137  1
+  P  P9  1  0.625000  0.625000  0.125000  1
+  P  P10  1  0.625000  0.125000  0.625000  1
+  P  P11  1  0.125000  0.625000  0.625000  1
+  W  W12  1  0.056221  0.056221  0.444123  1
+  W  W13  1  0.444341  0.054658  0.444341  1
+  W  W14  1  0.054658  0.444341  0.444341  1
+  W  W15  1  0.444341  0.444341  0.054658  1
+  W  W16  1  0.056221  0.444123  0.056221  1
+  W  W17  1  0.444123  0.056221  0.056221  1
+  W  W18  1  0.193779  0.193779  0.805877  1
+  W  W19  1  0.805659  0.195342  0.805659  1
+  W  W20  1  0.195342  0.805659  0.805659  1
+  W  W21  1  0.805659  0.805659  0.195342  1
+  W  W22  1  0.193779  0.805877  0.193779  1
+  W  W23  1  0.805877  0.193779  0.193779  1
+  C  C24  1  0.250172  0.250172  0.250172  1
+  C  C25  1  0.999828  0.999828  0.999828  1

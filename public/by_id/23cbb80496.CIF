@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Ba20(Si3Bi)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.67207500
+_cell_length_b   8.67207500
+_cell_length_c   17.01087400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba20(Si3Bi)3
+_chemical_formula_sum   'Ba20 Si9 Bi3'
+_cell_volume   1279.30081961
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.584245  0.065384  0.113650  1
+  Ba  Ba1  1  0.915754  0.434616  0.113650  1
+  Ba  Ba2  1  0.087593  0.943538  0.392467  1
+  Ba  Ba3  1  0.412408  0.556463  0.392467  1
+  Ba  Ba4  1  0.943538  0.412408  0.392467  1
+  Ba  Ba5  1  0.556463  0.087593  0.392467  1
+  Ba  Ba6  1  0.065384  0.915754  0.113650  1
+  Ba  Ba7  1  0.434616  0.584245  0.113650  1
+  Ba  Ba8  1  0.418614  0.935718  0.885570  1
+  Ba  Ba9  1  0.081387  0.564283  0.885570  1
+  Ba  Ba10  1  0.923469  0.072665  0.608450  1
+  Ba  Ba11  1  0.576530  0.427335  0.608450  1
+  Ba  Ba12  1  0.072665  0.576530  0.608450  1
+  Ba  Ba13  1  0.427335  0.923469  0.608450  1
+  Ba  Ba14  1  0.935718  0.081387  0.885570  1
+  Ba  Ba15  1  0.564283  0.418614  0.885570  1
+  Ba  Ba16  1  0.250000  0.250000  0.722478  1
+  Ba  Ba17  1  0.750001  0.750001  0.758473  1
+  Ba  Ba18  1  0.750001  0.750001  0.273990  1
+  Ba  Ba19  1  0.250000  0.250000  0.233429  1
+  Si  Si20  1  0.647992  0.351245  0.252096  1
+  Si  Si21  1  0.852008  0.148756  0.252096  1
+  Si  Si22  1  0.148756  0.647992  0.252096  1
+  Si  Si23  1  0.351245  0.852008  0.252096  1
+  Si  Si24  1  0.352410  0.648022  0.748760  1
+  Si  Si25  1  0.147591  0.851978  0.748760  1
+  Si  Si26  1  0.851978  0.352410  0.748760  1
+  Si  Si27  1  0.648022  0.147591  0.748760  1
+  Si  Si28  1  0.250000  0.250000  0.514458  1
+  Bi  Bi29  1  0.250000  0.250000  0.011339  1
+  Bi  Bi30  1  0.750001  0.750001  0.493474  1
+  Bi  Bi31  1  0.750001  0.750001  0.988384  1

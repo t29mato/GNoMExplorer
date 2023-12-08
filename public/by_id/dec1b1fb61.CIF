@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_LiHo3In3HgPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.92531700
+_cell_length_b   7.92531874
+_cell_length_c   3.76650800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000525
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiHo3In3HgPt
+_chemical_formula_sum   'Li1 Ho3 In3 Hg1 Pt1'
+_cell_volume   204.88156506
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.000000  0.000000  0.500000  1
+  Ho  Ho1  1  0.603821  0.025103  0.500000  1
+  Ho  Ho2  1  0.421281  0.396179  0.500000  1
+  Ho  Ho3  1  0.974897  0.578719  0.500000  1
+  In  In4  1  0.748330  0.748050  0.000000  1
+  In  In5  1  0.999720  0.251670  0.000000  1
+  In  In6  1  0.251950  0.000280  0.000000  1
+  Hg  Hg7  1  0.333333  0.666667  0.000000  1
+  Pt  Pt8  1  0.666667  0.333333  0.000000  1

@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ti3Be2CoN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.65150500
+_cell_length_b   7.65150495
+_cell_length_c   7.65150500
+_cell_angle_alpha   60.00000411
+_cell_angle_beta   60.00000434
+_cell_angle_gamma   60.00000516
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3Be2CoN
+_chemical_formula_sum   'Ti12 Be8 Co4 N4'
+_cell_volume   316.75657860
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.803997  0.803997  0.196003  1
+  Ti  Ti1  1  0.196003  0.196003  0.803997  1
+  Ti  Ti2  1  0.803997  0.196003  0.803997  1
+  Ti  Ti3  1  0.196003  0.803997  0.196003  1
+  Ti  Ti4  1  0.196003  0.803997  0.803997  1
+  Ti  Ti5  1  0.803997  0.196003  0.196003  1
+  Ti  Ti6  1  0.446003  0.446003  0.053997  1
+  Ti  Ti7  1  0.053997  0.053997  0.446003  1
+  Ti  Ti8  1  0.446003  0.053997  0.446003  1
+  Ti  Ti9  1  0.053997  0.446003  0.053997  1
+  Ti  Ti10  1  0.053997  0.446003  0.446003  1
+  Ti  Ti11  1  0.446003  0.053997  0.053997  1
+  Be  Be12  1  0.727336  0.424221  0.424221  1
+  Be  Be13  1  0.424221  0.727336  0.424221  1
+  Be  Be14  1  0.424221  0.424221  0.727336  1
+  Be  Be15  1  0.424221  0.424221  0.424221  1
+  Be  Be16  1  0.522664  0.825779  0.825779  1
+  Be  Be17  1  0.825779  0.522664  0.825779  1
+  Be  Be18  1  0.825779  0.825779  0.522664  1
+  Be  Be19  1  0.825779  0.825779  0.825779  1
+  Co  Co20  1  0.125000  0.625000  0.625000  1
+  Co  Co21  1  0.625000  0.125000  0.625000  1
+  Co  Co22  1  0.625000  0.625000  0.125000  1
+  Co  Co23  1  0.625000  0.625000  0.625000  1
+  N  N24  1  0.625000  0.125000  0.125000  1
+  N  N25  1  0.125000  0.625000  0.125000  1
+  N  N26  1  0.125000  0.125000  0.625000  1
+  N  N27  1  0.125000  0.125000  0.125000  1

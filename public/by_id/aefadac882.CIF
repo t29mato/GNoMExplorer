@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ti2Nb2Co4Si3Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.69231600
+_cell_length_b   6.22974203
+_cell_length_c   7.04944889
+_cell_angle_alpha   89.72176835
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2Nb2Co4Si3Ge
+_chemical_formula_sum   'Ti2 Nb2 Co4 Si3 Ge1'
+_cell_volume   162.15075346
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.750000  0.984908  0.182438  1
+  Ti  Ti1  1  0.750000  0.475106  0.312662  1
+  Nb  Nb2  1  0.250000  0.020788  0.820224  1
+  Nb  Nb3  1  0.250000  0.519385  0.684659  1
+  Co  Co4  1  0.250000  0.149911  0.434569  1
+  Co  Co5  1  0.250000  0.638918  0.059302  1
+  Co  Co6  1  0.750000  0.859893  0.567173  1
+  Co  Co7  1  0.750000  0.356182  0.940516  1
+  Si  Si8  1  0.250000  0.273261  0.118777  1
+  Si  Si9  1  0.750000  0.225900  0.615800  1
+  Si  Si10  1  0.750000  0.725620  0.887143  1
+  Ge  Ge11  1  0.250000  0.770129  0.376738  1

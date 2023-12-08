@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_CaAl10FeRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.83615422
+_cell_length_b   6.83615543
+_cell_length_c   9.06397709
+_cell_angle_alpha   89.99624250
+_cell_angle_beta   89.99623673
+_cell_angle_gamma   96.80727600
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaAl10FeRh
+_chemical_formula_sum   'Ca2 Al20 Fe2 Rh2'
+_cell_volume   420.60086353
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.875407  0.124593  0.750000  1
+  Ca  Ca1  1  0.124593  0.875407  0.250000  1
+  Al  Al2  1  0.620011  0.372786  0.548545  1
+  Al  Al3  1  0.379989  0.627214  0.451455  1
+  Al  Al4  1  0.372786  0.620011  0.048545  1
+  Al  Al5  1  0.627214  0.379989  0.951455  1
+  Al  Al6  1  0.229589  0.222278  0.496305  1
+  Al  Al7  1  0.770411  0.777722  0.503695  1
+  Al  Al8  1  0.777722  0.770411  0.003695  1
+  Al  Al9  1  0.222278  0.229589  0.996305  1
+  Al  Al10  1  0.846830  0.162024  0.098470  1
+  Al  Al11  1  0.153170  0.837976  0.901530  1
+  Al  Al12  1  0.162024  0.846830  0.598470  1
+  Al  Al13  1  0.837976  0.153170  0.401530  1
+  Al  Al14  1  0.862011  0.586068  0.753995  1
+  Al  Al15  1  0.137989  0.413932  0.246005  1
+  Al  Al16  1  0.413932  0.137989  0.746005  1
+  Al  Al17  1  0.586068  0.862011  0.253995  1
+  Al  Al18  1  0.222406  0.479036  0.754852  1
+  Al  Al19  1  0.777594  0.520964  0.245148  1
+  Al  Al20  1  0.520964  0.777594  0.745148  1
+  Al  Al21  1  0.479036  0.222406  0.254852  1
+  Fe  Fe22  1  0.000000  0.500000  0.000000  1
+  Fe  Fe23  1  0.500000  0.000000  0.500000  1
+  Rh  Rh24  1  0.000000  0.500000  0.500000  1
+  Rh  Rh25  1  0.500000  0.000000  0.000000  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Hf4Al4Cr3Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.14893806
+_cell_length_b   5.14898299
+_cell_length_c   8.50963300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   60.46475763
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf4Al4Cr3Pt
+_chemical_formula_sum   'Hf4 Al4 Cr3 Pt1'
+_cell_volume   196.28878461
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.334778  0.334728  0.550625  1
+  Hf  Hf1  1  0.667119  0.667130  0.425699  1
+  Hf  Hf2  1  0.667119  0.667130  0.074301  1
+  Hf  Hf3  1  0.334778  0.334728  0.949375  1
+  Al  Al4  1  0.997621  0.997597  0.488188  1
+  Al  Al5  1  0.997621  0.997597  0.011812  1
+  Al  Al6  1  0.829716  0.343800  0.750000  1
+  Al  Al7  1  0.343909  0.829671  0.750000  1
+  Cr  Cr8  1  0.177118  0.638464  0.250000  1
+  Cr  Cr9  1  0.638360  0.177247  0.250000  1
+  Cr  Cr10  1  0.177256  0.177381  0.250000  1
+  Pt  Pt11  1  0.834607  0.834528  0.750000  1

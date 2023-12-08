@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Ce2Si(Ni2P)9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.50084000
+_cell_length_b   6.50084036
+_cell_length_c   10.70737400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999818
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2Si(Ni2P)9
+_chemical_formula_sum   'Ce2 Si1 Ni18 P9'
+_cell_volume   391.87954090
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.000000  0.000000  0.499027  1
+  Ce  Ce1  1  0.000000  0.000000  0.000064  1
+  Si  Si2  1  0.333333  0.666667  0.436201  1
+  Ni  Ni3  1  0.464130  0.928259  0.893713  1
+  Ni  Ni4  1  0.929012  0.464506  0.106122  1
+  Ni  Ni5  1  0.535494  0.070988  0.106122  1
+  Ni  Ni6  1  0.069372  0.534685  0.607554  1
+  Ni  Ni7  1  0.202133  0.404266  0.250124  1
+  Ni  Ni8  1  0.798237  0.201763  0.751560  1
+  Ni  Ni9  1  0.403527  0.201763  0.751560  1
+  Ni  Ni10  1  0.595734  0.797867  0.250124  1
+  Ni  Ni11  1  0.202133  0.797867  0.250124  1
+  Ni  Ni12  1  0.798237  0.596473  0.751560  1
+  Ni  Ni13  1  0.465315  0.930628  0.607554  1
+  Ni  Ni14  1  0.538052  0.461948  0.392592  1
+  Ni  Ni15  1  0.923896  0.461948  0.392592  1
+  Ni  Ni16  1  0.071741  0.535870  0.893713  1
+  Ni  Ni17  1  0.464130  0.535870  0.893713  1
+  Ni  Ni18  1  0.538052  0.076104  0.392592  1
+  Ni  Ni19  1  0.535494  0.464506  0.106122  1
+  Ni  Ni20  1  0.465315  0.534685  0.607554  1
+  P  P21  1  0.173587  0.347175  0.749779  1
+  P  P22  1  0.826563  0.173437  0.249704  1
+  P  P23  1  0.173587  0.826413  0.749779  1
+  P  P24  1  0.826563  0.653126  0.249704  1
+  P  P25  1  0.666667  0.333333  0.938109  1
+  P  P26  1  0.666667  0.333333  0.561460  1
+  P  P27  1  0.333333  0.666667  0.061687  1
+  P  P28  1  0.346874  0.173437  0.249704  1
+  P  P29  1  0.652825  0.826413  0.749779  1

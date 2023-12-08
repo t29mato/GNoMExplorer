@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CsPuMnSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.38505900
+_cell_length_b   8.38505815
+_cell_length_c   11.10366300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   150.18680617
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsPuMnSe3
+_chemical_formula_sum   'Cs2 Pu2 Mn2 Se6'
+_cell_volume   388.13846569
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.258503  0.741497  0.250000  1
+  Cs  Cs1  1  0.741497  0.258503  0.750000  1
+  Pu  Pu2  1  0.000000  0.000000  0.000000  1
+  Pu  Pu3  1  0.000000  0.000000  0.500000  1
+  Mn  Mn4  1  0.532770  0.467230  0.250000  1
+  Mn  Mn5  1  0.467230  0.532770  0.750000  1
+  Se  Se6  1  0.614200  0.385800  0.059084  1
+  Se  Se7  1  0.385800  0.614200  0.940916  1
+  Se  Se8  1  0.385800  0.614200  0.559084  1
+  Se  Se9  1  0.614200  0.385800  0.440916  1
+  Se  Se10  1  0.945448  0.054552  0.250000  1
+  Se  Se11  1  0.054552  0.945448  0.750000  1

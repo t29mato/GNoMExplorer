@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Fe4Re3P4W
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.77237000
+_cell_length_b   5.78436112
+_cell_length_c   6.60842916
+_cell_angle_alpha   89.96555856
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe4Re3P4W
+_chemical_formula_sum   'Fe4 Re3 P4 W1'
+_cell_volume   144.20085686
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.750000  0.362174  0.067573  1
+  Fe  Fe1  1  0.750000  0.859960  0.432761  1
+  Fe  Fe2  1  0.250000  0.638653  0.930618  1
+  Fe  Fe3  1  0.250000  0.140309  0.567816  1
+  Re  Re4  1  0.750000  0.467659  0.665656  1
+  Re  Re5  1  0.750000  0.967664  0.833076  1
+  Re  Re6  1  0.250000  0.533175  0.335293  1
+  P  P7  1  0.750000  0.732189  0.120617  1
+  P  P8  1  0.750000  0.234372  0.378985  1
+  P  P9  1  0.250000  0.266463  0.877543  1
+  P  P10  1  0.250000  0.768181  0.621528  1
+  W  W11  1  0.250000  0.029202  0.168535  1

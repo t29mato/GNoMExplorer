@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Sm(GaAu)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.57561600
+_cell_length_b   6.96898700
+_cell_length_c   8.70392100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm(GaAu)3
+_chemical_formula_sum   'Sm2 Ga6 Au6'
+_cell_volume   277.54548379
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.500000  0.000000  0.752892  1
+  Sm  Sm1  1  0.000000  0.500000  0.247108  1
+  Ga  Ga2  1  0.000000  0.300302  0.892254  1
+  Ga  Ga3  1  0.500000  0.199698  0.107746  1
+  Ga  Ga4  1  0.000000  0.699698  0.892254  1
+  Ga  Ga5  1  0.000000  0.000000  0.375366  1
+  Ga  Ga6  1  0.500000  0.800302  0.107746  1
+  Ga  Ga7  1  0.500000  0.500000  0.624634  1
+  Au  Au8  1  0.000000  0.740727  0.600679  1
+  Au  Au9  1  0.500000  0.759273  0.399321  1
+  Au  Au10  1  0.500000  0.500000  0.929323  1
+  Au  Au11  1  0.000000  0.000000  0.070677  1
+  Au  Au12  1  0.500000  0.240727  0.399321  1
+  Au  Au13  1  0.000000  0.259273  0.600679  1

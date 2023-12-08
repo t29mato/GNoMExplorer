@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Li2Pr6Nd10CdInIr4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.00827373
+_cell_length_b   10.00827417
+_cell_length_c   9.99563500
+_cell_angle_alpha   60.04176999
+_cell_angle_beta   60.04176853
+_cell_angle_gamma   60.05995864
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Pr6Nd10CdInIr4
+_chemical_formula_sum   'Li2 Pr6 Nd10 Cd1 In1 Ir4'
+_cell_volume   708.73571302
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.571263  0.570774  0.576223  1
+  Li  Li1  1  0.571263  0.570774  0.281738  1
+  Pr  Pr2  1  0.939788  0.560001  0.561176  1
+  Pr  Pr3  1  0.560038  0.939417  0.939664  1
+  Pr  Pr4  1  0.560038  0.939417  0.560882  1
+  Pr  Pr5  1  0.939788  0.560001  0.939035  1
+  Pr  Pr6  1  0.560787  0.560542  0.939335  1
+  Pr  Pr7  1  0.941878  0.938590  0.559766  1
+  Nd  Nd8  1  0.348214  0.347896  0.348359  1
+  Nd  Nd9  1  0.348214  0.347896  0.955531  1
+  Nd  Nd10  1  0.347660  0.959211  0.346564  1
+  Nd  Nd11  1  0.958726  0.347221  0.347026  1
+  Nd  Nd12  1  0.810086  0.189688  0.191572  1
+  Nd  Nd13  1  0.188320  0.812652  0.810383  1
+  Nd  Nd14  1  0.188320  0.812652  0.188645  1
+  Nd  Nd15  1  0.810086  0.189688  0.808653  1
+  Nd  Nd16  1  0.193491  0.191524  0.807492  1
+  Nd  Nd17  1  0.815565  0.816191  0.184122  1
+  Cd  Cd18  1  0.259180  0.582187  0.579317  1
+  In  In19  1  0.582115  0.258531  0.579677  1
+  Ir  Ir20  1  0.142749  0.142689  0.140058  1
+  Ir  Ir21  1  0.142749  0.142689  0.574503  1
+  Ir  Ir22  1  0.143613  0.576455  0.139966  1
+  Ir  Ir23  1  0.576065  0.143312  0.140311  1

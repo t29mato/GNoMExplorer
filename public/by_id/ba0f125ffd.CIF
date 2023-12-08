@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Li2CaYbSi4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.79910200
+_cell_length_b   7.88429610
+_cell_length_c   10.62896214
+_cell_angle_alpha   89.98134696
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2CaYbSi4
+_chemical_formula_sum   'Li4 Ca2 Yb2 Si8'
+_cell_volume   318.37189128
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.250000  0.999061  0.387898  1
+  Li  Li1  1  0.750000  0.000939  0.612102  1
+  Li  Li2  1  0.250000  0.498920  0.111579  1
+  Li  Li3  1  0.750000  0.501080  0.888421  1
+  Ca  Ca4  1  0.250000  0.634721  0.636123  1
+  Ca  Ca5  1  0.750000  0.365279  0.363877  1
+  Yb  Yb6  1  0.250000  0.134256  0.864648  1
+  Yb  Yb7  1  0.750000  0.865744  0.135352  1
+  Si  Si8  1  0.750000  0.267369  0.066180  1
+  Si  Si9  1  0.250000  0.732631  0.933820  1
+  Si  Si10  1  0.750000  0.768622  0.432560  1
+  Si  Si11  1  0.250000  0.231378  0.567440  1
+  Si  Si12  1  0.750000  0.835412  0.825976  1
+  Si  Si13  1  0.250000  0.164588  0.174024  1
+  Si  Si14  1  0.750000  0.332281  0.675985  1
+  Si  Si15  1  0.250000  0.667719  0.324015  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_DyTh3(PS)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.48618400
+_cell_length_b   5.49697300
+_cell_length_c   16.52309600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyTh3(PS)4
+_chemical_formula_sum   'Dy2 Th6 P8 S8'
+_cell_volume   498.29370323
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.750000  0.999937  0.359081  1
+  Dy  Dy1  1  0.750000  0.499937  0.140919  1
+  Th  Th2  1  0.250000  0.499979  0.368098  1
+  Th  Th3  1  0.250000  0.999979  0.131902  1
+  Th  Th4  1  0.750000  0.500031  0.634671  1
+  Th  Th5  1  0.750000  0.000031  0.865329  1
+  Th  Th6  1  0.250000  0.999993  0.634192  1
+  Th  Th7  1  0.250000  0.499993  0.865808  1
+  P  P8  1  0.980209  0.267666  0.001798  1
+  P  P9  1  0.519791  0.767666  0.498202  1
+  P  P10  1  0.519702  0.732456  0.001783  1
+  P  P11  1  0.980298  0.232456  0.498217  1
+  P  P12  1  0.980298  0.732456  0.001783  1
+  P  P13  1  0.519702  0.232456  0.498217  1
+  P  P14  1  0.519791  0.267666  0.001798  1
+  P  P15  1  0.980209  0.767666  0.498202  1
+  S  S16  1  0.250000  0.499930  0.184837  1
+  S  S17  1  0.250000  0.999930  0.315163  1
+  S  S18  1  0.750000  0.500056  0.814858  1
+  S  S19  1  0.750000  0.000056  0.685142  1
+  S  S20  1  0.250000  0.000009  0.817298  1
+  S  S21  1  0.250000  0.500009  0.682702  1
+  S  S22  1  0.750000  0.999820  0.184110  1
+  S  S23  1  0.750000  0.499820  0.315890  1

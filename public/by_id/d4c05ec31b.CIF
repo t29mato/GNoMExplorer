@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Lu2Pa(GaRh)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.21345365
+_cell_length_b   7.29879429
+_cell_length_c   3.72501100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.39214189
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2Pa(GaRh)3
+_chemical_formula_sum   'Lu2 Pa1 Ga3 Rh3'
+_cell_volume   169.16980766
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.402311  0.407993  0.500000  1
+  Lu  Lu1  1  0.597689  0.005681  0.500000  1
+  Pa  Pa2  1  0.000000  0.583864  0.500000  1
+  Ga  Ga3  1  0.727770  0.744585  0.000000  1
+  Ga  Ga4  1  0.272230  0.016816  0.000000  1
+  Ga  Ga5  1  0.000000  0.235710  0.000000  1
+  Rh  Rh6  1  0.694303  0.358484  0.000000  1
+  Rh  Rh7  1  0.305697  0.664182  0.000000  1
+  Rh  Rh8  1  0.000000  0.982684  0.500000  1

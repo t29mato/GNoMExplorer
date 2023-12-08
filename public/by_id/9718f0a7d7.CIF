@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_VFe2P2W
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.54525100
+_cell_length_b   5.94336800
+_cell_length_c   6.74015800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VFe2P2W
+_chemical_formula_sum   'V2 Fe4 P4 W2'
+_cell_volume   142.02005844
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.250000  0.524716  0.325588  1
+  V  V1  1  0.250000  0.024716  0.174412  1
+  Fe  Fe2  1  0.750000  0.358491  0.062124  1
+  Fe  Fe3  1  0.750000  0.858491  0.437876  1
+  Fe  Fe4  1  0.250000  0.643260  0.938143  1
+  Fe  Fe5  1  0.250000  0.143260  0.561857  1
+  P  P6  1  0.750000  0.728385  0.129225  1
+  P  P7  1  0.750000  0.228385  0.370775  1
+  P  P8  1  0.250000  0.271815  0.883166  1
+  P  P9  1  0.250000  0.771815  0.616834  1
+  W  W10  1  0.750000  0.473334  0.668962  1
+  W  W11  1  0.750000  0.973334  0.831038  1

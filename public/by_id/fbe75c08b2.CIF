@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZrPa3(CoGe)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.18243200
+_cell_length_b   7.02808997
+_cell_length_c   7.04942148
+_cell_angle_alpha   87.24869282
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrPa3(CoGe)4
+_chemical_formula_sum   'Zr1 Pa3 Co4 Ge4'
+_cell_volume   206.97542119
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.750000  0.514840  0.286056  1
+  Pa  Pa1  1  0.250000  0.993218  0.807398  1
+  Pa  Pa2  1  0.250000  0.483063  0.720695  1
+  Pa  Pa3  1  0.750000  0.008682  0.194255  1
+  Co  Co4  1  0.250000  0.128732  0.440540  1
+  Co  Co5  1  0.250000  0.723507  0.065524  1
+  Co  Co6  1  0.750000  0.869153  0.553756  1
+  Co  Co7  1  0.750000  0.280130  0.926796  1
+  Ge  Ge8  1  0.250000  0.767119  0.404990  1
+  Ge  Ge9  1  0.250000  0.311737  0.117269  1
+  Ge  Ge10  1  0.750000  0.226198  0.581288  1
+  Ge  Ge11  1  0.750000  0.693619  0.901434  1

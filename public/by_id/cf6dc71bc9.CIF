@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Pa4SnIr4Pb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.81306000
+_cell_length_b   7.81306000
+_cell_length_c   3.58540000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pa4SnIr4Pb
+_chemical_formula_sum   'Pa4 Sn1 Ir4 Pb1'
+_cell_volume   218.86682259
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.327107  0.166466  0.500001  1
+  Pa  Pa1  1  0.833534  0.327107  0.500001  1
+  Pa  Pa2  1  0.166466  0.672894  0.500001  1
+  Pa  Pa3  1  0.672894  0.833534  0.500001  1
+  Sn  Sn4  1  0.000000  0.000000  0.000000  1
+  Ir  Ir5  1  0.635659  0.127385  0.000000  1
+  Ir  Ir6  1  0.127385  0.364341  0.000000  1
+  Ir  Ir7  1  0.872615  0.635659  0.000000  1
+  Ir  Ir8  1  0.364341  0.872615  0.000000  1
+  Pb  Pb9  1  0.499999  0.499999  0.000000  1

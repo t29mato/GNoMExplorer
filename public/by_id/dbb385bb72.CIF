@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YbPa(AlOs)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.92220300
+_cell_length_b   7.07013856
+_cell_length_c   8.27262181
+_cell_angle_alpha   89.72302269
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbPa(AlOs)2
+_chemical_formula_sum   'Yb2 Pa2 Al4 Os4'
+_cell_volume   229.40141330
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.250000  0.538454  0.824794  1
+  Yb  Yb1  1  0.750000  0.461546  0.175206  1
+  Pa  Pa2  1  0.750000  0.965492  0.313859  1
+  Pa  Pa3  1  0.250000  0.034508  0.686141  1
+  Al  Al4  1  0.750000  0.863050  0.944047  1
+  Al  Al5  1  0.250000  0.136950  0.055953  1
+  Al  Al6  1  0.250000  0.626230  0.439747  1
+  Al  Al7  1  0.750000  0.373770  0.560253  1
+  Os  Os8  1  0.750000  0.756591  0.619555  1
+  Os  Os9  1  0.250000  0.243409  0.380445  1
+  Os  Os10  1  0.250000  0.776480  0.142817  1
+  Os  Os11  1  0.750000  0.223520  0.857183  1

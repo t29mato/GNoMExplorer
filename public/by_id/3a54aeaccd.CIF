@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_SrBe(AlCu2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.27717558
+_cell_length_b   8.27717592
+_cell_length_c   8.27717607
+_cell_angle_alpha   119.81920295
+_cell_angle_beta   119.81919343
+_cell_angle_gamma   90.31344960
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrBe(AlCu2)4
+_chemical_formula_sum   'Sr2 Be2 Al8 Cu16'
+_cell_volume   402.07745235
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.250000  0.250000  0.000000  1
+  Sr  Sr1  1  0.750000  0.750000  0.000000  1
+  Be  Be2  1  0.500000  0.000000  0.500000  1
+  Be  Be3  1  0.000000  0.500000  0.500000  1
+  Al  Al4  1  0.804358  0.304358  0.866812  1
+  Al  Al5  1  0.562454  0.062454  0.866812  1
+  Al  Al6  1  0.062454  0.195642  0.500000  1
+  Al  Al7  1  0.304358  0.437546  0.500000  1
+  Al  Al8  1  0.937546  0.804358  0.500000  1
+  Al  Al9  1  0.437546  0.937546  0.133188  1
+  Al  Al10  1  0.195642  0.695642  0.133188  1
+  Al  Al11  1  0.695642  0.562454  0.500000  1
+  Cu  Cu12  1  0.943559  0.210813  0.154371  1
+  Cu  Cu13  1  0.210813  0.056441  0.267253  1
+  Cu  Cu14  1  0.789187  0.943559  0.732747  1
+  Cu  Cu15  1  0.443559  0.289187  0.732747  1
+  Cu  Cu16  1  0.056441  0.789187  0.845629  1
+  Cu  Cu17  1  0.784691  0.064012  0.500000  1
+  Cu  Cu18  1  0.564012  0.284691  0.500000  1
+  Cu  Cu19  1  0.215309  0.935988  0.500000  1
+  Cu  Cu20  1  0.435988  0.715309  0.500000  1
+  Cu  Cu21  1  0.935988  0.435988  0.720678  1
+  Cu  Cu22  1  0.715309  0.215309  0.279322  1
+  Cu  Cu23  1  0.064012  0.564012  0.279322  1
+  Cu  Cu24  1  0.710813  0.443559  0.154371  1
+  Cu  Cu25  1  0.556441  0.710813  0.267253  1
+  Cu  Cu26  1  0.284691  0.784691  0.720678  1
+  Cu  Cu27  1  0.289187  0.556441  0.845629  1

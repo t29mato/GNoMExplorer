@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_PaV2Co8(Ni2B)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.41286329
+_cell_length_b   7.41286453
+_cell_length_c   7.40844427
+_cell_angle_alpha   59.95294909
+_cell_angle_beta   59.95294131
+_cell_angle_gamma   59.97636627
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PaV2Co8(Ni2B)6
+_chemical_formula_sum   'Pa1 V2 Co8 Ni12 B6'
+_cell_volume   287.60557746
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.749903  0.749903  0.750098  1
+  V  V1  1  0.999991  0.999991  0.999970  1
+  V  V2  1  0.249823  0.249823  0.250651  1
+  Co  Co3  1  0.611368  0.611368  0.165888  1
+  Co  Co4  1  0.611523  0.165734  0.611218  1
+  Co  Co5  1  0.165734  0.611523  0.611218  1
+  Co  Co6  1  0.611504  0.611504  0.611205  1
+  Co  Co7  1  0.376704  0.376704  0.869886  1
+  Co  Co8  1  0.376781  0.869662  0.376767  1
+  Co  Co9  1  0.869662  0.376781  0.376767  1
+  Co  Co10  1  0.376807  0.376807  0.376790  1
+  Ni  Ni11  1  0.001953  0.001953  0.335625  1
+  Ni  Ni12  1  0.660391  0.002021  0.335649  1
+  Ni  Ni13  1  0.002021  0.660391  0.335649  1
+  Ni  Ni14  1  0.660549  0.335585  0.002048  1
+  Ni  Ni15  1  0.001845  0.335565  0.001985  1
+  Ni  Ni16  1  0.002028  0.335618  0.660410  1
+  Ni  Ni17  1  0.335585  0.660549  0.002048  1
+  Ni  Ni18  1  0.335618  0.002028  0.660410  1
+  Ni  Ni19  1  0.335565  0.001845  0.001985  1
+  Ni  Ni20  1  0.001951  0.001951  0.660464  1
+  Ni  Ni21  1  0.001824  0.660605  0.001972  1
+  Ni  Ni22  1  0.660605  0.001824  0.001972  1
+  B  B23  1  0.725792  0.725792  0.274193  1
+  B  B24  1  0.274268  0.725747  0.274198  1
+  B  B25  1  0.725747  0.274268  0.274198  1
+  B  B26  1  0.274112  0.274112  0.725543  1
+  B  B27  1  0.726249  0.274097  0.725594  1
+  B  B28  1  0.274097  0.726249  0.725594  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_La8Co(Si4Au)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.34659100
+_cell_length_b   8.34659002
+_cell_length_c   8.42609000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999991
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La8Co(Si4Au)3
+_chemical_formula_sum   'La8 Co1 Si12 Au3'
+_cell_volume   508.36417782
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.497043  0.994086  0.244743  1
+  La  La1  1  0.496212  0.992424  0.755707  1
+  La  La2  1  0.005914  0.502957  0.244743  1
+  La  La3  1  0.007576  0.503788  0.755707  1
+  La  La4  1  0.497043  0.502957  0.244743  1
+  La  La5  1  0.496212  0.503788  0.755707  1
+  La  La6  1  0.000000  0.000000  0.247926  1
+  La  La7  1  0.000000  0.000000  0.751684  1
+  Co  Co8  1  0.333333  0.666667  0.999851  1
+  Si  Si9  1  0.172980  0.345961  0.001889  1
+  Si  Si10  1  0.839341  0.678683  0.998327  1
+  Si  Si11  1  0.654039  0.827020  0.001889  1
+  Si  Si12  1  0.836512  0.673024  0.496949  1
+  Si  Si13  1  0.321317  0.160659  0.998327  1
+  Si  Si14  1  0.162405  0.324811  0.502890  1
+  Si  Si15  1  0.172980  0.827020  0.001889  1
+  Si  Si16  1  0.326976  0.163488  0.496949  1
+  Si  Si17  1  0.839341  0.160659  0.998327  1
+  Si  Si18  1  0.675189  0.837595  0.502890  1
+  Si  Si19  1  0.836512  0.163488  0.496949  1
+  Si  Si20  1  0.162405  0.837595  0.502890  1
+  Au  Au21  1  0.666667  0.333333  0.999270  1
+  Au  Au22  1  0.666667  0.333333  0.501648  1
+  Au  Au23  1  0.333333  0.666667  0.498103  1

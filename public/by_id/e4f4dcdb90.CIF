@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Hf4TaTiGa6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.53198000
+_cell_length_b   8.50078400
+_cell_length_c   9.09386500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf4TaTiGa6
+_chemical_formula_sum   'Hf8 Ta2 Ti2 Ga12'
+_cell_volume   427.64961482
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.748313  0.472505  0.619083  1
+  Hf  Hf1  1  0.248313  0.527495  0.380917  1
+  Hf  Hf2  1  0.751687  0.972505  0.380917  1
+  Hf  Hf3  1  0.251687  0.027495  0.619083  1
+  Hf  Hf4  1  0.750127  0.363344  0.185084  1
+  Hf  Hf5  1  0.250127  0.636656  0.814916  1
+  Hf  Hf6  1  0.749873  0.863344  0.814916  1
+  Hf  Hf7  1  0.249873  0.136656  0.185084  1
+  Ta  Ta8  1  0.000000  0.750000  0.106827  1
+  Ta  Ta9  1  0.500000  0.250000  0.893173  1
+  Ti  Ti10  1  0.000000  0.250000  0.890625  1
+  Ti  Ti11  1  0.500000  0.750000  0.109375  1
+  Ga  Ga12  1  0.000000  0.750000  0.567568  1
+  Ga  Ga13  1  0.500000  0.250000  0.432432  1
+  Ga  Ga14  1  0.000000  0.250000  0.433226  1
+  Ga  Ga15  1  0.500000  0.750000  0.566774  1
+  Ga  Ga16  1  0.750327  0.044026  0.080800  1
+  Ga  Ga17  1  0.250327  0.955974  0.919200  1
+  Ga  Ga18  1  0.749673  0.544026  0.919200  1
+  Ga  Ga19  1  0.249673  0.455974  0.080800  1
+  Ga  Ga20  1  0.750659  0.134803  0.658105  1
+  Ga  Ga21  1  0.250659  0.865197  0.341895  1
+  Ga  Ga22  1  0.749341  0.634803  0.341895  1
+  Ga  Ga23  1  0.249341  0.365197  0.658105  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfZr3Ti2(Si2Mo)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.59678300
+_cell_length_b   6.92060701
+_cell_length_c   8.31115302
+_cell_angle_alpha   90.00729789
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfZr3Ti2(Si2Mo)2
+_chemical_formula_sum   'Hf1 Zr3 Ti2 Si4 Mo2'
+_cell_volume   206.88056810
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.250000  0.050578  0.334141  1
+  Zr  Zr1  1  0.250000  0.550220  0.166122  1
+  Zr  Zr2  1  0.750000  0.956390  0.665748  1
+  Zr  Zr3  1  0.750000  0.456209  0.833618  1
+  Ti  Ti4  1  0.250000  0.124099  0.941776  1
+  Ti  Ti5  1  0.250000  0.624641  0.558277  1
+  Si  Si6  1  0.250000  0.253932  0.637337  1
+  Si  Si7  1  0.250000  0.754107  0.862178  1
+  Si  Si8  1  0.750000  0.747262  0.361176  1
+  Si  Si9  1  0.750000  0.245409  0.139494  1
+  Mo  Mo10  1  0.750000  0.869414  0.059575  1
+  Mo  Mo11  1  0.750000  0.367739  0.440556  1

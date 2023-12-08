@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Pr16Zn3Co4Hg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.78594484
+_cell_length_b   9.79302992
+_cell_length_c   9.79303100
+_cell_angle_alpha   60.00000648
+_cell_angle_beta   59.97605370
+_cell_angle_gamma   59.97606199
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr16Zn3Co4Hg
+_chemical_formula_sum   'Pr16 Zn3 Co4 Hg1'
+_cell_volume   663.38361078
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.937978  0.938225  0.561898  1
+  Pr  Pr1  1  0.564577  0.938643  0.558137  1
+  Pr  Pr2  1  0.564577  0.938643  0.938643  1
+  Pr  Pr3  1  0.691171  0.690825  0.309002  1
+  Pr  Pr4  1  0.151245  0.152247  0.544259  1
+  Pr  Pr5  1  0.308305  0.690924  0.690924  1
+  Pr  Pr6  1  0.151245  0.152247  0.152247  1
+  Pr  Pr7  1  0.544428  0.151857  0.151857  1
+  Pr  Pr8  1  0.308305  0.690924  0.309849  1
+  Pr  Pr9  1  0.308305  0.309849  0.690924  1
+  Pr  Pr10  1  0.691171  0.309002  0.690825  1
+  Pr  Pr11  1  0.937978  0.561898  0.561898  1
+  Pr  Pr12  1  0.564577  0.558137  0.938643  1
+  Pr  Pr13  1  0.151245  0.544259  0.152247  1
+  Pr  Pr14  1  0.691171  0.309002  0.309002  1
+  Pr  Pr15  1  0.937978  0.561898  0.938225  1
+  Zn  Zn16  1  0.919443  0.922976  0.922976  1
+  Zn  Zn17  1  0.919443  0.922976  0.234605  1
+  Zn  Zn18  1  0.919443  0.234605  0.922976  1
+  Co  Co19  1  0.922208  0.359263  0.359263  1
+  Co  Co20  1  0.359023  0.358896  0.923184  1
+  Co  Co21  1  0.359023  0.923184  0.358896  1
+  Co  Co22  1  0.359023  0.358896  0.358896  1
+  Hg  Hg23  1  0.238136  0.920621  0.920621  1

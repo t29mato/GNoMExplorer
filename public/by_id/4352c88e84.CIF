@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Hf2MnSi2Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.80894400
+_cell_length_b   6.54013337
+_cell_length_c   7.57706343
+_cell_angle_alpha   90.46405778
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf2MnSi2Pd
+_chemical_formula_sum   'Hf4 Mn2 Si4 Pd2'
+_cell_volume   188.74604949
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.250000  0.526846  0.674836  1
+  Hf  Hf1  1  0.750000  0.473154  0.325164  1
+  Hf  Hf2  1  0.250000  0.027201  0.815654  1
+  Hf  Hf3  1  0.750000  0.972799  0.184346  1
+  Mn  Mn4  1  0.750000  0.856978  0.561754  1
+  Mn  Mn5  1  0.250000  0.143022  0.438246  1
+  Si  Si6  1  0.250000  0.261172  0.133628  1
+  Si  Si7  1  0.750000  0.738828  0.866372  1
+  Si  Si8  1  0.250000  0.775180  0.385323  1
+  Si  Si9  1  0.750000  0.224820  0.614677  1
+  Pd  Pd10  1  0.750000  0.351098  0.935014  1
+  Pd  Pd11  1  0.250000  0.648902  0.064986  1

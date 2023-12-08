@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Th10InHg(Bi2Pb)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.76343503
+_cell_length_b   9.76343400
+_cell_length_c   6.66823403
+_cell_angle_alpha   89.99909853
+_cell_angle_beta   89.99911031
+_cell_angle_gamma   120.02769719
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Th10InHg(Bi2Pb)2
+_chemical_formula_sum   'Th10 In1 Hg1 Bi4 Pb2'
+_cell_volume   550.33283211
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.666868  0.332761  0.001086  1
+  Th  Th1  1  0.332761  0.666868  0.001086  1
+  Th  Th2  1  0.332554  0.666861  0.498884  1
+  Th  Th3  1  0.666861  0.332554  0.498884  1
+  Th  Th4  1  0.723650  0.723650  0.750116  1
+  Th  Th5  1  0.276577  0.999928  0.750029  1
+  Th  Th6  1  0.999928  0.276577  0.750029  1
+  Th  Th7  1  0.277620  0.277620  0.249616  1
+  Th  Th8  1  0.722628  0.000887  0.250298  1
+  Th  Th9  1  0.000887  0.722628  0.250298  1
+  In  In10  1  0.000110  0.000110  0.498524  1
+  Hg  Hg11  1  0.000229  0.000229  0.001446  1
+  Bi  Bi12  1  0.379804  0.379804  0.749825  1
+  Bi  Bi13  1  0.620072  0.000780  0.750256  1
+  Bi  Bi14  1  0.000780  0.620072  0.750256  1
+  Bi  Bi15  1  0.620175  0.620175  0.249944  1
+  Pb  Pb16  1  0.378269  0.000229  0.249712  1
+  Pb  Pb17  1  0.000229  0.378269  0.249712  1

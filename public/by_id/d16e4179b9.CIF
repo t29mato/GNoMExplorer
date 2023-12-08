@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_SrLa(Cd2Pt)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.32221325
+_cell_length_b   8.32221325
+_cell_length_c   4.54834400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.55964414
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrLa(Cd2Pt)4
+_chemical_formula_sum   'Sr1 La1 Cd8 Pt4'
+_cell_volume   314.99979138
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.000000  0.000000  0.000000  1
+  La  La1  1  0.500000  0.500000  0.500000  1
+  Cd  Cd2  1  0.343050  0.092334  0.500000  1
+  Cd  Cd3  1  0.656950  0.907666  0.500000  1
+  Cd  Cd4  1  0.844421  0.407431  0.000000  1
+  Cd  Cd5  1  0.155579  0.592569  0.000000  1
+  Cd  Cd6  1  0.092334  0.343050  0.500000  1
+  Cd  Cd7  1  0.907666  0.656950  0.500000  1
+  Cd  Cd8  1  0.407431  0.844421  0.000000  1
+  Cd  Cd9  1  0.592569  0.155579  0.000000  1
+  Pt  Pt10  1  0.772443  0.227557  0.500000  1
+  Pt  Pt11  1  0.227557  0.772443  0.500000  1
+  Pt  Pt12  1  0.290219  0.290219  0.000000  1
+  Pt  Pt13  1  0.709781  0.709781  0.000000  1

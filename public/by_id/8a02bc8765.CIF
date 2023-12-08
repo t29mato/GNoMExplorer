@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ti4V4GeP3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.34515300
+_cell_length_b   6.44477458
+_cell_length_c   7.77756526
+_cell_angle_alpha   89.63577312
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti4V4GeP3
+_chemical_formula_sum   'Ti4 V4 Ge1 P3'
+_cell_volume   167.67125166
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.250000  0.542794  0.172096  1
+  Ti  Ti1  1  0.750000  0.444316  0.831676  1
+  Ti  Ti2  1  0.750000  0.962971  0.659424  1
+  Ti  Ti3  1  0.250000  0.041928  0.331253  1
+  V  V4  1  0.250000  0.629237  0.554128  1
+  V  V5  1  0.750000  0.366154  0.438925  1
+  V  V6  1  0.750000  0.874562  0.068447  1
+  V  V7  1  0.250000  0.138433  0.942500  1
+  Ge  Ge8  1  0.250000  0.752451  0.860428  1
+  P  P9  1  0.750000  0.248220  0.141339  1
+  P  P10  1  0.750000  0.744748  0.360535  1
+  P  P11  1  0.250000  0.254186  0.639249  1

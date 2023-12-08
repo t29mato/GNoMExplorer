@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_BaNa(Al2Au3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47950300
+_cell_length_b   7.13770700
+_cell_length_c   13.32210600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaNa(Al2Au3)2
+_chemical_formula_sum   'Ba2 Na2 Al8 Au12'
+_cell_volume   521.04204572
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.750000  0.361699  0.076333  1
+  Ba  Ba1  1  0.750000  0.138301  0.576333  1
+  Na  Na2  1  0.250000  0.656686  0.900587  1
+  Na  Na3  1  0.250000  0.843314  0.400587  1
+  Al  Al4  1  0.000602  0.134110  0.845187  1
+  Al  Al5  1  0.499398  0.365890  0.345187  1
+  Al  Al6  1  0.496543  0.861537  0.157282  1
+  Al  Al7  1  0.003457  0.638463  0.657282  1
+  Al  Al8  1  0.003457  0.861537  0.157282  1
+  Al  Al9  1  0.496543  0.638463  0.657282  1
+  Al  Al10  1  0.499398  0.134110  0.845187  1
+  Al  Al11  1  0.000602  0.365890  0.345187  1
+  Au  Au12  1  0.250000  0.345988  0.716969  1
+  Au  Au13  1  0.250000  0.154012  0.216969  1
+  Au  Au14  1  0.750000  0.665337  0.289584  1
+  Au  Au15  1  0.750000  0.834663  0.789584  1
+  Au  Au16  1  0.250000  0.935272  0.704280  1
+  Au  Au17  1  0.250000  0.564728  0.204280  1
+  Au  Au18  1  0.750000  0.068015  0.307367  1
+  Au  Au19  1  0.750000  0.431985  0.807367  1
+  Au  Au20  1  0.250000  0.445210  0.502911  1
+  Au  Au21  1  0.250000  0.054790  0.002911  1
+  Au  Au22  1  0.750000  0.630217  0.497032  1
+  Au  Au23  1  0.750000  0.869783  0.997032  1

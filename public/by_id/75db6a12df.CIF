@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_La12Si(GeBr4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.67862519
+_cell_length_b   10.67862466
+_cell_length_c   10.67862479
+_cell_angle_alpha   109.43803141
+_cell_angle_beta   109.43803147
+_cell_angle_gamma   109.43803041
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La12Si(GeBr4)3
+_chemical_formula_sum   'La12 Si1 Ge3 Br12'
+_cell_volume   938.54828856
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.240650  0.259350  0.250000  1
+  La  La1  1  0.009347  0.490653  0.250000  1
+  La  La2  1  0.020691  0.258991  0.511809  1
+  La  La3  1  0.490653  0.750000  0.509347  1
+  La  La4  1  0.258991  0.011809  0.520691  1
+  La  La5  1  0.259350  0.750000  0.740650  1
+  La  La6  1  0.479309  0.488191  0.741009  1
+  La  La7  1  0.750000  0.240650  0.759350  1
+  La  La8  1  0.011809  0.020691  0.758991  1
+  La  La9  1  0.488191  0.241009  0.979309  1
+  La  La10  1  0.750000  0.009347  0.990653  1
+  La  La11  1  0.241009  0.479309  0.988191  1
+  Si  Si12  1  0.250000  0.250000  0.750000  1
+  Ge  Ge13  1  0.999668  0.250000  0.000332  1
+  Ge  Ge14  1  0.250000  0.500332  0.499668  1
+  Ge  Ge15  1  0.500332  0.999668  0.750000  1
+  Br  Br16  1  0.754211  0.508086  0.004058  1
+  Br  Br17  1  0.250000  0.995907  0.004094  1
+  Br  Br18  1  0.504058  0.754211  0.008086  1
+  Br  Br19  1  0.995941  0.991914  0.245789  1
+  Br  Br20  1  0.250000  0.753944  0.246056  1
+  Br  Br21  1  0.508086  0.504058  0.254211  1
+  Br  Br22  1  0.746056  0.250000  0.253944  1
+  Br  Br23  1  0.745789  0.995941  0.491914  1
+  Br  Br24  1  0.991914  0.745789  0.495941  1
+  Br  Br25  1  0.504094  0.250000  0.495907  1
+  Br  Br26  1  0.753944  0.746056  0.750000  1
+  Br  Br27  1  0.995907  0.504094  0.750000  1

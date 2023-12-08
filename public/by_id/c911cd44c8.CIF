@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Lu2Th(SnRu)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.62321800
+_cell_length_b   7.39202724
+_cell_length_c   3.95174400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   121.04009899
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2Th(SnRu)3
+_chemical_formula_sum   'Lu2 Th1 Sn3 Ru3'
+_cell_volume   190.79787020
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.998295  0.594035  0.500000  1
+  Lu  Lu1  1  0.404261  0.405965  0.500000  1
+  Th  Th2  1  0.580865  0.000000  0.500000  1
+  Sn  Sn3  1  0.742670  0.727484  0.000000  1
+  Sn  Sn4  1  0.015186  0.272516  0.000000  1
+  Sn  Sn5  1  0.242633  0.000000  0.000000  1
+  Ru  Ru6  1  0.353033  0.685700  0.000000  1
+  Ru  Ru7  1  0.995723  0.000000  0.500000  1
+  Ru  Ru8  1  0.667334  0.314300  0.000000  1

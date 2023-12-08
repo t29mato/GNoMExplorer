@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_LaCuPtO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.54145817
+_cell_length_b   6.54145853
+_cell_length_c   6.65443160
+_cell_angle_alpha   125.22921194
+_cell_angle_beta   127.32158959
+_cell_angle_gamma   78.25418392
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaCuPtO4
+_chemical_formula_sum   'La2 Cu2 Pt2 O8'
+_cell_volume   180.22775915
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.000566  0.000566  0.000000  1
+  La  La1  1  0.749434  0.249434  0.500000  1
+  Cu  Cu2  1  0.375000  0.625000  0.250000  1
+  Cu  Cu3  1  0.375000  0.125000  0.750000  1
+  Pt  Pt4  1  0.375000  0.625000  0.750000  1
+  Pt  Pt5  1  0.875000  0.625000  0.250000  1
+  O  O6  1  0.723507  0.297618  0.127725  1
+  O  O7  1  0.169893  0.595783  0.872275  1
+  O  O8  1  0.026493  0.952382  0.372275  1
+  O  O9  1  0.580107  0.654217  0.627725  1
+  O  O10  1  0.057834  0.409535  0.057610  1
+  O  O11  1  0.351925  0.000223  0.942390  1
+  O  O12  1  0.398075  0.249777  0.557610  1
+  O  O13  1  0.692166  0.840465  0.442390  1

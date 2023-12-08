@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Th(MoC)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.24364253
+_cell_length_b   6.24364256
+_cell_length_c   6.24364300
+_cell_angle_alpha   93.96791284
+_cell_angle_beta   93.96791762
+_cell_angle_gamma   149.49718966
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Th(MoC)4
+_chemical_formula_sum   'Th1 Mo4 C4'
+_cell_volume   119.19220604
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.000000  0.000000  0.000000  1
+  Mo  Mo1  1  0.632982  0.820888  0.453870  1
+  Mo  Mo2  1  0.367018  0.179112  0.546130  1
+  Mo  Mo3  1  0.820888  0.367018  0.187905  1
+  Mo  Mo4  1  0.179112  0.632982  0.812095  1
+  C  C5  1  0.266031  0.402126  0.668157  1
+  C  C6  1  0.733969  0.597874  0.331843  1
+  C  C7  1  0.402126  0.733969  0.136094  1
+  C  C8  1  0.597874  0.266031  0.863906  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CsNp(AsO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.44228257
+_cell_length_b   5.44266099
+_cell_length_c   9.17560109
+_cell_angle_alpha   94.15575199
+_cell_angle_beta   94.15387564
+_cell_angle_gamma   64.54225075
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsNp(AsO4)2
+_chemical_formula_sum   'Cs1 Np1 As2 O8'
+_cell_volume   244.49359780
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.000000  0.000000  0.000000  1
+  Np  Np1  1  0.000000  0.000000  0.499999  1
+  As  As2  1  0.632283  0.632268  0.296765  1
+  As  As3  1  0.367716  0.367731  0.703235  1
+  O  O4  1  0.682623  0.682600  0.127502  1
+  O  O5  1  0.766686  0.288752  0.335420  1
+  O  O6  1  0.288738  0.766704  0.335419  1
+  O  O7  1  0.777065  0.777056  0.436427  1
+  O  O8  1  0.222936  0.222945  0.563573  1
+  O  O9  1  0.711262  0.233296  0.664580  1
+  O  O10  1  0.233314  0.711248  0.664579  1
+  O  O11  1  0.317376  0.317399  0.872499  1

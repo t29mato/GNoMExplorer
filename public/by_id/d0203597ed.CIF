@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_PrCdGa3Co
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.24151768
+_cell_length_b   6.61614900
+_cell_length_c   8.37871367
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   104.66180124
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrCdGa3Co
+_chemical_formula_sum   'Pr2 Cd2 Ga6 Co2'
+_cell_volume   227.47122911
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.876184  0.750000  0.752367  1
+  Pr  Pr1  1  0.123816  0.250000  0.247633  1
+  Cd  Cd2  1  0.500000  0.500000  0.000000  1
+  Cd  Cd3  1  0.500000  0.000000  0.000000  1
+  Ga  Ga4  1  0.077469  0.750000  0.154940  1
+  Ga  Ga5  1  0.922531  0.250000  0.845060  1
+  Ga  Ga6  1  0.691895  0.551936  0.383791  1
+  Ga  Ga7  1  0.308105  0.448064  0.616209  1
+  Ga  Ga8  1  0.691895  0.948064  0.383791  1
+  Ga  Ga9  1  0.308105  0.051936  0.616209  1
+  Co  Co10  1  0.222126  0.750000  0.444252  1
+  Co  Co11  1  0.777874  0.250000  0.555748  1

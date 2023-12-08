@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Hg2P6Pd20Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.61217943
+_cell_length_b   8.61217980
+_cell_length_c   8.61217900
+_cell_angle_alpha   59.99999922
+_cell_angle_beta   59.99999780
+_cell_angle_gamma   59.99999330
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hg2P6Pd20Au
+_chemical_formula_sum   'Hg2 P6 Pd20 Au1'
+_cell_volume   451.67304727
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.250000  0.250000  0.250000  1
+  Hg  Hg1  1  0.750000  0.750000  0.750000  1
+  P  P2  1  0.733923  0.733923  0.266077  1
+  P  P3  1  0.266077  0.266077  0.733923  1
+  P  P4  1  0.266077  0.733923  0.733923  1
+  P  P5  1  0.733923  0.266077  0.733923  1
+  P  P6  1  0.266077  0.733923  0.266077  1
+  P  P7  1  0.733923  0.266077  0.266077  1
+  Pd  Pd8  1  0.616098  0.616098  0.616098  1
+  Pd  Pd9  1  0.383902  0.848291  0.383902  1
+  Pd  Pd10  1  0.657844  0.342156  0.000000  1
+  Pd  Pd11  1  0.000000  0.342156  0.657844  1
+  Pd  Pd12  1  0.657844  0.000000  0.000000  1
+  Pd  Pd13  1  0.616098  0.616098  0.151709  1
+  Pd  Pd14  1  0.000000  0.000000  0.657844  1
+  Pd  Pd15  1  0.000000  0.342156  0.000000  1
+  Pd  Pd16  1  0.657844  0.000000  0.342156  1
+  Pd  Pd17  1  0.342156  0.000000  0.000000  1
+  Pd  Pd18  1  0.000000  0.657844  0.000000  1
+  Pd  Pd19  1  0.342156  0.000000  0.657844  1
+  Pd  Pd20  1  0.000000  0.657844  0.342156  1
+  Pd  Pd21  1  0.342156  0.657844  0.000000  1
+  Pd  Pd22  1  0.151709  0.616098  0.616098  1
+  Pd  Pd23  1  0.383902  0.383902  0.383902  1
+  Pd  Pd24  1  0.848291  0.383902  0.383902  1
+  Pd  Pd25  1  0.383902  0.383902  0.848291  1
+  Pd  Pd26  1  0.616098  0.151709  0.616098  1
+  Pd  Pd27  1  0.000000  0.000000  0.342156  1
+  Au  Au28  1  0.000000  0.000000  0.000000  1

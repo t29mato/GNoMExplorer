@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Dy3Th(Fe2Te)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.99864600
+_cell_length_b   3.99864599
+_cell_length_c   16.49748400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000012
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy3Th(Fe2Te)2
+_chemical_formula_sum   'Dy3 Th1 Fe4 Te2'
+_cell_volume   228.44110958
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.000000  0.000000  0.387353  1
+  Dy  Dy1  1  0.000000  0.000000  0.617575  1
+  Dy  Dy2  1  0.000000  0.000000  0.879854  1
+  Th  Th3  1  0.000000  0.000000  0.112072  1
+  Fe  Fe4  1  0.333334  0.666667  0.000376  1
+  Fe  Fe5  1  0.333334  0.666667  0.500285  1
+  Fe  Fe6  1  0.666666  0.333334  0.503603  1
+  Fe  Fe7  1  0.666666  0.333334  0.994697  1
+  Te  Te8  1  0.666666  0.333334  0.254912  1
+  Te  Te9  1  0.333334  0.666667  0.749274  1

@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_LuZr(Al3Co)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.32744800
+_cell_length_b   7.31401170
+_cell_length_c   9.13189800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.40089402
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuZr(Al3Co)3
+_chemical_formula_sum   'Lu2 Zr2 Al18 Co6'
+_cell_volume   426.37367288
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.672307  0.992345  0.250000  1
+  Lu  Lu1  1  0.327693  0.007655  0.750000  1
+  Zr  Zr2  1  0.994027  0.672132  0.250000  1
+  Zr  Zr3  1  0.005973  0.327868  0.750000  1
+  Al  Al4  1  0.121008  0.118873  0.250000  1
+  Al  Al5  1  0.878992  0.881127  0.750000  1
+  Al  Al6  1  0.329793  0.331255  0.545964  1
+  Al  Al7  1  0.670207  0.668745  0.045964  1
+  Al  Al8  1  0.329793  0.331255  0.954036  1
+  Al  Al9  1  0.670207  0.668745  0.454036  1
+  Al  Al10  1  0.334677  0.555808  0.250000  1
+  Al  Al11  1  0.665323  0.444192  0.750000  1
+  Al  Al12  1  0.561981  0.344244  0.250000  1
+  Al  Al13  1  0.438019  0.655756  0.750000  1
+  Al  Al14  1  0.995885  0.336401  0.072129  1
+  Al  Al15  1  0.004115  0.663599  0.572129  1
+  Al  Al16  1  0.333589  0.995336  0.425960  1
+  Al  Al17  1  0.666411  0.004664  0.925960  1
+  Al  Al18  1  0.004115  0.663599  0.927871  1
+  Al  Al19  1  0.995885  0.336401  0.427871  1
+  Al  Al20  1  0.666411  0.004664  0.574040  1
+  Al  Al21  1  0.333589  0.995336  0.074040  1
+  Co  Co22  1  0.000000  0.000000  0.000000  1
+  Co  Co23  1  0.000000  0.000000  0.500000  1
+  Co  Co24  1  0.671667  0.328353  0.999330  1
+  Co  Co25  1  0.328333  0.671647  0.499330  1
+  Co  Co26  1  0.328333  0.671647  0.000670  1
+  Co  Co27  1  0.671667  0.328353  0.500670  1

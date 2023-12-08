@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_TbHo3Fe2(Co2B)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.05924600
+_cell_length_b   5.05868430
+_cell_length_c   12.62905700
+_cell_angle_alpha   90.00003381
+_cell_angle_beta   90.00022889
+_cell_angle_gamma   120.00537086
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbHo3Fe2(Co2B)6
+_chemical_formula_sum   'Tb1 Ho3 Fe2 Co12 B6'
+_cell_volume   279.89904888
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.999989  0.000000  0.000021  1
+  Ho  Ho1  1  0.999993  0.000000  0.499985  1
+  Ho  Ho2  1  0.999982  0.999997  0.260483  1
+  Ho  Ho3  1  0.999995  0.000000  0.739457  1
+  Fe  Fe4  1  0.333329  0.666678  0.000050  1
+  Fe  Fe5  1  0.666651  0.333325  0.000050  1
+  Co  Co6  1  0.499962  0.999953  0.156037  1
+  Co  Co7  1  0.499962  0.500023  0.156030  1
+  Co  Co8  1  0.000036  0.500024  0.156033  1
+  Co  Co9  1  0.499972  0.999953  0.843980  1
+  Co  Co10  1  0.499973  0.500026  0.844034  1
+  Co  Co11  1  0.000045  0.500024  0.844034  1
+  Co  Co12  1  0.499991  0.000000  0.384909  1
+  Co  Co13  1  0.499991  0.500000  0.384882  1
+  Co  Co14  1  0.999990  0.499999  0.384884  1
+  Co  Co15  1  0.499995  0.000001  0.615058  1
+  Co  Co16  1  0.499997  0.500001  0.615074  1
+  Co  Co17  1  0.999994  0.499999  0.615071  1
+  B  B18  1  0.333299  0.666627  0.499988  1
+  B  B19  1  0.666683  0.333372  0.499988  1
+  B  B20  1  0.333283  0.666617  0.268475  1
+  B  B21  1  0.666695  0.333381  0.268471  1
+  B  B22  1  0.666584  0.333217  0.731504  1
+  B  B23  1  0.333407  0.666782  0.731499  1

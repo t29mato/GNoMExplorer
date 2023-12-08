@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Li2Fe(SnRh2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.40879501
+_cell_length_b   6.20633600
+_cell_length_c   13.28416104
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.99072841
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Fe(SnRh2)3
+_chemical_formula_sum   'Li4 Fe2 Sn6 Rh12'
+_cell_volume   363.48736313
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.999786  0.000000  0.333871  1
+  Li  Li1  1  0.500060  0.499999  0.500868  1
+  Li  Li2  1  0.000259  0.000000  0.665706  1
+  Li  Li3  1  0.500051  0.499999  0.832784  1
+  Fe  Fe4  1  0.999874  0.000000  0.998747  1
+  Fe  Fe5  1  0.499776  0.499999  0.167943  1
+  Sn  Sn6  1  0.000532  0.499999  0.994709  1
+  Sn  Sn7  1  0.499084  0.000000  0.171998  1
+  Sn  Sn8  1  0.000403  0.499999  0.338441  1
+  Sn  Sn9  1  0.499903  0.000000  0.500465  1
+  Sn  Sn10  1  0.000804  0.499999  0.666142  1
+  Sn  Sn11  1  0.499520  0.000000  0.828273  1
+  Rh  Rh12  1  0.500060  0.243192  0.003241  1
+  Rh  Rh13  1  0.500060  0.756808  0.003241  1
+  Rh  Rh14  1  0.999645  0.256654  0.163408  1
+  Rh  Rh15  1  0.999645  0.743344  0.163408  1
+  Rh  Rh16  1  0.499988  0.254817  0.331937  1
+  Rh  Rh17  1  0.499988  0.745183  0.331937  1
+  Rh  Rh18  1  0.000041  0.247920  0.500668  1
+  Rh  Rh19  1  0.000041  0.752080  0.500668  1
+  Rh  Rh20  1  0.500332  0.252163  0.665993  1
+  Rh  Rh21  1  0.500332  0.747837  0.665993  1
+  Rh  Rh22  1  0.999904  0.245167  0.834781  1
+  Rh  Rh23  1  0.999904  0.754831  0.834781  1

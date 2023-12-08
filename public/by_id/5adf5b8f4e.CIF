@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_ErFePH
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.76231800
+_cell_length_b   3.76350400
+_cell_length_c   14.53993100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErFePH
+_chemical_formula_sum   'Er4 Fe4 P4 H4'
+_cell_volume   205.87813616
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.250000  0.745229  0.414340  1
+  Er  Er1  1  0.250000  0.754771  0.914340  1
+  Er  Er2  1  0.750000  0.254771  0.585660  1
+  Er  Er3  1  0.750000  0.245229  0.085660  1
+  Fe  Fe4  1  0.250000  0.241286  0.249932  1
+  Fe  Fe5  1  0.750000  0.758714  0.750068  1
+  Fe  Fe6  1  0.250000  0.258714  0.749932  1
+  Fe  Fe7  1  0.750000  0.741286  0.250068  1
+  P  P8  1  0.250000  0.742045  0.169581  1
+  P  P9  1  0.750000  0.242045  0.330419  1
+  P  P10  1  0.750000  0.257955  0.830419  1
+  P  P11  1  0.250000  0.757955  0.669581  1
+  H  H12  1  0.750000  0.752170  0.500055  1
+  H  H13  1  0.750000  0.747830  0.000055  1
+  H  H14  1  0.250000  0.247830  0.499945  1
+  H  H15  1  0.250000  0.252170  0.999945  1

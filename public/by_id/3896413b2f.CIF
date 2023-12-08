@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_EuTeBr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.49596700
+_cell_length_b   7.77282522
+_cell_length_c   6.05807730
+_cell_angle_alpha   89.87913288
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuTeBr
+_chemical_formula_sum   'Eu4 Te4 Br4'
+_cell_volume   400.06039854
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.943088  0.246804  0.247734  1
+  Eu  Eu1  1  0.443088  0.753196  0.252266  1
+  Eu  Eu2  1  0.056912  0.753196  0.752266  1
+  Eu  Eu3  1  0.556912  0.246804  0.747734  1
+  Te  Te4  1  0.750531  0.928315  0.500159  1
+  Te  Te5  1  0.250531  0.071685  0.999841  1
+  Te  Te6  1  0.249469  0.071685  0.499841  1
+  Te  Te7  1  0.749469  0.928315  0.000159  1
+  Br  Br8  1  0.898409  0.392133  0.748805  1
+  Br  Br9  1  0.398409  0.607867  0.751195  1
+  Br  Br10  1  0.101591  0.607867  0.251195  1
+  Br  Br11  1  0.601591  0.392133  0.248805  1

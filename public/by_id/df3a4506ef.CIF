@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Li3InGaPt3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.97065147
+_cell_length_b   6.97065057
+_cell_length_c   6.97065038
+_cell_angle_alpha   62.48789832
+_cell_angle_beta   62.48790326
+_cell_angle_gamma   62.48790538
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3InGaPt3
+_chemical_formula_sum   'Li6 In2 Ga2 Pt6'
+_cell_volume   252.77962716
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.570980  0.829387  0.336520  1
+  Li  Li1  1  0.336520  0.570980  0.829387  1
+  Li  Li2  1  0.829387  0.336520  0.570980  1
+  Li  Li3  1  0.663480  0.170613  0.429020  1
+  Li  Li4  1  0.170613  0.429020  0.663480  1
+  Li  Li5  1  0.429020  0.663480  0.170613  1
+  In  In6  1  0.274359  0.274359  0.274359  1
+  In  In7  1  0.725641  0.725641  0.725641  1
+  Ga  Ga8  1  0.909978  0.909978  0.909978  1
+  Ga  Ga9  1  0.090022  0.090022  0.090022  1
+  Pt  Pt10  1  0.887149  0.500000  0.112851  1
+  Pt  Pt11  1  0.112851  0.887149  0.500000  1
+  Pt  Pt12  1  0.500000  0.112851  0.887149  1
+  Pt  Pt13  1  0.291682  0.000000  0.708318  1
+  Pt  Pt14  1  0.708318  0.291682  0.000000  1
+  Pt  Pt15  1  0.000000  0.708318  0.291682  1

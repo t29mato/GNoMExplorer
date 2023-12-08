@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SmGaCo3C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.19331900
+_cell_length_b   5.19310122
+_cell_length_c   6.60890700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00138089
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmGaCo3C
+_chemical_formula_sum   'Sm2 Ga2 Co6 C2'
+_cell_volume   154.35688887
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.999981  0.000000  0.000000  1
+  Sm  Sm1  1  0.999983  0.000000  0.500000  1
+  Ga  Ga2  1  0.333280  0.666596  0.000000  1
+  Ga  Ga3  1  0.666685  0.333404  0.000000  1
+  Co  Co4  1  0.499983  0.000000  0.306045  1
+  Co  Co5  1  0.499983  0.499999  0.306070  1
+  Co  Co6  1  0.999984  0.500001  0.306070  1
+  Co  Co7  1  0.499983  0.000000  0.693955  1
+  Co  Co8  1  0.499983  0.499999  0.693930  1
+  Co  Co9  1  0.999984  0.500001  0.693930  1
+  C  C10  1  0.333316  0.666663  0.500000  1
+  C  C11  1  0.666652  0.333337  0.500000  1

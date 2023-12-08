@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Yb4Al4ReOs3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.44309281
+_cell_length_b   5.48892755
+_cell_length_c   8.65442700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.58087801
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Yb4Al4ReOs3
+_chemical_formula_sum   'Yb4 Al4 Re1 Os3'
+_cell_volume   224.86451042
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.334838  0.666435  0.441898  1
+  Yb  Yb1  1  0.665321  0.334631  0.561426  1
+  Yb  Yb2  1  0.665321  0.334631  0.938574  1
+  Yb  Yb3  1  0.334838  0.666435  0.058102  1
+  Al  Al4  1  0.847586  0.661757  0.250000  1
+  Al  Al5  1  0.336027  0.151462  0.250000  1
+  Al  Al6  1  0.177981  0.845768  0.750000  1
+  Al  Al7  1  0.182022  0.338163  0.750000  1
+  Re  Re8  1  0.843939  0.163026  0.250000  1
+  Os  Os9  1  0.971731  0.002694  0.496039  1
+  Os  Os10  1  0.971731  0.002694  0.003961  1
+  Os  Os11  1  0.668665  0.832304  0.750000  1

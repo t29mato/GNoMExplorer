@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_SrTeS2F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.08271900
+_cell_length_b   4.08271900
+_cell_length_c   13.31988200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrTeS2F
+_chemical_formula_sum   'Sr2 Te2 S4 F2'
+_cell_volume   222.02371095
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.000000  0.499999  0.389933  1
+  Sr  Sr1  1  0.499999  0.000000  0.610067  1
+  Te  Te2  1  0.499999  0.000000  0.122307  1
+  Te  Te3  1  0.000000  0.499999  0.877693  1
+  S  S4  1  0.000000  0.499999  0.112276  1
+  S  S5  1  0.499999  0.000000  0.302695  1
+  S  S6  1  0.000000  0.499999  0.697305  1
+  S  S7  1  0.499999  0.000000  0.887724  1
+  F  F8  1  0.000000  0.000000  0.500000  1
+  F  F9  1  0.499999  0.499999  0.500000  1

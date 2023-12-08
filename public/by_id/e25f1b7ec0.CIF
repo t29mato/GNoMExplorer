@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Np3Sc(GePt)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.42454200
+_cell_length_b   6.99486531
+_cell_length_c   7.52845403
+_cell_angle_alpha   90.01182378
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Np3Sc(GePt)4
+_chemical_formula_sum   'Np3 Sc1 Ge4 Pt4'
+_cell_volume   232.99868590
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Np  Np0  1  0.250000  0.994791  0.302297  1
+  Np  Np1  1  0.250000  0.498725  0.198864  1
+  Np  Np2  1  0.750000  0.007205  0.704735  1
+  Sc  Sc3  1  0.750000  0.501408  0.793687  1
+  Ge  Ge4  1  0.250000  0.314107  0.591295  1
+  Ge  Ge5  1  0.250000  0.807351  0.908424  1
+  Ge  Ge6  1  0.750000  0.690761  0.415617  1
+  Ge  Ge7  1  0.750000  0.188998  0.085838  1
+  Pt  Pt8  1  0.250000  0.222244  0.917319  1
+  Pt  Pt9  1  0.250000  0.695504  0.587203  1
+  Pt  Pt10  1  0.750000  0.786194  0.077259  1
+  Pt  Pt11  1  0.750000  0.292711  0.417461  1

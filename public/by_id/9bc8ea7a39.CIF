@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Yb2Cu(PtO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.16266005
+_cell_length_b   5.79061501
+_cell_length_c   6.16265907
+_cell_angle_alpha   62.50088235
+_cell_angle_beta   61.71268570
+_cell_angle_gamma   62.50087258
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Yb2Cu(PtO4)2
+_chemical_formula_sum   'Yb2 Cu1 Pt2 O8'
+_cell_volume   163.25779049
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.843467  0.888426  0.843467  1
+  Yb  Yb1  1  0.156533  0.111574  0.156533  1
+  Cu  Cu2  1  0.500000  0.000000  0.500000  1
+  Pt  Pt3  1  0.000000  0.500000  0.500000  1
+  Pt  Pt4  1  0.500000  0.500000  0.000000  1
+  O  O5  1  0.655419  0.431230  0.655419  1
+  O  O6  1  0.344581  0.568770  0.344581  1
+  O  O7  1  0.151839  0.093480  0.554413  1
+  O  O8  1  0.554413  0.093480  0.151839  1
+  O  O9  1  0.111460  0.557906  0.111460  1
+  O  O10  1  0.445587  0.906520  0.848161  1
+  O  O11  1  0.848161  0.906520  0.445587  1
+  O  O12  1  0.888540  0.442094  0.888540  1

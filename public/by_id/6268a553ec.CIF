@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_PrHoCo2Br
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.93608600
+_cell_length_b   3.93608510
+_cell_length_c   16.79877200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999080
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrHoCo2Br
+_chemical_formula_sum   'Pr2 Ho2 Co4 Br2'
+_cell_volume   225.39136072
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.000000  0.000000  0.613081  1
+  Pr  Pr1  1  0.000000  0.000000  0.386919  1
+  Ho  Ho2  1  0.000000  0.000000  0.103589  1
+  Ho  Ho3  1  0.000000  0.000000  0.896411  1
+  Co  Co4  1  0.333333  0.666667  0.499855  1
+  Co  Co5  1  0.666667  0.333333  0.500145  1
+  Co  Co6  1  0.666667  0.333333  0.002423  1
+  Co  Co7  1  0.333333  0.666667  0.997577  1
+  Br  Br8  1  0.333333  0.666667  0.240232  1
+  Br  Br9  1  0.666667  0.333333  0.759768  1

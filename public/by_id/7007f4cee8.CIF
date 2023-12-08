@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TaSi2MoIr2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.83512500
+_cell_length_b   6.36090600
+_cell_length_c   7.24125900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaSi2MoIr2
+_chemical_formula_sum   'Ta2 Si4 Mo2 Ir4'
+_cell_volume   176.64956921
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.750000  0.022220  0.670721  1
+  Ta  Ta1  1  0.250000  0.477780  0.170721  1
+  Si  Si2  1  0.250000  0.237994  0.874191  1
+  Si  Si3  1  0.250000  0.728012  0.624862  1
+  Si  Si4  1  0.750000  0.771988  0.124862  1
+  Si  Si5  1  0.750000  0.262006  0.374191  1
+  Mo  Mo6  1  0.750000  0.528619  0.832662  1
+  Mo  Mo7  1  0.250000  0.971381  0.332662  1
+  Ir  Ir8  1  0.250000  0.855419  0.935408  1
+  Ir  Ir9  1  0.250000  0.351229  0.562155  1
+  Ir  Ir10  1  0.750000  0.644581  0.435408  1
+  Ir  Ir11  1  0.750000  0.148771  0.062155  1

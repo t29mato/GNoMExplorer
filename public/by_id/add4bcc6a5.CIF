@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_SmEu3(Tc2O7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.37527834
+_cell_length_b   7.37527859
+_cell_length_c   7.37527814
+_cell_angle_alpha   59.87922316
+_cell_angle_beta   59.87922475
+_cell_angle_gamma   59.87922102
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmEu3(Tc2O7)2
+_chemical_formula_sum   'Sm1 Eu3 Tc4 O14'
+_cell_volume   282.89709016
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.625000  0.625000  0.625000  1
+  Eu  Eu1  1  0.625000  0.125000  0.625000  1
+  Eu  Eu2  1  0.125000  0.625000  0.625000  1
+  Eu  Eu3  1  0.625000  0.625000  0.125000  1
+  Tc  Tc4  1  0.125000  0.625000  0.125000  1
+  Tc  Tc5  1  0.625000  0.125000  0.125000  1
+  Tc  Tc6  1  0.125000  0.125000  0.625000  1
+  Tc  Tc7  1  0.125000  0.125000  0.125000  1
+  O  O8  1  0.201175  0.201175  0.798610  1
+  O  O9  1  0.201175  0.798610  0.201175  1
+  O  O10  1  0.795814  0.795814  0.208341  1
+  O  O11  1  0.048825  0.451390  0.048825  1
+  O  O12  1  0.451390  0.048825  0.048825  1
+  O  O13  1  0.208341  0.795814  0.795814  1
+  O  O14  1  0.748771  0.748771  0.748771  1
+  O  O15  1  0.798610  0.201175  0.201175  1
+  O  O16  1  0.041659  0.454186  0.454186  1
+  O  O17  1  0.501229  0.501229  0.501229  1
+  O  O18  1  0.454186  0.041659  0.454186  1
+  O  O19  1  0.048825  0.048825  0.451390  1
+  O  O20  1  0.454186  0.454186  0.041659  1
+  O  O21  1  0.795814  0.208341  0.795814  1

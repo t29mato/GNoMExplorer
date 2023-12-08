@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Lu5In2Ga
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.85609853
+_cell_length_b   8.85626656
+_cell_length_c   8.85609758
+_cell_angle_alpha   96.43491664
+_cell_angle_beta   96.44020720
+_cell_angle_gamma   140.87236225
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu5In2Ga
+_chemical_formula_sum   'Lu10 In4 Ga2'
+_cell_volume   413.02701983
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.749998  0.250000  0.499998  1
+  Lu  Lu1  1  0.250002  0.750000  0.500002  1
+  Lu  Lu2  1  0.210135  0.920256  0.130380  1
+  Lu  Lu3  1  0.079754  0.210122  0.289882  1
+  Lu  Lu4  1  0.920246  0.789878  0.710118  1
+  Lu  Lu5  1  0.789865  0.079744  0.869620  1
+  Lu  Lu6  1  0.420240  0.710122  0.130369  1
+  Lu  Lu7  1  0.579760  0.289878  0.869631  1
+  Lu  Lu8  1  0.710125  0.579744  0.289880  1
+  Lu  Lu9  1  0.289875  0.420256  0.710120  1
+  In  In10  1  0.662120  0.837762  0.499724  1
+  In  In11  1  0.161962  0.662238  0.824359  1
+  In  In12  1  0.838038  0.337762  0.175641  1
+  In  In13  1  0.337880  0.162238  0.500276  1
+  Ga  Ga14  1  0.250010  0.250000  0.000010  1
+  Ga  Ga15  1  0.749990  0.750000  0.999990  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TbNd2Tm(NiP)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.92989100
+_cell_length_b   3.92989123
+_cell_length_c   15.84320500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99998961
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbNd2Tm(NiP)4
+_chemical_formula_sum   'Tb1 Nd2 Tm1 Ni4 P4'
+_cell_volume   211.90185308
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.000000  0.000000  0.250000  1
+  Nd  Nd1  1  0.000000  0.000000  0.502318  1
+  Nd  Nd2  1  0.000000  0.000000  0.997682  1
+  Tm  Tm3  1  0.000000  0.000000  0.750000  1
+  Ni  Ni4  1  0.333333  0.666667  0.369681  1
+  Ni  Ni5  1  0.666667  0.333333  0.637171  1
+  Ni  Ni6  1  0.666667  0.333333  0.862829  1
+  Ni  Ni7  1  0.333333  0.666667  0.130319  1
+  P  P8  1  0.333333  0.666667  0.871363  1
+  P  P9  1  0.666667  0.333333  0.126615  1
+  P  P10  1  0.666667  0.333333  0.373385  1
+  P  P11  1  0.333333  0.666667  0.628637  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CaCe(AlIr)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.06675200
+_cell_length_b   4.18451700
+_cell_length_c   8.01872000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaCe(AlIr)2
+_chemical_formula_sum   'Ca2 Ce2 Al4 Ir4'
+_cell_volume   237.12111910
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.966191  0.250000  0.183774  1
+  Ca  Ca1  1  0.466191  0.250000  0.316226  1
+  Ce  Ce2  1  0.032467  0.750000  0.824229  1
+  Ce  Ce3  1  0.532467  0.750000  0.675771  1
+  Al  Al4  1  0.864664  0.250000  0.557349  1
+  Al  Al5  1  0.364664  0.250000  0.942651  1
+  Al  Al6  1  0.137166  0.750000  0.433252  1
+  Al  Al7  1  0.637166  0.750000  0.066748  1
+  Ir  Ir8  1  0.728565  0.250000  0.869493  1
+  Ir  Ir9  1  0.228565  0.250000  0.630507  1
+  Ir  Ir10  1  0.270947  0.750000  0.107513  1
+  Ir  Ir11  1  0.770947  0.750000  0.392487  1

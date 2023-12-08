@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ta3Ti(VP)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.40752600
+_cell_length_b   6.38511923
+_cell_length_c   7.68969204
+_cell_angle_alpha   90.28748719
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta3Ti(VP)4
+_chemical_formula_sum   'Ta3 Ti1 V4 P4'
+_cell_volume   167.30605919
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.250000  0.536672  0.168560  1
+  Ta  Ta1  1  0.750000  0.460792  0.831659  1
+  Ta  Ta2  1  0.750000  0.961762  0.667595  1
+  Ti  Ti3  1  0.250000  0.037891  0.331279  1
+  V  V4  1  0.250000  0.636460  0.557041  1
+  V  V5  1  0.750000  0.363952  0.441961  1
+  V  V6  1  0.750000  0.863125  0.058051  1
+  V  V7  1  0.250000  0.138754  0.941936  1
+  P  P8  1  0.250000  0.761231  0.860411  1
+  P  P9  1  0.750000  0.235226  0.144876  1
+  P  P10  1  0.750000  0.745306  0.359391  1
+  P  P11  1  0.250000  0.258827  0.637240  1

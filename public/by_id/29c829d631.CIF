@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Th2C2S
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.26286203
+_cell_length_b   7.26279130
+_cell_length_c   6.79262218
+_cell_angle_alpha   102.26678292
+_cell_angle_beta   102.26620086
+_cell_angle_gamma   32.90280783
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Th2C2S
+_chemical_formula_sum   'Th4 C4 S2'
+_cell_volume   189.79913727
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.435350  0.842928  0.145734  1
+  Th  Th1  1  0.157042  0.564695  0.354263  1
+  Th  Th2  1  0.842958  0.435305  0.645736  1
+  Th  Th3  1  0.564650  0.157072  0.854267  1
+  C  C4  1  0.089665  0.351637  0.028032  1
+  C  C5  1  0.648348  0.910356  0.471964  1
+  C  C6  1  0.351652  0.089644  0.528036  1
+  C  C7  1  0.910335  0.648363  0.971969  1
+  S  S8  1  0.793118  0.206886  0.250000  1
+  S  S9  1  0.206882  0.793114  0.750001  1

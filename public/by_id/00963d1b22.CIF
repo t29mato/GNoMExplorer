@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Tb15Ce(CdFe)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.57330513
+_cell_length_b   9.57330568
+_cell_length_c   9.34243100
+_cell_angle_alpha   60.79460844
+_cell_angle_beta   60.79460659
+_cell_angle_gamma   60.17800931
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb15Ce(CdFe)4
+_chemical_formula_sum   'Tb15 Ce1 Cd4 Fe4'
+_cell_volume   613.44582453
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.599662  0.599662  0.591449  1
+  Tb  Tb1  1  0.192309  0.806052  0.810403  1
+  Tb  Tb2  1  0.059622  0.059622  0.440378  1
+  Tb  Tb3  1  0.438998  0.056191  0.064992  1
+  Tb  Tb4  1  0.806052  0.192309  0.810403  1
+  Tb  Tb5  1  0.438998  0.056191  0.439819  1
+  Tb  Tb6  1  0.591459  0.217593  0.595474  1
+  Tb  Tb7  1  0.815456  0.815456  0.184544  1
+  Tb  Tb8  1  0.217593  0.591459  0.595474  1
+  Tb  Tb9  1  0.806052  0.192309  0.191236  1
+  Tb  Tb10  1  0.056191  0.438998  0.439819  1
+  Tb  Tb11  1  0.192309  0.806052  0.191236  1
+  Tb  Tb12  1  0.599662  0.599662  0.209227  1
+  Tb  Tb13  1  0.178187  0.178187  0.821813  1
+  Tb  Tb14  1  0.056191  0.438998  0.064992  1
+  Ce  Ce15  1  0.430982  0.430982  0.069018  1
+  Cd  Cd16  1  0.830677  0.830677  0.509361  1
+  Cd  Cd17  1  0.830677  0.830677  0.829286  1
+  Cd  Cd18  1  0.510990  0.834415  0.827297  1
+  Cd  Cd19  1  0.834415  0.510990  0.827297  1
+  Fe  Fe20  1  0.401607  0.401607  0.335627  1
+  Fe  Fe21  1  0.831107  0.379197  0.394848  1
+  Fe  Fe22  1  0.379197  0.831107  0.394848  1
+  Fe  Fe23  1  0.401607  0.401607  0.861159  1

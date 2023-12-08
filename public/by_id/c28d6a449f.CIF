@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HoTh(MgRh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.06330600
+_cell_length_b   7.20214816
+_cell_length_c   8.80982518
+_cell_angle_alpha   91.42813363
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoTh(MgRh)2
+_chemical_formula_sum   'Ho2 Th2 Mg4 Rh4'
+_cell_volume   257.73532480
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.750000  0.963865  0.674602  1
+  Ho  Ho1  1  0.250000  0.036135  0.325398  1
+  Th  Th2  1  0.250000  0.536457  0.185021  1
+  Th  Th3  1  0.750000  0.463543  0.814979  1
+  Mg  Mg4  1  0.250000  0.644931  0.557137  1
+  Mg  Mg5  1  0.750000  0.355069  0.442863  1
+  Mg  Mg6  1  0.750000  0.873931  0.061787  1
+  Mg  Mg7  1  0.250000  0.126069  0.938213  1
+  Rh  Rh8  1  0.250000  0.733896  0.878320  1
+  Rh  Rh9  1  0.750000  0.266104  0.121680  1
+  Rh  Rh10  1  0.750000  0.748575  0.364169  1
+  Rh  Rh11  1  0.250000  0.251425  0.635831  1

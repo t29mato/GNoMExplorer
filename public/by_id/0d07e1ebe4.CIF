@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfSc3Co4Si3Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.96993200
+_cell_length_b   6.41333433
+_cell_length_c   6.96142804
+_cell_angle_alpha   90.04848230
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfSc3Co4Si3Ge
+_chemical_formula_sum   'Hf1 Sc3 Co4 Si3 Ge1'
+_cell_volume   177.24138355
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.250000  0.495730  0.197050  1
+  Sc  Sc1  1  0.250000  0.995131  0.301671  1
+  Sc  Sc2  1  0.750000  0.997456  0.699209  1
+  Sc  Sc3  1  0.750000  0.503899  0.802458  1
+  Co  Co4  1  0.250000  0.153464  0.944341  1
+  Co  Co5  1  0.250000  0.660422  0.563622  1
+  Co  Co6  1  0.750000  0.844697  0.066717  1
+  Co  Co7  1  0.750000  0.354288  0.423045  1
+  Si  Si8  1  0.250000  0.788564  0.895986  1
+  Si  Si9  1  0.750000  0.712618  0.392543  1
+  Si  Si10  1  0.750000  0.208265  0.106899  1
+  Ge  Ge11  1  0.250000  0.285467  0.606460  1

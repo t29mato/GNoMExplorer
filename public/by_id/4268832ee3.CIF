@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_BaReClO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.73663700
+_cell_length_b   5.87906100
+_cell_length_c   9.91671700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaReClO4
+_chemical_formula_sum   'Ba2 Re2 Cl2 O8'
+_cell_volume   276.15059872
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.488023  0.000000  0.817400  1
+  Ba  Ba1  1  0.988023  0.500000  0.182600  1
+  Re  Re2  1  0.404531  0.000000  0.367050  1
+  Re  Re3  1  0.904531  0.500000  0.632950  1
+  Cl  Cl4  1  0.994108  0.000000  0.034597  1
+  Cl  Cl5  1  0.494108  0.500000  0.965403  1
+  O  O6  1  0.037003  0.000000  0.365932  1
+  O  O7  1  0.537003  0.500000  0.634068  1
+  O  O8  1  0.511859  0.247739  0.280860  1
+  O  O9  1  0.011859  0.252261  0.719140  1
+  O  O10  1  0.011859  0.747739  0.719140  1
+  O  O11  1  0.511859  0.752261  0.280860  1
+  O  O12  1  0.520808  0.000000  0.534758  1
+  O  O13  1  0.020808  0.500000  0.465242  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ta5TiN3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.29988104
+_cell_length_b   5.29988098
+_cell_length_c   4.93820939
+_cell_angle_alpha   90.38865331
+_cell_angle_beta   90.38865177
+_cell_angle_gamma   120.38061997
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta5TiN3
+_chemical_formula_sum   'Ta5 Ti1 N3'
+_cell_volume   119.65020413
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.003334  0.338113  0.754684  1
+  Ta  Ta1  1  0.338113  0.003334  0.754684  1
+  Ta  Ta2  1  0.331571  0.331571  0.253357  1
+  Ta  Ta3  1  0.995884  0.661438  0.242820  1
+  Ta  Ta4  1  0.661438  0.995884  0.242820  1
+  Ti  Ti5  1  0.667515  0.667515  0.749379  1
+  N  N6  1  0.669862  0.335222  0.502757  1
+  N  N7  1  0.335222  0.669862  0.502757  1
+  N  N8  1  0.997062  0.997062  0.996741  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Tb2MnFe3(SiC)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.55033405
+_cell_length_b   5.55033430
+_cell_length_c   6.85945341
+_cell_angle_alpha   91.29858125
+_cell_angle_beta   88.70142188
+_cell_angle_gamma   140.38481681
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2MnFe3(SiC)2
+_chemical_formula_sum   'Tb2 Mn1 Fe3 Si2 C2'
+_cell_volume   134.70050632
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.547820  0.452180  0.247381  1
+  Tb  Tb1  1  0.452404  0.547596  0.752327  1
+  Mn  Mn2  1  0.830862  0.169138  0.440793  1
+  Fe  Fe3  1  0.833953  0.166047  0.064218  1
+  Fe  Fe4  1  0.164648  0.835352  0.937525  1
+  Fe  Fe5  1  0.172180  0.827820  0.557703  1
+  Si  Si6  1  0.267811  0.732189  0.235035  1
+  Si  Si7  1  0.729796  0.270204  0.763661  1
+  C  C8  1  0.999402  0.000598  0.000690  1
+  C  C9  1  0.001124  0.998876  0.500668  1

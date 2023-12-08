@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Mn14Cr6Ga(WC3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.44580501
+_cell_length_b   7.45471506
+_cell_length_c   7.45471505
+_cell_angle_alpha   60.12770229
+_cell_angle_beta   60.03952307
+_cell_angle_gamma   60.03952179
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn14Cr6Ga(WC3)2
+_chemical_formula_sum   'Mn14 Cr6 Ga1 W2 C6'
+_cell_volume   293.04602082
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.616382  0.614331  0.152903  1
+  Mn  Mn1  1  0.616382  0.152902  0.614331  1
+  Mn  Mn2  1  0.153152  0.615814  0.615814  1
+  Mn  Mn3  1  0.615218  0.615814  0.615814  1
+  Mn  Mn4  1  0.384833  0.382420  0.847916  1
+  Mn  Mn5  1  0.384833  0.847916  0.382420  1
+  Mn  Mn6  1  0.848621  0.383658  0.383658  1
+  Mn  Mn7  1  0.384064  0.383658  0.383658  1
+  Mn  Mn8  1  0.999932  0.999896  0.341918  1
+  Mn  Mn9  1  0.658254  0.999896  0.341918  1
+  Mn  Mn10  1  0.998610  0.659235  0.343545  1
+  Mn  Mn11  1  0.658254  0.341918  0.999896  1
+  Mn  Mn12  1  0.999932  0.341918  0.999896  1
+  Mn  Mn13  1  0.998610  0.343545  0.659235  1
+  Cr  Cr14  1  0.342360  0.656401  0.000857  1
+  Cr  Cr15  1  0.342360  0.000857  0.656401  1
+  Cr  Cr16  1  0.341789  0.000006  0.000006  1
+  Cr  Cr17  1  0.000382  0.000857  0.656401  1
+  Cr  Cr18  1  0.000382  0.656401  0.000857  1
+  Cr  Cr19  1  0.658198  0.000006  0.000006  1
+  Ga  Ga20  1  0.997615  0.002385  0.002385  1
+  W  W21  1  0.751073  0.748927  0.748927  1
+  W  W22  1  0.249411  0.250589  0.250589  1
+  C  C23  1  0.720334  0.720925  0.281364  1
+  C  C24  1  0.277376  0.720925  0.281364  1
+  C  C25  1  0.722855  0.277145  0.277145  1
+  C  C26  1  0.277376  0.281364  0.720925  1
+  C  C27  1  0.720334  0.281364  0.720925  1
+  C  C28  1  0.281077  0.718923  0.718923  1

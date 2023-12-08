@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LuPa3(SiPt)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.28762900
+_cell_length_b   7.10215295
+_cell_length_c   7.44609083
+_cell_angle_alpha   90.13936007
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuPa3(SiPt)4
+_chemical_formula_sum   'Lu1 Pa3 Si4 Pt4'
+_cell_volume   226.74319696
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.750000  0.503925  0.294570  1
+  Pa  Pa1  1  0.250000  0.992760  0.798772  1
+  Pa  Pa2  1  0.250000  0.496807  0.703575  1
+  Pa  Pa3  1  0.750000  0.004188  0.203110  1
+  Si  Si4  1  0.250000  0.802260  0.405934  1
+  Si  Si5  1  0.250000  0.298015  0.090686  1
+  Si  Si6  1  0.750000  0.191985  0.589393  1
+  Si  Si7  1  0.750000  0.699601  0.913953  1
+  Pt  Pt8  1  0.250000  0.221326  0.418986  1
+  Pt  Pt9  1  0.250000  0.695474  0.084498  1
+  Pt  Pt10  1  0.750000  0.793638  0.581966  1
+  Pt  Pt11  1  0.750000  0.300019  0.914556  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_K2CuAgO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.13194038
+_cell_length_b   7.13193996
+_cell_length_c   7.65865384
+_cell_angle_alpha   98.11018975
+_cell_angle_beta   98.11018190
+_cell_angle_gamma   134.18742876
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2CuAgO2
+_chemical_formula_sum   'K4 Cu2 Ag2 O4'
+_cell_volume   260.34045553
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.744390  0.933690  0.179887  1
+  K  K1  1  0.753802  0.564503  0.820113  1
+  K  K2  1  0.066310  0.255610  0.820113  1
+  K  K3  1  0.435497  0.246198  0.179887  1
+  Cu  Cu4  1  0.397336  0.897336  0.794673  1
+  Cu  Cu5  1  0.102664  0.602664  0.205327  1
+  Ag  Ag6  1  0.388386  0.611614  0.500000  1
+  Ag  Ag7  1  0.111614  0.888386  0.500000  1
+  O  O8  1  0.255226  0.033746  0.795718  1
+  O  O9  1  0.238028  0.459508  0.204282  1
+  O  O10  1  0.966254  0.744774  0.204282  1
+  O  O11  1  0.540492  0.761972  0.795718  1

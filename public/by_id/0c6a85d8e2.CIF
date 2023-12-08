@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Be6Ni2Os3W
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.50222000
+_cell_length_b   4.50221923
+_cell_length_c   7.06900700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000568
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Be6Ni2Os3W
+_chemical_formula_sum   'Be6 Ni2 Os3 W1'
+_cell_volume   124.09159583
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.827013  0.172987  0.254279  1
+  Be  Be1  1  0.827013  0.654028  0.254279  1
+  Be  Be2  1  0.345972  0.172987  0.254279  1
+  Be  Be3  1  0.170662  0.829338  0.747158  1
+  Be  Be4  1  0.170662  0.341324  0.747158  1
+  Be  Be5  1  0.658676  0.829338  0.747158  1
+  Ni  Ni6  1  0.000000  0.000000  0.502306  1
+  Ni  Ni7  1  0.000000  0.000000  0.002303  1
+  Os  Os8  1  0.333333  0.666667  0.431267  1
+  Os  Os9  1  0.666667  0.333333  0.555012  1
+  Os  Os10  1  0.666667  0.333333  0.944399  1
+  W  W11  1  0.333333  0.666667  0.060404  1

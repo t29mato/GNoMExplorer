@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Lu3Sc2Si3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.94941500
+_cell_length_b   8.13283978
+_cell_length_c   8.13284001
+_cell_angle_alpha   59.99782547
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu3Sc2Si3
+_chemical_formula_sum   'Lu6 Sc4 Si6'
+_cell_volume   340.78449328
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.749996  0.243849  0.756151  1
+  Lu  Lu1  1  0.749996  0.756155  0.999983  1
+  Lu  Lu2  1  0.749996  0.000017  0.243845  1
+  Lu  Lu3  1  0.249996  0.756151  0.243849  1
+  Lu  Lu4  1  0.249996  0.243845  0.000017  1
+  Lu  Lu5  1  0.249996  0.999983  0.756155  1
+  Sc  Sc6  1  0.500004  0.333339  0.333347  1
+  Sc  Sc7  1  0.500004  0.666653  0.666661  1
+  Sc  Sc8  1  0.000004  0.666661  0.666653  1
+  Sc  Sc9  1  0.000004  0.333347  0.333339  1
+  Si  Si10  1  0.750001  0.602295  0.397705  1
+  Si  Si11  1  0.750002  0.397721  0.000000  1
+  Si  Si12  1  0.750002  0.000000  0.602279  1
+  Si  Si13  1  0.250001  0.397705  0.602295  1
+  Si  Si14  1  0.250002  0.602279  0.000000  1
+  Si  Si15  1  0.250002  0.000000  0.397721  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Sc2InGaPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.51157500
+_cell_length_b   7.53047800
+_cell_length_c   3.50956500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc2InGaPt
+_chemical_formula_sum   'Sc4 In2 Ga2 Pt2'
+_cell_volume   198.52117739
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.174146  0.346177  0.500000  1
+  Sc  Sc1  1  0.333561  0.815246  0.500000  1
+  Sc  Sc2  1  0.833561  0.684754  0.500000  1
+  Sc  Sc3  1  0.674146  0.153823  0.500000  1
+  In  In4  1  0.503888  0.499777  0.000000  1
+  In  In5  1  0.003888  0.000223  0.000000  1
+  Ga  Ga6  1  0.869670  0.373627  0.000000  1
+  Ga  Ga7  1  0.369670  0.126373  0.000000  1
+  Pt  Pt8  1  0.618735  0.878852  0.000000  1
+  Pt  Pt9  1  0.118735  0.621148  0.000000  1

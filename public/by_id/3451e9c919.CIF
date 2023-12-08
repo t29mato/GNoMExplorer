@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CdGaRhO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.33683467
+_cell_length_b   6.23884721
+_cell_length_c   6.23884784
+_cell_angle_alpha   59.03477901
+_cell_angle_beta   59.47907675
+_cell_angle_gamma   59.47908549
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdGaRhO4
+_chemical_formula_sum   'Cd2 Ga2 Rh2 O8'
+_cell_volume   171.74450867
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.245395  0.254605  0.254605  1
+  Cd  Cd1  1  0.004605  0.995395  0.995395  1
+  Ga  Ga2  1  0.625000  0.625000  0.125000  1
+  Ga  Ga3  1  0.625000  0.125000  0.625000  1
+  Rh  Rh4  1  0.125000  0.625000  0.625000  1
+  Rh  Rh5  1  0.625000  0.625000  0.625000  1
+  O  O6  1  0.851925  0.864404  0.431747  1
+  O  O7  1  0.851925  0.431747  0.864404  1
+  O  O8  1  0.428324  0.860837  0.860837  1
+  O  O9  1  0.850003  0.860837  0.860837  1
+  O  O10  1  0.398075  0.385596  0.818253  1
+  O  O11  1  0.398075  0.818253  0.385596  1
+  O  O12  1  0.821676  0.389163  0.389163  1
+  O  O13  1  0.399997  0.389163  0.389163  1

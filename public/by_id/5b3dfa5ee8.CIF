@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Pa2InOsRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.68466697
+_cell_length_b   7.68466697
+_cell_length_c   3.61946600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.21847166
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pa2InOsRh
+_chemical_formula_sum   'Pa4 In2 Os2 Rh2'
+_cell_volume   213.74277636
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.671255  0.171255  0.500000  1
+  Pa  Pa1  1  0.328745  0.828745  0.500000  1
+  Pa  Pa2  1  0.164406  0.335594  0.500000  1
+  Pa  Pa3  1  0.835594  0.664406  0.500000  1
+  In  In4  1  0.000000  0.000000  0.000000  1
+  In  In5  1  0.500000  0.500000  0.000000  1
+  Os  Os6  1  0.136494  0.636494  0.000000  1
+  Os  Os7  1  0.863506  0.363506  0.000000  1
+  Rh  Rh8  1  0.633776  0.866224  0.000000  1
+  Rh  Rh9  1  0.366224  0.133776  0.000000  1

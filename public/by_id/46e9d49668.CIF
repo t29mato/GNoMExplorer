@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Lu12CdInTc3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.28387791
+_cell_length_b   8.28387884
+_cell_length_c   8.28387829
+_cell_angle_alpha   108.25403576
+_cell_angle_beta   109.59411923
+_cell_angle_gamma   110.57385258
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu12CdInTc3
+_chemical_formula_sum   'Lu12 Cd1 In1 Tc3'
+_cell_volume   437.42149727
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.306104  0.306960  0.613065  1
+  Lu  Lu1  1  0.693896  0.693040  0.386935  1
+  Lu  Lu2  1  0.693896  0.306960  0.000857  1
+  Lu  Lu3  1  0.306104  0.693040  0.999143  1
+  Lu  Lu4  1  0.189144  0.427762  0.238618  1
+  Lu  Lu5  1  0.810856  0.572238  0.761382  1
+  Lu  Lu6  1  0.189144  0.950525  0.761382  1
+  Lu  Lu7  1  0.948529  0.190243  0.758286  1
+  Lu  Lu8  1  0.810856  0.049475  0.238618  1
+  Lu  Lu9  1  0.051471  0.809757  0.241714  1
+  Lu  Lu10  1  0.431957  0.190243  0.241714  1
+  Lu  Lu11  1  0.568043  0.809757  0.758286  1
+  Cd  Cd12  1  0.500000  0.000000  0.500000  1
+  In  In13  1  0.000000  0.500000  0.500000  1
+  Tc  Tc14  1  0.368541  0.368541  0.000000  1
+  Tc  Tc15  1  0.631459  0.631459  0.000000  1
+  Tc  Tc16  1  0.000000  0.000000  0.000000  1

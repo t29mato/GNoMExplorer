@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Th2Zr3(SiGe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.48044000
+_cell_length_b   7.33443906
+_cell_length_c   7.53213132
+_cell_angle_alpha   70.51995178
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Th2Zr3(SiGe)2
+_chemical_formula_sum   'Th4 Zr6 Si4 Ge4'
+_cell_volume   389.59377402
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.672701  0.933802  0.695305  1
+  Th  Th1  1  0.327299  0.066198  0.304695  1
+  Th  Th2  1  0.172701  0.566198  0.304695  1
+  Th  Th3  1  0.827299  0.433802  0.695305  1
+  Zr  Zr4  1  0.672644  0.747965  0.243923  1
+  Zr  Zr5  1  0.327356  0.252035  0.756077  1
+  Zr  Zr6  1  0.172644  0.752035  0.756077  1
+  Zr  Zr7  1  0.827356  0.247965  0.243923  1
+  Zr  Zr8  1  0.000000  0.000000  0.000000  1
+  Zr  Zr9  1  0.500000  0.500000  0.000000  1
+  Si  Si10  1  0.875370  0.627834  0.997276  1
+  Si  Si11  1  0.124630  0.372166  0.002724  1
+  Si  Si12  1  0.375370  0.872166  0.002724  1
+  Si  Si13  1  0.624630  0.127834  0.997276  1
+  Ge  Ge14  1  0.960598  0.858777  0.415154  1
+  Ge  Ge15  1  0.039402  0.141223  0.584846  1
+  Ge  Ge16  1  0.460598  0.641223  0.584846  1
+  Ge  Ge17  1  0.539402  0.358777  0.415154  1

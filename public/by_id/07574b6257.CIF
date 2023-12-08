@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TaTi3Mn7Al
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.77620900
+_cell_length_b   4.77620847
+_cell_length_c   7.94259900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999677
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaTi3Mn7Al
+_chemical_formula_sum   'Ta1 Ti3 Mn7 Al1'
+_cell_volume   156.91334455
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.666667  0.333333  0.071738  1
+  Ti  Ti1  1  0.333333  0.666667  0.927997  1
+  Ti  Ti2  1  0.333333  0.666667  0.562284  1
+  Ti  Ti3  1  0.666667  0.333333  0.440556  1
+  Mn  Mn4  1  0.654466  0.827232  0.255925  1
+  Mn  Mn5  1  0.172768  0.827232  0.255925  1
+  Mn  Mn6  1  0.172768  0.345534  0.255925  1
+  Mn  Mn7  1  0.346089  0.173045  0.743816  1
+  Mn  Mn8  1  0.826955  0.173045  0.743816  1
+  Mn  Mn9  1  0.826955  0.653911  0.743816  1
+  Mn  Mn10  1  0.000000  0.000000  0.499488  1
+  Al  Al11  1  0.000000  0.000000  0.998716  1

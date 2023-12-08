@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_K2CrCuSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   13.55255023
+_cell_length_b   12.10550003
+_cell_length_c   7.29346909
+_cell_angle_alpha   84.77975925
+_cell_angle_beta   62.81323626
+_cell_angle_gamma   32.40700610
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2CrCuSe4
+_chemical_formula_sum   'K4 Cr2 Cu2 Se8'
+_cell_volume   448.32927077
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.679427  0.679427  0.320573  1
+  K  K1  1  0.929427  0.929427  0.570573  1
+  K  K2  1  0.320573  0.320573  0.679427  1
+  K  K3  1  0.570573  0.570573  0.929427  1
+  Cr  Cr4  1  0.750000  0.750000  0.750000  1
+  Cr  Cr5  1  0.500000  0.500000  0.500000  1
+  Cu  Cu6  1  0.000000  0.000000  0.000000  1
+  Cu  Cu7  1  0.250000  0.250000  0.250000  1
+  Se  Se8  1  0.026763  0.361257  0.672384  1
+  Se  Se9  1  0.223237  0.888743  0.577616  1
+  Se  Se10  1  0.888743  0.223237  0.310405  1
+  Se  Se11  1  0.577616  0.310405  0.223237  1
+  Se  Se12  1  0.939595  0.672384  0.361257  1
+  Se  Se13  1  0.672384  0.939595  0.026763  1
+  Se  Se14  1  0.361257  0.026763  0.939595  1
+  Se  Se15  1  0.310405  0.577616  0.888743  1

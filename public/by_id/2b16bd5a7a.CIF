@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_TbNi2(AsRh)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.94076600
+_cell_length_b   12.61951600
+_cell_length_c   11.14060600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbNi2(AsRh)3
+_chemical_formula_sum   'Tb4 Ni8 As12 Rh12'
+_cell_volume   554.02857054
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.750000  0.703821  0.087128  1
+  Tb  Tb1  1  0.250000  0.296179  0.912872  1
+  Tb  Tb2  1  0.250000  0.796179  0.587128  1
+  Tb  Tb3  1  0.750000  0.203821  0.412872  1
+  Ni  Ni4  1  0.750000  0.931786  0.968647  1
+  Ni  Ni5  1  0.250000  0.068214  0.031353  1
+  Ni  Ni6  1  0.250000  0.568214  0.468647  1
+  Ni  Ni7  1  0.750000  0.431786  0.531353  1
+  Ni  Ni8  1  0.750000  0.984808  0.592532  1
+  Ni  Ni9  1  0.250000  0.015192  0.407468  1
+  Ni  Ni10  1  0.250000  0.515192  0.092532  1
+  Ni  Ni11  1  0.750000  0.484807  0.907468  1
+  As  As12  1  0.750000  0.609322  0.585012  1
+  As  As13  1  0.250000  0.390678  0.414988  1
+  As  As14  1  0.250000  0.890678  0.085012  1
+  As  As15  1  0.750000  0.109322  0.914988  1
+  As  As16  1  0.750000  0.894540  0.408820  1
+  As  As17  1  0.250000  0.105460  0.591180  1
+  As  As18  1  0.250000  0.605460  0.908820  1
+  As  As19  1  0.750000  0.394540  0.091180  1
+  As  As20  1  0.750000  0.875617  0.768410  1
+  As  As21  1  0.250000  0.124383  0.231590  1
+  As  As22  1  0.250000  0.624383  0.268410  1
+  As  As23  1  0.750000  0.375617  0.731590  1
+  Rh  Rh24  1  0.750000  0.698987  0.391229  1
+  Rh  Rh25  1  0.250000  0.301013  0.608771  1
+  Rh  Rh26  1  0.250000  0.801013  0.891229  1
+  Rh  Rh27  1  0.750000  0.198987  0.108771  1
+  Rh  Rh28  1  0.750000  0.984469  0.212062  1
+  Rh  Rh29  1  0.250000  0.015531  0.787938  1
+  Rh  Rh30  1  0.250000  0.515531  0.712062  1
+  Rh  Rh31  1  0.750000  0.484469  0.287938  1
+  Rh  Rh32  1  0.750000  0.677788  0.781862  1
+  Rh  Rh33  1  0.250000  0.322212  0.218138  1
+  Rh  Rh34  1  0.250000  0.822212  0.281862  1
+  Rh  Rh35  1  0.750000  0.177788  0.718138  1

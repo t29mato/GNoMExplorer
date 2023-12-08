@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_SrEu2(H6Ir)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.16483100
+_cell_length_b   5.16483088
+_cell_length_c   8.62352700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999438
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrEu2(H6Ir)2
+_chemical_formula_sum   'Sr1 Eu2 H12 Ir2'
+_cell_volume   199.21764611
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.000000  0.000000  0.000000  1
+  Eu  Eu1  1  0.666667  0.333333  0.364060  1
+  Eu  Eu2  1  0.333333  0.666667  0.635940  1
+  H  H3  1  0.178375  0.821625  0.366814  1
+  H  H4  1  0.643252  0.821625  0.366814  1
+  H  H5  1  0.178375  0.356748  0.366814  1
+  H  H6  1  0.821625  0.178375  0.633186  1
+  H  H7  1  0.356748  0.178375  0.633186  1
+  H  H8  1  0.821625  0.643252  0.633186  1
+  H  H9  1  0.514915  0.029831  0.861676  1
+  H  H10  1  0.514915  0.485085  0.861676  1
+  H  H11  1  0.970169  0.485085  0.861676  1
+  H  H12  1  0.485085  0.970169  0.138324  1
+  H  H13  1  0.485085  0.514915  0.138324  1
+  H  H14  1  0.029831  0.514915  0.138324  1
+  Ir  Ir15  1  0.666667  0.333333  0.746123  1
+  Ir  Ir16  1  0.333333  0.666667  0.253877  1

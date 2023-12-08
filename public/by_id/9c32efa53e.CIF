@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Y2Zn2CuRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.10524100
+_cell_length_b   6.94350272
+_cell_length_c   8.03791954
+_cell_angle_alpha   90.80009763
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2Zn2CuRh
+_chemical_formula_sum   'Y4 Zn4 Cu2 Rh2'
+_cell_volume   229.09656445
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.250000  0.539490  0.191611  1
+  Y  Y1  1  0.750000  0.460510  0.808389  1
+  Y  Y2  1  0.750000  0.968586  0.683376  1
+  Y  Y3  1  0.250000  0.031414  0.316624  1
+  Zn  Zn4  1  0.250000  0.642560  0.568658  1
+  Zn  Zn5  1  0.750000  0.357440  0.431342  1
+  Zn  Zn6  1  0.750000  0.853825  0.059334  1
+  Zn  Zn7  1  0.250000  0.146175  0.940666  1
+  Cu  Cu8  1  0.250000  0.768894  0.883384  1
+  Cu  Cu9  1  0.750000  0.231106  0.116616  1
+  Rh  Rh10  1  0.750000  0.744110  0.379208  1
+  Rh  Rh11  1  0.250000  0.255890  0.620792  1

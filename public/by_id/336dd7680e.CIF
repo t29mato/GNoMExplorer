@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_FeBiTeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.27809300
+_cell_length_b   5.27810092
+_cell_length_c   10.03062800
+_cell_angle_alpha   90.00034296
+_cell_angle_beta   89.99990344
+_cell_angle_gamma   120.00018407
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeBiTeO6
+_chemical_formula_sum   'Fe2 Bi2 Te2 O12'
+_cell_volume   241.99850240
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.333334  0.666665  0.250000  1
+  Fe  Fe1  1  0.666667  0.333334  0.750000  1
+  Bi  Bi2  1  0.000001  0.000000  0.000000  1
+  Bi  Bi3  1  0.000000  0.000000  0.500000  1
+  Te  Te4  1  0.666665  0.333332  0.249999  1
+  Te  Te5  1  0.333335  0.666667  0.750001  1
+  O  O6  1  0.638012  0.626423  0.141329  1
+  O  O7  1  0.373575  0.011585  0.141329  1
+  O  O8  1  0.988412  0.361986  0.141329  1
+  O  O9  1  0.988414  0.626426  0.358671  1
+  O  O10  1  0.373576  0.361988  0.358671  1
+  O  O11  1  0.638012  0.011588  0.358672  1
+  O  O12  1  0.011586  0.373574  0.641329  1
+  O  O13  1  0.361988  0.988412  0.641329  1
+  O  O14  1  0.626425  0.638012  0.641329  1
+  O  O15  1  0.626426  0.988415  0.858671  1
+  O  O16  1  0.361989  0.373578  0.858671  1
+  O  O17  1  0.011589  0.638014  0.858670  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Al3Fe7Si5Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.58110758
+_cell_length_b   5.58110758
+_cell_length_c   5.58110758
+_cell_angle_alpha   89.88533284
+_cell_angle_beta   90.11466716
+_cell_angle_gamma   90.11466716
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al3Fe7Si5Ni
+_chemical_formula_sum   'Al3 Fe7 Si5 Ni1'
+_cell_volume   173.84354792
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.500764  0.001584  0.001584  1
+  Al  Al1  1  0.998416  0.001584  0.499236  1
+  Al  Al2  1  0.998416  0.499236  0.001584  1
+  Fe  Fe3  1  0.746480  0.253520  0.746230  1
+  Fe  Fe4  1  0.742821  0.745521  0.745521  1
+  Fe  Fe5  1  0.746480  0.746230  0.253520  1
+  Fe  Fe6  1  0.747053  0.252947  0.252947  1
+  Fe  Fe7  1  0.254479  0.257179  0.745521  1
+  Fe  Fe8  1  0.254479  0.745521  0.257179  1
+  Fe  Fe9  1  0.253770  0.253520  0.253520  1
+  Si  Si10  1  0.504696  0.495304  0.495304  1
+  Si  Si11  1  0.994651  0.494918  0.494918  1
+  Si  Si12  1  0.505082  0.005349  0.494918  1
+  Si  Si13  1  0.505082  0.494918  0.005349  1
+  Si  Si14  1  0.994547  0.005453  0.005453  1
+  Ni  Ni15  1  0.252783  0.747217  0.747217  1

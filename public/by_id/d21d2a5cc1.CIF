@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na3Li(RuO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.31926316
+_cell_length_b   5.31926309
+_cell_length_c   5.64674032
+_cell_angle_alpha   80.95686315
+_cell_angle_beta   80.95686001
+_cell_angle_gamma   120.06390557
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3Li(RuO3)2
+_chemical_formula_sum   'Na3 Li1 Ru2 O6'
+_cell_volume   131.25356788
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.339837  0.660163  0.500000  1
+  Na  Na1  1  0.000000  0.000000  0.500000  1
+  Na  Na2  1  0.660163  0.339837  0.500000  1
+  Li  Li3  1  0.500000  0.500000  0.000000  1
+  Ru  Ru4  1  0.832943  0.167057  0.000000  1
+  Ru  Ru5  1  0.167057  0.832943  0.000000  1
+  O  O6  1  0.782639  0.782639  0.204333  1
+  O  O7  1  0.079975  0.431346  0.205127  1
+  O  O8  1  0.217361  0.217361  0.795667  1
+  O  O9  1  0.568654  0.920025  0.794873  1
+  O  O10  1  0.431346  0.079975  0.205127  1
+  O  O11  1  0.920025  0.568654  0.794873  1

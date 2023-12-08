@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_ThPa(CBr)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.14552372
+_cell_length_b   4.14552470
+_cell_length_c   10.84830958
+_cell_angle_alpha   79.79971465
+_cell_angle_beta   79.79971055
+_cell_angle_gamma   53.51454688
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThPa(CBr)2
+_chemical_formula_sum   'Th1 Pa1 C2 Br2'
+_cell_volume   146.91551345
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.404659  0.404659  0.870012  1
+  Pa  Pa1  1  0.600146  0.600146  0.125981  1
+  C  C2  1  0.089148  0.089148  0.970047  1
+  C  C3  1  0.906102  0.906102  0.044889  1
+  Br  Br4  1  0.792797  0.792797  0.676508  1
+  Br  Br5  1  0.207147  0.207147  0.312562  1

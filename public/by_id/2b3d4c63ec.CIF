@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_LiTb6FeBr12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.20074381
+_cell_length_b   9.20074550
+_cell_length_c   9.20074513
+_cell_angle_alpha   107.62274760
+_cell_angle_beta   107.62273771
+_cell_angle_gamma   107.62274491
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTb6FeBr12
+_chemical_formula_sum   'Li1 Tb6 Fe1 Br12'
+_cell_volume   637.31611225
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.500000  0.500000  0.500000  1
+  Tb  Tb1  1  0.314855  0.110913  0.035024  1
+  Tb  Tb2  1  0.035024  0.314855  0.110913  1
+  Tb  Tb3  1  0.110913  0.035024  0.314855  1
+  Tb  Tb4  1  0.685145  0.889087  0.964976  1
+  Tb  Tb5  1  0.964976  0.685145  0.889087  1
+  Tb  Tb6  1  0.889087  0.964976  0.685145  1
+  Fe  Fe7  1  0.000000  0.000000  0.000000  1
+  Br  Br8  1  0.685293  0.220221  0.072692  1
+  Br  Br9  1  0.072692  0.685293  0.220221  1
+  Br  Br10  1  0.220221  0.072692  0.685293  1
+  Br  Br11  1  0.314707  0.779779  0.927308  1
+  Br  Br12  1  0.927308  0.314707  0.779779  1
+  Br  Br13  1  0.779779  0.927308  0.314707  1
+  Br  Br14  1  0.461132  0.166950  0.382717  1
+  Br  Br15  1  0.382717  0.461132  0.166950  1
+  Br  Br16  1  0.166950  0.382717  0.461132  1
+  Br  Br17  1  0.538868  0.833050  0.617283  1
+  Br  Br18  1  0.617283  0.538868  0.833050  1
+  Br  Br19  1  0.833050  0.617283  0.538868  1

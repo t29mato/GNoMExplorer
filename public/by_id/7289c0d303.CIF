@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Pa6Co15Si7Os
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.25072462
+_cell_length_b   8.25072273
+_cell_length_c   8.28535700
+_cell_angle_alpha   60.13818008
+_cell_angle_beta   60.13818761
+_cell_angle_gamma   60.00000622
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pa6Co15Si7Os
+_chemical_formula_sum   'Pa6 Co15 Si7 Os1'
+_cell_volume   399.65409905
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.215109  0.786046  0.783734  1
+  Pa  Pa1  1  0.788899  0.788899  0.215848  1
+  Pa  Pa2  1  0.788899  0.206355  0.215848  1
+  Pa  Pa3  1  0.215109  0.215109  0.783734  1
+  Pa  Pa4  1  0.786046  0.215109  0.783734  1
+  Pa  Pa5  1  0.206355  0.788899  0.215848  1
+  Co  Co6  1  0.165770  0.501880  0.166582  1
+  Co  Co7  1  0.864102  0.376829  0.382238  1
+  Co  Co8  1  0.494597  0.838183  0.829036  1
+  Co  Co9  1  0.501880  0.165770  0.166582  1
+  Co  Co10  1  0.832968  0.832968  0.501095  1
+  Co  Co11  1  0.166437  0.166437  0.500688  1
+  Co  Co12  1  0.136501  0.620888  0.621724  1
+  Co  Co13  1  0.165770  0.165770  0.166582  1
+  Co  Co14  1  0.377594  0.377594  0.867218  1
+  Co  Co15  1  0.620888  0.620888  0.621724  1
+  Co  Co16  1  0.376829  0.864102  0.382238  1
+  Co  Co17  1  0.376829  0.376829  0.382238  1
+  Co  Co18  1  0.838183  0.838183  0.829036  1
+  Co  Co19  1  0.620888  0.136501  0.621724  1
+  Co  Co20  1  0.838183  0.494597  0.829036  1
+  Si  Si21  1  0.498006  0.001670  0.498654  1
+  Si  Si22  1  0.499719  0.499719  0.998782  1
+  Si  Si23  1  0.497910  0.497910  0.506272  1
+  Si  Si24  1  0.001670  0.001670  0.498654  1
+  Si  Si25  1  0.001779  0.499719  0.998782  1
+  Si  Si26  1  0.001670  0.498006  0.498654  1
+  Si  Si27  1  0.499719  0.001779  0.998782  1
+  Os  Os28  1  0.621689  0.621689  0.134933  1

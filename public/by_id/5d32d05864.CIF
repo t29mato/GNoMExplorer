@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ca2YPa(AsPd)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.41636800
+_cell_length_b   7.45360596
+_cell_length_c   7.47046076
+_cell_angle_alpha   89.82824952
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2YPa(AsPd)4
+_chemical_formula_sum   'Ca2 Y1 Pa1 As4 Pd4'
+_cell_volume   245.91052772
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.250000  0.501674  0.274579  1
+  Ca  Ca1  1  0.250000  0.000556  0.226657  1
+  Y  Y2  1  0.750000  0.496988  0.726902  1
+  Pa  Pa3  1  0.750000  0.998103  0.773976  1
+  As  As4  1  0.250000  0.291231  0.913724  1
+  As  As5  1  0.250000  0.800919  0.589442  1
+  As  As6  1  0.750000  0.758189  0.080845  1
+  As  As7  1  0.750000  0.251286  0.415841  1
+  Pd  Pd8  1  0.250000  0.698000  0.911879  1
+  Pd  Pd9  1  0.250000  0.195395  0.591206  1
+  Pd  Pd10  1  0.750000  0.249304  0.066126  1
+  Pd  Pd11  1  0.750000  0.758351  0.428824  1

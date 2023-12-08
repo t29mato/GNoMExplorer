@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_HoTm2Cd3Si2Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.20391615
+_cell_length_b   7.20391520
+_cell_length_c   4.30586400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.02355705
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoTm2Cd3Si2Au
+_chemical_formula_sum   'Ho1 Tm2 Cd3 Si2 Au1'
+_cell_volume   193.47508285
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.417318  0.417318  0.000000  1
+  Tm  Tm1  1  0.583100  0.000186  0.000000  1
+  Tm  Tm2  1  0.000186  0.583100  0.000000  1
+  Cd  Cd3  1  0.255850  0.999791  0.500000  1
+  Cd  Cd4  1  0.999791  0.255850  0.500000  1
+  Cd  Cd5  1  0.744402  0.744402  0.500000  1
+  Si  Si6  1  0.333050  0.667075  0.500000  1
+  Si  Si7  1  0.667075  0.333050  0.500000  1
+  Au  Au8  1  0.999229  0.999229  0.000000  1

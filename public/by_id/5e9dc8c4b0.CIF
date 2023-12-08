@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ta12Al5Ga3(IrC)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.31535839
+_cell_length_b   8.31535843
+_cell_length_c   8.31603307
+_cell_angle_alpha   60.00944392
+_cell_angle_beta   60.00944541
+_cell_angle_gamma   60.01581750
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta12Al5Ga3(IrC)4
+_chemical_formula_sum   'Ta12 Al5 Ga3 Ir4 C4'
+_cell_volume   406.70268821
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.563721  0.936190  0.564842  1
+  Ta  Ta1  1  0.313907  0.685950  0.687113  1
+  Ta  Ta2  1  0.685087  0.313934  0.313724  1
+  Ta  Ta3  1  0.313934  0.685087  0.313724  1
+  Ta  Ta4  1  0.687203  0.687203  0.313165  1
+  Ta  Ta5  1  0.314787  0.314787  0.684685  1
+  Ta  Ta6  1  0.564686  0.564686  0.935427  1
+  Ta  Ta7  1  0.936190  0.563721  0.564842  1
+  Ta  Ta8  1  0.562435  0.936906  0.936159  1
+  Ta  Ta9  1  0.936980  0.936980  0.562516  1
+  Ta  Ta10  1  0.685950  0.313907  0.687113  1
+  Ta  Ta11  1  0.936906  0.562435  0.936159  1
+  Al  Al12  1  0.333099  0.333099  0.000366  1
+  Al  Al13  1  0.916746  0.249742  0.916597  1
+  Al  Al14  1  0.916482  0.916482  0.250250  1
+  Al  Al15  1  0.249742  0.916746  0.916597  1
+  Al  Al16  1  0.332961  0.332961  0.333262  1
+  Ga  Ga17  1  0.914197  0.914197  0.914334  1
+  Ga  Ga18  1  0.992593  0.335914  0.335645  1
+  Ga  Ga19  1  0.335914  0.992593  0.335645  1
+  Ir  Ir20  1  0.125136  0.125136  0.122423  1
+  Ir  Ir21  1  0.624572  0.128479  0.125100  1
+  Ir  Ir22  1  0.128479  0.624572  0.125100  1
+  Ir  Ir23  1  0.127007  0.127007  0.625728  1
+  C  C24  1  0.625203  0.625203  0.624511  1
+  C  C25  1  0.125005  0.625653  0.624969  1
+  C  C26  1  0.625653  0.125005  0.624969  1
+  C  C27  1  0.625423  0.625423  0.125032  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Tb4DyHo(Ni7B2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.09105111
+_cell_length_b   5.09105102
+_cell_length_c   14.39551800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99425607
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb4DyHo(Ni7B2)2
+_chemical_formula_sum   'Tb4 Dy1 Ho1 Ni14 B4'
+_cell_volume   323.14539337
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.666681  0.333319  0.032320  1
+  Tb  Tb1  1  0.333317  0.666683  0.967909  1
+  Tb  Tb2  1  0.333317  0.666683  0.532091  1
+  Tb  Tb3  1  0.666681  0.333319  0.467680  1
+  Dy  Dy4  1  0.333351  0.666649  0.750000  1
+  Ho  Ho5  1  0.666654  0.333346  0.250000  1
+  Ni  Ni6  1  0.834519  0.669018  0.650180  1
+  Ni  Ni7  1  0.834497  0.165503  0.650188  1
+  Ni  Ni8  1  0.330982  0.165481  0.650180  1
+  Ni  Ni9  1  0.165508  0.331032  0.349693  1
+  Ni  Ni10  1  0.165530  0.834470  0.349692  1
+  Ni  Ni11  1  0.668968  0.834492  0.349693  1
+  Ni  Ni12  1  0.165508  0.331032  0.150307  1
+  Ni  Ni13  1  0.165530  0.834470  0.150308  1
+  Ni  Ni14  1  0.668968  0.834492  0.150307  1
+  Ni  Ni15  1  0.834519  0.669018  0.849820  1
+  Ni  Ni16  1  0.834497  0.165503  0.849812  1
+  Ni  Ni17  1  0.330982  0.165481  0.849820  1
+  Ni  Ni18  1  0.000001  0.999999  0.499908  1
+  Ni  Ni19  1  0.000001  0.999999  0.000092  1
+  B  B20  1  0.666653  0.333347  0.750000  1
+  B  B21  1  0.333347  0.666653  0.250000  1
+  B  B22  1  0.999987  0.000013  0.750000  1
+  B  B23  1  0.000003  0.999997  0.250000  1

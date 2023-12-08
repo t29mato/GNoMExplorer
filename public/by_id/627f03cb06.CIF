@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_NbPd3Pt5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.32120444
+_cell_length_b   6.32120456
+_cell_length_c   6.28618959
+_cell_angle_alpha   95.62732843
+_cell_angle_beta   95.62732488
+_cell_angle_gamma   143.60748326
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbPd3Pt5
+_chemical_formula_sum   'Nb1 Pd3 Pt5'
+_cell_volume   141.49120333
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.002759  0.002759  0.005518  1
+  Pd  Pd1  1  0.669832  0.000327  0.670159  1
+  Pd  Pd2  1  0.000327  0.669832  0.670159  1
+  Pd  Pd3  1  0.335911  0.335911  0.671824  1
+  Pt  Pt4  1  0.660986  0.336857  0.997841  1
+  Pt  Pt5  1  0.336857  0.660986  0.997841  1
+  Pt  Pt6  1  0.663838  0.663838  0.327675  1
+  Pt  Pt7  1  0.330115  0.999376  0.329491  1
+  Pt  Pt8  1  0.999376  0.330115  0.329491  1

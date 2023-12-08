@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Pa2CoRh2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.67654300
+_cell_length_b   7.77365400
+_cell_length_c   8.57537000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pa2CoRh2
+_chemical_formula_sum   'Pa8 Co4 Rh8'
+_cell_volume   378.40947844
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.750000  0.903179  0.860216  1
+  Pa  Pa1  1  0.750000  0.403179  0.639784  1
+  Pa  Pa2  1  0.250000  0.096821  0.139784  1
+  Pa  Pa3  1  0.250000  0.596821  0.360216  1
+  Pa  Pa4  1  0.750000  0.937719  0.395489  1
+  Pa  Pa5  1  0.750000  0.437719  0.104511  1
+  Pa  Pa6  1  0.250000  0.062281  0.604511  1
+  Pa  Pa7  1  0.250000  0.562281  0.895489  1
+  Co  Co8  1  0.750000  0.592569  0.364444  1
+  Co  Co9  1  0.750000  0.092569  0.135556  1
+  Co  Co10  1  0.250000  0.407431  0.635556  1
+  Co  Co11  1  0.250000  0.907431  0.864444  1
+  Rh  Rh12  1  0.996282  0.268275  0.376271  1
+  Rh  Rh13  1  0.503718  0.768275  0.123729  1
+  Rh  Rh14  1  0.496282  0.731725  0.623729  1
+  Rh  Rh15  1  0.003718  0.231725  0.876271  1
+  Rh  Rh16  1  0.003718  0.731725  0.623729  1
+  Rh  Rh17  1  0.496282  0.231725  0.876271  1
+  Rh  Rh18  1  0.503718  0.268275  0.376271  1
+  Rh  Rh19  1  0.996282  0.768275  0.123729  1

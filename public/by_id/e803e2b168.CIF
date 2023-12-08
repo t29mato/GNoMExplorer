@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Gd3Y7(SiPb3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.29725300
+_cell_length_b   9.29725300
+_cell_length_c   6.52053400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000354
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd3Y7(SiPb3)2
+_chemical_formula_sum   'Gd3 Y7 Si2 Pb6'
+_cell_volume   488.11603946
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.666667  0.333333  0.500000  1
+  Gd  Gd1  1  0.333333  0.666667  0.500000  1
+  Gd  Gd2  1  0.333333  0.666667  0.000000  1
+  Y  Y3  1  0.666667  0.333333  0.000000  1
+  Y  Y4  1  0.751293  0.751010  0.250096  1
+  Y  Y5  1  0.248990  0.000283  0.250096  1
+  Y  Y6  1  0.999717  0.248707  0.250096  1
+  Y  Y7  1  0.248990  0.248707  0.749904  1
+  Y  Y8  1  0.751293  0.000283  0.749904  1
+  Y  Y9  1  0.999717  0.751010  0.749904  1
+  Si  Si10  1  0.000000  0.000000  0.500000  1
+  Si  Si11  1  0.000000  0.000000  0.000000  1
+  Pb  Pb12  1  0.393305  0.392701  0.250344  1
+  Pb  Pb13  1  0.607299  0.000604  0.250344  1
+  Pb  Pb14  1  0.999396  0.606695  0.250344  1
+  Pb  Pb15  1  0.607299  0.606695  0.749656  1
+  Pb  Pb16  1  0.393305  0.000604  0.749656  1
+  Pb  Pb17  1  0.999396  0.392701  0.749656  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_DyHoPa2(WC2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.35038400
+_cell_length_b   5.73628506
+_cell_length_c   10.91775811
+_cell_angle_alpha   89.98407819
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyHoPa2(WC2)4
+_chemical_formula_sum   'Dy1 Ho1 Pa2 W4 C8'
+_cell_volume   209.82573921
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.750000  0.413110  0.639386  1
+  Ho  Ho1  1  0.750000  0.913371  0.860625  1
+  Pa  Pa2  1  0.250000  0.585448  0.361497  1
+  Pa  Pa3  1  0.250000  0.085444  0.138369  1
+  W  W4  1  0.250000  0.906627  0.612983  1
+  W  W5  1  0.250000  0.406384  0.887223  1
+  W  W6  1  0.750000  0.088250  0.397126  1
+  W  W7  1  0.750000  0.588404  0.102747  1
+  C  C8  1  0.250000  0.663266  0.748316  1
+  C  C9  1  0.250000  0.162055  0.752297  1
+  C  C10  1  0.750000  0.340856  0.255197  1
+  C  C11  1  0.750000  0.840873  0.244766  1
+  C  C12  1  0.250000  0.233938  0.486633  1
+  C  C13  1  0.250000  0.734473  0.012964  1
+  C  C14  1  0.750000  0.769045  0.511521  1
+  C  C15  1  0.750000  0.268457  0.988349  1

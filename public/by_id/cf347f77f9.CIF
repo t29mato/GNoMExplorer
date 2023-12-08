@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CrSi(BW2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.97841634
+_cell_length_b   5.97841758
+_cell_length_c   6.92250508
+_cell_angle_alpha   115.58249584
+_cell_angle_beta   115.58249499
+_cell_angle_gamma   89.99999355
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrSi(BW2)2
+_chemical_formula_sum   'Cr2 Si2 B4 W8'
+_cell_volume   195.92828518
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.500000  0.500000  0.000000  1
+  Cr  Cr1  1  0.000000  0.000000  0.000000  1
+  Si  Si2  1  0.250000  0.250000  0.500000  1
+  Si  Si3  1  0.750000  0.750000  0.500000  1
+  B  B4  1  0.371772  0.871772  0.000000  1
+  B  B5  1  0.628228  0.128228  0.000000  1
+  B  B6  1  0.128228  0.371772  0.000000  1
+  B  B7  1  0.871772  0.628228  0.000000  1
+  W  W8  1  0.027079  0.527079  0.723434  1
+  W  W9  1  0.696355  0.196355  0.723434  1
+  W  W10  1  0.196355  0.027079  0.723434  1
+  W  W11  1  0.527079  0.696355  0.723434  1
+  W  W12  1  0.972921  0.472921  0.276566  1
+  W  W13  1  0.303645  0.803645  0.276566  1
+  W  W14  1  0.803645  0.972921  0.276566  1
+  W  W15  1  0.472921  0.303645  0.276566  1

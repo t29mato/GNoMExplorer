@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Tb3BiRh3Pb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.73423011
+_cell_length_b   7.73422962
+_cell_length_c   3.89971700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.71986796
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb3BiRh3Pb2
+_chemical_formula_sum   'Tb3 Bi1 Rh3 Pb2'
+_cell_volume   202.58948062
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.595272  0.003966  0.000000  1
+  Tb  Tb1  1  0.003966  0.595272  0.000000  1
+  Tb  Tb2  1  0.400735  0.400735  0.000000  1
+  Bi  Bi3  1  0.736272  0.736272  0.500000  1
+  Rh  Rh4  1  0.333319  0.665424  0.500000  1
+  Rh  Rh5  1  0.665424  0.333319  0.500000  1
+  Rh  Rh6  1  0.997509  0.997509  0.000000  1
+  Pb  Pb7  1  0.266328  0.001175  0.500000  1
+  Pb  Pb8  1  0.001175  0.266328  0.500000  1

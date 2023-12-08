@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_CaPr2Mg3AgPb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.76860241
+_cell_length_b   7.76860279
+_cell_length_c   4.68222200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.31595898
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaPr2Mg3AgPb2
+_chemical_formula_sum   'Ca1 Pr2 Mg3 Ag1 Pb2'
+_cell_volume   246.38875994
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.410379  0.410379  0.500000  1
+  Pr  Pr1  1  0.588295  0.001174  0.500000  1
+  Pr  Pr2  1  0.001174  0.588295  0.500000  1
+  Mg  Mg3  1  0.767605  0.767605  0.000000  1
+  Mg  Mg4  1  0.233729  0.000335  0.000000  1
+  Mg  Mg5  1  0.000335  0.233729  0.000000  1
+  Ag  Ag6  1  0.999227  0.999227  0.500000  1
+  Pb  Pb7  1  0.666755  0.332501  0.000000  1
+  Pb  Pb8  1  0.332501  0.666755  0.000000  1

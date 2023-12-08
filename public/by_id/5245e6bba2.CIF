@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ta2Ti2Co4Si3Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.20028409
+_cell_length_b   3.68408000
+_cell_length_c   7.02740627
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.72991071
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2Ti2Co4Si3Ge
+_chemical_formula_sum   'Ta2 Ti2 Co4 Si3 Ge1'
+_cell_volume   160.52063812
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.020743  0.250000  0.819745  1
+  Ta  Ta1  1  0.519376  0.250000  0.685284  1
+  Ti  Ti2  1  0.984894  0.750000  0.181599  1
+  Ti  Ti3  1  0.475613  0.750000  0.313337  1
+  Co  Co4  1  0.149779  0.250000  0.436886  1
+  Co  Co5  1  0.638814  0.250000  0.057291  1
+  Co  Co6  1  0.858968  0.750000  0.570398  1
+  Co  Co7  1  0.355548  0.750000  0.937007  1
+  Si  Si8  1  0.272962  0.250000  0.119469  1
+  Si  Si9  1  0.226670  0.750000  0.615015  1
+  Si  Si10  1  0.726481  0.750000  0.887839  1
+  Ge  Ge11  1  0.770151  0.250000  0.376130  1

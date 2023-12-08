@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ti3Fe4TcAs4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.78788100
+_cell_length_b   6.11227138
+_cell_length_c   6.96692409
+_cell_angle_alpha   89.38404789
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3Fe4TcAs4
+_chemical_formula_sum   'Ti3 Fe4 Tc1 As4'
+_cell_volume   161.29278379
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.750000  0.522380  0.819559  1
+  Ti  Ti1  1  0.750000  0.022901  0.688346  1
+  Ti  Ti2  1  0.250000  0.979065  0.307020  1
+  Fe  Fe3  1  0.250000  0.854600  0.938647  1
+  Fe  Fe4  1  0.750000  0.140450  0.061850  1
+  Fe  Fe5  1  0.750000  0.646415  0.444627  1
+  Fe  Fe6  1  0.250000  0.355405  0.559048  1
+  Tc  Tc7  1  0.250000  0.475925  0.177205  1
+  As  As8  1  0.250000  0.733238  0.620564  1
+  As  As9  1  0.750000  0.274059  0.375857  1
+  As  As10  1  0.750000  0.762461  0.123444  1
+  As  As11  1  0.250000  0.233101  0.883833  1

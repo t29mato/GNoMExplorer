@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CeTh3(Si3Ru)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.28398100
+_cell_length_b   8.28398076
+_cell_length_c   4.13456600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999697
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeTh3(Si3Ru)2
+_chemical_formula_sum   'Ce1 Th3 Si6 Ru2'
+_cell_volume   245.71900582
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.000000  0.000000  0.000000  1
+  Th  Th1  1  0.500000  0.500000  0.000000  1
+  Th  Th2  1  0.000000  0.500000  0.000000  1
+  Th  Th3  1  0.500000  0.000000  0.000000  1
+  Si  Si4  1  0.835039  0.670078  0.500000  1
+  Si  Si5  1  0.164961  0.835039  0.500000  1
+  Si  Si6  1  0.670078  0.835039  0.500000  1
+  Si  Si7  1  0.164961  0.329922  0.500000  1
+  Si  Si8  1  0.835039  0.164961  0.500000  1
+  Si  Si9  1  0.329922  0.164961  0.500000  1
+  Ru  Ru10  1  0.333333  0.666667  0.500000  1
+  Ru  Ru11  1  0.666667  0.333333  0.500000  1

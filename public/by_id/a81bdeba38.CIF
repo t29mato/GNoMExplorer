@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_BeSi(BRu2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.58248243
+_cell_length_b   5.58248360
+_cell_length_c   6.94100516
+_cell_angle_alpha   113.71188422
+_cell_angle_beta   113.71189293
+_cell_angle_gamma   90.00000789
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BeSi(BRu2)2
+_chemical_formula_sum   'Be2 Si2 B4 Ru8'
+_cell_volume   177.92365113
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.500000  0.500000  0.000000  1
+  Be  Be1  1  0.000000  0.000000  0.000000  1
+  Si  Si2  1  0.250000  0.250000  0.500000  1
+  Si  Si3  1  0.750000  0.750000  0.500000  1
+  B  B4  1  0.387412  0.887412  0.000000  1
+  B  B5  1  0.612588  0.112588  0.000000  1
+  B  B6  1  0.112588  0.387412  0.000000  1
+  B  B7  1  0.887412  0.612588  0.000000  1
+  Ru  Ru8  1  0.063848  0.563848  0.744714  1
+  Ru  Ru9  1  0.680866  0.180866  0.744714  1
+  Ru  Ru10  1  0.180866  0.063848  0.744714  1
+  Ru  Ru11  1  0.563848  0.680866  0.744714  1
+  Ru  Ru12  1  0.936152  0.436152  0.255286  1
+  Ru  Ru13  1  0.319134  0.819134  0.255286  1
+  Ru  Ru14  1  0.819134  0.936152  0.255286  1
+  Ru  Ru15  1  0.436152  0.319134  0.255286  1

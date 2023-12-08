@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SmDy(Co3Si2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.27813752
+_cell_length_b   6.27813788
+_cell_length_c   6.27813802
+_cell_angle_alpha   130.47701775
+_cell_angle_beta   113.47797868
+_cell_angle_gamma   87.27515241
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmDy(Co3Si2)2
+_chemical_formula_sum   'Sm1 Dy1 Co6 Si4'
+_cell_volume   164.55572499
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.250000  0.528734  0.278734  1
+  Dy  Dy1  1  0.750000  0.466021  0.716021  1
+  Co  Co2  1  0.001390  0.001165  0.502556  1
+  Co  Co3  1  0.498610  0.001165  0.999775  1
+  Co  Co4  1  0.724653  0.002571  0.724608  1
+  Co  Co5  1  0.222036  0.499955  0.724608  1
+  Co  Co6  1  0.277964  0.002571  0.277919  1
+  Co  Co7  1  0.775347  0.499955  0.277919  1
+  Si  Si8  1  0.078440  0.871915  0.793475  1
+  Si  Si9  1  0.916821  0.122277  0.205456  1
+  Si  Si10  1  0.583179  0.788638  0.205456  1
+  Si  Si11  1  0.421560  0.215033  0.793475  1

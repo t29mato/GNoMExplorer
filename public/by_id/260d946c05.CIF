@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ta11NbGa8(CoC)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.19659584
+_cell_length_b   8.20489522
+_cell_length_c   8.19659467
+_cell_angle_alpha   59.96650103
+_cell_angle_beta   60.00513453
+_cell_angle_gamma   59.96649425
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta11NbGa8(CoC)4
+_chemical_formula_sum   'Ta11 Nb1 Ga8 Co4 C4'
+_cell_volume   389.60251096
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.689152  0.310848  0.689152  1
+  Ta  Ta1  1  0.939436  0.560764  0.560810  1
+  Ta  Ta2  1  0.560810  0.938989  0.939436  1
+  Ta  Ta3  1  0.940726  0.559274  0.940726  1
+  Ta  Ta4  1  0.560810  0.560764  0.939436  1
+  Ta  Ta5  1  0.939436  0.938989  0.560810  1
+  Ta  Ta6  1  0.689698  0.689935  0.310363  1
+  Ta  Ta7  1  0.310363  0.689935  0.689698  1
+  Ta  Ta8  1  0.689698  0.310005  0.310363  1
+  Ta  Ta9  1  0.310363  0.310005  0.689698  1
+  Ta  Ta10  1  0.560415  0.939585  0.560415  1
+  Nb  Nb11  1  0.310854  0.689146  0.310854  1
+  Ga  Ga12  1  0.332808  0.334062  0.332808  1
+  Ga  Ga13  1  0.249372  0.916465  0.917696  1
+  Ga  Ga14  1  0.916230  0.250007  0.916230  1
+  Ga  Ga15  1  0.917696  0.916465  0.249372  1
+  Ga  Ga16  1  0.332808  0.000323  0.332808  1
+  Ga  Ga17  1  0.334171  0.332793  0.000245  1
+  Ga  Ga18  1  0.000245  0.332793  0.334171  1
+  Ga  Ga19  1  0.916230  0.917532  0.916230  1
+  Co  Co20  1  0.123071  0.129031  0.123071  1
+  Co  Co21  1  0.625242  0.124702  0.125354  1
+  Co  Co22  1  0.123071  0.624826  0.123071  1
+  Co  Co23  1  0.125354  0.124702  0.625242  1
+  C  C24  1  0.625179  0.624927  0.625179  1
+  C  C25  1  0.124299  0.624208  0.627284  1
+  C  C26  1  0.625179  0.124716  0.625179  1
+  C  C27  1  0.627284  0.624208  0.124299  1

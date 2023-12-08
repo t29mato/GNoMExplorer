@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Li5Al(SiRh2)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.12102700
+_cell_length_b   5.82979000
+_cell_length_c   12.37383300
+_cell_angle_alpha   90.00001909
+_cell_angle_beta   89.99947189
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li5Al(SiRh2)6
+_chemical_formula_sum   'Li5 Al1 Si6 Rh12'
+_cell_volume   297.27789782
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.499800  0.000000  0.167235  1
+  Li  Li1  1  0.999791  0.500001  0.333604  1
+  Li  Li2  1  0.500001  0.000000  0.500000  1
+  Li  Li3  1  0.000209  0.500001  0.666396  1
+  Li  Li4  1  0.500199  0.000000  0.832765  1
+  Al  Al5  1  0.000000  0.500001  0.000000  1
+  Si  Si6  1  0.000000  0.000000  0.000000  1
+  Si  Si7  1  0.499855  0.500001  0.173740  1
+  Si  Si8  1  0.999846  0.000000  0.336954  1
+  Si  Si9  1  0.500001  0.500001  0.500000  1
+  Si  Si10  1  0.000154  0.000000  0.663046  1
+  Si  Si11  1  0.500145  0.500001  0.826261  1
+  Rh  Rh12  1  0.499999  0.251567  0.000000  1
+  Rh  Rh13  1  0.499999  0.748433  0.000000  1
+  Rh  Rh14  1  0.999872  0.249734  0.165545  1
+  Rh  Rh15  1  0.999873  0.750265  0.165545  1
+  Rh  Rh16  1  0.499858  0.248906  0.333311  1
+  Rh  Rh17  1  0.499858  0.751095  0.333311  1
+  Rh  Rh18  1  0.000000  0.251055  0.500000  1
+  Rh  Rh19  1  0.000000  0.748945  0.500000  1
+  Rh  Rh20  1  0.500141  0.248905  0.666689  1
+  Rh  Rh21  1  0.500141  0.751094  0.666689  1
+  Rh  Rh22  1  0.000127  0.249735  0.834455  1
+  Rh  Rh23  1  0.000128  0.750266  0.834455  1

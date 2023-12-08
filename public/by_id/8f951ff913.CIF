@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ErTm(MgPt)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.10526400
+_cell_length_b   7.13390500
+_cell_length_c   8.53207100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErTm(MgPt)2
+_chemical_formula_sum   'Er2 Tm2 Mg4 Pt4'
+_cell_volume   249.87503807
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.750000  0.958147  0.675609  1
+  Er  Er1  1  0.750000  0.458147  0.824391  1
+  Tm  Tm2  1  0.250000  0.041984  0.323992  1
+  Tm  Tm3  1  0.250000  0.541984  0.176008  1
+  Mg  Mg4  1  0.250000  0.633615  0.560912  1
+  Mg  Mg5  1  0.250000  0.133615  0.939088  1
+  Mg  Mg6  1  0.750000  0.366507  0.438423  1
+  Mg  Mg7  1  0.750000  0.866507  0.061577  1
+  Pt  Pt8  1  0.250000  0.244069  0.625106  1
+  Pt  Pt9  1  0.250000  0.744069  0.874894  1
+  Pt  Pt10  1  0.750000  0.755678  0.373445  1
+  Pt  Pt11  1  0.750000  0.255678  0.126555  1

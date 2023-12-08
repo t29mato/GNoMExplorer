@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_HoPaInNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.46800909
+_cell_length_b   7.46800883
+_cell_length_c   3.55065300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   93.72956705
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoPaInNi2
+_chemical_formula_sum   'Ho2 Pa2 In2 Ni4'
+_cell_volume   197.60465033
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.170551  0.329449  0.500000  1
+  Ho  Ho1  1  0.829449  0.670551  0.500000  1
+  Pa  Pa2  1  0.672337  0.172337  0.500000  1
+  Pa  Pa3  1  0.327663  0.827663  0.500000  1
+  In  In4  1  0.500000  0.500000  0.000000  1
+  In  In5  1  0.000000  0.000000  0.000000  1
+  Ni  Ni6  1  0.134103  0.634103  0.000000  1
+  Ni  Ni7  1  0.865897  0.365897  0.000000  1
+  Ni  Ni8  1  0.616919  0.883081  0.000000  1
+  Ni  Ni9  1  0.383081  0.116919  0.000000  1

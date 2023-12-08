@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Lu3PaAl4Ru3Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.00446800
+_cell_length_b   6.93952232
+_cell_length_c   8.09219688
+_cell_angle_alpha   90.61120127
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu3PaAl4Ru3Pt
+_chemical_formula_sum   'Lu3 Pa1 Al4 Ru3 Pt1'
+_cell_volume   224.86203380
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.250000  0.034530  0.681378  1
+  Lu  Lu1  1  0.250000  0.547785  0.817924  1
+  Lu  Lu2  1  0.750000  0.465211  0.179424  1
+  Pa  Pa3  1  0.750000  0.960715  0.326789  1
+  Al  Al4  1  0.250000  0.139826  0.057152  1
+  Al  Al5  1  0.250000  0.619496  0.441053  1
+  Al  Al6  1  0.750000  0.864616  0.938578  1
+  Al  Al7  1  0.750000  0.365112  0.560357  1
+  Ru  Ru8  1  0.250000  0.239616  0.371544  1
+  Ru  Ru9  1  0.250000  0.773477  0.137797  1
+  Ru  Ru10  1  0.750000  0.745362  0.614732  1
+  Pt  Pt11  1  0.750000  0.244256  0.873271  1

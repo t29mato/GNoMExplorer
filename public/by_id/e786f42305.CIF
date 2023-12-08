@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Sc2Ni5BRu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.36159880
+_cell_length_b   5.42962331
+_cell_length_c   5.42962388
+_cell_angle_alpha   59.17284586
+_cell_angle_beta   60.41358322
+_cell_angle_gamma   60.41357240
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc2Ni5BRu
+_chemical_formula_sum   'Sc2 Ni5 B1 Ru1'
+_cell_volume   111.73367787
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.249583  0.250417  0.250417  1
+  Sc  Sc1  1  0.749583  0.750417  0.750417  1
+  Ni  Ni2  1  0.258464  0.741537  0.262591  1
+  Ni  Ni3  1  0.737409  0.741536  0.262592  1
+  Ni  Ni4  1  0.258464  0.262591  0.741537  1
+  Ni  Ni5  1  0.737409  0.262592  0.741536  1
+  Ni  Ni6  1  0.261608  0.738393  0.738393  1
+  B  B7  1  0.006911  0.993089  0.993089  1
+  Ru  Ru8  1  0.740572  0.259429  0.259429  1

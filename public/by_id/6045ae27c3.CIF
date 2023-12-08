@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_DyPaNi2Hg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.41925873
+_cell_length_b   7.41925886
+_cell_length_c   3.56286100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   94.36310992
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyPaNi2Hg
+_chemical_formula_sum   'Dy2 Pa2 Ni4 Hg2'
+_cell_volume   195.55074795
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.171326  0.328674  0.500000  1
+  Dy  Dy1  1  0.828674  0.671326  0.500000  1
+  Pa  Pa2  1  0.672224  0.172224  0.500000  1
+  Pa  Pa3  1  0.327776  0.827776  0.500000  1
+  Ni  Ni4  1  0.133667  0.633667  0.000000  1
+  Ni  Ni5  1  0.866333  0.366333  0.000000  1
+  Ni  Ni6  1  0.615284  0.884716  0.000000  1
+  Ni  Ni7  1  0.384716  0.115284  0.000000  1
+  Hg  Hg8  1  0.000000  0.000000  0.000000  1
+  Hg  Hg9  1  0.500000  0.500000  0.000000  1

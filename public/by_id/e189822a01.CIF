@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_DyTm3(TiAl3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.54062097
+_cell_length_b   9.54062150
+_cell_length_c   9.54062174
+_cell_angle_alpha   34.29013163
+_cell_angle_beta   34.29012696
+_cell_angle_gamma   34.29012750
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyTm3(TiAl3)2
+_chemical_formula_sum   'Dy1 Tm3 Ti2 Al6'
+_cell_volume   245.81596129
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.686226  0.686226  0.686226  1
+  Tm  Tm1  1  0.185796  0.185796  0.185796  1
+  Tm  Tm2  1  0.814372  0.814372  0.814372  1
+  Tm  Tm3  1  0.314026  0.314026  0.314026  1
+  Ti  Ti4  1  0.000010  0.000010  0.000010  1
+  Ti  Ti5  1  0.499890  0.499890  0.499890  1
+  Al  Al6  1  0.750234  0.250025  0.250025  1
+  Al  Al7  1  0.249580  0.749908  0.749908  1
+  Al  Al8  1  0.250025  0.750234  0.250025  1
+  Al  Al9  1  0.749908  0.249580  0.749908  1
+  Al  Al10  1  0.250025  0.250025  0.750234  1
+  Al  Al11  1  0.749908  0.749908  0.249580  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ta11Mo4Os
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.50124000
+_cell_length_b   6.50124000
+_cell_length_c   6.57081800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta11Mo4Os
+_chemical_formula_sum   'Ta11 Mo4 Os1'
+_cell_volume   277.72299219
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.247990  0.247990  0.243086  1
+  Ta  Ta1  1  0.752010  0.247990  0.243086  1
+  Ta  Ta2  1  0.247990  0.752010  0.243086  1
+  Ta  Ta3  1  0.752010  0.752010  0.243086  1
+  Ta  Ta4  1  0.500001  0.000000  0.500001  1
+  Ta  Ta5  1  0.000000  0.500001  0.500001  1
+  Ta  Ta6  1  0.500001  0.500001  0.500001  1
+  Ta  Ta7  1  0.247990  0.247990  0.756914  1
+  Ta  Ta8  1  0.752010  0.247990  0.756914  1
+  Ta  Ta9  1  0.247990  0.752010  0.756914  1
+  Ta  Ta10  1  0.752010  0.752010  0.756914  1
+  Mo  Mo11  1  0.500001  0.000000  0.000000  1
+  Mo  Mo12  1  0.000000  0.500001  0.000000  1
+  Mo  Mo13  1  0.500001  0.500001  0.000000  1
+  Mo  Mo14  1  0.000000  0.000000  0.500001  1
+  Os  Os15  1  0.000000  0.000000  0.000000  1

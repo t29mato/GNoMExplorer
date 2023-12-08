@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ba6TbTl(NiO6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.14804381
+_cell_length_b   7.14804543
+_cell_length_c   7.14804530
+_cell_angle_alpha   92.99728558
+_cell_angle_beta   92.99729631
+_cell_angle_gamma   92.99728092
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba6TbTl(NiO6)2
+_chemical_formula_sum   'Ba6 Tb1 Tl1 Ni2 O12'
+_cell_volume   363.67273250
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.381479  0.118520  0.750000  1
+  Ba  Ba1  1  0.750000  0.381480  0.118521  1
+  Ba  Ba2  1  0.249999  0.620640  0.879361  1
+  Ba  Ba3  1  0.620639  0.879360  0.250001  1
+  Ba  Ba4  1  0.118521  0.750000  0.381480  1
+  Ba  Ba5  1  0.879360  0.250000  0.620640  1
+  Tb  Tb6  1  0.250001  0.250000  0.250000  1
+  Tl  Tl7  1  0.750000  0.750001  0.750000  1
+  Ni  Ni8  1  0.498316  0.498316  0.498316  1
+  Ni  Ni9  1  0.001684  0.001684  0.001684  1
+  O  O10  1  0.777613  0.587676  0.459705  1
+  O  O11  1  0.587677  0.459704  0.777613  1
+  O  O12  1  0.459704  0.777613  0.587677  1
+  O  O13  1  0.040295  0.912324  0.722388  1
+  O  O14  1  0.912323  0.722387  0.040295  1
+  O  O15  1  0.722388  0.040295  0.912323  1
+  O  O16  1  0.216796  0.406684  0.535102  1
+  O  O17  1  0.406684  0.535101  0.216796  1
+  O  O18  1  0.535101  0.216796  0.406683  1
+  O  O19  1  0.964899  0.093316  0.283205  1
+  O  O20  1  0.283205  0.964898  0.093315  1
+  O  O21  1  0.093315  0.283204  0.964898  1

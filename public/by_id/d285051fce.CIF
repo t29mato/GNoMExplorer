@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_Sm2DyIn3(TeO6)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.10092690
+_cell_length_b   9.10092768
+_cell_length_c   5.19698567
+_cell_angle_alpha   89.94943102
+_cell_angle_beta   90.05056729
+_cell_angle_gamma   119.99690019
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm2DyIn3(TeO6)3
+_chemical_formula_sum   'Sm2 Dy1 In3 Te3 O18'
+_cell_volume   372.79216780
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.617377  0.000637  0.000596  1
+  Sm  Sm1  1  0.000637  0.617377  0.999404  1
+  Dy  Dy2  1  0.379416  0.379416  0.000000  1
+  In  In3  1  0.286944  0.000096  0.500649  1
+  In  In4  1  0.000096  0.286944  0.499351  1
+  In  In5  1  0.712880  0.712880  0.500000  1
+  Te  Te6  1  0.001652  0.001652  0.000000  1
+  Te  Te7  1  0.333791  0.664636  0.499766  1
+  Te  Te8  1  0.664636  0.333791  0.500234  1
+  O  O9  1  0.090324  0.886452  0.787769  1
+  O  O10  1  0.117414  0.207024  0.789771  1
+  O  O11  1  0.797794  0.912705  0.786969  1
+  O  O12  1  0.207024  0.117414  0.210229  1
+  O  O13  1  0.912705  0.797794  0.213031  1
+  O  O14  1  0.886452  0.090324  0.212231  1
+  O  O15  1  0.460601  0.592209  0.717630  1
+  O  O16  1  0.401351  0.863093  0.715057  1
+  O  O17  1  0.132434  0.534940  0.708706  1
+  O  O18  1  0.863093  0.401351  0.284943  1
+  O  O19  1  0.534940  0.132434  0.291294  1
+  O  O20  1  0.592209  0.460601  0.282370  1
+  O  O21  1  0.231527  0.767377  0.285103  1
+  O  O22  1  0.234801  0.461237  0.281516  1
+  O  O23  1  0.540032  0.771255  0.290021  1
+  O  O24  1  0.461237  0.234801  0.718484  1
+  O  O25  1  0.771255  0.540032  0.709979  1
+  O  O26  1  0.767377  0.231527  0.714897  1

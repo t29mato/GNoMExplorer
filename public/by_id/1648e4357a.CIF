@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_YbMnTeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.10526700
+_cell_length_b   5.10528281
+_cell_length_c   5.02247900
+_cell_angle_alpha   89.99993323
+_cell_angle_beta   90.00024894
+_cell_angle_gamma   120.00003615
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbMnTeO6
+_chemical_formula_sum   'Yb1 Mn1 Te1 O6'
+_cell_volume   113.36705598
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.666668  0.333335  0.999999  1
+  Mn  Mn1  1  0.999990  0.999991  0.500004  1
+  Te  Te2  1  0.333336  0.666667  0.499999  1
+  O  O3  1  0.295206  0.331065  0.285008  1
+  O  O4  1  0.035858  0.704795  0.285006  1
+  O  O5  1  0.668938  0.964142  0.285007  1
+  O  O6  1  0.035861  0.331064  0.714993  1
+  O  O7  1  0.668940  0.704796  0.714992  1
+  O  O8  1  0.295205  0.964142  0.714994  1

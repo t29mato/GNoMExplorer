@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CeHo(Tc2P)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.45811787
+_cell_length_b   7.45811787
+_cell_length_c   3.93853200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   89.23574002
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeHo(Tc2P)4
+_chemical_formula_sum   'Ce1 Ho1 Tc8 P4'
+_cell_volume   219.05553297
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.500000  0.500000  0.000000  1
+  Ho  Ho1  1  0.000000  0.000000  0.500000  1
+  Tc  Tc2  1  0.583200  0.159574  0.500000  1
+  Tc  Tc3  1  0.416800  0.840426  0.500000  1
+  Tc  Tc4  1  0.080487  0.338972  0.000000  1
+  Tc  Tc5  1  0.919513  0.661028  0.000000  1
+  Tc  Tc6  1  0.159574  0.583200  0.500000  1
+  Tc  Tc7  1  0.840426  0.416800  0.500000  1
+  Tc  Tc8  1  0.338972  0.080487  0.000000  1
+  Tc  Tc9  1  0.661028  0.919513  0.000000  1
+  P  P10  1  0.715822  0.715822  0.500000  1
+  P  P11  1  0.284178  0.284178  0.500000  1
+  P  P12  1  0.210078  0.789922  0.000000  1
+  P  P13  1  0.789922  0.210078  0.000000  1

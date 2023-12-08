@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ba3LuNiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.11264758
+_cell_length_b   7.11264796
+_cell_length_c   7.11264772
+_cell_angle_alpha   93.88181264
+_cell_angle_beta   93.88182083
+_cell_angle_gamma   93.88181235
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3LuNiO6
+_chemical_formula_sum   'Ba6 Lu2 Ni2 O12'
+_cell_volume   357.23244182
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.379707  0.120292  0.750000  1
+  Ba  Ba1  1  0.750000  0.379708  0.120293  1
+  Ba  Ba2  1  0.249999  0.620293  0.879708  1
+  Ba  Ba3  1  0.620292  0.879707  0.250001  1
+  Ba  Ba4  1  0.120293  0.750000  0.379708  1
+  Ba  Ba5  1  0.879707  0.250000  0.620293  1
+  Lu  Lu6  1  0.750000  0.750001  0.750000  1
+  Lu  Lu7  1  0.250001  0.250000  0.250000  1
+  Ni  Ni8  1  0.500000  0.500000  0.500000  1
+  Ni  Ni9  1  0.000000  0.000000  0.000000  1
+  O  O10  1  0.783482  0.595483  0.470738  1
+  O  O11  1  0.595484  0.470737  0.783482  1
+  O  O12  1  0.470737  0.783482  0.595484  1
+  O  O13  1  0.029262  0.904517  0.716519  1
+  O  O14  1  0.904516  0.716518  0.029262  1
+  O  O15  1  0.716519  0.029262  0.904516  1
+  O  O16  1  0.216519  0.404516  0.529263  1
+  O  O17  1  0.404516  0.529262  0.216519  1
+  O  O18  1  0.529262  0.216519  0.404515  1
+  O  O19  1  0.970738  0.095484  0.283482  1
+  O  O20  1  0.283482  0.970737  0.095483  1
+  O  O21  1  0.095483  0.283481  0.970737  1

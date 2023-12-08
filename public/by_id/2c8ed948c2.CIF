@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_LiEr19(Cd3Co)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.43731700
+_cell_length_b   9.43731602
+_cell_length_c   9.56765000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999292
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiEr19(Cd3Co)2
+_chemical_formula_sum   'Li1 Er19 Cd6 Co2'
+_cell_volume   737.96027473
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.000000  0.000000  0.500000  1
+  Er  Er1  1  0.000000  0.000000  0.000000  1
+  Er  Er2  1  0.542765  0.457235  0.253111  1
+  Er  Er3  1  0.542765  0.085530  0.253111  1
+  Er  Er4  1  0.914470  0.457235  0.253111  1
+  Er  Er5  1  0.457235  0.542765  0.746889  1
+  Er  Er6  1  0.457235  0.914470  0.746889  1
+  Er  Er7  1  0.085530  0.542765  0.746889  1
+  Er  Er8  1  0.210374  0.789626  0.435573  1
+  Er  Er9  1  0.210374  0.420750  0.435573  1
+  Er  Er10  1  0.579250  0.789626  0.435573  1
+  Er  Er11  1  0.789626  0.210374  0.564427  1
+  Er  Er12  1  0.789626  0.579250  0.564427  1
+  Er  Er13  1  0.420750  0.210374  0.564427  1
+  Er  Er14  1  0.787685  0.212315  0.939277  1
+  Er  Er15  1  0.787685  0.575368  0.939277  1
+  Er  Er16  1  0.424632  0.212315  0.939277  1
+  Er  Er17  1  0.212315  0.787685  0.060723  1
+  Er  Er18  1  0.212315  0.424632  0.060723  1
+  Er  Er19  1  0.575368  0.787685  0.060723  1
+  Cd  Cd20  1  0.888737  0.111263  0.260037  1
+  Cd  Cd21  1  0.888737  0.777474  0.260037  1
+  Cd  Cd22  1  0.222526  0.111263  0.260037  1
+  Cd  Cd23  1  0.111263  0.888737  0.739963  1
+  Cd  Cd24  1  0.111263  0.222526  0.739963  1
+  Cd  Cd25  1  0.777474  0.888737  0.739963  1
+  Co  Co26  1  0.333333  0.666667  0.249107  1
+  Co  Co27  1  0.666667  0.333333  0.750893  1

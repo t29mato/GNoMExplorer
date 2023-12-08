@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Ta6Be(Co8P3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.81657653
+_cell_length_b   7.81487457
+_cell_length_c   7.81487443
+_cell_angle_alpha   59.78087161
+_cell_angle_beta   59.99279433
+_cell_angle_gamma   59.99279853
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta6Be(Co8P3)2
+_chemical_formula_sum   'Ta6 Be1 Co16 P6'
+_cell_volume   336.95668732
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.803097  0.206145  0.793855  1
+  Ta  Ta1  1  0.196904  0.206146  0.793855  1
+  Ta  Ta2  1  0.803097  0.793855  0.206146  1
+  Ta  Ta3  1  0.798584  0.201416  0.201416  1
+  Ta  Ta4  1  0.201416  0.798584  0.798584  1
+  Ta  Ta5  1  0.196903  0.793855  0.206146  1
+  Be  Be6  1  0.000000  0.500000  0.500000  1
+  Co  Co7  1  0.495898  0.834849  0.834849  1
+  Co  Co8  1  0.833353  0.497206  0.836085  1
+  Co  Co9  1  0.833353  0.836085  0.497206  1
+  Co  Co10  1  0.166647  0.502794  0.163915  1
+  Co  Co11  1  0.166647  0.163915  0.502794  1
+  Co  Co12  1  0.504102  0.165151  0.165151  1
+  Co  Co13  1  0.834403  0.834849  0.834849  1
+  Co  Co14  1  0.381231  0.383095  0.383095  1
+  Co  Co15  1  0.147421  0.616905  0.616905  1
+  Co  Co16  1  0.616629  0.149262  0.617479  1
+  Co  Co17  1  0.616629  0.617479  0.149262  1
+  Co  Co18  1  0.383371  0.850738  0.382521  1
+  Co  Co19  1  0.383371  0.382521  0.850738  1
+  Co  Co20  1  0.852579  0.383095  0.383095  1
+  Co  Co21  1  0.618769  0.616905  0.616905  1
+  Co  Co22  1  0.165597  0.165151  0.165151  1
+  P  P23  1  0.500000  0.500000  0.500000  1
+  P  P24  1  0.500000  0.500000  0.000000  1
+  P  P25  1  0.000000  0.000000  0.500000  1
+  P  P26  1  0.500000  0.000000  0.500000  1
+  P  P27  1  0.500000  0.000000  0.000000  1
+  P  P28  1  0.000000  0.500000  0.000000  1

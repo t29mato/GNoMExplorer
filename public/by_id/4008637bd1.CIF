@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SrLi(ThIr4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.35455678
+_cell_length_b   9.35455625
+_cell_length_c   9.35455807
+_cell_angle_alpha   33.56077548
+_cell_angle_beta   33.56077830
+_cell_angle_gamma   33.56078039
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrLi(ThIr4)2
+_chemical_formula_sum   'Sr1 Li1 Th2 Ir8'
+_cell_volume   222.83557937
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.124103  0.124103  0.124103  1
+  Li  Li1  1  0.627508  0.627508  0.627508  1
+  Th  Th2  1  0.995916  0.995916  0.995916  1
+  Th  Th3  1  0.505508  0.505508  0.505508  1
+  Ir  Ir4  1  0.562280  0.562280  0.056555  1
+  Ir  Ir5  1  0.064140  0.064140  0.563474  1
+  Ir  Ir6  1  0.562280  0.056555  0.562280  1
+  Ir  Ir7  1  0.064140  0.563474  0.064140  1
+  Ir  Ir8  1  0.811996  0.811996  0.811996  1
+  Ir  Ir9  1  0.312101  0.312101  0.312101  1
+  Ir  Ir10  1  0.056555  0.562280  0.562280  1
+  Ir  Ir11  1  0.563474  0.064140  0.064140  1

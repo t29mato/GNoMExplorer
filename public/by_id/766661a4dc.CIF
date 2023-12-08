@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_NaTb(CO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.42695926
+_cell_length_b   6.42695882
+_cell_length_c   6.42695916
+_cell_angle_alpha   46.51156714
+_cell_angle_beta   46.51157179
+_cell_angle_gamma   46.51157590
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaTb(CO3)2
+_chemical_formula_sum   'Na1 Tb1 C2 O6'
+_cell_volume   127.59766568
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.500000  0.500000  0.500000  1
+  Tb  Tb1  1  0.000000  0.000000  0.000000  1
+  C  C2  1  0.254527  0.254527  0.254527  1
+  C  C3  1  0.745473  0.745473  0.745473  1
+  O  O4  1  0.481020  0.763177  0.991556  1
+  O  O5  1  0.008443  0.518981  0.236824  1
+  O  O6  1  0.236824  0.008443  0.518980  1
+  O  O7  1  0.763176  0.991557  0.481020  1
+  O  O8  1  0.991557  0.481019  0.763176  1
+  O  O9  1  0.518980  0.236823  0.008444  1

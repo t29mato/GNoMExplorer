@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Li2Pr3ThSi6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.35898830
+_cell_length_b   8.33797380
+_cell_length_c   5.90613299
+_cell_angle_alpha   69.47547637
+_cell_angle_beta   69.09412715
+_cell_angle_gamma   41.43040842
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Pr3ThSi6
+_chemical_formula_sum   'Li2 Pr3 Th1 Si6'
+_cell_volume   252.14639748
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.666775  0.665663  0.334337  1
+  Li  Li1  1  0.334337  0.333225  0.666775  1
+  Pr  Pr2  1  0.755643  0.244357  0.755643  1
+  Pr  Pr3  1  0.750290  0.749710  0.750290  1
+  Pr  Pr4  1  0.250290  0.249710  0.250290  1
+  Th  Th5  1  0.242869  0.757131  0.242869  1
+  Si  Si6  1  0.665347  0.169916  0.334694  1
+  Si  Si7  1  0.830084  0.334653  0.169956  1
+  Si  Si8  1  0.334694  0.830044  0.665347  1
+  Si  Si9  1  0.169956  0.665306  0.830084  1
+  Si  Si10  1  0.834276  0.834562  0.165438  1
+  Si  Si11  1  0.165438  0.165724  0.834276  1

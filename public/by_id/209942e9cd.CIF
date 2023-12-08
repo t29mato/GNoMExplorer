@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Li2LaCeIr2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.95103600
+_cell_length_b   7.14036394
+_cell_length_c   8.59121916
+_cell_angle_alpha   88.44365207
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2LaCeIr2
+_chemical_formula_sum   'Li4 La2 Ce2 Ir4'
+_cell_volume   242.28464496
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.250000  0.628458  0.552576  1
+  Li  Li1  1  0.750000  0.371542  0.447424  1
+  Li  Li2  1  0.750000  0.883974  0.049813  1
+  Li  Li3  1  0.250000  0.116026  0.950187  1
+  La  La4  1  0.250000  0.553313  0.181617  1
+  La  La5  1  0.750000  0.446687  0.818383  1
+  Ce  Ce6  1  0.750000  0.948828  0.680574  1
+  Ce  Ce7  1  0.250000  0.051172  0.319426  1
+  Ir  Ir8  1  0.250000  0.747561  0.859931  1
+  Ir  Ir9  1  0.750000  0.252439  0.140069  1
+  Ir  Ir10  1  0.750000  0.778190  0.375059  1
+  Ir  Ir11  1  0.250000  0.221810  0.624941  1

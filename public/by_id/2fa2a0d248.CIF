@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_ThMg(Al2Cu3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.44276135
+_cell_length_b   8.21831691
+_cell_length_c   8.00016202
+_cell_angle_alpha   80.15124240
+_cell_angle_beta   50.84031829
+_cell_angle_gamma   49.00844229
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThMg(Al2Cu3)2
+_chemical_formula_sum   'Th2 Mg2 Al8 Cu12'
+_cell_volume   365.51215555
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.000000  0.000000  0.000000  1
+  Th  Th1  1  0.250000  0.250000  0.250000  1
+  Mg  Mg2  1  0.500000  0.500000  0.500000  1
+  Mg  Mg3  1  0.750000  0.750000  0.750000  1
+  Al  Al4  1  0.760724  0.068516  0.827227  1
+  Al  Al5  1  0.827227  0.343534  0.760724  1
+  Al  Al6  1  0.068516  0.760724  0.343534  1
+  Al  Al7  1  0.343534  0.827227  0.068516  1
+  Al  Al8  1  0.489276  0.181484  0.422773  1
+  Al  Al9  1  0.422773  0.906466  0.489276  1
+  Al  Al10  1  0.181484  0.489276  0.906466  1
+  Al  Al11  1  0.906466  0.422773  0.181484  1
+  Cu  Cu12  1  0.625000  0.125000  0.625000  1
+  Cu  Cu13  1  0.625000  0.625000  0.625000  1
+  Cu  Cu14  1  0.125000  0.625000  0.625000  1
+  Cu  Cu15  1  0.625000  0.625000  0.125000  1
+  Cu  Cu16  1  0.488486  0.432395  0.182135  1
+  Cu  Cu17  1  0.182135  0.896984  0.488486  1
+  Cu  Cu18  1  0.432395  0.488486  0.896984  1
+  Cu  Cu19  1  0.896984  0.182135  0.432395  1
+  Cu  Cu20  1  0.761514  0.817605  0.067865  1
+  Cu  Cu21  1  0.067865  0.353016  0.761514  1
+  Cu  Cu22  1  0.817605  0.761514  0.353016  1
+  Cu  Cu23  1  0.353016  0.067865  0.817605  1

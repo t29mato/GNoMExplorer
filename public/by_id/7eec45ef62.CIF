@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_DySb5(BrO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.60651500
+_cell_length_b   5.54386800
+_cell_length_c   18.47502200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DySb5(BrO4)2
+_chemical_formula_sum   'Dy2 Sb10 Br4 O16'
+_cell_volume   574.23655267
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.250000  0.233542  0.500000  1
+  Dy  Dy1  1  0.250000  0.266458  0.000000  1
+  Sb  Sb2  1  0.325253  0.699097  0.641431  1
+  Sb  Sb3  1  0.818500  0.303708  0.641837  1
+  Sb  Sb4  1  0.681500  0.196292  0.141837  1
+  Sb  Sb5  1  0.818500  0.196292  0.858163  1
+  Sb  Sb6  1  0.681500  0.303708  0.358163  1
+  Sb  Sb7  1  0.174747  0.699097  0.358569  1
+  Sb  Sb8  1  0.325253  0.800903  0.858569  1
+  Sb  Sb9  1  0.174747  0.800903  0.141431  1
+  Sb  Sb10  1  0.750000  0.826270  0.500000  1
+  Sb  Sb11  1  0.750000  0.673730  0.000000  1
+  Br  Br12  1  0.695857  0.750000  0.250000  1
+  Br  Br13  1  0.303741  0.250000  0.750000  1
+  Br  Br14  1  0.804143  0.750000  0.750000  1
+  Br  Br15  1  0.196259  0.250000  0.250000  1
+  O  O16  1  0.073497  0.931974  0.435007  1
+  O  O17  1  0.426503  0.931974  0.564993  1
+  O  O18  1  0.073497  0.568026  0.064993  1
+  O  O19  1  0.426503  0.568026  0.935007  1
+  O  O20  1  0.919226  0.081738  0.561592  1
+  O  O21  1  0.580774  0.081738  0.438408  1
+  O  O22  1  0.919226  0.418262  0.938408  1
+  O  O23  1  0.580774  0.418262  0.061592  1
+  O  O24  1  0.963385  0.450241  0.411318  1
+  O  O25  1  0.438702  0.980806  0.086191  1
+  O  O26  1  0.963385  0.049759  0.088682  1
+  O  O27  1  0.536615  0.049759  0.911318  1
+  O  O28  1  0.061298  0.519194  0.586191  1
+  O  O29  1  0.438702  0.519194  0.413809  1
+  O  O30  1  0.061298  0.980806  0.913809  1
+  O  O31  1  0.536615  0.450241  0.588682  1

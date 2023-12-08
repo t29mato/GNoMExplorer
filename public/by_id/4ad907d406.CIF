@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SmDy(GaRh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.21018200
+_cell_length_b   6.90444025
+_cell_length_c   7.98902100
+_cell_angle_alpha   89.86122579
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmDy(GaRh)2
+_chemical_formula_sum   'Sm2 Dy2 Ga4 Rh4'
+_cell_volume   232.23177137
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.750000  0.964540  0.314453  1
+  Sm  Sm1  1  0.250000  0.035460  0.685547  1
+  Dy  Dy2  1  0.250000  0.534727  0.815793  1
+  Dy  Dy3  1  0.750000  0.465273  0.184207  1
+  Ga  Ga4  1  0.750000  0.853650  0.934797  1
+  Ga  Ga5  1  0.250000  0.146350  0.065203  1
+  Ga  Ga6  1  0.250000  0.641638  0.436167  1
+  Ga  Ga7  1  0.750000  0.358362  0.563833  1
+  Rh  Rh8  1  0.750000  0.732847  0.619992  1
+  Rh  Rh9  1  0.250000  0.267153  0.380008  1
+  Rh  Rh10  1  0.250000  0.760554  0.115062  1
+  Rh  Rh11  1  0.750000  0.239446  0.884938  1

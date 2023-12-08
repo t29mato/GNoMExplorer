@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_LaPrFe2(Tc5C)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.97217797
+_cell_length_b   6.97217853
+_cell_length_c   6.96688974
+_cell_angle_alpha   82.76529970
+_cell_angle_beta   82.76529866
+_cell_angle_gamma   83.03370574
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaPrFe2(Tc5C)3
+_chemical_formula_sum   'La1 Pr1 Fe2 Tc15 C3'
+_cell_volume   331.38032096
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.648606  0.648606  0.648573  1
+  Pr  Pr1  1  0.350348  0.350348  0.350831  1
+  Fe  Fe2  1  0.500309  0.999828  0.999775  1
+  Fe  Fe3  1  0.999828  0.500309  0.999775  1
+  Tc  Tc4  1  0.000235  0.000235  0.499901  1
+  Tc  Tc5  1  0.723346  0.276377  0.000336  1
+  Tc  Tc6  1  0.001323  0.720521  0.273347  1
+  Tc  Tc7  1  0.279385  0.999392  0.726743  1
+  Tc  Tc8  1  0.999392  0.279385  0.726743  1
+  Tc  Tc9  1  0.720521  0.001323  0.273347  1
+  Tc  Tc10  1  0.276377  0.723346  0.000336  1
+  Tc  Tc11  1  0.344558  0.344558  0.867612  1
+  Tc  Tc12  1  0.865869  0.349565  0.343624  1
+  Tc  Tc13  1  0.349565  0.865869  0.343624  1
+  Tc  Tc14  1  0.655117  0.655117  0.133253  1
+  Tc  Tc15  1  0.134567  0.650419  0.655864  1
+  Tc  Tc16  1  0.650419  0.134567  0.655864  1
+  Tc  Tc17  1  0.901958  0.901958  0.902956  1
+  Tc  Tc18  1  0.098164  0.098164  0.097210  1
+  C  C19  1  0.499275  0.499275  0.001758  1
+  C  C20  1  0.001636  0.499202  0.499264  1
+  C  C21  1  0.499202  0.001636  0.499264  1

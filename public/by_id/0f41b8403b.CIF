@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HoPa(CuRh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.77374800
+_cell_length_b   7.02093704
+_cell_length_c   8.23300992
+_cell_angle_alpha   92.19920152
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoPa(CuRh)2
+_chemical_formula_sum   'Ho2 Pa2 Cu4 Rh4'
+_cell_volume   217.97496465
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.250000  0.057714  0.309860  1
+  Ho  Ho1  1  0.750000  0.942286  0.690140  1
+  Pa  Pa2  1  0.250000  0.550699  0.195411  1
+  Pa  Pa3  1  0.750000  0.449301  0.804589  1
+  Cu  Cu4  1  0.250000  0.104977  0.935834  1
+  Cu  Cu5  1  0.750000  0.895023  0.064166  1
+  Cu  Cu6  1  0.250000  0.623616  0.558889  1
+  Cu  Cu7  1  0.750000  0.376384  0.441111  1
+  Rh  Rh8  1  0.750000  0.747900  0.360911  1
+  Rh  Rh9  1  0.250000  0.252100  0.639089  1
+  Rh  Rh10  1  0.750000  0.282602  0.112585  1
+  Rh  Rh11  1  0.250000  0.717398  0.887415  1

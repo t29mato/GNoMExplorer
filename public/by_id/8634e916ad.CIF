@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Ti5Co16Si7Mo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.86563325
+_cell_length_b   7.86602321
+_cell_length_c   7.86602301
+_cell_angle_alpha   59.99671208
+_cell_angle_beta   60.00163578
+_cell_angle_gamma   60.00164145
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti5Co16Si7Mo
+_chemical_formula_sum   'Ti5 Co16 Si7 Mo1'
+_cell_volume   344.13519768
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.799373  0.798572  0.200627  1
+  Ti  Ti1  1  0.795342  0.204658  0.204658  1
+  Ti  Ti2  1  0.201428  0.200627  0.798572  1
+  Ti  Ti3  1  0.799373  0.200627  0.798572  1
+  Ti  Ti4  1  0.201428  0.798572  0.200627  1
+  Co  Co5  1  0.619845  0.619451  0.140859  1
+  Co  Co6  1  0.165537  0.501954  0.166971  1
+  Co  Co7  1  0.859141  0.380155  0.380155  1
+  Co  Co8  1  0.498046  0.834463  0.834463  1
+  Co  Co9  1  0.502471  0.165786  0.165786  1
+  Co  Co10  1  0.834214  0.834044  0.497529  1
+  Co  Co11  1  0.165537  0.166971  0.501954  1
+  Co  Co12  1  0.144207  0.619297  0.619297  1
+  Co  Co13  1  0.165956  0.165786  0.165786  1
+  Co  Co14  1  0.380703  0.382801  0.855793  1
+  Co  Co15  1  0.617199  0.619297  0.619297  1
+  Co  Co16  1  0.380703  0.855793  0.382801  1
+  Co  Co17  1  0.380549  0.380155  0.380155  1
+  Co  Co18  1  0.833029  0.834463  0.834463  1
+  Co  Co19  1  0.619845  0.140859  0.619451  1
+  Co  Co20  1  0.834214  0.497529  0.834044  1
+  Si  Si21  1  0.500262  0.999170  0.499738  1
+  Si  Si22  1  0.500262  0.499738  0.999170  1
+  Si  Si23  1  0.502355  0.497645  0.497645  1
+  Si  Si24  1  0.000830  0.999170  0.499738  1
+  Si  Si25  1  0.000830  0.499738  0.999170  1
+  Si  Si26  1  0.999612  0.500388  0.500388  1
+  Si  Si27  1  0.499612  0.000388  0.000388  1
+  Mo  Mo28  1  0.198096  0.801904  0.801904  1

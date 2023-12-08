@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ho8Ga(Si4Pt)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.13095800
+_cell_length_b   8.13095834
+_cell_length_c   8.11175500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000675
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho8Ga(Si4Pt)3
+_chemical_formula_sum   'Ho8 Ga1 Si12 Pt3'
+_cell_volume   464.43921349
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.000000  0.000000  0.248310  1
+  Ho  Ho1  1  0.000000  0.000000  0.748502  1
+  Ho  Ho2  1  0.502638  0.497362  0.251049  1
+  Ho  Ho3  1  0.502638  0.005275  0.251049  1
+  Ho  Ho4  1  0.994725  0.497362  0.251049  1
+  Ho  Ho5  1  0.499687  0.500313  0.749681  1
+  Ho  Ho6  1  0.499687  0.999373  0.749681  1
+  Ho  Ho7  1  0.000627  0.500313  0.749681  1
+  Ga  Ga8  1  0.333333  0.666667  0.017310  1
+  Si  Si9  1  0.165711  0.834289  0.495319  1
+  Si  Si10  1  0.165711  0.331420  0.495319  1
+  Si  Si11  1  0.668580  0.834289  0.495319  1
+  Si  Si12  1  0.834329  0.165671  0.503681  1
+  Si  Si13  1  0.834329  0.668657  0.503681  1
+  Si  Si14  1  0.331343  0.165671  0.503681  1
+  Si  Si15  1  0.832989  0.167011  0.003224  1
+  Si  Si16  1  0.832989  0.665978  0.003224  1
+  Si  Si17  1  0.334022  0.167011  0.003224  1
+  Si  Si18  1  0.163612  0.836388  0.994461  1
+  Si  Si19  1  0.163612  0.327223  0.994461  1
+  Si  Si20  1  0.672777  0.836388  0.994461  1
+  Pt  Pt21  1  0.333333  0.666667  0.501411  1
+  Pt  Pt22  1  0.666667  0.333333  0.499293  1
+  Pt  Pt23  1  0.666667  0.333333  0.992929  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Yb(MoN)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.14118656
+_cell_length_b   6.14118682
+_cell_length_c   6.14118759
+_cell_angle_alpha   93.37753376
+_cell_angle_beta   93.37754956
+_cell_angle_gamma   151.90524492
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Yb(MoN)4
+_chemical_formula_sum   'Yb1 Mo4 N4'
+_cell_volume   105.81049604
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.000000  0.000000  0.000000  1
+  Mo  Mo1  1  0.821074  0.381169  0.202243  1
+  Mo  Mo2  1  0.618832  0.821074  0.439905  1
+  Mo  Mo3  1  0.381169  0.178927  0.560096  1
+  Mo  Mo4  1  0.178927  0.618832  0.797757  1
+  N  N5  1  0.403161  0.717879  0.121039  1
+  N  N6  1  0.717879  0.596840  0.314717  1
+  N  N7  1  0.282122  0.403161  0.685284  1
+  N  N8  1  0.596840  0.282122  0.878962  1

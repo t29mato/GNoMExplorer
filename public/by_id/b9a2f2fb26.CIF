@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_La12Co(AuI4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.03640693
+_cell_length_b   11.03640642
+_cell_length_c   11.03640646
+_cell_angle_alpha   109.07578965
+_cell_angle_beta   109.07578969
+_cell_angle_gamma   109.07578232
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La12Co(AuI4)3
+_chemical_formula_sum   'La12 Co1 Au3 I12'
+_cell_volume   1049.68817190
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.457842  0.468328  0.238330  1
+  La  La1  1  0.750000  0.235525  0.264475  1
+  La  La2  1  0.750000  0.014722  0.485278  1
+  La  La3  1  0.238330  0.457842  0.468328  1
+  La  La4  1  0.264475  0.750000  0.235525  1
+  La  La5  1  0.042158  0.261670  0.031672  1
+  La  La6  1  0.031672  0.042158  0.261670  1
+  La  La7  1  0.485278  0.750000  0.014722  1
+  La  La8  1  0.468328  0.238330  0.457842  1
+  La  La9  1  0.014722  0.485278  0.750000  1
+  La  La10  1  0.261670  0.031672  0.042158  1
+  La  La11  1  0.235525  0.264475  0.750000  1
+  Co  Co12  1  0.250000  0.250000  0.250000  1
+  Au  Au13  1  0.499660  0.000340  0.250000  1
+  Au  Au14  1  0.000340  0.250000  0.499660  1
+  Au  Au15  1  0.250000  0.499660  0.000340  1
+  I  I16  1  0.250000  0.756488  0.743512  1
+  I  I17  1  0.517060  0.508517  0.759061  1
+  I  I18  1  0.982940  0.740939  0.991483  1
+  I  I19  1  0.743512  0.250000  0.756488  1
+  I  I20  1  0.991483  0.982940  0.740939  1
+  I  I21  1  0.250000  0.991185  0.508815  1
+  I  I22  1  0.759061  0.517060  0.508517  1
+  I  I23  1  0.508815  0.250000  0.991185  1
+  I  I24  1  0.756488  0.743512  0.250000  1
+  I  I25  1  0.740939  0.991483  0.982940  1
+  I  I26  1  0.991185  0.508815  0.250000  1
+  I  I27  1  0.508517  0.759061  0.517060  1

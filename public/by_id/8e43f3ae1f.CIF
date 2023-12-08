@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_La3CdHg2Pt2Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.07532408
+_cell_length_b   8.02959367
+_cell_length_c   3.97869100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.81284471
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3CdHg2Pt2Au
+_chemical_formula_sum   'La3 Cd1 Hg2 Pt2 Au1'
+_cell_volume   223.84135357
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.414670  0.000571  0.000000  1
+  La  La1  1  0.585330  0.585901  0.000000  1
+  La  La2  1  0.000000  0.410210  0.000000  1
+  Cd  Cd3  1  0.000000  0.742438  0.500000  1
+  Hg  Hg4  1  0.739083  0.999616  0.500000  1
+  Hg  Hg5  1  0.260917  0.260533  0.500000  1
+  Pt  Pt6  1  0.670344  0.337889  0.500000  1
+  Pt  Pt7  1  0.329656  0.667546  0.500000  1
+  Au  Au8  1  0.000000  0.995294  0.000000  1

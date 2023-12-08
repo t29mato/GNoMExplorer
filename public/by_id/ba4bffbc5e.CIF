@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ce2Dy(CoSi)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.49324100
+_cell_length_b   7.87387300
+_cell_length_c   12.30666500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2Dy(CoSi)2
+_chemical_formula_sum   'Ce8 Dy4 Co8 Si8'
+_cell_volume   532.30119030
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.161505  0.400196  0.409120  1
+  Ce  Ce1  1  0.161505  0.099804  0.590880  1
+  Ce  Ce2  1  0.838495  0.900196  0.090880  1
+  Ce  Ce3  1  0.838495  0.599804  0.909120  1
+  Ce  Ce4  1  0.838495  0.599804  0.590880  1
+  Ce  Ce5  1  0.838495  0.900196  0.409120  1
+  Ce  Ce6  1  0.161505  0.099804  0.909120  1
+  Ce  Ce7  1  0.161505  0.400196  0.090880  1
+  Dy  Dy8  1  0.344857  0.745690  0.750000  1
+  Dy  Dy9  1  0.344857  0.754310  0.250000  1
+  Dy  Dy10  1  0.655143  0.245690  0.750000  1
+  Dy  Dy11  1  0.655143  0.254310  0.250000  1
+  Co  Co12  1  0.377845  0.042382  0.412831  1
+  Co  Co13  1  0.377845  0.457618  0.587169  1
+  Co  Co14  1  0.622155  0.542382  0.087169  1
+  Co  Co15  1  0.622155  0.957618  0.912831  1
+  Co  Co16  1  0.377845  0.042382  0.087169  1
+  Co  Co17  1  0.377845  0.457618  0.912831  1
+  Co  Co18  1  0.622155  0.542382  0.412831  1
+  Co  Co19  1  0.622155  0.957618  0.587169  1
+  Si  Si20  1  0.647327  0.250000  0.500000  1
+  Si  Si21  1  0.352673  0.750000  0.000000  1
+  Si  Si22  1  0.352673  0.750000  0.500000  1
+  Si  Si23  1  0.647327  0.250000  0.000000  1
+  Si  Si24  1  0.839377  0.896381  0.750000  1
+  Si  Si25  1  0.839377  0.603619  0.250000  1
+  Si  Si26  1  0.160623  0.396381  0.750000  1
+  Si  Si27  1  0.160623  0.103619  0.250000  1

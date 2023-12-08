@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_Ti18Si16TcMo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.67319253
+_cell_length_b   6.67319313
+_cell_length_c   12.17666202
+_cell_angle_alpha   89.90153229
+_cell_angle_beta   90.09846437
+_cell_angle_gamma   90.06895853
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti18Si16TcMo
+_chemical_formula_sum   'Ti18 Si16 Tc1 Mo1'
+_cell_volume   542.24306370
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.995204  0.147551  0.622675  1
+  Ti  Ti1  1  0.351280  0.498006  0.870469  1
+  Ti  Ti2  1  0.649523  0.504134  0.371196  1
+  Ti  Ti3  1  0.498006  0.351280  0.129531  1
+  Ti  Ti4  1  0.504134  0.649523  0.628804  1
+  Ti  Ti5  1  0.005359  0.850409  0.121071  1
+  Ti  Ti6  1  0.147551  0.995204  0.377325  1
+  Ti  Ti7  1  0.850409  0.005359  0.878929  1
+  Ti  Ti8  1  0.002001  0.344812  0.221069  1
+  Ti  Ti9  1  0.156192  0.501314  0.469462  1
+  Ti  Ti10  1  0.841513  0.499725  0.969911  1
+  Ti  Ti11  1  0.501314  0.156192  0.530538  1
+  Ti  Ti12  1  0.499725  0.841513  0.030089  1
+  Ti  Ti13  1  0.997910  0.656159  0.720751  1
+  Ti  Ti14  1  0.344812  0.002001  0.778931  1
+  Ti  Ti15  1  0.656159  0.997910  0.279249  1
+  Ti  Ti16  1  0.328973  0.670960  0.248884  1
+  Ti  Ti17  1  0.670960  0.328973  0.751116  1
+  Si  Si18  1  0.046142  0.300722  0.815142  1
+  Si  Si19  1  0.198728  0.541159  0.063348  1
+  Si  Si20  1  0.801012  0.455085  0.564551  1
+  Si  Si21  1  0.541159  0.198728  0.936652  1
+  Si  Si22  1  0.455085  0.801012  0.435449  1
+  Si  Si23  1  0.955489  0.698353  0.313322  1
+  Si  Si24  1  0.300722  0.046142  0.184858  1
+  Si  Si25  1  0.698353  0.955489  0.686678  1
+  Si  Si26  1  0.294802  0.356751  0.673480  1
+  Si  Si27  1  0.141819  0.795162  0.922002  1
+  Si  Si28  1  0.857989  0.205994  0.422981  1
+  Si  Si29  1  0.795162  0.141819  0.077998  1
+  Si  Si30  1  0.205994  0.857989  0.577019  1
+  Si  Si31  1  0.705443  0.643726  0.173369  1
+  Si  Si32  1  0.356751  0.294802  0.326520  1
+  Si  Si33  1  0.643726  0.705443  0.826631  1
+  Tc  Tc34  1  0.172284  0.172284  0.000000  1
+  Mo  Mo35  1  0.828318  0.828318  0.500000  1

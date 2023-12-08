@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Er5(CoSe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.50175150
+_cell_length_b   7.50175010
+_cell_length_c   14.33117300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   150.23191660
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er5(CoSe)2
+_chemical_formula_sum   'Er10 Co4 Se4'
+_cell_volume   400.42201251
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.037704  0.962296  0.877859  1
+  Er  Er1  1  0.962296  0.037704  0.122141  1
+  Er  Er2  1  0.744273  0.255727  0.622869  1
+  Er  Er3  1  0.962296  0.037704  0.377859  1
+  Er  Er4  1  0.391862  0.608138  0.750000  1
+  Er  Er5  1  0.255727  0.744273  0.377131  1
+  Er  Er6  1  0.255727  0.744273  0.122869  1
+  Er  Er7  1  0.744273  0.255727  0.877131  1
+  Er  Er8  1  0.608138  0.391862  0.250000  1
+  Er  Er9  1  0.037704  0.962296  0.622141  1
+  Co  Co10  1  0.411289  0.588711  0.250000  1
+  Co  Co11  1  0.184444  0.815556  0.750000  1
+  Co  Co12  1  0.588711  0.411289  0.750000  1
+  Co  Co13  1  0.815556  0.184444  0.250000  1
+  Se  Se14  1  0.382314  0.617686  0.539370  1
+  Se  Se15  1  0.617686  0.382314  0.460630  1
+  Se  Se16  1  0.382314  0.617686  0.960630  1
+  Se  Se17  1  0.617686  0.382314  0.039370  1

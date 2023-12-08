@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Ti2AlSi2Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.65641017
+_cell_length_b   3.62065500
+_cell_length_c   7.09795473
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   75.07420617
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2AlSi2Ge
+_chemical_formula_sum   'Ti2 Al1 Si2 Ge1'
+_cell_volume   90.79655682
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.096030  0.750000  0.807939  1
+  Ti  Ti1  1  0.904853  0.250000  0.190294  1
+  Al  Al2  1  0.750933  0.750000  0.498133  1
+  Si  Si3  1  0.439357  0.750000  0.121286  1
+  Si  Si4  1  0.559975  0.250000  0.880050  1
+  Ge  Ge5  1  0.248851  0.250000  0.502296  1

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_MnBe4Fe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.17914138
+_cell_length_b   4.17914155
+_cell_length_c   4.17914200
+_cell_angle_alpha   60.00001229
+_cell_angle_beta   60.00001093
+_cell_angle_gamma   59.99999951
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnBe4Fe
+_chemical_formula_sum   'Mn1 Be4 Fe1'
+_cell_volume   51.61148438
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.000000  0.000000  0.000000  1
+  Be  Be1  1  0.624803  0.624803  0.125591  1
+  Be  Be2  1  0.624803  0.125591  0.624803  1
+  Be  Be3  1  0.125591  0.624803  0.624803  1
+  Be  Be4  1  0.624803  0.624803  0.624803  1
+  Fe  Fe5  1  0.250000  0.250000  0.250000  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_MnInMoO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.47860208
+_cell_length_b   6.47149612
+_cell_length_c   6.47149620
+_cell_angle_alpha   59.91871394
+_cell_angle_beta   59.96366999
+_cell_angle_gamma   59.96367312
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnInMoO4
+_chemical_formula_sum   'Mn2 In2 Mo2 O8'
+_cell_volume   191.63277975
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.000372  0.999628  0.999628  1
+  Mn  Mn1  1  0.249628  0.250372  0.250372  1
+  In  In2  1  0.625000  0.125000  0.625000  1
+  In  In3  1  0.625000  0.625000  0.125000  1
+  Mo  Mo4  1  0.125000  0.625000  0.625000  1
+  Mo  Mo5  1  0.625000  0.625000  0.625000  1
+  O  O6  1  0.382900  0.844879  0.389322  1
+  O  O7  1  0.869192  0.864052  0.864052  1
+  O  O8  1  0.847296  0.385948  0.385948  1
+  O  O9  1  0.382900  0.389322  0.844879  1
+  O  O10  1  0.867100  0.860678  0.405121  1
+  O  O11  1  0.402704  0.864052  0.864052  1
+  O  O12  1  0.380808  0.385948  0.385948  1
+  O  O13  1  0.867100  0.405121  0.860678  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ho2Pa(AlPt)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.22577700
+_cell_length_b   7.19566887
+_cell_length_c   3.98418400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.13851368
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2Pa(AlPt)3
+_chemical_formula_sum   'Ho2 Pa1 Al3 Pt3'
+_cell_volume   179.15044040
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.415066  0.413472  0.500000  1
+  Ho  Ho1  1  0.001594  0.586528  0.500000  1
+  Pa  Pa2  1  0.579682  0.000000  0.500000  1
+  Al  Al3  1  0.757949  0.750741  0.000000  1
+  Al  Al4  1  0.007208  0.249259  0.000000  1
+  Al  Al5  1  0.232745  0.000000  0.000000  1
+  Pt  Pt6  1  0.348681  0.682113  0.000000  1
+  Pt  Pt7  1  0.666569  0.317887  0.000000  1
+  Pt  Pt8  1  0.990506  0.000000  0.500000  1

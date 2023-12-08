@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_CsTeAsO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.12038403
+_cell_length_b   5.12038604
+_cell_length_c   6.89948103
+_cell_angle_alpha   89.99563511
+_cell_angle_beta   89.99561298
+_cell_angle_gamma   120.00699091
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsTeAsO6
+_chemical_formula_sum   'Cs1 Te1 As1 O6'
+_cell_volume   156.64685939
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.999995  0.000006  0.999998  1
+  Te  Te1  1  0.666629  0.333371  0.500002  1
+  As  As2  1  0.333361  0.666640  0.500002  1
+  O  O3  1  0.012598  0.619232  0.341423  1
+  O  O4  1  0.606657  0.987475  0.341434  1
+  O  O5  1  0.380821  0.393354  0.341444  1
+  O  O6  1  0.606644  0.619177  0.658555  1
+  O  O7  1  0.012524  0.393345  0.658566  1
+  O  O8  1  0.380769  0.987403  0.658576  1

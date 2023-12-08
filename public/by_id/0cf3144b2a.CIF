@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TiCo4Si4Tc3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.72988800
+_cell_length_b   5.84191152
+_cell_length_c   6.82246050
+_cell_angle_alpha   90.64476227
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiCo4Si4Tc3
+_chemical_formula_sum   'Ti1 Co4 Si4 Tc3'
+_cell_volume   148.64978886
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.750000  0.974801  0.185668  1
+  Co  Co1  1  0.250000  0.649764  0.059188  1
+  Co  Co2  1  0.750000  0.355571  0.940885  1
+  Co  Co3  1  0.250000  0.138895  0.435822  1
+  Co  Co4  1  0.750000  0.854238  0.556049  1
+  Si  Si5  1  0.750000  0.734680  0.870140  1
+  Si  Si6  1  0.250000  0.750066  0.386790  1
+  Si  Si7  1  0.750000  0.237678  0.618357  1
+  Si  Si8  1  0.250000  0.275104  0.120661  1
+  Tc  Tc9  1  0.250000  0.029203  0.820477  1
+  Tc  Tc10  1  0.750000  0.473979  0.322073  1
+  Tc  Tc11  1  0.250000  0.526020  0.683890  1

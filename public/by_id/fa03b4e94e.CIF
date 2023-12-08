@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Li2Tb3In4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.35729253
+_cell_length_b   7.35729093
+_cell_length_c   4.71990300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   118.96333109
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Tb3In4
+_chemical_formula_sum   'Li2 Tb3 In4'
+_cell_volume   223.53330396
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.232599  0.002138  0.500000  1
+  Li  Li1  1  0.002138  0.232599  0.500000  1
+  Tb  Tb2  1  0.559375  0.993583  0.000000  1
+  Tb  Tb3  1  0.993583  0.559375  0.000000  1
+  Tb  Tb4  1  0.443135  0.443135  0.000000  1
+  In  In5  1  0.768129  0.768129  0.500000  1
+  In  In6  1  0.318005  0.661116  0.500000  1
+  In  In7  1  0.661116  0.318005  0.500000  1
+  In  In8  1  0.021920  0.021920  0.000000  1

@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Co8Si3Mo12PN4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.78844294
+_cell_length_b   7.81288890
+_cell_length_c   7.81288800
+_cell_angle_alpha   59.99999533
+_cell_angle_beta   59.89611195
+_cell_angle_gamma   59.89611731
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co8Si3Mo12PN4
+_chemical_formula_sum   'Co8 Si3 Mo12 P1 N4'
+_cell_volume   335.64110957
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.248184  0.917272  0.917272  1
+  Co  Co1  1  0.910760  0.248117  0.920562  1
+  Co  Co2  1  0.910760  0.920562  0.920562  1
+  Co  Co3  1  0.910760  0.920562  0.248117  1
+  Co  Co4  1  0.001816  0.332728  0.332728  1
+  Co  Co5  1  0.339240  0.329438  0.001883  1
+  Co  Co6  1  0.339240  0.001883  0.329438  1
+  Co  Co7  1  0.339240  0.329438  0.329438  1
+  Si  Si8  1  0.125000  0.125000  0.625000  1
+  Si  Si9  1  0.125000  0.625000  0.125000  1
+  Si  Si10  1  0.125000  0.125000  0.125000  1
+  Mo  Mo11  1  0.696618  0.304075  0.695232  1
+  Mo  Mo12  1  0.553382  0.554768  0.945925  1
+  Mo  Mo13  1  0.553382  0.945925  0.554768  1
+  Mo  Mo14  1  0.947166  0.946518  0.553158  1
+  Mo  Mo15  1  0.947166  0.553158  0.553158  1
+  Mo  Mo16  1  0.947166  0.553158  0.946518  1
+  Mo  Mo17  1  0.696618  0.304075  0.304075  1
+  Mo  Mo18  1  0.302834  0.696842  0.303482  1
+  Mo  Mo19  1  0.302834  0.303482  0.696842  1
+  Mo  Mo20  1  0.302834  0.696842  0.696842  1
+  Mo  Mo21  1  0.696618  0.695232  0.304075  1
+  Mo  Mo22  1  0.553382  0.945925  0.945925  1
+  P  P23  1  0.625000  0.125000  0.125000  1
+  N  N24  1  0.625000  0.625000  0.625000  1
+  N  N25  1  0.125000  0.625000  0.625000  1
+  N  N26  1  0.625000  0.125000  0.625000  1
+  N  N27  1  0.625000  0.625000  0.125000  1

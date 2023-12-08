@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Sm3AlC3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.68550400
+_cell_length_b   7.25391800
+_cell_length_c   10.17033400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm3AlC3
+_chemical_formula_sum   'Sm6 Al2 C6'
+_cell_volume   271.89720576
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.500000  0.509325  0.197184  1
+  Sm  Sm1  1  0.500000  0.490675  0.802816  1
+  Sm  Sm2  1  0.500000  0.990675  0.197184  1
+  Sm  Sm3  1  0.500000  0.009325  0.802816  1
+  Sm  Sm4  1  0.000000  0.750000  0.457947  1
+  Sm  Sm5  1  0.000000  0.250000  0.542053  1
+  Al  Al6  1  0.000000  0.750000  0.009359  1
+  Al  Al7  1  0.000000  0.250000  0.990641  1
+  C  C8  1  0.500000  0.508060  0.564588  1
+  C  C9  1  0.500000  0.491940  0.435412  1
+  C  C10  1  0.500000  0.991940  0.564588  1
+  C  C11  1  0.500000  0.008060  0.435412  1
+  C  C12  1  0.000000  0.750000  0.208604  1
+  C  C13  1  0.000000  0.250000  0.791396  1

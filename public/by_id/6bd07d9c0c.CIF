@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sr4AlSi6Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.60328727
+_cell_length_b   8.27068514
+_cell_length_c   6.29024780
+_cell_angle_alpha   70.95353810
+_cell_angle_beta   65.32781352
+_cell_angle_gamma   43.71864857
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr4AlSi6Ni
+_chemical_formula_sum   'Sr4 Al1 Si6 Ni1'
+_cell_volume   280.87741124
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.243590  0.750343  0.249658  1
+  Sr  Sr1  1  0.253195  0.253196  0.246805  1
+  Sr  Sr2  1  0.753194  0.753196  0.746805  1
+  Sr  Sr3  1  0.750342  0.243592  0.756409  1
+  Al  Al4  1  0.666535  0.666537  0.333464  1
+  Si  Si5  1  0.839579  0.839580  0.160421  1
+  Si  Si6  1  0.840855  0.318960  0.159145  1
+  Si  Si7  1  0.649130  0.175941  0.350869  1
+  Si  Si8  1  0.318959  0.840856  0.681041  1
+  Si  Si9  1  0.175940  0.649131  0.824059  1
+  Si  Si10  1  0.175644  0.175645  0.824355  1
+  Ni  Ni11  1  0.333028  0.333030  0.666971  1

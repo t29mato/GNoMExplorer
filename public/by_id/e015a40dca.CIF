@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_TaNb2Si2TcC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.22279133
+_cell_length_b   8.21938595
+_cell_length_c   8.22278924
+_cell_angle_alpha   59.97870621
+_cell_angle_beta   59.97440921
+_cell_angle_gamma   59.97871097
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaNb2Si2TcC
+_chemical_formula_sum   'Ta4 Nb8 Si8 Tc4 C4'
+_cell_volume   392.77058463
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.557555  0.942437  0.942821  1
+  Ta  Ta1  1  0.942821  0.942437  0.557555  1
+  Ta  Ta2  1  0.693054  0.307341  0.693054  1
+  Ta  Ta3  1  0.942367  0.557729  0.942367  1
+  Nb  Nb4  1  0.557968  0.942093  0.557968  1
+  Nb  Nb5  1  0.307954  0.692488  0.692561  1
+  Nb  Nb6  1  0.692500  0.307617  0.307709  1
+  Nb  Nb7  1  0.307241  0.692876  0.307241  1
+  Nb  Nb8  1  0.692561  0.692488  0.307954  1
+  Nb  Nb9  1  0.307709  0.307617  0.692500  1
+  Nb  Nb10  1  0.557561  0.557414  0.942796  1
+  Nb  Nb11  1  0.942796  0.557414  0.557561  1
+  Si  Si12  1  0.914473  0.913870  0.914473  1
+  Si  Si13  1  0.992974  0.335871  0.335224  1
+  Si  Si14  1  0.335745  0.993023  0.335745  1
+  Si  Si15  1  0.335224  0.335871  0.992974  1
+  Si  Si16  1  0.914356  0.257245  0.914356  1
+  Si  Si17  1  0.913826  0.914378  0.257223  1
+  Si  Si18  1  0.257223  0.914378  0.913826  1
+  Si  Si19  1  0.335728  0.335406  0.335728  1
+  Tc  Tc20  1  0.125055  0.125079  0.125055  1
+  Tc  Tc21  1  0.625268  0.124919  0.122202  1
+  Tc  Tc22  1  0.124062  0.625119  0.124062  1
+  Tc  Tc23  1  0.122202  0.124919  0.625268  1
+  C  C24  1  0.625530  0.623099  0.625530  1
+  C  C25  1  0.123067  0.626424  0.626357  1
+  C  C26  1  0.626822  0.124024  0.626822  1
+  C  C27  1  0.626357  0.626424  0.123067  1

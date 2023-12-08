@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Pa3Ga3OsPd2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.10523900
+_cell_length_b   7.10523834
+_cell_length_c   8.13191200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999842
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pa3Ga3OsPd2
+_chemical_formula_sum   'Pa6 Ga6 Os2 Pd4'
+_cell_volume   355.53360000
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.760681  0.083761  0.000000  1
+  Pa  Pa1  1  0.323079  0.239319  0.000000  1
+  Pa  Pa2  1  0.916239  0.676921  0.000000  1
+  Pa  Pa3  1  0.323580  0.239455  0.500000  1
+  Pa  Pa4  1  0.760545  0.084125  0.500000  1
+  Pa  Pa5  1  0.915875  0.676420  0.500000  1
+  Ga  Ga6  1  0.578425  0.667358  0.749976  1
+  Ga  Ga7  1  0.088932  0.421575  0.749976  1
+  Ga  Ga8  1  0.332642  0.911068  0.749976  1
+  Ga  Ga9  1  0.578425  0.667358  0.250024  1
+  Ga  Ga10  1  0.088932  0.421575  0.250024  1
+  Ga  Ga11  1  0.332642  0.911068  0.250024  1
+  Os  Os12  1  0.000000  0.000000  0.250153  1
+  Os  Os13  1  0.000000  0.000000  0.749847  1
+  Pd  Pd14  1  0.333333  0.666667  0.000000  1
+  Pd  Pd15  1  0.333333  0.666667  0.500000  1
+  Pd  Pd16  1  0.666667  0.333333  0.750474  1
+  Pd  Pd17  1  0.666667  0.333333  0.249526  1

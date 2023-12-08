@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ta3Mn2AlN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.09799607
+_cell_length_b   8.09647718
+_cell_length_c   8.09830300
+_cell_angle_alpha   59.99254405
+_cell_angle_beta   59.99875029
+_cell_angle_gamma   59.99227757
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta3Mn2AlN
+_chemical_formula_sum   'Ta12 Mn8 Al4 N4'
+_cell_volume   375.40387672
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.804579  0.804622  0.195399  1
+  Ta  Ta1  1  0.195430  0.195449  0.804560  1
+  Ta  Ta2  1  0.804555  0.195388  0.804600  1
+  Ta  Ta3  1  0.195350  0.804603  0.195437  1
+  Ta  Ta4  1  0.195350  0.804603  0.804610  1
+  Ta  Ta5  1  0.804555  0.195388  0.195456  1
+  Ta  Ta6  1  0.445421  0.445378  0.054601  1
+  Ta  Ta7  1  0.054570  0.054551  0.445440  1
+  Ta  Ta8  1  0.445445  0.054612  0.445400  1
+  Ta  Ta9  1  0.054650  0.445397  0.054563  1
+  Ta  Ta10  1  0.054650  0.445397  0.445390  1
+  Ta  Ta11  1  0.445445  0.054612  0.054544  1
+  Mn  Mn12  1  0.740777  0.419756  0.419733  1
+  Mn  Mn13  1  0.419811  0.740408  0.419891  1
+  Mn  Mn14  1  0.419738  0.419840  0.740665  1
+  Mn  Mn15  1  0.419738  0.419840  0.419757  1
+  Mn  Mn16  1  0.509223  0.830244  0.830267  1
+  Mn  Mn17  1  0.830189  0.509592  0.830109  1
+  Mn  Mn18  1  0.830262  0.830160  0.509335  1
+  Mn  Mn19  1  0.830262  0.830160  0.830243  1
+  Al  Al20  1  0.125000  0.625000  0.625000  1
+  Al  Al21  1  0.625000  0.125000  0.625000  1
+  Al  Al22  1  0.625000  0.625000  0.125000  1
+  Al  Al23  1  0.625000  0.625000  0.625000  1
+  N  N24  1  0.625000  0.125000  0.125000  1
+  N  N25  1  0.125000  0.625000  0.125000  1
+  N  N26  1  0.125000  0.125000  0.625000  1
+  N  N27  1  0.125000  0.125000  0.125000  1

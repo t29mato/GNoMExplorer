@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LaCeTm2(AsPt)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.30021301
+_cell_length_b   4.29996849
+_cell_length_c   15.67705003
+_cell_angle_alpha   90.00322445
+_cell_angle_beta   90.00389306
+_cell_angle_gamma   119.99634775
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaCeTm2(AsPt)4
+_chemical_formula_sum   'La1 Ce1 Tm2 As4 Pt4'
+_cell_volume   251.05345161
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.000007  0.000024  0.499940  1
+  Ce  Ce1  1  0.000012  0.000014  0.000091  1
+  Tm  Tm2  1  0.999844  0.999907  0.248582  1
+  Tm  Tm3  1  0.000147  0.000080  0.751371  1
+  As  As4  1  0.333338  0.666646  0.886127  1
+  As  As5  1  0.666657  0.333335  0.113975  1
+  As  As6  1  0.666490  0.333236  0.377660  1
+  As  As7  1  0.333520  0.666777  0.622111  1
+  Pt  Pt8  1  0.333066  0.666535  0.349319  1
+  Pt  Pt9  1  0.666935  0.333478  0.650486  1
+  Pt  Pt10  1  0.666658  0.333279  0.857859  1
+  Pt  Pt11  1  0.333325  0.666690  0.142480  1

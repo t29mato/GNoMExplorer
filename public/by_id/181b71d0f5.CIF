@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Ti6Co15Si7Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.88380628
+_cell_length_b   7.88380572
+_cell_length_c   7.90627198
+_cell_angle_alpha   60.09395265
+_cell_angle_beta   60.09395770
+_cell_angle_gamma   60.00000495
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti6Co15Si7Pt
+_chemical_formula_sum   'Ti6 Co15 Si7 Pt1'
+_cell_volume   347.97169925
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.200804  0.801820  0.796573  1
+  Ti  Ti1  1  0.804079  0.804079  0.199590  1
+  Ti  Ti2  1  0.804079  0.192251  0.199590  1
+  Ti  Ti3  1  0.200804  0.200804  0.796573  1
+  Ti  Ti4  1  0.801820  0.200804  0.796573  1
+  Ti  Ti5  1  0.192251  0.804079  0.199590  1
+  Co  Co6  1  0.165440  0.501026  0.168093  1
+  Co  Co7  1  0.858296  0.378224  0.385256  1
+  Co  Co8  1  0.495211  0.836986  0.830819  1
+  Co  Co9  1  0.501026  0.165440  0.168093  1
+  Co  Co10  1  0.834032  0.834032  0.497906  1
+  Co  Co11  1  0.167757  0.167757  0.496728  1
+  Co  Co12  1  0.141446  0.619582  0.619390  1
+  Co  Co13  1  0.165440  0.165440  0.168093  1
+  Co  Co14  1  0.379150  0.379150  0.862551  1
+  Co  Co15  1  0.619582  0.619582  0.619390  1
+  Co  Co16  1  0.378224  0.858296  0.385256  1
+  Co  Co17  1  0.378224  0.378224  0.385256  1
+  Co  Co18  1  0.836986  0.836986  0.830819  1
+  Co  Co19  1  0.619582  0.141446  0.619390  1
+  Co  Co20  1  0.836986  0.495211  0.830819  1
+  Si  Si21  1  0.501046  0.999652  0.499650  1
+  Si  Si22  1  0.498572  0.498572  0.992011  1
+  Si  Si23  1  0.493924  0.493924  0.518229  1
+  Si  Si24  1  0.999652  0.999652  0.499650  1
+  Si  Si25  1  0.010844  0.498572  0.992011  1
+  Si  Si26  1  0.999652  0.501046  0.499650  1
+  Si  Si27  1  0.498572  0.010844  0.992011  1
+  Pt  Pt28  1  0.616520  0.616520  0.150438  1

@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Na3Ca3MnAs4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.41226100
+_cell_length_b   9.41226063
+_cell_length_c   7.25513900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999777
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3Ca3MnAs4
+_chemical_formula_sum   'Na6 Ca6 Mn2 As8'
+_cell_volume   556.62702124
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.136701  0.863299  0.172672  1
+  Na  Na1  1  0.273403  0.136701  0.672672  1
+  Na  Na2  1  0.863299  0.726597  0.672672  1
+  Na  Na3  1  0.136701  0.273403  0.172672  1
+  Na  Na4  1  0.726597  0.863299  0.172672  1
+  Na  Na5  1  0.863299  0.136701  0.672672  1
+  Ca  Ca6  1  0.475418  0.950837  0.500628  1
+  Ca  Ca7  1  0.524582  0.049163  0.000628  1
+  Ca  Ca8  1  0.950837  0.475418  0.000628  1
+  Ca  Ca9  1  0.475418  0.524582  0.500628  1
+  Ca  Ca10  1  0.524582  0.475418  0.000628  1
+  Ca  Ca11  1  0.049163  0.524582  0.500628  1
+  Mn  Mn12  1  0.333333  0.666667  0.879269  1
+  Mn  Mn13  1  0.666667  0.333333  0.379269  1
+  As  As14  1  0.191642  0.808358  0.773065  1
+  As  As15  1  0.383283  0.191642  0.273065  1
+  As  As16  1  0.808358  0.616717  0.273065  1
+  As  As17  1  0.191642  0.383283  0.773065  1
+  As  As18  1  0.616717  0.808358  0.773065  1
+  As  As19  1  0.808358  0.191642  0.273065  1
+  As  As20  1  0.333333  0.666667  0.222318  1
+  As  As21  1  0.666667  0.333333  0.722318  1

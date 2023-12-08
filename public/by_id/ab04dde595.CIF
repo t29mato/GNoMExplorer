@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Dy5Th3(MgRu)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.73757282
+_cell_length_b   9.81998247
+_cell_length_c   9.81998320
+_cell_angle_alpha   59.44555823
+_cell_angle_beta   60.27722554
+_cell_angle_gamma   60.27722165
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy5Th3(MgRu)2
+_chemical_formula_sum   'Dy10 Th6 Mg4 Ru4'
+_cell_volume   663.89061264
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.189304  0.810696  0.189304  1
+  Dy  Dy1  1  0.810696  0.189304  0.810696  1
+  Dy  Dy2  1  0.189304  0.189304  0.810696  1
+  Dy  Dy3  1  0.810696  0.810696  0.189304  1
+  Dy  Dy4  1  0.933657  0.566343  0.566343  1
+  Dy  Dy5  1  0.566343  0.933657  0.933657  1
+  Dy  Dy6  1  0.563853  0.936147  0.563853  1
+  Dy  Dy7  1  0.936147  0.563853  0.936147  1
+  Dy  Dy8  1  0.563853  0.563853  0.936147  1
+  Dy  Dy9  1  0.936147  0.936147  0.563853  1
+  Th  Th10  1  0.342431  0.348715  0.348715  1
+  Th  Th11  1  0.348715  0.342431  0.960138  1
+  Th  Th12  1  0.348715  0.960138  0.342431  1
+  Th  Th13  1  0.960138  0.348715  0.348715  1
+  Th  Th14  1  0.816168  0.183832  0.183832  1
+  Th  Th15  1  0.183832  0.816168  0.816168  1
+  Mg  Mg16  1  0.582174  0.579211  0.579211  1
+  Mg  Mg17  1  0.579211  0.582174  0.259404  1
+  Mg  Mg18  1  0.579211  0.259404  0.582174  1
+  Mg  Mg19  1  0.259404  0.579211  0.579211  1
+  Ru  Ru20  1  0.129222  0.148350  0.148350  1
+  Ru  Ru21  1  0.148350  0.129222  0.574076  1
+  Ru  Ru22  1  0.148350  0.574076  0.129222  1
+  Ru  Ru23  1  0.574076  0.148350  0.148350  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_NaB2IrPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.21837677
+_cell_length_b   6.21623268
+_cell_length_c   5.45698783
+_cell_angle_alpha   76.08494471
+_cell_angle_beta   56.70916473
+_cell_angle_gamma   47.20589420
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaB2IrPt
+_chemical_formula_sum   'Na2 B4 Ir2 Pt2'
+_cell_volume   146.65142177
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.999653  0.999653  0.000347  1
+  Na  Na1  1  0.249653  0.249653  0.250347  1
+  B  B2  1  0.336391  0.659185  0.312227  1
+  B  B3  1  0.557803  0.937773  0.590815  1
+  B  B4  1  0.659185  0.336391  0.692197  1
+  B  B5  1  0.937773  0.557803  0.913609  1
+  Ir  Ir6  1  0.624400  0.624400  0.875600  1
+  Ir  Ir7  1  0.374400  0.374400  0.625600  1
+  Pt  Pt8  1  0.630370  0.630370  0.369630  1
+  Pt  Pt9  1  0.880370  0.880370  0.619630  1

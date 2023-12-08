@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_CePa2(GaNi)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.75290100
+_cell_length_b   6.79706050
+_cell_length_c   4.05939800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.78531272
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CePa2(GaNi)3
+_chemical_formula_sum   'Ce1 Pa2 Ga3 Ni3'
+_cell_volume   161.71088241
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.575074  0.000000  0.500000  1
+  Pa  Pa1  1  0.000262  0.576679  0.500000  1
+  Pa  Pa2  1  0.423583  0.423321  0.500000  1
+  Ga  Ga3  1  0.240626  0.000000  0.000000  1
+  Ga  Ga4  1  0.759866  0.762072  0.000000  1
+  Ga  Ga5  1  0.997794  0.237928  0.000000  1
+  Ni  Ni6  1  0.669910  0.347010  0.000000  1
+  Ni  Ni7  1  0.322899  0.652990  0.000000  1
+  Ni  Ni8  1  0.009986  0.000000  0.500000  1

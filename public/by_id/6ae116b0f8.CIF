@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_GdNpO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.52726607
+_cell_length_b   6.52726664
+_cell_length_c   5.45095795
+_cell_angle_alpha   67.85201183
+_cell_angle_beta   67.85200916
+_cell_angle_gamma   111.69938329
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdNpO4
+_chemical_formula_sum   'Gd2 Np2 O8'
+_cell_volume   159.88040430
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.626021  0.373979  0.750000  1
+  Gd  Gd1  1  0.373979  0.626021  0.250000  1
+  Np  Np2  1  0.122995  0.877005  0.750000  1
+  Np  Np3  1  0.877005  0.122995  0.250000  1
+  O  O4  1  0.767263  0.764993  0.268019  1
+  O  O5  1  0.235007  0.232737  0.231981  1
+  O  O6  1  0.232737  0.235007  0.731981  1
+  O  O7  1  0.764993  0.767263  0.768019  1
+  O  O8  1  0.458763  0.963676  0.774186  1
+  O  O9  1  0.036324  0.541237  0.725814  1
+  O  O10  1  0.541237  0.036324  0.225814  1
+  O  O11  1  0.963676  0.458763  0.274186  1

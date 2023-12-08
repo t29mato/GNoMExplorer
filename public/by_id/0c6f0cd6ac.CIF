@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_PrNd3Cu4(Si2Sn)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.53551961
+_cell_length_b   9.53551821
+_cell_length_c   6.76099200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   152.68454799
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrNd3Cu4(Si2Sn)2
+_chemical_formula_sum   'Pr1 Nd3 Cu4 Si4 Sn2'
+_cell_volume   282.10248405
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.654961  0.345039  0.750000  1
+  Nd  Nd1  1  0.547256  0.452744  0.250000  1
+  Nd  Nd2  1  0.452551  0.547449  0.750000  1
+  Nd  Nd3  1  0.345124  0.654876  0.250000  1
+  Cu  Cu4  1  0.823344  0.176656  0.562738  1
+  Cu  Cu5  1  0.176762  0.823238  0.436704  1
+  Cu  Cu6  1  0.176762  0.823238  0.063296  1
+  Cu  Cu7  1  0.823344  0.176656  0.937262  1
+  Si  Si8  1  0.941069  0.058931  0.072172  1
+  Si  Si9  1  0.058693  0.941307  0.928219  1
+  Si  Si10  1  0.058693  0.941307  0.571781  1
+  Si  Si11  1  0.941069  0.058931  0.427828  1
+  Sn  Sn12  1  0.722056  0.277944  0.250000  1
+  Sn  Sn13  1  0.278316  0.721684  0.750000  1

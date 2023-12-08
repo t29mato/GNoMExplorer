@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Na2CdPt3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.46575912
+_cell_length_b   5.46575971
+_cell_length_c   5.54032421
+_cell_angle_alpha   60.44421170
+_cell_angle_beta   60.44420934
+_cell_angle_gamma   59.99999653
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2CdPt3
+_chemical_formula_sum   'Na2 Cd1 Pt3'
+_cell_volume   117.81612961
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.504817  0.504817  0.485548  1
+  Na  Na1  1  0.745183  0.745183  0.764452  1
+  Cd  Cd2  1  0.125000  0.125000  0.625000  1
+  Pt  Pt3  1  0.125000  0.125000  0.125000  1
+  Pt  Pt4  1  0.625000  0.125000  0.125000  1
+  Pt  Pt5  1  0.125000  0.625000  0.125000  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Tb6Dy4Y6Cd4FeNi3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.56031884
+_cell_length_b   9.56000520
+_cell_length_c   9.56000400
+_cell_angle_alpha   60.00217715
+_cell_angle_beta   59.99890950
+_cell_angle_gamma   59.99890791
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb6Dy4Y6Cd4FeNi3
+_chemical_formula_sum   'Tb6 Dy4 Y6 Cd4 Fe1 Ni3'
+_cell_volume   617.83650095
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.597905  0.598235  0.598235  1
+  Tb  Tb1  1  0.596926  0.596524  0.206686  1
+  Tb  Tb2  1  0.596926  0.206686  0.596524  1
+  Tb  Tb3  1  0.206788  0.596868  0.596868  1
+  Tb  Tb4  1  0.065634  0.437922  0.437922  1
+  Tb  Tb5  1  0.436689  0.061946  0.061946  1
+  Dy  Dy6  1  0.438335  0.065008  0.438297  1
+  Dy  Dy7  1  0.061555  0.437140  0.061559  1
+  Dy  Dy8  1  0.438335  0.438297  0.065008  1
+  Dy  Dy9  1  0.061555  0.061559  0.437140  1
+  Y  Y10  1  0.187333  0.813491  0.813491  1
+  Y  Y11  1  0.809794  0.187788  0.187788  1
+  Y  Y12  1  0.813508  0.187494  0.813531  1
+  Y  Y13  1  0.187765  0.809840  0.187716  1
+  Y  Y14  1  0.813508  0.813531  0.187494  1
+  Y  Y15  1  0.187765  0.187716  0.809840  1
+  Cd  Cd16  1  0.830092  0.829746  0.829746  1
+  Cd  Cd17  1  0.830782  0.831003  0.506385  1
+  Cd  Cd18  1  0.830782  0.506385  0.831003  1
+  Cd  Cd19  1  0.506458  0.830675  0.830675  1
+  Fe  Fe20  1  0.392652  0.392781  0.392781  1
+  Ni  Ni21  1  0.391782  0.392275  0.825256  1
+  Ni  Ni22  1  0.391782  0.825256  0.392275  1
+  Ni  Ni23  1  0.825350  0.391835  0.391835  1

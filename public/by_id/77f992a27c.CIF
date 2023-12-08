@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_HoEr15(CdCu)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.56825395
+_cell_length_b   9.56825361
+_cell_length_c   9.56825500
+_cell_angle_alpha   60.00072271
+_cell_angle_beta   60.00072466
+_cell_angle_gamma   60.00072667
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoEr15(CdCu)4
+_chemical_formula_sum   'Ho1 Er15 Cd4 Cu4'
+_cell_volume   619.42716840
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.352430  0.352430  0.352430  1
+  Er  Er1  1  0.352415  0.352415  0.942757  1
+  Er  Er2  1  0.352415  0.942757  0.352415  1
+  Er  Er3  1  0.942757  0.352415  0.352415  1
+  Er  Er4  1  0.812353  0.187671  0.187671  1
+  Er  Er5  1  0.187689  0.812316  0.812316  1
+  Er  Er6  1  0.187671  0.812353  0.187671  1
+  Er  Er7  1  0.812316  0.187689  0.812316  1
+  Er  Er8  1  0.187671  0.187671  0.812353  1
+  Er  Er9  1  0.812316  0.812316  0.187689  1
+  Er  Er10  1  0.934250  0.565733  0.565733  1
+  Er  Er11  1  0.565722  0.934269  0.934269  1
+  Er  Er12  1  0.565733  0.934250  0.565733  1
+  Er  Er13  1  0.934269  0.565722  0.934269  1
+  Er  Er14  1  0.565733  0.565733  0.934250  1
+  Er  Er15  1  0.934269  0.934269  0.565722  1
+  Cd  Cd16  1  0.581453  0.581453  0.581453  1
+  Cd  Cd17  1  0.581464  0.581464  0.255654  1
+  Cd  Cd18  1  0.581464  0.255654  0.581464  1
+  Cd  Cd19  1  0.255654  0.581464  0.581464  1
+  Cu  Cu20  1  0.144381  0.144381  0.144381  1
+  Cu  Cu21  1  0.144374  0.144374  0.566829  1
+  Cu  Cu22  1  0.144374  0.566829  0.144374  1
+  Cu  Cu23  1  0.566829  0.144374  0.144374  1

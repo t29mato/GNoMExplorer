@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_ThTi3(NbSn2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.78872171
+_cell_length_b   5.79300377
+_cell_length_c   9.62953800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.84756637
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThTi3(NbSn2)3
+_chemical_formula_sum   'Th1 Ti3 Nb3 Sn6'
+_cell_volume   280.08355131
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.000000  0.000000  0.000348  1
+  Ti  Ti1  1  0.000000  0.500000  0.749972  1
+  Ti  Ti2  1  0.500000  0.000000  0.751889  1
+  Ti  Ti3  1  0.000000  0.500000  0.249004  1
+  Nb  Nb4  1  0.500000  0.500000  0.751376  1
+  Nb  Nb5  1  0.500000  0.500000  0.248653  1
+  Nb  Nb6  1  0.500000  0.000000  0.249356  1
+  Sn  Sn7  1  0.669446  0.333970  0.500626  1
+  Sn  Sn8  1  0.330554  0.666030  0.500626  1
+  Sn  Sn9  1  0.669791  0.333707  0.998509  1
+  Sn  Sn10  1  0.330209  0.666293  0.998509  1
+  Sn  Sn11  1  0.000000  0.000000  0.666538  1
+  Sn  Sn12  1  0.000000  0.000000  0.334594  1

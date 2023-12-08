@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Te2MoP
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   25.19668625
+_cell_length_b   25.19668569
+_cell_length_c   6.50876807
+_cell_angle_alpha   87.44507878
+_cell_angle_beta   87.44507742
+_cell_angle_gamma   13.20272711
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Te2MoP
+_chemical_formula_sum   'Te16 Mo8 P8'
+_cell_volume   942.84156712
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.000762  0.000762  0.769675  1
+  Te  Te1  1  0.999238  0.999238  0.230325  1
+  Te  Te2  1  0.500762  0.500762  0.769675  1
+  Te  Te3  1  0.499238  0.499238  0.230325  1
+  Te  Te4  1  0.909496  0.909496  0.937808  1
+  Te  Te5  1  0.090504  0.090504  0.062192  1
+  Te  Te6  1  0.409252  0.909248  0.937968  1
+  Te  Te7  1  0.090752  0.590748  0.062032  1
+  Te  Te8  1  0.590748  0.090752  0.062032  1
+  Te  Te9  1  0.909248  0.409252  0.937968  1
+  Te  Te10  1  0.409496  0.409496  0.937794  1
+  Te  Te11  1  0.590504  0.590504  0.062206  1
+  Te  Te12  1  0.500803  0.000809  0.769626  1
+  Te  Te13  1  0.999191  0.499197  0.230374  1
+  Te  Te14  1  0.499197  0.999191  0.230374  1
+  Te  Te15  1  0.000809  0.500803  0.769626  1
+  Mo  Mo16  1  0.877245  0.877245  0.325915  1
+  Mo  Mo17  1  0.122755  0.122755  0.674085  1
+  Mo  Mo18  1  0.377010  0.876997  0.326080  1
+  Mo  Mo19  1  0.123003  0.622990  0.673920  1
+  Mo  Mo20  1  0.622990  0.123003  0.673920  1
+  Mo  Mo21  1  0.876997  0.377010  0.326080  1
+  Mo  Mo22  1  0.377244  0.377244  0.325913  1
+  Mo  Mo23  1  0.622756  0.622756  0.674087  1
+  P  P24  1  0.337379  0.337379  0.555498  1
+  P  P25  1  0.662621  0.662621  0.444502  1
+  P  P26  1  0.337122  0.837141  0.555629  1
+  P  P27  1  0.162859  0.662878  0.444371  1
+  P  P28  1  0.662878  0.162859  0.444371  1
+  P  P29  1  0.837141  0.337122  0.555629  1
+  P  P30  1  0.837383  0.837383  0.555505  1
+  P  P31  1  0.162617  0.162617  0.444495  1

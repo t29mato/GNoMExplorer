@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_FePRu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.73645900
+_cell_length_b   5.73094800
+_cell_length_c   6.64141300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FePRu
+_chemical_formula_sum   'Fe4 P4 Ru4'
+_cell_volume   142.21558004
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.250000  0.858408  0.930882  1
+  Fe  Fe1  1  0.250000  0.358408  0.569118  1
+  Fe  Fe2  1  0.750000  0.141592  0.069118  1
+  Fe  Fe3  1  0.750000  0.641592  0.430882  1
+  P  P4  1  0.250000  0.236001  0.882798  1
+  P  P5  1  0.250000  0.736001  0.617202  1
+  P  P6  1  0.750000  0.763999  0.117202  1
+  P  P7  1  0.750000  0.263999  0.382798  1
+  Ru  Ru8  1  0.250000  0.978229  0.333528  1
+  Ru  Ru9  1  0.250000  0.478229  0.166472  1
+  Ru  Ru10  1  0.750000  0.021771  0.666472  1
+  Ru  Ru11  1  0.750000  0.521771  0.833528  1

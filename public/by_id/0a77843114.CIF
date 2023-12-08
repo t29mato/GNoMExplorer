@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_Na(Ca3Ga2)7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.36229602
+_cell_length_b   11.36229686
+_cell_length_c   11.36229700
+_cell_angle_alpha   60.00000249
+_cell_angle_beta   60.00000005
+_cell_angle_gamma   60.00000416
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na(Ca3Ga2)7
+_chemical_formula_sum   'Na1 Ca21 Ga14'
+_cell_volume   1037.24987821
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.500000  0.500000  0.500000  1
+  Ca  Ca1  1  0.000000  0.000000  0.000000  1
+  Ca  Ca2  1  0.129283  0.129283  0.129283  1
+  Ca  Ca3  1  0.387848  0.870717  0.870717  1
+  Ca  Ca4  1  0.870717  0.387848  0.870717  1
+  Ca  Ca5  1  0.870717  0.870717  0.387848  1
+  Ca  Ca6  1  0.129283  0.612152  0.129283  1
+  Ca  Ca7  1  0.129283  0.129283  0.612152  1
+  Ca  Ca8  1  0.612152  0.129283  0.129283  1
+  Ca  Ca9  1  0.870717  0.870717  0.870717  1
+  Ca  Ca10  1  0.500000  0.833765  0.500000  1
+  Ca  Ca11  1  0.833765  0.500000  0.500000  1
+  Ca  Ca12  1  0.500000  0.833765  0.166235  1
+  Ca  Ca13  1  0.166235  0.500000  0.833765  1
+  Ca  Ca14  1  0.833765  0.500000  0.166235  1
+  Ca  Ca15  1  0.500000  0.500000  0.833765  1
+  Ca  Ca16  1  0.166235  0.833765  0.500000  1
+  Ca  Ca17  1  0.500000  0.166235  0.833765  1
+  Ca  Ca18  1  0.500000  0.500000  0.166235  1
+  Ca  Ca19  1  0.833765  0.166235  0.500000  1
+  Ca  Ca20  1  0.166235  0.500000  0.500000  1
+  Ca  Ca21  1  0.500000  0.166235  0.500000  1
+  Ga  Ga22  1  0.218705  0.781295  0.218705  1
+  Ga  Ga23  1  0.218705  0.781295  0.781295  1
+  Ga  Ga24  1  0.781295  0.218705  0.218705  1
+  Ga  Ga25  1  0.781295  0.781295  0.218705  1
+  Ga  Ga26  1  0.218705  0.218705  0.781295  1
+  Ga  Ga27  1  0.781295  0.218705  0.781295  1
+  Ga  Ga28  1  0.309330  0.309329  0.309329  1
+  Ga  Ga29  1  0.927988  0.690671  0.690671  1
+  Ga  Ga30  1  0.690671  0.927988  0.690671  1
+  Ga  Ga31  1  0.690671  0.690671  0.927988  1
+  Ga  Ga32  1  0.309329  0.072012  0.309329  1
+  Ga  Ga33  1  0.309329  0.309329  0.072012  1
+  Ga  Ga34  1  0.072012  0.309329  0.309329  1
+  Ga  Ga35  1  0.690671  0.690671  0.690670  1

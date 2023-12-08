@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Y4Ho(NiTe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.77835165
+_cell_length_b   7.77835196
+_cell_length_c   14.91007485
+_cell_angle_alpha   90.07965390
+_cell_angle_beta   89.92034517
+_cell_angle_gamma   150.09663774
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y4Ho(NiTe)2
+_chemical_formula_sum   'Y8 Ho2 Ni4 Te4'
+_cell_volume   449.73153042
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.040820  0.959180  0.624238  1
+  Y  Y1  1  0.959180  0.040820  0.375762  1
+  Y  Y2  1  0.742413  0.257587  0.626973  1
+  Y  Y3  1  0.257587  0.742413  0.373027  1
+  Y  Y4  1  0.258063  0.741937  0.126785  1
+  Y  Y5  1  0.741937  0.258063  0.873215  1
+  Y  Y6  1  0.604624  0.395376  0.249642  1
+  Y  Y7  1  0.395376  0.604624  0.750358  1
+  Ho  Ho8  1  0.958032  0.041968  0.126392  1
+  Ho  Ho9  1  0.041968  0.958032  0.873608  1
+  Ni  Ni10  1  0.411079  0.588921  0.248779  1
+  Ni  Ni11  1  0.588921  0.411079  0.751221  1
+  Ni  Ni12  1  0.813916  0.186084  0.249368  1
+  Ni  Ni13  1  0.186084  0.813916  0.750632  1
+  Te  Te14  1  0.614084  0.385916  0.040028  1
+  Te  Te15  1  0.385916  0.614084  0.959972  1
+  Te  Te16  1  0.385571  0.614429  0.539919  1
+  Te  Te17  1  0.614429  0.385571  0.460081  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ta7NbV2(SiB2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.22435939
+_cell_length_b   7.22437831
+_cell_length_c   7.22340830
+_cell_angle_alpha   129.80630101
+_cell_angle_beta   129.80623200
+_cell_angle_gamma   73.72683761
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta7NbV2(SiB2)2
+_chemical_formula_sum   'Ta7 Nb1 V2 Si2 B4'
+_cell_volume   217.05385943
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.033160  0.532968  0.838720  1
+  Ta  Ta1  1  0.694440  0.194248  0.161280  1
+  Ta  Ta2  1  0.966483  0.466613  0.160841  1
+  Ta  Ta3  1  0.194366  0.033195  0.500000  1
+  Ta  Ta4  1  0.466946  0.305758  0.500000  1
+  Ta  Ta5  1  0.805770  0.966996  0.500000  1
+  Ta  Ta6  1  0.305642  0.805772  0.839159  1
+  Nb  Nb7  1  0.533062  0.693872  0.500000  1
+  V  V8  1  0.999805  0.999931  0.999864  1
+  V  V9  1  0.499941  0.500067  0.000136  1
+  Si  Si10  1  0.249908  0.249926  0.999908  1
+  Si  Si11  1  0.750000  0.750018  0.000092  1
+  B  B12  1  0.620647  0.121180  0.741466  1
+  B  B13  1  0.120675  0.379357  0.500000  1
+  B  B14  1  0.879974  0.620386  0.500000  1
+  B  B15  1  0.379181  0.879714  0.258534  1

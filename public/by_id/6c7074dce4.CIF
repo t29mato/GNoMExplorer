@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ta3Re3GeB2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.71320464
+_cell_length_b   6.70069968
+_cell_length_c   3.15785800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.88100992
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta3Re3GeB2
+_chemical_formula_sum   'Ta3 Re3 Ge1 B2'
+_cell_volume   123.16654234
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.385002  0.967471  0.500000  1
+  Ta  Ta1  1  0.032651  0.417507  0.500000  1
+  Ta  Ta2  1  0.582631  0.615273  0.500000  1
+  Re  Re3  1  0.752652  0.996627  0.000000  1
+  Re  Re4  1  0.003265  0.755893  0.000000  1
+  Re  Re5  1  0.243859  0.247360  0.000000  1
+  Ge  Ge6  1  0.666698  0.333313  0.000000  1
+  B  B7  1  0.333242  0.666623  0.000000  1
+  B  B8  1  0.000002  0.999933  0.500000  1

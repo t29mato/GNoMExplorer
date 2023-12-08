@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_HoFeCo3B4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.93340805
+_cell_length_b   6.91183328
+_cell_length_c   3.81189200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.27658108
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoFeCo3B4
+_chemical_formula_sum   'Ho2 Fe2 Co6 B8'
+_cell_volume   182.67349658
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.000000  0.000000  0.001825  1
+  Ho  Ho1  1  0.500000  0.500000  0.497439  1
+  Fe  Fe2  1  0.617097  0.864812  0.891524  1
+  Fe  Fe3  1  0.382903  0.135188  0.891524  1
+  Co  Co4  1  0.860326  0.381991  0.110353  1
+  Co  Co5  1  0.139674  0.618009  0.110353  1
+  Co  Co6  1  0.882251  0.639159  0.610065  1
+  Co  Co7  1  0.117749  0.360841  0.610065  1
+  Co  Co8  1  0.639579  0.117454  0.391067  1
+  Co  Co9  1  0.360421  0.882546  0.391067  1
+  B  B10  1  0.337266  0.800541  0.893260  1
+  B  B11  1  0.662734  0.199459  0.893260  1
+  B  B12  1  0.300338  0.165857  0.393045  1
+  B  B13  1  0.699662  0.834143  0.393045  1
+  B  B14  1  0.163450  0.698378  0.606742  1
+  B  B15  1  0.836550  0.301622  0.606742  1
+  B  B16  1  0.203049  0.335940  0.104312  1
+  B  B17  1  0.796951  0.664060  0.104312  1

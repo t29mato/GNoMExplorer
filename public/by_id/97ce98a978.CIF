@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_SiMo12Pt(Rh3N2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.83858788
+_cell_length_b   6.83858800
+_cell_length_c   6.83858773
+_cell_angle_alpha   89.70972015
+_cell_angle_beta   89.70971960
+_cell_angle_gamma   89.70971735
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiMo12Pt(Rh3N2)2
+_chemical_formula_sum   'Si1 Mo12 Pt1 Rh6 N4'
+_cell_volume   319.80307101
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.182958  0.182958  0.182958  1
+  Mo  Mo1  1  0.622088  0.703411  0.950310  1
+  Mo  Mo2  1  0.461754  0.870988  0.305164  1
+  Mo  Mo3  1  0.703411  0.950310  0.622088  1
+  Mo  Mo4  1  0.550177  0.374587  0.202367  1
+  Mo  Mo5  1  0.374587  0.202367  0.550177  1
+  Mo  Mo6  1  0.202367  0.550177  0.374587  1
+  Mo  Mo7  1  0.870988  0.305164  0.461754  1
+  Mo  Mo8  1  0.045031  0.118766  0.793163  1
+  Mo  Mo9  1  0.305164  0.461754  0.870988  1
+  Mo  Mo10  1  0.118766  0.793163  0.045031  1
+  Mo  Mo11  1  0.793163  0.045031  0.118766  1
+  Mo  Mo12  1  0.950310  0.622088  0.703411  1
+  Pt  Pt13  1  0.559493  0.559493  0.559493  1
+  Rh  Rh14  1  0.307157  0.819285  0.687395  1
+  Rh  Rh15  1  0.419030  0.069050  0.955376  1
+  Rh  Rh16  1  0.819285  0.687395  0.307157  1
+  Rh  Rh17  1  0.687395  0.307157  0.819285  1
+  Rh  Rh18  1  0.069050  0.955376  0.419030  1
+  Rh  Rh19  1  0.955376  0.419030  0.069050  1
+  N  N20  1  0.376499  0.628031  0.126250  1
+  N  N21  1  0.871670  0.871670  0.871670  1
+  N  N22  1  0.126250  0.376499  0.628031  1
+  N  N23  1  0.628031  0.126250  0.376499  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Li3Ta(NiP)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.65416200
+_cell_length_b   6.08102808
+_cell_length_c   6.73327637
+_cell_angle_alpha   89.82185452
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3Ta(NiP)4
+_chemical_formula_sum   'Li3 Ta1 Ni4 P4'
+_cell_volume   149.61982654
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.250000  0.020312  0.824511  1
+  Li  Li1  1  0.250000  0.521571  0.681042  1
+  Li  Li2  1  0.750000  0.976055  0.173988  1
+  Ta  Ta3  1  0.750000  0.476421  0.327774  1
+  Ni  Ni4  1  0.250000  0.142850  0.438146  1
+  Ni  Ni5  1  0.250000  0.656077  0.053919  1
+  Ni  Ni6  1  0.750000  0.856371  0.561709  1
+  Ni  Ni7  1  0.750000  0.351094  0.937786  1
+  P  P8  1  0.250000  0.278459  0.122856  1
+  P  P9  1  0.250000  0.771014  0.378702  1
+  P  P10  1  0.750000  0.719751  0.875538  1
+  P  P11  1  0.750000  0.230025  0.624029  1

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_YbIn(CuPt)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.21368731
+_cell_length_b   5.53149169
+_cell_length_c   5.21368788
+_cell_angle_alpha   57.96224522
+_cell_angle_beta   58.14516816
+_cell_angle_gamma   57.96224671
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbIn(CuPt)2
+_chemical_formula_sum   'Yb1 In1 Cu2 Pt2'
+_cell_volume   101.49932103
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.750663  0.749337  0.750663  1
+  In  In1  1  0.999932  0.000068  0.999932  1
+  Cu  Cu2  1  0.376516  0.374868  0.873749  1
+  Cu  Cu3  1  0.873749  0.374868  0.376516  1
+  Pt  Pt4  1  0.374570  0.374558  0.374570  1
+  Pt  Pt5  1  0.374570  0.876302  0.374570  1

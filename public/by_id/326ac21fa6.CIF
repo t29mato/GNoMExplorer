@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Be3Si3(NiW2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.65993843
+_cell_length_b   4.57678971
+_cell_length_c   7.71590200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   121.01160170
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Be3Si3(NiW2)2
+_chemical_formula_sum   'Be3 Si3 Ni2 W4'
+_cell_volume   141.03944300
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.661658  0.815176  0.500000  1
+  Be  Be1  1  0.821312  0.183023  0.000000  1
+  Be  Be2  1  0.352533  0.180665  0.000000  1
+  Si  Si3  1  0.994360  0.007463  0.239620  1
+  Si  Si4  1  0.994360  0.007463  0.760380  1
+  Si  Si5  1  0.175643  0.814754  0.500000  1
+  Ni  Ni6  1  0.166736  0.317400  0.500000  1
+  Ni  Ni7  1  0.833837  0.673436  0.000000  1
+  W  W8  1  0.335642  0.675196  0.814543  1
+  W  W9  1  0.664151  0.325100  0.691383  1
+  W  W10  1  0.664151  0.325100  0.308617  1
+  W  W11  1  0.335642  0.675196  0.185457  1

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Th3Cu2(Si2Os)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.20425795
+_cell_length_b   4.14296270
+_cell_length_c   12.31920985
+_cell_angle_alpha   99.68028140
+_cell_angle_beta   99.82493032
+_cell_angle_gamma   90.00001199
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Th3Cu2(Si2Os)2
+_chemical_formula_sum   'Th3 Cu2 Si4 Os2'
+_cell_volume   208.32856202
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.850303  0.350303  0.700609  1
+  Th  Th1  1  0.149697  0.649697  0.299391  1
+  Th  Th2  1  0.000000  0.000000  0.000000  1
+  Cu  Cu3  1  0.596721  0.096721  0.193441  1
+  Cu  Cu4  1  0.403279  0.903279  0.806559  1
+  Si  Si5  1  0.450342  0.450342  0.900685  1
+  Si  Si6  1  0.549658  0.549658  0.099315  1
+  Si  Si7  1  0.697372  0.197372  0.394743  1
+  Si  Si8  1  0.302628  0.802628  0.605257  1
+  Os  Os9  1  0.248647  0.248647  0.497293  1
+  Os  Os10  1  0.751353  0.751353  0.502707  1

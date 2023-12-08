@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ta2Nb2Co4Si3Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.68182800
+_cell_length_b   6.27000111
+_cell_length_c   7.08980201
+_cell_angle_alpha   89.78566671
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2Nb2Co4Si3Ge
+_chemical_formula_sum   'Ta2 Nb2 Co4 Si3 Ge1'
+_cell_volume   163.66739955
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.250000  0.020698  0.820376  1
+  Ta  Ta1  1  0.250000  0.518181  0.683714  1
+  Nb  Nb2  1  0.750000  0.982327  0.177226  1
+  Nb  Nb3  1  0.750000  0.473943  0.318570  1
+  Co  Co4  1  0.250000  0.147072  0.440091  1
+  Co  Co5  1  0.250000  0.637651  0.054537  1
+  Co  Co6  1  0.750000  0.862263  0.573225  1
+  Co  Co7  1  0.750000  0.358578  0.933744  1
+  Si  Si8  1  0.250000  0.275224  0.117090  1
+  Si  Si9  1  0.750000  0.226213  0.618232  1
+  Si  Si10  1  0.750000  0.725971  0.883650  1
+  Ge  Ge11  1  0.250000  0.771881  0.379548  1

@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_BaZr2(FeH6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.62128300
+_cell_length_b   4.62128507
+_cell_length_c   8.12864200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000666
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaZr2(FeH6)2
+_chemical_formula_sum   'Ba1 Zr2 Fe2 H12'
+_cell_volume   150.33978457
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.000000  0.000000  0.000000  1
+  Zr  Zr1  1  0.666667  0.333333  0.369718  1
+  Zr  Zr2  1  0.333333  0.666667  0.630282  1
+  Fe  Fe3  1  0.666667  0.333333  0.708701  1
+  Fe  Fe4  1  0.333333  0.666667  0.291299  1
+  H  H5  1  0.165303  0.834697  0.397126  1
+  H  H6  1  0.669395  0.834697  0.397126  1
+  H  H7  1  0.165303  0.330605  0.397126  1
+  H  H8  1  0.834697  0.165303  0.602874  1
+  H  H9  1  0.330605  0.165303  0.602874  1
+  H  H10  1  0.834697  0.669395  0.602874  1
+  H  H11  1  0.501951  0.003902  0.826248  1
+  H  H12  1  0.501951  0.498049  0.826248  1
+  H  H13  1  0.996098  0.498049  0.826248  1
+  H  H14  1  0.498049  0.996098  0.173752  1
+  H  H15  1  0.498049  0.501951  0.173752  1
+  H  H16  1  0.003902  0.501951  0.173752  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sc2Si2TcW
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.05440900
+_cell_length_b   3.46324000
+_cell_length_c   8.14027200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc2Si2TcW
+_chemical_formula_sum   'Sc4 Si4 Tc2 W2'
+_cell_volume   198.87589226
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.040014  0.750001  0.164742  1
+  Sc  Sc1  1  0.540013  0.750001  0.335258  1
+  Sc  Sc2  1  0.460354  0.250000  0.667357  1
+  Sc  Sc3  1  0.960354  0.250000  0.832643  1
+  Si  Si4  1  0.736607  0.250000  0.138645  1
+  Si  Si5  1  0.236607  0.250000  0.361355  1
+  Si  Si6  1  0.763430  0.750001  0.634613  1
+  Si  Si7  1  0.263431  0.750001  0.865387  1
+  Tc  Tc8  1  0.368282  0.250000  0.063918  1
+  Tc  Tc9  1  0.868281  0.250000  0.436082  1
+  W  W10  1  0.131313  0.750001  0.562943  1
+  W  W11  1  0.631313  0.750001  0.937058  1

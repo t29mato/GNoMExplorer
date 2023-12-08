@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YBeNi3B
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.00701444
+_cell_length_b   5.01315360
+_cell_length_c   6.58119400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.92850177
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YBeNi3B
+_chemical_formula_sum   'Y2 Be2 Ni6 B2'
+_cell_volume   143.16525228
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.999981  0.999998  0.000000  1
+  Y  Y1  1  0.999985  0.999999  0.500000  1
+  Be  Be2  1  0.334136  0.667919  0.000000  1
+  Be  Be3  1  0.665830  0.332080  0.000000  1
+  Ni  Ni4  1  0.499990  0.000013  0.278002  1
+  Ni  Ni5  1  0.499982  0.499998  0.277038  1
+  Ni  Ni6  1  0.999982  0.499996  0.277145  1
+  Ni  Ni7  1  0.499990  0.000013  0.721998  1
+  Ni  Ni8  1  0.499982  0.499998  0.722961  1
+  Ni  Ni9  1  0.999982  0.499996  0.722854  1
+  B  B10  1  0.333160  0.666255  0.500000  1
+  B  B11  1  0.666801  0.333735  0.500000  1

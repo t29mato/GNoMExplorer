@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_TbCd(NiRh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.02346449
+_cell_length_b   5.13729429
+_cell_length_c   5.13729519
+_cell_angle_alpha   62.52495342
+_cell_angle_beta   60.73030945
+_cell_angle_gamma   60.73030754
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbCd(NiRh)2
+_chemical_formula_sum   'Tb1 Cd1 Ni2 Rh2'
+_cell_volume   96.48462394
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.248587  0.251413  0.251413  1
+  Cd  Cd1  1  0.005248  0.994752  0.994752  1
+  Ni  Ni2  1  0.123072  0.627535  0.627535  1
+  Ni  Ni3  1  0.621857  0.627535  0.627535  1
+  Rh  Rh4  1  0.625618  0.625272  0.123491  1
+  Rh  Rh5  1  0.625618  0.123491  0.625272  1

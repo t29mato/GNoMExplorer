@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Ho2Pu3(SiB4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.20880839
+_cell_length_b   7.20880839
+_cell_length_c   8.08492400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   89.92892877
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2Pu3(SiB4)2
+_chemical_formula_sum   'Ho4 Pu6 Si4 B16'
+_cell_volume   420.14826217
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.181314  0.318686  0.778258  1
+  Ho  Ho1  1  0.181314  0.318686  0.221742  1
+  Ho  Ho2  1  0.999667  0.998785  0.500000  1
+  Ho  Ho3  1  0.501215  0.500333  0.500000  1
+  Pu  Pu4  1  0.682961  0.182593  0.229210  1
+  Pu  Pu5  1  0.317407  0.817039  0.770790  1
+  Pu  Pu6  1  0.317407  0.817039  0.229210  1
+  Pu  Pu7  1  0.816601  0.683399  0.229264  1
+  Pu  Pu8  1  0.816601  0.683399  0.770736  1
+  Pu  Pu9  1  0.682961  0.182593  0.770790  1
+  Si  Si10  1  0.116458  0.614217  0.500000  1
+  Si  Si11  1  0.885783  0.383542  0.500000  1
+  Si  Si12  1  0.383193  0.116807  0.500000  1
+  Si  Si13  1  0.613543  0.886457  0.500000  1
+  B  B14  1  0.173629  0.038478  0.000000  1
+  B  B15  1  0.826293  0.959790  0.000000  1
+  B  B16  1  0.958541  0.172399  0.000000  1
+  B  B17  1  0.327601  0.541459  0.000000  1
+  B  B18  1  0.040178  0.825768  0.000000  1
+  B  B19  1  0.674232  0.459822  0.000000  1
+  B  B20  1  0.540210  0.673707  0.000000  1
+  B  B21  1  0.461522  0.326371  0.000000  1
+  B  B22  1  0.090215  0.589412  0.000000  1
+  B  B23  1  0.910588  0.409785  0.000000  1
+  B  B24  1  0.409925  0.090075  0.000000  1
+  B  B25  1  0.589142  0.910858  0.000000  1
+  B  B26  1  0.999752  0.999003  0.161506  1
+  B  B27  1  0.999752  0.999003  0.838494  1
+  B  B28  1  0.500997  0.500248  0.838494  1
+  B  B29  1  0.500997  0.500248  0.161506  1

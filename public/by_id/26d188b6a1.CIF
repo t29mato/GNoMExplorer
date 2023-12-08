@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Lu2UFe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.52842405
+_cell_length_b   5.52842524
+_cell_length_c   7.57944500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.98854676
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2UFe3
+_chemical_formula_sum   'Lu4 U2 Fe6'
+_cell_volume   200.64157869
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.666661  0.333339  0.054354  1
+  Lu  Lu1  1  0.333339  0.666661  0.945646  1
+  Lu  Lu2  1  0.333339  0.666661  0.554354  1
+  Lu  Lu3  1  0.666661  0.333339  0.445646  1
+  U  U4  1  0.000000  0.000000  0.500000  1
+  U  U5  1  0.000000  0.000000  0.000000  1
+  Fe  Fe6  1  0.840040  0.680174  0.750000  1
+  Fe  Fe7  1  0.840143  0.159857  0.750000  1
+  Fe  Fe8  1  0.319826  0.159960  0.750000  1
+  Fe  Fe9  1  0.159960  0.319826  0.250000  1
+  Fe  Fe10  1  0.159857  0.840143  0.250000  1
+  Fe  Fe11  1  0.680174  0.840040  0.250000  1

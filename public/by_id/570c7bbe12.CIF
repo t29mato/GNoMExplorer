@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_LaTb(Re2Si)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.16342000
+_cell_length_b   7.33988400
+_cell_length_c   15.51928878
+_cell_angle_alpha   90.41745684
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaTb(Re2Si)4
+_chemical_formula_sum   'La2 Tb2 Re16 Si8'
+_cell_volume   474.24166574
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.500000  0.077730  0.380049  1
+  La  La1  1  0.500000  0.922270  0.619951  1
+  Tb  Tb2  1  0.000000  0.578202  0.117156  1
+  Tb  Tb3  1  0.000000  0.421798  0.882844  1
+  Re  Re4  1  0.000000  0.141831  0.051002  1
+  Re  Re5  1  0.000000  0.858169  0.948998  1
+  Re  Re6  1  0.500000  0.635519  0.447370  1
+  Re  Re7  1  0.500000  0.364481  0.552630  1
+  Re  Re8  1  0.000000  0.729720  0.318535  1
+  Re  Re9  1  0.000000  0.270280  0.681465  1
+  Re  Re10  1  0.500000  0.235180  0.175914  1
+  Re  Re11  1  0.500000  0.764820  0.824086  1
+  Re  Re12  1  0.000000  0.431839  0.417960  1
+  Re  Re13  1  0.000000  0.568161  0.582040  1
+  Re  Re14  1  0.500000  0.930945  0.081172  1
+  Re  Re15  1  0.500000  0.069055  0.918828  1
+  Re  Re16  1  0.000000  0.985903  0.203340  1
+  Re  Re17  1  0.000000  0.014097  0.796660  1
+  Re  Re18  1  0.500000  0.491203  0.291355  1
+  Re  Re19  1  0.500000  0.508797  0.708645  1
+  Si  Si20  1  0.000000  0.824722  0.474956  1
+  Si  Si21  1  0.000000  0.175278  0.525044  1
+  Si  Si22  1  0.500000  0.333554  0.022618  1
+  Si  Si23  1  0.500000  0.666446  0.977382  1
+  Si  Si24  1  0.000000  0.292882  0.270187  1
+  Si  Si25  1  0.000000  0.707118  0.729813  1
+  Si  Si26  1  0.500000  0.787075  0.223298  1
+  Si  Si27  1  0.500000  0.212925  0.776702  1

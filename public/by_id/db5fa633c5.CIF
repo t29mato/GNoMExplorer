@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_RbLi(GdS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.10357800
+_cell_length_b   7.17082467
+_cell_length_c   14.04338800
+_cell_angle_alpha   90.00002771
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   73.37358623
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbLi(GdS2)2
+_chemical_formula_sum   'Rb2 Li2 Gd4 S8'
+_cell_volume   395.96397379
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.892495  0.215008  0.250000  1
+  Rb  Rb1  1  0.107504  0.784992  0.750000  1
+  Li  Li2  1  0.165467  0.669065  0.250000  1
+  Li  Li3  1  0.834533  0.330934  0.750000  1
+  Gd  Gd4  1  0.633789  0.732422  0.060149  1
+  Gd  Gd5  1  0.633789  0.732423  0.439850  1
+  Gd  Gd6  1  0.366211  0.267577  0.560150  1
+  Gd  Gd7  1  0.366211  0.267578  0.939851  1
+  S  S8  1  0.000000  0.000000  0.000000  1
+  S  S9  1  0.258529  0.482942  0.106548  1
+  S  S10  1  0.579120  0.841758  0.250000  1
+  S  S11  1  0.258528  0.482945  0.393452  1
+  S  S12  1  0.000000  0.000000  0.500000  1
+  S  S13  1  0.741472  0.517054  0.606548  1
+  S  S14  1  0.420878  0.158243  0.750000  1
+  S  S15  1  0.741471  0.517057  0.893452  1

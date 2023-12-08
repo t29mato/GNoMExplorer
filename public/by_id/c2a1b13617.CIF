@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_TbPrTh2(Zn5Sn)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.54941726
+_cell_length_b   8.54941571
+_cell_length_c   9.08072317
+_cell_angle_alpha   90.65537133
+_cell_angle_beta   89.34464261
+_cell_angle_gamma   149.62865005
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbPrTh2(Zn5Sn)2
+_chemical_formula_sum   'Tb1 Pr1 Th2 Zn10 Sn2'
+_cell_volume   335.56141496
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.000000  0.000000  0.500000  1
+  Pr  Pr1  1  0.000000  0.000000  0.000000  1
+  Th  Th2  1  0.204400  0.795602  0.250651  1
+  Th  Th3  1  0.795600  0.204398  0.749349  1
+  Zn  Zn4  1  0.816108  0.183892  0.391393  1
+  Zn  Zn5  1  0.183892  0.816108  0.608607  1
+  Zn  Zn6  1  0.814100  0.185900  0.108039  1
+  Zn  Zn7  1  0.185900  0.814100  0.891961  1
+  Zn  Zn8  1  0.656629  0.343371  0.483813  1
+  Zn  Zn9  1  0.343371  0.656629  0.516187  1
+  Zn  Zn10  1  0.657285  0.342715  0.018023  1
+  Zn  Zn11  1  0.342715  0.657285  0.981977  1
+  Zn  Zn12  1  0.394553  0.605447  0.248820  1
+  Zn  Zn13  1  0.605447  0.394553  0.751180  1
+  Sn  Sn14  1  0.554237  0.445764  0.254128  1
+  Sn  Sn15  1  0.445763  0.554236  0.745872  1

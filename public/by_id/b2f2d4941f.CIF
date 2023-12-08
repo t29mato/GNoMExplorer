@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_DyIn2(SnIr)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.03722673
+_cell_length_b   7.03722678
+_cell_length_c   6.99653400
+_cell_angle_alpha   120.71507278
+_cell_angle_beta   120.71507306
+_cell_angle_gamma   89.10437416
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyIn2(SnIr)4
+_chemical_formula_sum   'Dy1 In2 Sn4 Ir4'
+_cell_volume   241.58351606
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.001469  0.001469  0.000000  1
+  In  In1  1  0.459318  0.122788  0.000000  1
+  In  In2  1  0.122788  0.459318  0.000000  1
+  Sn  Sn3  1  0.875522  0.875522  0.336620  1
+  Sn  Sn4  1  0.500305  0.000305  0.500000  1
+  Sn  Sn5  1  0.000305  0.500305  0.500000  1
+  Sn  Sn6  1  0.538903  0.538903  0.663380  1
+  Ir  Ir7  1  0.749852  0.396620  0.000000  1
+  Ir  Ir8  1  0.396620  0.749852  0.000000  1
+  Ir  Ir9  1  0.616409  0.616409  0.377897  1
+  Ir  Ir10  1  0.238511  0.238511  0.622103  1

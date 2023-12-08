@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Lu12Mn2In2Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.21627000
+_cell_length_b   8.21627122
+_cell_length_c   8.21627000
+_cell_angle_alpha   108.81714737
+_cell_angle_beta   108.81715026
+_cell_angle_gamma   110.78743282
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu12Mn2In2Pd
+_chemical_formula_sum   'Lu12 Mn2 In2 Pd1'
+_cell_volume   426.80541933
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.306534  0.306534  0.613068  1
+  Lu  Lu1  1  0.693466  0.693466  0.386932  1
+  Lu  Lu2  1  0.693466  0.306534  0.000000  1
+  Lu  Lu3  1  0.306534  0.693466  0.000000  1
+  Lu  Lu4  1  0.198215  0.439519  0.241304  1
+  Lu  Lu5  1  0.801785  0.560481  0.758696  1
+  Lu  Lu6  1  0.198215  0.956910  0.758696  1
+  Lu  Lu7  1  0.956910  0.198215  0.758696  1
+  Lu  Lu8  1  0.801785  0.043090  0.241304  1
+  Lu  Lu9  1  0.043090  0.801785  0.241304  1
+  Lu  Lu10  1  0.439519  0.198215  0.241304  1
+  Lu  Lu11  1  0.560481  0.801785  0.758696  1
+  Mn  Mn12  1  0.386689  0.386689  0.000000  1
+  Mn  Mn13  1  0.613311  0.613311  0.000000  1
+  In  In14  1  0.000000  0.500000  0.500000  1
+  In  In15  1  0.500000  0.000000  0.500000  1
+  Pd  Pd16  1  0.000000  0.000000  0.000000  1

@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_LiLa6(YPt3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.77219259
+_cell_length_b   7.77219238
+_cell_length_c   7.77219254
+_cell_angle_alpha   70.02677055
+_cell_angle_beta   70.02677146
+_cell_angle_gamma   70.02676559
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiLa6(YPt3)2
+_chemical_formula_sum   'Li1 La6 Y2 Pt6'
+_cell_volume   401.04760866
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.000000  0.000000  0.000000  1
+  La  La1  1  0.317718  0.613331  0.856338  1
+  La  La2  1  0.856338  0.317718  0.613331  1
+  La  La3  1  0.613331  0.856338  0.317718  1
+  La  La4  1  0.682282  0.386669  0.143662  1
+  La  La5  1  0.143662  0.682282  0.386669  1
+  La  La6  1  0.386669  0.143662  0.682282  1
+  Y  Y7  1  0.816886  0.816886  0.816886  1
+  Y  Y8  1  0.183114  0.183114  0.183114  1
+  Pt  Pt9  1  0.175253  0.957981  0.573324  1
+  Pt  Pt10  1  0.573324  0.175253  0.957981  1
+  Pt  Pt11  1  0.957981  0.573324  0.175253  1
+  Pt  Pt12  1  0.824747  0.042019  0.426676  1
+  Pt  Pt13  1  0.426676  0.824747  0.042019  1
+  Pt  Pt14  1  0.042019  0.426676  0.824747  1

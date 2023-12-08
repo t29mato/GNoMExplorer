@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Lu5In2(NiHg)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.51939700
+_cell_length_b   7.73030600
+_cell_length_c   17.73372600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu5In2(NiHg)2
+_chemical_formula_sum   'Lu10 In4 Ni4 Hg4'
+_cell_volume   482.46402878
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.000000  0.500000  0.500000  1
+  Lu  Lu1  1  0.000000  0.000000  0.000000  1
+  Lu  Lu2  1  0.000000  0.748675  0.281055  1
+  Lu  Lu3  1  0.000000  0.251325  0.718945  1
+  Lu  Lu4  1  0.000000  0.751325  0.781055  1
+  Lu  Lu5  1  0.000000  0.248675  0.218945  1
+  Lu  Lu6  1  0.000000  0.610046  0.088448  1
+  Lu  Lu7  1  0.000000  0.389954  0.911552  1
+  Lu  Lu8  1  0.000000  0.889954  0.588448  1
+  Lu  Lu9  1  0.000000  0.110046  0.411552  1
+  In  In10  1  0.500000  0.576516  0.651745  1
+  In  In11  1  0.500000  0.423484  0.348255  1
+  In  In12  1  0.500000  0.923484  0.151745  1
+  In  In13  1  0.500000  0.076516  0.848255  1
+  Ni  Ni14  1  0.500000  0.532773  0.197130  1
+  Ni  Ni15  1  0.500000  0.467227  0.802870  1
+  Ni  Ni16  1  0.500000  0.967227  0.697130  1
+  Ni  Ni17  1  0.500000  0.032773  0.302870  1
+  Hg  Hg18  1  0.500000  0.710374  0.931746  1
+  Hg  Hg19  1  0.500000  0.289626  0.068254  1
+  Hg  Hg20  1  0.500000  0.789626  0.431746  1
+  Hg  Hg21  1  0.500000  0.210374  0.568254  1

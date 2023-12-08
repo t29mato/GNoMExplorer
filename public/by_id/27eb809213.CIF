@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TeSCl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.58079900
+_cell_length_b   3.69589800
+_cell_length_c   11.73793200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TeSCl
+_chemical_formula_sum   'Te4 S4 Cl4'
+_cell_volume   415.63613266
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.892299  0.749999  0.128134  1
+  Te  Te1  1  0.392299  0.749999  0.371865  1
+  Te  Te2  1  0.607700  0.250001  0.628134  1
+  Te  Te3  1  0.107701  0.250001  0.871865  1
+  S  S4  1  0.171898  0.749999  0.008980  1
+  S  S5  1  0.671897  0.749999  0.491019  1
+  S  S6  1  0.328102  0.250001  0.508980  1
+  S  S7  1  0.828102  0.250001  0.991019  1
+  Cl  Cl8  1  0.489684  0.250001  0.218093  1
+  Cl  Cl9  1  0.989684  0.250001  0.281906  1
+  Cl  Cl10  1  0.010315  0.749999  0.718093  1
+  Cl  Cl11  1  0.510315  0.749999  0.781906  1

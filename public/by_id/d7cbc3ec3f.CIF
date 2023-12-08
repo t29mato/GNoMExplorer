@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_YbPr4TlSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.89995700
+_cell_length_b   9.31279893
+_cell_length_c   7.89995700
+_cell_angle_alpha   115.09656959
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   115.09656959
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbPr4TlSi2
+_chemical_formula_sum   'Yb2 Pr8 Tl2 Si4'
+_cell_volume   465.03762285
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.000000  0.000000  0.000000  1
+  Yb  Yb1  1  0.500000  0.000000  0.500000  1
+  Pr  Pr2  1  0.540002  0.724439  0.684438  1
+  Pr  Pr3  1  0.184438  0.724439  0.040002  1
+  Pr  Pr4  1  0.684438  0.724439  0.184438  1
+  Pr  Pr5  1  0.040002  0.724439  0.540002  1
+  Pr  Pr6  1  0.459998  0.275561  0.315562  1
+  Pr  Pr7  1  0.815562  0.275561  0.959998  1
+  Pr  Pr8  1  0.315562  0.275561  0.815562  1
+  Pr  Pr9  1  0.959998  0.275561  0.459998  1
+  Tl  Tl10  1  0.750000  0.500000  0.750000  1
+  Tl  Tl11  1  0.250000  0.500000  0.250000  1
+  Si  Si12  1  0.886562  0.000000  0.613438  1
+  Si  Si13  1  0.113438  0.000000  0.386562  1
+  Si  Si14  1  0.613438  0.000000  0.113438  1
+  Si  Si15  1  0.386562  0.000000  0.886562  1

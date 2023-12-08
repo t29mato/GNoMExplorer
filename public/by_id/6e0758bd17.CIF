@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Y2CoNi(SnH)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.28225200
+_cell_length_b   7.14605839
+_cell_length_c   8.24598523
+_cell_angle_alpha   90.57349189
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2CoNi(SnH)2
+_chemical_formula_sum   'Y4 Co2 Ni2 Sn4 H4'
+_cell_volume   252.32459139
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.750000  0.013460  0.684086  1
+  Y  Y1  1  0.250000  0.986540  0.315914  1
+  Y  Y2  1  0.250000  0.485790  0.191046  1
+  Y  Y3  1  0.750000  0.514210  0.808954  1
+  Co  Co4  1  0.250000  0.727581  0.606572  1
+  Co  Co5  1  0.750000  0.272419  0.393428  1
+  Ni  Ni6  1  0.750000  0.775736  0.103772  1
+  Ni  Ni7  1  0.250000  0.224264  0.896228  1
+  Sn  Sn8  1  0.750000  0.654953  0.428954  1
+  Sn  Sn9  1  0.250000  0.345047  0.571046  1
+  Sn  Sn10  1  0.250000  0.842636  0.926397  1
+  Sn  Sn11  1  0.750000  0.157364  0.073603  1
+  H  H12  1  0.250000  0.444453  0.922556  1
+  H  H13  1  0.750000  0.555547  0.077444  1
+  H  H14  1  0.750000  0.052763  0.418736  1
+  H  H15  1  0.250000  0.947237  0.581264  1

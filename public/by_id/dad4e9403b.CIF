@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_HfZn4Tc
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.00987833
+_cell_length_b   5.00987884
+_cell_length_c   5.00987900
+_cell_angle_alpha   60.00000551
+_cell_angle_beta   60.00000219
+_cell_angle_gamma   59.99999716
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfZn4Tc
+_chemical_formula_sum   'Hf1 Zn4 Tc1'
+_cell_volume   88.91328504
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.500000  0.500000  0.500000  1
+  Zn  Zn1  1  0.124047  0.124047  0.627860  1
+  Zn  Zn2  1  0.124047  0.627860  0.124047  1
+  Zn  Zn3  1  0.124047  0.124047  0.124047  1
+  Zn  Zn4  1  0.627860  0.124047  0.124047  1
+  Tc  Tc5  1  0.750000  0.750000  0.750000  1

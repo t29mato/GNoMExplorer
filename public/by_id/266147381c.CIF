@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_La3Yb(BeSi3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.20059636
+_cell_length_b   7.96294898
+_cell_length_c   5.95973501
+_cell_angle_alpha   70.50368864
+_cell_angle_beta   66.25483693
+_cell_angle_gamma   43.24149180
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3Yb(BeSi3)2
+_chemical_formula_sum   'La3 Yb1 Be2 Si6'
+_cell_volume   243.53737829
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.250000  0.250000  0.250001  1
+  La  La1  1  0.245092  0.754908  0.245093  1
+  La  La2  1  0.754908  0.245093  0.754909  1
+  Yb  Yb3  1  0.750001  0.749999  0.750000  1
+  Be  Be4  1  0.666586  0.666587  0.333414  1
+  Be  Be5  1  0.333413  0.333414  0.666587  1
+  Si  Si6  1  0.822946  0.349478  0.172005  1
+  Si  Si7  1  0.827108  0.827108  0.172893  1
+  Si  Si8  1  0.655572  0.172005  0.349478  1
+  Si  Si9  1  0.349478  0.822946  0.655573  1
+  Si  Si10  1  0.172892  0.172893  0.827109  1
+  Si  Si11  1  0.172004  0.655573  0.822946  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Gd2Si4Tc3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.09995200
+_cell_length_b   5.55279359
+_cell_length_c   6.84187000
+_cell_angle_alpha   76.16447826
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd2Si4Tc3
+_chemical_formula_sum   'Gd4 Si8 Tc6'
+_cell_volume   298.80086833
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.562750  0.067295  0.249971  1
+  Gd  Gd1  1  0.062750  0.432705  0.750029  1
+  Gd  Gd2  1  0.437250  0.932705  0.750029  1
+  Gd  Gd3  1  0.937250  0.567295  0.249971  1
+  Si  Si4  1  0.907365  0.112537  0.119530  1
+  Si  Si5  1  0.407365  0.387463  0.880470  1
+  Si  Si6  1  0.092635  0.887463  0.880470  1
+  Si  Si7  1  0.592635  0.612537  0.119530  1
+  Si  Si8  1  0.748146  0.220922  0.581683  1
+  Si  Si9  1  0.248146  0.279078  0.418317  1
+  Si  Si10  1  0.251854  0.779078  0.418317  1
+  Si  Si11  1  0.751854  0.720922  0.581683  1
+  Tc  Tc12  1  0.205812  0.112481  0.118019  1
+  Tc  Tc13  1  0.705812  0.387519  0.881981  1
+  Tc  Tc14  1  0.794188  0.887519  0.881981  1
+  Tc  Tc15  1  0.294188  0.612481  0.118019  1
+  Tc  Tc16  1  0.000000  0.000000  0.500000  1
+  Tc  Tc17  1  0.500000  0.500000  0.500000  1

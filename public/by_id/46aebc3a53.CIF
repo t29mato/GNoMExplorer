@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Li4NdHo3(Si2Sn)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.57735595
+_cell_length_b   9.57735602
+_cell_length_c   6.77366400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   153.28865725
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li4NdHo3(Si2Sn)2
+_chemical_formula_sum   'Li4 Nd1 Ho3 Si4 Sn2'
+_cell_volume   279.28048906
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.184300  0.815700  0.055090  1
+  Li  Li1  1  0.184300  0.815700  0.444910  1
+  Li  Li2  1  0.815428  0.184572  0.945839  1
+  Li  Li3  1  0.815428  0.184572  0.554161  1
+  Nd  Nd4  1  0.451381  0.548619  0.750000  1
+  Ho  Ho5  1  0.351445  0.648555  0.250000  1
+  Ho  Ho6  1  0.648646  0.351354  0.750000  1
+  Ho  Ho7  1  0.548592  0.451408  0.250000  1
+  Si  Si8  1  0.058971  0.941029  0.928734  1
+  Si  Si9  1  0.942196  0.057804  0.075033  1
+  Si  Si10  1  0.942196  0.057804  0.424967  1
+  Si  Si11  1  0.058971  0.941029  0.571266  1
+  Sn  Sn12  1  0.719335  0.280665  0.250000  1
+  Sn  Sn13  1  0.278814  0.721186  0.750000  1

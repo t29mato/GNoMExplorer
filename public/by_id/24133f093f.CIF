@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Lu12Tc3Sn2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.31467151
+_cell_length_b   8.31467190
+_cell_length_c   8.31467163
+_cell_angle_alpha   108.96111081
+_cell_angle_beta   108.96111622
+_cell_angle_gamma   110.49632286
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu12Tc3Sn2
+_chemical_formula_sum   'Lu12 Tc3 Sn2'
+_cell_volume   442.39370489
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.305865  0.305865  0.611731  1
+  Lu  Lu1  1  0.694135  0.694135  0.388269  1
+  Lu  Lu2  1  0.694135  0.305865  0.000000  1
+  Lu  Lu3  1  0.305865  0.694135  0.000000  1
+  Lu  Lu4  1  0.190465  0.429248  0.238783  1
+  Lu  Lu5  1  0.809535  0.570752  0.761217  1
+  Lu  Lu6  1  0.190465  0.951680  0.761217  1
+  Lu  Lu7  1  0.951680  0.190465  0.761217  1
+  Lu  Lu8  1  0.809535  0.048320  0.238783  1
+  Lu  Lu9  1  0.048320  0.809535  0.238783  1
+  Lu  Lu10  1  0.429248  0.190465  0.238783  1
+  Lu  Lu11  1  0.570752  0.809535  0.761217  1
+  Tc  Tc12  1  0.369480  0.369480  0.000000  1
+  Tc  Tc13  1  0.630520  0.630520  0.000000  1
+  Tc  Tc14  1  0.000000  0.000000  0.000000  1
+  Sn  Sn15  1  0.000000  0.500000  0.500000  1
+  Sn  Sn16  1  0.500000  0.000000  0.500000  1

@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Mn3V13(Si3W)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.03470297
+_cell_length_b   7.03470318
+_cell_length_c   13.33532785
+_cell_angle_alpha   89.78702594
+_cell_angle_beta   90.21297339
+_cell_angle_gamma   140.45474454
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn3V13(Si3W)4
+_chemical_formula_sum   'Mn3 V13 Si12 W4'
+_cell_volume   420.16335432
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.502638  0.502638  0.000000  1
+  Mn  Mn1  1  0.499078  0.499078  0.500000  1
+  Mn  Mn2  1  0.999680  0.999680  0.000000  1
+  V  V3  1  0.847962  0.653456  0.677397  1
+  V  V4  1  0.348778  0.152116  0.176445  1
+  V  V5  1  0.653456  0.847962  0.322603  1
+  V  V6  1  0.152116  0.348778  0.823555  1
+  V  V7  1  0.654806  0.851357  0.676457  1
+  V  V8  1  0.151135  0.349334  0.176095  1
+  V  V9  1  0.851357  0.654806  0.323543  1
+  V  V10  1  0.349334  0.151135  0.823905  1
+  V  V11  1  0.423313  0.068706  0.399239  1
+  V  V12  1  0.930014  0.572862  0.900158  1
+  V  V13  1  0.068706  0.423313  0.600761  1
+  V  V14  1  0.572862  0.930014  0.099842  1
+  V  V15  1  0.001643  0.001643  0.500000  1
+  Si  Si16  1  0.247709  0.746704  0.750476  1
+  Si  Si17  1  0.746704  0.247709  0.249524  1
+  Si  Si18  1  0.752026  0.252865  0.750452  1
+  Si  Si19  1  0.252865  0.752026  0.249548  1
+  Si  Si20  1  0.252160  0.258332  0.664114  1
+  Si  Si21  1  0.749716  0.755516  0.160677  1
+  Si  Si22  1  0.258332  0.252160  0.335886  1
+  Si  Si23  1  0.755516  0.749716  0.839323  1
+  Si  Si24  1  0.578863  0.902196  0.499331  1
+  Si  Si25  1  0.092814  0.409786  0.999668  1
+  Si  Si26  1  0.902196  0.578863  0.500669  1
+  Si  Si27  1  0.409786  0.092814  0.000332  1
+  W  W28  1  0.069845  0.422249  0.400446  1
+  W  W29  1  0.574012  0.928329  0.901732  1
+  W  W30  1  0.422249  0.069845  0.599554  1
+  W  W31  1  0.928329  0.574012  0.098268  1

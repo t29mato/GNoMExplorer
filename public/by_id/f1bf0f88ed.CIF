@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_HfMn5(InRh2)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.49236707
+_cell_length_b   6.32905900
+_cell_length_c   13.43310940
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.97619359
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfMn5(InRh2)6
+_chemical_formula_sum   'Hf1 Mn5 In6 Rh12'
+_cell_volume   381.93626182
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.000075  0.000000  0.999996  1
+  Mn  Mn1  1  0.499933  0.500001  0.169383  1
+  Mn  Mn2  1  0.999793  0.000000  0.334781  1
+  Mn  Mn3  1  0.500314  0.500001  0.499872  1
+  Mn  Mn4  1  0.999540  0.000000  0.665163  1
+  Mn  Mn5  1  0.499749  0.500001  0.830653  1
+  In  In6  1  0.000138  0.500001  0.000078  1
+  In  In7  1  0.499967  0.000000  0.171318  1
+  In  In8  1  0.000412  0.500001  0.335768  1
+  In  In9  1  0.499398  0.000000  0.500101  1
+  In  In10  1  0.000391  0.500001  0.664413  1
+  In  In11  1  0.500171  0.000000  0.828681  1
+  Rh  Rh12  1  0.500159  0.251958  0.999991  1
+  Rh  Rh13  1  0.500159  0.748043  0.999991  1
+  Rh  Rh14  1  0.000100  0.252451  0.167248  1
+  Rh  Rh15  1  0.000100  0.747548  0.167248  1
+  Rh  Rh16  1  0.500105  0.251879  0.334326  1
+  Rh  Rh17  1  0.500105  0.748120  0.334326  1
+  Rh  Rh18  1  0.999788  0.248785  0.499961  1
+  Rh  Rh19  1  0.999788  0.751214  0.499961  1
+  Rh  Rh20  1  0.499997  0.251844  0.665648  1
+  Rh  Rh21  1  0.499997  0.748155  0.665648  1
+  Rh  Rh22  1  0.999912  0.252458  0.832721  1
+  Rh  Rh23  1  0.999912  0.747541  0.832721  1

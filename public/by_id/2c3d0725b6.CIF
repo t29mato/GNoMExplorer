@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_TbNd(CuP)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.93539800
+_cell_length_b   10.78323100
+_cell_length_c   12.98324900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbNd(CuP)3
+_chemical_formula_sum   'Tb4 Nd4 Cu12 P12'
+_cell_volume   550.96112369
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.250000  0.842450  0.502004  1
+  Tb  Tb1  1  0.750000  0.342450  0.997996  1
+  Tb  Tb2  1  0.250000  0.657550  0.002004  1
+  Tb  Tb3  1  0.750000  0.157550  0.497996  1
+  Nd  Nd4  1  0.250000  0.931226  0.793500  1
+  Nd  Nd5  1  0.750000  0.431226  0.706500  1
+  Nd  Nd6  1  0.250000  0.568774  0.293500  1
+  Nd  Nd7  1  0.750000  0.068774  0.206500  1
+  Cu  Cu8  1  0.250000  0.400045  0.512176  1
+  Cu  Cu9  1  0.750000  0.900045  0.987824  1
+  Cu  Cu10  1  0.250000  0.099955  0.012176  1
+  Cu  Cu11  1  0.750000  0.599955  0.487824  1
+  Cu  Cu12  1  0.250000  0.271732  0.332639  1
+  Cu  Cu13  1  0.750000  0.771732  0.167361  1
+  Cu  Cu14  1  0.250000  0.228268  0.832639  1
+  Cu  Cu15  1  0.750000  0.728268  0.667361  1
+  Cu  Cu16  1  0.250000  0.859904  0.279208  1
+  Cu  Cu17  1  0.750000  0.359904  0.220792  1
+  Cu  Cu18  1  0.250000  0.640096  0.779208  1
+  Cu  Cu19  1  0.750000  0.140096  0.720792  1
+  P  P20  1  0.250000  0.235738  0.644158  1
+  P  P21  1  0.750000  0.735738  0.855842  1
+  P  P22  1  0.250000  0.264262  0.144158  1
+  P  P23  1  0.750000  0.764262  0.355842  1
+  P  P24  1  0.250000  0.605673  0.598082  1
+  P  P25  1  0.750000  0.105673  0.901918  1
+  P  P26  1  0.250000  0.894327  0.098082  1
+  P  P27  1  0.750000  0.394327  0.401918  1
+  P  P28  1  0.250000  0.057954  0.371768  1
+  P  P29  1  0.750000  0.557954  0.128232  1
+  P  P30  1  0.250000  0.442046  0.871768  1
+  P  P31  1  0.750000  0.942046  0.628232  1

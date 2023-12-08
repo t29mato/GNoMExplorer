@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_TaNb9(GaSi2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.61716245
+_cell_length_b   7.61716160
+_cell_length_c   7.61716052
+_cell_angle_alpha   128.06051697
+_cell_angle_beta   128.06051505
+_cell_angle_gamma   76.52701031
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaNb9(GaSi2)2
+_chemical_formula_sum   'Ta1 Nb9 Ga2 Si4'
+_cell_volume   266.16229827
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.000000  0.000000  0.000000  1
+  Nb  Nb1  1  0.016528  0.186288  0.499532  1
+  Nb  Nb2  1  0.686756  0.516996  0.500468  1
+  Nb  Nb3  1  0.516996  0.016528  0.830240  1
+  Nb  Nb4  1  0.186288  0.686756  0.169760  1
+  Nb  Nb5  1  0.983472  0.813712  0.500468  1
+  Nb  Nb6  1  0.313244  0.483004  0.499532  1
+  Nb  Nb7  1  0.483004  0.983472  0.169760  1
+  Nb  Nb8  1  0.813712  0.313244  0.830240  1
+  Nb  Nb9  1  0.500000  0.500000  0.000000  1
+  Ga  Ga10  1  0.749945  0.749945  0.000000  1
+  Ga  Ga11  1  0.250055  0.250055  0.000000  1
+  Si  Si12  1  0.370015  0.129632  0.499647  1
+  Si  Si13  1  0.629985  0.870368  0.500353  1
+  Si  Si14  1  0.870368  0.370015  0.240382  1
+  Si  Si15  1  0.129632  0.629985  0.759618  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_HoPaPd2Pb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.90900200
+_cell_length_b   7.87976100
+_cell_length_c   3.63986000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoPaPd2Pb
+_chemical_formula_sum   'Ho2 Pa2 Pd4 Pb2'
+_cell_volume   226.83988070
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.827871  0.673151  0.500000  1
+  Ho  Ho1  1  0.327871  0.826849  0.500000  1
+  Pa  Pa2  1  0.669834  0.168991  0.500000  1
+  Pa  Pa3  1  0.169834  0.331009  0.500000  1
+  Pd  Pd4  1  0.372165  0.137177  0.000000  1
+  Pd  Pd5  1  0.126833  0.614494  0.000000  1
+  Pd  Pd6  1  0.626833  0.885506  0.000000  1
+  Pd  Pd7  1  0.872165  0.362823  0.000000  1
+  Pb  Pb8  1  0.003296  0.990999  0.000000  1
+  Pb  Pb9  1  0.503296  0.509001  0.000000  1

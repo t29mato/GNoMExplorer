@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ta9Co2GePt2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.12435692
+_cell_length_b   9.80992041
+_cell_length_c   9.80992051
+_cell_angle_alpha   86.08846027
+_cell_angle_beta   74.85977012
+_cell_angle_gamma   74.85977038
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta9Co2GePt2
+_chemical_formula_sum   'Ta18 Co4 Ge2 Pt4'
+_cell_volume   459.49997440
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.750000  0.500000  0.500000  1
+  Ta  Ta1  1  0.250000  0.500000  0.500000  1
+  Ta  Ta2  1  0.789527  0.781730  0.639215  1
+  Ta  Ta3  1  0.210473  0.218270  0.360785  1
+  Ta  Ta4  1  0.710473  0.360785  0.218270  1
+  Ta  Ta5  1  0.289527  0.639215  0.781730  1
+  Ta  Ta6  1  0.571259  0.639215  0.218270  1
+  Ta  Ta7  1  0.428741  0.360785  0.781730  1
+  Ta  Ta8  1  0.071259  0.218270  0.639215  1
+  Ta  Ta9  1  0.928741  0.781730  0.360785  1
+  Ta  Ta10  1  0.586547  0.075821  0.751086  1
+  Ta  Ta11  1  0.413453  0.924179  0.248914  1
+  Ta  Ta12  1  0.913453  0.248914  0.924179  1
+  Ta  Ta13  1  0.086547  0.751086  0.075821  1
+  Ta  Ta14  1  0.662368  0.751086  0.924179  1
+  Ta  Ta15  1  0.337632  0.248914  0.075821  1
+  Ta  Ta16  1  0.162368  0.924179  0.751086  1
+  Ta  Ta17  1  0.837632  0.075821  0.248914  1
+  Co  Co18  1  0.500000  0.000000  0.500000  1
+  Co  Co19  1  0.000000  0.000000  0.500000  1
+  Co  Co20  1  0.500000  0.500000  0.000000  1
+  Co  Co21  1  0.000000  0.500000  0.000000  1
+  Ge  Ge22  1  0.250000  0.000000  0.000000  1
+  Ge  Ge23  1  0.750000  0.000000  0.000000  1
+  Pt  Pt24  1  0.131221  0.500000  0.237557  1
+  Pt  Pt25  1  0.868779  0.500000  0.762443  1
+  Pt  Pt26  1  0.368779  0.762443  0.500000  1
+  Pt  Pt27  1  0.631221  0.237557  0.500000  1

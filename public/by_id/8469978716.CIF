@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TbU(ZnRu)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.67105900
+_cell_length_b   7.18070249
+_cell_length_c   8.51321178
+_cell_angle_alpha   93.36304091
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbU(ZnRu)2
+_chemical_formula_sum   'Tb2 U2 Zn4 Ru4'
+_cell_volume   224.02845393
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.250000  0.055652  0.317069  1
+  Tb  Tb1  1  0.750000  0.944306  0.683046  1
+  U  U2  1  0.250000  0.545089  0.188015  1
+  U  U3  1  0.750000  0.454887  0.811936  1
+  Zn  Zn4  1  0.250000  0.117799  0.938484  1
+  Zn  Zn5  1  0.750000  0.882311  0.061532  1
+  Zn  Zn6  1  0.250000  0.626740  0.554036  1
+  Zn  Zn7  1  0.750000  0.373211  0.445880  1
+  Ru  Ru8  1  0.750000  0.735309  0.343130  1
+  Ru  Ru9  1  0.250000  0.264486  0.656693  1
+  Ru  Ru10  1  0.750000  0.294822  0.125620  1
+  Ru  Ru11  1  0.250000  0.705389  0.874558  1

@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ti3Nb3Al4(AuC)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.38351572
+_cell_length_b   8.38393550
+_cell_length_c   8.38283401
+_cell_angle_alpha   60.00466783
+_cell_angle_beta   60.00201569
+_cell_angle_gamma   60.01442728
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3Nb3Al4(AuC)2
+_chemical_formula_sum   'Ti6 Nb6 Al8 Au4 C4'
+_cell_volume   416.69592142
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.571268  0.928603  0.570724  1
+  Ti  Ti1  1  0.571254  0.928630  0.929421  1
+  Ti  Ti2  1  0.928637  0.571232  0.570705  1
+  Ti  Ti3  1  0.928628  0.571248  0.929415  1
+  Ti  Ti4  1  0.321218  0.321199  0.678789  1
+  Ti  Ti5  1  0.571148  0.571121  0.928862  1
+  Nb  Nb6  1  0.929305  0.929328  0.570689  1
+  Nb  Nb7  1  0.681060  0.319562  0.320301  1
+  Nb  Nb8  1  0.319583  0.681073  0.679049  1
+  Nb  Nb9  1  0.678620  0.678682  0.321349  1
+  Nb  Nb10  1  0.681053  0.319574  0.679061  1
+  Nb  Nb11  1  0.319580  0.681067  0.320303  1
+  Al  Al12  1  0.911614  0.262393  0.913000  1
+  Al  Al13  1  0.335994  0.336021  0.991419  1
+  Al  Al14  1  0.994304  0.334545  0.335571  1
+  Al  Al15  1  0.336001  0.336012  0.336563  1
+  Al  Al16  1  0.262400  0.911601  0.912999  1
+  Al  Al17  1  0.912724  0.912727  0.913888  1
+  Al  Al18  1  0.912718  0.912724  0.260673  1
+  Al  Al19  1  0.334530  0.994318  0.335580  1
+  Au  Au20  1  0.125211  0.624754  0.125019  1
+  Au  Au21  1  0.126647  0.126670  0.626765  1
+  Au  Au22  1  0.624757  0.125233  0.125006  1
+  Au  Au23  1  0.126652  0.126666  0.119920  1
+  C  C24  1  0.617113  0.122722  0.630077  1
+  C  C25  1  0.627624  0.627605  0.115645  1
+  C  C26  1  0.122732  0.617089  0.630091  1
+  C  C27  1  0.627624  0.627604  0.629115  1

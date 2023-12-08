@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HoPa3Mn2(CoGe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.38376800
+_cell_length_b   7.04882234
+_cell_length_c   6.97866910
+_cell_angle_alpha   86.01624287
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoPa3Mn2(CoGe2)2
+_chemical_formula_sum   'Ho1 Pa3 Mn2 Co2 Ge4'
+_cell_volume   215.12263807
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.750000  0.526343  0.276531  1
+  Pa  Pa1  1  0.250000  0.990588  0.807887  1
+  Pa  Pa2  1  0.250000  0.469610  0.726629  1
+  Pa  Pa3  1  0.750000  0.018575  0.201294  1
+  Mn  Mn4  1  0.750000  0.862370  0.535292  1
+  Mn  Mn5  1  0.750000  0.252578  0.951262  1
+  Co  Co6  1  0.250000  0.143964  0.456391  1
+  Co  Co7  1  0.250000  0.745789  0.045070  1
+  Ge  Ge8  1  0.250000  0.784401  0.404009  1
+  Ge  Ge9  1  0.250000  0.302155  0.119462  1
+  Ge  Ge10  1  0.750000  0.213072  0.591721  1
+  Ge  Ge11  1  0.750000  0.690554  0.884452  1

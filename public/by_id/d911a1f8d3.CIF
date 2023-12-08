@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_PrHo(Co3Si2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.33835062
+_cell_length_b   6.33889992
+_cell_length_c   6.33835238
+_cell_angle_alpha   130.40191994
+_cell_angle_beta   113.90045946
+_cell_angle_gamma   86.94206271
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrHo(Co3Si2)2
+_chemical_formula_sum   'Pr1 Ho1 Co6 Si4'
+_cell_volume   169.10355415
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.750161  0.471828  0.721667  1
+  Ho  Ho1  1  0.249860  0.536883  0.287023  1
+  Co  Co2  1  0.997814  0.997862  0.495691  1
+  Co  Co3  1  0.502170  0.997862  0.000047  1
+  Co  Co4  1  0.720794  0.996523  0.721027  1
+  Co  Co5  1  0.224550  0.500255  0.721095  1
+  Co  Co6  1  0.275496  0.996523  0.275728  1
+  Co  Co7  1  0.779160  0.500255  0.275705  1
+  Si  Si8  1  0.084310  0.879119  0.794809  1
+  Si  Si9  1  0.923943  0.130133  0.206190  1
+  Si  Si10  1  0.576006  0.782245  0.206238  1
+  Si  Si11  1  0.415736  0.210513  0.794778  1

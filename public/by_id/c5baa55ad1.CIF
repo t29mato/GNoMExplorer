@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Pr2Si2Pt3Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.52708420
+_cell_length_b   9.52708479
+_cell_length_c   4.12080700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   155.41385635
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr2Si2Pt3Rh
+_chemical_formula_sum   'Pr2 Si2 Pt3 Rh1'
+_cell_volume   155.61777568
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.102506  0.897494  0.750000  1
+  Pr  Pr1  1  0.897106  0.102894  0.250000  1
+  Si  Si2  1  0.321992  0.678008  0.750000  1
+  Si  Si3  1  0.678048  0.321952  0.250000  1
+  Pt  Pt4  1  0.549247  0.450753  0.250000  1
+  Pt  Pt5  1  0.450829  0.549171  0.750000  1
+  Pt  Pt6  1  0.250175  0.749825  0.250000  1
+  Rh  Rh7  1  0.750095  0.249905  0.750000  1

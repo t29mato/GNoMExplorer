@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ca2MgNi6GeB2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.24973900
+_cell_length_b   5.24973846
+_cell_length_c   6.78346800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999711
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2MgNi6GeB2
+_chemical_formula_sum   'Ca2 Mg1 Ni6 Ge1 B2'
+_cell_volume   161.90408425
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.000000  0.000000  0.500000  1
+  Ca  Ca1  1  0.000000  0.000000  0.000000  1
+  Mg  Mg2  1  0.666667  0.333333  0.500000  1
+  Ni  Ni3  1  0.498493  0.501507  0.804497  1
+  Ni  Ni4  1  0.003014  0.501507  0.804497  1
+  Ni  Ni5  1  0.498493  0.996986  0.804497  1
+  Ni  Ni6  1  0.003014  0.501507  0.195503  1
+  Ni  Ni7  1  0.498493  0.501507  0.195503  1
+  Ni  Ni8  1  0.498493  0.996986  0.195503  1
+  Ge  Ge9  1  0.333333  0.666667  0.500000  1
+  B  B10  1  0.666667  0.333333  0.000000  1
+  B  B11  1  0.333333  0.666667  0.000000  1

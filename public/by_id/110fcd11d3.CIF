@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na3U(SnAu)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.68494100
+_cell_length_b   7.43413404
+_cell_length_c   8.26268552
+_cell_angle_alpha   91.76514181
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3U(SnAu)4
+_chemical_formula_sum   'Na3 U1 Sn4 Au4'
+_cell_volume   287.64021790
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.250000  0.516982  0.681974  1
+  Na  Na1  1  0.750000  0.481085  0.319870  1
+  Na  Na2  1  0.750000  0.988500  0.189966  1
+  U  U3  1  0.250000  0.010385  0.801290  1
+  Sn  Sn4  1  0.250000  0.674370  0.072591  1
+  Sn  Sn5  1  0.250000  0.180468  0.426989  1
+  Sn  Sn6  1  0.750000  0.819684  0.568155  1
+  Sn  Sn7  1  0.750000  0.332747  0.930641  1
+  Au  Au8  1  0.750000  0.729527  0.895154  1
+  Au  Au9  1  0.250000  0.275938  0.107631  1
+  Au  Au10  1  0.250000  0.788643  0.393135  1
+  Au  Au11  1  0.750000  0.201671  0.612605  1

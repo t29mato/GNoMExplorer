@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_CuHgBi2(Pt2O7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.31386938
+_cell_length_b   7.20296963
+_cell_length_c   7.31386808
+_cell_angle_alpha   59.93546242
+_cell_angle_beta   61.02566463
+_cell_angle_gamma   59.93545907
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuHgBi2(Pt2O7)2
+_chemical_formula_sum   'Cu1 Hg1 Bi2 Pt4 O14'
+_cell_volume   274.22908914
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.125000  0.625000  0.125000  1
+  Hg  Hg1  1  0.125000  0.125000  0.125000  1
+  Bi  Bi2  1  0.125000  0.125000  0.625000  1
+  Bi  Bi3  1  0.625000  0.125000  0.125000  1
+  Pt  Pt4  1  0.625000  0.625000  0.125000  1
+  Pt  Pt5  1  0.625000  0.125000  0.625000  1
+  Pt  Pt6  1  0.125000  0.625000  0.625000  1
+  Pt  Pt7  1  0.625000  0.625000  0.625000  1
+  O  O8  1  0.241442  0.300685  0.241442  1
+  O  O9  1  0.008558  0.949315  0.008558  1
+  O  O10  1  0.538410  0.962052  0.538410  1
+  O  O11  1  0.291832  0.702723  0.291832  1
+  O  O12  1  0.545484  0.541593  0.954841  1
+  O  O13  1  0.954841  0.541593  0.545484  1
+  O  O14  1  0.542224  0.962609  0.958570  1
+  O  O15  1  0.958570  0.962609  0.542224  1
+  O  O16  1  0.958168  0.547277  0.958168  1
+  O  O17  1  0.707776  0.287391  0.291430  1
+  O  O18  1  0.295159  0.708407  0.704516  1
+  O  O19  1  0.711590  0.287948  0.711590  1
+  O  O20  1  0.291430  0.287391  0.707776  1
+  O  O21  1  0.704516  0.708407  0.295159  1

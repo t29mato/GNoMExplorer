@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Li3Tb3GaSiAs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.10495000
+_cell_length_b   7.10495120
+_cell_length_c   4.22356100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000373
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3Tb3GaSiAs
+_chemical_formula_sum   'Li3 Tb3 Ga1 Si1 As1'
+_cell_volume   184.64243195
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.757730  0.757016  0.500000  1
+  Li  Li1  1  0.242984  0.000713  0.500000  1
+  Li  Li2  1  0.999287  0.242270  0.500000  1
+  Tb  Tb3  1  0.421845  0.428277  0.000000  1
+  Tb  Tb4  1  0.571723  0.993568  0.000000  1
+  Tb  Tb5  1  0.006432  0.578155  0.000000  1
+  Ga  Ga6  1  0.000000  0.000000  0.000000  1
+  Si  Si7  1  0.333333  0.666667  0.500000  1
+  As  As8  1  0.666667  0.333333  0.500000  1

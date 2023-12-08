@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Hf2NiP2Ru
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.71715400
+_cell_length_b   6.40449700
+_cell_length_c   7.30469000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf2NiP2Ru
+_chemical_formula_sum   'Hf4 Ni2 P4 Ru2'
+_cell_volume   173.89911448
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.250000  0.031170  0.816988  1
+  Hf  Hf1  1  0.250000  0.531170  0.683012  1
+  Hf  Hf2  1  0.750000  0.972287  0.176549  1
+  Hf  Hf3  1  0.750000  0.472287  0.323451  1
+  Ni  Ni4  1  0.750000  0.849593  0.561983  1
+  Ni  Ni5  1  0.750000  0.349593  0.938017  1
+  P  P6  1  0.250000  0.765669  0.379346  1
+  P  P7  1  0.250000  0.265669  0.120654  1
+  P  P8  1  0.750000  0.243227  0.626881  1
+  P  P9  1  0.750000  0.743227  0.873119  1
+  Ru  Ru10  1  0.250000  0.138055  0.440100  1
+  Ru  Ru11  1  0.250000  0.638055  0.059900  1

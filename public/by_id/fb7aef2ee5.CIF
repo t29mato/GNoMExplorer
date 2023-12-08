@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Y3Ho(PdPt)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.54656700
+_cell_length_b   5.59719267
+_cell_length_c   7.07057862
+_cell_angle_alpha   89.81404095
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y3Ho(PdPt)2
+_chemical_formula_sum   'Y3 Ho1 Pd2 Pt2'
+_cell_volume   179.93121830
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.000000  0.103445  0.683735  1
+  Y  Y1  1  0.000000  0.896532  0.183282  1
+  Y  Y2  1  0.500000  0.387997  0.317564  1
+  Ho  Ho3  1  0.500000  0.612403  0.817442  1
+  Pd  Pd4  1  0.000000  0.593641  0.544463  1
+  Pd  Pd5  1  0.000000  0.408309  0.039465  1
+  Pt  Pt6  1  0.500000  0.896296  0.459088  1
+  Pt  Pt7  1  0.500000  0.101378  0.954960  1

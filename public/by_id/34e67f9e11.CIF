@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_TiAg2F6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.77724600
+_cell_length_b   9.77724664
+_cell_length_c   5.38689800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001137
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiAg2F6
+_chemical_formula_sum   'Ti3 Ag6 F18'
+_cell_volume   445.96671643
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.666667  0.333333  0.505010  1
+  Ti  Ti1  1  0.333333  0.666667  0.494990  1
+  Ti  Ti2  1  0.000000  0.000000  0.000000  1
+  Ag  Ag3  1  0.619226  0.000000  0.000000  1
+  Ag  Ag4  1  0.380774  0.380774  0.000000  1
+  Ag  Ag5  1  0.283947  0.000000  0.500000  1
+  Ag  Ag6  1  0.000000  0.283947  0.500000  1
+  Ag  Ag7  1  0.716053  0.716053  0.500000  1
+  Ag  Ag8  1  0.000000  0.619226  0.000000  1
+  F  F9  1  0.483416  0.259176  0.304064  1
+  F  F10  1  0.183619  0.105139  0.798824  1
+  F  F11  1  0.446961  0.598008  0.291752  1
+  F  F12  1  0.259176  0.483416  0.695936  1
+  F  F13  1  0.151047  0.553039  0.291752  1
+  F  F14  1  0.816381  0.921520  0.201176  1
+  F  F15  1  0.078480  0.894861  0.201176  1
+  F  F16  1  0.921520  0.816381  0.798824  1
+  F  F17  1  0.105139  0.183619  0.201176  1
+  F  F18  1  0.224239  0.740824  0.695936  1
+  F  F19  1  0.894861  0.078480  0.798824  1
+  F  F20  1  0.598008  0.446961  0.708248  1
+  F  F21  1  0.401992  0.848953  0.291752  1
+  F  F22  1  0.775761  0.516584  0.304064  1
+  F  F23  1  0.553039  0.151047  0.708248  1
+  F  F24  1  0.848953  0.401992  0.708248  1
+  F  F25  1  0.740824  0.224239  0.304064  1
+  F  F26  1  0.516584  0.775761  0.695936  1

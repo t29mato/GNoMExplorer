@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Tb8Cd(Si4Ir)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.24639700
+_cell_length_b   8.24639613
+_cell_length_c   8.00089400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000750
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb8Cd(Si4Ir)3
+_chemical_formula_sum   'Tb8 Cd1 Si12 Ir3'
+_cell_volume   471.19160865
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.516293  0.032584  0.242402  1
+  Tb  Tb1  1  0.492416  0.984834  0.754207  1
+  Tb  Tb2  1  0.967416  0.483707  0.242402  1
+  Tb  Tb3  1  0.015166  0.507584  0.754207  1
+  Tb  Tb4  1  0.516293  0.483707  0.242402  1
+  Tb  Tb5  1  0.492416  0.507584  0.754207  1
+  Tb  Tb6  1  0.000000  0.000000  0.252722  1
+  Tb  Tb7  1  0.000000  0.000000  0.755245  1
+  Cd  Cd8  1  0.333333  0.666667  0.435782  1
+  Si  Si9  1  0.167345  0.334691  0.005957  1
+  Si  Si10  1  0.834270  0.668541  0.995447  1
+  Si  Si11  1  0.665309  0.832655  0.005957  1
+  Si  Si12  1  0.830640  0.661281  0.498600  1
+  Si  Si13  1  0.331459  0.165730  0.995447  1
+  Si  Si14  1  0.158106  0.316212  0.509899  1
+  Si  Si15  1  0.167345  0.832655  0.005957  1
+  Si  Si16  1  0.338719  0.169360  0.498600  1
+  Si  Si17  1  0.834270  0.165730  0.995447  1
+  Si  Si18  1  0.683788  0.841894  0.509899  1
+  Si  Si19  1  0.830640  0.169360  0.498600  1
+  Si  Si20  1  0.158106  0.841894  0.509899  1
+  Ir  Ir21  1  0.333333  0.666667  0.029795  1
+  Ir  Ir22  1  0.666667  0.333333  0.964318  1
+  Ir  Ir23  1  0.666667  0.333333  0.542598  1

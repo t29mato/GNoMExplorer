@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TiCrFe4(P2Ru)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.62174200
+_cell_length_b   5.88107297
+_cell_length_c   6.61077325
+_cell_angle_alpha   89.86162447
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiCrFe4(P2Ru)2
+_chemical_formula_sum   'Ti1 Cr1 Fe4 P4 Ru2'
+_cell_volume   140.80726806
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.750000  0.977525  0.174888  1
+  Cr  Cr1  1  0.250000  0.517640  0.671417  1
+  Fe  Fe2  1  0.250000  0.644883  0.059109  1
+  Fe  Fe3  1  0.750000  0.361293  0.933461  1
+  Fe  Fe4  1  0.250000  0.141603  0.435180  1
+  Fe  Fe5  1  0.750000  0.856007  0.562278  1
+  P  P6  1  0.250000  0.277883  0.120467  1
+  P  P7  1  0.750000  0.727067  0.870465  1
+  P  P8  1  0.250000  0.764428  0.381065  1
+  P  P9  1  0.750000  0.227439  0.622334  1
+  Ru  Ru10  1  0.250000  0.034947  0.835310  1
+  Ru  Ru11  1  0.750000  0.469288  0.334026  1

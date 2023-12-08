@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ce3Tm(PaTc3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.83243600
+_cell_length_b   5.83243536
+_cell_length_c   8.22822500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000364
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce3Tm(PaTc3)2
+_chemical_formula_sum   'Ce3 Tm1 Pa2 Tc6'
+_cell_volume   242.40227456
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.333333  0.666667  0.444795  1
+  Ce  Ce1  1  0.666667  0.333333  0.568761  1
+  Ce  Ce2  1  0.666667  0.333333  0.930399  1
+  Tm  Tm3  1  0.333333  0.666667  0.064556  1
+  Pa  Pa4  1  0.000000  0.000000  0.497326  1
+  Pa  Pa5  1  0.000000  0.000000  0.998593  1
+  Tc  Tc6  1  0.831367  0.168633  0.250455  1
+  Tc  Tc7  1  0.831367  0.662735  0.250455  1
+  Tc  Tc8  1  0.337265  0.168633  0.250455  1
+  Tc  Tc9  1  0.167821  0.832179  0.748069  1
+  Tc  Tc10  1  0.167821  0.335641  0.748069  1
+  Tc  Tc11  1  0.664359  0.832179  0.748069  1

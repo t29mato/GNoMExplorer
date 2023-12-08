@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Tb2LuSc3FeTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.90102300
+_cell_length_b   7.94412682
+_cell_length_c   3.98676300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.82067114
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2LuSc3FeTe2
+_chemical_formula_sum   'Tb2 Lu1 Sc3 Fe1 Te2'
+_cell_volume   217.10133734
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.390486  0.390257  0.000000  1
+  Tb  Tb1  1  0.000229  0.609743  0.000000  1
+  Lu  Lu2  1  0.615727  0.000000  0.000000  1
+  Sc  Sc3  1  0.225509  0.000000  0.500000  1
+  Sc  Sc4  1  0.773372  0.774731  0.500000  1
+  Sc  Sc5  1  0.998641  0.225269  0.500000  1
+  Fe  Fe6  1  0.993389  0.000000  0.000000  1
+  Te  Te7  1  0.336066  0.669485  0.500000  1
+  Te  Te8  1  0.666582  0.330515  0.500000  1

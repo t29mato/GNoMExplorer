@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_K5(GaAu)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   16.66030145
+_cell_length_b   16.66030040
+_cell_length_c   5.51616900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   165.95504147
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K5(GaAu)3
+_chemical_formula_sum   'K5 Ga3 Au3'
+_cell_volume   371.57196268
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.998984  0.001016  0.000000  1
+  K  K1  1  0.615252  0.384748  0.000000  1
+  K  K2  1  0.383713  0.616287  0.000000  1
+  K  K3  1  0.806028  0.193971  0.500000  1
+  K  K4  1  0.192128  0.807871  0.500000  1
+  Ga  Ga5  1  0.729949  0.270051  0.000000  1
+  Ga  Ga6  1  0.914661  0.085339  0.500000  1
+  Ga  Ga7  1  0.540715  0.459284  0.500000  1
+  Au  Au8  1  0.271929  0.728071  0.000000  1
+  Au  Au9  1  0.461910  0.538089  0.500000  1
+  Au  Au10  1  0.084730  0.915270  0.500000  1

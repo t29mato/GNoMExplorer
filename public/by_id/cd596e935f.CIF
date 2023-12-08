@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Tb4Sc2CoTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.92027100
+_cell_length_b   8.22330706
+_cell_length_c   8.22330633
+_cell_angle_alpha   121.25902206
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb4Sc2CoTe2
+_chemical_formula_sum   'Tb4 Sc2 Co1 Te2'
+_cell_volume   226.61513329
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.500000  0.766755  0.766755  1
+  Tb  Tb1  1  0.000000  0.383930  0.383930  1
+  Tb  Tb2  1  0.000000  0.001662  0.600687  1
+  Tb  Tb3  1  0.000000  0.600687  0.001662  1
+  Sc  Sc4  1  0.500000  0.993856  0.225143  1
+  Sc  Sc5  1  0.500000  0.225143  0.993856  1
+  Co  Co6  1  0.000000  0.034881  0.034881  1
+  Te  Te7  1  0.500000  0.665610  0.327477  1
+  Te  Te8  1  0.500000  0.327477  0.665610  1

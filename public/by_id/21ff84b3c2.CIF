@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_V2FeCoP2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.49746400
+_cell_length_b   5.88787500
+_cell_length_c   6.69987700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V2FeCoP2
+_chemical_formula_sum   'V4 Fe2 Co2 P4'
+_cell_volume   137.96809379
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.500000  0.526289  0.578552  1
+  V  V1  1  0.500000  0.026289  0.421448  1
+  V  V2  1  0.000000  0.471811  0.921649  1
+  V  V3  1  0.000000  0.971811  0.078351  1
+  Fe  Fe4  1  0.000000  0.359651  0.309731  1
+  Fe  Fe5  1  0.000000  0.859651  0.690269  1
+  Co  Co6  1  0.500000  0.643772  0.186812  1
+  Co  Co7  1  0.500000  0.143772  0.813188  1
+  P  P8  1  0.500000  0.266484  0.127281  1
+  P  P9  1  0.500000  0.766484  0.872719  1
+  P  P10  1  0.000000  0.731992  0.375925  1
+  P  P11  1  0.000000  0.231992  0.624075  1

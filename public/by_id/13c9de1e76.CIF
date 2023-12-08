@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZrSc3(Ga3Os)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.26428500
+_cell_length_b   5.26428428
+_cell_length_c   8.51443800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999824
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrSc3(Ga3Os)2
+_chemical_formula_sum   'Zr1 Sc3 Ga6 Os2'
+_cell_volume   204.34562967
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.666666  0.333333  0.048655  1
+  Sc  Sc1  1  0.666666  0.333333  0.442272  1
+  Sc  Sc2  1  0.333333  0.666666  0.552877  1
+  Sc  Sc3  1  0.333333  0.666666  0.947750  1
+  Ga  Ga4  1  0.167886  0.335772  0.250651  1
+  Ga  Ga5  1  0.167887  0.832114  0.250651  1
+  Ga  Ga6  1  0.664227  0.832114  0.250651  1
+  Ga  Ga7  1  0.336467  0.168232  0.751299  1
+  Ga  Ga8  1  0.831765  0.168232  0.751299  1
+  Ga  Ga9  1  0.831767  0.663534  0.751299  1
+  Os  Os10  1  0.000000  0.000000  0.000354  1
+  Os  Os11  1  0.000000  0.000000  0.502243  1

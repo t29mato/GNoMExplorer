@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_SmTh2(InRh)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.62726400
+_cell_length_b   7.76019439
+_cell_length_c   3.97362600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.43494255
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmTh2(InRh)3
+_chemical_formula_sum   'Sm1 Th2 In3 Rh3'
+_cell_volume   204.83481416
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.409171  0.000000  0.500000  1
+  Th  Th1  1  0.001488  0.412889  0.500000  1
+  Th  Th2  1  0.588599  0.587111  0.500000  1
+  In  In3  1  0.251062  0.238796  0.000000  1
+  In  In4  1  0.012266  0.761204  0.000000  1
+  In  In5  1  0.736372  0.000000  0.000000  1
+  Rh  Rh6  1  0.329860  0.642742  0.000000  1
+  Rh  Rh7  1  0.984065  0.000000  0.500000  1
+  Rh  Rh8  1  0.687119  0.357258  0.000000  1

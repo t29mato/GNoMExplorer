@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LiPu4Ir3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.16647022
+_cell_length_b   8.16647085
+_cell_length_c   8.16647004
+_cell_angle_alpha   96.49452221
+_cell_angle_beta   96.49451737
+_cell_angle_gamma   140.69488246
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiPu4Ir3
+_chemical_formula_sum   'Li2 Pu8 Ir6'
+_cell_volume   324.90083631
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.749999  0.249999  0.500000  1
+  Li  Li1  1  0.249999  0.749999  0.500000  1
+  Pu  Pu2  1  0.227136  0.082094  0.309229  1
+  Pu  Pu3  1  0.772865  0.917905  0.690771  1
+  Pu  Pu4  1  0.272865  0.582095  0.854959  1
+  Pu  Pu5  1  0.727136  0.417906  0.145042  1
+  Pu  Pu6  1  0.417905  0.272865  0.690771  1
+  Pu  Pu7  1  0.582094  0.727136  0.309229  1
+  Pu  Pu8  1  0.917905  0.227136  0.145040  1
+  Pu  Pu9  1  0.082094  0.772865  0.854959  1
+  Ir  Ir10  1  0.249999  0.249999  0.000000  1
+  Ir  Ir11  1  0.750000  0.750000  0.000000  1
+  Ir  Ir12  1  0.658764  0.158764  0.817529  1
+  Ir  Ir13  1  0.341236  0.841236  0.182471  1
+  Ir  Ir14  1  0.841236  0.658765  0.500000  1
+  Ir  Ir15  1  0.158764  0.341236  0.500000  1

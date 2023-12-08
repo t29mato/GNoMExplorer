@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Hf3Zr9(Si3Rh)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.94119200
+_cell_length_b   10.35487320
+_cell_length_c   11.79075600
+_cell_angle_alpha   90.06757722
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf3Zr9(Si3Rh)4
+_chemical_formula_sum   'Hf3 Zr9 Si12 Rh4'
+_cell_volume   481.18682507
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.250000  0.841332  0.300244  1
+  Hf  Hf1  1  0.750000  0.341096  0.199787  1
+  Hf  Hf2  1  0.750000  0.158408  0.699593  1
+  Zr  Zr3  1  0.250000  0.876544  0.022940  1
+  Zr  Zr4  1  0.250000  0.623562  0.522421  1
+  Zr  Zr5  1  0.750000  0.123143  0.977622  1
+  Zr  Zr6  1  0.750000  0.376730  0.477012  1
+  Zr  Zr7  1  0.250000  0.927517  0.594509  1
+  Zr  Zr8  1  0.250000  0.572221  0.096172  1
+  Zr  Zr9  1  0.750000  0.073148  0.404820  1
+  Zr  Zr10  1  0.750000  0.426378  0.905051  1
+  Zr  Zr11  1  0.250000  0.659080  0.800180  1
+  Si  Si12  1  0.250000  0.016375  0.824188  1
+  Si  Si13  1  0.250000  0.483226  0.324216  1
+  Si  Si14  1  0.750000  0.983306  0.176148  1
+  Si  Si15  1  0.750000  0.516211  0.675313  1
+  Si  Si16  1  0.250000  0.249250  0.843732  1
+  Si  Si17  1  0.250000  0.250582  0.343738  1
+  Si  Si18  1  0.750000  0.750743  0.156444  1
+  Si  Si19  1  0.750000  0.750278  0.655655  1
+  Si  Si20  1  0.250000  0.193500  0.543815  1
+  Si  Si21  1  0.250000  0.306361  0.043874  1
+  Si  Si22  1  0.750000  0.806785  0.455900  1
+  Si  Si23  1  0.750000  0.693455  0.957358  1
+  Rh  Rh24  1  0.250000  0.384043  0.681474  1
+  Rh  Rh25  1  0.250000  0.114784  0.182387  1
+  Rh  Rh26  1  0.750000  0.614835  0.317838  1
+  Rh  Rh27  1  0.750000  0.887108  0.817570  1

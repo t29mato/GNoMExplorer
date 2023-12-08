@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Hf6Al16NiIr5Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.67504029
+_cell_length_b   8.67503999
+_cell_length_c   8.74219400
+_cell_angle_alpha   59.74359570
+_cell_angle_beta   59.74359682
+_cell_angle_gamma   60.26679368
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf6Al16NiIr5Pd
+_chemical_formula_sum   'Hf6 Al16 Ni1 Ir5 Pd1'
+_cell_volume   464.31798887
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.688855  0.311145  0.309876  1
+  Hf  Hf1  1  0.311145  0.688855  0.690124  1
+  Hf  Hf2  1  0.311145  0.688855  0.309876  1
+  Hf  Hf3  1  0.688855  0.311145  0.690124  1
+  Hf  Hf4  1  0.326212  0.326212  0.673788  1
+  Hf  Hf5  1  0.673788  0.673788  0.326212  1
+  Al  Al6  1  0.337901  0.337901  0.337689  1
+  Al  Al7  1  0.662099  0.662099  0.662311  1
+  Al  Al8  1  0.337901  0.337901  0.986508  1
+  Al  Al9  1  0.330362  0.986280  0.341679  1
+  Al  Al10  1  0.662099  0.662099  0.013492  1
+  Al  Al11  1  0.669638  0.013720  0.658321  1
+  Al  Al12  1  0.986280  0.330362  0.341679  1
+  Al  Al13  1  0.013720  0.669638  0.658321  1
+  Al  Al14  1  0.120896  0.120896  0.120403  1
+  Al  Al15  1  0.879104  0.879104  0.879597  1
+  Al  Al16  1  0.120896  0.120896  0.637805  1
+  Al  Al17  1  0.120604  0.635095  0.122151  1
+  Al  Al18  1  0.879104  0.879104  0.362195  1
+  Al  Al19  1  0.879396  0.364905  0.877849  1
+  Al  Al20  1  0.635095  0.120604  0.122151  1
+  Al  Al21  1  0.364905  0.879396  0.877849  1
+  Ni  Ni22  1  0.000000  0.000000  0.500000  1
+  Ir  Ir23  1  0.500000  0.000000  0.000000  1
+  Ir  Ir24  1  0.000000  0.500000  0.500000  1
+  Ir  Ir25  1  0.000000  0.500000  0.000000  1
+  Ir  Ir26  1  0.500000  0.000000  0.500000  1
+  Ir  Ir27  1  0.500000  0.500000  0.000000  1
+  Pd  Pd28  1  0.000000  0.000000  0.000000  1

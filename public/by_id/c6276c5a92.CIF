@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ce2CdPtAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.00291700
+_cell_length_b   8.00688200
+_cell_length_c   3.80312700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2CdPtAu
+_chemical_formula_sum   'Ce4 Cd2 Pt2 Au2'
+_cell_volume   243.69833908
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.170672  0.317560  0.500000  1
+  Ce  Ce1  1  0.327729  0.841708  0.500000  1
+  Ce  Ce2  1  0.827729  0.658292  0.500000  1
+  Ce  Ce3  1  0.670672  0.182440  0.500000  1
+  Cd  Cd4  1  0.498797  0.498792  0.000000  1
+  Cd  Cd5  1  0.998797  0.001208  0.000000  1
+  Pt  Pt6  1  0.870625  0.369548  0.000000  1
+  Pt  Pt7  1  0.370625  0.130452  0.000000  1
+  Au  Au8  1  0.632177  0.871348  0.000000  1
+  Au  Au9  1  0.132177  0.628652  0.000000  1

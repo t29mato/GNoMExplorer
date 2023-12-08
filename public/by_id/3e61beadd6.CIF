@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Sr5CaAc2(Si3Pd)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.38529700
+_cell_length_b   8.41603156
+_cell_length_c   9.10152900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.87928102
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr5CaAc2(Si3Pd)4
+_chemical_formula_sum   'Sr5 Ca1 Ac2 Si12 Pd4'
+_cell_volume   556.92639951
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.499618  0.500296  0.750000  1
+  Sr  Sr1  1  0.500464  0.499578  0.250000  1
+  Sr  Sr2  1  0.000679  0.500296  0.750000  1
+  Sr  Sr3  1  0.999113  0.499578  0.250000  1
+  Sr  Sr4  1  0.499679  0.999356  0.750000  1
+  Ca  Ca5  1  0.500320  0.000639  0.250000  1
+  Ac  Ac6  1  0.000047  0.000094  0.750000  1
+  Ac  Ac7  1  0.999985  0.999970  0.250000  1
+  Si  Si8  1  0.833175  0.164026  0.003064  1
+  Si  Si9  1  0.166804  0.835951  0.003096  1
+  Si  Si10  1  0.330852  0.164026  0.003064  1
+  Si  Si11  1  0.166804  0.835951  0.496904  1
+  Si  Si12  1  0.669147  0.835951  0.003096  1
+  Si  Si13  1  0.833175  0.164026  0.496936  1
+  Si  Si14  1  0.834455  0.668911  0.000818  1
+  Si  Si15  1  0.669147  0.835951  0.496904  1
+  Si  Si16  1  0.165576  0.331153  0.001220  1
+  Si  Si17  1  0.330852  0.164026  0.496936  1
+  Si  Si18  1  0.165576  0.331153  0.498780  1
+  Si  Si19  1  0.834455  0.668911  0.499182  1
+  Pd  Pd20  1  0.665763  0.331523  0.002994  1
+  Pd  Pd21  1  0.334276  0.668553  0.005137  1
+  Pd  Pd22  1  0.334276  0.668553  0.494863  1
+  Pd  Pd23  1  0.665763  0.331523  0.497006  1

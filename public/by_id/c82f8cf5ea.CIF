@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_NaPr(GdB12)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.12696658
+_cell_length_b   7.12697753
+_cell_length_c   5.83985100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   109.24482929
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaPr(GdB12)2
+_chemical_formula_sum   'Na1 Pr1 Gd2 B24'
+_cell_volume   280.05189148
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.000000  0.000000  0.000000  1
+  Pr  Pr1  1  0.500000  0.500000  0.000000  1
+  Gd  Gd2  1  0.752728  0.247272  0.500000  1
+  Gd  Gd3  1  0.247272  0.752728  0.500000  1
+  B  B4  1  0.175180  0.324941  0.649988  1
+  B  B5  1  0.924458  0.575173  0.149083  1
+  B  B6  1  0.675059  0.824820  0.649988  1
+  B  B7  1  0.424828  0.075542  0.149083  1
+  B  B8  1  0.175180  0.324941  0.350012  1
+  B  B9  1  0.924458  0.575173  0.850917  1
+  B  B10  1  0.675059  0.824820  0.350012  1
+  B  B11  1  0.424828  0.075542  0.850917  1
+  B  B12  1  0.399974  0.399974  0.500000  1
+  B  B13  1  0.148558  0.651131  0.000000  1
+  B  B14  1  0.899770  0.899770  0.500000  1
+  B  B15  1  0.651130  0.148558  0.000000  1
+  B  B16  1  0.324941  0.175180  0.649988  1
+  B  B17  1  0.075542  0.424827  0.149083  1
+  B  B18  1  0.824820  0.675059  0.649988  1
+  B  B19  1  0.575172  0.924458  0.149083  1
+  B  B20  1  0.100230  0.100230  0.500000  1
+  B  B21  1  0.851442  0.348869  0.000000  1
+  B  B22  1  0.600026  0.600026  0.500000  1
+  B  B23  1  0.348870  0.851442  0.000000  1
+  B  B24  1  0.324941  0.175180  0.350012  1
+  B  B25  1  0.075542  0.424827  0.850917  1
+  B  B26  1  0.824820  0.675059  0.350012  1
+  B  B27  1  0.575172  0.924458  0.850917  1

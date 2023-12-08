@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_DyLu3(NiAs)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.01847600
+_cell_length_b   4.01847661
+_cell_length_c   15.26646400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999501
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyLu3(NiAs)4
+_chemical_formula_sum   'Dy1 Lu3 Ni4 As4'
+_cell_volume   213.49707761
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.000000  0.000000  0.500000  1
+  Lu  Lu1  1  0.000000  0.000000  0.249810  1
+  Lu  Lu2  1  0.000000  0.000000  0.750190  1
+  Lu  Lu3  1  0.000000  0.000000  0.000000  1
+  Ni  Ni4  1  0.333333  0.666667  0.134725  1
+  Ni  Ni5  1  0.666667  0.333333  0.865275  1
+  Ni  Ni6  1  0.666667  0.333333  0.637144  1
+  Ni  Ni7  1  0.333333  0.666667  0.362856  1
+  As  As8  1  0.333333  0.666667  0.621715  1
+  As  As9  1  0.666667  0.333333  0.378285  1
+  As  As10  1  0.666667  0.333333  0.119514  1
+  As  As11  1  0.333333  0.666667  0.880486  1

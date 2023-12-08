@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Sr3In2Hg6Pb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.46291900
+_cell_length_b   7.28137500
+_cell_length_c   16.80050800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.99768212
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3In2Hg6Pb
+_chemical_formula_sum   'Sr6 In4 Hg12 Pb2'
+_cell_volume   668.28324581
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.999980  0.500000  0.000080  1
+  Sr  Sr1  1  0.499939  0.000000  0.166849  1
+  Sr  Sr2  1  0.999838  0.500000  0.333924  1
+  Sr  Sr3  1  0.500030  0.000000  0.500651  1
+  Sr  Sr4  1  0.000014  0.500000  0.665729  1
+  Sr  Sr5  1  0.500141  0.000000  0.832750  1
+  In  In6  1  0.999919  0.000000  0.333072  1
+  In  In7  1  0.500065  0.500000  0.500659  1
+  In  In8  1  0.000222  0.000000  0.666051  1
+  In  In9  1  0.500029  0.500000  0.833610  1
+  Hg  Hg10  1  0.499947  0.253613  0.997530  1
+  Hg  Hg11  1  0.499947  0.746387  0.997530  1
+  Hg  Hg12  1  0.999958  0.246267  0.169116  1
+  Hg  Hg13  1  0.999958  0.753733  0.169116  1
+  Hg  Hg14  1  0.499777  0.249024  0.335963  1
+  Hg  Hg15  1  0.499777  0.750976  0.335963  1
+  Hg  Hg16  1  0.000025  0.247385  0.499903  1
+  Hg  Hg17  1  0.000025  0.752615  0.499903  1
+  Hg  Hg18  1  0.500007  0.252642  0.666769  1
+  Hg  Hg19  1  0.500007  0.747358  0.666769  1
+  Hg  Hg20  1  0.000049  0.251032  0.830694  1
+  Hg  Hg21  1  0.000049  0.748968  0.830694  1
+  Pb  Pb22  1  0.999790  0.000000  0.000052  1
+  Pb  Pb23  1  0.500307  0.500000  0.166622  1

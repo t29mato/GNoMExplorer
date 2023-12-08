@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_FeCo2SiW2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.65214158
+_cell_length_b   4.65214280
+_cell_length_c   7.74553000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   118.79754968
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeCo2SiW2
+_chemical_formula_sum   'Fe2 Co4 Si2 W4'
+_cell_volume   146.90055397
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.163213  0.347604  0.500000  1
+  Fe  Fe1  1  0.652396  0.836787  0.500000  1
+  Co  Co2  1  0.000990  0.999010  0.250000  1
+  Co  Co3  1  0.000990  0.999010  0.750000  1
+  Co  Co4  1  0.839202  0.652580  0.000000  1
+  Co  Co5  1  0.347420  0.160798  0.000000  1
+  Si  Si6  1  0.839197  0.160803  0.000000  1
+  Si  Si7  1  0.161464  0.838536  0.500000  1
+  W  W8  1  0.334067  0.665933  0.185181  1
+  W  W9  1  0.663438  0.336562  0.311519  1
+  W  W10  1  0.663438  0.336562  0.688481  1
+  W  W11  1  0.334067  0.665933  0.814819  1

@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Pr10Sn6As
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.89775900
+_cell_length_b   9.52232334
+_cell_length_c   9.52228400
+_cell_angle_alpha   120.00014336
+_cell_angle_beta   90.00019451
+_cell_angle_gamma   89.99960662
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr10Sn6As
+_chemical_formula_sum   'Pr10 Sn6 As1'
+_cell_volume   541.65415017
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.500001  0.333337  0.666679  1
+  Pr  Pr1  1  0.500001  0.666658  0.333321  1
+  Pr  Pr2  1  0.000000  0.666658  0.333323  1
+  Pr  Pr3  1  0.000000  0.333335  0.666677  1
+  Pr  Pr4  1  0.748083  0.251172  0.000000  1
+  Pr  Pr5  1  0.748081  0.748829  0.748825  1
+  Pr  Pr6  1  0.748081  0.000004  0.251175  1
+  Pr  Pr7  1  0.251914  0.748828  0.000000  1
+  Pr  Pr8  1  0.251921  0.251170  0.251173  1
+  Pr  Pr9  1  0.251921  0.999997  0.748827  1
+  Sn  Sn10  1  0.748184  0.608409  0.000000  1
+  Sn  Sn11  1  0.748171  0.391616  0.391618  1
+  Sn  Sn12  1  0.748171  0.999999  0.608382  1
+  Sn  Sn13  1  0.251820  0.391609  0.000000  1
+  Sn  Sn14  1  0.251827  0.608381  0.608382  1
+  Sn  Sn15  1  0.251827  0.000000  0.391618  1
+  As  As16  1  0.500000  0.999999  0.000000  1

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_HoEr(GePt2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.53288901
+_cell_length_b   5.53288730
+_cell_length_c   7.20011600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   138.62304945
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoEr(GePt2)2
+_chemical_formula_sum   'Ho1 Er1 Ge2 Pt4'
+_cell_volume   145.69724457
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.049813  0.950185  0.750000  1
+  Er  Er1  1  0.950267  0.049731  0.250000  1
+  Ge  Ge2  1  0.232857  0.767141  0.250000  1
+  Ge  Ge3  1  0.767160  0.232838  0.750000  1
+  Pt  Pt4  1  0.635107  0.364891  0.050940  1
+  Pt  Pt5  1  0.635107  0.364891  0.449060  1
+  Pt  Pt6  1  0.364841  0.635157  0.550541  1
+  Pt  Pt7  1  0.364841  0.635157  0.949458  1

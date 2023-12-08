@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_La10CuSnBi5Se
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.83874099
+_cell_length_b   9.83867138
+_cell_length_c   6.71450800
+_cell_angle_alpha   90.00024961
+_cell_angle_beta   89.99684783
+_cell_angle_gamma   119.82136416
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La10CuSnBi5Se
+_chemical_formula_sum   'La10 Cu1 Sn1 Bi5 Se1'
+_cell_volume   563.89695771
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.664809  0.333656  0.999036  1
+  La  La1  1  0.333660  0.664799  0.999060  1
+  La  La2  1  0.333127  0.665032  0.500818  1
+  La  La3  1  0.664969  0.333078  0.500810  1
+  La  La4  1  0.740596  0.740615  0.749192  1
+  La  La5  1  0.259562  0.003266  0.749591  1
+  La  La6  1  0.003252  0.259554  0.749643  1
+  La  La7  1  0.258616  0.258611  0.250334  1
+  La  La8  1  0.741773  0.999652  0.250514  1
+  La  La9  1  0.999645  0.741740  0.250535  1
+  Cu  Cu10  1  0.000241  0.000239  0.500340  1
+  Sn  Sn11  1  0.384412  0.384418  0.748755  1
+  Bi  Bi12  1  0.615968  0.000164  0.748556  1
+  Bi  Bi13  1  0.000165  0.615969  0.748556  1
+  Bi  Bi14  1  0.615402  0.615402  0.251536  1
+  Bi  Bi15  1  0.384415  0.999950  0.251264  1
+  Bi  Bi16  1  0.999950  0.384415  0.251267  1
+  Se  Se17  1  0.999438  0.999441  0.000194  1

@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Dy2Er2Th(FeB3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.42093683
+_cell_length_b   5.42093689
+_cell_length_c   8.11556432
+_cell_angle_alpha   70.48923749
+_cell_angle_beta   70.48923490
+_cell_angle_gamma   59.99998333
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy2Er2Th(FeB3)2
+_chemical_formula_sum   'Dy2 Er2 Th1 Fe2 B6'
+_cell_volume   190.56029151
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.414983  0.414983  0.755052  1
+  Dy  Dy1  1  0.585017  0.585017  0.244948  1
+  Er  Er2  1  0.250733  0.250733  0.247802  1
+  Er  Er3  1  0.749267  0.749267  0.752198  1
+  Th  Th4  1  0.000000  0.000000  0.000000  1
+  Fe  Fe5  1  0.112426  0.112426  0.662723  1
+  Fe  Fe6  1  0.887574  0.887574  0.337277  1
+  B  B7  1  0.167426  0.832574  0.500000  1
+  B  B8  1  0.832574  0.500000  0.500000  1
+  B  B9  1  0.500000  0.167426  0.500000  1
+  B  B10  1  0.167426  0.500000  0.500000  1
+  B  B11  1  0.500000  0.832574  0.500000  1
+  B  B12  1  0.832574  0.167426  0.500000  1

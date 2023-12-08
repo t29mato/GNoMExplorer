@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Al2(FeGe)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.79055660
+_cell_length_b   6.46014050
+_cell_length_c   7.70079012
+_cell_angle_alpha   102.11420926
+_cell_angle_beta   106.79794165
+_cell_angle_gamma   100.36942130
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al2(FeGe)3
+_chemical_formula_sum   'Al4 Fe6 Ge6'
+_cell_volume   215.57334374
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.409116  0.671238  0.051948  1
+  Al  Al1  1  0.948649  0.358105  0.731186  1
+  Al  Al2  1  0.051351  0.641895  0.268814  1
+  Al  Al3  1  0.590884  0.328762  0.948052  1
+  Fe  Fe4  1  0.643638  0.979352  0.771834  1
+  Fe  Fe5  1  0.356362  0.020648  0.228166  1
+  Fe  Fe6  1  0.864013  0.678930  0.947132  1
+  Fe  Fe7  1  0.135987  0.321070  0.052868  1
+  Fe  Fe8  1  0.962815  0.701977  0.581657  1
+  Fe  Fe9  1  0.037185  0.298023  0.418343  1
+  Ge  Ge10  1  0.546011  0.410819  0.341960  1
+  Ge  Ge11  1  0.281282  0.052591  0.537714  1
+  Ge  Ge12  1  0.453989  0.589181  0.658040  1
+  Ge  Ge13  1  0.819734  0.026214  0.117062  1
+  Ge  Ge14  1  0.180266  0.973786  0.882938  1
+  Ge  Ge15  1  0.718718  0.947409  0.462286  1

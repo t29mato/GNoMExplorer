@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LaCo2Si2Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.38549861
+_cell_length_b   6.54485594
+_cell_length_c   6.54485525
+_cell_angle_alpha   63.73050385
+_cell_angle_beta   65.70530681
+_cell_angle_gamma   65.70531260
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaCo2Si2Rh
+_chemical_formula_sum   'La2 Co4 Si4 Rh2'
+_cell_volume   180.96945149
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.537947  0.750000  0.750000  1
+  La  La1  1  0.462053  0.250000  0.250000  1
+  Co  Co2  1  0.500000  0.217461  0.782539  1
+  Co  Co3  1  0.000000  0.717461  0.282539  1
+  Co  Co4  1  0.500000  0.782539  0.217461  1
+  Co  Co5  1  0.000000  0.282539  0.717461  1
+  Si  Si6  1  0.232167  0.568430  0.568430  1
+  Si  Si7  1  0.767833  0.431570  0.431570  1
+  Si  Si8  1  0.130972  0.068430  0.068430  1
+  Si  Si9  1  0.869028  0.931570  0.931570  1
+  Rh  Rh10  1  0.000000  0.500000  0.000000  1
+  Rh  Rh11  1  0.000000  0.000000  0.500000  1

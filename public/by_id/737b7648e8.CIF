@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Lu8In3Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.21649700
+_cell_length_b   10.21649594
+_cell_length_c   6.80118700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000021
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu8In3Ni
+_chemical_formula_sum   'Lu16 In6 Ni2'
+_cell_volume   614.77942614
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.532094  0.064189  0.524681  1
+  Lu  Lu1  1  0.935811  0.467906  0.524681  1
+  Lu  Lu2  1  0.532094  0.467906  0.524681  1
+  Lu  Lu3  1  0.467906  0.935811  0.024681  1
+  Lu  Lu4  1  0.064189  0.532094  0.024681  1
+  Lu  Lu5  1  0.467906  0.532094  0.024681  1
+  Lu  Lu6  1  0.178058  0.356116  0.729805  1
+  Lu  Lu7  1  0.643884  0.821942  0.729805  1
+  Lu  Lu8  1  0.178058  0.821942  0.729805  1
+  Lu  Lu9  1  0.821942  0.643884  0.229805  1
+  Lu  Lu10  1  0.356116  0.178058  0.229805  1
+  Lu  Lu11  1  0.821942  0.178058  0.229805  1
+  Lu  Lu12  1  0.666667  0.333333  0.910019  1
+  Lu  Lu13  1  0.333333  0.666667  0.410019  1
+  Lu  Lu14  1  0.000000  0.000000  0.505111  1
+  Lu  Lu15  1  0.000000  0.000000  0.005111  1
+  In  In16  1  0.837299  0.674599  0.768067  1
+  In  In17  1  0.325401  0.162701  0.768067  1
+  In  In18  1  0.837299  0.162701  0.768067  1
+  In  In19  1  0.162701  0.325401  0.268067  1
+  In  In20  1  0.674599  0.837299  0.268067  1
+  In  In21  1  0.162701  0.837299  0.268067  1
+  Ni  Ni22  1  0.666667  0.333333  0.295052  1
+  Ni  Ni23  1  0.333333  0.666667  0.795052  1

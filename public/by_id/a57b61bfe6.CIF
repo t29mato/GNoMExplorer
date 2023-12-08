@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_B3(Rh2Au)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   14.15450106
+_cell_length_b   14.15450177
+_cell_length_c   2.78444200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   168.25215586
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   B3(Rh2Au)2
+_chemical_formula_sum   'B3 Rh4 Au2'
+_cell_volume   113.58358730
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  B  B0  1  0.394083  0.605917  0.500000  1
+  B  B1  1  0.602728  0.397272  0.000000  1
+  B  B2  1  0.990914  0.009086  0.500000  1
+  Rh  Rh3  1  0.133687  0.866313  0.500000  1
+  Rh  Rh4  1  0.864721  0.135279  0.000000  1
+  Rh  Rh5  1  0.544360  0.455640  0.500000  1
+  Rh  Rh6  1  0.455451  0.544549  0.000000  1
+  Au  Au7  1  0.287807  0.712193  0.500000  1
+  Au  Au8  1  0.710249  0.289751  0.000000  1

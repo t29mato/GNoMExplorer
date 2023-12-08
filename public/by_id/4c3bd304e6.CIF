@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_PuPa2O6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.53163325
+_cell_length_b   6.53163172
+_cell_length_c   6.53163300
+_cell_angle_alpha   145.70431485
+_cell_angle_beta   131.20241358
+_cell_angle_gamma   60.99657432
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PuPa2O6
+_chemical_formula_sum   'Pu1 Pa2 O6'
+_cell_volume   116.97064822
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pu  Pu0  1  0.000000  0.000000  0.000000  1
+  Pa  Pa1  1  0.665301  0.665301  0.000000  1
+  Pa  Pa2  1  0.334699  0.334699  0.000000  1
+  O  O3  1  0.571321  0.828707  0.742616  1
+  O  O4  1  0.260012  0.500000  0.760012  1
+  O  O5  1  0.913909  0.171293  0.742616  1
+  O  O6  1  0.086091  0.828707  0.257384  1
+  O  O7  1  0.739988  0.500000  0.239988  1
+  O  O8  1  0.428679  0.171293  0.257384  1

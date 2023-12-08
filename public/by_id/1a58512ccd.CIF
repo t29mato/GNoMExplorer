@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_LiLa2As4Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.00556555
+_cell_length_b   11.00378810
+_cell_length_c   4.10286661
+_cell_angle_alpha   79.39838836
+_cell_angle_beta   79.23199099
+_cell_angle_gamma   21.48724582
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiLa2As4Au
+_chemical_formula_sum   'Li1 La2 As4 Au1'
+_cell_volume   178.72463079
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.746993  0.753007  0.753007  1
+  La  La1  1  0.111509  0.123774  0.889601  1
+  La  La2  1  0.875116  0.889601  0.123774  1
+  As  As3  1  0.323964  0.339684  0.673925  1
+  As  As4  1  0.662427  0.673925  0.339684  1
+  As  As5  1  0.506912  0.492365  0.059725  1
+  As  As6  1  0.940998  0.059725  0.492365  1
+  Au  Au7  1  0.248781  0.251219  0.251219  1

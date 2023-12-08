@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ac(InAg)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.83765300
+_cell_length_b   7.64275300
+_cell_length_c   9.29742300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ac(InAg)3
+_chemical_formula_sum   'Ac2 In6 Ag6'
+_cell_volume   343.75349951
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  0.000000  0.500000  0.253453  1
+  Ac  Ac1  1  0.500000  0.000000  0.746547  1
+  In  In2  1  0.500000  0.500000  0.623902  1
+  In  In3  1  0.000000  0.299715  0.885643  1
+  In  In4  1  0.000000  0.700285  0.885643  1
+  In  In5  1  0.500000  0.799715  0.114357  1
+  In  In6  1  0.000000  0.000000  0.376098  1
+  In  In7  1  0.500000  0.200285  0.114357  1
+  Ag  Ag8  1  0.000000  0.715609  0.582954  1
+  Ag  Ag9  1  0.500000  0.500000  0.934906  1
+  Ag  Ag10  1  0.000000  0.284391  0.582954  1
+  Ag  Ag11  1  0.500000  0.784391  0.417046  1
+  Ag  Ag12  1  0.000000  0.000000  0.065094  1
+  Ag  Ag13  1  0.500000  0.215609  0.417046  1

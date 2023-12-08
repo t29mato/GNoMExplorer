@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Hf4Hg2CN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.30253700
+_cell_length_b   3.30253817
+_cell_length_c   14.59841400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999831
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf4Hg2CN
+_chemical_formula_sum   'Hf4 Hg2 C1 N1'
+_cell_volume   137.88970816
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.666666  0.333332  0.083945  1
+  Hf  Hf1  1  0.666666  0.333332  0.417880  1
+  Hf  Hf2  1  0.333334  0.666667  0.582121  1
+  Hf  Hf3  1  0.333334  0.666667  0.916055  1
+  Hg  Hg4  1  0.333334  0.666667  0.251787  1
+  Hg  Hg5  1  0.666666  0.333332  0.748213  1
+  C  C6  1  0.000000  0.000000  0.000000  1
+  N  N7  1  0.000000  0.000000  0.500000  1

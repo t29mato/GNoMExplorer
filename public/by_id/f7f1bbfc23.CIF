@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Li(Ac4Au3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.30984817
+_cell_length_b   8.30984913
+_cell_length_c   8.30984891
+_cell_angle_alpha   71.30213589
+_cell_angle_beta   71.30213769
+_cell_angle_gamma   71.30211984
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li(Ac4Au3)2
+_chemical_formula_sum   'Li1 Ac8 Au6'
+_cell_volume   499.45226121
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.000000  0.000000  0.000000  1
+  Ac  Ac1  1  0.190548  0.190548  0.190548  1
+  Ac  Ac2  1  0.809452  0.809452  0.809452  1
+  Ac  Ac3  1  0.380513  0.679030  0.155179  1
+  Ac  Ac4  1  0.679030  0.155179  0.380513  1
+  Ac  Ac5  1  0.155179  0.380513  0.679030  1
+  Ac  Ac6  1  0.619487  0.320970  0.844821  1
+  Ac  Ac7  1  0.320970  0.844821  0.619487  1
+  Ac  Ac8  1  0.844821  0.619487  0.320970  1
+  Au  Au9  1  0.040044  0.837036  0.414347  1
+  Au  Au10  1  0.837036  0.414347  0.040044  1
+  Au  Au11  1  0.414347  0.040044  0.837036  1
+  Au  Au12  1  0.959956  0.162964  0.585653  1
+  Au  Au13  1  0.162964  0.585653  0.959956  1
+  Au  Au14  1  0.585653  0.959956  0.162964  1

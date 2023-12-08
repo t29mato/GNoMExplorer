@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_K2Si(AgSe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   13.03451662
+_cell_length_b   11.46158416
+_cell_length_c   7.80335209
+_cell_angle_alpha   82.81862666
+_cell_angle_beta   60.74198576
+_cell_angle_gamma   36.43938693
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Si(AgSe2)2
+_chemical_formula_sum   'K4 Si2 Ag4 Se8'
+_cell_volume   516.92067360
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.313223  0.313223  0.686777  1
+  K  K1  1  0.686777  0.686777  0.313223  1
+  K  K2  1  0.563223  0.563223  0.936777  1
+  K  K3  1  0.936777  0.936777  0.563223  1
+  Si  Si4  1  0.500000  0.500000  0.500000  1
+  Si  Si5  1  0.750000  0.750000  0.750000  1
+  Ag  Ag6  1  0.176051  0.176051  0.323949  1
+  Ag  Ag7  1  0.926051  0.926051  0.073949  1
+  Ag  Ag8  1  0.073949  0.073949  0.926051  1
+  Ag  Ag9  1  0.323949  0.323949  0.176051  1
+  Se  Se10  1  0.897910  0.721734  0.399107  1
+  Se  Se11  1  0.981250  0.399107  0.721734  1
+  Se  Se12  1  0.528266  0.352090  0.268750  1
+  Se  Se13  1  0.399107  0.981250  0.897910  1
+  Se  Se14  1  0.268750  0.850893  0.528266  1
+  Se  Se15  1  0.721734  0.897910  0.981250  1
+  Se  Se16  1  0.850893  0.268750  0.352090  1
+  Se  Se17  1  0.352090  0.528266  0.850893  1

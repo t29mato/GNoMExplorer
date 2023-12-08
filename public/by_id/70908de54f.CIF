@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Tb3Y7(ZnB4)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.21683162
+_cell_length_b   7.21683162
+_cell_length_c   8.42689001
+_cell_angle_alpha   89.99606744
+_cell_angle_beta   89.99606744
+_cell_angle_gamma   90.07678776
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb3Y7(ZnB4)4
+_chemical_formula_sum   'Tb3 Y7 Zn4 B16'
+_cell_volume   438.89444004
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.682041  0.182041  0.213087  1
+  Tb  Tb1  1  0.318004  0.818004  0.786739  1
+  Tb  Tb2  1  0.318014  0.818014  0.213205  1
+  Y  Y3  1  0.818072  0.681910  0.212434  1
+  Y  Y4  1  0.818045  0.681945  0.787551  1
+  Y  Y5  1  0.682047  0.182047  0.787419  1
+  Y  Y6  1  0.181945  0.318045  0.787551  1
+  Y  Y7  1  0.181910  0.318072  0.212434  1
+  Y  Y8  1  0.999925  0.000033  0.500030  1
+  Y  Y9  1  0.500033  0.499925  0.500030  1
+  Zn  Zn10  1  0.117329  0.617329  0.500002  1
+  Zn  Zn11  1  0.882607  0.382607  0.500055  1
+  Zn  Zn12  1  0.382482  0.117571  0.500036  1
+  Zn  Zn13  1  0.617571  0.882482  0.500036  1
+  B  B14  1  0.171690  0.040334  0.999957  1
+  B  B15  1  0.828260  0.959698  0.999940  1
+  B  B16  1  0.959588  0.171774  0.999952  1
+  B  B17  1  0.328295  0.540324  0.999938  1
+  B  B18  1  0.040324  0.828295  0.999938  1
+  B  B19  1  0.671774  0.459588  0.999952  1
+  B  B20  1  0.540334  0.671690  0.999957  1
+  B  B21  1  0.459698  0.328260  0.999940  1
+  B  B22  1  0.090817  0.590817  0.999992  1
+  B  B23  1  0.909228  0.409228  0.000084  1
+  B  B24  1  0.409316  0.090718  0.999988  1
+  B  B25  1  0.590718  0.909316  0.999988  1
+  B  B26  1  0.999964  0.000021  0.157062  1
+  B  B27  1  0.999895  0.000052  0.842820  1
+  B  B28  1  0.500052  0.499895  0.842820  1
+  B  B29  1  0.500021  0.499964  0.157062  1

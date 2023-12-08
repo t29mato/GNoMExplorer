@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Lu4Fe3Os5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.18631138
+_cell_length_b   5.17975749
+_cell_length_c   8.68102100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.95818675
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu4Fe3Os5
+_chemical_formula_sum   'Lu4 Fe3 Os5'
+_cell_volume   202.04694299
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.331614  0.665808  0.436616  1
+  Lu  Lu1  1  0.663068  0.331533  0.564847  1
+  Lu  Lu2  1  0.663068  0.331533  0.935153  1
+  Lu  Lu3  1  0.331614  0.665808  0.063384  1
+  Fe  Fe4  1  0.174935  0.343507  0.750000  1
+  Fe  Fe5  1  0.174935  0.831429  0.750000  1
+  Fe  Fe6  1  0.339423  0.169711  0.250000  1
+  Os  Os7  1  0.833067  0.659456  0.250000  1
+  Os  Os8  1  0.658283  0.829142  0.750000  1
+  Os  Os9  1  0.998463  0.999231  0.994731  1
+  Os  Os10  1  0.833067  0.173610  0.250000  1
+  Os  Os11  1  0.998463  0.999231  0.505269  1

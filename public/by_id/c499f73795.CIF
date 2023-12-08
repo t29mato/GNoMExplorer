@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ce2CoHgAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.79718700
+_cell_length_b   7.79718786
+_cell_length_c   3.66894800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   91.70272536
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2CoHgAu
+_chemical_formula_sum   'Ce4 Co2 Hg2 Au2'
+_cell_volume   222.95935472
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.696567  0.196567  0.500000  1
+  Ce  Ce1  1  0.303433  0.803433  0.500000  1
+  Ce  Ce2  1  0.155182  0.344818  0.500000  1
+  Ce  Ce3  1  0.844818  0.655182  0.500000  1
+  Co  Co4  1  0.128222  0.628222  0.000000  1
+  Co  Co5  1  0.871778  0.371778  0.000000  1
+  Hg  Hg6  1  0.000000  0.000000  0.000000  1
+  Hg  Hg7  1  0.500000  0.500000  0.000000  1
+  Au  Au8  1  0.627531  0.872469  0.000000  1
+  Au  Au9  1  0.372469  0.127531  0.000000  1

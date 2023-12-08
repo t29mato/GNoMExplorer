@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LiTm2ZnPt2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.00868100
+_cell_length_b   6.92473000
+_cell_length_c   8.27285600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTm2ZnPt2
+_chemical_formula_sum   'Li2 Tm4 Zn2 Pt4'
+_cell_volume   229.64648752
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.250000  0.629787  0.559548  1
+  Li  Li1  1  0.250000  0.129787  0.940452  1
+  Tm  Tm2  1  0.250000  0.045404  0.318931  1
+  Tm  Tm3  1  0.250000  0.545404  0.181069  1
+  Tm  Tm4  1  0.750000  0.955302  0.684815  1
+  Tm  Tm5  1  0.750000  0.455302  0.815185  1
+  Zn  Zn6  1  0.750000  0.370481  0.437379  1
+  Zn  Zn7  1  0.750000  0.870481  0.062621  1
+  Pt  Pt8  1  0.250000  0.246690  0.621854  1
+  Pt  Pt9  1  0.250000  0.746690  0.878146  1
+  Pt  Pt10  1  0.750000  0.752336  0.377682  1
+  Pt  Pt11  1  0.750000  0.252336  0.122318  1

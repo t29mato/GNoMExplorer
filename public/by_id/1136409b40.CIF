@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Tb3YIn(FeB3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.37170096
+_cell_length_b   5.37170071
+_cell_length_c   8.23322219
+_cell_angle_alpha   70.96042752
+_cell_angle_beta   70.96042969
+_cell_angle_gamma   59.99999143
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb3YIn(FeB3)2
+_chemical_formula_sum   'Tb3 Y1 In1 Fe2 B6'
+_cell_volume   190.58759801
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.748433  0.748433  0.754702  1
+  Tb  Tb1  1  0.251539  0.251539  0.245383  1
+  Tb  Tb2  1  0.584029  0.584029  0.247915  1
+  Y  Y3  1  0.416277  0.416277  0.751168  1
+  In  In4  1  0.000038  0.000038  0.999885  1
+  Fe  Fe5  1  0.882610  0.882610  0.352171  1
+  Fe  Fe6  1  0.117326  0.117326  0.648023  1
+  B  B7  1  0.500092  0.167627  0.500125  1
+  B  B8  1  0.832155  0.500092  0.500125  1
+  B  B9  1  0.167627  0.832155  0.500125  1
+  B  B10  1  0.167627  0.500092  0.500125  1
+  B  B11  1  0.832155  0.167627  0.500125  1
+  B  B12  1  0.500092  0.832155  0.500125  1

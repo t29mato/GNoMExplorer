@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ba2PaNiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.97383421
+_cell_length_b   5.97383483
+_cell_length_c   10.33355854
+_cell_angle_alpha   106.78985575
+_cell_angle_beta   73.21014236
+_cell_angle_gamma   120.01887266
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2PaNiO6
+_chemical_formula_sum   'Ba4 Pa2 Ni2 O12'
+_cell_volume   301.02182329
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.625020  0.374980  0.124932  1
+  Ba  Ba1  1  0.125020  0.874980  0.624932  1
+  Ba  Ba2  1  0.874980  0.125020  0.375068  1
+  Ba  Ba3  1  0.374980  0.625020  0.875068  1
+  Pa  Pa4  1  0.500000  0.500000  0.500000  1
+  Pa  Pa5  1  0.000000  0.000000  0.999999  1
+  Ni  Ni6  1  0.750000  0.250000  0.749999  1
+  Ni  Ni7  1  0.250000  0.750000  0.250001  1
+  O  O8  1  0.372570  0.118047  0.372767  1
+  O  O9  1  0.872571  0.618051  0.872769  1
+  O  O10  1  0.127388  0.872612  0.127306  1
+  O  O11  1  0.627388  0.372612  0.627307  1
+  O  O12  1  0.372611  0.627388  0.372693  1
+  O  O13  1  0.872613  0.127387  0.872694  1
+  O  O14  1  0.881953  0.627431  0.372767  1
+  O  O15  1  0.381949  0.127430  0.872769  1
+  O  O16  1  0.127430  0.381950  0.127231  1
+  O  O17  1  0.627430  0.881952  0.627232  1
+  O  O18  1  0.618050  0.872570  0.127232  1
+  O  O19  1  0.118048  0.372570  0.627232  1

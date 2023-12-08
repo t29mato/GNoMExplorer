@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_FeNi3(AuO2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.27058921
+_cell_length_b   6.09470407
+_cell_length_c   7.06314564
+_cell_angle_alpha   64.39899049
+_cell_angle_beta   75.61031566
+_cell_angle_gamma   90.00218767
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeNi3(AuO2)4
+_chemical_formula_sum   'Fe1 Ni3 Au4 O8'
+_cell_volume   196.68907143
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.999999  0.000116  0.000000  1
+  Ni  Ni1  1  0.500032  0.748644  0.999946  1
+  Ni  Ni2  1  0.000004  0.500094  0.000004  1
+  Ni  Ni3  1  0.499976  0.251164  0.000049  1
+  Au  Au4  1  0.000001  0.000093  0.500007  1
+  Au  Au5  1  0.999988  0.500099  0.499993  1
+  Au  Au6  1  0.500017  0.748971  0.501882  1
+  Au  Au7  1  0.499987  0.250823  0.498115  1
+  O  O8  1  0.891968  0.838357  0.830439  1
+  O  O9  1  0.891962  0.331429  0.830466  1
+  O  O10  1  0.388382  0.583926  0.831298  1
+  O  O11  1  0.387424  0.084560  0.830111  1
+  O  O12  1  0.108037  0.161854  0.169556  1
+  O  O13  1  0.108032  0.668776  0.169540  1
+  O  O14  1  0.612574  0.915227  0.169892  1
+  O  O15  1  0.611620  0.415865  0.168703  1

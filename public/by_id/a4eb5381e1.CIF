@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Gd(Si2Ir3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.04077500
+_cell_length_b   7.04077524
+_cell_length_c   3.85310400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000357
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd(Si2Ir3)2
+_chemical_formula_sum   'Gd1 Si4 Ir6'
+_cell_volume   165.41782034
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.000000  0.000000  0.000000  1
+  Si  Si1  1  0.333333  0.666667  0.000000  1
+  Si  Si2  1  0.395102  0.197550  0.500000  1
+  Si  Si3  1  0.802450  0.197550  0.500000  1
+  Si  Si4  1  0.802449  0.604897  0.500000  1
+  Ir  Ir5  1  0.532907  0.065814  0.000000  1
+  Ir  Ir6  1  0.532908  0.467093  0.000000  1
+  Ir  Ir7  1  0.934186  0.467093  0.000000  1
+  Ir  Ir8  1  0.197805  0.395608  0.500000  1
+  Ir  Ir9  1  0.197804  0.802194  0.500000  1
+  Ir  Ir10  1  0.604391  0.802194  0.500000  1

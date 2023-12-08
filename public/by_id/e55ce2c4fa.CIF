@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_PuPa2F12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.45667511
+_cell_length_b   8.45667484
+_cell_length_c   8.49576783
+_cell_angle_alpha   63.24609259
+_cell_angle_beta   63.24609600
+_cell_angle_gamma   80.57941079
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PuPa2F12
+_chemical_formula_sum   'Pu2 Pa4 F24'
+_cell_volume   483.87744599
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pu  Pu0  1  0.788420  0.211580  0.250000  1
+  Pu  Pu1  1  0.211580  0.788420  0.750000  1
+  Pa  Pa2  1  0.634228  0.776496  0.169628  1
+  Pa  Pa3  1  0.776496  0.634228  0.669628  1
+  Pa  Pa4  1  0.365772  0.223504  0.830372  1
+  Pa  Pa5  1  0.223504  0.365772  0.330372  1
+  F  F6  1  0.744520  0.682915  0.395008  1
+  F  F7  1  0.587915  0.192983  0.578329  1
+  F  F8  1  0.727610  0.506198  0.221702  1
+  F  F9  1  0.317085  0.255480  0.104992  1
+  F  F10  1  0.075822  0.174464  0.033854  1
+  F  F11  1  0.192983  0.587915  0.078329  1
+  F  F12  1  0.412085  0.807017  0.421671  1
+  F  F13  1  0.393598  0.606402  0.250000  1
+  F  F14  1  0.606402  0.393598  0.750000  1
+  F  F15  1  0.506198  0.727610  0.721702  1
+  F  F16  1  0.825536  0.924178  0.466146  1
+  F  F17  1  0.174464  0.075822  0.533854  1
+  F  F18  1  0.272390  0.493802  0.778298  1
+  F  F19  1  0.255480  0.317085  0.604992  1
+  F  F20  1  0.716178  0.025699  0.149182  1
+  F  F21  1  0.000000  0.500000  0.500000  1
+  F  F22  1  0.974301  0.283822  0.350818  1
+  F  F23  1  0.807017  0.412085  0.921671  1
+  F  F24  1  0.493802  0.272390  0.278298  1
+  F  F25  1  0.924178  0.825536  0.966146  1
+  F  F26  1  0.283822  0.974301  0.850818  1
+  F  F27  1  0.682915  0.744520  0.895008  1
+  F  F28  1  0.025699  0.716178  0.649182  1
+  F  F29  1  0.500000  0.000000  0.000000  1

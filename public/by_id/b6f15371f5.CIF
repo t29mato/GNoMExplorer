@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ErPa3(GaOs)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.22169000
+_cell_length_b   6.76847593
+_cell_length_c   8.01323549
+_cell_angle_alpha   89.84785085
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErPa3(GaOs)4
+_chemical_formula_sum   'Er1 Pa3 Ga4 Os4'
+_cell_volume   228.97264615
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.750000  0.468302  0.310888  1
+  Pa  Pa1  1  0.250000  0.532485  0.683231  1
+  Pa  Pa2  1  0.250000  0.029977  0.809564  1
+  Pa  Pa3  1  0.750000  0.963830  0.189248  1
+  Ga  Ga4  1  0.750000  0.355287  0.944084  1
+  Ga  Ga5  1  0.250000  0.157702  0.434760  1
+  Ga  Ga6  1  0.250000  0.636341  0.067464  1
+  Ga  Ga7  1  0.750000  0.854761  0.559495  1
+  Os  Os8  1  0.750000  0.250492  0.631334  1
+  Os  Os9  1  0.250000  0.765750  0.380545  1
+  Os  Os10  1  0.750000  0.748765  0.877276  1
+  Os  Os11  1  0.250000  0.236310  0.112113  1

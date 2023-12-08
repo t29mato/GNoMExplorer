@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_K2Mo(AsO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.22236700
+_cell_length_b   5.22236357
+_cell_length_c   9.46759600
+_cell_angle_alpha   89.99991883
+_cell_angle_beta   89.99993683
+_cell_angle_gamma   120.00059282
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Mo(AsO4)2
+_chemical_formula_sum   'K2 Mo1 As2 O8'
+_cell_volume   223.61567647
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.666667  0.333334  0.356302  1
+  K  K1  1  0.333334  0.666667  0.643698  1
+  Mo  Mo2  1  0.000000  0.000000  0.000000  1
+  As  As3  1  0.333337  0.666669  0.186188  1
+  As  As4  1  0.666664  0.333332  0.813812  1
+  O  O5  1  0.299111  0.334196  0.130126  1
+  O  O6  1  0.035085  0.700891  0.130127  1
+  O  O7  1  0.665804  0.964912  0.130127  1
+  O  O8  1  0.333334  0.666666  0.365179  1
+  O  O9  1  0.666667  0.333335  0.634822  1
+  O  O10  1  0.334195  0.035086  0.869873  1
+  O  O11  1  0.964916  0.299109  0.869873  1
+  O  O12  1  0.700890  0.665805  0.869874  1

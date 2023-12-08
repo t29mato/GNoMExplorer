@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_NaLi7(PPd3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.21723187
+_cell_length_b   7.21723565
+_cell_length_c   7.21723200
+_cell_angle_alpha   89.86556520
+_cell_angle_beta   89.86555719
+_cell_angle_gamma   89.86552798
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLi7(PPd3)4
+_chemical_formula_sum   'Na1 Li7 P4 Pd12'
+_cell_volume   375.93142275
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.292805  0.292804  0.292804  1
+  Li  Li1  1  0.038072  0.462755  0.550695  1
+  Li  Li2  1  0.550695  0.038072  0.462755  1
+  Li  Li3  1  0.462755  0.550695  0.038072  1
+  Li  Li4  1  0.206516  0.707403  0.795042  1
+  Li  Li5  1  0.956688  0.956687  0.956688  1
+  Li  Li6  1  0.795045  0.206516  0.707403  1
+  Li  Li7  1  0.707402  0.795045  0.206515  1
+  P  P8  1  0.874727  0.372309  0.121955  1
+  P  P9  1  0.372310  0.121956  0.874727  1
+  P  P10  1  0.625623  0.625624  0.625624  1
+  P  P11  1  0.121955  0.874727  0.372310  1
+  Pd  Pd12  1  0.174625  0.069102  0.626486  1
+  Pd  Pd13  1  0.431487  0.375304  0.682610  1
+  Pd  Pd14  1  0.069102  0.626486  0.174625  1
+  Pd  Pd15  1  0.917713  0.121252  0.324408  1
+  Pd  Pd16  1  0.324408  0.917713  0.121252  1
+  Pd  Pd17  1  0.682610  0.431488  0.375304  1
+  Pd  Pd18  1  0.574308  0.874474  0.823639  1
+  Pd  Pd19  1  0.626487  0.174624  0.069103  1
+  Pd  Pd20  1  0.375304  0.682610  0.431487  1
+  Pd  Pd21  1  0.874473  0.823638  0.574308  1
+  Pd  Pd22  1  0.121252  0.324408  0.917712  1
+  Pd  Pd23  1  0.823638  0.574308  0.874474  1

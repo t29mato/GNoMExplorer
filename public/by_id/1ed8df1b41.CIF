@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LaCeSi3Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.29146113
+_cell_length_b   8.28394714
+_cell_length_c   4.27237800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.97002583
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaCeSi3Pd
+_chemical_formula_sum   'La2 Ce2 Si6 Pd2'
+_cell_volume   254.21418789
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.500000  0.500000  0.000000  1
+  La  La1  1  0.500000  0.000000  0.000000  1
+  Ce  Ce2  1  0.000000  0.500000  0.000000  1
+  Ce  Ce3  1  0.000000  0.000000  0.000000  1
+  Si  Si4  1  0.837448  0.671811  0.500000  1
+  Si  Si5  1  0.162552  0.834361  0.500000  1
+  Si  Si6  1  0.673112  0.836555  0.500000  1
+  Si  Si7  1  0.162552  0.328189  0.500000  1
+  Si  Si8  1  0.837448  0.165639  0.500000  1
+  Si  Si9  1  0.326888  0.163445  0.500000  1
+  Pd  Pd10  1  0.331720  0.665860  0.500000  1
+  Pd  Pd11  1  0.668280  0.334140  0.500000  1

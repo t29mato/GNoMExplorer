@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_La4ErGa2Pb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.41485013
+_cell_length_b   9.41484969
+_cell_length_c   9.41485200
+_cell_angle_alpha   128.36610439
+_cell_angle_beta   128.36610226
+_cell_angle_gamma   76.03269985
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La4ErGa2Pb
+_chemical_formula_sum   'La8 Er2 Ga4 Pb2'
+_cell_volume   498.77733593
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.525272  0.025272  0.834684  1
+  La  La1  1  0.190696  0.690696  0.165406  1
+  La  La2  1  0.025216  0.190625  0.500065  1
+  La  La3  1  0.690625  0.525216  0.500065  1
+  La  La4  1  0.474728  0.974728  0.165316  1
+  La  La5  1  0.809304  0.309304  0.834594  1
+  La  La6  1  0.974784  0.809375  0.499935  1
+  La  La7  1  0.309375  0.474784  0.499935  1
+  Er  Er8  1  0.500000  0.500000  0.000000  1
+  Er  Er9  1  0.000000  0.000000  0.000000  1
+  Ga  Ga10  1  0.870263  0.370263  0.240541  1
+  Ga  Ga11  1  0.129737  0.629737  0.759459  1
+  Ga  Ga12  1  0.370265  0.129735  0.500000  1
+  Ga  Ga13  1  0.629735  0.870265  0.500000  1
+  Pb  Pb14  1  0.250088  0.249912  0.000000  1
+  Pb  Pb15  1  0.749912  0.750088  0.000000  1

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_PmGa2Pt3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.60504600
+_cell_length_b   5.60507121
+_cell_length_c   4.04192800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   60.00064275
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PmGa2Pt3
+_chemical_formula_sum   'Pm1 Ga2 Pt3'
+_cell_volume   109.97205319
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pm  Pm0  1  0.999998  0.000001  0.000000  1
+  Ga  Ga1  1  0.333331  0.333334  0.000000  1
+  Ga  Ga2  1  0.666666  0.666669  0.000000  1
+  Pt  Pt3  1  0.500313  0.999993  0.499999  1
+  Pt  Pt4  1  0.999992  0.499695  0.499999  1
+  Pt  Pt5  1  0.499695  0.500312  0.499999  1

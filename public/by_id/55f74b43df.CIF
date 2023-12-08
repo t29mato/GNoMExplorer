@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_TbCr4(AuO4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.60068876
+_cell_length_b   6.60068186
+_cell_length_c   6.60066900
+_cell_angle_alpha   70.52404397
+_cell_angle_beta   70.53324921
+_cell_angle_gamma   109.47075981
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbCr4(AuO4)3
+_chemical_formula_sum   'Tb1 Cr4 Au3 O12'
+_cell_volume   221.38345693
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.999984  0.999885  0.000066  1
+  Cr  Cr1  1  0.999811  0.499790  0.000119  1
+  Cr  Cr2  1  0.499750  0.499888  0.500207  1
+  Cr  Cr3  1  0.500183  0.000096  0.999819  1
+  Cr  Cr4  1  0.000170  0.000252  0.499828  1
+  Au  Au5  1  0.499998  0.999984  0.500013  1
+  Au  Au6  1  0.500036  0.500037  0.999978  1
+  Au  Au7  1  0.000013  0.500042  0.499979  1
+  O  O8  1  0.878013  0.706961  0.828912  1
+  O  O9  1  0.464130  0.293074  0.828944  1
+  O  O10  1  0.535883  0.706937  0.171061  1
+  O  O11  1  0.122031  0.293087  0.171022  1
+  O  O12  1  0.829183  0.122043  0.707046  1
+  O  O13  1  0.829020  0.536174  0.292956  1
+  O  O14  1  0.170826  0.463761  0.707175  1
+  O  O15  1  0.170982  0.878058  0.292832  1
+  O  O16  1  0.293182  0.171093  0.535757  1
+  O  O17  1  0.706812  0.171042  0.122098  1
+  O  O18  1  0.293172  0.828870  0.877909  1
+  O  O19  1  0.706823  0.828926  0.464278  1

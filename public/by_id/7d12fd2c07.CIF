@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Fe2SbIrO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.66156831
+_cell_length_b   5.61106764
+_cell_length_c   5.61106725
+_cell_angle_alpha   67.45268972
+_cell_angle_beta   91.47464058
+_cell_angle_gamma   91.47464447
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe2SbIrO8
+_chemical_formula_sum   'Fe2 Sb1 Ir1 O8'
+_cell_volume   135.48202016
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.500000  0.499998  0.000000  1
+  Fe  Fe1  1  0.500000  0.999998  0.500002  1
+  Sb  Sb2  1  0.000000  0.500001  0.500000  1
+  Ir  Ir3  1  0.000000  0.000001  0.000000  1
+  O  O4  1  0.294999  0.148440  0.148443  1
+  O  O5  1  0.309172  0.653357  0.653353  1
+  O  O6  1  0.690827  0.346644  0.346646  1
+  O  O7  1  0.705001  0.851561  0.851558  1
+  O  O8  1  0.808612  0.848149  0.343305  1
+  O  O9  1  0.808611  0.343306  0.848148  1
+  O  O10  1  0.191388  0.151852  0.656694  1
+  O  O11  1  0.191389  0.656695  0.151851  1

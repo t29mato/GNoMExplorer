@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Li2Ca4Zn2Si5Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.47961187
+_cell_length_b   9.47961176
+_cell_length_c   6.86536482
+_cell_angle_alpha   89.78399282
+_cell_angle_beta   90.21600687
+_cell_angle_gamma   153.41547853
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Ca4Zn2Si5Ge
+_chemical_formula_sum   'Li2 Ca4 Zn2 Si5 Ge1'
+_cell_volume   276.09052741
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.812931  0.187069  0.940852  1
+  Li  Li1  1  0.187022  0.812978  0.439579  1
+  Ca  Ca2  1  0.446174  0.553826  0.755500  1
+  Ca  Ca3  1  0.554211  0.445789  0.255456  1
+  Ca  Ca4  1  0.655639  0.344361  0.742450  1
+  Ca  Ca5  1  0.344154  0.655846  0.241940  1
+  Zn  Zn6  1  0.191089  0.808911  0.055687  1
+  Zn  Zn7  1  0.808084  0.191916  0.546114  1
+  Si  Si8  1  0.722554  0.277446  0.248383  1
+  Si  Si9  1  0.940810  0.059190  0.428319  1
+  Si  Si10  1  0.054994  0.945006  0.583468  1
+  Si  Si11  1  0.945138  0.054862  0.083165  1
+  Si  Si12  1  0.059207  0.940793  0.929065  1
+  Ge  Ge13  1  0.277991  0.722009  0.750026  1

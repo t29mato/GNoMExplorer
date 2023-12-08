@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_TbTm3(Al3Rh)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.54242586
+_cell_length_b   7.54609456
+_cell_length_c   9.44708500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.31639601
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbTm3(Al3Rh)6
+_chemical_formula_sum   'Tb1 Tm3 Al18 Rh6'
+_cell_volume   468.82669689
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.994331  0.671496  0.250000  1
+  Tm  Tm1  1  0.005474  0.328129  0.750000  1
+  Tm  Tm2  1  0.671703  0.994549  0.250000  1
+  Tm  Tm3  1  0.328352  0.005616  0.750000  1
+  Al  Al4  1  0.127613  0.128468  0.250000  1
+  Al  Al5  1  0.872317  0.872805  0.750000  1
+  Al  Al6  1  0.000548  0.334653  0.074074  1
+  Al  Al7  1  0.999431  0.664237  0.923352  1
+  Al  Al8  1  0.999431  0.664237  0.576648  1
+  Al  Al9  1  0.336381  0.001342  0.425699  1
+  Al  Al10  1  0.000548  0.334653  0.425926  1
+  Al  Al11  1  0.664391  0.999656  0.575248  1
+  Al  Al12  1  0.664391  0.999656  0.924752  1
+  Al  Al13  1  0.336381  0.001342  0.074301  1
+  Al  Al14  1  0.332618  0.332615  0.551833  1
+  Al  Al15  1  0.666543  0.667348  0.450603  1
+  Al  Al16  1  0.666543  0.667348  0.049397  1
+  Al  Al17  1  0.332618  0.332615  0.948167  1
+  Al  Al18  1  0.340432  0.550480  0.250000  1
+  Al  Al19  1  0.660317  0.449569  0.750000  1
+  Al  Al20  1  0.549416  0.338111  0.250000  1
+  Al  Al21  1  0.450018  0.660806  0.750000  1
+  Rh  Rh22  1  0.671962  0.327489  0.999479  1
+  Rh  Rh23  1  0.327618  0.672070  0.999551  1
+  Rh  Rh24  1  0.327618  0.672070  0.500449  1
+  Rh  Rh25  1  0.671962  0.327489  0.500521  1
+  Rh  Rh26  1  0.000521  0.000576  0.999206  1
+  Rh  Rh27  1  0.000521  0.000576  0.500794  1

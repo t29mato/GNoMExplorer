@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_YbCd2(H6Ir)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.77931400
+_cell_length_b   4.77931457
+_cell_length_c   7.85836900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999602
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbCd2(H6Ir)2
+_chemical_formula_sum   'Yb1 Cd2 H12 Ir2'
+_cell_volume   155.45126058
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.000000  0.000000  0.000000  1
+  Cd  Cd1  1  0.666667  0.333333  0.364105  1
+  Cd  Cd2  1  0.333333  0.666667  0.635895  1
+  H  H3  1  0.160130  0.839870  0.361762  1
+  H  H4  1  0.679741  0.839870  0.361762  1
+  H  H5  1  0.160130  0.320259  0.361762  1
+  H  H6  1  0.839870  0.160130  0.638238  1
+  H  H7  1  0.320259  0.160130  0.638238  1
+  H  H8  1  0.839870  0.679741  0.638238  1
+  H  H9  1  0.510166  0.020333  0.879781  1
+  H  H10  1  0.510166  0.489834  0.879781  1
+  H  H11  1  0.979667  0.489834  0.879781  1
+  H  H12  1  0.489834  0.979667  0.120219  1
+  H  H13  1  0.489834  0.510166  0.120219  1
+  H  H14  1  0.020333  0.510166  0.120219  1
+  Ir  Ir15  1  0.666667  0.333333  0.745903  1
+  Ir  Ir16  1  0.333333  0.666667  0.254097  1

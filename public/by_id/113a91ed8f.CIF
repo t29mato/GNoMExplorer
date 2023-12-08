@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Lu2Sc4CoTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.82683200
+_cell_length_b   7.99773416
+_cell_length_c   7.83671622
+_cell_angle_alpha   120.68203319
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2Sc4CoTe2
+_chemical_formula_sum   'Lu2 Sc4 Co1 Te2'
+_cell_volume   206.27431670
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.000000  0.384796  0.385589  1
+  Lu  Lu1  1  0.000000  0.999206  0.614411  1
+  Sc  Sc2  1  0.500000  0.765041  0.773142  1
+  Sc  Sc3  1  0.500000  0.991899  0.226858  1
+  Sc  Sc4  1  0.500000  0.231108  0.000000  1
+  Sc  Sc5  1  0.000000  0.609207  0.000000  1
+  Co  Co6  1  0.000000  0.017152  0.000000  1
+  Te  Te7  1  0.500000  0.663511  0.325431  1
+  Te  Te8  1  0.500000  0.338079  0.674569  1

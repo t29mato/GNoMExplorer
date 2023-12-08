@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_LiTb16In3(RuRh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.71581158
+_cell_length_b   9.72410920
+_cell_length_c   9.71581110
+_cell_angle_alpha   59.50579131
+_cell_angle_beta   59.40581248
+_cell_angle_gamma   59.50579063
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTb16In3(RuRh)2
+_chemical_formula_sum   'Li1 Tb16 In3 Ru2 Rh2'
+_cell_volume   641.28224379
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.430228  0.430456  0.430228  1
+  Tb  Tb1  1  0.808939  0.807866  0.189271  1
+  Tb  Tb2  1  0.808811  0.190675  0.808811  1
+  Tb  Tb3  1  0.186631  0.190284  0.814595  1
+  Tb  Tb4  1  0.651883  0.042705  0.651883  1
+  Tb  Tb5  1  0.060702  0.060319  0.440973  1
+  Tb  Tb6  1  0.442653  0.437056  0.060756  1
+  Tb  Tb7  1  0.650425  0.649375  0.650425  1
+  Tb  Tb8  1  0.814595  0.190284  0.186631  1
+  Tb  Tb9  1  0.189271  0.807866  0.808939  1
+  Tb  Tb10  1  0.040058  0.651939  0.654383  1
+  Tb  Tb11  1  0.440973  0.060319  0.060702  1
+  Tb  Tb12  1  0.438112  0.061638  0.438112  1
+  Tb  Tb13  1  0.059905  0.439292  0.059905  1
+  Tb  Tb14  1  0.654383  0.651939  0.040058  1
+  Tb  Tb15  1  0.189187  0.812223  0.189187  1
+  Tb  Tb16  1  0.060756  0.437056  0.442653  1
+  In  In17  1  0.417794  0.418471  0.746298  1
+  In  In18  1  0.418421  0.745630  0.418421  1
+  In  In19  1  0.746298  0.418471  0.417794  1
+  Ru  Ru20  1  0.855484  0.420853  0.855484  1
+  Ru  Ru21  1  0.856644  0.860630  0.856644  1
+  Rh  Rh22  1  0.856496  0.857327  0.421352  1
+  Rh  Rh23  1  0.421352  0.857327  0.856496  1

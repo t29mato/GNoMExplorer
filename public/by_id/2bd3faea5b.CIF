@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ca(Zn2Pt)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.65805400
+_cell_length_b   7.65805400
+_cell_length_c   4.22949100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca(Zn2Pt)2
+_chemical_formula_sum   'Ca2 Zn8 Pt4'
+_cell_volume   248.04184551
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.500000  0.500000  0.500000  1
+  Ca  Ca1  1  0.000000  0.000000  0.000000  1
+  Zn  Zn2  1  0.348007  0.093321  0.500000  1
+  Zn  Zn3  1  0.651993  0.906679  0.500000  1
+  Zn  Zn4  1  0.848007  0.406679  0.000000  1
+  Zn  Zn5  1  0.151993  0.593321  0.000000  1
+  Zn  Zn6  1  0.093321  0.348007  0.500000  1
+  Zn  Zn7  1  0.906679  0.651993  0.500000  1
+  Zn  Zn8  1  0.406679  0.848007  0.000000  1
+  Zn  Zn9  1  0.593321  0.151993  0.000000  1
+  Pt  Pt10  1  0.778790  0.221210  0.500000  1
+  Pt  Pt11  1  0.221210  0.778790  0.500000  1
+  Pt  Pt12  1  0.278790  0.278790  0.000000  1
+  Pt  Pt13  1  0.721210  0.721210  0.000000  1

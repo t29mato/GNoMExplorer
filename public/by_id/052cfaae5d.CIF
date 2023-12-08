@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Pa2Co2SiGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.15015900
+_cell_length_b   6.88436700
+_cell_length_c   7.24001200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pa2Co2SiGe
+_chemical_formula_sum   'Pa4 Co4 Si2 Ge2'
+_cell_volume   206.85595874
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.500000  0.511272  0.044286  1
+  Pa  Pa1  1  0.500000  0.011272  0.955714  1
+  Pa  Pa2  1  0.000000  0.487623  0.458605  1
+  Pa  Pa3  1  0.000000  0.987623  0.541395  1
+  Co  Co4  1  0.500000  0.276343  0.656837  1
+  Co  Co5  1  0.500000  0.776343  0.343163  1
+  Co  Co6  1  0.000000  0.725082  0.830114  1
+  Co  Co7  1  0.000000  0.225082  0.169886  1
+  Si  Si8  1  0.500000  0.694148  0.667972  1
+  Si  Si9  1  0.500000  0.194148  0.332028  1
+  Ge  Ge10  1  0.000000  0.305531  0.834634  1
+  Ge  Ge11  1  0.000000  0.805531  0.165366  1

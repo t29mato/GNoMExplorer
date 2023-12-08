@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_K(InAg2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.64246790
+_cell_length_b   7.64246886
+_cell_length_c   7.64246822
+_cell_angle_alpha   108.40167803
+_cell_angle_beta   108.40167752
+_cell_angle_gamma   111.63216563
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K(InAg2)2
+_chemical_formula_sum   'K2 In4 Ag8'
+_cell_volume   343.25233260
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.750000  0.750000  0.000000  1
+  K  K1  1  0.250000  0.250000  0.000000  1
+  In  In2  1  0.854129  0.354129  0.208257  1
+  In  In3  1  0.354129  0.145871  0.500000  1
+  In  In4  1  0.645871  0.854129  0.500000  1
+  In  In5  1  0.145871  0.645871  0.791743  1
+  Ag  Ag6  1  0.685587  0.481333  0.500000  1
+  Ag  Ag7  1  0.481333  0.981333  0.795747  1
+  Ag  Ag8  1  0.981333  0.185587  0.500000  1
+  Ag  Ag9  1  0.185587  0.685587  0.204253  1
+  Ag  Ag10  1  0.518667  0.018667  0.204253  1
+  Ag  Ag11  1  0.018667  0.814413  0.500000  1
+  Ag  Ag12  1  0.314413  0.518667  0.500000  1
+  Ag  Ag13  1  0.814413  0.314413  0.795747  1

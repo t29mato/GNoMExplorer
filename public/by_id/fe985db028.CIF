@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Zr4Nb2Si3Mo2P
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.57506400
+_cell_length_b   7.00091223
+_cell_length_c   8.34926243
+_cell_angle_alpha   89.79463798
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr4Nb2Si3Mo2P
+_chemical_formula_sum   'Zr4 Nb2 Si3 Mo2 P1'
+_cell_volume   208.96991958
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.250000  0.039881  0.333823  1
+  Zr  Zr1  1  0.250000  0.545160  0.168650  1
+  Zr  Zr2  1  0.750000  0.958962  0.667973  1
+  Zr  Zr3  1  0.750000  0.458249  0.832545  1
+  Nb  Nb4  1  0.250000  0.130295  0.940536  1
+  Nb  Nb5  1  0.250000  0.633938  0.556388  1
+  Si  Si6  1  0.250000  0.257830  0.634967  1
+  Si  Si7  1  0.250000  0.755284  0.864365  1
+  Si  Si8  1  0.750000  0.244138  0.142351  1
+  Mo  Mo9  1  0.750000  0.865039  0.063691  1
+  Mo  Mo10  1  0.750000  0.367617  0.437596  1
+  P  P11  1  0.750000  0.743609  0.357115  1

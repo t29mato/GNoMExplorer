@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Ba10Si4SnBi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.66403500
+_cell_length_b   8.66403500
+_cell_length_c   17.15113200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba10Si4SnBi
+_chemical_formula_sum   'Ba20 Si8 Sn2 Bi2'
+_cell_volume   1287.45834170
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.313822  0.668815  0.111391  1
+  Ba  Ba1  1  0.168815  0.186178  0.111391  1
+  Ba  Ba2  1  0.500000  0.000000  0.736183  1
+  Ba  Ba3  1  0.331813  0.685126  0.387909  1
+  Ba  Ba4  1  0.668815  0.686178  0.888609  1
+  Ba  Ba5  1  0.185126  0.168187  0.387909  1
+  Ba  Ba6  1  0.668187  0.314874  0.387909  1
+  Ba  Ba7  1  0.168187  0.814874  0.612091  1
+  Ba  Ba8  1  0.331185  0.313822  0.888609  1
+  Ba  Ba9  1  0.186178  0.831185  0.888609  1
+  Ba  Ba10  1  0.500000  0.000000  0.228463  1
+  Ba  Ba11  1  0.831813  0.185126  0.612091  1
+  Ba  Ba12  1  0.314874  0.331813  0.612091  1
+  Ba  Ba13  1  0.814874  0.831813  0.387909  1
+  Ba  Ba14  1  0.813822  0.168815  0.888609  1
+  Ba  Ba15  1  0.831185  0.813822  0.111391  1
+  Ba  Ba16  1  0.000000  0.500000  0.263817  1
+  Ba  Ba17  1  0.000000  0.500000  0.771537  1
+  Ba  Ba18  1  0.686178  0.331185  0.111391  1
+  Ba  Ba19  1  0.685126  0.668187  0.612091  1
+  Si  Si20  1  0.101951  0.101449  0.748145  1
+  Si  Si21  1  0.398551  0.601951  0.748145  1
+  Si  Si22  1  0.601951  0.601449  0.251855  1
+  Si  Si23  1  0.101449  0.898049  0.251855  1
+  Si  Si24  1  0.601449  0.398049  0.748145  1
+  Si  Si25  1  0.898049  0.898551  0.748145  1
+  Si  Si26  1  0.398049  0.398551  0.251855  1
+  Si  Si27  1  0.898551  0.101951  0.251855  1
+  Sn  Sn28  1  0.000000  0.500000  0.990307  1
+  Sn  Sn29  1  0.500000  0.000000  0.009693  1
+  Bi  Bi30  1  0.500000  0.000000  0.511220  1
+  Bi  Bi31  1  0.000000  0.500000  0.488780  1

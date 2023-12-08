@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Er8Be(Si4Ni)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.90349100
+_cell_length_b   7.90343258
+_cell_length_c   8.03285000
+_cell_angle_alpha   90.00017252
+_cell_angle_beta   90.00002877
+_cell_angle_gamma   119.99726531
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er8Be(Si4Ni)3
+_chemical_formula_sum   'Er8 Be1 Si12 Ni3'
+_cell_volume   434.55722198
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.999823  0.499912  0.248956  1
+  Er  Er1  1  0.500085  0.499915  0.248953  1
+  Er  Er2  1  0.499905  0.999817  0.750986  1
+  Er  Er3  1  0.000202  0.500102  0.750984  1
+  Er  Er4  1  0.499910  0.500091  0.750975  1
+  Er  Er5  1  0.500085  0.000176  0.248951  1
+  Er  Er6  1  0.000000  0.999997  0.750457  1
+  Er  Er7  1  0.000012  0.000002  0.249360  1
+  Be  Be8  1  0.333327  0.666666  0.500107  1
+  Si  Si9  1  0.171361  0.828661  0.499923  1
+  Si  Si10  1  0.171361  0.342699  0.499921  1
+  Si  Si11  1  0.657293  0.828646  0.499922  1
+  Si  Si12  1  0.342385  0.171198  0.000072  1
+  Si  Si13  1  0.827728  0.655465  0.499817  1
+  Si  Si14  1  0.828803  0.171198  0.000073  1
+  Si  Si15  1  0.828819  0.657646  0.000071  1
+  Si  Si16  1  0.171165  0.342328  0.000008  1
+  Si  Si17  1  0.657674  0.828831  0.000008  1
+  Si  Si18  1  0.344505  0.172254  0.499817  1
+  Si  Si19  1  0.827729  0.172265  0.499818  1
+  Si  Si20  1  0.171157  0.828831  0.000008  1
+  Ni  Ni21  1  0.333335  0.666672  0.999935  1
+  Ni  Ni22  1  0.666632  0.333280  0.998867  1
+  Ni  Ni23  1  0.666703  0.333350  0.502013  1

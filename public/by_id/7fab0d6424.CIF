@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_DyHo4PtPb3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.19888100
+_cell_length_b   9.19888157
+_cell_length_c   6.79749700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000155
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyHo4PtPb3
+_chemical_formula_sum   'Dy2 Ho8 Pt2 Pb6'
+_cell_volume   498.13800572
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.333333  0.666667  0.500000  1
+  Dy  Dy1  1  0.666667  0.333333  0.500000  1
+  Ho  Ho2  1  0.245013  0.000000  0.750257  1
+  Ho  Ho3  1  0.754987  0.000000  0.249743  1
+  Ho  Ho4  1  0.000000  0.245013  0.750257  1
+  Ho  Ho5  1  0.000000  0.754987  0.249743  1
+  Ho  Ho6  1  0.754987  0.754987  0.750257  1
+  Ho  Ho7  1  0.245013  0.245013  0.249743  1
+  Ho  Ho8  1  0.666667  0.333333  0.000000  1
+  Ho  Ho9  1  0.333333  0.666667  0.000000  1
+  Pt  Pt10  1  0.000000  0.000000  0.500000  1
+  Pt  Pt11  1  0.000000  0.000000  0.000000  1
+  Pb  Pb12  1  0.600551  0.000000  0.750393  1
+  Pb  Pb13  1  0.399449  0.000000  0.249607  1
+  Pb  Pb14  1  0.000000  0.600551  0.750393  1
+  Pb  Pb15  1  0.000000  0.399449  0.249607  1
+  Pb  Pb16  1  0.399449  0.399449  0.750393  1
+  Pb  Pb17  1  0.600551  0.600551  0.249607  1

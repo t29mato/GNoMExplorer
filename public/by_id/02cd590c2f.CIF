@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZrSc(CrRe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.14773375
+_cell_length_b   5.15897615
+_cell_length_c   8.49145728
+_cell_angle_alpha   89.88472928
+_cell_angle_beta   90.05776599
+_cell_angle_gamma   120.07227351
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrSc(CrRe)2
+_chemical_formula_sum   'Zr2 Sc2 Cr4 Re4'
+_cell_volume   195.15282000
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.333168  0.666138  0.439525  1
+  Zr  Zr1  1  0.666832  0.332969  0.939525  1
+  Sc  Sc2  1  0.666850  0.332828  0.562120  1
+  Sc  Sc3  1  0.333150  0.665978  0.062120  1
+  Cr  Cr4  1  0.661070  0.830827  0.749986  1
+  Cr  Cr5  1  0.338930  0.169756  0.249986  1
+  Cr  Cr6  1  0.826718  0.168692  0.249163  1
+  Cr  Cr7  1  0.173282  0.341975  0.749163  1
+  Re  Re8  1  0.173893  0.827516  0.749763  1
+  Re  Re9  1  0.826107  0.653621  0.249763  1
+  Re  Re10  1  0.000068  0.004884  0.499443  1
+  Re  Re11  1  0.999932  0.004816  0.999443  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_KHf(NiAs)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.96178100
+_cell_length_b   8.46347299
+_cell_length_c   7.10892073
+_cell_angle_alpha   92.46043352
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KHf(NiAs)2
+_chemical_formula_sum   'K2 Hf2 Ni4 As4'
+_cell_volume   238.14539637
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.250000  0.499321  0.239494  1
+  K  K1  1  0.750000  0.500679  0.760506  1
+  Hf  Hf2  1  0.750000  0.009216  0.704292  1
+  Hf  Hf3  1  0.250000  0.990784  0.295708  1
+  Ni  Ni4  1  0.250000  0.899820  0.931969  1
+  Ni  Ni5  1  0.750000  0.100180  0.068031  1
+  Ni  Ni6  1  0.750000  0.798498  0.420113  1
+  Ni  Ni7  1  0.250000  0.201502  0.579887  1
+  As  As8  1  0.250000  0.781881  0.600828  1
+  As  As9  1  0.750000  0.218119  0.399172  1
+  As  As10  1  0.750000  0.805801  0.087372  1
+  As  As11  1  0.250000  0.194199  0.912628  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ta2V2SiGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.41836200
+_cell_length_b   6.63049056
+_cell_length_c   7.97116652
+_cell_angle_alpha   89.83031719
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2V2SiGe
+_chemical_formula_sum   'Ta4 V4 Si2 Ge2'
+_cell_volume   180.66902068
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.250000  0.552302  0.170255  1
+  Ta  Ta1  1  0.750000  0.447698  0.829745  1
+  Ta  Ta2  1  0.750000  0.961522  0.661969  1
+  Ta  Ta3  1  0.250000  0.038478  0.338031  1
+  V  V4  1  0.250000  0.627828  0.558585  1
+  V  V5  1  0.750000  0.372172  0.441415  1
+  V  V6  1  0.750000  0.868532  0.064122  1
+  V  V7  1  0.250000  0.131468  0.935878  1
+  Si  Si8  1  0.750000  0.745110  0.363151  1
+  Si  Si9  1  0.250000  0.254890  0.636849  1
+  Ge  Ge10  1  0.250000  0.753786  0.859601  1
+  Ge  Ge11  1  0.750000  0.246214  0.140399  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SrCuSiPt3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.67855102
+_cell_length_b   6.85304287
+_cell_length_c   6.85304216
+_cell_angle_alpha   68.15193789
+_cell_angle_beta   65.87410561
+_cell_angle_gamma   65.87410072
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCuSiPt3
+_chemical_formula_sum   'Sr2 Cu2 Si2 Pt6'
+_cell_volume   215.29464096
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.527859  0.733299  0.733299  1
+  Sr  Sr1  1  0.472141  0.266701  0.266701  1
+  Cu  Cu2  1  0.204619  0.571663  0.571663  1
+  Cu  Cu3  1  0.795381  0.428337  0.428337  1
+  Si  Si4  1  0.138621  0.099071  0.099071  1
+  Si  Si5  1  0.861379  0.900929  0.900929  1
+  Pt  Pt6  1  0.500000  0.210814  0.789186  1
+  Pt  Pt7  1  0.000000  0.769202  0.230798  1
+  Pt  Pt8  1  0.500000  0.789186  0.210814  1
+  Pt  Pt9  1  0.000000  0.230798  0.769202  1
+  Pt  Pt10  1  0.000000  0.500000  0.000000  1
+  Pt  Pt11  1  0.000000  0.000000  0.500000  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_TcRuBr18
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.10204734
+_cell_length_b   9.10204532
+_cell_length_c   9.10204554
+_cell_angle_alpha   90.59249012
+_cell_angle_beta   90.59248416
+_cell_angle_gamma   90.59248878
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TcRuBr18
+_chemical_formula_sum   'Tc1 Ru1 Br18'
+_cell_volume   753.95762497
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tc  Tc0  1  0.000000  0.000000  0.000000  1
+  Ru  Ru1  1  0.500000  0.500000  0.500000  1
+  Br  Br2  1  0.276708  0.988932  0.021127  1
+  Br  Br3  1  0.021127  0.276708  0.988932  1
+  Br  Br4  1  0.988932  0.021127  0.276708  1
+  Br  Br5  1  0.723292  0.011068  0.978873  1
+  Br  Br6  1  0.978873  0.723292  0.011068  1
+  Br  Br7  1  0.011068  0.978873  0.723292  1
+  Br  Br8  1  0.625248  0.244559  0.119249  1
+  Br  Br9  1  0.119249  0.625248  0.244559  1
+  Br  Br10  1  0.244559  0.119249  0.625248  1
+  Br  Br11  1  0.374752  0.755441  0.880751  1
+  Br  Br12  1  0.880751  0.374752  0.755441  1
+  Br  Br13  1  0.755441  0.880751  0.374752  1
+  Br  Br14  1  0.483783  0.225820  0.518402  1
+  Br  Br15  1  0.518402  0.483783  0.225820  1
+  Br  Br16  1  0.225820  0.518402  0.483783  1
+  Br  Br17  1  0.516217  0.774180  0.481598  1
+  Br  Br18  1  0.481598  0.516217  0.774180  1
+  Br  Br19  1  0.774180  0.481598  0.516217  1

@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_PrTh(Mn9Si4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.06108771
+_cell_length_b   8.06108770
+_cell_length_c   8.06108705
+_cell_angle_alpha   121.54979471
+_cell_angle_beta   121.54980394
+_cell_angle_gamma   87.33599685
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrTh(Mn9Si4)2
+_chemical_formula_sum   'Pr1 Th1 Mn18 Si8'
+_cell_volume   361.29458027
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.250000  0.250000  0.000000  1
+  Th  Th1  1  0.750000  0.750000  0.000000  1
+  Mn  Mn2  1  0.941341  0.808540  0.751278  1
+  Mn  Mn3  1  0.794729  0.296728  0.739126  1
+  Mn  Mn4  1  0.296728  0.557602  0.501998  1
+  Mn  Mn5  1  0.203272  0.705271  0.260874  1
+  Mn  Mn6  1  0.705271  0.444396  0.501998  1
+  Mn  Mn7  1  0.942398  0.203272  0.498002  1
+  Mn  Mn8  1  0.057260  0.190062  0.248722  1
+  Mn  Mn9  1  0.309938  0.442740  0.751278  1
+  Mn  Mn10  1  0.055604  0.794729  0.498002  1
+  Mn  Mn11  1  0.558659  0.309938  0.867198  1
+  Mn  Mn12  1  0.444396  0.942398  0.739126  1
+  Mn  Mn13  1  0.808540  0.057260  0.867198  1
+  Mn  Mn14  1  0.442740  0.691460  0.132802  1
+  Mn  Mn15  1  0.691460  0.558659  0.248722  1
+  Mn  Mn16  1  0.190062  0.941341  0.132802  1
+  Mn  Mn17  1  0.000000  0.500000  0.500000  1
+  Mn  Mn18  1  0.557602  0.055604  0.260874  1
+  Mn  Mn19  1  0.500000  0.000000  0.500000  1
+  Si  Si20  1  0.295470  0.797458  0.850983  1
+  Si  Si21  1  0.797458  0.946475  0.501989  1
+  Si  Si22  1  0.946475  0.444487  0.149017  1
+  Si  Si23  1  0.444487  0.295470  0.498011  1
+  Si  Si24  1  0.055513  0.553525  0.850983  1
+  Si  Si25  1  0.204530  0.055513  0.501989  1
+  Si  Si26  1  0.702542  0.204530  0.149017  1
+  Si  Si27  1  0.553525  0.702542  0.498011  1

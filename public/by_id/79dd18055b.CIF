@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ta4Cr(NiP)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.12059277
+_cell_length_b   7.12059287
+_cell_length_c   7.12059298
+_cell_angle_alpha   93.55829209
+_cell_angle_beta   93.55829830
+_cell_angle_gamma   151.14833895
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta4Cr(NiP)4
+_chemical_formula_sum   'Ta4 Cr1 Ni4 P4'
+_cell_volume   168.72196082
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.873374  0.192920  0.066294  1
+  Ta  Ta1  1  0.126626  0.807080  0.933706  1
+  Ta  Ta2  1  0.192920  0.126626  0.319546  1
+  Ta  Ta3  1  0.807080  0.873374  0.680454  1
+  Cr  Cr4  1  0.500000  0.500000  0.000000  1
+  Ni  Ni5  1  0.609986  0.088470  0.698457  1
+  Ni  Ni6  1  0.390014  0.911530  0.301543  1
+  Ni  Ni7  1  0.088470  0.390014  0.478483  1
+  Ni  Ni8  1  0.911530  0.609986  0.521517  1
+  P  P9  1  0.752395  0.443667  0.196061  1
+  P  P10  1  0.247605  0.556333  0.803939  1
+  P  P11  1  0.443667  0.247605  0.691273  1
+  P  P12  1  0.556333  0.752395  0.308727  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_La3Pr(NdAu)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.71118400
+_cell_length_b   10.55044259
+_cell_length_c   10.55044300
+_cell_angle_alpha   120.00558556
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3Pr(NdAu)3
+_chemical_formula_sum   'La6 Pr2 Nd6 Au6'
+_cell_volume   646.91423164
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.247548  0.132727  0.867273  1
+  La  La1  1  0.247571  0.734510  0.867260  1
+  La  La2  1  0.247571  0.132740  0.265490  1
+  La  La3  1  0.747548  0.867273  0.132727  1
+  La  La4  1  0.747571  0.265490  0.132740  1
+  La  La5  1  0.747571  0.867260  0.734510  1
+  Pr  Pr6  1  0.442517  0.333328  0.666672  1
+  Pr  Pr7  1  0.942517  0.666672  0.333328  1
+  Nd  Nd8  1  0.447667  0.537790  0.462210  1
+  Nd  Nd9  1  0.447707  0.924379  0.462145  1
+  Nd  Nd10  1  0.447707  0.537855  0.075621  1
+  Nd  Nd11  1  0.947667  0.462210  0.537790  1
+  Nd  Nd12  1  0.947707  0.075621  0.537855  1
+  Nd  Nd13  1  0.947707  0.462145  0.924379  1
+  Au  Au14  1  0.188265  0.810761  0.189239  1
+  Au  Au15  1  0.188223  0.378547  0.189266  1
+  Au  Au16  1  0.188223  0.810734  0.621453  1
+  Au  Au17  1  0.688265  0.189239  0.810761  1
+  Au  Au18  1  0.688223  0.621453  0.810734  1
+  Au  Au19  1  0.688223  0.189266  0.378547  1

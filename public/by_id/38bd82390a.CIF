@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ta4Mn6SiGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.88919100
+_cell_length_b   4.88919159
+_cell_length_c   7.91664600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000279
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta4Mn6SiGe
+_chemical_formula_sum   'Ta4 Mn6 Si1 Ge1'
+_cell_volume   163.88752796
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.333333  0.666666  0.064868  1
+  Ta  Ta1  1  0.333333  0.666666  0.436767  1
+  Ta  Ta2  1  0.666666  0.333334  0.563232  1
+  Ta  Ta3  1  0.666666  0.333334  0.935132  1
+  Mn  Mn4  1  0.344146  0.172073  0.253049  1
+  Mn  Mn5  1  0.827928  0.172073  0.253049  1
+  Mn  Mn6  1  0.827926  0.655854  0.253049  1
+  Mn  Mn7  1  0.172073  0.344147  0.746951  1
+  Mn  Mn8  1  0.172074  0.827928  0.746951  1
+  Mn  Mn9  1  0.655853  0.827928  0.746951  1
+  Si  Si10  1  0.000000  0.000000  0.499999  1
+  Ge  Ge11  1  0.000000  0.000000  0.000000  1

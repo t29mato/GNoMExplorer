@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_AcEu(SiNi)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.31805800
+_cell_length_b   6.30996004
+_cell_length_c   6.31203988
+_cell_angle_alpha   90.58987813
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AcEu(SiNi)2
+_chemical_formula_sum   'Ac2 Eu2 Si4 Ni4'
+_cell_volume   251.62682336
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  0.136565  0.133584  0.138754  1
+  Ac  Ac1  1  0.636565  0.366416  0.861246  1
+  Eu  Eu2  1  0.366955  0.863849  0.630225  1
+  Eu  Eu3  1  0.866955  0.636151  0.369775  1
+  Si  Si4  1  0.340207  0.658756  0.162562  1
+  Si  Si5  1  0.155798  0.342813  0.655865  1
+  Si  Si6  1  0.655798  0.157187  0.344135  1
+  Si  Si7  1  0.840207  0.841244  0.837438  1
+  Ni  Ni8  1  0.412020  0.413531  0.414054  1
+  Ni  Ni9  1  0.088455  0.590319  0.911608  1
+  Ni  Ni10  1  0.912020  0.086469  0.585946  1
+  Ni  Ni11  1  0.588455  0.909681  0.088392  1

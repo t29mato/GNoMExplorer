@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_YbPrCuPd3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.56002298
+_cell_length_b   5.56002392
+_cell_length_c   5.30325175
+_cell_angle_alpha   58.38501110
+_cell_angle_beta   58.38501524
+_cell_angle_gamma   60.00000918
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbPrCuPd3
+_chemical_formula_sum   'Yb1 Pr1 Cu1 Pd3'
+_cell_volume   113.01501339
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.745779  0.745779  0.762665  1
+  Pr  Pr1  1  0.000817  0.000817  0.997549  1
+  Cu  Cu2  1  0.376176  0.376176  0.871473  1
+  Pd  Pd3  1  0.376469  0.874292  0.372771  1
+  Pd  Pd4  1  0.376469  0.376469  0.372771  1
+  Pd  Pd5  1  0.874292  0.376469  0.372771  1

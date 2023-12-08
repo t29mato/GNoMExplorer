@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_NpFe21B6Mo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.54707863
+_cell_length_b   7.54707857
+_cell_length_c   7.54707800
+_cell_angle_alpha   60.00000252
+_cell_angle_beta   60.00000276
+_cell_angle_gamma   60.00000159
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NpFe21B6Mo
+_chemical_formula_sum   'Np1 Fe21 B6 Mo1'
+_cell_volume   303.96362104
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Np  Np0  1  0.250000  0.250000  0.250000  1
+  Fe  Fe1  1  0.997056  0.997056  0.342712  1
+  Fe  Fe2  1  0.663175  0.997056  0.342712  1
+  Fe  Fe3  1  0.997056  0.663175  0.342712  1
+  Fe  Fe4  1  0.663175  0.342712  0.997056  1
+  Fe  Fe5  1  0.997056  0.342712  0.997056  1
+  Fe  Fe6  1  0.997056  0.342712  0.663175  1
+  Fe  Fe7  1  0.342712  0.663175  0.997056  1
+  Fe  Fe8  1  0.342712  0.997056  0.663175  1
+  Fe  Fe9  1  0.342712  0.997056  0.997056  1
+  Fe  Fe10  1  0.997056  0.997056  0.663175  1
+  Fe  Fe11  1  0.997056  0.663175  0.997056  1
+  Fe  Fe12  1  0.663175  0.997056  0.997056  1
+  Fe  Fe13  1  0.618528  0.618528  0.144416  1
+  Fe  Fe14  1  0.618528  0.144416  0.618528  1
+  Fe  Fe15  1  0.144416  0.618528  0.618528  1
+  Fe  Fe16  1  0.618528  0.618528  0.618528  1
+  Fe  Fe17  1  0.380631  0.380631  0.858106  1
+  Fe  Fe18  1  0.380631  0.858106  0.380631  1
+  Fe  Fe19  1  0.858106  0.380631  0.380631  1
+  Fe  Fe20  1  0.380631  0.380631  0.380631  1
+  Fe  Fe21  1  0.000000  0.000000  0.000000  1
+  B  B22  1  0.725064  0.725064  0.274936  1
+  B  B23  1  0.274936  0.725064  0.274936  1
+  B  B24  1  0.725064  0.274936  0.274936  1
+  B  B25  1  0.274936  0.274936  0.725064  1
+  B  B26  1  0.725064  0.274936  0.725064  1
+  B  B27  1  0.274936  0.725064  0.725064  1
+  Mo  Mo28  1  0.750000  0.750000  0.750000  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NpHg3(SeF3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.17849928
+_cell_length_b   8.17849952
+_cell_length_c   5.37863144
+_cell_angle_alpha   90.81110269
+_cell_angle_beta   90.81110457
+_cell_angle_gamma   59.79964857
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NpHg3(SeF3)2
+_chemical_formula_sum   'Np1 Hg3 Se2 F6'
+_cell_volume   310.89334783
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Np  Np0  1  0.000000  0.000000  0.000000  1
+  Hg  Hg1  1  0.500001  0.000000  0.500000  1
+  Hg  Hg2  1  0.000000  0.500001  0.500000  1
+  Hg  Hg3  1  0.500000  0.500000  0.500000  1
+  Se  Se4  1  0.332371  0.332371  0.318999  1
+  Se  Se5  1  0.667628  0.667628  0.681000  1
+  F  F6  1  0.749545  0.125823  0.221319  1
+  F  F7  1  0.125823  0.749545  0.221319  1
+  F  F8  1  0.123548  0.123548  0.237013  1
+  F  F9  1  0.876452  0.876452  0.762985  1
+  F  F10  1  0.874178  0.250456  0.778681  1
+  F  F11  1  0.250456  0.874178  0.778681  1

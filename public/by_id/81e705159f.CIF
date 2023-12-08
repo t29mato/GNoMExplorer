@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_ThMg2Rh3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.61006800
+_cell_length_b   4.49819180
+_cell_length_c   6.99935607
+_cell_angle_alpha   71.22699180
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThMg2Rh3
+_chemical_formula_sum   'Th1 Mg2 Rh3'
+_cell_volume   107.61433713
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.000000  0.666660  0.666664  1
+  Mg  Mg1  1  0.000000  0.344196  0.310572  1
+  Mg  Mg2  1  0.000000  0.989125  0.022754  1
+  Rh  Rh3  1  0.500000  0.500602  0.000242  1
+  Rh  Rh4  1  0.500000  0.832757  0.333095  1
+  Rh  Rh5  1  0.500000  0.166660  0.666672  1

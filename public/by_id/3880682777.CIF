@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_BaAlIn2Hg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.91529098
+_cell_length_b   6.91529266
+_cell_length_c   6.91529238
+_cell_angle_alpha   138.63167034
+_cell_angle_beta   138.63168302
+_cell_angle_gamma   59.93691531
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaAlIn2Hg
+_chemical_formula_sum   'Ba1 Al1 In2 Hg1'
+_cell_volume   142.96886842
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.998870  0.998870  0.000000  1
+  Al  Al1  1  0.616693  0.616693  0.000000  1
+  In  In2  1  0.745670  0.245670  0.500000  1
+  In  In3  1  0.245670  0.745670  0.500000  1
+  Hg  Hg4  1  0.393099  0.393099  0.000000  1

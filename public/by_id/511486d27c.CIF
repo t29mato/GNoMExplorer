@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Tb3Gd3(AlC3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.60423000
+_cell_length_b   7.11702622
+_cell_length_c   10.06156913
+_cell_angle_alpha   90.10667600
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb3Gd3(AlC3)2
+_chemical_formula_sum   'Tb3 Gd3 Al2 C6'
+_cell_volume   258.09288089
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.500000  0.510119  0.199522  1
+  Tb  Tb1  1  0.000000  0.749769  0.458461  1
+  Tb  Tb2  1  0.000000  0.249648  0.540871  1
+  Gd  Gd3  1  0.500000  0.491437  0.800799  1
+  Gd  Gd4  1  0.500000  0.991659  0.199069  1
+  Gd  Gd5  1  0.500000  0.008637  0.801111  1
+  Al  Al6  1  0.000000  0.749698  0.009141  1
+  Al  Al7  1  0.000000  0.250790  0.991663  1
+  C  C8  1  0.500000  0.508344  0.565040  1
+  C  C9  1  0.500000  0.490734  0.433884  1
+  C  C10  1  0.500000  0.991015  0.565554  1
+  C  C11  1  0.500000  0.008590  0.434453  1
+  C  C12  1  0.000000  0.749377  0.210210  1
+  C  C13  1  0.000000  0.250182  0.790223  1

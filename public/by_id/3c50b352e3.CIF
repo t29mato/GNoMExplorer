@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ba4CoH12Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.86319581
+_cell_length_b   7.86319672
+_cell_length_c   5.95460934
+_cell_angle_alpha   89.98261426
+_cell_angle_beta   89.98260081
+_cell_angle_gamma   135.54286547
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba4CoH12Au
+_chemical_formula_sum   'Ba4 Co1 H12 Au1'
+_cell_volume   257.85899354
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.359855  0.640145  0.000000  1
+  Ba  Ba1  1  0.857761  0.142239  0.500000  1
+  Ba  Ba2  1  0.640145  0.359855  0.000000  1
+  Ba  Ba3  1  0.142239  0.857761  0.500000  1
+  Co  Co4  1  0.500000  0.500000  0.500000  1
+  H  H5  1  0.000067  0.500662  0.245298  1
+  H  H6  1  0.499338  0.999933  0.754702  1
+  H  H7  1  0.999933  0.499338  0.754702  1
+  H  H8  1  0.500662  0.000067  0.245298  1
+  H  H9  1  0.115047  0.884953  0.000000  1
+  H  H10  1  0.607883  0.392117  0.500000  1
+  H  H11  1  0.884953  0.115047  0.000000  1
+  H  H12  1  0.392117  0.607883  0.500000  1
+  H  H13  1  0.687185  0.687185  0.312563  1
+  H  H14  1  0.312815  0.312815  0.687437  1
+  H  H15  1  0.687170  0.687170  0.687090  1
+  H  H16  1  0.312830  0.312830  0.312910  1
+  Au  Au17  1  0.000000  0.000000  0.000000  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Lu4UCo5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.50579254
+_cell_length_b   5.50579226
+_cell_length_c   6.94793948
+_cell_angle_alpha   92.40323255
+_cell_angle_beta   87.59676660
+_cell_angle_gamma   121.17193513
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu4UCo5
+_chemical_formula_sum   'Lu4 U1 Co5'
+_cell_volume   179.99970624
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.665619  0.334381  0.914452  1
+  Lu  Lu1  1  0.334381  0.665619  0.085548  1
+  Lu  Lu2  1  0.834566  0.165434  0.383881  1
+  Lu  Lu3  1  0.165434  0.834566  0.616119  1
+  U  U4  1  0.500000  0.500000  0.500000  1
+  Co  Co5  1  0.000000  0.000000  0.000000  1
+  Co  Co6  1  0.662263  0.839443  0.744276  1
+  Co  Co7  1  0.839443  0.662263  0.255724  1
+  Co  Co8  1  0.337737  0.160557  0.255724  1
+  Co  Co9  1  0.160557  0.337737  0.744276  1

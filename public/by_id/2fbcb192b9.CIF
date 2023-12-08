@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_HoPa5(Ni3Sb4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.14959928
+_cell_length_b   8.14959864
+_cell_length_c   8.14959801
+_cell_angle_alpha   109.52048033
+_cell_angle_beta   109.52048573
+_cell_angle_gamma   109.37273326
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoPa5(Ni3Sb4)2
+_chemical_formula_sum   'Ho1 Pa5 Ni6 Sb8'
+_cell_volume   416.66387581
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.625000  0.375000  0.250000  1
+  Pa  Pa1  1  0.376007  0.251563  0.626444  1
+  Pa  Pa2  1  0.125118  0.749563  0.873556  1
+  Pa  Pa3  1  0.748437  0.874882  0.124444  1
+  Pa  Pa4  1  0.250437  0.623993  0.375556  1
+  Pa  Pa5  1  0.875000  0.125000  0.750000  1
+  Ni  Ni6  1  0.879506  0.248664  0.121521  1
+  Ni  Ni7  1  0.375000  0.625000  0.750000  1
+  Ni  Ni8  1  0.627144  0.757985  0.378479  1
+  Ni  Ni9  1  0.751336  0.372856  0.630841  1
+  Ni  Ni10  1  0.242015  0.120494  0.869159  1
+  Ni  Ni11  1  0.125000  0.875000  0.250000  1
+  Sb  Sb12  1  0.501853  0.003517  0.836526  1
+  Sb  Sb13  1  0.167469  0.166410  0.166818  1
+  Sb  Sb14  1  0.833590  0.500408  0.001059  1
+  Sb  Sb15  1  0.999349  0.832531  0.498941  1
+  Sb  Sb16  1  0.334673  0.498147  0.001663  1
+  Sb  Sb17  1  0.996483  0.333009  0.498337  1
+  Sb  Sb18  1  0.499592  0.000651  0.333182  1
+  Sb  Sb19  1  0.666991  0.665327  0.663474  1

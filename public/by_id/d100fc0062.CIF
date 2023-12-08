@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ho3V(Ga4Tc)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.08849622
+_cell_length_b   8.08849839
+_cell_length_c   8.08849700
+_cell_angle_alpha   149.75454074
+_cell_angle_beta   110.01317256
+_cell_angle_gamma   78.10541929
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho3V(Ga4Tc)2
+_chemical_formula_sum   'Ho3 V1 Ga8 Tc2'
+_cell_volume   245.93227549
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.500000  0.500000  0.000000  1
+  Ho  Ho1  1  0.203530  0.203530  0.000000  1
+  Ho  Ho2  1  0.796470  0.796470  0.000000  1
+  V  V3  1  0.000000  0.500000  0.500000  1
+  Ga  Ga4  1  0.656085  0.365621  0.290465  1
+  Ga  Ga5  1  0.343915  0.634379  0.709535  1
+  Ga  Ga6  1  0.075157  0.365621  0.709535  1
+  Ga  Ga7  1  0.924843  0.634379  0.290465  1
+  Ga  Ga8  1  0.513565  0.150571  0.362993  1
+  Ga  Ga9  1  0.486435  0.849429  0.637007  1
+  Ga  Ga10  1  0.787576  0.150571  0.637007  1
+  Ga  Ga11  1  0.212424  0.849429  0.362993  1
+  Tc  Tc12  1  0.168901  0.000000  0.168901  1
+  Tc  Tc13  1  0.831099  0.000000  0.831099  1

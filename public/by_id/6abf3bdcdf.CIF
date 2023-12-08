@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Tm16Cd4CoNi2Ir
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.44430990
+_cell_length_b   9.41070029
+_cell_length_c   9.42743802
+_cell_angle_alpha   59.94115757
+_cell_angle_beta   60.05817511
+_cell_angle_gamma   60.20711227
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tm16Cd4CoNi2Ir
+_chemical_formula_sum   'Tm16 Cd4 Co1 Ni2 Ir1'
+_cell_volume   593.39370353
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.592279  0.601265  0.598434  1
+  Tm  Tm1  1  0.592263  0.601252  0.208058  1
+  Tm  Tm2  1  0.597292  0.202004  0.600354  1
+  Tm  Tm3  1  0.207413  0.602079  0.595249  1
+  Tm  Tm4  1  0.063065  0.438991  0.439566  1
+  Tm  Tm5  1  0.439234  0.057910  0.064444  1
+  Tm  Tm6  1  0.439230  0.057920  0.438389  1
+  Tm  Tm7  1  0.063056  0.438993  0.058363  1
+  Tm  Tm8  1  0.439850  0.438161  0.060989  1
+  Tm  Tm9  1  0.067083  0.057793  0.437558  1
+  Tm  Tm10  1  0.185685  0.815033  0.813501  1
+  Tm  Tm11  1  0.813567  0.188529  0.187589  1
+  Tm  Tm12  1  0.813566  0.188525  0.810350  1
+  Tm  Tm13  1  0.185712  0.815021  0.185796  1
+  Tm  Tm14  1  0.813211  0.811092  0.187857  1
+  Tm  Tm15  1  0.185412  0.187168  0.813711  1
+  Cd  Cd16  1  0.832053  0.830637  0.830260  1
+  Cd  Cd17  1  0.832056  0.830636  0.507046  1
+  Cd  Cd18  1  0.831866  0.506940  0.830596  1
+  Cd  Cd19  1  0.505897  0.831067  0.831512  1
+  Co  Co20  1  0.392259  0.824941  0.391396  1
+  Ni  Ni21  1  0.392015  0.391184  0.392553  1
+  Ni  Ni22  1  0.392025  0.391195  0.824216  1
+  Ir  Ir23  1  0.823907  0.391666  0.392215  1

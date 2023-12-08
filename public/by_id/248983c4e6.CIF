@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YbEr2(BPt2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.37223664
+_cell_length_b   5.38571251
+_cell_length_c   7.80322900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.08300385
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbEr2(BPt2)3
+_chemical_formula_sum   'Yb1 Er2 B3 Pt6'
+_cell_volume   195.36170314
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.000000  0.500000  0.166667  1
+  Er  Er1  1  0.500000  0.500000  0.836698  1
+  Er  Er2  1  0.500000  0.000000  0.496635  1
+  B  B3  1  0.500000  0.500000  0.331110  1
+  B  B4  1  0.500000  0.000000  0.002223  1
+  B  B5  1  0.000000  0.500000  0.666667  1
+  Pt  Pt6  1  0.153928  0.852478  0.832015  1
+  Pt  Pt7  1  0.153928  0.301450  0.501318  1
+  Pt  Pt8  1  0.702551  0.851275  0.166667  1
+  Pt  Pt9  1  0.846072  0.147522  0.832015  1
+  Pt  Pt10  1  0.846072  0.698550  0.501318  1
+  Pt  Pt11  1  0.297449  0.148725  0.166667  1

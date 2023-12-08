@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Sc2Si2NiPt2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.90026500
+_cell_length_b   6.45819900
+_cell_length_c   8.63303000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc2Si2NiPt2
+_chemical_formula_sum   'Sc4 Si4 Ni2 Pt4'
+_cell_volume   217.45469504
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.000000  0.883648  0.328969  1
+  Sc  Sc1  1  0.000000  0.116352  0.671031  1
+  Sc  Sc2  1  0.000000  0.383648  0.171031  1
+  Sc  Sc3  1  0.000000  0.616352  0.828969  1
+  Si  Si4  1  0.500000  0.570477  0.356162  1
+  Si  Si5  1  0.500000  0.429523  0.643838  1
+  Si  Si6  1  0.500000  0.070477  0.143838  1
+  Si  Si7  1  0.500000  0.929523  0.856162  1
+  Ni  Ni8  1  0.000000  0.500000  0.500000  1
+  Ni  Ni9  1  0.000000  0.000000  0.000000  1
+  Pt  Pt10  1  0.500000  0.692227  0.085546  1
+  Pt  Pt11  1  0.500000  0.307773  0.914454  1
+  Pt  Pt12  1  0.500000  0.192227  0.414454  1
+  Pt  Pt13  1  0.500000  0.807773  0.585546  1

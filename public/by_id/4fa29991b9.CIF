@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HoErSi2NiOs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.23237400
+_cell_length_b   6.85907297
+_cell_length_c   7.12963127
+_cell_angle_alpha   91.56311890
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoErSi2NiOs
+_chemical_formula_sum   'Ho2 Er2 Si4 Ni2 Os2'
+_cell_volume   206.89733251
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.250000  0.488530  0.799333  1
+  Ho  Ho1  1  0.750000  0.511470  0.200667  1
+  Er  Er2  1  0.750000  0.011258  0.319308  1
+  Er  Er3  1  0.250000  0.988742  0.680692  1
+  Si  Si4  1  0.750000  0.696332  0.605504  1
+  Si  Si5  1  0.250000  0.303668  0.394496  1
+  Si  Si6  1  0.250000  0.799973  0.099409  1
+  Si  Si7  1  0.750000  0.200027  0.900591  1
+  Ni  Ni8  1  0.250000  0.663542  0.426050  1
+  Ni  Ni9  1  0.750000  0.336458  0.573950  1
+  Os  Os10  1  0.750000  0.843215  0.929930  1
+  Os  Os11  1  0.250000  0.156785  0.070070  1

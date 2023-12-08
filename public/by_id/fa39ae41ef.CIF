@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_CeY2(InIr)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.53428216
+_cell_length_b   7.74046806
+_cell_length_c   3.93154500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.90947359
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeY2(InIr)3
+_chemical_formula_sum   'Ce1 Y2 In3 Ir3'
+_cell_volume   196.72045031
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.000000  0.582312  0.000000  1
+  Y  Y1  1  0.404864  0.405852  0.000000  1
+  Y  Y2  1  0.595136  0.000988  0.000000  1
+  In  In3  1  0.000000  0.247360  0.500000  1
+  In  In4  1  0.736601  0.742370  0.500000  1
+  In  In5  1  0.263399  0.005768  0.500000  1
+  Ir  Ir6  1  0.000000  0.997928  0.000000  1
+  Ir  Ir7  1  0.315672  0.666548  0.500000  1
+  Ir  Ir8  1  0.684328  0.350875  0.500000  1

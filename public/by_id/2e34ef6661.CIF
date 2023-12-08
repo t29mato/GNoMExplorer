@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ce2Re3Tc
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.26216600
+_cell_length_b   5.26216512
+_cell_length_c   9.55017900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999294
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2Re3Tc
+_chemical_formula_sum   'Ce4 Re6 Tc2'
+_cell_volume   229.01882931
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.333334  0.666667  0.060779  1
+  Ce  Ce1  1  0.333334  0.666667  0.439222  1
+  Ce  Ce2  1  0.666667  0.333334  0.560779  1
+  Ce  Ce3  1  0.666667  0.333334  0.939221  1
+  Re  Re4  1  0.338516  0.169258  0.250000  1
+  Re  Re5  1  0.830743  0.169258  0.250000  1
+  Re  Re6  1  0.830742  0.661484  0.250000  1
+  Re  Re7  1  0.169257  0.338515  0.750001  1
+  Re  Re8  1  0.169257  0.830742  0.750001  1
+  Re  Re9  1  0.661485  0.830742  0.750001  1
+  Tc  Tc10  1  0.000000  0.000000  0.000000  1
+  Tc  Tc11  1  0.000000  0.000000  0.500000  1

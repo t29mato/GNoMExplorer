@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Hf4TaNb3Si3P
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.60452700
+_cell_length_b   6.97140676
+_cell_length_c   8.40939713
+_cell_angle_alpha   89.70654772
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf4TaNb3Si3P
+_chemical_formula_sum   'Hf4 Ta1 Nb3 Si3 P1'
+_cell_volume   211.31380592
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.250000  0.042321  0.667599  1
+  Hf  Hf1  1  0.250000  0.538735  0.834395  1
+  Hf  Hf2  1  0.750000  0.460199  0.167177  1
+  Hf  Hf3  1  0.750000  0.957302  0.335028  1
+  Ta  Ta4  1  0.250000  0.631795  0.440150  1
+  Nb  Nb5  1  0.750000  0.867157  0.939785  1
+  Nb  Nb6  1  0.750000  0.364149  0.561760  1
+  Nb  Nb7  1  0.250000  0.137899  0.055718  1
+  Si  Si8  1  0.250000  0.254604  0.357896  1
+  Si  Si9  1  0.250000  0.758192  0.141791  1
+  Si  Si10  1  0.750000  0.744308  0.641731  1
+  P  P11  1  0.750000  0.243340  0.856971  1

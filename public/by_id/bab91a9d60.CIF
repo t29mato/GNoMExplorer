@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ta9Ti(Si2Ge)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.57624694
+_cell_length_b   7.57624672
+_cell_length_c   7.57624701
+_cell_angle_alpha   128.52370777
+_cell_angle_beta   128.52370556
+_cell_angle_gamma   75.77816907
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta9Ti(Si2Ge)2
+_chemical_formula_sum   'Ta9 Ti1 Si4 Ge2'
+_cell_volume   258.88536997
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.015407  0.187740  0.500556  1
+  Ta  Ta1  1  0.687184  0.514850  0.499444  1
+  Ta  Ta2  1  0.514850  0.015407  0.827667  1
+  Ta  Ta3  1  0.187740  0.687184  0.172333  1
+  Ta  Ta4  1  0.984593  0.812260  0.499444  1
+  Ta  Ta5  1  0.312816  0.485150  0.500556  1
+  Ta  Ta6  1  0.485150  0.984593  0.172333  1
+  Ta  Ta7  1  0.812260  0.312816  0.827667  1
+  Ta  Ta8  1  0.500000  0.500000  0.000000  1
+  Ti  Ti9  1  0.000000  0.000000  0.000000  1
+  Si  Si10  1  0.365419  0.128053  0.493472  1
+  Si  Si11  1  0.634581  0.871947  0.506528  1
+  Si  Si12  1  0.871947  0.365419  0.237366  1
+  Si  Si13  1  0.128053  0.634581  0.762634  1
+  Ge  Ge14  1  0.751347  0.751347  0.000000  1
+  Ge  Ge15  1  0.248653  0.248653  0.000000  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_DyEr(Th2Fe)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.67879400
+_cell_length_b   9.67879358
+_cell_length_c   6.18806400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000143
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyEr(Th2Fe)6
+_chemical_formula_sum   'Dy1 Er1 Th12 Fe6'
+_cell_volume   502.02794980
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.333333  0.666667  0.036127  1
+  Er  Er1  1  0.666667  0.333333  0.535948  1
+  Th  Th2  1  0.125841  0.874159  0.249895  1
+  Th  Th3  1  0.252312  0.126156  0.749665  1
+  Th  Th4  1  0.873844  0.747688  0.749665  1
+  Th  Th5  1  0.125841  0.251683  0.249895  1
+  Th  Th6  1  0.748317  0.874159  0.249895  1
+  Th  Th7  1  0.873844  0.126156  0.749665  1
+  Th  Th8  1  0.541279  0.458721  0.068009  1
+  Th  Th9  1  0.082141  0.541070  0.567673  1
+  Th  Th10  1  0.458930  0.917859  0.567673  1
+  Th  Th11  1  0.541279  0.082558  0.068009  1
+  Th  Th12  1  0.917442  0.458721  0.068009  1
+  Th  Th13  1  0.458930  0.541070  0.567673  1
+  Fe  Fe14  1  0.819261  0.180739  0.280433  1
+  Fe  Fe15  1  0.638809  0.819405  0.780301  1
+  Fe  Fe16  1  0.180595  0.361191  0.780301  1
+  Fe  Fe17  1  0.819261  0.638521  0.280433  1
+  Fe  Fe18  1  0.361479  0.180739  0.280433  1
+  Fe  Fe19  1  0.180595  0.819405  0.780301  1

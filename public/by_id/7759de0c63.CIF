@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Na(MnS2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.89104751
+_cell_length_b   7.89104757
+_cell_length_c   7.89104812
+_cell_angle_alpha   43.15692333
+_cell_angle_beta   43.15693938
+_cell_angle_gamma   43.15693113
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na(MnS2)3
+_chemical_formula_sum   'Na1 Mn3 S6'
+_cell_volume   208.43701816
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.000000  0.000000  0.000000  1
+  Mn  Mn1  1  0.500000  0.500000  0.500000  1
+  Mn  Mn2  1  0.168032  0.168032  0.168032  1
+  Mn  Mn3  1  0.831968  0.831968  0.831968  1
+  S  S4  1  0.563665  0.227234  0.893177  1
+  S  S5  1  0.893177  0.563665  0.227234  1
+  S  S6  1  0.227234  0.893177  0.563665  1
+  S  S7  1  0.772766  0.106823  0.436335  1
+  S  S8  1  0.106823  0.436335  0.772766  1
+  S  S9  1  0.436335  0.772766  0.106823  1

@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Si3Ni8Ge(Mo3C)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.85851523
+_cell_length_b   7.86445891
+_cell_length_c   7.86446000
+_cell_angle_alpha   60.00000384
+_cell_angle_beta   59.97498128
+_cell_angle_gamma   59.97497842
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Si3Ni8Ge(Mo3C)4
+_chemical_formula_sum   'Si3 Ni8 Ge1 Mo12 C4'
+_cell_volume   343.55709753
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.125000  0.125000  0.125000  1
+  Si  Si1  1  0.125000  0.125000  0.625000  1
+  Si  Si2  1  0.125000  0.625000  0.125000  1
+  Ni  Ni3  1  0.922964  0.915330  0.246377  1
+  Ni  Ni4  1  0.327036  0.334670  0.334670  1
+  Ni  Ni5  1  0.244585  0.918472  0.918472  1
+  Ni  Ni6  1  0.327036  0.003623  0.334670  1
+  Ni  Ni7  1  0.005415  0.331528  0.331528  1
+  Ni  Ni8  1  0.327036  0.334670  0.003623  1
+  Ni  Ni9  1  0.922964  0.915330  0.915330  1
+  Ni  Ni10  1  0.922964  0.246377  0.915330  1
+  Ge  Ge11  1  0.625000  0.125000  0.125000  1
+  Mo  Mo12  1  0.692007  0.309816  0.309816  1
+  Mo  Mo13  1  0.941645  0.941462  0.558447  1
+  Mo  Mo14  1  0.692007  0.688360  0.309816  1
+  Mo  Mo15  1  0.692007  0.309816  0.688360  1
+  Mo  Mo16  1  0.308355  0.691553  0.308538  1
+  Mo  Mo17  1  0.557993  0.940184  0.561640  1
+  Mo  Mo18  1  0.557993  0.940184  0.940184  1
+  Mo  Mo19  1  0.941645  0.558447  0.558447  1
+  Mo  Mo20  1  0.941645  0.558447  0.941462  1
+  Mo  Mo21  1  0.308355  0.308538  0.691553  1
+  Mo  Mo22  1  0.557993  0.561640  0.940184  1
+  Mo  Mo23  1  0.308355  0.691553  0.691553  1
+  C  C24  1  0.625000  0.625000  0.625000  1
+  C  C25  1  0.625000  0.625000  0.125000  1
+  C  C26  1  0.125000  0.625000  0.625000  1
+  C  C27  1  0.625000  0.125000  0.625000  1

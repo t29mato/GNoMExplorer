@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Ca2PrPaN4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.32030395
+_cell_length_b   6.31949044
+_cell_length_c   4.96102503
+_cell_angle_alpha   66.87913775
+_cell_angle_beta   66.88167949
+_cell_angle_gamma   46.21934834
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2PrPaN4
+_chemical_formula_sum   'Ca2 Pr1 Pa1 N4'
+_cell_volume   129.37041131
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.247425  0.252575  0.252575  1
+  Ca  Ca1  1  0.497581  0.502419  0.502419  1
+  Pr  Pr2  1  0.747486  0.752514  0.752514  1
+  Pa  Pa3  1  0.998821  0.001179  0.001179  1
+  N  N4  1  0.992208  0.997679  0.512212  1
+  N  N5  1  0.207037  0.212047  0.793441  1
+  N  N6  1  0.497900  0.512212  0.997679  1
+  N  N7  1  0.787475  0.793441  0.212047  1

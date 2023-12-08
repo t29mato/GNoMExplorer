@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Sr5(CuPd)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   15.21160815
+_cell_length_b   15.21160834
+_cell_length_c   4.40978000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   163.19198321
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr5(CuPd)3
+_chemical_formula_sum   'Sr5 Cu3 Pd3'
+_cell_volume   295.06250650
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.999488  0.000512  0.000000  1
+  Sr  Sr1  1  0.613052  0.386946  0.000000  1
+  Sr  Sr2  1  0.386980  0.613018  0.000000  1
+  Sr  Sr3  1  0.803690  0.196308  0.500001  1
+  Sr  Sr4  1  0.196854  0.803144  0.500001  1
+  Cu  Cu5  1  0.272991  0.727007  0.000000  1
+  Cu  Cu6  1  0.458382  0.541616  0.500001  1
+  Cu  Cu7  1  0.083164  0.916835  0.500001  1
+  Pd  Pd8  1  0.727130  0.272868  0.000000  1
+  Pd  Pd9  1  0.915691  0.084308  0.500001  1
+  Pd  Pd10  1  0.542568  0.457430  0.500001  1

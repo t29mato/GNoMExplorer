@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Dy2Al2PdPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.45079100
+_cell_length_b   6.90471358
+_cell_length_c   7.76719772
+_cell_angle_alpha   89.29290348
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy2Al2PdPt
+_chemical_formula_sum   'Dy4 Al4 Pd2 Pt2'
+_cell_volume   238.67897102
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.250000  0.471388  0.180333  1
+  Dy  Dy1  1  0.750000  0.528612  0.819667  1
+  Dy  Dy2  1  0.750000  0.033601  0.681807  1
+  Dy  Dy3  1  0.250000  0.966399  0.318193  1
+  Al  Al4  1  0.250000  0.853491  0.938044  1
+  Al  Al5  1  0.750000  0.146509  0.061956  1
+  Al  Al6  1  0.750000  0.648574  0.436527  1
+  Al  Al7  1  0.250000  0.351426  0.563473  1
+  Pd  Pd8  1  0.250000  0.724244  0.616818  1
+  Pd  Pd9  1  0.750000  0.275756  0.383182  1
+  Pt  Pt10  1  0.750000  0.774030  0.116673  1
+  Pt  Pt11  1  0.250000  0.225970  0.883327  1

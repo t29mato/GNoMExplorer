@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_LuZr3(CuS4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.50888706
+_cell_length_b   7.50888750
+_cell_length_c   7.50888907
+_cell_angle_alpha   58.91184921
+_cell_angle_beta   58.91184707
+_cell_angle_gamma   58.91185050
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuZr3(CuS4)2
+_chemical_formula_sum   'Lu1 Zr3 Cu2 S8'
+_cell_volume   291.93786257
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.500000  0.500000  0.500000  1
+  Zr  Zr1  1  0.000000  0.500000  0.500000  1
+  Zr  Zr2  1  0.500000  0.500000  0.000000  1
+  Zr  Zr3  1  0.500000  0.000000  0.500000  1
+  Cu  Cu4  1  0.124146  0.124146  0.124146  1
+  Cu  Cu5  1  0.875854  0.875854  0.875854  1
+  S  S6  1  0.749269  0.749269  0.749269  1
+  S  S7  1  0.256240  0.752393  0.752393  1
+  S  S8  1  0.752393  0.752393  0.256240  1
+  S  S9  1  0.752393  0.256240  0.752393  1
+  S  S10  1  0.250731  0.250731  0.250731  1
+  S  S11  1  0.743760  0.247607  0.247607  1
+  S  S12  1  0.247607  0.247607  0.743760  1
+  S  S13  1  0.247607  0.743760  0.247607  1

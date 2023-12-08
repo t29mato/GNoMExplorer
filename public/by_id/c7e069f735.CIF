@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SmThTc3Os
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.28377100
+_cell_length_b   5.28377132
+_cell_length_c   9.55238100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000423
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmThTc3Os
+_chemical_formula_sum   'Sm2 Th2 Tc6 Os2'
+_cell_volume   230.95653210
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.333333  0.666667  0.437508  1
+  Sm  Sm1  1  0.666667  0.333333  0.562492  1
+  Th  Th2  1  0.666667  0.333333  0.935126  1
+  Th  Th3  1  0.333333  0.666667  0.064874  1
+  Tc  Tc4  1  0.830378  0.169622  0.253239  1
+  Tc  Tc5  1  0.830378  0.660758  0.253239  1
+  Tc  Tc6  1  0.339242  0.169622  0.253239  1
+  Tc  Tc7  1  0.169622  0.830378  0.746761  1
+  Tc  Tc8  1  0.169622  0.339242  0.746761  1
+  Tc  Tc9  1  0.660758  0.830378  0.746761  1
+  Os  Os10  1  0.000000  0.000000  0.500000  1
+  Os  Os11  1  0.000000  0.000000  0.000000  1

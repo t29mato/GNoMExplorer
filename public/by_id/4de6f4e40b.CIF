@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Er4Si4TcIr2Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.27551200
+_cell_length_b   6.88981527
+_cell_length_c   7.28220750
+_cell_angle_alpha   89.95746787
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er4Si4TcIr2Rh
+_chemical_formula_sum   'Er4 Si4 Tc1 Ir2 Rh1'
+_cell_volume   214.51547991
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.750000  0.492813  0.811053  1
+  Er  Er1  1  0.250000  0.004058  0.314066  1
+  Er  Er2  1  0.750000  0.998920  0.685642  1
+  Er  Er3  1  0.250000  0.510357  0.188198  1
+  Si  Si4  1  0.250000  0.699367  0.616769  1
+  Si  Si5  1  0.250000  0.200940  0.893623  1
+  Si  Si6  1  0.750000  0.297826  0.387822  1
+  Si  Si7  1  0.750000  0.798889  0.101423  1
+  Tc  Tc8  1  0.250000  0.845175  0.934280  1
+  Ir  Ir9  1  0.250000  0.339658  0.564706  1
+  Ir  Ir10  1  0.750000  0.159152  0.067724  1
+  Rh  Rh11  1  0.750000  0.652847  0.434694  1

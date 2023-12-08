@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CaCuBrO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.72164600
+_cell_length_b   3.87059000
+_cell_length_c   15.64341400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaCuBrO
+_chemical_formula_sum   'Ca4 Cu4 Br4 O4'
+_cell_volume   346.44132712
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.260492  0.750001  0.101080  1
+  Ca  Ca1  1  0.760492  0.750001  0.398921  1
+  Ca  Ca2  1  0.239509  0.250000  0.601079  1
+  Ca  Ca3  1  0.739509  0.250000  0.898921  1
+  Cu  Cu4  1  0.529183  0.250000  0.248800  1
+  Cu  Cu5  1  0.029183  0.250000  0.251200  1
+  Cu  Cu6  1  0.970816  0.750001  0.748800  1
+  Cu  Cu7  1  0.470816  0.750001  0.751200  1
+  Br  Br8  1  0.756449  0.750001  0.052566  1
+  Br  Br9  1  0.256448  0.750001  0.447434  1
+  Br  Br10  1  0.743551  0.250000  0.552566  1
+  Br  Br11  1  0.243550  0.250000  0.947434  1
+  O  O12  1  0.276466  0.250000  0.175763  1
+  O  O13  1  0.776466  0.250000  0.324237  1
+  O  O14  1  0.223534  0.750001  0.675763  1
+  O  O15  1  0.723534  0.750001  0.824237  1

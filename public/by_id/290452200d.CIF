@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Li7Zn(SiPd3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.92623896
+_cell_length_b   6.92623953
+_cell_length_c   6.92623863
+_cell_angle_alpha   59.93628837
+_cell_angle_beta   59.93627847
+_cell_angle_gamma   59.93627861
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li7Zn(SiPd3)2
+_chemical_formula_sum   'Li7 Zn1 Si2 Pd6'
+_cell_volume   234.61151366
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.727957  0.727957  0.727957  1
+  Li  Li1  1  0.565302  0.839835  0.338863  1
+  Li  Li2  1  0.338863  0.565302  0.839835  1
+  Li  Li3  1  0.839835  0.338863  0.565302  1
+  Li  Li4  1  0.653877  0.160063  0.443821  1
+  Li  Li5  1  0.160063  0.443821  0.653877  1
+  Li  Li6  1  0.443821  0.653877  0.160063  1
+  Zn  Zn7  1  0.279174  0.279174  0.279174  1
+  Si  Si8  1  0.896300  0.896300  0.896300  1
+  Si  Si9  1  0.096197  0.096197  0.096197  1
+  Pd  Pd10  1  0.901810  0.492767  0.107618  1
+  Pd  Pd11  1  0.107618  0.901810  0.492767  1
+  Pd  Pd12  1  0.492767  0.107618  0.901810  1
+  Pd  Pd13  1  0.254131  0.009333  0.732951  1
+  Pd  Pd14  1  0.732951  0.254131  0.009333  1
+  Pd  Pd15  1  0.009333  0.732951  0.254131  1

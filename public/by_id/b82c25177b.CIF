@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Lu2Mg2IrPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.09814100
+_cell_length_b   6.94606434
+_cell_length_c   8.52857500
+_cell_angle_alpha   88.81496212
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2Mg2IrPt
+_chemical_formula_sum   'Lu4 Mg4 Ir2 Pt2'
+_cell_volume   242.72207345
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.250000  0.533826  0.168635  1
+  Lu  Lu1  1  0.750000  0.466174  0.831365  1
+  Lu  Lu2  1  0.750000  0.956192  0.680807  1
+  Lu  Lu3  1  0.250000  0.043808  0.319193  1
+  Mg  Mg4  1  0.250000  0.638062  0.563825  1
+  Mg  Mg5  1  0.750000  0.361938  0.436175  1
+  Mg  Mg6  1  0.750000  0.863574  0.061035  1
+  Mg  Mg7  1  0.250000  0.136426  0.938965  1
+  Ir  Ir8  1  0.250000  0.747588  0.871899  1
+  Ir  Ir9  1  0.750000  0.252412  0.128101  1
+  Pt  Pt10  1  0.750000  0.752640  0.376045  1
+  Pt  Pt11  1  0.250000  0.247360  0.623955  1

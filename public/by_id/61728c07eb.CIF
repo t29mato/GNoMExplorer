@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_La12Sn(OsBr4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.91891169
+_cell_length_b   10.91891194
+_cell_length_c   10.91891134
+_cell_angle_alpha   110.33359521
+_cell_angle_beta   110.33359666
+_cell_angle_gamma   110.33359501
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La12Sn(OsBr4)3
+_chemical_formula_sum   'La12 Sn1 Os3 Br12'
+_cell_volume   968.79679247
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.476621  0.505324  0.226660  1
+  La  La1  1  0.750000  0.231709  0.268291  1
+  La  La2  1  0.750000  0.015532  0.484468  1
+  La  La3  1  0.226660  0.476621  0.505324  1
+  La  La4  1  0.268291  0.750000  0.231709  1
+  La  La5  1  0.023379  0.273340  0.994676  1
+  La  La6  1  0.994676  0.023379  0.273340  1
+  La  La7  1  0.484468  0.750000  0.015532  1
+  La  La8  1  0.505324  0.226660  0.476621  1
+  La  La9  1  0.015532  0.484468  0.750000  1
+  La  La10  1  0.273340  0.994676  0.023379  1
+  La  La11  1  0.231709  0.268291  0.750000  1
+  Sn  Sn12  1  0.250000  0.250000  0.250000  1
+  Os  Os13  1  0.501752  0.998248  0.250000  1
+  Os  Os14  1  0.998248  0.250000  0.501752  1
+  Os  Os15  1  0.250000  0.501752  0.998248  1
+  Br  Br16  1  0.250000  0.757512  0.742488  1
+  Br  Br17  1  0.502611  0.497364  0.748442  1
+  Br  Br18  1  0.997389  0.751558  0.002636  1
+  Br  Br19  1  0.742488  0.250000  0.757512  1
+  Br  Br20  1  0.002636  0.997389  0.751558  1
+  Br  Br21  1  0.250000  0.003660  0.496340  1
+  Br  Br22  1  0.748442  0.502611  0.497364  1
+  Br  Br23  1  0.496340  0.250000  0.003660  1
+  Br  Br24  1  0.757512  0.742488  0.250000  1
+  Br  Br25  1  0.751558  0.002636  0.997389  1
+  Br  Br26  1  0.003660  0.496340  0.250000  1
+  Br  Br27  1  0.497364  0.748442  0.502611  1

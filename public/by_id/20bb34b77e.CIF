@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Tb2Sm3(FeB3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.44069509
+_cell_length_b   5.44069475
+_cell_length_c   8.45494799
+_cell_angle_alpha   71.23142620
+_cell_angle_beta   71.23142876
+_cell_angle_gamma   59.99999970
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2Sm3(FeB3)2
+_chemical_formula_sum   'Tb2 Sm3 Fe2 B6'
+_cell_volume   201.23197245
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.581611  0.581611  0.255166  1
+  Tb  Tb1  1  0.418389  0.418389  0.744834  1
+  Sm  Sm2  1  0.000000  0.000000  0.000000  1
+  Sm  Sm3  1  0.747495  0.747495  0.757516  1
+  Sm  Sm4  1  0.252505  0.252505  0.242484  1
+  Fe  Fe5  1  0.880254  0.880254  0.359240  1
+  Fe  Fe6  1  0.119746  0.119746  0.640760  1
+  B  B7  1  0.500000  0.167196  0.500000  1
+  B  B8  1  0.832804  0.500000  0.500000  1
+  B  B9  1  0.167196  0.832804  0.500000  1
+  B  B10  1  0.167196  0.500000  0.500000  1
+  B  B11  1  0.832804  0.167196  0.500000  1
+  B  B12  1  0.500000  0.832804  0.500000  1

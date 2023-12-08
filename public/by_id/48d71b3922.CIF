@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ho4Si4Ir3Os
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.26298000
+_cell_length_b   6.86450989
+_cell_length_c   7.34401415
+_cell_angle_alpha   90.10567621
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho4Si4Ir3Os
+_chemical_formula_sum   'Ho4 Si4 Ir3 Os1'
+_cell_volume   214.90949157
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.750000  0.501079  0.814288  1
+  Ho  Ho1  1  0.250000  0.994938  0.313296  1
+  Ho  Ho2  1  0.750000  0.002200  0.687514  1
+  Ho  Ho3  1  0.250000  0.499886  0.185531  1
+  Si  Si4  1  0.250000  0.798978  0.883907  1
+  Si  Si5  1  0.250000  0.301435  0.608928  1
+  Si  Si6  1  0.750000  0.200560  0.111978  1
+  Si  Si7  1  0.750000  0.700711  0.395868  1
+  Ir  Ir8  1  0.250000  0.158953  0.934676  1
+  Ir  Ir9  1  0.750000  0.842811  0.065476  1
+  Ir  Ir10  1  0.750000  0.341572  0.433368  1
+  Os  Os11  1  0.250000  0.656877  0.565169  1

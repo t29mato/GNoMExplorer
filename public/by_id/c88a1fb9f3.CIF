@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_LiThGe2Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.09238053
+_cell_length_b   6.09238015
+_cell_length_c   6.09238106
+_cell_angle_alpha   139.61614358
+_cell_angle_beta   139.61613422
+_cell_angle_gamma   58.43660321
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiThGe2Pt
+_chemical_formula_sum   'Li1 Th1 Ge2 Pt1'
+_cell_volume   94.05351994
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.750000  0.250000  0.500000  1
+  Th  Th1  1  0.000000  0.000000  0.000000  1
+  Ge  Ge2  1  0.618172  0.618172  0.000000  1
+  Ge  Ge3  1  0.381828  0.381828  0.000000  1
+  Pt  Pt4  1  0.250000  0.750000  0.500000  1

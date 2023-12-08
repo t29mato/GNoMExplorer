@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Pa4Si3Ge3Os7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.13041421
+_cell_length_b   7.13041413
+_cell_length_c   7.15752500
+_cell_angle_alpha   109.54826233
+_cell_angle_beta   109.54826207
+_cell_angle_gamma   109.39406568
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pa4Si3Ge3Os7
+_chemical_formula_sum   'Pa4 Si3 Ge3 Os7'
+_cell_volume   279.87023101
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.000000  0.000000  0.483310  1
+  Pa  Pa1  1  0.000000  0.505825  0.001118  1
+  Pa  Pa2  1  0.505825  0.000000  0.001118  1
+  Pa  Pa3  1  0.494175  0.494175  0.495294  1
+  Si  Si4  1  0.678442  0.678442  0.996420  1
+  Si  Si5  1  0.321558  0.000000  0.317980  1
+  Si  Si6  1  0.000000  0.321558  0.317980  1
+  Ge  Ge7  1  0.302279  0.302279  0.994919  1
+  Ge  Ge8  1  0.697721  0.000000  0.692639  1
+  Ge  Ge9  1  0.000000  0.697721  0.692639  1
+  Os  Os10  1  0.749895  0.250080  0.496898  1
+  Os  Os11  1  0.749920  0.499816  0.246818  1
+  Os  Os12  1  0.500184  0.250105  0.747002  1
+  Os  Os13  1  0.250105  0.500184  0.747002  1
+  Os  Os14  1  0.250080  0.749895  0.496898  1
+  Os  Os15  1  0.499816  0.749920  0.246818  1
+  Os  Os16  1  0.000000  0.000000  0.025145  1

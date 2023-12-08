@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ba3HoNiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.12740227
+_cell_length_b   7.12740214
+_cell_length_c   7.12740317
+_cell_angle_alpha   93.58045673
+_cell_angle_beta   93.58046034
+_cell_angle_gamma   93.58045184
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3HoNiO6
+_chemical_formula_sum   'Ba6 Ho2 Ni2 O12'
+_cell_volume   359.85802758
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.379751  0.120248  0.750000  1
+  Ba  Ba1  1  0.750000  0.379752  0.120249  1
+  Ba  Ba2  1  0.249999  0.620249  0.879752  1
+  Ba  Ba3  1  0.620248  0.879751  0.250001  1
+  Ba  Ba4  1  0.120249  0.750000  0.379752  1
+  Ba  Ba5  1  0.879751  0.250000  0.620249  1
+  Ho  Ho6  1  0.750000  0.750001  0.750000  1
+  Ho  Ho7  1  0.250001  0.250000  0.250000  1
+  Ni  Ni8  1  0.500000  0.500000  0.500000  1
+  Ni  Ni9  1  0.000000  0.000000  0.000000  1
+  O  O10  1  0.783506  0.593290  0.466857  1
+  O  O11  1  0.593291  0.466856  0.783506  1
+  O  O12  1  0.466856  0.783506  0.593291  1
+  O  O13  1  0.033143  0.906710  0.716495  1
+  O  O14  1  0.906709  0.716494  0.033143  1
+  O  O15  1  0.716495  0.033143  0.906709  1
+  O  O16  1  0.216495  0.406709  0.533144  1
+  O  O17  1  0.406709  0.533143  0.216495  1
+  O  O18  1  0.533143  0.216495  0.406708  1
+  O  O19  1  0.966857  0.093291  0.283506  1
+  O  O20  1  0.283506  0.966856  0.093290  1
+  O  O21  1  0.093290  0.283505  0.966856  1

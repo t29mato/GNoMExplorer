@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_K2NpTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.11023035
+_cell_length_b   8.11023023
+_cell_length_c   8.60341938
+_cell_angle_alpha   80.98949924
+_cell_angle_beta   80.98949972
+_cell_angle_gamma   120.09734598
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2NpTe3
+_chemical_formula_sum   'K4 Np2 Te6'
+_cell_volume   464.88706777
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.344310  0.655690  0.500000  1
+  K  K1  1  0.655060  0.344940  0.500000  1
+  K  K2  1  0.000790  0.999210  0.500000  1
+  K  K3  1  0.500239  0.499761  0.000000  1
+  Np  Np4  1  0.167832  0.832168  0.000000  1
+  Np  Np5  1  0.832183  0.167817  0.000000  1
+  Te  Te6  1  0.799595  0.799237  0.208932  1
+  Te  Te7  1  0.428684  0.058291  0.212467  1
+  Te  Te8  1  0.058167  0.429332  0.212498  1
+  Te  Te9  1  0.570668  0.941833  0.787502  1
+  Te  Te10  1  0.941709  0.571316  0.787533  1
+  Te  Te11  1  0.200763  0.200405  0.791068  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_LiTi5(Co2Si)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.05557000
+_cell_length_b   5.70467200
+_cell_length_c   12.13564500
+_cell_angle_alpha   90.00146622
+_cell_angle_beta   89.99801485
+_cell_angle_gamma   90.00324768
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTi5(Co2Si)6
+_chemical_formula_sum   'Li1 Ti5 Co12 Si6'
+_cell_volume   280.76660069
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.000000  0.500000  0.000000  1
+  Ti  Ti1  1  0.500137  0.000042  0.163265  1
+  Ti  Ti2  1  0.000122  0.500009  0.330623  1
+  Ti  Ti3  1  0.500000  0.000000  0.500000  1
+  Ti  Ti4  1  0.999878  0.499991  0.669377  1
+  Ti  Ti5  1  0.499863  0.999958  0.836735  1
+  Co  Co6  1  0.499920  0.248675  0.999988  1
+  Co  Co7  1  0.500080  0.751324  0.000012  1
+  Co  Co8  1  0.000170  0.249245  0.166896  1
+  Co  Co9  1  0.000125  0.750836  0.166941  1
+  Co  Co10  1  0.500109  0.251003  0.332710  1
+  Co  Co11  1  0.500146  0.748980  0.332681  1
+  Co  Co12  1  0.000022  0.248728  0.499989  1
+  Co  Co13  1  0.999978  0.751271  0.500011  1
+  Co  Co14  1  0.499855  0.251019  0.667318  1
+  Co  Co15  1  0.499892  0.748996  0.667289  1
+  Co  Co16  1  0.999876  0.249163  0.833059  1
+  Co  Co17  1  0.999831  0.750754  0.833104  1
+  Si  Si18  1  0.000000  0.000000  0.000000  1
+  Si  Si19  1  0.500129  0.500032  0.161257  1
+  Si  Si20  1  0.000116  0.000005  0.330980  1
+  Si  Si21  1  0.500000  0.500000  0.500000  1
+  Si  Si22  1  0.999884  0.999995  0.669020  1
+  Si  Si23  1  0.499871  0.499968  0.838742  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ta3FeCo(B2Mo)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.20760100
+_cell_length_b   4.58234403
+_cell_length_c   10.97975914
+_cell_angle_alpha   89.86430937
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   110.48705604
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta3FeCo(B2Mo)3
+_chemical_formula_sum   'Ta3 Fe1 Co1 B6 Mo3'
+_cell_volume   151.17631435
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.206517  0.413034  0.393234  1
+  Ta  Ta1  1  0.794671  0.589342  0.608064  1
+  Ta  Ta2  1  0.208590  0.417181  0.103129  1
+  Fe  Fe3  1  0.499982  0.999964  0.501066  1
+  Co  Co4  1  0.499031  0.998063  0.998008  1
+  B  B5  1  0.912466  0.824933  0.392699  1
+  B  B6  1  0.088729  0.177458  0.608035  1
+  B  B7  1  0.914323  0.828645  0.104147  1
+  B  B8  1  0.086479  0.172960  0.895861  1
+  B  B9  1  0.794167  0.588335  0.248141  1
+  B  B10  1  0.206801  0.413600  0.752569  1
+  Mo  Mo11  1  0.788101  0.576202  0.892845  1
+  Mo  Mo12  1  0.498244  0.996488  0.248526  1
+  Mo  Mo13  1  0.501898  0.003796  0.753675  1

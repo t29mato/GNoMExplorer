@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_La12Si(GeCl4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.29437319
+_cell_length_b   10.29437286
+_cell_length_c   10.29437300
+_cell_angle_alpha   109.43427798
+_cell_angle_beta   109.43427143
+_cell_angle_gamma   109.43427743
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La12Si(GeCl4)3
+_chemical_formula_sum   'La12 Si1 Ge3 Cl12'
+_cell_volume   840.95052113
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.491141  0.493343  0.247353  1
+  La  La1  1  0.749988  0.247001  0.253003  1
+  La  La2  1  0.750016  0.003427  0.496648  1
+  La  La3  1  0.247326  0.491143  0.493375  1
+  La  La4  1  0.252991  0.750021  0.247001  1
+  La  La5  1  0.008850  0.252669  0.006614  1
+  La  La6  1  0.006660  0.008853  0.252648  1
+  La  La7  1  0.496582  0.749988  0.003350  1
+  La  La8  1  0.493408  0.247341  0.491175  1
+  La  La9  1  0.003401  0.496599  0.749993  1
+  La  La10  1  0.252657  0.006605  0.008833  1
+  La  La11  1  0.246983  0.253014  0.750010  1
+  Si  Si12  1  0.249993  0.250014  0.249997  1
+  Ge  Ge13  1  0.500057  0.999939  0.249999  1
+  Ge  Ge14  1  0.999931  0.249987  0.500034  1
+  Ge  Ge15  1  0.250008  0.500085  0.999955  1
+  Cl  Cl16  1  0.249983  0.752148  0.747825  1
+  Cl  Cl17  1  0.505231  0.502815  0.753207  1
+  Cl  Cl18  1  0.994755  0.746771  0.997151  1
+  Cl  Cl19  1  0.747849  0.250015  0.752175  1
+  Cl  Cl20  1  0.997189  0.994771  0.746799  1
+  Cl  Cl21  1  0.250008  0.997126  0.502902  1
+  Cl  Cl22  1  0.753231  0.505243  0.502853  1
+  Cl  Cl23  1  0.502871  0.250000  0.997103  1
+  Cl  Cl24  1  0.752156  0.747848  0.250002  1
+  Cl  Cl25  1  0.746792  0.997173  0.994780  1
+  Cl  Cl26  1  0.997132  0.502865  0.249997  1
+  Cl  Cl27  1  0.502812  0.753195  0.505218  1

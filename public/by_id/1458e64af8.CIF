@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ErTh(AlCu)5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.09698300
+_cell_length_b   5.31627100
+_cell_length_c   9.04654200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErTh(AlCu)5
+_chemical_formula_sum   'Er1 Th1 Al5 Cu5'
+_cell_volume   197.03976323
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.000000  0.501135  0.500000  1
+  Th  Th1  1  0.000000  0.999299  0.000000  1
+  Al  Al2  1  0.500000  0.499633  0.000000  1
+  Al  Al3  1  0.500000  0.749657  0.262466  1
+  Al  Al4  1  0.500000  0.250394  0.737366  1
+  Al  Al5  1  0.500000  0.250394  0.262634  1
+  Al  Al6  1  0.500000  0.749657  0.737534  1
+  Cu  Cu7  1  0.000000  0.001170  0.342688  1
+  Cu  Cu8  1  0.000000  0.499141  0.827992  1
+  Cu  Cu9  1  0.000000  0.499141  0.172008  1
+  Cu  Cu10  1  0.000000  0.001170  0.657312  1
+  Cu  Cu11  1  0.500000  0.999409  0.500000  1

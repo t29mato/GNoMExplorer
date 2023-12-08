@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Na2TeRuO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.35279500
+_cell_length_b   5.35310152
+_cell_length_c   10.75400201
+_cell_angle_alpha   90.00336039
+_cell_angle_beta   90.00060338
+_cell_angle_gamma   119.99912019
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2TeRuO6
+_chemical_formula_sum   'Na4 Te2 Ru2 O12'
+_cell_volume   266.86442602
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.666668  0.333338  0.959684  1
+  Na  Na1  1  0.666658  0.333337  0.540313  1
+  Na  Na2  1  0.333342  0.666663  0.459687  1
+  Na  Na3  1  0.333332  0.666662  0.040316  1
+  Te  Te4  1  0.000020  0.999996  0.250008  1
+  Te  Te5  1  0.999980  0.000004  0.749992  1
+  Ru  Ru6  1  0.333243  0.666689  0.749986  1
+  Ru  Ru7  1  0.666757  0.333311  0.250014  1
+  O  O8  1  0.950164  0.667931  0.146265  1
+  O  O9  1  0.332109  0.282280  0.146255  1
+  O  O10  1  0.717683  0.049841  0.146273  1
+  O  O11  1  0.332099  0.049830  0.353723  1
+  O  O12  1  0.717689  0.667864  0.353719  1
+  O  O13  1  0.950143  0.282306  0.353730  1
+  O  O14  1  0.049836  0.332069  0.853735  1
+  O  O15  1  0.667891  0.717720  0.853745  1
+  O  O16  1  0.049857  0.717694  0.646270  1
+  O  O17  1  0.282311  0.332136  0.646281  1
+  O  O18  1  0.667901  0.950170  0.646277  1
+  O  O19  1  0.282317  0.950159  0.853727  1

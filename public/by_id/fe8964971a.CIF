@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Sr2Tb(CuO2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   13.40581836
+_cell_length_b   13.40581864
+_cell_length_c   3.67258000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   162.92832147
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2Tb(CuO2)4
+_chemical_formula_sum   'Sr2 Tb1 Cu4 O8'
+_cell_volume   193.76101900
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.361048  0.638952  0.500000  1
+  Sr  Sr1  1  0.638952  0.361048  0.500000  1
+  Tb  Tb2  1  0.500000  0.500000  0.500000  1
+  Cu  Cu3  1  0.064810  0.935190  0.000000  1
+  Cu  Cu4  1  0.935190  0.064810  0.000000  1
+  Cu  Cu5  1  0.213225  0.786775  0.000000  1
+  Cu  Cu6  1  0.786775  0.213225  0.000000  1
+  O  O7  1  0.143489  0.856511  0.000000  1
+  O  O8  1  0.856511  0.143489  0.000000  1
+  O  O9  1  0.558682  0.441318  0.000000  1
+  O  O10  1  0.441318  0.558682  0.000000  1
+  O  O11  1  0.050201  0.949799  0.500000  1
+  O  O12  1  0.949799  0.050201  0.500000  1
+  O  O13  1  0.715348  0.284652  0.000000  1
+  O  O14  1  0.284652  0.715348  0.000000  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_K2BaCaSb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.34705500
+_cell_length_b   8.76593700
+_cell_length_c   10.23459100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2BaCaSb2
+_chemical_formula_sum   'K4 Ba2 Ca2 Sb4'
+_cell_volume   479.71520964
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.500000  0.024678  0.417635  1
+  K  K1  1  0.000000  0.342388  0.340776  1
+  K  K2  1  0.500000  0.524678  0.582365  1
+  K  K3  1  0.000000  0.842388  0.659224  1
+  Ba  Ba4  1  0.000000  0.497279  0.945112  1
+  Ba  Ba5  1  0.000000  0.997279  0.054888  1
+  Ca  Ca6  1  0.500000  0.151818  0.816576  1
+  Ca  Ca7  1  0.500000  0.651818  0.183424  1
+  Sb  Sb8  1  0.000000  0.244702  0.677755  1
+  Sb  Sb9  1  0.500000  0.284654  0.113858  1
+  Sb  Sb10  1  0.000000  0.744702  0.322245  1
+  Sb  Sb11  1  0.500000  0.784654  0.886142  1

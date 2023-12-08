@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Y2Er2Pa(FeB3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.43055196
+_cell_length_b   5.43055062
+_cell_length_c   7.90405703
+_cell_angle_alpha   69.90796066
+_cell_angle_beta   69.90795607
+_cell_angle_gamma   60.00000410
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2Er2Pa(FeB3)2
+_chemical_formula_sum   'Y2 Er2 Pa1 Fe2 B6'
+_cell_volume   185.30716800
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.587957  0.587957  0.236132  1
+  Y  Y1  1  0.412043  0.412043  0.763868  1
+  Er  Er2  1  0.746311  0.746311  0.761067  1
+  Er  Er3  1  0.253689  0.253689  0.238933  1
+  Pa  Pa4  1  0.000000  0.000000  0.000000  1
+  Fe  Fe5  1  0.891846  0.891846  0.324461  1
+  Fe  Fe6  1  0.108154  0.108154  0.675539  1
+  B  B7  1  0.500000  0.166805  0.500000  1
+  B  B8  1  0.833195  0.500000  0.500000  1
+  B  B9  1  0.166805  0.833195  0.500000  1
+  B  B10  1  0.166805  0.500000  0.500000  1
+  B  B11  1  0.833195  0.166805  0.500000  1
+  B  B12  1  0.500000  0.833195  0.500000  1

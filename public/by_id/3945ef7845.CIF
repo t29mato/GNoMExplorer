@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Hf2Fe(SiPt)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.88242600
+_cell_length_b   6.45867900
+_cell_length_c   8.56993100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf2Fe(SiPt)2
+_chemical_formula_sum   'Hf4 Fe2 Si4 Pt4'
+_cell_volume   214.89396167
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.000000  0.875944  0.325492  1
+  Hf  Hf1  1  0.000000  0.124056  0.674508  1
+  Hf  Hf2  1  0.000000  0.375944  0.174508  1
+  Hf  Hf3  1  0.000000  0.624056  0.825492  1
+  Fe  Fe4  1  0.000000  0.500000  0.500000  1
+  Fe  Fe5  1  0.000000  0.000000  0.000000  1
+  Si  Si6  1  0.500000  0.566772  0.357891  1
+  Si  Si7  1  0.500000  0.433228  0.642109  1
+  Si  Si8  1  0.500000  0.066772  0.142109  1
+  Si  Si9  1  0.500000  0.933228  0.857891  1
+  Pt  Pt10  1  0.500000  0.687677  0.085888  1
+  Pt  Pt11  1  0.500000  0.312323  0.914112  1
+  Pt  Pt12  1  0.500000  0.187677  0.414112  1
+  Pt  Pt13  1  0.500000  0.812323  0.585888  1

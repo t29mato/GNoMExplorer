@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_SmHo4(FeB3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.41401686
+_cell_length_b   5.41401665
+_cell_length_c   8.22605471
+_cell_angle_alpha   70.78721160
+_cell_angle_beta   70.78721174
+_cell_angle_gamma   59.99999170
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmHo4(FeB3)2
+_chemical_formula_sum   'Sm1 Ho4 Fe2 B6'
+_cell_volume   193.15212685
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.000000  0.000000  0.000000  1
+  Ho  Ho1  1  0.250892  0.250892  0.247324  1
+  Ho  Ho2  1  0.749108  0.749108  0.752676  1
+  Ho  Ho3  1  0.416733  0.416733  0.749800  1
+  Ho  Ho4  1  0.583267  0.583267  0.250200  1
+  Fe  Fe5  1  0.117280  0.117280  0.648162  1
+  Fe  Fe6  1  0.882720  0.882720  0.351838  1
+  B  B7  1  0.167996  0.832004  0.500000  1
+  B  B8  1  0.832004  0.500000  0.500000  1
+  B  B9  1  0.500000  0.167996  0.500000  1
+  B  B10  1  0.167996  0.500000  0.500000  1
+  B  B11  1  0.500000  0.832004  0.500000  1
+  B  B12  1  0.832004  0.167996  0.500000  1

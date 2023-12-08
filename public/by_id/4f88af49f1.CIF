@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LaTh3(InPt2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.05638443
+_cell_length_b   8.05638353
+_cell_length_c   3.78878300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   89.33753329
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaTh3(InPt2)2
+_chemical_formula_sum   'La1 Th3 In2 Pt4'
+_cell_volume   245.89574655
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.174281  0.674281  0.500000  1
+  Th  Th1  1  0.671836  0.827169  0.500000  1
+  Th  Th2  1  0.828500  0.328500  0.500000  1
+  Th  Th3  1  0.327169  0.171836  0.500000  1
+  In  In4  1  0.497762  0.498620  0.000000  1
+  In  In5  1  0.998620  0.997762  0.000000  1
+  Pt  Pt6  1  0.634090  0.134090  0.000000  1
+  Pt  Pt7  1  0.862774  0.626444  0.000000  1
+  Pt  Pt8  1  0.126444  0.362774  0.000000  1
+  Pt  Pt9  1  0.378522  0.878522  0.000000  1

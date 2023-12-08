@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CaNd3(AsPt)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.94796513
+_cell_length_b   4.37217300
+_cell_length_c   7.52663300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.01031588
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaNd3(AsPt)4
+_chemical_formula_sum   'Ca1 Nd3 As4 Pt4'
+_cell_volume   261.54957833
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.999962  0.250001  0.250547  1
+  Nd  Nd1  1  0.500393  0.250001  0.249860  1
+  Nd  Nd2  1  0.500054  0.750001  0.750841  1
+  Nd  Nd3  1  0.999759  0.750001  0.748455  1
+  As  As4  1  0.244441  0.750001  0.083610  1
+  As  As5  1  0.740277  0.750001  0.416545  1
+  As  As6  1  0.243873  0.250001  0.580917  1
+  As  As7  1  0.742821  0.250001  0.918934  1
+  Pt  Pt8  1  0.759101  0.750001  0.081560  1
+  Pt  Pt9  1  0.255723  0.750001  0.418561  1
+  Pt  Pt10  1  0.756407  0.250001  0.583512  1
+  Pt  Pt11  1  0.257187  0.250001  0.916654  1

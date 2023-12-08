@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Mn4B4Mo3W
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.15736900
+_cell_length_b   5.87273783
+_cell_length_c   6.94974568
+_cell_angle_alpha   90.02625638
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn4B4Mo3W
+_chemical_formula_sum   'Mn4 B4 Mo3 W1'
+_cell_volume   128.86495348
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.750000  0.858964  0.557765  1
+  Mn  Mn1  1  0.250000  0.141018  0.441708  1
+  Mn  Mn2  1  0.750000  0.358645  0.941925  1
+  Mn  Mn3  1  0.250000  0.640150  0.058116  1
+  B  B4  1  0.250000  0.265489  0.135321  1
+  B  B5  1  0.750000  0.734250  0.865722  1
+  B  B6  1  0.250000  0.767315  0.363676  1
+  B  B7  1  0.750000  0.233859  0.635514  1
+  Mo  Mo8  1  0.250000  0.529598  0.672682  1
+  Mo  Mo9  1  0.750000  0.470957  0.327768  1
+  Mo  Mo10  1  0.250000  0.029254  0.827625  1
+  W  W11  1  0.750000  0.970501  0.172177  1

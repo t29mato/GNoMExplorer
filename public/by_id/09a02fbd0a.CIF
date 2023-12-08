@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CeDy(SiRu)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.41408800
+_cell_length_b   7.15837205
+_cell_length_c   6.88842651
+_cell_angle_alpha   89.34928257
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeDy(SiRu)2
+_chemical_formula_sum   'Ce2 Dy2 Si4 Ru4'
+_cell_volume   217.64428795
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.250000  0.978262  0.829350  1
+  Ce  Ce1  1  0.750000  0.021738  0.170650  1
+  Dy  Dy2  1  0.250000  0.477318  0.682126  1
+  Dy  Dy3  1  0.750000  0.522682  0.317874  1
+  Si  Si4  1  0.250000  0.311771  0.112381  1
+  Si  Si5  1  0.750000  0.688229  0.887619  1
+  Si  Si6  1  0.250000  0.801488  0.393472  1
+  Si  Si7  1  0.750000  0.198512  0.606528  1
+  Ru  Ru8  1  0.750000  0.856406  0.568349  1
+  Ru  Ru9  1  0.250000  0.143594  0.431651  1
+  Ru  Ru10  1  0.750000  0.349433  0.934753  1
+  Ru  Ru11  1  0.250000  0.650567  0.065247  1

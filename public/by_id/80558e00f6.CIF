@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_TiCrO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.77213300
+_cell_length_b   5.49174800
+_cell_length_c   6.93868700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiCrO5
+_chemical_formula_sum   'Ti4 Cr4 O20'
+_cell_volume   448.58325483
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.945919  0.749999  0.144068  1
+  Ti  Ti1  1  0.445920  0.749999  0.355932  1
+  Ti  Ti2  1  0.554080  0.250000  0.644067  1
+  Ti  Ti3  1  0.054080  0.250000  0.855933  1
+  Cr  Cr4  1  0.345209  0.250000  0.025803  1
+  Cr  Cr5  1  0.845209  0.250000  0.474196  1
+  Cr  Cr6  1  0.154792  0.749999  0.525803  1
+  Cr  Cr7  1  0.654792  0.749999  0.974197  1
+  O  O8  1  0.000000  0.000000  0.000000  1
+  O  O9  1  0.000000  0.500001  0.000000  1
+  O  O10  1  0.794060  0.749999  0.030726  1
+  O  O11  1  0.375076  0.003976  0.151137  1
+  O  O12  1  0.375076  0.496025  0.151137  1
+  O  O13  1  0.578556  0.749999  0.177940  1
+  O  O14  1  0.078556  0.749999  0.322060  1
+  O  O15  1  0.875076  0.003976  0.348862  1
+  O  O16  1  0.875076  0.496025  0.348862  1
+  O  O17  1  0.294060  0.749999  0.469275  1
+  O  O18  1  0.500000  0.000000  0.499999  1
+  O  O19  1  0.500000  0.500001  0.499999  1
+  O  O20  1  0.705940  0.250000  0.530726  1
+  O  O21  1  0.124924  0.503975  0.651137  1
+  O  O22  1  0.124924  0.996025  0.651137  1
+  O  O23  1  0.921443  0.250000  0.677941  1
+  O  O24  1  0.421444  0.250000  0.822059  1
+  O  O25  1  0.624924  0.503975  0.848863  1
+  O  O26  1  0.624924  0.996025  0.848863  1
+  O  O27  1  0.205940  0.250000  0.969274  1

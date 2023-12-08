@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_V3(TcAs2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.86637485
+_cell_length_b   6.86637444
+_cell_length_c   6.88502991
+_cell_angle_alpha   93.40436532
+_cell_angle_beta   92.87316607
+_cell_angle_gamma   152.89775112
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V3(TcAs2)2
+_chemical_formula_sum   'V3 Tc2 As4'
+_cell_volume   143.78932996
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.380748  0.303360  0.684108  1
+  V  V1  1  0.300607  0.619982  0.920590  1
+  V  V2  1  0.998405  0.999436  0.997839  1
+  Tc  Tc3  1  0.697211  0.385402  0.082613  1
+  Tc  Tc4  1  0.616914  0.695943  0.312858  1
+  As  As5  1  0.290689  0.063292  0.353981  1
+  As  As6  1  0.058029  0.713725  0.771755  1
+  As  As7  1  0.935450  0.278427  0.213876  1
+  As  As8  1  0.721946  0.940433  0.662379  1

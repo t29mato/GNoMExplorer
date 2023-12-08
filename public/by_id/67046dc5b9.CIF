@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Co20Cu(ReB3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.39611620
+_cell_length_b   7.39611622
+_cell_length_c   7.39611600
+_cell_angle_alpha   59.99999202
+_cell_angle_beta   59.99999195
+_cell_angle_gamma   59.99999212
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co20Cu(ReB3)2
+_chemical_formula_sum   'Co20 Cu1 Re2 B6'
+_cell_volume   286.08566041
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.618399  0.618399  0.144805  1
+  Co  Co1  1  0.618399  0.144805  0.618399  1
+  Co  Co2  1  0.144805  0.618399  0.618399  1
+  Co  Co3  1  0.618399  0.618399  0.618399  1
+  Co  Co4  1  0.381601  0.381601  0.855195  1
+  Co  Co5  1  0.381601  0.855195  0.381601  1
+  Co  Co6  1  0.855195  0.381601  0.381601  1
+  Co  Co7  1  0.381601  0.381601  0.381601  1
+  Co  Co8  1  0.000000  0.000000  0.340919  1
+  Co  Co9  1  0.659081  0.000000  0.340919  1
+  Co  Co10  1  0.000000  0.659081  0.340919  1
+  Co  Co11  1  0.659081  0.340919  0.000000  1
+  Co  Co12  1  0.000000  0.340919  0.000000  1
+  Co  Co13  1  0.000000  0.340919  0.659081  1
+  Co  Co14  1  0.340919  0.659081  0.000000  1
+  Co  Co15  1  0.340919  0.000000  0.659081  1
+  Co  Co16  1  0.340919  0.000000  0.000000  1
+  Co  Co17  1  0.000000  0.000000  0.659081  1
+  Co  Co18  1  0.000000  0.659081  0.000000  1
+  Co  Co19  1  0.659081  0.000000  0.000000  1
+  Cu  Cu20  1  0.000000  0.000000  0.000000  1
+  Re  Re21  1  0.750000  0.750000  0.750000  1
+  Re  Re22  1  0.250000  0.250000  0.250000  1
+  B  B23  1  0.724540  0.724540  0.275460  1
+  B  B24  1  0.275460  0.724540  0.275460  1
+  B  B25  1  0.724540  0.275460  0.275460  1
+  B  B26  1  0.275460  0.275460  0.724540  1
+  B  B27  1  0.724540  0.275460  0.724540  1
+  B  B28  1  0.275460  0.724540  0.724540  1

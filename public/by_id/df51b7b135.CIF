@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_EuZr(SbPt)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.59023446
+_cell_length_b   6.59023590
+_cell_length_c   8.07674285
+_cell_angle_alpha   65.92225356
+_cell_angle_beta   65.92224790
+_cell_angle_gamma   89.99999603
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuZr(SbPt)2
+_chemical_formula_sum   'Eu2 Zr2 Sb4 Pt4'
+_cell_volume   286.50831543
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.000000  0.000000  0.000000  1
+  Eu  Eu1  1  0.250000  0.750000  0.500000  1
+  Zr  Zr2  1  0.500000  0.500000  0.000000  1
+  Zr  Zr3  1  0.750000  0.250000  0.500000  1
+  Sb  Sb4  1  0.496325  0.996324  0.007349  1
+  Sb  Sb5  1  0.753675  0.753675  0.492650  1
+  Sb  Sb6  1  0.246325  0.246325  0.507349  1
+  Sb  Sb7  1  0.003675  0.503675  0.992650  1
+  Pt  Pt8  1  0.625001  0.591989  0.250000  1
+  Pt  Pt9  1  0.124998  0.158009  0.250001  1
+  Pt  Pt10  1  0.841989  0.374999  0.749999  1
+  Pt  Pt11  1  0.408009  0.874998  0.750001  1

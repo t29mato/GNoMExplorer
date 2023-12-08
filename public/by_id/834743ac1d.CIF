@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ho4MgCo2Sb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.83252921
+_cell_length_b   8.83253037
+_cell_length_c   8.83146758
+_cell_angle_alpha   131.58151368
+_cell_angle_beta   131.58151969
+_cell_angle_gamma   70.90253364
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho4MgCo2Sb
+_chemical_formula_sum   'Ho8 Mg2 Co4 Sb2'
+_cell_volume   377.51017509
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.694160  0.555226  0.500008  1
+  Ho  Ho1  1  0.444774  0.944774  0.138964  1
+  Ho  Ho2  1  0.805815  0.305815  0.861049  1
+  Ho  Ho3  1  0.555226  0.055226  0.861036  1
+  Ho  Ho4  1  0.055226  0.194160  0.500008  1
+  Ho  Ho5  1  0.305840  0.444774  0.499992  1
+  Ho  Ho6  1  0.194185  0.694185  0.138951  1
+  Ho  Ho7  1  0.944774  0.805840  0.499992  1
+  Mg  Mg8  1  0.000000  0.000000  0.000000  1
+  Mg  Mg9  1  0.500000  0.500000  0.000000  1
+  Co  Co10  1  0.109088  0.609088  0.718190  1
+  Co  Co11  1  0.890912  0.390912  0.281810  1
+  Co  Co12  1  0.609110  0.890890  0.500000  1
+  Co  Co13  1  0.390890  0.109110  0.500000  1
+  Sb  Sb14  1  0.250006  0.249994  0.000000  1
+  Sb  Sb15  1  0.749994  0.750006  0.000000  1

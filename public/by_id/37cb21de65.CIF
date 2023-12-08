@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Ti13Al9(Fe3Ir)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.56014973
+_cell_length_b   8.58109751
+_cell_length_c   8.56014901
+_cell_angle_alpha   59.75835570
+_cell_angle_beta   60.06512484
+_cell_angle_gamma   59.75837242
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti13Al9(Fe3Ir)2
+_chemical_formula_sum   'Ti13 Al9 Fe6 Ir2'
+_cell_volume   443.20674764
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.209498  0.208995  0.798689  1
+  Ti  Ti1  1  0.798689  0.208995  0.209498  1
+  Ti  Ti2  1  0.208462  0.799692  0.208462  1
+  Ti  Ti3  1  0.805540  0.801668  0.173679  1
+  Ti  Ti4  1  0.173679  0.801668  0.805540  1
+  Ti  Ti5  1  0.801898  0.178907  0.801898  1
+  Ti  Ti6  1  0.380716  0.383326  0.380716  1
+  Ti  Ti7  1  0.387950  0.855785  0.387950  1
+  Ti  Ti8  1  0.857533  0.390794  0.380563  1
+  Ti  Ti9  1  0.380563  0.390794  0.857533  1
+  Ti  Ti10  1  0.841891  0.466172  0.841891  1
+  Ti  Ti11  1  0.468050  0.836034  0.835971  1
+  Ti  Ti12  1  0.835971  0.836034  0.468050  1
+  Al  Al13  1  0.156804  0.170990  0.156804  1
+  Al  Al14  1  0.162015  0.523879  0.162015  1
+  Al  Al15  1  0.528009  0.164074  0.163903  1
+  Al  Al16  1  0.163903  0.164074  0.528009  1
+  Al  Al17  1  0.619421  0.611713  0.619421  1
+  Al  Al18  1  0.615159  0.147108  0.615159  1
+  Al  Al19  1  0.146426  0.612924  0.618704  1
+  Al  Al20  1  0.618704  0.612924  0.146426  1
+  Al  Al21  1  0.828587  0.819399  0.828587  1
+  Fe  Fe22  1  0.002679  0.500695  0.002679  1
+  Fe  Fe23  1  0.501752  0.502311  0.998981  1
+  Fe  Fe24  1  0.998981  0.502311  0.501752  1
+  Fe  Fe25  1  0.502114  0.997275  0.502114  1
+  Fe  Fe26  1  0.499728  0.500169  0.499728  1
+  Fe  Fe27  1  0.003407  0.005319  0.003407  1
+  Ir  Ir28  1  0.003444  0.002985  0.498427  1
+  Ir  Ir29  1  0.498427  0.002985  0.003444  1

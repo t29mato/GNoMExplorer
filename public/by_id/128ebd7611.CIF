@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Mn3Fe(PW)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.61400500
+_cell_length_b   5.99575230
+_cell_length_c   6.84355539
+_cell_angle_alpha   89.81980834
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn3Fe(PW)4
+_chemical_formula_sum   'Mn3 Fe1 P4 W4'
+_cell_volume   148.29007021
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.250000  0.855377  0.939014  1
+  Mn  Mn1  1  0.250000  0.358795  0.562115  1
+  Mn  Mn2  1  0.750000  0.144059  0.062694  1
+  Fe  Fe3  1  0.750000  0.644312  0.434922  1
+  P  P4  1  0.250000  0.224450  0.876139  1
+  P  P5  1  0.250000  0.726344  0.620723  1
+  P  P6  1  0.750000  0.773455  0.123742  1
+  P  P7  1  0.750000  0.274447  0.379832  1
+  W  W8  1  0.250000  0.978690  0.326397  1
+  W  W9  1  0.250000  0.471527  0.171993  1
+  W  W10  1  0.750000  0.022943  0.674188  1
+  W  W11  1  0.750000  0.525602  0.828239  1

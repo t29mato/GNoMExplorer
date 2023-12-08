@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Pa4Si3Mo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.21874010
+_cell_length_b   8.21873998
+_cell_length_c   8.21874017
+_cell_angle_alpha   96.02860162
+_cell_angle_beta   96.02860232
+_cell_angle_gamma   142.18085921
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pa4Si3Mo
+_chemical_formula_sum   'Pa8 Si6 Mo2'
+_cell_volume   322.03479828
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.722732  0.590240  0.312971  1
+  Pa  Pa1  1  0.277268  0.409760  0.687029  1
+  Pa  Pa2  1  0.590240  0.277268  0.867508  1
+  Pa  Pa3  1  0.409760  0.722732  0.132492  1
+  Pa  Pa4  1  0.090240  0.222732  0.312971  1
+  Pa  Pa5  1  0.777268  0.090240  0.867508  1
+  Pa  Pa6  1  0.222732  0.909760  0.132492  1
+  Pa  Pa7  1  0.909760  0.777268  0.687029  1
+  Si  Si8  1  0.145401  0.645401  0.790802  1
+  Si  Si9  1  0.354599  0.145401  0.500000  1
+  Si  Si10  1  0.645401  0.854599  0.500000  1
+  Si  Si11  1  0.854599  0.354599  0.209198  1
+  Si  Si12  1  0.750000  0.750000  0.000000  1
+  Si  Si13  1  0.250000  0.250000  0.000000  1
+  Mo  Mo14  1  0.750000  0.250000  0.500000  1
+  Mo  Mo15  1  0.250000  0.750000  0.500000  1

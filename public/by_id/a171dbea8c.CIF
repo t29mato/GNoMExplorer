@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Lu2CuNi6B2Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.99126953
+_cell_length_b   4.99261316
+_cell_length_c   14.04159100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99813221
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2CuNi6B2Au
+_chemical_formula_sum   'Lu4 Cu2 Ni12 B4 Au2'
+_cell_volume   303.03588717
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.666709  0.333341  0.471946  1
+  Lu  Lu1  1  0.333291  0.666659  0.971946  1
+  Lu  Lu2  1  0.333397  0.666641  0.740127  1
+  Lu  Lu3  1  0.666603  0.333359  0.240127  1
+  Cu  Cu4  1  0.000013  0.000039  0.001211  1
+  Cu  Cu5  1  0.999987  0.999961  0.501211  1
+  Ni  Ni6  1  0.166090  0.332425  0.148662  1
+  Ni  Ni7  1  0.833910  0.667575  0.648662  1
+  Ni  Ni8  1  0.667511  0.833818  0.148635  1
+  Ni  Ni9  1  0.166089  0.833800  0.148661  1
+  Ni  Ni10  1  0.833911  0.166200  0.648661  1
+  Ni  Ni11  1  0.332489  0.166182  0.648635  1
+  Ni  Ni12  1  0.833099  0.666140  0.852343  1
+  Ni  Ni13  1  0.833019  0.166794  0.852337  1
+  Ni  Ni14  1  0.333775  0.166893  0.852364  1
+  Ni  Ni15  1  0.666225  0.833107  0.352364  1
+  Ni  Ni16  1  0.166981  0.833206  0.352337  1
+  Ni  Ni17  1  0.166901  0.333860  0.352343  1
+  B  B18  1  0.333319  0.666695  0.250512  1
+  B  B19  1  0.666681  0.333305  0.750512  1
+  B  B20  1  0.000000  0.000088  0.253324  1
+  B  B21  1  0.000000  0.999912  0.753324  1
+  Au  Au22  1  0.333366  0.666621  0.529878  1
+  Au  Au23  1  0.666634  0.333379  0.029878  1

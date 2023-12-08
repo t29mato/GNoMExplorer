@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_GaNiAg2F7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.49003859
+_cell_length_b   7.48985712
+_cell_length_c   7.49002373
+_cell_angle_alpha   120.91771707
+_cell_angle_beta   116.70640173
+_cell_angle_gamma   92.10880824
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaNiAg2F7
+_chemical_formula_sum   'Ga2 Ni2 Ag4 F14'
+_cell_volume   301.73788939
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.000000  0.500000  0.500000  1
+  Ga  Ga1  1  0.500000  0.000000  0.500000  1
+  Ni  Ni2  1  0.500000  0.500000  0.500000  1
+  Ni  Ni3  1  0.500000  0.000000  0.000000  1
+  Ag  Ag4  1  0.500000  0.500000  0.000000  1
+  Ag  Ag5  1  0.000000  0.000000  0.000000  1
+  Ag  Ag6  1  0.000000  0.500000  0.000000  1
+  Ag  Ag7  1  0.000000  0.000000  0.500000  1
+  F  F8  1  0.873890  0.590017  0.283875  1
+  F  F9  1  0.193857  0.909984  0.283871  1
+  F  F10  1  0.185491  0.803845  0.760914  1
+  F  F11  1  0.457075  0.696156  0.381660  1
+  F  F12  1  0.457074  0.075444  0.760937  1
+  F  F13  1  0.185501  0.424576  0.381657  1
+  F  F14  1  0.814499  0.575424  0.618343  1
+  F  F15  1  0.542926  0.924556  0.239063  1
+  F  F16  1  0.542925  0.303844  0.618340  1
+  F  F17  1  0.814509  0.196155  0.239086  1
+  F  F18  1  0.403403  0.250001  0.153413  1
+  F  F19  1  0.126110  0.409983  0.716125  1
+  F  F20  1  0.806143  0.090016  0.716129  1
+  F  F21  1  0.596597  0.749999  0.846587  1

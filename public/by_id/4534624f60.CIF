@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Li4MgAl7Pd4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.08570000
+_cell_length_b   4.36542000
+_cell_length_c   8.74861200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.99779821
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li4MgAl7Pd4
+_chemical_formula_sum   'Li4 Mg1 Al7 Pd4'
+_cell_volume   232.42119475
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.246967  0.250001  0.124864  1
+  Li  Li1  1  0.752559  0.750000  0.377156  1
+  Li  Li2  1  0.248058  0.250001  0.624890  1
+  Li  Li3  1  0.752581  0.750000  0.873091  1
+  Mg  Mg4  1  0.498663  0.750000  0.125059  1
+  Al  Al5  1  0.003687  0.750000  0.125073  1
+  Al  Al6  1  0.501110  0.250001  0.375108  1
+  Al  Al7  1  0.999558  0.250001  0.373945  1
+  Al  Al8  1  0.996075  0.750000  0.625074  1
+  Al  Al9  1  0.499746  0.750000  0.625087  1
+  Al  Al10  1  0.999485  0.250001  0.875921  1
+  Al  Al11  1  0.501108  0.250001  0.874785  1
+  Pd  Pd12  1  0.763551  0.250001  0.124937  1
+  Pd  Pd13  1  0.243889  0.750000  0.383162  1
+  Pd  Pd14  1  0.749173  0.250001  0.624883  1
+  Pd  Pd15  1  0.243891  0.750000  0.866969  1

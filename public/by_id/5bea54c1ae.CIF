@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ta3Ti3Al4(RhC)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.25046396
+_cell_length_b   8.25046387
+_cell_length_c   8.24899200
+_cell_angle_alpha   60.00590922
+_cell_angle_beta   60.00590956
+_cell_angle_gamma   60.04884245
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta3Ti3Al4(RhC)2
+_chemical_formula_sum   'Ta6 Ti6 Al8 Rh4 C4'
+_cell_volume   397.22949700
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.936103  0.936103  0.563897  1
+  Ta  Ta1  1  0.687863  0.312777  0.312247  1
+  Ta  Ta2  1  0.312777  0.687863  0.687112  1
+  Ta  Ta3  1  0.685730  0.685730  0.314270  1
+  Ta  Ta4  1  0.687863  0.312777  0.687112  1
+  Ta  Ta5  1  0.312777  0.687863  0.312247  1
+  Ti  Ti6  1  0.563994  0.937214  0.562791  1
+  Ti  Ti7  1  0.563994  0.937214  0.936002  1
+  Ti  Ti8  1  0.937214  0.563994  0.562791  1
+  Ti  Ti9  1  0.937214  0.563994  0.936002  1
+  Ti  Ti10  1  0.313920  0.313920  0.686080  1
+  Ti  Ti11  1  0.563477  0.563477  0.936523  1
+  Al  Al12  1  0.916408  0.254719  0.914437  1
+  Al  Al13  1  0.333217  0.333217  0.997187  1
+  Al  Al14  1  0.999208  0.334585  0.333103  1
+  Al  Al15  1  0.333217  0.333217  0.336378  1
+  Al  Al16  1  0.254719  0.916408  0.914437  1
+  Al  Al17  1  0.914363  0.914363  0.917995  1
+  Al  Al18  1  0.914363  0.914363  0.253281  1
+  Al  Al19  1  0.334585  0.999208  0.333103  1
+  Rh  Rh20  1  0.125637  0.624778  0.124793  1
+  Rh  Rh21  1  0.123963  0.123963  0.625164  1
+  Rh  Rh22  1  0.624778  0.125637  0.124793  1
+  Rh  Rh23  1  0.123963  0.123963  0.126909  1
+  C  C24  1  0.620134  0.124481  0.627693  1
+  C  C25  1  0.627019  0.627019  0.118833  1
+  C  C26  1  0.124481  0.620134  0.627693  1
+  C  C27  1  0.627019  0.627019  0.627128  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Pr2BeRuCl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.02010100
+_cell_length_b   4.02010160
+_cell_length_c   16.76149900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000326
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr2BeRuCl
+_chemical_formula_sum   'Pr4 Be2 Ru2 Cl2'
+_cell_volume   234.59430595
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.000000  0.000000  0.615210  1
+  Pr  Pr1  1  0.000000  0.000000  0.386122  1
+  Pr  Pr2  1  0.000000  0.000000  0.115210  1
+  Pr  Pr3  1  0.000000  0.000000  0.886122  1
+  Be  Be4  1  0.666667  0.333333  0.500720  1
+  Be  Be5  1  0.333333  0.666667  0.000720  1
+  Ru  Ru6  1  0.666667  0.333333  0.998700  1
+  Ru  Ru7  1  0.333333  0.666667  0.498700  1
+  Cl  Cl8  1  0.666667  0.333333  0.249248  1
+  Cl  Cl9  1  0.333333  0.666667  0.749248  1

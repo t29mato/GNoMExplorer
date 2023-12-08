@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_In4Sn(BIr3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.68636900
+_cell_length_b   6.75874838
+_cell_length_c   5.65203400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.64638206
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In4Sn(BIr3)2
+_chemical_formula_sum   'In4 Sn1 B2 Ir6'
+_cell_volume   221.98750531
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.666502  0.336297  0.500000  1
+  In  In1  1  0.998107  0.591353  0.000000  1
+  In  In2  1  0.406754  0.408647  0.000000  1
+  In  In3  1  0.330204  0.663703  0.500000  1
+  Sn  Sn4  1  0.595879  0.000000  0.000000  1
+  B  B5  1  0.001444  0.000000  0.500000  1
+  B  B6  1  0.003358  0.000000  0.000000  1
+  Ir  Ir7  1  0.996017  0.247429  0.743822  1
+  Ir  Ir8  1  0.996017  0.247429  0.256178  1
+  Ir  Ir9  1  0.748588  0.752571  0.256178  1
+  Ir  Ir10  1  0.254272  0.000000  0.744847  1
+  Ir  Ir11  1  0.254272  0.000000  0.255153  1
+  Ir  Ir12  1  0.748588  0.752571  0.743822  1

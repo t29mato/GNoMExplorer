@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Yb3Ho7(CuPb3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.15702200
+_cell_length_b   9.15702142
+_cell_length_c   6.82550400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000211
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Yb3Ho7(CuPb3)2
+_chemical_formula_sum   'Yb3 Ho7 Cu2 Pb6'
+_cell_volume   495.64854477
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.333333  0.666667  0.500000  1
+  Yb  Yb1  1  0.666667  0.333333  0.500000  1
+  Yb  Yb2  1  0.666667  0.333333  0.000000  1
+  Ho  Ho3  1  0.253246  0.000067  0.748583  1
+  Ho  Ho4  1  0.746821  0.000067  0.251417  1
+  Ho  Ho5  1  0.999933  0.253179  0.748583  1
+  Ho  Ho6  1  0.999933  0.746754  0.251417  1
+  Ho  Ho7  1  0.746821  0.746754  0.748583  1
+  Ho  Ho8  1  0.253246  0.253179  0.251417  1
+  Ho  Ho9  1  0.333333  0.666667  0.000000  1
+  Cu  Cu10  1  0.000000  0.000000  0.500000  1
+  Cu  Cu11  1  0.000000  0.000000  0.000000  1
+  Pb  Pb12  1  0.609222  0.998139  0.753147  1
+  Pb  Pb13  1  0.388917  0.998139  0.246853  1
+  Pb  Pb14  1  0.001861  0.611083  0.753147  1
+  Pb  Pb15  1  0.001861  0.390778  0.246853  1
+  Pb  Pb16  1  0.388917  0.390778  0.753147  1
+  Pb  Pb17  1  0.609222  0.611083  0.246853  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfCo4Si4Tc3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.75532800
+_cell_length_b   5.93545958
+_cell_length_c   6.89272277
+_cell_angle_alpha   89.12208026
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfCo4Si4Tc3
+_chemical_formula_sum   'Hf1 Co4 Si4 Tc3'
+_cell_volume   153.61798153
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.750000  0.474467  0.816930  1
+  Co  Co1  1  0.250000  0.151283  0.942559  1
+  Co  Co2  1  0.250000  0.639920  0.561645  1
+  Co  Co3  1  0.750000  0.857302  0.060541  1
+  Co  Co4  1  0.750000  0.353357  0.442639  1
+  Si  Si5  1  0.250000  0.244646  0.607035  1
+  Si  Si6  1  0.250000  0.787013  0.880225  1
+  Si  Si7  1  0.750000  0.735165  0.380131  1
+  Si  Si8  1  0.750000  0.228053  0.138307  1
+  Tc  Tc9  1  0.250000  0.023923  0.315133  1
+  Tc  Tc10  1  0.250000  0.531070  0.179404  1
+  Tc  Tc11  1  0.750000  0.973800  0.675451  1

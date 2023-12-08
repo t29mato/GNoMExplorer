@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TaMn6Si2Mo3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.80741300
+_cell_length_b   4.80741344
+_cell_length_c   7.78740900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000388
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaMn6Si2Mo3
+_chemical_formula_sum   'Ta1 Mn6 Si2 Mo3'
+_cell_volume   155.86424708
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.333333  0.666667  0.935643  1
+  Mn  Mn1  1  0.828433  0.171567  0.749153  1
+  Mn  Mn2  1  0.828433  0.656864  0.749153  1
+  Mn  Mn3  1  0.343136  0.171567  0.749153  1
+  Mn  Mn4  1  0.171742  0.828258  0.251180  1
+  Mn  Mn5  1  0.171742  0.343486  0.251180  1
+  Mn  Mn6  1  0.656514  0.828258  0.251180  1
+  Si  Si7  1  0.000000  0.000000  0.000711  1
+  Si  Si8  1  0.000000  0.000000  0.499079  1
+  Mo  Mo9  1  0.666667  0.333333  0.066767  1
+  Mo  Mo10  1  0.666667  0.333333  0.438350  1
+  Mo  Mo11  1  0.333333  0.666667  0.558451  1

@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Sr2Ni2Te(BrO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.31507500
+_cell_length_b   9.58919577
+_cell_length_c   9.24329525
+_cell_angle_alpha   85.61921301
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2Ni2Te(BrO3)2
+_chemical_formula_sum   'Sr4 Ni4 Te2 Br4 O12'
+_cell_volume   469.72938141
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.104480  0.816697  0.277049  1
+  Sr  Sr1  1  0.604480  0.683303  0.722951  1
+  Sr  Sr2  1  0.395520  0.316697  0.277049  1
+  Sr  Sr3  1  0.895520  0.183303  0.722951  1
+  Ni  Ni4  1  0.496456  0.631469  0.077093  1
+  Ni  Ni5  1  0.003544  0.131469  0.077093  1
+  Ni  Ni6  1  0.503544  0.368531  0.922907  1
+  Ni  Ni7  1  0.996456  0.868531  0.922907  1
+  Te  Te8  1  0.000000  0.500000  0.000000  1
+  Te  Te9  1  0.500000  0.000000  0.000000  1
+  Br  Br10  1  0.611467  0.665007  0.376613  1
+  Br  Br11  1  0.888533  0.165007  0.376613  1
+  Br  Br12  1  0.111467  0.834993  0.623387  1
+  Br  Br13  1  0.388533  0.334993  0.623387  1
+  O  O14  1  0.313422  0.556392  0.895947  1
+  O  O15  1  0.166625  0.557660  0.174377  1
+  O  O16  1  0.186578  0.056392  0.895947  1
+  O  O17  1  0.830781  0.681608  0.964013  1
+  O  O18  1  0.833375  0.442340  0.825623  1
+  O  O19  1  0.813422  0.943608  0.104053  1
+  O  O20  1  0.686578  0.443608  0.104053  1
+  O  O21  1  0.669219  0.181608  0.964013  1
+  O  O22  1  0.666625  0.942340  0.825623  1
+  O  O23  1  0.169219  0.318392  0.035987  1
+  O  O24  1  0.333375  0.057660  0.174377  1
+  O  O25  1  0.330781  0.818392  0.035987  1

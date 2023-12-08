@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_La4In(FeB3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.44750880
+_cell_length_b   5.44750827
+_cell_length_c   8.58816840
+_cell_angle_alpha   71.50923037
+_cell_angle_beta   71.50923548
+_cell_angle_gamma   60.00001394
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La4In(FeB3)2
+_chemical_formula_sum   'La4 In1 Fe2 B6'
+_cell_volume   205.37969677
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.746476  0.746476  0.760572  1
+  La  La1  1  0.253524  0.253524  0.239428  1
+  La  La2  1  0.586526  0.586526  0.240421  1
+  La  La3  1  0.413474  0.413474  0.759579  1
+  In  In4  1  0.000000  0.000000  0.000000  1
+  Fe  Fe5  1  0.880161  0.880161  0.359516  1
+  Fe  Fe6  1  0.119839  0.119839  0.640484  1
+  B  B7  1  0.500000  0.167016  0.500000  1
+  B  B8  1  0.832984  0.500000  0.500000  1
+  B  B9  1  0.167016  0.832984  0.500000  1
+  B  B10  1  0.167016  0.500000  0.500000  1
+  B  B11  1  0.832984  0.167016  0.500000  1
+  B  B12  1  0.500000  0.832984  0.500000  1

@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_La5(TcB3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.92640670
+_cell_length_b   8.92640650
+_cell_length_c   8.92640729
+_cell_angle_alpha   36.72545449
+_cell_angle_beta   36.72545746
+_cell_angle_gamma   36.72545525
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La5(TcB3)2
+_chemical_formula_sum   'La5 Tc2 B6'
+_cell_volume   227.77566090
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.582092  0.582092  0.582092  1
+  La  La1  1  0.417908  0.417908  0.417908  1
+  La  La2  1  0.750624  0.750624  0.750624  1
+  La  La3  1  0.249376  0.249376  0.249376  1
+  La  La4  1  0.000000  0.000000  0.000000  1
+  Tc  Tc5  1  0.885053  0.885053  0.885053  1
+  Tc  Tc6  1  0.114947  0.114947  0.114947  1
+  B  B7  1  0.500000  0.831149  0.168851  1
+  B  B8  1  0.168851  0.500000  0.831149  1
+  B  B9  1  0.831149  0.168851  0.500000  1
+  B  B10  1  0.500000  0.168851  0.831149  1
+  B  B11  1  0.831149  0.500000  0.168851  1
+  B  B12  1  0.168851  0.831149  0.500000  1

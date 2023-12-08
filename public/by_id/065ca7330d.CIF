@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Lu2ScCo9(GeB2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.08891403
+_cell_length_b   5.08850629
+_cell_length_c   9.36665204
+_cell_angle_alpha   89.99944248
+_cell_angle_beta   90.00113748
+_cell_angle_gamma   120.00265074
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2ScCo9(GeB2)2
+_chemical_formula_sum   'Lu2 Sc1 Co9 Ge2 B4'
+_cell_volume   210.04814373
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.999995  0.000000  0.002033  1
+  Lu  Lu1  1  0.999991  0.000000  0.657919  1
+  Sc  Sc2  1  0.999976  0.000000  0.339261  1
+  Co  Co3  1  0.499990  0.000000  0.498835  1
+  Co  Co4  1  0.499982  0.500002  0.498824  1
+  Co  Co5  1  0.999981  0.499998  0.498824  1
+  Co  Co6  1  0.499982  0.000000  0.204530  1
+  Co  Co7  1  0.499979  0.500003  0.204547  1
+  Co  Co8  1  0.999975  0.499997  0.204547  1
+  Co  Co9  1  0.500040  0.000000  0.796814  1
+  Co  Co10  1  0.500022  0.499997  0.796806  1
+  Co  Co11  1  0.000025  0.500003  0.796806  1
+  Ge  Ge12  1  0.333306  0.666625  0.000287  1
+  Ge  Ge13  1  0.666680  0.333375  0.000287  1
+  B  B14  1  0.333348  0.666724  0.348562  1
+  B  B15  1  0.666624  0.333276  0.348562  1
+  B  B16  1  0.666672  0.333342  0.651280  1
+  B  B17  1  0.333330  0.666658  0.651280  1

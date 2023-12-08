@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sc4FeSi4Rh3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.09714200
+_cell_length_b   6.53965811
+_cell_length_c   7.10832984
+_cell_angle_alpha   89.62251794
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc4FeSi4Rh3
+_chemical_formula_sum   'Sc4 Fe1 Si4 Rh3'
+_cell_volume   190.45580155
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.750000  0.491293  0.806698  1
+  Sc  Sc1  1  0.250000  0.999868  0.311669  1
+  Sc  Sc2  1  0.750000  0.005251  0.683255  1
+  Sc  Sc3  1  0.250000  0.498553  0.193990  1
+  Fe  Fe4  1  0.750000  0.346084  0.440670  1
+  Si  Si5  1  0.250000  0.790243  0.886378  1
+  Si  Si6  1  0.250000  0.289098  0.598965  1
+  Si  Si7  1  0.750000  0.214971  0.128337  1
+  Si  Si8  1  0.750000  0.699765  0.385737  1
+  Rh  Rh9  1  0.250000  0.657976  0.561787  1
+  Rh  Rh10  1  0.250000  0.160630  0.939740  1
+  Rh  Rh11  1  0.750000  0.846267  0.062773  1

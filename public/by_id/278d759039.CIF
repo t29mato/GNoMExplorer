@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sc4U2MnFe5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.34270902
+_cell_length_b   5.32691348
+_cell_length_c   7.59323800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.08294789
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc4U2MnFe5
+_chemical_formula_sum   'Sc4 U2 Mn1 Fe5'
+_cell_volume   186.99552011
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.666732  0.333573  0.060983  1
+  Sc  Sc1  1  0.333285  0.666448  0.941154  1
+  Sc  Sc2  1  0.333285  0.666448  0.558846  1
+  Sc  Sc3  1  0.666732  0.333573  0.439017  1
+  U  U4  1  0.998874  0.997724  0.498842  1
+  U  U5  1  0.998874  0.997724  0.001158  1
+  Mn  Mn6  1  0.836168  0.672175  0.750000  1
+  Fe  Fe7  1  0.835823  0.165233  0.750000  1
+  Fe  Fe8  1  0.329248  0.165057  0.750000  1
+  Fe  Fe9  1  0.166349  0.332845  0.250000  1
+  Fe  Fe10  1  0.164995  0.834542  0.250000  1
+  Fe  Fe11  1  0.669636  0.834659  0.250000  1

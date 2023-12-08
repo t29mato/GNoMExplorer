@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Zr2FeAs2Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.90495900
+_cell_length_b   6.66152897
+_cell_length_c   7.54474739
+_cell_angle_alpha   92.53339534
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr2FeAs2Pd
+_chemical_formula_sum   'Zr4 Fe2 As4 Pd2'
+_cell_volume   196.06967441
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.250000  0.474589  0.195812  1
+  Zr  Zr1  1  0.750000  0.525411  0.804188  1
+  Zr  Zr2  1  0.750000  0.021785  0.673813  1
+  Zr  Zr3  1  0.250000  0.978215  0.326187  1
+  Fe  Fe4  1  0.750000  0.632945  0.443255  1
+  Fe  Fe5  1  0.250000  0.367055  0.556745  1
+  As  As6  1  0.250000  0.724109  0.599211  1
+  As  As7  1  0.750000  0.275891  0.400789  1
+  As  As8  1  0.750000  0.749216  0.140549  1
+  As  As9  1  0.250000  0.250784  0.859451  1
+  Pd  Pd10  1  0.250000  0.852046  0.933431  1
+  Pd  Pd11  1  0.750000  0.147954  0.066569  1

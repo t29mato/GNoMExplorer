@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Tb2YSi2Ag3Hg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.25542700
+_cell_length_b   7.25227889
+_cell_length_c   4.23713800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.01435591
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2YSi2Ag3Hg
+_chemical_formula_sum   'Tb2 Y1 Si2 Ag3 Hg1'
+_cell_volume   193.05358511
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.000003  0.421244  0.500000  1
+  Tb  Tb1  1  0.578759  0.578756  0.500000  1
+  Y  Y2  1  0.421435  0.000000  0.500000  1
+  Si  Si3  1  0.333442  0.666894  0.000000  1
+  Si  Si4  1  0.666549  0.333106  0.000000  1
+  Ag  Ag5  1  0.000044  0.731521  0.000000  1
+  Ag  Ag6  1  0.268523  0.268479  0.000000  1
+  Ag  Ag7  1  0.731382  0.000000  0.000000  1
+  Hg  Hg8  1  0.999863  0.000000  0.500000  1

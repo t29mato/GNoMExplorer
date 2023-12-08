@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Lu2AlZnRh2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.03528100
+_cell_length_b   6.83761522
+_cell_length_c   8.02129026
+_cell_angle_alpha   89.97094172
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2AlZnRh2
+_chemical_formula_sum   'Lu4 Al2 Zn2 Rh4'
+_cell_volume   221.32099618
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.250000  0.534304  0.177935  1
+  Lu  Lu1  1  0.750000  0.465696  0.822065  1
+  Lu  Lu2  1  0.750000  0.964608  0.684454  1
+  Lu  Lu3  1  0.250000  0.035392  0.315546  1
+  Al  Al4  1  0.250000  0.639245  0.561214  1
+  Al  Al5  1  0.750000  0.360755  0.438786  1
+  Zn  Zn6  1  0.750000  0.858262  0.064589  1
+  Zn  Zn7  1  0.250000  0.141738  0.935411  1
+  Rh  Rh8  1  0.250000  0.755066  0.869104  1
+  Rh  Rh9  1  0.750000  0.244934  0.130896  1
+  Rh  Rh10  1  0.750000  0.735154  0.385328  1
+  Rh  Rh11  1  0.250000  0.264846  0.614672  1

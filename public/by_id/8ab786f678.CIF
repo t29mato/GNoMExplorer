@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Mn5Cr(GaRh2)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.30644200
+_cell_length_b   6.05788400
+_cell_length_c   12.89492100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00201978
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn5Cr(GaRh2)6
+_chemical_formula_sum   'Mn5 Cr1 Ga6 Rh12'
+_cell_volume   336.40174586
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.499775  0.000000  0.167501  1
+  Mn  Mn1  1  0.999785  0.500000  0.333584  1
+  Mn  Mn2  1  0.499999  0.000000  0.500000  1
+  Mn  Mn3  1  0.000215  0.500000  0.666416  1
+  Mn  Mn4  1  0.500225  0.000000  0.832498  1
+  Cr  Cr5  1  0.000000  0.500000  0.000000  1
+  Ga  Ga6  1  0.000000  0.000000  0.000000  1
+  Ga  Ga7  1  0.499777  0.500000  0.167179  1
+  Ga  Ga8  1  0.999775  0.000000  0.334283  1
+  Ga  Ga9  1  0.499999  0.500000  0.500000  1
+  Ga  Ga10  1  0.000225  0.000000  0.665716  1
+  Ga  Ga11  1  0.500223  0.500000  0.832820  1
+  Rh  Rh12  1  0.499999  0.252668  0.000000  1
+  Rh  Rh13  1  0.499999  0.747332  0.000000  1
+  Rh  Rh14  1  0.999789  0.252330  0.164567  1
+  Rh  Rh15  1  0.999789  0.747670  0.164567  1
+  Rh  Rh16  1  0.499803  0.248642  0.333246  1
+  Rh  Rh17  1  0.499803  0.751358  0.333246  1
+  Rh  Rh18  1  0.000000  0.249696  0.500000  1
+  Rh  Rh19  1  0.000000  0.750304  0.500000  1
+  Rh  Rh20  1  0.500197  0.248642  0.666754  1
+  Rh  Rh21  1  0.500197  0.751358  0.666754  1
+  Rh  Rh22  1  0.000211  0.252330  0.835433  1
+  Rh  Rh23  1  0.000211  0.747670  0.835433  1

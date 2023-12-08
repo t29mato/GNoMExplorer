@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_NaPa2S5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.34763500
+_cell_length_b   8.14976529
+_cell_length_c   11.55147000
+_cell_angle_alpha   89.44794654
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaPa2S5
+_chemical_formula_sum   'Na4 Pa8 S20'
+_cell_volume   691.68725100
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.022845  0.997703  0.323230  1
+  Na  Na1  1  0.522845  0.002297  0.176770  1
+  Na  Na2  1  0.977155  0.002297  0.676770  1
+  Na  Na3  1  0.477155  0.997703  0.823230  1
+  Pa  Pa4  1  0.022334  0.497714  0.319296  1
+  Pa  Pa5  1  0.522334  0.502286  0.180704  1
+  Pa  Pa6  1  0.977666  0.502286  0.680704  1
+  Pa  Pa7  1  0.477666  0.497714  0.819296  1
+  Pa  Pa8  1  0.076865  0.755346  0.009149  1
+  Pa  Pa9  1  0.576865  0.244654  0.490851  1
+  Pa  Pa10  1  0.923135  0.244654  0.990851  1
+  Pa  Pa11  1  0.423135  0.755346  0.509149  1
+  S  S12  1  0.163249  0.452658  0.096451  1
+  S  S13  1  0.663249  0.547342  0.403549  1
+  S  S14  1  0.836751  0.547342  0.903549  1
+  S  S15  1  0.336751  0.452658  0.596451  1
+  S  S16  1  0.456634  0.718690  0.000908  1
+  S  S17  1  0.956634  0.281310  0.499092  1
+  S  S18  1  0.543366  0.281310  0.999092  1
+  S  S19  1  0.043366  0.718690  0.500908  1
+  S  S20  1  0.330500  0.282041  0.317906  1
+  S  S21  1  0.830500  0.717959  0.182094  1
+  S  S22  1  0.669500  0.717959  0.682094  1
+  S  S23  1  0.169500  0.282041  0.817906  1
+  S  S24  1  0.666728  0.957280  0.411465  1
+  S  S25  1  0.166728  0.042720  0.088535  1
+  S  S26  1  0.333272  0.042720  0.588535  1
+  S  S27  1  0.833272  0.957280  0.911465  1
+  S  S28  1  0.300842  0.730316  0.281398  1
+  S  S29  1  0.800842  0.269684  0.218602  1
+  S  S30  1  0.699158  0.269684  0.718602  1
+  S  S31  1  0.199158  0.730316  0.781398  1

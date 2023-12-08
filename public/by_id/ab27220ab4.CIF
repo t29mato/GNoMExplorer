@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CuReO4F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.01775088
+_cell_length_b   5.87132890
+_cell_length_c   8.15608208
+_cell_angle_alpha   109.36291294
+_cell_angle_beta   113.98857232
+_cell_angle_gamma   99.64093168
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuReO4F
+_chemical_formula_sum   'Cu2 Re2 O8 F2'
+_cell_volume   232.61626253
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.000000  0.000000  0.000000  1
+  Cu  Cu1  1  0.500000  0.500000  0.500000  1
+  Re  Re2  1  0.454549  0.141756  0.764520  1
+  Re  Re3  1  0.545451  0.858244  0.235480  1
+  O  O4  1  0.211232  0.799699  0.090695  1
+  O  O5  1  0.688082  0.824654  0.084853  1
+  O  O6  1  0.689009  0.172501  0.425370  1
+  O  O7  1  0.592033  0.639837  0.341620  1
+  O  O8  1  0.311918  0.175346  0.915147  1
+  O  O9  1  0.310991  0.827499  0.574630  1
+  O  O10  1  0.407967  0.360163  0.658380  1
+  O  O11  1  0.788768  0.200301  0.909305  1
+  F  F12  1  0.168521  0.272510  0.267946  1
+  F  F13  1  0.831479  0.727490  0.732054  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sc4VSi4Tc3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.43903900
+_cell_length_b   7.01638572
+_cell_length_c   8.06989377
+_cell_angle_alpha   89.06622087
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc4VSi4Tc3
+_chemical_formula_sum   'Sc4 V1 Si4 Tc3'
+_cell_volume   194.69764371
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.750000  0.957785  0.167131  1
+  Sc  Sc1  1  0.250000  0.038368  0.831567  1
+  Sc  Sc2  1  0.750000  0.460920  0.332787  1
+  Sc  Sc3  1  0.250000  0.539157  0.668925  1
+  V  V4  1  0.750000  0.877860  0.563151  1
+  Si  Si5  1  0.250000  0.269344  0.132785  1
+  Si  Si6  1  0.750000  0.731906  0.865769  1
+  Si  Si7  1  0.250000  0.761549  0.368514  1
+  Si  Si8  1  0.750000  0.238613  0.632090  1
+  Tc  Tc9  1  0.250000  0.635513  0.068060  1
+  Tc  Tc10  1  0.750000  0.364402  0.931956  1
+  Tc  Tc11  1  0.250000  0.124585  0.437268  1

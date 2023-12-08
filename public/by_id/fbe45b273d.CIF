@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CaTh(Al4Co)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.04421300
+_cell_length_b   6.87176700
+_cell_length_c   7.70379300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaTh(Al4Co)2
+_chemical_formula_sum   'Ca1 Th1 Al8 Co2'
+_cell_volume   214.09525949
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.000000  0.387688  0.750000  1
+  Th  Th1  1  0.000000  0.607716  0.250000  1
+  Al  Al2  1  0.000000  0.000376  0.500340  1
+  Al  Al3  1  0.000000  0.000376  0.999660  1
+  Al  Al4  1  0.500000  0.046953  0.750000  1
+  Al  Al5  1  0.500000  0.957108  0.250000  1
+  Al  Al6  1  0.500000  0.296564  0.067409  1
+  Al  Al7  1  0.500000  0.701795  0.930004  1
+  Al  Al8  1  0.500000  0.296564  0.432591  1
+  Al  Al9  1  0.500000  0.701795  0.569996  1
+  Co  Co10  1  0.000000  0.813301  0.750000  1
+  Co  Co11  1  0.000000  0.189763  0.250000  1

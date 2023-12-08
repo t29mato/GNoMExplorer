@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_MnCrNiSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.24969418
+_cell_length_b   7.24969421
+_cell_length_c   7.24969388
+_cell_angle_alpha   119.90543149
+_cell_angle_beta   119.78197947
+_cell_angle_gamma   90.27095552
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnCrNiSe4
+_chemical_formula_sum   'Mn2 Cr2 Ni2 Se8'
+_cell_volume   270.06165754
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.000000  0.000000  0.000000  1
+  Mn  Mn1  1  0.500000  0.000000  0.500000  1
+  Cr  Cr2  1  0.000000  0.000000  0.500000  1
+  Cr  Cr3  1  0.000000  0.500000  0.000000  1
+  Ni  Ni4  1  0.374647  0.624647  0.750000  1
+  Ni  Ni5  1  0.625353  0.375353  0.250000  1
+  Se  Se6  1  0.245276  0.755629  0.010353  1
+  Se  Se7  1  0.245276  0.234923  0.489647  1
+  Se  Se8  1  0.241917  0.754205  0.487713  1
+  Se  Se9  1  0.766493  0.754205  0.012287  1
+  Se  Se10  1  0.754724  0.244371  0.989647  1
+  Se  Se11  1  0.754724  0.765077  0.510353  1
+  Se  Se12  1  0.758083  0.245795  0.512287  1
+  Se  Se13  1  0.233507  0.245795  0.987713  1

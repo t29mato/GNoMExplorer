@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Yb2Y2TaOs7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.44511300
+_cell_length_b   5.44511259
+_cell_length_c   8.60902800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999641
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Yb2Y2TaOs7
+_chemical_formula_sum   'Yb2 Y2 Ta1 Os7'
+_cell_volume   221.05407681
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.666667  0.333333  0.941427  1
+  Yb  Yb1  1  0.333333  0.666667  0.058573  1
+  Y  Y2  1  0.333333  0.666667  0.421601  1
+  Y  Y3  1  0.666667  0.333333  0.578399  1
+  Ta  Ta4  1  0.000000  0.000000  0.500000  1
+  Os  Os5  1  0.000000  0.000000  0.000000  1
+  Os  Os6  1  0.826705  0.173295  0.249708  1
+  Os  Os7  1  0.826705  0.653409  0.249708  1
+  Os  Os8  1  0.346591  0.173295  0.249708  1
+  Os  Os9  1  0.173295  0.826705  0.750292  1
+  Os  Os10  1  0.173295  0.346591  0.750292  1
+  Os  Os11  1  0.653409  0.826705  0.750292  1

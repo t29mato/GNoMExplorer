@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ho2HPd5Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.85851379
+_cell_length_b   5.84976512
+_cell_length_c   5.84989869
+_cell_angle_alpha   60.09822707
+_cell_angle_beta   59.94975342
+_cell_angle_gamma   59.95202040
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2HPd5Pt
+_chemical_formula_sum   'Ho2 H1 Pd5 Pt1'
+_cell_volume   141.76117933
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.246685  0.253315  0.253315  1
+  Ho  Ho1  1  0.746685  0.753315  0.753315  1
+  H  H2  1  0.026267  0.973733  0.973733  1
+  Pd  Pd3  1  0.746798  0.253203  0.253203  1
+  Pd  Pd4  1  0.248834  0.751167  0.256347  1
+  Pd  Pd5  1  0.743655  0.751168  0.256346  1
+  Pd  Pd6  1  0.743653  0.256348  0.751166  1
+  Pd  Pd7  1  0.248832  0.256345  0.751169  1
+  Pt  Pt8  1  0.248593  0.751408  0.751408  1

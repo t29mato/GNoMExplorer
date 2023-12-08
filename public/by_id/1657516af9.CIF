@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ho4Er6(BiPb)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.08030613
+_cell_length_b   9.08030793
+_cell_length_c   6.43474100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.01905880
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho4Er6(BiPb)3
+_chemical_formula_sum   'Ho4 Er6 Bi3 Pb3'
+_cell_volume   459.38766683
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.761900  0.761900  0.750000  1
+  Ho  Ho1  1  0.238122  0.999962  0.750000  1
+  Ho  Ho2  1  0.999962  0.238122  0.750000  1
+  Ho  Ho3  1  0.238388  0.238388  0.250000  1
+  Er  Er4  1  0.666675  0.333347  0.002880  1
+  Er  Er5  1  0.333347  0.666675  0.002880  1
+  Er  Er6  1  0.333347  0.666675  0.497120  1
+  Er  Er7  1  0.666675  0.333347  0.497120  1
+  Er  Er8  1  0.761561  0.999978  0.250000  1
+  Er  Er9  1  0.999978  0.761561  0.250000  1
+  Bi  Bi10  1  0.393033  0.393033  0.750000  1
+  Bi  Bi11  1  0.606979  0.000002  0.750000  1
+  Bi  Bi12  1  0.000002  0.606979  0.750000  1
+  Pb  Pb13  1  0.607532  0.607532  0.250000  1
+  Pb  Pb14  1  0.392567  0.999930  0.250000  1
+  Pb  Pb15  1  0.999930  0.392567  0.250000  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LiYb2AlPt2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.14358800
+_cell_length_b   7.07771700
+_cell_length_c   8.11826500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiYb2AlPt2
+_chemical_formula_sum   'Li2 Yb4 Al2 Pt4'
+_cell_volume   238.08552042
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.250000  0.139841  0.939225  1
+  Li  Li1  1  0.250000  0.639841  0.560775  1
+  Yb  Yb2  1  0.250000  0.025058  0.322122  1
+  Yb  Yb3  1  0.250000  0.525058  0.177878  1
+  Yb  Yb4  1  0.750000  0.968484  0.677225  1
+  Yb  Yb5  1  0.750000  0.468484  0.822775  1
+  Al  Al6  1  0.750000  0.867856  0.062267  1
+  Al  Al7  1  0.750000  0.367856  0.437733  1
+  Pt  Pt8  1  0.250000  0.273461  0.605059  1
+  Pt  Pt9  1  0.250000  0.773461  0.894941  1
+  Pt  Pt10  1  0.750000  0.725299  0.362805  1
+  Pt  Pt11  1  0.750000  0.225299  0.137195  1

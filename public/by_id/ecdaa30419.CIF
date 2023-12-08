@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_HoCo2(B2Ru)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.16898300
+_cell_length_b   7.16898300
+_cell_length_c   3.92087600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoCo2(B2Ru)2
+_chemical_formula_sum   'Ho2 Co4 B8 Ru4'
+_cell_volume   201.51074506
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.000000  0.000000  0.093244  1
+  Ho  Ho1  1  0.500000  0.500000  0.593244  1
+  Co  Co2  1  0.621027  0.119269  0.375143  1
+  Co  Co3  1  0.378973  0.880731  0.375143  1
+  Co  Co4  1  0.619269  0.878973  0.875143  1
+  Co  Co5  1  0.380731  0.121027  0.875143  1
+  B  B6  1  0.341847  0.819765  0.878970  1
+  B  B7  1  0.658153  0.180235  0.878970  1
+  B  B8  1  0.319765  0.158153  0.378970  1
+  B  B9  1  0.680235  0.841847  0.378970  1
+  B  B10  1  0.174007  0.728631  0.597470  1
+  B  B11  1  0.825993  0.271369  0.597470  1
+  B  B12  1  0.228631  0.325993  0.097470  1
+  B  B13  1  0.771369  0.674007  0.097470  1
+  Ru  Ru14  1  0.840582  0.388582  0.101795  1
+  Ru  Ru15  1  0.159418  0.611418  0.101795  1
+  Ru  Ru16  1  0.888582  0.659418  0.601795  1
+  Ru  Ru17  1  0.111418  0.340582  0.601795  1

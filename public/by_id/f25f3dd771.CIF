@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_FeMo3RhN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.78297400
+_cell_length_b   6.78297400
+_cell_length_c   6.78297400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeMo3RhN
+_chemical_formula_sum   'Fe4 Mo12 Rh4 N4'
+_cell_volume   312.07606199
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.180703  0.819297  0.319297  1
+  Fe  Fe1  1  0.319297  0.180703  0.819297  1
+  Fe  Fe2  1  0.819297  0.319297  0.180703  1
+  Fe  Fe3  1  0.680703  0.680703  0.680703  1
+  Mo  Mo4  1  0.799463  0.956776  0.374297  1
+  Mo  Mo5  1  0.700537  0.043224  0.874297  1
+  Mo  Mo6  1  0.200537  0.456776  0.125703  1
+  Mo  Mo7  1  0.299463  0.543224  0.625703  1
+  Mo  Mo8  1  0.956776  0.374297  0.799463  1
+  Mo  Mo9  1  0.043224  0.874297  0.700537  1
+  Mo  Mo10  1  0.456776  0.125703  0.200537  1
+  Mo  Mo11  1  0.543224  0.625703  0.299463  1
+  Mo  Mo12  1  0.374297  0.799463  0.956776  1
+  Mo  Mo13  1  0.874297  0.700537  0.043224  1
+  Mo  Mo14  1  0.125703  0.200537  0.456776  1
+  Mo  Mo15  1  0.625703  0.299463  0.543224  1
+  Rh  Rh16  1  0.565614  0.434386  0.934386  1
+  Rh  Rh17  1  0.434386  0.934386  0.565614  1
+  Rh  Rh18  1  0.934386  0.565614  0.434386  1
+  Rh  Rh19  1  0.065614  0.065614  0.065614  1
+  N  N20  1  0.874597  0.125403  0.625403  1
+  N  N21  1  0.625403  0.874597  0.125403  1
+  N  N22  1  0.125403  0.625403  0.874597  1
+  N  N23  1  0.374597  0.374597  0.374597  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LiTa3(CoP)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.57420700
+_cell_length_b   6.09624840
+_cell_length_c   6.91629035
+_cell_angle_alpha   90.27585584
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTa3(CoP)4
+_chemical_formula_sum   'Li1 Ta3 Co4 P4'
+_cell_volume   150.69905832
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.250000  0.025564  0.820169  1
+  Ta  Ta1  1  0.250000  0.522727  0.676857  1
+  Ta  Ta2  1  0.750000  0.974567  0.175445  1
+  Ta  Ta3  1  0.750000  0.471283  0.323572  1
+  Co  Co4  1  0.250000  0.144477  0.440674  1
+  Co  Co5  1  0.250000  0.636630  0.062135  1
+  Co  Co6  1  0.750000  0.856281  0.564527  1
+  Co  Co7  1  0.750000  0.363455  0.937615  1
+  P  P8  1  0.250000  0.266210  0.111504  1
+  P  P9  1  0.250000  0.774769  0.379464  1
+  P  P10  1  0.750000  0.742866  0.878166  1
+  P  P11  1  0.750000  0.221170  0.629872  1

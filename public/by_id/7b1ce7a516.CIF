@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Sr5Eu(SnHg)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.74205300
+_cell_length_b   8.04967200
+_cell_length_c   17.19809300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00011651
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr5Eu(SnHg)3
+_chemical_formula_sum   'Sr10 Eu2 Sn6 Hg6'
+_cell_volume   794.92411934
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.999985  0.250254  0.166309  1
+  Sr  Sr1  1  0.999985  0.749746  0.166309  1
+  Sr  Sr2  1  0.499987  0.249813  0.333073  1
+  Sr  Sr3  1  0.499987  0.750188  0.333073  1
+  Sr  Sr4  1  0.000000  0.250233  0.500000  1
+  Sr  Sr5  1  0.000000  0.749768  0.500000  1
+  Sr  Sr6  1  0.500013  0.249813  0.666927  1
+  Sr  Sr7  1  0.500013  0.750188  0.666927  1
+  Sr  Sr8  1  0.000015  0.250254  0.833692  1
+  Sr  Sr9  1  0.000015  0.749746  0.833692  1
+  Eu  Eu10  1  0.500000  0.249692  0.000000  1
+  Eu  Eu11  1  0.500000  0.750308  0.000000  1
+  Sn  Sn12  1  0.000000  0.500000  0.000000  1
+  Sn  Sn13  1  0.499993  0.000000  0.164998  1
+  Sn  Sn14  1  0.999996  0.500000  0.333311  1
+  Sn  Sn15  1  0.500000  0.000000  0.500000  1
+  Sn  Sn16  1  0.000004  0.500000  0.666689  1
+  Sn  Sn17  1  0.500008  0.000000  0.835002  1
+  Hg  Hg18  1  0.000000  0.000000  0.000000  1
+  Hg  Hg19  1  0.499968  0.500000  0.165298  1
+  Hg  Hg20  1  0.999993  0.000000  0.333194  1
+  Hg  Hg21  1  0.500000  0.500000  0.500000  1
+  Hg  Hg22  1  0.000007  0.000000  0.666806  1
+  Hg  Hg23  1  0.500033  0.500000  0.834701  1

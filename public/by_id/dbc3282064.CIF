@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_YbPr3(ReC2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.35389800
+_cell_length_b   6.65167300
+_cell_length_c   10.46239800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbPr3(ReC2)2
+_chemical_formula_sum   'Yb2 Pr6 Re4 C8'
+_cell_volume   372.59088043
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.750000  0.530392  0.776705  1
+  Yb  Yb1  1  0.250000  0.969608  0.276705  1
+  Pr  Pr2  1  0.750000  0.697885  0.450679  1
+  Pr  Pr3  1  0.250000  0.802115  0.950679  1
+  Pr  Pr4  1  0.750000  0.194701  0.049083  1
+  Pr  Pr5  1  0.250000  0.305299  0.549083  1
+  Pr  Pr6  1  0.250000  0.471077  0.221553  1
+  Pr  Pr7  1  0.750000  0.028923  0.721553  1
+  Re  Re8  1  0.250000  0.271209  0.854589  1
+  Re  Re9  1  0.250000  0.769303  0.645557  1
+  Re  Re10  1  0.750000  0.228791  0.354589  1
+  Re  Re11  1  0.750000  0.730697  0.145557  1
+  C  C12  1  0.250000  0.691116  0.469305  1
+  C  C13  1  0.250000  0.533211  0.758157  1
+  C  C14  1  0.750000  0.466913  0.242639  1
+  C  C15  1  0.750000  0.808884  0.969305  1
+  C  C16  1  0.250000  0.033087  0.742639  1
+  C  C17  1  0.250000  0.201952  0.031734  1
+  C  C18  1  0.750000  0.298048  0.531734  1
+  C  C19  1  0.750000  0.966789  0.258157  1

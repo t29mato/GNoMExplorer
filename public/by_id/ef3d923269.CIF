@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Y10Si6Cl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.55336200
+_cell_length_b   8.55336219
+_cell_length_c   6.38969800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999926
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y10Si6Cl
+_chemical_formula_sum   'Y10 Si6 Cl1'
+_cell_volume   404.84118059
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.333333  0.666667  0.500000  1
+  Y  Y1  1  0.666667  0.333333  0.500000  1
+  Y  Y2  1  0.666667  0.333333  0.000000  1
+  Y  Y3  1  0.333333  0.666667  0.000000  1
+  Y  Y4  1  0.000000  0.744068  0.236007  1
+  Y  Y5  1  0.255932  0.255932  0.236007  1
+  Y  Y6  1  0.744068  0.000000  0.236007  1
+  Y  Y7  1  0.000000  0.255932  0.763993  1
+  Y  Y8  1  0.744068  0.744068  0.763993  1
+  Y  Y9  1  0.255932  0.000000  0.763993  1
+  Si  Si10  1  0.000000  0.390123  0.245837  1
+  Si  Si11  1  0.609877  0.609877  0.245837  1
+  Si  Si12  1  0.390123  0.000000  0.245837  1
+  Si  Si13  1  0.000000  0.609877  0.754163  1
+  Si  Si14  1  0.390123  0.390123  0.754163  1
+  Si  Si15  1  0.609877  0.000000  0.754163  1
+  Cl  Cl16  1  0.000000  0.000000  0.500000  1

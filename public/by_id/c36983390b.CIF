@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Al2Ga(FeRh2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.27050800
+_cell_length_b   6.01795700
+_cell_length_c   12.81701900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.99895819
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al2Ga(FeRh2)3
+_chemical_formula_sum   'Al4 Ga2 Fe6 Rh12'
+_cell_volume   329.39397269
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.999826  0.500000  0.333551  1
+  Al  Al1  1  0.500001  0.000000  0.500168  1
+  Al  Al2  1  0.000172  0.500000  0.666548  1
+  Al  Al3  1  0.500175  0.000000  0.833074  1
+  Ga  Ga4  1  0.000000  0.500000  0.999899  1
+  Ga  Ga5  1  0.499816  0.000000  0.166746  1
+  Fe  Fe6  1  0.000003  0.000000  0.999423  1
+  Fe  Fe7  1  0.499803  0.500000  0.167197  1
+  Fe  Fe8  1  0.999810  0.000000  0.333915  1
+  Fe  Fe9  1  0.500003  0.500000  0.500049  1
+  Fe  Fe10  1  0.000188  0.000000  0.666678  1
+  Fe  Fe11  1  0.500200  0.500000  0.832761  1
+  Rh  Rh12  1  0.500007  0.248757  0.998879  1
+  Rh  Rh13  1  0.500007  0.751244  0.998879  1
+  Rh  Rh14  1  0.999812  0.250887  0.167685  1
+  Rh  Rh15  1  0.999812  0.749114  0.167685  1
+  Rh  Rh16  1  0.499820  0.250903  0.334469  1
+  Rh  Rh17  1  0.499820  0.749098  0.334469  1
+  Rh  Rh18  1  0.000003  0.250046  0.500116  1
+  Rh  Rh19  1  0.000003  0.749955  0.500116  1
+  Rh  Rh20  1  0.500175  0.250202  0.666543  1
+  Rh  Rh21  1  0.500175  0.749799  0.666543  1
+  Rh  Rh22  1  0.000185  0.249035  0.832305  1
+  Rh  Rh23  1  0.000185  0.750966  0.832305  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Np2GaGePt2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.51071900
+_cell_length_b   6.91311400
+_cell_length_c   7.65082200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Np2GaGePt2
+_chemical_formula_sum   'Np4 Ga2 Ge2 Pt4'
+_cell_volume   238.57645974
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Np  Np0  1  0.250000  0.010579  0.698712  1
+  Np  Np1  1  0.250000  0.510579  0.801288  1
+  Np  Np2  1  0.750000  0.986364  0.298237  1
+  Np  Np3  1  0.750000  0.486364  0.201763  1
+  Ga  Ga4  1  0.750000  0.814031  0.918020  1
+  Ga  Ga5  1  0.750000  0.314031  0.581980  1
+  Ge  Ge6  1  0.250000  0.182667  0.083561  1
+  Ge  Ge7  1  0.250000  0.682667  0.416439  1
+  Pt  Pt8  1  0.250000  0.291380  0.413766  1
+  Pt  Pt9  1  0.250000  0.791380  0.086234  1
+  Pt  Pt10  1  0.750000  0.714979  0.589583  1
+  Pt  Pt11  1  0.750000  0.214979  0.910417  1

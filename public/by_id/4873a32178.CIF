@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Sc3MnSi(TcGe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.01759400
+_cell_length_b   7.01759367
+_cell_length_c   3.49818200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.66588559
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc3MnSi(TcGe)2
+_chemical_formula_sum   'Sc3 Mn1 Si1 Tc2 Ge2'
+_cell_volume   148.18223186
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.387569  0.387569  0.500000  1
+  Sc  Sc1  1  0.603593  0.009801  0.500000  1
+  Sc  Sc2  1  0.009801  0.603593  0.500000  1
+  Mn  Mn3  1  0.753944  0.753944  0.000000  1
+  Si  Si4  1  0.999108  0.999108  0.500000  1
+  Tc  Tc5  1  0.994027  0.244112  0.000000  1
+  Tc  Tc6  1  0.244112  0.994027  0.000000  1
+  Ge  Ge7  1  0.667916  0.339930  0.000000  1
+  Ge  Ge8  1  0.339930  0.667916  0.000000  1

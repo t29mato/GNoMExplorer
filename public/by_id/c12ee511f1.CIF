@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Li2Ce3AgPb3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.61966300
+_cell_length_b   7.63480309
+_cell_length_c   4.75307000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.06577099
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Ce3AgPb3
+_chemical_formula_sum   'Li2 Ce3 Ag1 Pb3'
+_cell_volume   239.30415279
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.230490  0.003746  0.000000  1
+  Li  Li1  1  0.769510  0.773257  0.000000  1
+  Ce  Ce2  1  0.580592  0.007620  0.500000  1
+  Ce  Ce3  1  0.419408  0.427028  0.500000  1
+  Ce  Ce4  1  0.000000  0.554241  0.500000  1
+  Ag  Ag5  1  0.000000  0.235691  0.000000  1
+  Pb  Pb6  1  0.000000  0.987344  0.500000  1
+  Pb  Pb7  1  0.339521  0.675298  0.000000  1
+  Pb  Pb8  1  0.660479  0.335776  0.000000  1

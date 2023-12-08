@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_U4Fe16Si7W2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.08530631
+_cell_length_b   8.00056765
+_cell_length_c   8.08530747
+_cell_angle_alpha   60.34609211
+_cell_angle_beta   59.30781480
+_cell_angle_gamma   60.34609214
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U4Fe16Si7W2
+_chemical_formula_sum   'U4 Fe16 Si7 W2'
+_cell_volume   369.74676928
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.172769  0.172769  0.827231  1
+  U  U1  1  0.827231  0.827231  0.172769  1
+  U  U2  1  0.172769  0.827231  0.827231  1
+  U  U3  1  0.827231  0.172769  0.172769  1
+  Fe  Fe4  1  0.171168  0.169075  0.171168  1
+  Fe  Fe5  1  0.169075  0.171168  0.488591  1
+  Fe  Fe6  1  0.830925  0.828832  0.511409  1
+  Fe  Fe7  1  0.828832  0.511409  0.828832  1
+  Fe  Fe8  1  0.618238  0.141443  0.618238  1
+  Fe  Fe9  1  0.828832  0.830925  0.828832  1
+  Fe  Fe10  1  0.381762  0.377919  0.381762  1
+  Fe  Fe11  1  0.618238  0.622081  0.618238  1
+  Fe  Fe12  1  0.488591  0.171168  0.169075  1
+  Fe  Fe13  1  0.511409  0.828832  0.830925  1
+  Fe  Fe14  1  0.171168  0.488591  0.171168  1
+  Fe  Fe15  1  0.622081  0.618238  0.141443  1
+  Fe  Fe16  1  0.377919  0.381762  0.858557  1
+  Fe  Fe17  1  0.858557  0.381762  0.377919  1
+  Fe  Fe18  1  0.381762  0.858557  0.381762  1
+  Fe  Fe19  1  0.141443  0.618238  0.622081  1
+  Si  Si20  1  0.500000  0.500000  0.000000  1
+  Si  Si21  1  0.500000  0.500000  0.500000  1
+  Si  Si22  1  0.500000  0.000000  0.500000  1
+  Si  Si23  1  0.000000  0.000000  0.500000  1
+  Si  Si24  1  0.000000  0.500000  0.500000  1
+  Si  Si25  1  0.000000  0.500000  0.000000  1
+  Si  Si26  1  0.500000  0.000000  0.000000  1
+  W  W27  1  0.771291  0.228709  0.771291  1
+  W  W28  1  0.228709  0.771291  0.228709  1

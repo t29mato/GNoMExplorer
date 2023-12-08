@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Zr5TiAl4(RhN)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.55852343
+_cell_length_b   8.55852485
+_cell_length_c   8.51124600
+_cell_angle_alpha   60.18256313
+_cell_angle_beta   60.18255769
+_cell_angle_gamma   59.63486321
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr5TiAl4(RhN)2
+_chemical_formula_sum   'Zr10 Ti2 Al8 Rh4 N4'
+_cell_volume   440.80802526
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.810619  0.810619  0.189381  1
+  Zr  Zr1  1  0.063644  0.438042  0.440711  1
+  Zr  Zr2  1  0.438042  0.063644  0.057604  1
+  Zr  Zr3  1  0.060619  0.060619  0.439381  1
+  Zr  Zr4  1  0.063644  0.438042  0.057604  1
+  Zr  Zr5  1  0.438042  0.063644  0.440711  1
+  Zr  Zr6  1  0.192396  0.809289  0.186356  1
+  Zr  Zr7  1  0.192396  0.809289  0.811958  1
+  Zr  Zr8  1  0.809289  0.192396  0.186356  1
+  Zr  Zr9  1  0.809289  0.192396  0.811958  1
+  Ti  Ti10  1  0.432698  0.432698  0.067302  1
+  Ti  Ti11  1  0.182698  0.182698  0.817302  1
+  Al  Al12  1  0.419428  0.742490  0.419040  1
+  Al  Al13  1  0.830960  0.830960  0.507510  1
+  Al  Al14  1  0.506678  0.833733  0.829795  1
+  Al  Al15  1  0.830960  0.830960  0.830572  1
+  Al  Al16  1  0.742490  0.419428  0.419040  1
+  Al  Al17  1  0.420205  0.420205  0.416267  1
+  Al  Al18  1  0.420205  0.420205  0.743322  1
+  Al  Al19  1  0.833733  0.506678  0.829795  1
+  Rh  Rh20  1  0.622004  0.127290  0.625353  1
+  Rh  Rh21  1  0.624647  0.624647  0.122710  1
+  Rh  Rh22  1  0.127290  0.622004  0.625353  1
+  Rh  Rh23  1  0.624647  0.624647  0.627996  1
+  N  N24  1  0.134525  0.617164  0.124155  1
+  N  N25  1  0.125845  0.125845  0.632836  1
+  N  N26  1  0.617164  0.134525  0.124155  1
+  N  N27  1  0.125845  0.125845  0.115475  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ta2TcS6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.66009341
+_cell_length_b   5.66009361
+_cell_length_c   6.98273354
+_cell_angle_alpha   82.26947803
+_cell_angle_beta   82.26947363
+_cell_angle_gamma   119.97895196
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2TcS6
+_chemical_formula_sum   'Ta2 Tc1 S6'
+_cell_volume   186.63457655
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.834143  0.500738  0.499976  1
+  Ta  Ta1  1  0.500738  0.834143  0.499976  1
+  Tc  Tc2  1  0.165736  0.165736  0.500021  1
+  S  S3  1  0.570194  0.243585  0.268323  1
+  S  S4  1  0.243585  0.570194  0.268323  1
+  S  S5  1  0.916666  0.916666  0.267705  1
+  S  S6  1  0.762543  0.762543  0.732421  1
+  S  S7  1  0.416425  0.089873  0.731776  1
+  S  S8  1  0.089873  0.416425  0.731776  1

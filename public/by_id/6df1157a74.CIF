@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_DyLu(ScSb)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.75741300
+_cell_length_b   8.91551100
+_cell_length_c   11.52557900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyLu(ScSb)3
+_chemical_formula_sum   'Dy4 Lu4 Sc12 Sb12'
+_cell_volume   797.12403765
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.184080  0.750000  0.721255  1
+  Dy  Dy1  1  0.684080  0.750000  0.778745  1
+  Dy  Dy2  1  0.815920  0.250000  0.278745  1
+  Dy  Dy3  1  0.315920  0.250000  0.221255  1
+  Lu  Lu4  1  0.851642  0.750000  0.282690  1
+  Lu  Lu5  1  0.351642  0.750000  0.217310  1
+  Lu  Lu6  1  0.148358  0.250000  0.717310  1
+  Lu  Lu7  1  0.648358  0.250000  0.782690  1
+  Sc  Sc8  1  0.193909  0.562361  0.439807  1
+  Sc  Sc9  1  0.693909  0.937639  0.060193  1
+  Sc  Sc10  1  0.806091  0.062361  0.560193  1
+  Sc  Sc11  1  0.306091  0.437639  0.939807  1
+  Sc  Sc12  1  0.806091  0.437639  0.560193  1
+  Sc  Sc13  1  0.306091  0.062361  0.939807  1
+  Sc  Sc14  1  0.193909  0.937639  0.439807  1
+  Sc  Sc15  1  0.693909  0.562361  0.060193  1
+  Sc  Sc16  1  0.024551  0.750000  0.990425  1
+  Sc  Sc17  1  0.524551  0.750000  0.509575  1
+  Sc  Sc18  1  0.975449  0.250000  0.009575  1
+  Sc  Sc19  1  0.475449  0.250000  0.490425  1
+  Sb  Sb20  1  0.935617  0.494325  0.832430  1
+  Sb  Sb21  1  0.435617  0.005675  0.667570  1
+  Sb  Sb22  1  0.064383  0.994325  0.167570  1
+  Sb  Sb23  1  0.564383  0.505675  0.332430  1
+  Sb  Sb24  1  0.064383  0.505675  0.167570  1
+  Sb  Sb25  1  0.564383  0.994325  0.332430  1
+  Sb  Sb26  1  0.935617  0.005675  0.832430  1
+  Sb  Sb27  1  0.435617  0.494325  0.667570  1
+  Sb  Sb28  1  0.908666  0.750000  0.536699  1
+  Sb  Sb29  1  0.408666  0.750000  0.963301  1
+  Sb  Sb30  1  0.091334  0.250000  0.463301  1
+  Sb  Sb31  1  0.591334  0.250000  0.036699  1

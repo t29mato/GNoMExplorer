@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ti2NbSi2PtC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.14915506
+_cell_length_b   8.14849416
+_cell_length_c   8.15529183
+_cell_angle_alpha   59.97776015
+_cell_angle_beta   59.96972220
+_cell_angle_gamma   60.06369553
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2NbSi2PtC
+_chemical_formula_sum   'Ti8 Nb4 Si8 Pt4 C4'
+_cell_volume   382.95735555
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.682779  0.317140  0.682228  1
+  Ti  Ti1  1  0.317140  0.682779  0.317853  1
+  Ti  Ti2  1  0.567141  0.932617  0.566770  1
+  Ti  Ti3  1  0.566366  0.933543  0.934066  1
+  Ti  Ti4  1  0.933543  0.566366  0.566025  1
+  Ti  Ti5  1  0.932617  0.567141  0.933472  1
+  Ti  Ti6  1  0.316098  0.316098  0.683902  1
+  Ti  Ti7  1  0.565921  0.565921  0.934079  1
+  Nb  Nb8  1  0.934445  0.934445  0.565555  1
+  Nb  Nb9  1  0.685587  0.313668  0.314771  1
+  Nb  Nb10  1  0.313668  0.685587  0.685973  1
+  Nb  Nb11  1  0.685129  0.685129  0.314871  1
+  Si  Si12  1  0.909413  0.270873  0.910826  1
+  Si  Si13  1  0.340138  0.339447  0.980777  1
+  Si  Si14  1  0.982431  0.337984  0.340029  1
+  Si  Si15  1  0.339447  0.340138  0.339637  1
+  Si  Si16  1  0.270873  0.909413  0.908890  1
+  Si  Si17  1  0.910623  0.908925  0.911150  1
+  Si  Si18  1  0.908925  0.910623  0.269303  1
+  Si  Si19  1  0.337984  0.982431  0.339555  1
+  Pt  Pt20  1  0.127074  0.624891  0.127402  1
+  Pt  Pt21  1  0.124351  0.130555  0.626558  1
+  Pt  Pt22  1  0.624891  0.127074  0.120632  1
+  Pt  Pt23  1  0.130555  0.124351  0.118534  1
+  C  C24  1  0.616823  0.125112  0.632419  1
+  C  C25  1  0.622022  0.628903  0.118288  1
+  C  C26  1  0.125112  0.616823  0.625646  1
+  C  C27  1  0.628903  0.622022  0.630785  1

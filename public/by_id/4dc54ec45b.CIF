@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_Mn3CrGa2Ag3F18
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.26610600
+_cell_length_b   9.26610720
+_cell_length_c   5.28315000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000285
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn3CrGa2Ag3F18
+_chemical_formula_sum   'Mn3 Cr1 Ga2 Ag3 F18'
+_cell_volume   392.84220947
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.701958  0.000000  0.500000  1
+  Mn  Mn1  1  0.298042  0.298042  0.500000  1
+  Mn  Mn2  1  0.000000  0.701958  0.500000  1
+  Cr  Cr3  1  0.000000  0.000000  0.000000  1
+  Ga  Ga4  1  0.333333  0.666667  0.497294  1
+  Ga  Ga5  1  0.666667  0.333333  0.502706  1
+  Ag  Ag6  1  0.373733  0.000000  0.000000  1
+  Ag  Ag7  1  0.000000  0.373733  0.000000  1
+  Ag  Ag8  1  0.626267  0.626267  0.000000  1
+  F  F9  1  0.767165  0.231161  0.303408  1
+  F  F10  1  0.768839  0.536004  0.303408  1
+  F  F11  1  0.463996  0.232835  0.303408  1
+  F  F12  1  0.536004  0.768839  0.696592  1
+  F  F13  1  0.232835  0.463996  0.696592  1
+  F  F14  1  0.231161  0.767165  0.696592  1
+  F  F15  1  0.399393  0.535701  0.296158  1
+  F  F16  1  0.464299  0.863692  0.296158  1
+  F  F17  1  0.136308  0.600607  0.296158  1
+  F  F18  1  0.896497  0.091479  0.776186  1
+  F  F19  1  0.908521  0.805017  0.776186  1
+  F  F20  1  0.194983  0.103503  0.776186  1
+  F  F21  1  0.805017  0.908521  0.223814  1
+  F  F22  1  0.103503  0.194983  0.223814  1
+  F  F23  1  0.091479  0.896497  0.223814  1
+  F  F24  1  0.535701  0.399393  0.703842  1
+  F  F25  1  0.600607  0.136308  0.703842  1
+  F  F26  1  0.863692  0.464299  0.703842  1

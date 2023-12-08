@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_PrSi2Tc3Os
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.40216544
+_cell_length_b   7.40216417
+_cell_length_c   4.07811100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   148.04578296
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrSi2Tc3Os
+_chemical_formula_sum   'Pr1 Si2 Tc3 Os1'
+_cell_volume   118.25796299
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.998798  0.001202  0.000000  1
+  Si  Si1  1  0.588537  0.411463  0.500000  1
+  Si  Si2  1  0.409962  0.590038  0.500000  1
+  Tc  Tc3  1  0.189212  0.810788  0.500000  1
+  Tc  Tc4  1  0.695031  0.304969  0.000000  1
+  Tc  Tc5  1  0.305258  0.694742  0.000000  1
+  Os  Os6  1  0.813203  0.186797  0.500000  1

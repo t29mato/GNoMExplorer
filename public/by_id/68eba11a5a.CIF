@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Tb13Th3(NiAg)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.54054173
+_cell_length_b   9.54149622
+_cell_length_c   9.54149600
+_cell_angle_alpha   60.00000075
+_cell_angle_beta   59.99669122
+_cell_angle_gamma   59.99668750
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb13Th3(NiAg)4
+_chemical_formula_sum   'Tb13 Th3 Ni4 Ag4'
+_cell_volume   614.14265328
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.941621  0.352793  0.352793  1
+  Tb  Tb1  1  0.810263  0.189982  0.189982  1
+  Tb  Tb2  1  0.191167  0.810921  0.810921  1
+  Tb  Tb3  1  0.191167  0.810921  0.186990  1
+  Tb  Tb4  1  0.810263  0.189982  0.809773  1
+  Tb  Tb5  1  0.191167  0.186990  0.810921  1
+  Tb  Tb6  1  0.810263  0.809773  0.189982  1
+  Tb  Tb7  1  0.935280  0.565494  0.565494  1
+  Tb  Tb8  1  0.564533  0.935462  0.935462  1
+  Tb  Tb9  1  0.564533  0.935462  0.564543  1
+  Tb  Tb10  1  0.935280  0.565494  0.933731  1
+  Tb  Tb11  1  0.564533  0.564543  0.935462  1
+  Tb  Tb12  1  0.935280  0.933731  0.565494  1
+  Th  Th13  1  0.347092  0.351655  0.351655  1
+  Th  Th14  1  0.347092  0.351655  0.949599  1
+  Th  Th15  1  0.347092  0.949599  0.351655  1
+  Ni  Ni16  1  0.147254  0.141839  0.141839  1
+  Ni  Ni17  1  0.147254  0.141839  0.569069  1
+  Ni  Ni18  1  0.147254  0.569069  0.141839  1
+  Ni  Ni19  1  0.566689  0.144437  0.144437  1
+  Ag  Ag20  1  0.584630  0.582185  0.582185  1
+  Ag  Ag21  1  0.584630  0.582185  0.250998  1
+  Ag  Ag22  1  0.584630  0.250998  0.582185  1
+  Ag  Ag23  1  0.251029  0.582990  0.582990  1

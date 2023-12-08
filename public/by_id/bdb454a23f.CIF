@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_La3Th(BiSe)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.38947000
+_cell_length_b   4.38902646
+_cell_length_c   18.43293779
+_cell_angle_alpha   90.02239091
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3Th(BiSe)4
+_chemical_formula_sum   'La3 Th1 Bi4 Se4'
+_cell_volume   355.11973534
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.750000  0.260348  0.347518  1
+  La  La1  1  0.250000  0.758809  0.150721  1
+  La  La2  1  0.250000  0.741508  0.651296  1
+  Th  Th3  1  0.750000  0.242000  0.850326  1
+  Bi  Bi4  1  0.250000  0.248767  0.501249  1
+  Bi  Bi5  1  0.250000  0.248444  0.996106  1
+  Bi  Bi6  1  0.750000  0.750527  0.501211  1
+  Bi  Bi7  1  0.750000  0.747886  0.996153  1
+  Se  Se8  1  0.750000  0.240170  0.689788  1
+  Se  Se9  1  0.750000  0.260170  0.181620  1
+  Se  Se10  1  0.250000  0.760398  0.315350  1
+  Se  Se11  1  0.250000  0.740974  0.818661  1

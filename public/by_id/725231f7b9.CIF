@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_TiCd3(Pd2Au)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.90308038
+_cell_length_b   5.90007441
+_cell_length_c   7.71542100
+_cell_angle_alpha   89.99830128
+_cell_angle_beta   89.99779297
+_cell_angle_gamma   89.95817538
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiCd3(Pd2Au)4
+_chemical_formula_sum   'Ti1 Cd3 Pd8 Au4'
+_cell_volume   268.71734400
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.250596  0.250002  0.999994  1
+  Cd  Cd1  1  0.749354  0.749999  0.000005  1
+  Cd  Cd2  1  0.750730  0.750002  0.499996  1
+  Cd  Cd3  1  0.249232  0.250001  0.500003  1
+  Pd  Pd4  1  0.007162  0.007125  0.242160  1
+  Pd  Pd5  1  0.007131  0.492915  0.242121  1
+  Pd  Pd6  1  0.493178  0.006893  0.243684  1
+  Pd  Pd7  1  0.493142  0.493071  0.243689  1
+  Pd  Pd8  1  0.493038  0.006899  0.756332  1
+  Pd  Pd9  1  0.493026  0.493080  0.756313  1
+  Pd  Pd10  1  0.007025  0.007084  0.757834  1
+  Pd  Pd11  1  0.007010  0.492925  0.757869  1
+  Au  Au12  1  0.748576  0.249996  0.999998  1
+  Au  Au13  1  0.250794  0.750010  0.000005  1
+  Au  Au14  1  0.249383  0.749992  0.499991  1
+  Au  Au15  1  0.750621  0.250009  0.500006  1

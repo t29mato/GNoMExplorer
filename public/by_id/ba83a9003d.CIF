@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Hf3BeGe2Ir3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.60679000
+_cell_length_b   6.60678915
+_cell_length_c   3.76418900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000424
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf3BeGe2Ir3
+_chemical_formula_sum   'Hf3 Be1 Ge2 Ir3'
+_cell_volume   142.29281929
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.401401  0.000000  0.500000  1
+  Hf  Hf1  1  0.000000  0.401401  0.500000  1
+  Hf  Hf2  1  0.598599  0.598599  0.500000  1
+  Be  Be3  1  0.000000  0.000000  0.500000  1
+  Ge  Ge4  1  0.333333  0.666667  0.000000  1
+  Ge  Ge5  1  0.666667  0.333333  0.000000  1
+  Ir  Ir6  1  0.763252  0.000000  0.000000  1
+  Ir  Ir7  1  0.000000  0.763252  0.000000  1
+  Ir  Ir8  1  0.236748  0.236748  0.000000  1

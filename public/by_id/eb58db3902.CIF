@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Hf2FeAs2Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.88758300
+_cell_length_b   6.61320165
+_cell_length_c   7.51735406
+_cell_angle_alpha   92.91990719
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf2FeAs2Pd
+_chemical_formula_sum   'Hf4 Fe2 As4 Pd2'
+_cell_volume   193.01552507
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.250000  0.472528  0.198065  1
+  Hf  Hf1  1  0.750000  0.527472  0.801935  1
+  Hf  Hf2  1  0.750000  0.023634  0.672837  1
+  Hf  Hf3  1  0.250000  0.976366  0.327163  1
+  Fe  Fe4  1  0.750000  0.633184  0.442615  1
+  Fe  Fe5  1  0.250000  0.366816  0.557385  1
+  As  As6  1  0.250000  0.727394  0.600613  1
+  As  As7  1  0.750000  0.272606  0.399387  1
+  As  As8  1  0.750000  0.744868  0.140292  1
+  As  As9  1  0.250000  0.255132  0.859708  1
+  Pd  Pd10  1  0.250000  0.853005  0.932685  1
+  Pd  Pd11  1  0.750000  0.146995  0.067315  1

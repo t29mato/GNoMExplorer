@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ti5Al4Mo(IrC)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.19825963
+_cell_length_b   8.18369659
+_cell_length_c   8.20010556
+_cell_angle_alpha   59.86353785
+_cell_angle_beta   59.96536159
+_cell_angle_gamma   59.84266228
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti5Al4Mo(IrC)2
+_chemical_formula_sum   'Ti10 Al8 Mo2 Ir4 C4'
+_cell_volume   388.05600847
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.310320  0.690323  0.689042  1
+  Ti  Ti1  1  0.687668  0.685936  0.314075  1
+  Ti  Ti2  1  0.689328  0.313033  0.686642  1
+  Ti  Ti3  1  0.312119  0.686976  0.312896  1
+  Ti  Ti4  1  0.563651  0.936911  0.560459  1
+  Ti  Ti5  1  0.564090  0.935653  0.938246  1
+  Ti  Ti6  1  0.935899  0.564293  0.562321  1
+  Ti  Ti7  1  0.937187  0.562987  0.937826  1
+  Ti  Ti8  1  0.311790  0.314386  0.685931  1
+  Ti  Ti9  1  0.561024  0.559468  0.939673  1
+  Al  Al10  1  0.913982  0.257188  0.915441  1
+  Al  Al11  1  0.336580  0.335474  0.992888  1
+  Al  Al12  1  0.993006  0.332403  0.335599  1
+  Al  Al13  1  0.338393  0.335048  0.333495  1
+  Al  Al14  1  0.256982  0.914600  0.913430  1
+  Al  Al15  1  0.916577  0.914949  0.911507  1
+  Al  Al16  1  0.914380  0.917502  0.257182  1
+  Al  Al17  1  0.334478  0.992851  0.336057  1
+  Mo  Mo18  1  0.933401  0.932856  0.566128  1
+  Mo  Mo19  1  0.683685  0.317120  0.316608  1
+  Ir  Ir20  1  0.123885  0.624987  0.126145  1
+  Ir  Ir21  1  0.126128  0.127662  0.623226  1
+  Ir  Ir22  1  0.626795  0.122359  0.123887  1
+  Ir  Ir23  1  0.127969  0.125011  0.122017  1
+  C  C24  1  0.623105  0.125001  0.626918  1
+  C  C25  1  0.625053  0.627186  0.121531  1
+  C  C26  1  0.128333  0.622849  0.624964  1
+  C  C27  1  0.624192  0.624988  0.625866  1

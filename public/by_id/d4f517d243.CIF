@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Tm8Sc2Si5Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.25768808
+_cell_length_b   8.25768723
+_cell_length_c   6.12458004
+_cell_angle_alpha   89.99340252
+_cell_angle_beta   89.99339323
+_cell_angle_gamma   120.01400637
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tm8Sc2Si5Ge
+_chemical_formula_sum   'Tm8 Sc2 Si5 Ge1'
+_cell_volume   361.62839632
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.333146  0.667668  0.999070  1
+  Tm  Tm1  1  0.667668  0.333146  0.999070  1
+  Tm  Tm2  1  0.757566  0.757566  0.253222  1
+  Tm  Tm3  1  0.243186  0.998526  0.253226  1
+  Tm  Tm4  1  0.998526  0.243186  0.253226  1
+  Tm  Tm5  1  0.243052  0.243052  0.747024  1
+  Tm  Tm6  1  0.756400  0.999900  0.746772  1
+  Tm  Tm7  1  0.999900  0.756400  0.746772  1
+  Sc  Sc8  1  0.667720  0.333175  0.500953  1
+  Sc  Sc9  1  0.333175  0.667720  0.500953  1
+  Si  Si10  1  0.603303  0.999924  0.262350  1
+  Si  Si11  1  0.999924  0.603303  0.262350  1
+  Si  Si12  1  0.603666  0.603666  0.738085  1
+  Si  Si13  1  0.396625  0.000099  0.737650  1
+  Si  Si14  1  0.000099  0.396625  0.737650  1
+  Ge  Ge15  1  0.396044  0.396044  0.261626  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_DyU(FeSi)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.24966200
+_cell_length_b   7.06840564
+_cell_length_c   6.78377901
+_cell_angle_alpha   84.92570721
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyU(FeSi)2
+_chemical_formula_sum   'Dy2 U2 Fe4 Si4'
+_cell_volume   202.97480678
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.250000  0.476985  0.724147  1
+  Dy  Dy1  1  0.750000  0.523015  0.275853  1
+  U  U2  1  0.250000  0.983554  0.803492  1
+  U  U3  1  0.750000  0.016446  0.196508  1
+  Fe  Fe4  1  0.750000  0.867215  0.538573  1
+  Fe  Fe5  1  0.250000  0.132785  0.461427  1
+  Fe  Fe6  1  0.750000  0.235137  0.955650  1
+  Fe  Fe7  1  0.250000  0.764863  0.044350  1
+  Si  Si8  1  0.250000  0.294557  0.114582  1
+  Si  Si9  1  0.750000  0.705443  0.885418  1
+  Si  Si10  1  0.250000  0.797793  0.402243  1
+  Si  Si11  1  0.750000  0.202207  0.597757  1

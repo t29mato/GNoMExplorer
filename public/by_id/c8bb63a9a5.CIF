@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_MnVMoS6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.38586824
+_cell_length_b   5.38596479
+_cell_length_c   6.65468500
+_cell_angle_alpha   82.32104904
+_cell_angle_beta   82.31796931
+_cell_angle_gamma   119.99791116
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnVMoS6
+_chemical_formula_sum   'Mn1 V1 Mo1 S6'
+_cell_volume   161.09820104
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.166756  0.166724  0.499967  1
+  V  V1  1  0.833326  0.499980  0.500014  1
+  Mo  Mo2  1  0.499881  0.833229  0.500106  1
+  S  S3  1  0.569488  0.252409  0.266183  1
+  S  S4  1  0.235327  0.560985  0.266016  1
+  S  S5  1  0.926723  0.918143  0.266519  1
+  S  S6  1  0.772677  0.764090  0.733883  1
+  S  S7  1  0.415061  0.098006  0.733775  1
+  S  S8  1  0.080663  0.406338  0.733835  1

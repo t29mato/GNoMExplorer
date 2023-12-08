@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ba2Sr(GaAs2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.87382335
+_cell_length_b   8.87382275
+_cell_length_c   7.04234965
+_cell_angle_alpha   90.83145488
+_cell_angle_beta   90.83145692
+_cell_angle_gamma   76.20641947
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Sr(GaAs2)2
+_chemical_formula_sum   'Ba4 Sr2 Ga4 As8'
+_cell_volume   538.46377127
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.746089  0.003462  0.960562  1
+  Ba  Ba1  1  0.996538  0.253911  0.539438  1
+  Ba  Ba2  1  0.253911  0.996538  0.039438  1
+  Ba  Ba3  1  0.003462  0.746089  0.460562  1
+  Sr  Sr4  1  0.597722  0.402278  0.250000  1
+  Sr  Sr5  1  0.402278  0.597722  0.750000  1
+  Ga  Ga6  1  0.581185  0.824295  0.418635  1
+  Ga  Ga7  1  0.175705  0.418815  0.081365  1
+  Ga  Ga8  1  0.418815  0.175705  0.581365  1
+  Ga  Ga9  1  0.824295  0.581185  0.918635  1
+  As  As10  1  0.698088  0.060668  0.470318  1
+  As  As11  1  0.939332  0.301912  0.029682  1
+  As  As12  1  0.301912  0.939332  0.529682  1
+  As  As13  1  0.060668  0.698088  0.970318  1
+  As  As14  1  0.576150  0.731295  0.077526  1
+  As  As15  1  0.268705  0.423850  0.422474  1
+  As  As16  1  0.423850  0.268705  0.922474  1
+  As  As17  1  0.731295  0.576150  0.577526  1

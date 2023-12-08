@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TbTm2Zr(NiAs)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.01979200
+_cell_length_b   4.01979287
+_cell_length_c   15.11770000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999280
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbTm2Zr(NiAs)4
+_chemical_formula_sum   'Tb1 Tm2 Zr1 Ni4 As4'
+_cell_volume   211.55517025
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.000000  0.000000  0.005247  1
+  Tm  Tm1  1  0.000000  0.000000  0.748959  1
+  Tm  Tm2  1  0.000000  0.000000  0.495063  1
+  Zr  Zr3  1  0.000000  0.000000  0.251316  1
+  Ni  Ni4  1  0.333333  0.666667  0.158613  1
+  Ni  Ni5  1  0.666667  0.333333  0.866604  1
+  Ni  Ni6  1  0.666667  0.333333  0.629872  1
+  Ni  Ni7  1  0.333333  0.666667  0.344185  1
+  As  As8  1  0.333333  0.666667  0.617516  1
+  As  As9  1  0.666667  0.333333  0.378708  1
+  As  As10  1  0.666667  0.333333  0.124364  1
+  As  As11  1  0.333333  0.666667  0.879552  1

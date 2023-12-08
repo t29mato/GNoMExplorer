@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_LiEr2Si3Ag
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.21668027
+_cell_length_b   9.21668029
+_cell_length_c   6.77243195
+_cell_angle_alpha   89.61542394
+_cell_angle_beta   90.38457470
+_cell_angle_gamma   153.46415660
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiEr2Si3Ag
+_chemical_formula_sum   'Li2 Er4 Si6 Ag2'
+_cell_volume   257.01312433
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.188917  0.811083  0.057389  1
+  Li  Li1  1  0.811083  0.188917  0.942611  1
+  Er  Er2  1  0.551980  0.448020  0.250545  1
+  Er  Er3  1  0.448020  0.551980  0.749455  1
+  Er  Er4  1  0.346756  0.653244  0.239782  1
+  Er  Er5  1  0.653244  0.346756  0.760218  1
+  Si  Si6  1  0.940593  0.059407  0.069577  1
+  Si  Si7  1  0.059407  0.940593  0.930423  1
+  Si  Si8  1  0.058288  0.941712  0.579139  1
+  Si  Si9  1  0.941712  0.058288  0.420861  1
+  Si  Si10  1  0.721208  0.278792  0.234154  1
+  Si  Si11  1  0.278792  0.721208  0.765846  1
+  Ag  Ag12  1  0.812438  0.187562  0.564743  1
+  Ag  Ag13  1  0.187562  0.812438  0.435257  1

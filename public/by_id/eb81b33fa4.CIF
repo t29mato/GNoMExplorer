@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_SrCa2TcH7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.20867600
+_cell_length_b   5.20867623
+_cell_length_c   12.75272200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999855
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCa2TcH7
+_chemical_formula_sum   'Sr2 Ca4 Tc2 H14'
+_cell_volume   299.63202992
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.000000  0.000000  0.250000  1
+  Sr  Sr1  1  0.000000  0.000000  0.750000  1
+  Ca  Ca2  1  0.333333  0.666667  0.438498  1
+  Ca  Ca3  1  0.666667  0.333333  0.561502  1
+  Ca  Ca4  1  0.666667  0.333333  0.938498  1
+  Ca  Ca5  1  0.333333  0.666667  0.061502  1
+  Tc  Tc6  1  0.000000  0.000000  0.500000  1
+  Tc  Tc7  1  0.000000  0.000000  0.000000  1
+  H  H8  1  0.333333  0.666667  0.250000  1
+  H  H9  1  0.666667  0.333333  0.750000  1
+  H  H10  1  0.160286  0.839714  0.916394  1
+  H  H11  1  0.160286  0.320572  0.916394  1
+  H  H12  1  0.679428  0.839714  0.916394  1
+  H  H13  1  0.839714  0.160286  0.083606  1
+  H  H14  1  0.839714  0.679428  0.083606  1
+  H  H15  1  0.320572  0.160286  0.083606  1
+  H  H16  1  0.839714  0.160286  0.416394  1
+  H  H17  1  0.839714  0.679428  0.416394  1
+  H  H18  1  0.320572  0.160286  0.416394  1
+  H  H19  1  0.160286  0.839714  0.583606  1
+  H  H20  1  0.160286  0.320572  0.583606  1
+  H  H21  1  0.679428  0.839714  0.583606  1

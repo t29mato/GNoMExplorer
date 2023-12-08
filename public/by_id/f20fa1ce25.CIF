@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_U4Ti2Tc2C7N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.21882400
+_cell_length_b   5.58476186
+_cell_length_c   11.00164863
+_cell_angle_alpha   89.90675670
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U4Ti2Tc2C7N
+_chemical_formula_sum   'U4 Ti2 Tc2 C7 N1'
+_cell_volume   197.76939491
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.250000  0.081382  0.857653  1
+  U  U1  1  0.250000  0.581612  0.642113  1
+  U  U2  1  0.750000  0.921227  0.142018  1
+  U  U3  1  0.750000  0.419742  0.358043  1
+  Ti  Ti4  1  0.250000  0.417879  0.100150  1
+  Ti  Ti5  1  0.250000  0.920332  0.399705  1
+  Tc  Tc6  1  0.750000  0.579172  0.898797  1
+  Tc  Tc7  1  0.750000  0.078889  0.601934  1
+  C  C8  1  0.250000  0.661376  0.255408  1
+  C  C9  1  0.750000  0.841353  0.753963  1
+  C  C10  1  0.750000  0.341648  0.746477  1
+  C  C11  1  0.250000  0.747839  0.993591  1
+  C  C12  1  0.250000  0.248800  0.506880  1
+  C  C13  1  0.750000  0.248434  0.006435  1
+  C  C14  1  0.750000  0.748948  0.493470  1
+  N  N15  1  0.250000  0.161368  0.243364  1

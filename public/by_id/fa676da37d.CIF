@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ce2Dy3Pb3Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.49972700
+_cell_length_b   9.49972769
+_cell_length_c   6.56328300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999410
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2Dy3Pb3Au
+_chemical_formula_sum   'Ce4 Dy6 Pb6 Au2'
+_cell_volume   512.94886094
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.333333  0.666667  0.000000  1
+  Ce  Ce1  1  0.666667  0.333333  0.000000  1
+  Ce  Ce2  1  0.666667  0.333333  0.500000  1
+  Ce  Ce3  1  0.333333  0.666667  0.500000  1
+  Dy  Dy4  1  0.266346  0.000000  0.250000  1
+  Dy  Dy5  1  0.733654  0.000000  0.750000  1
+  Dy  Dy6  1  0.000000  0.266346  0.250000  1
+  Dy  Dy7  1  0.000000  0.733654  0.750000  1
+  Dy  Dy8  1  0.733654  0.733654  0.250000  1
+  Dy  Dy9  1  0.266346  0.266346  0.750000  1
+  Pb  Pb10  1  0.619573  0.000000  0.250000  1
+  Pb  Pb11  1  0.380427  0.000000  0.750000  1
+  Pb  Pb12  1  0.000000  0.619573  0.250000  1
+  Pb  Pb13  1  0.000000  0.380427  0.750000  1
+  Pb  Pb14  1  0.380427  0.380427  0.250000  1
+  Pb  Pb15  1  0.619573  0.619573  0.750000  1
+  Au  Au16  1  0.000000  0.000000  0.000000  1
+  Au  Au17  1  0.000000  0.000000  0.500000  1

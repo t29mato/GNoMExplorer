@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_PrGd2(SiRh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.80114700
+_cell_length_b   7.79241600
+_cell_length_c   13.37551000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrGd2(SiRh)2
+_chemical_formula_sum   'Pr4 Gd8 Si8 Rh8'
+_cell_volume   604.63927015
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.369156  0.258268  0.250000  1
+  Pr  Pr1  1  0.369156  0.241732  0.750000  1
+  Pr  Pr2  1  0.630844  0.758268  0.250000  1
+  Pr  Pr3  1  0.630844  0.741732  0.750000  1
+  Gd  Gd4  1  0.135450  0.610440  0.102929  1
+  Gd  Gd5  1  0.135450  0.889560  0.897071  1
+  Gd  Gd6  1  0.864550  0.110440  0.397071  1
+  Gd  Gd7  1  0.864550  0.389560  0.602929  1
+  Gd  Gd8  1  0.864550  0.389560  0.897071  1
+  Gd  Gd9  1  0.864550  0.110440  0.102929  1
+  Gd  Gd10  1  0.135450  0.889560  0.602929  1
+  Gd  Gd11  1  0.135450  0.610440  0.397071  1
+  Si  Si12  1  0.856106  0.402646  0.250000  1
+  Si  Si13  1  0.856106  0.097354  0.750000  1
+  Si  Si14  1  0.143894  0.902646  0.250000  1
+  Si  Si15  1  0.143894  0.597354  0.750000  1
+  Si  Si16  1  0.393880  0.250000  0.000000  1
+  Si  Si17  1  0.606120  0.750000  0.500000  1
+  Si  Si18  1  0.606120  0.750000  0.000000  1
+  Si  Si19  1  0.393880  0.250000  0.500000  1
+  Rh  Rh20  1  0.640361  0.472078  0.086929  1
+  Rh  Rh21  1  0.640361  0.027922  0.913071  1
+  Rh  Rh22  1  0.359639  0.972078  0.413071  1
+  Rh  Rh23  1  0.359639  0.527922  0.586929  1
+  Rh  Rh24  1  0.359639  0.527922  0.913071  1
+  Rh  Rh25  1  0.359639  0.972078  0.086929  1
+  Rh  Rh26  1  0.640361  0.027922  0.586929  1
+  Rh  Rh27  1  0.640361  0.472078  0.413071  1

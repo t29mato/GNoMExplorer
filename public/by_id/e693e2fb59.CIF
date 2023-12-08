@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_ThTi2AlAu3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.70715107
+_cell_length_b   5.70715267
+_cell_length_c   5.65938100
+_cell_angle_alpha   101.74414941
+_cell_angle_beta   101.74415274
+_cell_angle_gamma   126.60706114
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThTi2AlAu3
+_chemical_formula_sum   'Th1 Ti2 Al1 Au3'
+_cell_volume   131.91598306
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.006178  0.993822  0.000000  1
+  Ti  Ti1  1  0.246642  0.753358  0.500000  1
+  Ti  Ti2  1  0.746642  0.253358  0.500000  1
+  Al  Al3  1  0.305275  0.694725  0.000000  1
+  Au  Au4  1  0.308260  0.321073  0.629334  1
+  Au  Au5  1  0.678927  0.691740  0.370666  1
+  Au  Au6  1  0.708077  0.291923  0.000000  1

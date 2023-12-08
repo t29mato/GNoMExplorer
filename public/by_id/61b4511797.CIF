@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_CaNd2(GaRh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.74615900
+_cell_length_b   8.02297300
+_cell_length_c   13.76129600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaNd2(GaRh)2
+_chemical_formula_sum   'Ca4 Nd8 Ga8 Rh8'
+_cell_volume   634.41333956
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.856330  0.392854  0.901477  1
+  Ca  Ca1  1  0.856330  0.107146  0.098523  1
+  Ca  Ca2  1  0.143670  0.892854  0.598523  1
+  Ca  Ca3  1  0.143670  0.607146  0.401477  1
+  Nd  Nd4  1  0.142030  0.600610  0.093844  1
+  Nd  Nd5  1  0.142030  0.899390  0.906156  1
+  Nd  Nd6  1  0.857970  0.100610  0.406156  1
+  Nd  Nd7  1  0.857970  0.399390  0.593844  1
+  Nd  Nd8  1  0.374900  0.248329  0.249014  1
+  Nd  Nd9  1  0.374900  0.251671  0.750986  1
+  Nd  Nd10  1  0.625100  0.748329  0.250986  1
+  Nd  Nd11  1  0.625100  0.751671  0.749014  1
+  Ga  Ga12  1  0.381287  0.250000  0.000000  1
+  Ga  Ga13  1  0.618713  0.750000  0.500000  1
+  Ga  Ga14  1  0.630750  0.750000  0.000000  1
+  Ga  Ga15  1  0.369250  0.250000  0.500000  1
+  Ga  Ga16  1  0.869480  0.399871  0.251070  1
+  Ga  Ga17  1  0.869480  0.100129  0.748930  1
+  Ga  Ga18  1  0.130520  0.899871  0.248930  1
+  Ga  Ga19  1  0.130520  0.600129  0.751070  1
+  Rh  Rh20  1  0.631346  0.472143  0.095388  1
+  Rh  Rh21  1  0.631346  0.027857  0.904612  1
+  Rh  Rh22  1  0.368654  0.972143  0.404612  1
+  Rh  Rh23  1  0.368654  0.527857  0.595388  1
+  Rh  Rh24  1  0.360245  0.535302  0.908799  1
+  Rh  Rh25  1  0.360245  0.964698  0.091201  1
+  Rh  Rh26  1  0.639755  0.035302  0.591201  1
+  Rh  Rh27  1  0.639755  0.464698  0.408799  1

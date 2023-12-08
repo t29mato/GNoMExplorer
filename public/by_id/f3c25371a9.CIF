@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ac2Ni4RuC3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.36043000
+_cell_length_b   8.36043000
+_cell_length_c   4.30078200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ac2Ni4RuC3
+_chemical_formula_sum   'Ac4 Ni8 Ru2 C6'
+_cell_volume   300.61085536
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  0.334192  0.165808  0.000000  1
+  Ac  Ac1  1  0.665808  0.834192  0.000000  1
+  Ac  Ac2  1  0.165808  0.665808  0.000000  1
+  Ac  Ac3  1  0.834192  0.334192  0.000000  1
+  Ni  Ni4  1  0.924857  0.786614  0.500000  1
+  Ni  Ni5  1  0.713386  0.575143  0.500000  1
+  Ni  Ni6  1  0.424857  0.713386  0.500000  1
+  Ni  Ni7  1  0.286614  0.424857  0.500000  1
+  Ni  Ni8  1  0.575143  0.286614  0.500000  1
+  Ni  Ni9  1  0.786614  0.075143  0.500000  1
+  Ni  Ni10  1  0.075143  0.213386  0.500000  1
+  Ni  Ni11  1  0.213386  0.924857  0.500000  1
+  Ru  Ru12  1  0.500000  0.500000  0.000000  1
+  Ru  Ru13  1  0.000000  0.000000  0.000000  1
+  C  C14  1  0.443092  0.943092  0.500000  1
+  C  C15  1  0.056908  0.443092  0.500000  1
+  C  C16  1  0.943092  0.556908  0.500000  1
+  C  C17  1  0.500000  0.500000  0.500000  1
+  C  C18  1  0.556908  0.056908  0.500000  1
+  C  C19  1  0.000000  0.000000  0.500000  1

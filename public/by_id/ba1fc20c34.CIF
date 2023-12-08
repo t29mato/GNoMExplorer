@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Pr2Ga2IrPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.51042000
+_cell_length_b   7.13456700
+_cell_length_c   7.90222400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr2Ga2IrPt
+_chemical_formula_sum   'Pr4 Ga4 Ir2 Pt2'
+_cell_volume   254.29272822
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.250000  0.029241  0.686528  1
+  Pr  Pr1  1  0.250000  0.529241  0.813472  1
+  Pr  Pr2  1  0.750000  0.977332  0.306989  1
+  Pr  Pr3  1  0.750000  0.477332  0.193011  1
+  Ga  Ga4  1  0.250000  0.154640  0.073992  1
+  Ga  Ga5  1  0.250000  0.654640  0.426008  1
+  Ga  Ga6  1  0.750000  0.840078  0.933256  1
+  Ga  Ga7  1  0.750000  0.340078  0.566744  1
+  Ir  Ir8  1  0.250000  0.279279  0.392476  1
+  Ir  Ir9  1  0.250000  0.779279  0.107524  1
+  Pt  Pt10  1  0.750000  0.719431  0.608538  1
+  Pt  Pt11  1  0.750000  0.219431  0.891462  1

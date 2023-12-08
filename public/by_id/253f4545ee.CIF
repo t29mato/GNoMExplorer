@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TaCoSi2NiMo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.15265091
+_cell_length_b   3.63235600
+_cell_length_c   7.03280993
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.82809901
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaCoSi2NiMo
+_chemical_formula_sum   'Ta2 Co2 Si4 Ni2 Mo2'
+_cell_volume   157.17287831
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.972983  0.750000  0.167660  1
+  Ta  Ta1  1  0.479199  0.750000  0.323948  1
+  Co  Co2  1  0.646849  0.250000  0.064417  1
+  Co  Co3  1  0.354614  0.750000  0.941158  1
+  Si  Si4  1  0.776708  0.250000  0.383581  1
+  Si  Si5  1  0.278825  0.250000  0.113949  1
+  Si  Si6  1  0.222870  0.750000  0.631737  1
+  Si  Si7  1  0.718838  0.750000  0.871955  1
+  Ni  Ni8  1  0.152879  0.250000  0.431667  1
+  Ni  Ni9  1  0.852323  0.750000  0.563900  1
+  Mo  Mo10  1  0.025560  0.250000  0.832872  1
+  Mo  Mo11  1  0.518353  0.250000  0.673156  1

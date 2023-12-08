@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Li4CaLa(NdSi3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.56484930
+_cell_length_b   9.56485014
+_cell_length_c   6.89826700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   153.46353060
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li4CaLa(NdSi3)2
+_chemical_formula_sum   'Li4 Ca1 La1 Nd2 Si6'
+_cell_volume   281.95366037
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.189587  0.810413  0.060473  1
+  Li  Li1  1  0.189587  0.810413  0.439527  1
+  Li  Li2  1  0.811715  0.188285  0.944404  1
+  Li  Li3  1  0.811715  0.188285  0.555596  1
+  Ca  Ca4  1  0.341442  0.658558  0.250000  1
+  La  La5  1  0.551833  0.448167  0.250000  1
+  Nd  Nd6  1  0.658270  0.341730  0.750000  1
+  Nd  Nd7  1  0.446502  0.553498  0.750000  1
+  Si  Si8  1  0.718623  0.281377  0.250000  1
+  Si  Si9  1  0.278223  0.721777  0.750000  1
+  Si  Si10  1  0.057648  0.942352  0.921766  1
+  Si  Si11  1  0.943603  0.056397  0.075564  1
+  Si  Si12  1  0.943603  0.056397  0.424436  1
+  Si  Si13  1  0.057648  0.942352  0.578234  1

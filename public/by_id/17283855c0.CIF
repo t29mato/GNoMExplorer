@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_TaTi5Al4(AuC)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.32324219
+_cell_length_b   8.33813783
+_cell_length_c   8.32324035
+_cell_angle_alpha   59.94078228
+_cell_angle_beta   60.11844657
+_cell_angle_gamma   59.94078482
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaTi5Al4(AuC)2
+_chemical_formula_sum   'Ta2 Ti10 Al8 Au4 C4'
+_cell_volume   408.44755215
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.679953  0.320047  0.679953  1
+  Ta  Ta1  1  0.929953  0.570047  0.929953  1
+  Ti  Ti2  1  0.568862  0.931138  0.568862  1
+  Ti  Ti3  1  0.319167  0.679780  0.681763  1
+  Ti  Ti4  1  0.681763  0.319290  0.319167  1
+  Ti  Ti5  1  0.318862  0.681138  0.318862  1
+  Ti  Ti6  1  0.681763  0.679780  0.319167  1
+  Ti  Ti7  1  0.319167  0.319290  0.681763  1
+  Ti  Ti8  1  0.570220  0.568237  0.930710  1
+  Ti  Ti9  1  0.930710  0.568237  0.570220  1
+  Ti  Ti10  1  0.570220  0.930833  0.930710  1
+  Ti  Ti11  1  0.930710  0.930833  0.570220  1
+  Al  Al12  1  0.912739  0.915723  0.912739  1
+  Al  Al13  1  0.991201  0.337261  0.334277  1
+  Al  Al14  1  0.337023  0.989379  0.337023  1
+  Al  Al15  1  0.334277  0.337261  0.991201  1
+  Al  Al16  1  0.912739  0.258799  0.912739  1
+  Al  Al17  1  0.913424  0.912977  0.260621  1
+  Al  Al18  1  0.260621  0.912977  0.913424  1
+  Al  Al19  1  0.337023  0.336576  0.337023  1
+  Au  Au20  1  0.125154  0.124058  0.125154  1
+  Au  Au21  1  0.624367  0.124846  0.125942  1
+  Au  Au22  1  0.125154  0.625633  0.125154  1
+  Au  Au23  1  0.125942  0.124846  0.624367  1
+  C  C24  1  0.624747  0.628763  0.624747  1
+  C  C25  1  0.128256  0.625253  0.621237  1
+  C  C26  1  0.624747  0.121744  0.624747  1
+  C  C27  1  0.621237  0.625253  0.128256  1

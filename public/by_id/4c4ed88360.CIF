@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Zr2As2PdRu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.97362300
+_cell_length_b   6.70699600
+_cell_length_c   7.69680800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr2As2PdRu
+_chemical_formula_sum   'Zr4 As4 Pd2 Ru2'
+_cell_volume   205.12819624
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.750000  0.531599  0.320099  1
+  Zr  Zr1  1  0.250000  0.973493  0.815952  1
+  Zr  Zr2  1  0.750000  0.031599  0.179901  1
+  Zr  Zr3  1  0.250000  0.473493  0.684048  1
+  As  As4  1  0.250000  0.746896  0.113018  1
+  As  As5  1  0.250000  0.246896  0.386982  1
+  As  As6  1  0.750000  0.260783  0.865465  1
+  As  As7  1  0.750000  0.760783  0.634535  1
+  Pd  Pd8  1  0.250000  0.350885  0.067666  1
+  Pd  Pd9  1  0.250000  0.850885  0.432334  1
+  Ru  Ru10  1  0.750000  0.136344  0.552148  1
+  Ru  Ru11  1  0.750000  0.636344  0.947852  1

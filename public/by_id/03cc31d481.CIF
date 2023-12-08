@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Li2Y3MgSi2Hg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.21579811
+_cell_length_b   7.28613863
+_cell_length_c   4.25507500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.32301394
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Y3MgSi2Hg
+_chemical_formula_sum   'Li2 Y3 Mg1 Si2 Hg1'
+_cell_volume   193.10647932
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.747428  0.747217  0.000000  1
+  Li  Li1  1  0.252572  0.999790  0.000000  1
+  Y  Y2  1  0.435804  0.434784  0.500000  1
+  Y  Y3  1  0.000000  0.574432  0.500000  1
+  Y  Y4  1  0.564196  0.998981  0.500000  1
+  Mg  Mg5  1  0.000000  0.249589  0.000000  1
+  Si  Si6  1  0.665668  0.334719  0.000000  1
+  Si  Si7  1  0.334332  0.669052  0.000000  1
+  Hg  Hg8  1  0.000000  0.991436  0.500000  1

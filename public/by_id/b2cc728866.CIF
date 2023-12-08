@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Sr3Ga2(SbP)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.83136271
+_cell_length_b   8.83136328
+_cell_length_c   6.93235989
+_cell_angle_alpha   89.19816267
+_cell_angle_beta   89.19816376
+_cell_angle_gamma   75.35443440
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3Ga2(SbP)2
+_chemical_formula_sum   'Sr6 Ga4 Sb4 P4'
+_cell_volume   523.02616985
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.003139  0.732387  0.528947  1
+  Sr  Sr1  1  0.267613  0.996861  0.971053  1
+  Sr  Sr2  1  0.996861  0.267613  0.471053  1
+  Sr  Sr3  1  0.732387  0.003139  0.028947  1
+  Sr  Sr4  1  0.414880  0.585120  0.250000  1
+  Sr  Sr5  1  0.585120  0.414880  0.750000  1
+  Ga  Ga6  1  0.805361  0.593014  0.094689  1
+  Ga  Ga7  1  0.406986  0.194639  0.405311  1
+  Ga  Ga8  1  0.194639  0.406986  0.905311  1
+  Ga  Ga9  1  0.593014  0.805361  0.594689  1
+  Sb  Sb10  1  0.062960  0.708335  0.022832  1
+  Sb  Sb11  1  0.291665  0.937040  0.477168  1
+  Sb  Sb12  1  0.937040  0.291665  0.977168  1
+  Sb  Sb13  1  0.708335  0.062960  0.522832  1
+  P  P14  1  0.737235  0.571519  0.430916  1
+  P  P15  1  0.428481  0.262765  0.069084  1
+  P  P16  1  0.262765  0.428481  0.569084  1
+  P  P17  1  0.571519  0.737235  0.930916  1

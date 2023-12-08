@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CoPRu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.71144200
+_cell_length_b   5.68724000
+_cell_length_c   6.70918600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoPRu
+_chemical_formula_sum   'Co4 P4 Ru4'
+_cell_volume   141.61656820
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.750000  0.139006  0.067028  1
+  Co  Co1  1  0.250000  0.860994  0.932972  1
+  Co  Co2  1  0.750000  0.639006  0.432972  1
+  Co  Co3  1  0.250000  0.360994  0.567028  1
+  P  P4  1  0.750000  0.259124  0.379857  1
+  P  P5  1  0.250000  0.240876  0.879857  1
+  P  P6  1  0.250000  0.740876  0.620143  1
+  P  P7  1  0.750000  0.759124  0.120143  1
+  Ru  Ru8  1  0.250000  0.472513  0.168640  1
+  Ru  Ru9  1  0.250000  0.972513  0.331360  1
+  Ru  Ru10  1  0.750000  0.027487  0.668640  1
+  Ru  Ru11  1  0.750000  0.527487  0.831360  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ta3Be4Nb2Sn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.43759600
+_cell_length_b   6.44017700
+_cell_length_c   3.48545800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   89.99705463
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta3Be4Nb2Sn
+_chemical_formula_sum   'Ta3 Be4 Nb2 Sn1'
+_cell_volume   144.50450131
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.500165  0.500069  0.000000  1
+  Ta  Ta1  1  0.668088  0.182389  0.500000  1
+  Ta  Ta2  1  0.182989  0.330110  0.500000  1
+  Be  Be3  1  0.881917  0.389164  0.000000  1
+  Be  Be4  1  0.389852  0.118537  0.000000  1
+  Be  Be5  1  0.610376  0.882228  0.000000  1
+  Be  Be6  1  0.118407  0.609601  0.000000  1
+  Nb  Nb7  1  0.819547  0.669567  0.500000  1
+  Nb  Nb8  1  0.328640  0.818753  0.500000  1
+  Sn  Sn9  1  0.000019  0.999581  0.000000  1

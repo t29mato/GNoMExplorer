@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Lu2Al3InAu3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.91697183
+_cell_length_b   6.91697235
+_cell_length_c   4.15435300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   115.91349210
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2Al3InAu3
+_chemical_formula_sum   'Lu2 Al3 In1 Au3'
+_cell_volume   178.77831197
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.575304  0.998577  0.500000  1
+  Lu  Lu1  1  0.998577  0.575304  0.500000  1
+  Al  Al2  1  0.767743  0.767743  0.000000  1
+  Al  Al3  1  0.243180  0.994903  0.000000  1
+  Al  Al4  1  0.994903  0.243180  0.000000  1
+  In  In5  1  0.407445  0.407445  0.500000  1
+  Au  Au6  1  0.663864  0.341961  0.000000  1
+  Au  Au7  1  0.341961  0.663864  0.000000  1
+  Au  Au8  1  0.007023  0.007023  0.500000  1

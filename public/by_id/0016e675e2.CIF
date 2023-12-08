@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Y5Ho3(ScSi3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.35893675
+_cell_length_b   8.35893717
+_cell_length_c   6.20684102
+_cell_angle_alpha   89.99538743
+_cell_angle_beta   89.99539339
+_cell_angle_gamma   120.00351436
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y5Ho3(ScSi3)2
+_chemical_formula_sum   'Y5 Ho3 Sc2 Si6'
+_cell_volume   375.56746863
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.245333  0.000042  0.504831  1
+  Y  Y1  1  0.000042  0.245333  0.504831  1
+  Y  Y2  1  0.245766  0.245766  0.995036  1
+  Y  Y3  1  0.754386  0.999637  0.995363  1
+  Y  Y4  1  0.999637  0.754386  0.995363  1
+  Ho  Ho5  1  0.666601  0.332908  0.250062  1
+  Ho  Ho6  1  0.332908  0.666601  0.250062  1
+  Ho  Ho7  1  0.754246  0.754246  0.504831  1
+  Sc  Sc8  1  0.333665  0.666824  0.749997  1
+  Sc  Sc9  1  0.666824  0.333665  0.749997  1
+  Si  Si10  1  0.396785  0.396785  0.514981  1
+  Si  Si11  1  0.603359  0.000024  0.514788  1
+  Si  Si12  1  0.000024  0.603359  0.514788  1
+  Si  Si13  1  0.603473  0.603473  0.985030  1
+  Si  Si14  1  0.396789  0.000210  0.985020  1
+  Si  Si15  1  0.000210  0.396789  0.985020  1

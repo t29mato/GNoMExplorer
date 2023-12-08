@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_PrEu3(CuSi3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.33428986
+_cell_length_b   8.18480310
+_cell_length_c   5.99394723
+_cell_angle_alpha   70.06244294
+_cell_angle_beta   67.39899004
+_cell_angle_gamma   42.53856031
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrEu3(CuSi3)2
+_chemical_formula_sum   'Pr1 Eu3 Cu2 Si6'
+_cell_volume   254.10744330
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.757869  0.242131  0.757870  1
+  Eu  Eu1  1  0.243786  0.756213  0.243787  1
+  Eu  Eu2  1  0.249787  0.250213  0.249786  1
+  Eu  Eu3  1  0.749787  0.750213  0.749786  1
+  Cu  Cu4  1  0.666713  0.666728  0.333273  1
+  Cu  Cu5  1  0.333272  0.333286  0.666714  1
+  Si  Si6  1  0.830759  0.833633  0.166367  1
+  Si  Si7  1  0.831244  0.336631  0.169585  1
+  Si  Si8  1  0.663369  0.168755  0.337461  1
+  Si  Si9  1  0.337460  0.830416  0.663370  1
+  Si  Si10  1  0.169584  0.662540  0.831246  1
+  Si  Si11  1  0.166366  0.169240  0.830760  1

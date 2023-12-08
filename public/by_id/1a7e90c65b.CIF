@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Y4MgCo2Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.64003152
+_cell_length_b   8.64003153
+_cell_length_c   8.64003100
+_cell_angle_alpha   130.74872335
+_cell_angle_beta   130.74872342
+_cell_angle_gamma   72.21261201
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y4MgCo2Au
+_chemical_formula_sum   'Y8 Mg2 Co4 Au2'
+_cell_volume   361.90799939
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.810339  0.310339  0.858070  1
+  Y  Y1  1  0.189661  0.689661  0.141931  1
+  Y  Y2  1  0.452272  0.952272  0.141931  1
+  Y  Y3  1  0.310339  0.452272  0.500000  1
+  Y  Y4  1  0.047728  0.189661  0.500000  1
+  Y  Y5  1  0.547728  0.047728  0.858069  1
+  Y  Y6  1  0.689661  0.547728  0.500000  1
+  Y  Y7  1  0.952272  0.810339  0.500000  1
+  Mg  Mg8  1  0.000000  0.000000  0.000000  1
+  Mg  Mg9  1  0.500000  0.500000  0.000000  1
+  Co  Co10  1  0.112818  0.612818  0.725635  1
+  Co  Co11  1  0.887182  0.387182  0.274365  1
+  Co  Co12  1  0.612818  0.887182  0.500000  1
+  Co  Co13  1  0.387182  0.112818  0.500000  1
+  Au  Au14  1  0.250000  0.250000  0.000000  1
+  Au  Au15  1  0.750000  0.750000  0.000000  1

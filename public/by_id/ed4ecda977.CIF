@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ta9Fe(SiB2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.13690003
+_cell_length_b   6.13690076
+_cell_length_c   7.24536200
+_cell_angle_alpha   115.05610071
+_cell_angle_beta   115.05610393
+_cell_angle_gamma   89.99999597
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta9Fe(SiB2)2
+_chemical_formula_sum   'Ta9 Fe1 Si2 B4'
+_cell_volume   218.51647919
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.000000  0.000000  0.000000  1
+  Ta  Ta1  1  0.039261  0.525105  0.724685  1
+  Ta  Ta2  1  0.685425  0.199581  0.724685  1
+  Ta  Ta3  1  0.199581  0.039261  0.724685  1
+  Ta  Ta4  1  0.525105  0.685425  0.724685  1
+  Ta  Ta5  1  0.960739  0.474895  0.275315  1
+  Ta  Ta6  1  0.314575  0.800419  0.275315  1
+  Ta  Ta7  1  0.800419  0.960739  0.275315  1
+  Ta  Ta8  1  0.474895  0.314575  0.275315  1
+  Fe  Fe9  1  0.500000  0.500000  0.000000  1
+  Si  Si10  1  0.240766  0.240766  0.481532  1
+  Si  Si11  1  0.759234  0.759234  0.518468  1
+  B  B12  1  0.383780  0.885149  0.000000  1
+  B  B13  1  0.616220  0.114851  0.000000  1
+  B  B14  1  0.114851  0.383780  0.000000  1
+  B  B15  1  0.885149  0.616220  0.000000  1

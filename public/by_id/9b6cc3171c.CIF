@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_MgCu5(SnRh2)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.41730500
+_cell_length_b   6.21242800
+_cell_length_c   13.28663900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.99865708
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgCu5(SnRh2)6
+_chemical_formula_sum   'Mg1 Cu5 Sn6 Rh12'
+_cell_volume   364.61446210
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.000000  0.499999  0.000000  1
+  Cu  Cu1  1  0.499537  0.000000  0.167293  1
+  Cu  Cu2  1  0.998808  0.499999  0.333827  1
+  Cu  Cu3  1  0.499999  0.000000  0.500000  1
+  Cu  Cu4  1  0.001191  0.499999  0.666172  1
+  Cu  Cu5  1  0.500462  0.000000  0.832707  1
+  Sn  Sn6  1  0.000000  0.000000  0.000000  1
+  Sn  Sn7  1  0.499950  0.499999  0.168896  1
+  Sn  Sn8  1  0.000137  0.000000  0.335515  1
+  Sn  Sn9  1  0.499999  0.499999  0.500000  1
+  Sn  Sn10  1  0.999862  0.000000  0.664485  1
+  Sn  Sn11  1  0.500049  0.499999  0.831104  1
+  Rh  Rh12  1  0.499999  0.245970  0.000000  1
+  Rh  Rh13  1  0.499999  0.754029  0.000000  1
+  Rh  Rh14  1  0.000175  0.247897  0.167880  1
+  Rh  Rh15  1  0.000175  0.752103  0.167880  1
+  Rh  Rh16  1  0.499729  0.249209  0.333636  1
+  Rh  Rh17  1  0.499729  0.750790  0.333636  1
+  Rh  Rh18  1  0.000000  0.251972  0.500000  1
+  Rh  Rh19  1  0.000000  0.748028  0.500000  1
+  Rh  Rh20  1  0.500270  0.249209  0.666364  1
+  Rh  Rh21  1  0.500270  0.750790  0.666364  1
+  Rh  Rh22  1  0.999823  0.247897  0.832120  1
+  Rh  Rh23  1  0.999823  0.752103  0.832120  1

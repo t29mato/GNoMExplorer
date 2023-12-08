@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CeY(AlIr)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.86084900
+_cell_length_b   4.32081500
+_cell_length_c   7.93366900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeY(AlIr)2
+_chemical_formula_sum   'Ce2 Y2 Al4 Ir4'
+_cell_volume   235.18932755
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.033680  0.750000  0.822027  1
+  Ce  Ce1  1  0.533680  0.750000  0.677973  1
+  Y  Y2  1  0.965346  0.250000  0.185119  1
+  Y  Y3  1  0.465346  0.250000  0.314881  1
+  Al  Al4  1  0.863041  0.250000  0.557782  1
+  Al  Al5  1  0.363041  0.250000  0.942218  1
+  Al  Al6  1  0.138472  0.750000  0.433571  1
+  Al  Al7  1  0.638472  0.750000  0.066429  1
+  Ir  Ir8  1  0.736903  0.250000  0.876383  1
+  Ir  Ir9  1  0.236903  0.250000  0.623617  1
+  Ir  Ir10  1  0.262557  0.750000  0.113013  1
+  Ir  Ir11  1  0.762557  0.750000  0.386987  1

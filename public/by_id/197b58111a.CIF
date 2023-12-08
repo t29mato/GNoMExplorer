@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_ReMo3Pb4O13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.59058598
+_cell_length_b   7.59058599
+_cell_length_c   7.59058616
+_cell_angle_alpha   59.11063395
+_cell_angle_beta   59.11063102
+_cell_angle_gamma   59.11063882
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ReMo3Pb4O13
+_chemical_formula_sum   'Re1 Mo3 Pb4 O13'
+_cell_volume   302.98121140
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Re  Re0  1  0.625459  0.625459  0.625459  1
+  Mo  Mo1  1  0.124661  0.625414  0.625414  1
+  Mo  Mo2  1  0.625414  0.124661  0.625414  1
+  Mo  Mo3  1  0.625414  0.625414  0.124661  1
+  Pb  Pb4  1  0.620379  0.126703  0.126703  1
+  Pb  Pb5  1  0.126703  0.620379  0.126703  1
+  Pb  Pb6  1  0.126703  0.126703  0.620379  1
+  Pb  Pb7  1  0.123576  0.123576  0.123576  1
+  O  O8  1  0.297379  0.297379  0.694720  1
+  O  O9  1  0.694716  0.694716  0.316598  1
+  O  O10  1  0.297379  0.694720  0.297379  1
+  O  O11  1  0.694716  0.316598  0.694716  1
+  O  O12  1  0.694720  0.297379  0.297379  1
+  O  O13  1  0.316598  0.694716  0.694716  1
+  O  O14  1  0.949667  0.949667  0.560924  1
+  O  O15  1  0.557770  0.557770  0.931963  1
+  O  O16  1  0.949667  0.560924  0.949667  1
+  O  O17  1  0.557770  0.931963  0.557770  1
+  O  O18  1  0.560924  0.949667  0.949667  1
+  O  O19  1  0.931963  0.557770  0.557770  1
+  O  O20  1  0.998423  0.998423  0.998423  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Yb2Al4Si2Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.12519061
+_cell_length_b   4.12519351
+_cell_length_c   10.26436815
+_cell_angle_alpha   101.58950895
+_cell_angle_beta   101.58948612
+_cell_angle_gamma   90.03657821
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Yb2Al4Si2Ni
+_chemical_formula_sum   'Yb2 Al4 Si2 Ni1'
+_cell_volume   167.46811495
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.187668  0.187669  0.375745  1
+  Yb  Yb1  1  0.812333  0.812333  0.624255  1
+  Al  Al2  1  0.567290  0.067215  0.134501  1
+  Al  Al3  1  0.067215  0.567290  0.134501  1
+  Al  Al4  1  0.932786  0.432711  0.865499  1
+  Al  Al5  1  0.432712  0.932786  0.865499  1
+  Si  Si6  1  0.652375  0.652375  0.305796  1
+  Si  Si7  1  0.347625  0.347626  0.694204  1
+  Ni  Ni8  1  0.000002  0.000000  0.000000  1

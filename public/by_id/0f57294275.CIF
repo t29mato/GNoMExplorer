@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Li2LaSmPd2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.16032300
+_cell_length_b   7.29727790
+_cell_length_c   8.62696300
+_cell_angle_alpha   90.77925464
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2LaSmPd2
+_chemical_formula_sum   'Li4 La2 Sm2 Pd4'
+_cell_volume   261.88203233
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.250000  0.366909  0.554505  1
+  Li  Li1  1  0.750000  0.118976  0.056228  1
+  Li  Li2  1  0.250000  0.881024  0.943772  1
+  Li  Li3  1  0.750000  0.633091  0.445495  1
+  La  La4  1  0.250000  0.453953  0.188761  1
+  La  La5  1  0.750000  0.546047  0.811239  1
+  Sm  Sm6  1  0.250000  0.951128  0.318973  1
+  Sm  Sm7  1  0.750000  0.048872  0.681027  1
+  Pd  Pd8  1  0.750000  0.241179  0.379030  1
+  Pd  Pd9  1  0.250000  0.249284  0.875212  1
+  Pd  Pd10  1  0.750000  0.750716  0.124788  1
+  Pd  Pd11  1  0.250000  0.758821  0.620970  1

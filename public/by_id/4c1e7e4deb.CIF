@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ti3NbCrB2P
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.93494750
+_cell_length_b   5.93494825
+_cell_length_c   7.08449470
+_cell_angle_alpha   114.83823828
+_cell_angle_beta   114.83824955
+_cell_angle_gamma   89.83734277
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3NbCrB2P
+_chemical_formula_sum   'Ti6 Nb2 Cr2 B4 P2'
+_cell_volume   200.89194731
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.039950  0.539950  0.731584  1
+  Ti  Ti1  1  0.691634  0.191634  0.731584  1
+  Ti  Ti2  1  0.191238  0.040726  0.731964  1
+  Ti  Ti3  1  0.540726  0.691238  0.731964  1
+  Ti  Ti4  1  0.957632  0.457632  0.267568  1
+  Ti  Ti5  1  0.309936  0.809936  0.267568  1
+  Nb  Nb6  1  0.810448  0.959573  0.270021  1
+  Nb  Nb7  1  0.459573  0.310448  0.270021  1
+  Cr  Cr8  1  0.497371  0.497371  0.994742  1
+  Cr  Cr9  1  0.997371  0.997371  0.994742  1
+  B  B10  1  0.382016  0.882016  0.994966  1
+  B  B11  1  0.612949  0.112949  0.994966  1
+  B  B12  1  0.111096  0.387713  0.998809  1
+  B  B13  1  0.887713  0.611096  0.998809  1
+  P  P14  1  0.255173  0.255173  0.510346  1
+  P  P15  1  0.755173  0.755173  0.510346  1

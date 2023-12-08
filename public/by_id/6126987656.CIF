@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_TbCeLu(InIr)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.50001000
+_cell_length_b   7.48264428
+_cell_length_c   3.91043400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   118.05477932
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbCeLu(InIr)3
+_chemical_formula_sum   'Tb1 Ce1 Lu1 In3 Ir3'
+_cell_volume   193.66707715
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.999589  0.594119  0.000000  1
+  Ce  Ce1  1  0.418257  0.418169  0.000000  1
+  Lu  Lu2  1  0.596105  0.999885  0.000000  1
+  In  In3  1  0.993270  0.257128  0.500000  1
+  In  In4  1  0.750407  0.752212  0.500000  1
+  In  In5  1  0.258804  0.994201  0.500000  1
+  Ir  Ir6  1  0.998070  0.001916  0.000000  1
+  Ir  Ir7  1  0.335618  0.653941  0.500000  1
+  Ir  Ir8  1  0.649879  0.328428  0.500000  1

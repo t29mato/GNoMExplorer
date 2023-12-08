@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ba2ScCuSeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.20771200
+_cell_length_b   4.20771200
+_cell_length_c   16.69276900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2ScCuSeO3
+_chemical_formula_sum   'Ba4 Sc2 Cu2 Se2 O6'
+_cell_volume   295.54280889
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.749999  0.749999  0.182450  1
+  Ba  Ba1  1  0.749999  0.749999  0.412578  1
+  Ba  Ba2  1  0.250000  0.250000  0.587422  1
+  Ba  Ba3  1  0.250000  0.250000  0.817550  1
+  Sc  Sc4  1  0.250000  0.250000  0.307988  1
+  Sc  Sc5  1  0.749999  0.749999  0.692013  1
+  Cu  Cu6  1  0.749999  0.250000  0.000000  1
+  Cu  Cu7  1  0.250000  0.749999  0.000000  1
+  Se  Se8  1  0.250000  0.250000  0.085561  1
+  Se  Se9  1  0.749999  0.749999  0.914439  1
+  O  O10  1  0.749999  0.250000  0.288476  1
+  O  O11  1  0.250000  0.749999  0.288476  1
+  O  O12  1  0.250000  0.250000  0.426752  1
+  O  O13  1  0.749999  0.749999  0.573248  1
+  O  O14  1  0.749999  0.250000  0.711524  1
+  O  O15  1  0.250000  0.749999  0.711524  1

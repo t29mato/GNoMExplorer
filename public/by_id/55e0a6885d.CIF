@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_U4Mn6Si5AsRu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.91642527
+_cell_length_b   6.91642521
+_cell_length_c   6.91642598
+_cell_angle_alpha   109.53088563
+_cell_angle_beta   109.35198061
+_cell_angle_gamma   109.53086563
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U4Mn6Si5AsRu
+_chemical_formula_sum   'U4 Mn6 Si5 As1 Ru1'
+_cell_volume   254.69580047
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.003480  0.000000  0.499495  1
+  U  U1  1  0.499495  0.000000  0.003480  1
+  U  U2  1  0.003480  0.503985  0.003480  1
+  U  U3  1  0.499495  0.496015  0.499495  1
+  Mn  Mn4  1  0.749193  0.500000  0.249193  1
+  Mn  Mn5  1  0.496773  0.749787  0.246560  1
+  Mn  Mn6  1  0.496773  0.250213  0.746986  1
+  Mn  Mn7  1  0.746986  0.250213  0.496773  1
+  Mn  Mn8  1  0.246560  0.749787  0.496773  1
+  Mn  Mn9  1  0.249193  0.500000  0.749193  1
+  Si  Si10  1  0.320197  0.000000  0.320197  1
+  Si  Si11  1  0.000636  0.325325  0.325962  1
+  Si  Si12  1  0.000636  0.674675  0.675311  1
+  Si  Si13  1  0.325962  0.325325  0.000636  1
+  Si  Si14  1  0.675311  0.674675  0.000636  1
+  As  As15  1  0.680886  0.000000  0.680886  1
+  Ru  Ru16  1  0.004944  0.000000  0.004944  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CaCe(ZnRh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.98938000
+_cell_length_b   7.02011378
+_cell_length_c   8.25654600
+_cell_angle_alpha   90.47257361
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaCe(ZnRh)2
+_chemical_formula_sum   'Ca2 Ce2 Zn4 Rh4'
+_cell_volume   231.22414905
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.750000  0.964085  0.679920  1
+  Ca  Ca1  1  0.250000  0.035702  0.319987  1
+  Ce  Ce2  1  0.250000  0.531941  0.188827  1
+  Ce  Ce3  1  0.750000  0.468039  0.811428  1
+  Zn  Zn4  1  0.250000  0.645706  0.558100  1
+  Zn  Zn5  1  0.750000  0.354173  0.441723  1
+  Zn  Zn6  1  0.750000  0.875061  0.062542  1
+  Zn  Zn7  1  0.250000  0.125332  0.937437  1
+  Rh  Rh8  1  0.250000  0.739229  0.880223  1
+  Rh  Rh9  1  0.750000  0.261328  0.120078  1
+  Rh  Rh10  1  0.750000  0.721069  0.356879  1
+  Rh  Rh11  1  0.250000  0.278334  0.642856  1

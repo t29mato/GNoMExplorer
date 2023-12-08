@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_TbY4(ZnB4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.21064941
+_cell_length_b   7.21064941
+_cell_length_c   8.41921603
+_cell_angle_alpha   89.99310907
+_cell_angle_beta   89.99310907
+_cell_angle_gamma   90.03804521
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbY4(ZnB4)2
+_chemical_formula_sum   'Tb2 Y8 Zn4 B16'
+_cell_volume   437.74411050
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.682008  0.182008  0.213013  1
+  Tb  Tb1  1  0.317992  0.817992  0.786987  1
+  Y  Y2  1  0.317990  0.817990  0.212458  1
+  Y  Y3  1  0.818043  0.681943  0.212364  1
+  Y  Y4  1  0.818057  0.681957  0.787636  1
+  Y  Y5  1  0.682010  0.182010  0.787542  1
+  Y  Y6  1  0.181957  0.318057  0.787636  1
+  Y  Y7  1  0.181943  0.318043  0.212364  1
+  Y  Y8  1  0.000000  0.000000  0.500000  1
+  Y  Y9  1  0.500000  0.500000  0.500000  1
+  Zn  Zn10  1  0.117417  0.617417  0.499933  1
+  Zn  Zn11  1  0.882583  0.382583  0.500067  1
+  Zn  Zn12  1  0.382471  0.117529  0.500000  1
+  Zn  Zn13  1  0.617529  0.882471  0.500000  1
+  B  B14  1  0.171759  0.040315  0.000005  1
+  B  B15  1  0.828241  0.959685  0.999995  1
+  B  B16  1  0.959657  0.171746  0.000025  1
+  B  B17  1  0.328254  0.540343  0.999975  1
+  B  B18  1  0.040343  0.828254  0.999975  1
+  B  B19  1  0.671746  0.459657  0.000025  1
+  B  B20  1  0.540315  0.671759  0.000005  1
+  B  B21  1  0.459685  0.328241  0.999995  1
+  B  B22  1  0.090769  0.590769  0.999896  1
+  B  B23  1  0.909231  0.409231  0.000104  1
+  B  B24  1  0.409305  0.090695  0.000000  1
+  B  B25  1  0.590695  0.909305  0.000000  1
+  B  B26  1  0.000072  0.999964  0.156991  1
+  B  B27  1  0.999928  0.000036  0.843009  1
+  B  B28  1  0.500036  0.499928  0.843009  1
+  B  B29  1  0.499964  0.500072  0.156991  1

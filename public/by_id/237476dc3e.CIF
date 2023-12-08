@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Sr3Li7CuSn4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.82534100
+_cell_length_b   9.82534183
+_cell_length_c   8.35935300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000730
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3Li7CuSn4
+_chemical_formula_sum   'Sr6 Li14 Cu2 Sn8'
+_cell_volume   698.87348777
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.479009  0.958017  0.504031  1
+  Sr  Sr1  1  0.041983  0.520991  0.504031  1
+  Sr  Sr2  1  0.479009  0.520991  0.504031  1
+  Sr  Sr3  1  0.520991  0.041983  0.004031  1
+  Sr  Sr4  1  0.958017  0.479009  0.004031  1
+  Sr  Sr5  1  0.520991  0.479009  0.004031  1
+  Li  Li6  1  0.837439  0.674880  0.660277  1
+  Li  Li7  1  0.325120  0.162561  0.660277  1
+  Li  Li8  1  0.837439  0.162561  0.660277  1
+  Li  Li9  1  0.162561  0.325120  0.160277  1
+  Li  Li10  1  0.674880  0.837439  0.160277  1
+  Li  Li11  1  0.162561  0.837439  0.160277  1
+  Li  Li12  1  0.898934  0.797867  0.971515  1
+  Li  Li13  1  0.202133  0.101066  0.971515  1
+  Li  Li14  1  0.898934  0.101066  0.971515  1
+  Li  Li15  1  0.101066  0.202133  0.471515  1
+  Li  Li16  1  0.797867  0.898934  0.471515  1
+  Li  Li17  1  0.101066  0.898934  0.471515  1
+  Li  Li18  1  0.666667  0.333333  0.363801  1
+  Li  Li19  1  0.333333  0.666667  0.863801  1
+  Cu  Cu20  1  0.000000  0.000000  0.238484  1
+  Cu  Cu21  1  0.000000  0.000000  0.738484  1
+  Sn  Sn22  1  0.838910  0.677819  0.285657  1
+  Sn  Sn23  1  0.322181  0.161090  0.285657  1
+  Sn  Sn24  1  0.838910  0.161090  0.285657  1
+  Sn  Sn25  1  0.161090  0.322181  0.785657  1
+  Sn  Sn26  1  0.677819  0.838910  0.785657  1
+  Sn  Sn27  1  0.161090  0.838910  0.785657  1
+  Sn  Sn28  1  0.666667  0.333333  0.715997  1
+  Sn  Sn29  1  0.333333  0.666667  0.215997  1

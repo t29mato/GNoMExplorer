@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_DyHo(ZrPt)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.68274500
+_cell_length_b   7.16899900
+_cell_length_c   8.26302000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyHo(ZrPt)2
+_chemical_formula_sum   'Dy2 Ho2 Zr4 Pt4'
+_cell_volume   277.39449147
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.250000  0.984254  0.322436  1
+  Dy  Dy1  1  0.250000  0.484254  0.177564  1
+  Ho  Ho2  1  0.750000  0.015812  0.678654  1
+  Ho  Ho3  1  0.750000  0.515812  0.821346  1
+  Zr  Zr4  1  0.250000  0.351958  0.579786  1
+  Zr  Zr5  1  0.250000  0.851958  0.920214  1
+  Zr  Zr6  1  0.750000  0.648283  0.419945  1
+  Zr  Zr7  1  0.750000  0.148283  0.080055  1
+  Pt  Pt8  1  0.250000  0.228080  0.906013  1
+  Pt  Pt9  1  0.250000  0.728080  0.593987  1
+  Pt  Pt10  1  0.750000  0.771610  0.092757  1
+  Pt  Pt11  1  0.750000  0.271610  0.407243  1

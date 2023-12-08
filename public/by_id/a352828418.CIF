@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_DyLuMnC2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.97924200
+_cell_length_b   6.33648300
+_cell_length_c   9.48755700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyLuMnC2
+_chemical_formula_sum   'Dy4 Lu4 Mn4 C8'
+_cell_volume   299.34079409
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.250000  0.475274  0.211132  1
+  Dy  Dy1  1  0.250000  0.975274  0.288868  1
+  Dy  Dy2  1  0.750000  0.524726  0.788868  1
+  Dy  Dy3  1  0.750000  0.024726  0.711132  1
+  Lu  Lu4  1  0.250000  0.823822  0.943027  1
+  Lu  Lu5  1  0.250000  0.323822  0.556973  1
+  Lu  Lu6  1  0.750000  0.176178  0.056973  1
+  Lu  Lu7  1  0.750000  0.676178  0.443027  1
+  Mn  Mn8  1  0.250000  0.270648  0.857852  1
+  Mn  Mn9  1  0.250000  0.770648  0.642148  1
+  Mn  Mn10  1  0.750000  0.729352  0.142148  1
+  Mn  Mn11  1  0.750000  0.229352  0.357852  1
+  C  C12  1  0.250000  0.038372  0.737384  1
+  C  C13  1  0.250000  0.538372  0.762616  1
+  C  C14  1  0.750000  0.961628  0.262616  1
+  C  C15  1  0.750000  0.461628  0.237384  1
+  C  C16  1  0.250000  0.682550  0.462312  1
+  C  C17  1  0.250000  0.182550  0.037688  1
+  C  C18  1  0.750000  0.317450  0.537688  1
+  C  C19  1  0.750000  0.817450  0.962312  1

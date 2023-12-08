@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_ErSi2P4(Pd10Pb)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.69843701
+_cell_length_b   8.69843681
+_cell_length_c   8.72938500
+_cell_angle_alpha   59.88223937
+_cell_angle_beta   59.88224015
+_cell_angle_gamma   60.23552902
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErSi2P4(Pd10Pb)2
+_chemical_formula_sum   'Er1 Si2 P4 Pd20 Pb2'
+_cell_volume   467.02494660
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.000000  0.000000  0.000000  1
+  Si  Si1  1  0.267393  0.267393  0.732607  1
+  Si  Si2  1  0.732607  0.732607  0.267393  1
+  P  P3  1  0.734382  0.265618  0.265618  1
+  P  P4  1  0.265618  0.734382  0.734382  1
+  P  P5  1  0.265618  0.734382  0.265618  1
+  P  P6  1  0.734382  0.265618  0.734382  1
+  Pd  Pd7  1  0.343633  0.999608  0.000392  1
+  Pd  Pd8  1  0.656367  0.000392  0.999608  1
+  Pd  Pd9  1  0.999608  0.343633  0.656367  1
+  Pd  Pd10  1  0.000392  0.656367  0.343633  1
+  Pd  Pd11  1  0.999608  0.343633  0.000392  1
+  Pd  Pd12  1  0.656367  0.000392  0.343633  1
+  Pd  Pd13  1  0.000392  0.656367  0.999608  1
+  Pd  Pd14  1  0.343633  0.999608  0.656367  1
+  Pd  Pd15  1  0.000000  0.000000  0.342134  1
+  Pd  Pd16  1  0.000000  0.000000  0.657866  1
+  Pd  Pd17  1  0.657866  0.342134  0.000000  1
+  Pd  Pd18  1  0.342134  0.657866  0.000000  1
+  Pd  Pd19  1  0.384650  0.384650  0.383025  1
+  Pd  Pd20  1  0.615350  0.615350  0.616975  1
+  Pd  Pd21  1  0.384650  0.384650  0.847676  1
+  Pd  Pd22  1  0.383025  0.847676  0.384650  1
+  Pd  Pd23  1  0.615350  0.615350  0.152324  1
+  Pd  Pd24  1  0.616975  0.152324  0.615350  1
+  Pd  Pd25  1  0.847676  0.383025  0.384650  1
+  Pd  Pd26  1  0.152324  0.616975  0.615350  1
+  Pb  Pb27  1  0.250000  0.250000  0.250000  1
+  Pb  Pb28  1  0.750000  0.750000  0.750000  1

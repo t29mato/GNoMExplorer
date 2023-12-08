@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_DyY15(CdNi)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.58879867
+_cell_length_b   9.58879935
+_cell_length_c   9.58879921
+_cell_angle_alpha   59.95298242
+_cell_angle_beta   59.95298143
+_cell_angle_gamma   59.95297919
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyY15(CdNi)4
+_chemical_formula_sum   'Dy1 Y15 Cd4 Ni4'
+_cell_volume   622.75080753
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.598540  0.598540  0.598540  1
+  Y  Y1  1  0.599034  0.599034  0.202751  1
+  Y  Y2  1  0.599034  0.202751  0.599034  1
+  Y  Y3  1  0.202751  0.599034  0.599034  1
+  Y  Y4  1  0.060608  0.439237  0.439237  1
+  Y  Y5  1  0.439165  0.060913  0.060913  1
+  Y  Y6  1  0.439237  0.060608  0.439237  1
+  Y  Y7  1  0.060913  0.439165  0.060913  1
+  Y  Y8  1  0.439237  0.439237  0.060608  1
+  Y  Y9  1  0.060913  0.060913  0.439165  1
+  Y  Y10  1  0.186878  0.813405  0.813405  1
+  Y  Y11  1  0.813593  0.186287  0.186287  1
+  Y  Y12  1  0.813405  0.186878  0.813405  1
+  Y  Y13  1  0.186287  0.813593  0.186287  1
+  Y  Y14  1  0.813405  0.813405  0.186878  1
+  Y  Y15  1  0.186287  0.186287  0.813593  1
+  Cd  Cd16  1  0.831130  0.831130  0.831130  1
+  Cd  Cd17  1  0.831131  0.831131  0.506668  1
+  Cd  Cd18  1  0.831131  0.506668  0.831131  1
+  Cd  Cd19  1  0.506668  0.831131  0.831131  1
+  Ni  Ni20  1  0.392519  0.392519  0.392519  1
+  Ni  Ni21  1  0.393294  0.393294  0.821549  1
+  Ni  Ni22  1  0.393294  0.821549  0.393294  1
+  Ni  Ni23  1  0.821549  0.393294  0.393294  1

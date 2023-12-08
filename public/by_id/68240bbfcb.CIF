@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HoTmSi3Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.99844800
+_cell_length_b   7.93288586
+_cell_length_c   7.93288612
+_cell_angle_alpha   120.08758074
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoTmSi3Ni
+_chemical_formula_sum   'Ho2 Tm2 Si6 Ni2'
+_cell_volume   217.72111927
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.500000  0.999985  0.999985  1
+  Ho  Ho1  1  0.500000  0.499862  0.499862  1
+  Tm  Tm2  1  0.500000  0.999973  0.500097  1
+  Tm  Tm3  1  0.500000  0.500097  0.999973  1
+  Si  Si4  1  0.000000  0.829296  0.170667  1
+  Si  Si5  1  0.000000  0.829264  0.657907  1
+  Si  Si6  1  0.000000  0.342076  0.170659  1
+  Si  Si7  1  0.000000  0.170667  0.829296  1
+  Si  Si8  1  0.000000  0.657907  0.829264  1
+  Si  Si9  1  0.000000  0.170659  0.342076  1
+  Ni  Ni10  1  0.000000  0.668074  0.332242  1
+  Ni  Ni11  1  0.000000  0.332242  0.668074  1

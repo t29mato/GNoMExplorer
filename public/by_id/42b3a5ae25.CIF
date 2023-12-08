@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_HoNb(NiP)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.67296400
+_cell_length_b   10.08419500
+_cell_length_c   12.16770400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoNb(NiP)3
+_chemical_formula_sum   'Ho4 Nb4 Ni12 P12'
+_cell_volume   450.67819165
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.250000  0.072398  0.205817  1
+  Ho  Ho1  1  0.750000  0.927602  0.794183  1
+  Ho  Ho2  1  0.750000  0.572398  0.294183  1
+  Ho  Ho3  1  0.250000  0.427602  0.705817  1
+  Nb  Nb4  1  0.250000  0.161735  0.495193  1
+  Nb  Nb5  1  0.750000  0.838265  0.504807  1
+  Nb  Nb6  1  0.750000  0.661735  0.004807  1
+  Nb  Nb7  1  0.250000  0.338265  0.995193  1
+  Ni  Ni8  1  0.250000  0.731396  0.664488  1
+  Ni  Ni9  1  0.750000  0.268604  0.335512  1
+  Ni  Ni10  1  0.750000  0.231396  0.835512  1
+  Ni  Ni11  1  0.250000  0.768604  0.164488  1
+  Ni  Ni12  1  0.250000  0.368191  0.216676  1
+  Ni  Ni13  1  0.750000  0.631809  0.783324  1
+  Ni  Ni14  1  0.750000  0.868191  0.283324  1
+  Ni  Ni15  1  0.250000  0.131809  0.716676  1
+  Ni  Ni16  1  0.250000  0.600913  0.482778  1
+  Ni  Ni17  1  0.750000  0.399087  0.517222  1
+  Ni  Ni18  1  0.750000  0.100913  0.017222  1
+  Ni  Ni19  1  0.250000  0.899087  0.982778  1
+  P  P20  1  0.250000  0.946427  0.619272  1
+  P  P21  1  0.750000  0.053573  0.380728  1
+  P  P22  1  0.750000  0.446427  0.880728  1
+  P  P23  1  0.250000  0.553573  0.119272  1
+  P  P24  1  0.250000  0.390872  0.402801  1
+  P  P25  1  0.750000  0.609128  0.597199  1
+  P  P26  1  0.750000  0.890872  0.097199  1
+  P  P27  1  0.250000  0.109128  0.902801  1
+  P  P28  1  0.250000  0.771869  0.357176  1
+  P  P29  1  0.750000  0.228131  0.642824  1
+  P  P30  1  0.750000  0.271869  0.142824  1
+  P  P31  1  0.250000  0.728131  0.857176  1

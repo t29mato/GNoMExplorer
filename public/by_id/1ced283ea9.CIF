@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_La3Eu(Sn2O7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.63284107
+_cell_length_b   7.62871657
+_cell_length_c   7.63284200
+_cell_angle_alpha   59.98210963
+_cell_angle_beta   59.99999596
+_cell_angle_gamma   59.98210597
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3Eu(Sn2O7)2
+_chemical_formula_sum   'La3 Eu1 Sn4 O14'
+_cell_volume   314.18934797
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.125000  0.125000  0.125000  1
+  La  La1  1  0.625000  0.125000  0.125000  1
+  La  La2  1  0.125000  0.125000  0.625000  1
+  Eu  Eu3  1  0.125000  0.625000  0.125000  1
+  Sn  Sn4  1  0.625000  0.625000  0.625000  1
+  Sn  Sn5  1  0.125000  0.625000  0.625000  1
+  Sn  Sn6  1  0.625000  0.125000  0.625000  1
+  Sn  Sn7  1  0.625000  0.625000  0.125000  1
+  O  O8  1  0.957553  0.543677  0.957553  1
+  O  O9  1  0.706944  0.292909  0.293203  1
+  O  O10  1  0.292447  0.706323  0.708782  1
+  O  O11  1  0.706944  0.292909  0.706944  1
+  O  O12  1  0.293203  0.292909  0.706944  1
+  O  O13  1  0.708782  0.706323  0.292447  1
+  O  O14  1  0.956797  0.957091  0.543056  1
+  O  O15  1  0.543056  0.957091  0.956797  1
+  O  O16  1  0.957553  0.543677  0.541218  1
+  O  O17  1  0.541218  0.543677  0.957553  1
+  O  O18  1  0.292447  0.706323  0.292447  1
+  O  O19  1  0.543056  0.957091  0.543056  1
+  O  O20  1  0.002492  0.992525  0.002492  1
+  O  O21  1  0.247508  0.257475  0.247508  1

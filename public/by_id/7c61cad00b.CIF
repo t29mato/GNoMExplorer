@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Hg3Mo(SeF3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.89086394
+_cell_length_b   7.89087079
+_cell_length_c   5.32871547
+_cell_angle_alpha   93.67853072
+_cell_angle_beta   93.67822523
+_cell_angle_gamma   57.64916229
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hg3Mo(SeF3)2
+_chemical_formula_sum   'Hg3 Mo1 Se2 F6'
+_cell_volume   279.54508413
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.500001  0.000000  0.500000  1
+  Hg  Hg1  1  0.000000  0.500001  0.500000  1
+  Hg  Hg2  1  0.500000  0.500000  0.500000  1
+  Mo  Mo3  1  0.000000  0.000000  0.000000  1
+  Se  Se4  1  0.330836  0.330836  0.289811  1
+  Se  Se5  1  0.669163  0.669163  0.710188  1
+  F  F6  1  0.756499  0.128489  0.203449  1
+  F  F7  1  0.128496  0.756499  0.203449  1
+  F  F8  1  0.123360  0.123369  0.240457  1
+  F  F9  1  0.876640  0.876631  0.759541  1
+  F  F10  1  0.871505  0.243502  0.796551  1
+  F  F11  1  0.243502  0.871512  0.796551  1

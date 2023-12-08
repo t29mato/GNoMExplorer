@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Tm8MgIn(PbAu4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.01923500
+_cell_length_b   8.01923500
+_cell_length_c   7.26720500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tm8MgIn(PbAu4)2
+_chemical_formula_sum   'Tm8 Mg1 In1 Pb2 Au8'
+_cell_volume   467.34036377
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.843136  0.156506  0.500165  1
+  Tm  Tm1  1  0.156864  0.843494  0.500165  1
+  Tm  Tm2  1  0.343494  0.343136  0.999835  1
+  Tm  Tm3  1  0.656506  0.656864  0.999835  1
+  Tm  Tm4  1  0.680604  0.680610  0.499536  1
+  Tm  Tm5  1  0.319396  0.319390  0.499536  1
+  Tm  Tm6  1  0.180610  0.819396  0.000464  1
+  Tm  Tm7  1  0.819390  0.180604  0.000464  1
+  Mg  Mg8  1  0.500000  0.000000  0.750000  1
+  In  In9  1  0.000000  0.500000  0.250000  1
+  Pb  Pb10  1  0.500000  0.000000  0.250000  1
+  Pb  Pb11  1  0.000000  0.500000  0.750000  1
+  Au  Au12  1  0.633475  0.376886  0.274078  1
+  Au  Au13  1  0.366525  0.623114  0.274078  1
+  Au  Au14  1  0.138823  0.120081  0.772968  1
+  Au  Au15  1  0.861177  0.879919  0.772968  1
+  Au  Au16  1  0.379919  0.638823  0.727032  1
+  Au  Au17  1  0.620081  0.361177  0.727032  1
+  Au  Au18  1  0.876886  0.866525  0.225922  1
+  Au  Au19  1  0.123114  0.133475  0.225922  1

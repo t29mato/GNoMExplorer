@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_SrCa5Eu6(BiN)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.14111590
+_cell_length_b   7.14111608
+_cell_length_c   11.95574165
+_cell_angle_alpha   90.82099239
+_cell_angle_beta   89.17900786
+_cell_angle_gamma   120.55334456
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCa5Eu6(BiN)4
+_chemical_formula_sum   'Sr1 Ca5 Eu6 Bi4 N4'
+_cell_volume   524.96642932
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.500000  0.500000  0.500000  1
+  Ca  Ca1  1  0.500000  0.500000  0.000000  1
+  Ca  Ca2  1  0.000000  0.500000  0.000000  1
+  Ca  Ca3  1  0.500000  0.000000  0.000000  1
+  Ca  Ca4  1  0.000000  0.500000  0.500000  1
+  Ca  Ca5  1  0.500000  0.000000  0.500000  1
+  Eu  Eu6  1  0.824267  0.175733  0.749436  1
+  Eu  Eu7  1  0.175733  0.824267  0.250564  1
+  Eu  Eu8  1  0.357333  0.174478  0.753195  1
+  Eu  Eu9  1  0.642667  0.825522  0.246805  1
+  Eu  Eu10  1  0.825522  0.642667  0.753195  1
+  Eu  Eu11  1  0.174478  0.357333  0.246805  1
+  Bi  Bi12  1  0.000000  0.000000  0.000000  1
+  Bi  Bi13  1  0.000000  0.000000  0.500000  1
+  Bi  Bi14  1  0.666584  0.333416  0.248057  1
+  Bi  Bi15  1  0.333416  0.666584  0.751943  1
+  N  N16  1  0.666950  0.333050  0.886043  1
+  N  N17  1  0.333050  0.666950  0.113957  1
+  N  N18  1  0.326374  0.673626  0.380651  1
+  N  N19  1  0.673626  0.326374  0.619349  1

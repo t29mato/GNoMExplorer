@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Ti4Re14Tc10Sn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.36946260
+_cell_length_b   8.36946173
+_cell_length_c   8.36023918
+_cell_angle_alpha   109.49014642
+_cell_angle_beta   109.49015344
+_cell_angle_gamma   109.55726434
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti4Re14Tc10Sn
+_chemical_formula_sum   'Ti4 Re14 Tc10 Sn1'
+_cell_volume   450.11749570
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.630108  0.999873  0.999996  1
+  Ti  Ti1  1  0.999873  0.630108  0.999996  1
+  Ti  Ti2  1  0.999693  0.999693  0.629840  1
+  Ti  Ti3  1  0.369399  0.369399  0.368312  1
+  Re  Re4  1  0.281388  0.601684  0.601691  1
+  Re  Re5  1  0.601684  0.281388  0.601691  1
+  Re  Re6  1  0.377709  0.195163  0.000053  1
+  Re  Re7  1  0.181439  0.805208  0.805072  1
+  Re  Re8  1  0.377723  0.001069  0.195666  1
+  Re  Re9  1  0.195163  0.377709  0.000053  1
+  Re  Re10  1  0.001069  0.377723  0.195666  1
+  Re  Re11  1  0.805208  0.181439  0.805072  1
+  Re  Re12  1  0.804986  0.804986  0.183066  1
+  Re  Re13  1  0.000622  0.195152  0.378010  1
+  Re  Re14  1  0.195152  0.000622  0.378010  1
+  Re  Re15  1  0.621912  0.621912  0.816934  1
+  Re  Re16  1  0.815688  0.621548  0.621356  1
+  Re  Re17  1  0.621548  0.815688  0.621356  1
+  Tc  Tc18  1  0.398712  0.681525  0.000431  1
+  Tc  Tc19  1  0.718783  0.319258  0.318562  1
+  Tc  Tc20  1  0.399247  0.000611  0.681100  1
+  Tc  Tc21  1  0.681525  0.398712  0.000431  1
+  Tc  Tc22  1  0.000611  0.399247  0.681100  1
+  Tc  Tc23  1  0.319258  0.718783  0.318562  1
+  Tc  Tc24  1  0.319464  0.319464  0.719525  1
+  Tc  Tc25  1  0.000525  0.680564  0.398679  1
+  Tc  Tc26  1  0.680564  0.000525  0.398679  1
+  Tc  Tc27  1  0.601330  0.601330  0.281523  1
+  Sn  Sn28  1  0.999618  0.999618  0.999568  1

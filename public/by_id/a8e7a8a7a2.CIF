@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_CeEr2(GaIr2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.56275000
+_cell_length_b   5.56265006
+_cell_length_c   15.78752100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99911955
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeEr2(GaIr2)3
+_chemical_formula_sum   'Ce2 Er4 Ga6 Ir12'
+_cell_volume   423.07728415
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.333415  0.666721  0.750000  1
+  Ce  Ce1  1  0.666585  0.333279  0.250000  1
+  Er  Er2  1  0.333249  0.666659  0.539465  1
+  Er  Er3  1  0.666751  0.333341  0.460535  1
+  Er  Er4  1  0.666751  0.333341  0.039465  1
+  Er  Er5  1  0.333249  0.666659  0.960535  1
+  Ga  Ga6  1  0.999744  0.000639  0.250000  1
+  Ga  Ga7  1  0.000256  0.999361  0.750000  1
+  Ga  Ga8  1  0.333519  0.666226  0.250000  1
+  Ga  Ga9  1  0.666481  0.333774  0.750000  1
+  Ga  Ga10  1  0.000000  0.000000  0.000000  1
+  Ga  Ga11  1  0.000000  0.000000  0.500000  1
+  Ir  Ir12  1  0.169210  0.338446  0.124831  1
+  Ir  Ir13  1  0.830790  0.661554  0.875169  1
+  Ir  Ir14  1  0.661572  0.830766  0.124875  1
+  Ir  Ir15  1  0.830790  0.661554  0.624831  1
+  Ir  Ir16  1  0.338428  0.169234  0.875125  1
+  Ir  Ir17  1  0.169210  0.338446  0.375169  1
+  Ir  Ir18  1  0.169212  0.830757  0.124949  1
+  Ir  Ir19  1  0.338428  0.169234  0.624875  1
+  Ir  Ir20  1  0.830788  0.169243  0.875051  1
+  Ir  Ir21  1  0.661572  0.830766  0.375125  1
+  Ir  Ir22  1  0.830788  0.169243  0.624949  1
+  Ir  Ir23  1  0.169212  0.830757  0.375051  1

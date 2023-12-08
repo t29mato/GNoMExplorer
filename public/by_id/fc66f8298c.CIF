@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Dy4Lu(InSb)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.79196799
+_cell_length_b   8.79196820
+_cell_length_c   8.07591900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   125.30169366
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy4Lu(InSb)2
+_chemical_formula_sum   'Dy8 Lu2 In4 Sb4'
+_cell_volume   509.46980864
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.032174  0.306476  0.333314  1
+  Dy  Dy1  1  0.967826  0.693524  0.666686  1
+  Dy  Dy2  1  0.467826  0.193524  0.833314  1
+  Dy  Dy3  1  0.806476  0.532174  0.166686  1
+  Dy  Dy4  1  0.532174  0.806476  0.166686  1
+  Dy  Dy5  1  0.193524  0.467826  0.833314  1
+  Dy  Dy6  1  0.693524  0.967826  0.666686  1
+  Dy  Dy7  1  0.306476  0.032174  0.333314  1
+  Lu  Lu8  1  0.000000  0.000000  0.000000  1
+  Lu  Lu9  1  0.500000  0.500000  0.500000  1
+  In  In10  1  0.369749  0.369749  0.129297  1
+  In  In11  1  0.630251  0.630251  0.870703  1
+  In  In12  1  0.130251  0.130251  0.629297  1
+  In  In13  1  0.869749  0.869749  0.370703  1
+  Sb  Sb14  1  0.797579  0.202421  0.000000  1
+  Sb  Sb15  1  0.202421  0.797579  0.000000  1
+  Sb  Sb16  1  0.702421  0.297579  0.500000  1
+  Sb  Sb17  1  0.297579  0.702421  0.500000  1

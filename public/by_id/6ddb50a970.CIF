@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_V(FePt3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.14438287
+_cell_length_b   6.14438259
+_cell_length_c   6.15348151
+_cell_angle_alpha   95.70525786
+_cell_angle_beta   95.70525523
+_cell_angle_gamma   143.21454926
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V(FePt3)2
+_chemical_formula_sum   'V1 Fe2 Pt6'
+_cell_volume   132.03000829
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.000000  0.000000  0.000000  1
+  Fe  Fe1  1  0.334197  0.334197  0.668394  1
+  Fe  Fe2  1  0.665803  0.665803  0.331606  1
+  Pt  Pt3  1  0.656351  0.343649  0.000000  1
+  Pt  Pt4  1  0.343649  0.656351  0.000000  1
+  Pt  Pt5  1  0.010003  0.323003  0.333006  1
+  Pt  Pt6  1  0.989997  0.676997  0.666994  1
+  Pt  Pt7  1  0.676997  0.989997  0.666994  1
+  Pt  Pt8  1  0.323003  0.010003  0.333006  1

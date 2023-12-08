@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TmPa3Ge4(IrPt)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.33939800
+_cell_length_b   7.01693417
+_cell_length_c   7.65696665
+_cell_angle_alpha   90.29842647
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TmPa3Ge4(IrPt)2
+_chemical_formula_sum   'Tm1 Pa3 Ge4 Ir2 Pt2'
+_cell_volume   233.14588335
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.750000  0.008203  0.201365  1
+  Pa  Pa1  1  0.250000  0.496748  0.705881  1
+  Pa  Pa2  1  0.250000  0.999703  0.796701  1
+  Pa  Pa3  1  0.750000  0.508000  0.296482  1
+  Ge  Ge4  1  0.250000  0.814538  0.412100  1
+  Ge  Ge5  1  0.250000  0.313941  0.088548  1
+  Ge  Ge6  1  0.750000  0.182872  0.585421  1
+  Ge  Ge7  1  0.750000  0.686367  0.914892  1
+  Ir  Ir8  1  0.750000  0.770813  0.587081  1
+  Ir  Ir9  1  0.750000  0.279608  0.909664  1
+  Pt  Pt10  1  0.250000  0.216026  0.416431  1
+  Pt  Pt11  1  0.250000  0.723181  0.085434  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Cu2Ni3IrS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.85616515
+_cell_length_b   6.81600407
+_cell_length_c   6.81600500
+_cell_angle_alpha   60.00000033
+_cell_angle_beta   60.19358170
+_cell_angle_gamma   60.19358269
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu2Ni3IrS8
+_chemical_formula_sum   'Cu2 Ni3 Ir1 S8'
+_cell_volume   225.88665788
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.003385  0.998872  0.998872  1
+  Cu  Cu1  1  0.246615  0.251128  0.251128  1
+  Ni  Ni2  1  0.625000  0.625000  0.625000  1
+  Ni  Ni3  1  0.625000  0.625000  0.125000  1
+  Ni  Ni4  1  0.625000  0.125000  0.625000  1
+  Ir  Ir5  1  0.125000  0.625000  0.625000  1
+  S  S6  1  0.394323  0.382091  0.841496  1
+  S  S7  1  0.394323  0.382091  0.382091  1
+  S  S8  1  0.855677  0.867909  0.867909  1
+  S  S9  1  0.855677  0.867909  0.408504  1
+  S  S10  1  0.394323  0.841496  0.382091  1
+  S  S11  1  0.839598  0.386801  0.386801  1
+  S  S12  1  0.410402  0.863199  0.863199  1
+  S  S13  1  0.855677  0.408504  0.867909  1

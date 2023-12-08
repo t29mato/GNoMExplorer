@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Tb3Dy5Cd2NiOs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.59872199
+_cell_length_b   9.59872082
+_cell_length_c   9.68239800
+_cell_angle_alpha   59.71119795
+_cell_angle_beta   59.71120200
+_cell_angle_gamma   59.57969911
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb3Dy5Cd2NiOs
+_chemical_formula_sum   'Tb6 Dy10 Cd4 Ni2 Os2'
+_cell_volume   626.03502024
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.939349  0.555865  0.566084  1
+  Tb  Tb1  1  0.555865  0.939349  0.938702  1
+  Tb  Tb2  1  0.555865  0.939349  0.566084  1
+  Tb  Tb3  1  0.939349  0.555865  0.938702  1
+  Tb  Tb4  1  0.565528  0.565528  0.934472  1
+  Tb  Tb5  1  0.941819  0.941819  0.558181  1
+  Dy  Dy6  1  0.350226  0.350226  0.342944  1
+  Dy  Dy7  1  0.350226  0.350226  0.956606  1
+  Dy  Dy8  1  0.351423  0.955677  0.346451  1
+  Dy  Dy9  1  0.955677  0.351423  0.346451  1
+  Dy  Dy10  1  0.811080  0.186140  0.190208  1
+  Dy  Dy11  1  0.186140  0.811080  0.812572  1
+  Dy  Dy12  1  0.186140  0.811080  0.190208  1
+  Dy  Dy13  1  0.811080  0.186140  0.812572  1
+  Dy  Dy14  1  0.188380  0.188380  0.811620  1
+  Dy  Dy15  1  0.810033  0.810033  0.189967  1
+  Cd  Cd16  1  0.579301  0.579301  0.582583  1
+  Cd  Cd17  1  0.579301  0.579301  0.258813  1
+  Cd  Cd18  1  0.580230  0.256666  0.581551  1
+  Cd  Cd19  1  0.256666  0.580230  0.581551  1
+  Ni  Ni20  1  0.142286  0.576644  0.140534  1
+  Ni  Ni21  1  0.576644  0.142286  0.140534  1
+  Os  Os22  1  0.143696  0.143696  0.138178  1
+  Os  Os23  1  0.143696  0.143696  0.574431  1

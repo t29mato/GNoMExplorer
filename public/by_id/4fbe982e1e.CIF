@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ta2Si2RuPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.80974700
+_cell_length_b   6.45402163
+_cell_length_c   7.38067416
+_cell_angle_alpha   88.92115401
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2Si2RuPt
+_chemical_formula_sum   'Ta4 Si4 Ru2 Pt2'
+_cell_volume   181.44524520
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.250000  0.521477  0.179220  1
+  Ta  Ta1  1  0.750000  0.478523  0.820780  1
+  Ta  Ta2  1  0.750000  0.974203  0.662494  1
+  Ta  Ta3  1  0.250000  0.025797  0.337506  1
+  Si  Si4  1  0.250000  0.762027  0.868680  1
+  Si  Si5  1  0.750000  0.237973  0.131320  1
+  Si  Si6  1  0.750000  0.727660  0.380334  1
+  Si  Si7  1  0.250000  0.272340  0.619666  1
+  Ru  Ru8  1  0.250000  0.645450  0.563324  1
+  Ru  Ru9  1  0.750000  0.354550  0.436676  1
+  Pt  Pt10  1  0.750000  0.852853  0.066123  1
+  Pt  Pt11  1  0.250000  0.147147  0.933877  1

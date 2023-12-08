@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Zr4Ti2MnSi4Ir
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.71943100
+_cell_length_b   6.76898436
+_cell_length_c   7.99094734
+_cell_angle_alpha   89.56638169
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr4Ti2MnSi4Ir
+_chemical_formula_sum   'Zr4 Ti2 Mn1 Si4 Ir1'
+_cell_volume   201.18048367
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.250000  0.031214  0.327981  1
+  Zr  Zr1  1  0.250000  0.534513  0.168321  1
+  Zr  Zr2  1  0.750000  0.966696  0.671481  1
+  Zr  Zr3  1  0.750000  0.467715  0.827564  1
+  Ti  Ti4  1  0.250000  0.129691  0.944563  1
+  Ti  Ti5  1  0.250000  0.635380  0.558194  1
+  Mn  Mn6  1  0.750000  0.872883  0.059913  1
+  Si  Si7  1  0.250000  0.261328  0.629385  1
+  Si  Si8  1  0.250000  0.761460  0.873784  1
+  Si  Si9  1  0.750000  0.736118  0.353918  1
+  Si  Si10  1  0.750000  0.236460  0.142677  1
+  Ir  Ir11  1  0.750000  0.366543  0.442218  1

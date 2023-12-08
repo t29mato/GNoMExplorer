@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_DyYGa2(Co3B)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.15832300
+_cell_length_b   5.15752537
+_cell_length_c   6.67271500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00510962
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyYGa2(Co3B)2
+_chemical_formula_sum   'Dy1 Y1 Ga2 Co6 B2'
+_cell_volume   153.73075157
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.999983  0.000000  0.500000  1
+  Y  Y1  1  0.000086  0.000000  0.000000  1
+  Ga  Ga2  1  0.333368  0.666677  0.000000  1
+  Ga  Ga3  1  0.666691  0.333323  0.000000  1
+  Co  Co4  1  0.499980  0.000000  0.294850  1
+  Co  Co5  1  0.499967  0.500008  0.294852  1
+  Co  Co6  1  0.999959  0.499992  0.294852  1
+  Co  Co7  1  0.499980  0.000000  0.705150  1
+  Co  Co8  1  0.499967  0.500008  0.705148  1
+  Co  Co9  1  0.999959  0.499992  0.705148  1
+  B  B10  1  0.333272  0.666684  0.500000  1
+  B  B11  1  0.666588  0.333316  0.500000  1

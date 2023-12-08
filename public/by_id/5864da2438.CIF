@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Np4Ga6Si6Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.24880055
+_cell_length_b   7.24879940
+_cell_length_c   7.24880000
+_cell_angle_alpha   109.47121673
+_cell_angle_beta   109.47121351
+_cell_angle_gamma   109.47122704
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Np4Ga6Si6Ni
+_chemical_formula_sum   'Np4 Ga6 Si6 Ni1'
+_cell_volume   293.20845059
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Np  Np0  1  0.500000  0.500000  0.500000  1
+  Np  Np1  1  0.000000  0.000000  0.500000  1
+  Np  Np2  1  0.000000  0.500000  0.000000  1
+  Np  Np3  1  0.500000  0.000000  0.000000  1
+  Ga  Ga4  1  0.000000  0.292366  0.292366  1
+  Ga  Ga5  1  0.000000  0.707634  0.707634  1
+  Ga  Ga6  1  0.292366  0.000000  0.292366  1
+  Ga  Ga7  1  0.707634  0.000000  0.707634  1
+  Ga  Ga8  1  0.292366  0.292366  0.000000  1
+  Ga  Ga9  1  0.707634  0.707634  0.000000  1
+  Si  Si10  1  0.500000  0.750000  0.250000  1
+  Si  Si11  1  0.500000  0.250000  0.750000  1
+  Si  Si12  1  0.250000  0.500000  0.750000  1
+  Si  Si13  1  0.750000  0.500000  0.250000  1
+  Si  Si14  1  0.750000  0.250000  0.500000  1
+  Si  Si15  1  0.250000  0.750000  0.500000  1
+  Ni  Ni16  1  0.000000  0.000000  0.000000  1

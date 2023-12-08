@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Tb3Dy(CO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.93533255
+_cell_length_b   3.93533248
+_cell_length_c   15.23505364
+_cell_angle_alpha   89.97080257
+_cell_angle_beta   90.02919685
+_cell_angle_gamma   121.92187909
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb3Dy(CO5)2
+_chemical_formula_sum   'Tb3 Dy1 C2 O10'
+_cell_volume   200.26115582
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.335265  0.664735  0.906159  1
+  Tb  Tb1  1  0.664893  0.335107  0.093209  1
+  Tb  Tb2  1  0.664508  0.335492  0.407455  1
+  Dy  Dy3  1  0.335935  0.664065  0.593150  1
+  C  C4  1  0.073909  0.926091  0.749178  1
+  C  C5  1  0.925847  0.074153  0.250528  1
+  O  O6  1  0.985978  0.014022  0.824865  1
+  O  O7  1  0.014205  0.985795  0.174946  1
+  O  O8  1  0.014160  0.985840  0.326203  1
+  O  O9  1  0.985258  0.014742  0.673691  1
+  O  O10  1  0.335500  0.664500  0.443490  1
+  O  O11  1  0.664626  0.335374  0.558177  1
+  O  O12  1  0.664602  0.335398  0.942147  1
+  O  O13  1  0.335496  0.664504  0.057247  1
+  O  O14  1  0.259993  0.740007  0.749088  1
+  O  O15  1  0.739825  0.260175  0.250466  1

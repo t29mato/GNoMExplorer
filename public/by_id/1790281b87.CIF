@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TbYb3(MnIr3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.45047486
+_cell_length_b   5.45047526
+_cell_length_c   8.19898074
+_cell_angle_alpha   90.06430981
+_cell_angle_beta   89.93568702
+_cell_angle_gamma   119.99954332
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbYb3(MnIr3)2
+_chemical_formula_sum   'Tb1 Yb3 Mn2 Ir6'
+_cell_volume   210.94092435
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.666615  0.333385  0.927331  1
+  Yb  Yb1  1  0.666712  0.333288  0.561557  1
+  Yb  Yb2  1  0.333384  0.666616  0.430572  1
+  Yb  Yb3  1  0.333282  0.666718  0.074829  1
+  Mn  Mn4  1  0.000132  0.999868  0.501379  1
+  Mn  Mn5  1  0.999902  0.000098  0.000975  1
+  Ir  Ir6  1  0.171196  0.342425  0.752318  1
+  Ir  Ir7  1  0.171207  0.828793  0.752368  1
+  Ir  Ir8  1  0.657575  0.828804  0.752318  1
+  Ir  Ir9  1  0.829531  0.659067  0.248784  1
+  Ir  Ir10  1  0.829531  0.170469  0.248785  1
+  Ir  Ir11  1  0.340933  0.170469  0.248784  1

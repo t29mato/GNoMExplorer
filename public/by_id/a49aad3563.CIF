@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Lu10Hg3Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.54819405
+_cell_length_b   9.54867656
+_cell_length_c   9.31054500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.97588063
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu10Hg3Pd
+_chemical_formula_sum   'Lu20 Hg6 Pd2'
+_cell_volume   735.31877589
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.000000  0.000000  0.500000  1
+  Lu  Lu1  1  0.000000  0.000000  0.000000  1
+  Lu  Lu2  1  0.206878  0.793111  0.440681  1
+  Lu  Lu3  1  0.206665  0.413298  0.440849  1
+  Lu  Lu4  1  0.586109  0.793121  0.440735  1
+  Lu  Lu5  1  0.793122  0.206889  0.559319  1
+  Lu  Lu6  1  0.793335  0.586702  0.559151  1
+  Lu  Lu7  1  0.413891  0.206879  0.559265  1
+  Lu  Lu8  1  0.793122  0.206889  0.940681  1
+  Lu  Lu9  1  0.793335  0.586702  0.940849  1
+  Lu  Lu10  1  0.413891  0.206879  0.940735  1
+  Lu  Lu11  1  0.206878  0.793111  0.059319  1
+  Lu  Lu12  1  0.206665  0.413298  0.059151  1
+  Lu  Lu13  1  0.586109  0.793121  0.059265  1
+  Lu  Lu14  1  0.542448  0.457476  0.250000  1
+  Lu  Lu15  1  0.542491  0.085139  0.250000  1
+  Lu  Lu16  1  0.914996  0.457435  0.250000  1
+  Lu  Lu17  1  0.457552  0.542524  0.750000  1
+  Lu  Lu18  1  0.457509  0.914861  0.750000  1
+  Lu  Lu19  1  0.085004  0.542565  0.750000  1
+  Hg  Hg20  1  0.878786  0.120644  0.250000  1
+  Hg  Hg21  1  0.879185  0.758321  0.250000  1
+  Hg  Hg22  1  0.241661  0.120772  0.250000  1
+  Hg  Hg23  1  0.121214  0.879356  0.750000  1
+  Hg  Hg24  1  0.120815  0.241679  0.750000  1
+  Hg  Hg25  1  0.758339  0.879228  0.750000  1
+  Pd  Pd26  1  0.333584  0.665964  0.250000  1
+  Pd  Pd27  1  0.666416  0.334036  0.750000  1

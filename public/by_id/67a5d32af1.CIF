@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Sr5AgRh2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.56200767
+_cell_length_b   9.56200721
+_cell_length_c   9.56200715
+_cell_angle_alpha   128.79694733
+_cell_angle_beta   128.79694481
+_cell_angle_gamma   75.33751924
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr5AgRh2
+_chemical_formula_sum   'Sr10 Ag2 Rh4'
+_cell_volume   516.86546957
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.466237  0.966237  0.167261  1
+  Sr  Sr1  1  0.201025  0.701025  0.167261  1
+  Sr  Sr2  1  0.533763  0.033763  0.832739  1
+  Sr  Sr3  1  0.033763  0.201025  0.500000  1
+  Sr  Sr4  1  0.701025  0.533763  0.500000  1
+  Sr  Sr5  1  0.966237  0.798975  0.500000  1
+  Sr  Sr6  1  0.000000  0.000000  0.000000  1
+  Sr  Sr7  1  0.500000  0.500000  0.000000  1
+  Sr  Sr8  1  0.798975  0.298975  0.832739  1
+  Sr  Sr9  1  0.298975  0.466237  0.500000  1
+  Ag  Ag10  1  0.750000  0.750000  0.000000  1
+  Ag  Ag11  1  0.250000  0.250000  0.000000  1
+  Rh  Rh12  1  0.120695  0.620695  0.741391  1
+  Rh  Rh13  1  0.620695  0.879305  0.500000  1
+  Rh  Rh14  1  0.379305  0.120695  0.500000  1
+  Rh  Rh15  1  0.879305  0.379305  0.258609  1

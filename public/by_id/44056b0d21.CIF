@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_PrNdFe2(TeO6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.25739500
+_cell_length_b   5.25726448
+_cell_length_c   10.27479700
+_cell_angle_alpha   90.00154416
+_cell_angle_beta   89.99926425
+_cell_angle_gamma   119.99893403
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrNdFe2(TeO6)2
+_chemical_formula_sum   'Pr1 Nd1 Fe2 Te2 O12'
+_cell_volume   245.94555643
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.000000  0.000000  0.000000  1
+  Nd  Nd1  1  0.000000  0.000000  0.500000  1
+  Fe  Fe2  1  0.333243  0.666626  0.250981  1
+  Fe  Fe3  1  0.666757  0.333374  0.749019  1
+  Te  Te4  1  0.333402  0.666701  0.749050  1
+  Te  Te5  1  0.666598  0.333299  0.250950  1
+  O  O6  1  0.376506  0.363883  0.143570  1
+  O  O7  1  0.636033  0.012609  0.143563  1
+  O  O8  1  0.987293  0.623404  0.143564  1
+  O  O9  1  0.623494  0.636117  0.856430  1
+  O  O10  1  0.363967  0.987391  0.856437  1
+  O  O11  1  0.012707  0.376596  0.856436  1
+  O  O12  1  0.639715  0.626601  0.357793  1
+  O  O13  1  0.373326  0.013123  0.357787  1
+  O  O14  1  0.986797  0.360208  0.357792  1
+  O  O15  1  0.360285  0.373399  0.642207  1
+  O  O16  1  0.626674  0.986877  0.642213  1
+  O  O17  1  0.013203  0.639792  0.642208  1

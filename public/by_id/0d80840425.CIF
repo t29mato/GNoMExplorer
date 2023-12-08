@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Y4MgCo2Bi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.00181203
+_cell_length_b   9.00181275
+_cell_length_c   9.00181241
+_cell_angle_alpha   131.73046479
+_cell_angle_beta   131.73046182
+_cell_angle_gamma   70.65506392
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y4MgCo2Bi
+_chemical_formula_sum   'Y8 Mg2 Co4 Bi2'
+_cell_volume   397.98463832
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.803576  0.303576  0.862912  1
+  Y  Y1  1  0.196424  0.696424  0.137089  1
+  Y  Y2  1  0.440667  0.940667  0.137089  1
+  Y  Y3  1  0.303576  0.440667  0.500000  1
+  Y  Y4  1  0.059333  0.196424  0.500000  1
+  Y  Y5  1  0.559333  0.059333  0.862911  1
+  Y  Y6  1  0.696424  0.559333  0.500000  1
+  Y  Y7  1  0.940667  0.803576  0.500000  1
+  Mg  Mg8  1  0.000000  0.000000  0.000000  1
+  Mg  Mg9  1  0.500000  0.500000  0.000000  1
+  Co  Co10  1  0.108654  0.608654  0.717308  1
+  Co  Co11  1  0.891346  0.391346  0.282692  1
+  Co  Co12  1  0.608654  0.891346  0.500000  1
+  Co  Co13  1  0.391346  0.108654  0.500000  1
+  Bi  Bi14  1  0.250000  0.250000  0.000000  1
+  Bi  Bi15  1  0.750000  0.750000  0.000000  1

@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_PrNd11(GaRh)8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.69556220
+_cell_length_b   8.22642047
+_cell_length_c   13.67075800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.01547972
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrNd11(GaRh)8
+_chemical_formula_sum   'Pr1 Nd11 Ga8 Rh8'
+_cell_volume   640.53089500
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.636634  0.261037  0.250000  1
+  Nd  Nd1  1  0.364828  0.737120  0.750000  1
+  Nd  Nd2  1  0.364515  0.762576  0.250000  1
+  Nd  Nd3  1  0.633797  0.237487  0.750000  1
+  Nd  Nd4  1  0.150154  0.401656  0.097957  1
+  Nd  Nd5  1  0.850745  0.599351  0.901948  1
+  Nd  Nd6  1  0.850745  0.599351  0.598052  1
+  Nd  Nd7  1  0.850844  0.900526  0.401984  1
+  Nd  Nd8  1  0.150154  0.401656  0.402043  1
+  Nd  Nd9  1  0.148889  0.099264  0.597828  1
+  Nd  Nd10  1  0.148889  0.099264  0.902172  1
+  Nd  Nd11  1  0.850844  0.900526  0.098016  1
+  Ga  Ga12  1  0.136978  0.112921  0.250000  1
+  Ga  Ga13  1  0.863802  0.886803  0.750000  1
+  Ga  Ga14  1  0.863455  0.613367  0.250000  1
+  Ga  Ga15  1  0.134639  0.386226  0.750000  1
+  Ga  Ga16  1  0.631636  0.250047  0.000165  1
+  Ga  Ga17  1  0.368574  0.750027  0.999889  1
+  Ga  Ga18  1  0.368574  0.750027  0.500111  1
+  Ga  Ga19  1  0.631636  0.250047  0.499835  1
+  Rh  Rh20  1  0.356639  0.030502  0.091869  1
+  Rh  Rh21  1  0.643600  0.969225  0.908128  1
+  Rh  Rh22  1  0.643600  0.969225  0.591872  1
+  Rh  Rh23  1  0.642922  0.531862  0.408341  1
+  Rh  Rh24  1  0.356639  0.030502  0.408131  1
+  Rh  Rh25  1  0.356673  0.468771  0.592000  1
+  Rh  Rh26  1  0.356673  0.468771  0.908000  1
+  Rh  Rh27  1  0.642922  0.531862  0.091659  1

@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Li2Y11Ho7(Cd3Ru)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.48028147
+_cell_length_b   9.48028236
+_cell_length_c   9.71008937
+_cell_angle_alpha   89.91747733
+_cell_angle_beta   90.08252303
+_cell_angle_gamma   120.00853524
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Y11Ho7(Cd3Ru)2
+_chemical_formula_sum   'Li2 Y11 Ho7 Cd6 Ru2'
+_cell_volume   755.71562916
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.000002  0.999998  0.500034  1
+  Li  Li1  1  0.999999  0.000001  0.999996  1
+  Y  Y2  1  0.792220  0.584054  0.941899  1
+  Y  Y3  1  0.415946  0.207780  0.941899  1
+  Y  Y4  1  0.207782  0.792218  0.058325  1
+  Y  Y5  1  0.207299  0.415411  0.058104  1
+  Y  Y6  1  0.584589  0.792701  0.058104  1
+  Y  Y7  1  0.542220  0.457780  0.251526  1
+  Y  Y8  1  0.542618  0.084803  0.251088  1
+  Y  Y9  1  0.915197  0.457382  0.251088  1
+  Y  Y10  1  0.457611  0.542389  0.748465  1
+  Y  Y11  1  0.458120  0.915840  0.748733  1
+  Y  Y12  1  0.084160  0.541880  0.748733  1
+  Ho  Ho13  1  0.208625  0.791375  0.441623  1
+  Ho  Ho14  1  0.208588  0.417258  0.441681  1
+  Ho  Ho15  1  0.582742  0.791412  0.441681  1
+  Ho  Ho16  1  0.791407  0.208593  0.558594  1
+  Ho  Ho17  1  0.791336  0.582723  0.558329  1
+  Ho  Ho18  1  0.417277  0.208664  0.558329  1
+  Ho  Ho19  1  0.791415  0.208585  0.940758  1
+  Cd  Cd20  1  0.891712  0.108288  0.250053  1
+  Cd  Cd21  1  0.891709  0.783422  0.250075  1
+  Cd  Cd22  1  0.216578  0.108291  0.250075  1
+  Cd  Cd23  1  0.108298  0.891702  0.749982  1
+  Cd  Cd24  1  0.108289  0.216614  0.749942  1
+  Cd  Cd25  1  0.783386  0.891711  0.749942  1
+  Ru  Ru26  1  0.333350  0.666650  0.253113  1
+  Ru  Ru27  1  0.667523  0.332477  0.747828  1

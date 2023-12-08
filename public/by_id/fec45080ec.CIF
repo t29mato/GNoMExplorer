@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Ba6CaSm(BO3)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.26534498
+_cell_length_b   8.26534531
+_cell_length_c   8.26534357
+_cell_angle_alpha   105.59642381
+_cell_angle_beta   105.59643921
+_cell_angle_gamma   105.59643657
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba6CaSm(BO3)6
+_chemical_formula_sum   'Ba6 Ca1 Sm1 B6 O18'
+_cell_volume   487.13489469
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.354588  0.728733  0.839618  1
+  Ba  Ba1  1  0.839618  0.354588  0.728733  1
+  Ba  Ba2  1  0.728733  0.839618  0.354588  1
+  Ba  Ba3  1  0.645412  0.271267  0.160382  1
+  Ba  Ba4  1  0.160382  0.645412  0.271267  1
+  Ba  Ba5  1  0.271267  0.160382  0.645412  1
+  Ca  Ca6  1  0.500000  0.500000  0.500000  1
+  Sm  Sm7  1  0.000000  0.000000  0.000000  1
+  B  B8  1  0.708629  0.617638  0.957661  1
+  B  B9  1  0.957661  0.708629  0.617638  1
+  B  B10  1  0.617638  0.957661  0.708629  1
+  B  B11  1  0.042339  0.291371  0.382362  1
+  B  B12  1  0.382362  0.042339  0.291371  1
+  B  B13  1  0.291371  0.382362  0.042339  1
+  O  O14  1  0.059847  0.810993  0.547222  1
+  O  O15  1  0.547222  0.059847  0.810993  1
+  O  O16  1  0.430744  0.496197  0.205268  1
+  O  O17  1  0.496197  0.205268  0.430744  1
+  O  O18  1  0.205268  0.430744  0.496197  1
+  O  O19  1  0.794732  0.569256  0.503803  1
+  O  O20  1  0.569256  0.503803  0.794732  1
+  O  O21  1  0.503803  0.794732  0.569256  1
+  O  O22  1  0.257151  0.196757  0.980876  1
+  O  O23  1  0.196757  0.980876  0.257151  1
+  O  O24  1  0.980876  0.257151  0.196757  1
+  O  O25  1  0.742849  0.803243  0.019124  1
+  O  O26  1  0.803243  0.019124  0.742849  1
+  O  O27  1  0.019124  0.742849  0.803243  1
+  O  O28  1  0.189007  0.452778  0.940153  1
+  O  O29  1  0.452778  0.940153  0.189007  1
+  O  O30  1  0.940153  0.189007  0.452778  1
+  O  O31  1  0.810993  0.547222  0.059847  1

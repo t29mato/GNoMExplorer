@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na3Ca(InPt)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.44819300
+_cell_length_b   7.41114589
+_cell_length_c   8.18950356
+_cell_angle_alpha   89.75298533
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3Ca(InPt)4
+_chemical_formula_sum   'Na3 Ca1 In4 Pt4'
+_cell_volume   269.97436262
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.250000  0.024545  0.328571  1
+  Na  Na1  1  0.250000  0.523558  0.177387  1
+  Na  Na2  1  0.750000  0.977490  0.671546  1
+  Ca  Ca3  1  0.750000  0.475694  0.828434  1
+  In  In4  1  0.750000  0.345760  0.426585  1
+  In  In5  1  0.250000  0.145533  0.932006  1
+  In  In6  1  0.750000  0.845949  0.070685  1
+  In  In7  1  0.250000  0.662409  0.563677  1
+  Pt  Pt8  1  0.750000  0.218817  0.115010  1
+  Pt  Pt9  1  0.750000  0.717356  0.381312  1
+  Pt  Pt10  1  0.250000  0.772767  0.880511  1
+  Pt  Pt11  1  0.250000  0.290121  0.624276  1

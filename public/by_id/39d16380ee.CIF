@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LiTmNi3Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.04025752
+_cell_length_b   5.04025762
+_cell_length_c   5.04025733
+_cell_angle_alpha   57.73980021
+_cell_angle_beta   57.73979856
+_cell_angle_gamma   57.73978488
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTmNi3Rh
+_chemical_formula_sum   'Li1 Tm1 Ni3 Rh1'
+_cell_volume   85.83982975
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.004398  0.004398  0.004398  1
+  Tm  Tm1  1  0.250512  0.250512  0.250512  1
+  Ni  Ni2  1  0.623613  0.623613  0.123239  1
+  Ni  Ni3  1  0.623613  0.123239  0.623613  1
+  Ni  Ni4  1  0.123239  0.623613  0.623613  1
+  Rh  Rh5  1  0.624625  0.624625  0.624625  1

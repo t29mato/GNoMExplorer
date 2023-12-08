@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_La6Ti(SiSe7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.80874900
+_cell_length_b   10.80874956
+_cell_length_c   6.09177600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000746
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La6Ti(SiSe7)2
+_chemical_formula_sum   'La6 Ti1 Si2 Se14'
+_cell_volume   616.34717648
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.876452  0.232108  0.250602  1
+  La  La1  1  0.767892  0.644345  0.250602  1
+  La  La2  1  0.355655  0.123548  0.250602  1
+  La  La3  1  0.123271  0.768373  0.749543  1
+  La  La4  1  0.231627  0.354898  0.749543  1
+  La  La5  1  0.645102  0.876729  0.749543  1
+  Ti  Ti6  1  0.000000  0.000000  0.486724  1
+  Si  Si7  1  0.666667  0.333333  0.835366  1
+  Si  Si8  1  0.333333  0.666667  0.338603  1
+  Se  Se9  1  0.666667  0.333333  0.463983  1
+  Se  Se10  1  0.333333  0.666667  0.967292  1
+  Se  Se11  1  0.915176  0.158087  0.724350  1
+  Se  Se12  1  0.841913  0.757091  0.724350  1
+  Se  Se13  1  0.242909  0.084824  0.724350  1
+  Se  Se14  1  0.082023  0.839643  0.250725  1
+  Se  Se15  1  0.160357  0.242380  0.250725  1
+  Se  Se16  1  0.757620  0.917977  0.250725  1
+  Se  Se17  1  0.588896  0.109228  0.981481  1
+  Se  Se18  1  0.890772  0.479669  0.981481  1
+  Se  Se19  1  0.520331  0.411104  0.981481  1
+  Se  Se20  1  0.411942  0.890587  0.484528  1
+  Se  Se21  1  0.109413  0.521354  0.484528  1
+  Se  Se22  1  0.478646  0.588058  0.484528  1

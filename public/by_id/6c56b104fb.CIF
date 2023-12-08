@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_MgZr6Cu(Ir2N)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.58012406
+_cell_length_b   8.58012432
+_cell_length_c   8.62320500
+_cell_angle_alpha   59.83376382
+_cell_angle_beta   59.83376281
+_cell_angle_gamma   59.65629923
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgZr6Cu(Ir2N)2
+_chemical_formula_sum   'Mg2 Zr12 Cu2 Ir8 N4'
+_cell_volume   446.59094206
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.125000  0.625000  0.625000  1
+  Mg  Mg1  1  0.625000  0.125000  0.625000  1
+  Zr  Zr2  1  0.805968  0.805968  0.194032  1
+  Zr  Zr3  1  0.190668  0.190668  0.809332  1
+  Zr  Zr4  1  0.807349  0.194492  0.807611  1
+  Zr  Zr5  1  0.194492  0.807349  0.190548  1
+  Zr  Zr6  1  0.194492  0.807349  0.807611  1
+  Zr  Zr7  1  0.807349  0.194492  0.190548  1
+  Zr  Zr8  1  0.444032  0.444032  0.055968  1
+  Zr  Zr9  1  0.059332  0.059332  0.440668  1
+  Zr  Zr10  1  0.442651  0.055508  0.442389  1
+  Zr  Zr11  1  0.055508  0.442651  0.059452  1
+  Zr  Zr12  1  0.055508  0.442651  0.442389  1
+  Zr  Zr13  1  0.442651  0.055508  0.059452  1
+  Cu  Cu14  1  0.625000  0.625000  0.125000  1
+  Cu  Cu15  1  0.625000  0.625000  0.625000  1
+  Ir  Ir16  1  0.753073  0.419304  0.413812  1
+  Ir  Ir17  1  0.419304  0.753073  0.413812  1
+  Ir  Ir18  1  0.417434  0.417434  0.754852  1
+  Ir  Ir19  1  0.417434  0.417434  0.410281  1
+  Ir  Ir20  1  0.496927  0.830696  0.836188  1
+  Ir  Ir21  1  0.830696  0.496927  0.836188  1
+  Ir  Ir22  1  0.832566  0.832566  0.495148  1
+  Ir  Ir23  1  0.832566  0.832566  0.839719  1
+  N  N24  1  0.625000  0.125000  0.125000  1
+  N  N25  1  0.125000  0.625000  0.125000  1
+  N  N26  1  0.125000  0.125000  0.625000  1
+  N  N27  1  0.125000  0.125000  0.125000  1

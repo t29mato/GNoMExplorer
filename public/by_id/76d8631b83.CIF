@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Yb12In3Ge5Pd8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.67042600
+_cell_length_b   8.19099610
+_cell_length_c   13.74997296
+_cell_angle_alpha   89.82115535
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Yb12In3Ge5Pd8
+_chemical_formula_sum   'Yb12 In3 Ge5 Pd8'
+_cell_volume   638.63414509
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.648624  0.254438  0.253858  1
+  Yb  Yb1  1  0.350719  0.746169  0.749003  1
+  Yb  Yb2  1  0.350719  0.753831  0.250997  1
+  Yb  Yb3  1  0.648624  0.245562  0.746142  1
+  Yb  Yb4  1  0.153084  0.395644  0.104770  1
+  Yb  Yb5  1  0.845854  0.604808  0.895586  1
+  Yb  Yb6  1  0.847181  0.600161  0.602673  1
+  Yb  Yb7  1  0.847181  0.899839  0.397327  1
+  Yb  Yb8  1  0.144508  0.389235  0.399241  1
+  Yb  Yb9  1  0.144508  0.110765  0.600759  1
+  Yb  Yb10  1  0.153084  0.104356  0.895230  1
+  Yb  Yb11  1  0.845854  0.895192  0.104414  1
+  In  In12  1  0.665673  0.250000  0.000000  1
+  In  In13  1  0.333617  0.750000  0.000000  1
+  In  In14  1  0.340954  0.750000  0.500000  1
+  Ge  Ge15  1  0.143351  0.103140  0.251785  1
+  Ge  Ge16  1  0.855644  0.893788  0.746357  1
+  Ge  Ge17  1  0.855644  0.606212  0.253643  1
+  Ge  Ge18  1  0.143351  0.396860  0.748215  1
+  Ge  Ge19  1  0.657760  0.250000  0.500000  1
+  Pd  Pd20  1  0.368623  0.039589  0.097096  1
+  Pd  Pd21  1  0.632834  0.960540  0.902550  1
+  Pd  Pd22  1  0.631575  0.972683  0.592214  1
+  Pd  Pd23  1  0.631575  0.527317  0.407786  1
+  Pd  Pd24  1  0.379002  0.050240  0.407278  1
+  Pd  Pd25  1  0.379002  0.449760  0.592722  1
+  Pd  Pd26  1  0.368623  0.460411  0.902904  1
+  Pd  Pd27  1  0.632834  0.539460  0.097450  1

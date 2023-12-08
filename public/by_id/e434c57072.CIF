@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Mg3Zr6Al13Pt7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.85750655
+_cell_length_b   8.85750733
+_cell_length_c   8.85750728
+_cell_angle_alpha   60.02356385
+_cell_angle_beta   60.02355874
+_cell_angle_gamma   60.02355928
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg3Zr6Al13Pt7
+_chemical_formula_sum   'Mg3 Zr6 Al13 Pt7'
+_cell_volume   491.64476229
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.881866  0.881866  0.356095  1
+  Mg  Mg1  1  0.881866  0.356095  0.881866  1
+  Mg  Mg2  1  0.356095  0.881866  0.881866  1
+  Zr  Zr3  1  0.684048  0.684048  0.315333  1
+  Zr  Zr4  1  0.318351  0.682049  0.318351  1
+  Zr  Zr5  1  0.682049  0.318351  0.318351  1
+  Zr  Zr6  1  0.318351  0.318351  0.682049  1
+  Zr  Zr7  1  0.684048  0.315333  0.684048  1
+  Zr  Zr8  1  0.315333  0.684048  0.684048  1
+  Al  Al9  1  0.879134  0.879134  0.879134  1
+  Al  Al10  1  0.121047  0.121047  0.639284  1
+  Al  Al11  1  0.121047  0.639284  0.121047  1
+  Al  Al12  1  0.639284  0.121047  0.121047  1
+  Al  Al13  1  0.119456  0.119456  0.119456  1
+  Al  Al14  1  0.663302  0.663302  0.008052  1
+  Al  Al15  1  0.663302  0.008052  0.663302  1
+  Al  Al16  1  0.008052  0.663302  0.663302  1
+  Al  Al17  1  0.664333  0.664333  0.664333  1
+  Al  Al18  1  0.336129  0.336129  0.990702  1
+  Al  Al19  1  0.336129  0.990702  0.336129  1
+  Al  Al20  1  0.990702  0.336129  0.336129  1
+  Al  Al21  1  0.336757  0.336757  0.336757  1
+  Pt  Pt22  1  0.994839  0.994839  0.994839  1
+  Pt  Pt23  1  0.000567  0.000567  0.506176  1
+  Pt  Pt24  1  0.497389  0.002392  0.497389  1
+  Pt  Pt25  1  0.002392  0.497389  0.497389  1
+  Pt  Pt26  1  0.497389  0.497389  0.002392  1
+  Pt  Pt27  1  0.000567  0.506176  0.000567  1
+  Pt  Pt28  1  0.506176  0.000567  0.000567  1

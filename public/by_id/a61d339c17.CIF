@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Ca3P6(Pd9Rh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.65805907
+_cell_length_b   8.70719072
+_cell_length_c   8.65808738
+_cell_angle_alpha   59.81209004
+_cell_angle_beta   59.61582211
+_cell_angle_gamma   59.81209012
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca3P6(Pd9Rh)2
+_chemical_formula_sum   'Ca3 P6 Pd18 Rh2'
+_cell_volume   458.87726488
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.254303  0.241725  0.254307  1
+  Ca  Ca1  1  0.745690  0.750339  0.745689  1
+  Ca  Ca2  1  0.999997  0.000904  0.999996  1
+  P  P3  1  0.725614  0.733507  0.274400  1
+  P  P4  1  0.263005  0.261377  0.737008  1
+  P  P5  1  0.274400  0.733507  0.725613  1
+  P  P6  1  0.733525  0.270350  0.733525  1
+  P  P7  1  0.266478  0.737406  0.266478  1
+  P  P8  1  0.737008  0.261376  0.263006  1
+  Pd  Pd9  1  0.656026  0.349281  0.997860  1
+  Pd  Pd10  1  0.997860  0.349283  0.656024  1
+  Pd  Pd11  1  0.655884  0.001876  0.000411  1
+  Pd  Pd12  1  0.618271  0.612449  0.152606  1
+  Pd  Pd13  1  0.000410  0.001877  0.655885  1
+  Pd  Pd14  1  0.999999  0.348514  0.999997  1
+  Pd  Pd15  1  0.655088  0.000166  0.344907  1
+  Pd  Pd16  1  0.343977  0.003158  0.002142  1
+  Pd  Pd17  1  0.999999  0.658668  0.000000  1
+  Pd  Pd18  1  0.344909  0.000165  0.655088  1
+  Pd  Pd19  1  0.999592  0.658179  0.344118  1
+  Pd  Pd20  1  0.344118  0.658179  0.999591  1
+  Pd  Pd21  1  0.152606  0.612449  0.618271  1
+  Pd  Pd22  1  0.385153  0.386715  0.385153  1
+  Pd  Pd23  1  0.847383  0.383314  0.381729  1
+  Pd  Pd24  1  0.381728  0.383314  0.847384  1
+  Pd  Pd25  1  0.614841  0.157018  0.614842  1
+  Pd  Pd26  1  0.002142  0.003159  0.343977  1
+  Rh  Rh27  1  0.613489  0.607379  0.613490  1
+  Rh  Rh28  1  0.386504  0.834364  0.386505  1

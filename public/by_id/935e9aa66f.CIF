@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaSr3(AsAu)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.80687700
+_cell_length_b   4.44913500
+_cell_length_c   7.76867000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00162363
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSr3(AsAu)4
+_chemical_formula_sum   'Na1 Sr3 As4 Au4'
+_cell_volume   304.39967770
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.499520  0.750000  0.249100  1
+  Sr  Sr1  1  0.999649  0.750000  0.250768  1
+  Sr  Sr2  1  0.000328  0.250000  0.749222  1
+  Sr  Sr3  1  0.500343  0.250000  0.750974  1
+  As  As4  1  0.750440  0.250000  0.083696  1
+  As  As5  1  0.250308  0.250000  0.416299  1
+  As  As6  1  0.749806  0.750000  0.583165  1
+  As  As7  1  0.249589  0.750000  0.916897  1
+  Au  Au8  1  0.252517  0.250000  0.085754  1
+  Au  Au9  1  0.745718  0.250000  0.414210  1
+  Au  Au10  1  0.251089  0.750000  0.582244  1
+  Au  Au11  1  0.750698  0.750000  0.917674  1

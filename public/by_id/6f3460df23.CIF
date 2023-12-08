@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Na5As6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   15.53935100
+_cell_length_b   15.53935180
+_cell_length_c   5.06295700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   163.99331744
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na5As6
+_chemical_formula_sum   'Na5 As6'
+_cell_volume   337.12013987
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.000000  0.000000  0.000000  1
+  Na  Na1  1  0.615191  0.384807  0.000000  1
+  Na  Na2  1  0.384807  0.615191  0.000000  1
+  Na  Na3  1  0.801485  0.198513  0.500001  1
+  Na  Na4  1  0.198513  0.801485  0.500001  1
+  As  As5  1  0.732023  0.267975  0.000000  1
+  As  As6  1  0.267975  0.732023  0.000000  1
+  As  As7  1  0.912967  0.087032  0.500001  1
+  As  As8  1  0.553329  0.446669  0.500001  1
+  As  As9  1  0.446669  0.553329  0.500001  1
+  As  As10  1  0.087032  0.912967  0.500001  1

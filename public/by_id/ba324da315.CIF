@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Cs3Te(OF)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.82549673
+_cell_length_b   6.82549680
+_cell_length_c   6.82549673
+_cell_angle_alpha   60.55729974
+_cell_angle_beta   60.55730015
+_cell_angle_gamma   60.55730588
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs3Te(OF)3
+_chemical_formula_sum   'Cs3 Te1 O3 F3'
+_cell_volume   227.67824367
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.245461  0.245461  0.245461  1
+  Cs  Cs1  1  0.485200  0.485200  0.485200  1
+  Cs  Cs2  1  0.743028  0.743028  0.743028  1
+  Te  Te3  1  0.001853  0.001853  0.001853  1
+  O  O4  1  0.240606  0.775019  0.135057  1
+  O  O5  1  0.775019  0.135057  0.240605  1
+  O  O6  1  0.135057  0.240605  0.775019  1
+  F  F7  1  0.841195  0.745007  0.161779  1
+  F  F8  1  0.161778  0.841195  0.745008  1
+  F  F9  1  0.745008  0.161779  0.841194  1

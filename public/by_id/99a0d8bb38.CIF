@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Ti13Al2Ga7Ir8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.75867841
+_cell_length_b   8.75867756
+_cell_length_c   8.75874359
+_cell_angle_alpha   59.67619846
+_cell_angle_beta   59.67620351
+_cell_angle_gamma   59.73441518
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti13Al2Ga7Ir8
+_chemical_formula_sum   'Ti13 Al2 Ga7 Ir8'
+_cell_volume   471.83514429
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.210574  0.210574  0.789788  1
+  Ti  Ti1  1  0.790031  0.209595  0.210653  1
+  Ti  Ti2  1  0.209595  0.790031  0.210653  1
+  Ti  Ti3  1  0.795052  0.795052  0.194095  1
+  Ti  Ti4  1  0.193530  0.794798  0.794847  1
+  Ti  Ti5  1  0.794798  0.193530  0.794847  1
+  Ti  Ti6  1  0.376596  0.376596  0.377102  1
+  Ti  Ti7  1  0.376768  0.871176  0.377919  1
+  Ti  Ti8  1  0.871176  0.376768  0.377919  1
+  Ti  Ti9  1  0.377532  0.377532  0.870516  1
+  Ti  Ti10  1  0.841149  0.481110  0.840240  1
+  Ti  Ti11  1  0.481110  0.841149  0.840240  1
+  Ti  Ti12  1  0.840540  0.840540  0.482431  1
+  Al  Al13  1  0.619520  0.619520  0.143413  1
+  Al  Al14  1  0.828850  0.828850  0.829424  1
+  Ga  Ga15  1  0.152355  0.152355  0.152080  1
+  Ga  Ga16  1  0.155560  0.537174  0.154106  1
+  Ga  Ga17  1  0.537174  0.155560  0.154106  1
+  Ga  Ga18  1  0.154795  0.154795  0.538232  1
+  Ga  Ga19  1  0.620104  0.620104  0.620294  1
+  Ga  Ga20  1  0.618236  0.144187  0.618799  1
+  Ga  Ga21  1  0.144187  0.618236  0.618799  1
+  Ir  Ir22  1  0.002462  0.002462  0.499846  1
+  Ir  Ir23  1  0.499539  0.000085  0.004354  1
+  Ir  Ir24  1  0.000085  0.499539  0.004354  1
+  Ir  Ir25  1  0.500081  0.500081  0.004274  1
+  Ir  Ir26  1  0.002871  0.499441  0.498449  1
+  Ir  Ir27  1  0.499441  0.002871  0.498449  1
+  Ir  Ir28  1  0.503097  0.503097  0.497277  1
+  Ir  Ir29  1  0.003189  0.003189  0.002487  1

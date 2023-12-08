@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_MnBe8V2Ir
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.27821600
+_cell_length_b   4.27821673
+_cell_length_c   7.00658600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000985
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnBe8V2Ir
+_chemical_formula_sum   'Mn1 Be8 V2 Ir1'
+_cell_volume   111.06124420
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.666667  0.333333  0.565514  1
+  Be  Be1  1  0.000000  0.000000  0.997148  1
+  Be  Be2  1  0.000000  0.000000  0.498046  1
+  Be  Be3  1  0.830128  0.660256  0.252300  1
+  Be  Be4  1  0.168539  0.831461  0.747345  1
+  Be  Be5  1  0.662924  0.831461  0.747345  1
+  Be  Be6  1  0.339744  0.169872  0.252300  1
+  Be  Be7  1  0.830128  0.169872  0.252300  1
+  Be  Be8  1  0.168539  0.337076  0.747345  1
+  V  V9  1  0.666667  0.333333  0.931334  1
+  V  V10  1  0.333333  0.666667  0.444350  1
+  Ir  Ir11  1  0.333333  0.666667  0.064673  1

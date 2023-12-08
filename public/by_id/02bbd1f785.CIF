@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Lu2Hf2TiRe7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.32682401
+_cell_length_b   5.32682430
+_cell_length_c   8.74627701
+_cell_angle_alpha   90.00012518
+_cell_angle_beta   89.99987813
+_cell_angle_gamma   119.99893857
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2Hf2TiRe7
+_chemical_formula_sum   'Lu2 Hf2 Ti1 Re7'
+_cell_volume   214.92910245
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.333329  0.666671  0.061271  1
+  Lu  Lu1  1  0.666671  0.333329  0.938729  1
+  Hf  Hf2  1  0.666670  0.333330  0.565242  1
+  Hf  Hf3  1  0.333330  0.666670  0.434758  1
+  Ti  Ti4  1  0.000000  0.000000  0.500000  1
+  Re  Re5  1  0.000000  0.000000  0.000000  1
+  Re  Re6  1  0.170534  0.340995  0.746210  1
+  Re  Re7  1  0.170535  0.829465  0.746194  1
+  Re  Re8  1  0.659005  0.829466  0.746210  1
+  Re  Re9  1  0.829466  0.659005  0.253790  1
+  Re  Re10  1  0.829465  0.170535  0.253806  1
+  Re  Re11  1  0.340995  0.170534  0.253790  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_DyY3Al2(CdPt2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.36621100
+_cell_length_b   6.97389935
+_cell_length_c   8.22985905
+_cell_angle_alpha   92.48570324
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyY3Al2(CdPt2)2
+_chemical_formula_sum   'Dy1 Y3 Al2 Cd2 Pt4'
+_cell_volume   250.35943364
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.250000  0.963615  0.323325  1
+  Y  Y1  1  0.250000  0.463429  0.185825  1
+  Y  Y2  1  0.750000  0.536435  0.814095  1
+  Y  Y3  1  0.750000  0.035891  0.677049  1
+  Al  Al4  1  0.750000  0.639307  0.443015  1
+  Al  Al5  1  0.250000  0.360687  0.557168  1
+  Cd  Cd6  1  0.250000  0.857970  0.935372  1
+  Cd  Cd7  1  0.750000  0.142129  0.064639  1
+  Pt  Pt8  1  0.250000  0.731010  0.599651  1
+  Pt  Pt9  1  0.750000  0.268975  0.399449  1
+  Pt  Pt10  1  0.750000  0.739742  0.144003  1
+  Pt  Pt11  1  0.250000  0.260810  0.856410  1

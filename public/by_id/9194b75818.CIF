@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_TbEr3Co12(SiB3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.08134300
+_cell_length_b   5.08175044
+_cell_length_c   12.28855600
+_cell_angle_alpha   89.99996567
+_cell_angle_beta   89.99996855
+_cell_angle_gamma   120.00195013
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbEr3Co12(SiB3)2
+_chemical_formula_sum   'Tb1 Er3 Co12 Si2 B6'
+_cell_volume   274.79877685
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.999990  0.000000  0.999902  1
+  Er  Er1  1  0.999999  0.000018  0.499889  1
+  Er  Er2  1  0.000007  0.000008  0.257579  1
+  Er  Er3  1  0.999973  0.999979  0.742165  1
+  Co  Co4  1  0.499997  0.000003  0.149652  1
+  Co  Co5  1  0.499997  0.500004  0.149642  1
+  Co  Co6  1  0.999995  0.500003  0.149614  1
+  Co  Co7  1  0.499984  0.999991  0.850460  1
+  Co  Co8  1  0.499982  0.499988  0.850445  1
+  Co  Co9  1  0.999986  0.499989  0.850442  1
+  Co  Co10  1  0.499996  0.000006  0.382130  1
+  Co  Co11  1  0.499998  0.500009  0.382143  1
+  Co  Co12  1  0.999997  0.500010  0.382146  1
+  Co  Co13  1  0.499987  0.999999  0.617838  1
+  Co  Co14  1  0.499989  0.500000  0.617845  1
+  Co  Co15  1  0.999990  0.500001  0.617865  1
+  Si  Si16  1  0.333321  0.666654  0.000062  1
+  Si  Si17  1  0.666660  0.333343  0.000063  1
+  B  B18  1  0.333318  0.666671  0.499987  1
+  B  B19  1  0.666671  0.333338  0.499986  1
+  B  B20  1  0.333269  0.666621  0.264080  1
+  B  B21  1  0.666720  0.333384  0.264080  1
+  B  B22  1  0.666610  0.333286  0.735990  1
+  B  B23  1  0.333363  0.666700  0.735990  1

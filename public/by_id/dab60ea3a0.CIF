@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ti6V6AgSn9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.14160200
+_cell_length_b   9.14160288
+_cell_length_c   5.52350800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000406
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti6V6AgSn9
+_chemical_formula_sum   'Ti6 V6 Ag1 Sn9'
+_cell_volume   399.75164704
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.842626  0.685252  0.754110  1
+  Ti  Ti1  1  0.157374  0.842626  0.245890  1
+  Ti  Ti2  1  0.685252  0.842626  0.245890  1
+  Ti  Ti3  1  0.314748  0.157374  0.754110  1
+  Ti  Ti4  1  0.842626  0.157374  0.754110  1
+  Ti  Ti5  1  0.157374  0.314748  0.245890  1
+  V  V6  1  0.500000  0.000000  0.500000  1
+  V  V7  1  0.500000  0.500000  0.000000  1
+  V  V8  1  0.000000  0.500000  0.000000  1
+  V  V9  1  0.000000  0.500000  0.500000  1
+  V  V10  1  0.500000  0.000000  0.000000  1
+  V  V11  1  0.500000  0.500000  0.500000  1
+  Ag  Ag12  1  0.000000  0.000000  0.500000  1
+  Sn  Sn13  1  0.204367  0.408735  0.746051  1
+  Sn  Sn14  1  0.795633  0.204367  0.253949  1
+  Sn  Sn15  1  0.408735  0.204367  0.253949  1
+  Sn  Sn16  1  0.591265  0.795633  0.746051  1
+  Sn  Sn17  1  0.204367  0.795633  0.746051  1
+  Sn  Sn18  1  0.795633  0.591265  0.253949  1
+  Sn  Sn19  1  0.666667  0.333333  0.752727  1
+  Sn  Sn20  1  0.333333  0.666667  0.247273  1
+  Sn  Sn21  1  0.000000  0.000000  0.000000  1

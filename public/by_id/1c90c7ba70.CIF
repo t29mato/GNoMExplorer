@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TbTh(MgIr)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.06346000
+_cell_length_b   7.22800778
+_cell_length_c   8.82873200
+_cell_angle_alpha   91.65462401
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbTh(MgIr)2
+_chemical_formula_sum   'Tb2 Th2 Mg4 Ir4'
+_cell_volume   259.19809993
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.250000  0.040074  0.326562  1
+  Tb  Tb1  1  0.750000  0.959926  0.673438  1
+  Th  Th2  1  0.250000  0.538060  0.183209  1
+  Th  Th3  1  0.750000  0.461940  0.816791  1
+  Mg  Mg4  1  0.250000  0.126544  0.939299  1
+  Mg  Mg5  1  0.750000  0.873456  0.060701  1
+  Mg  Mg6  1  0.250000  0.639348  0.555845  1
+  Mg  Mg7  1  0.750000  0.360652  0.444155  1
+  Ir  Ir8  1  0.750000  0.749588  0.363108  1
+  Ir  Ir9  1  0.250000  0.250412  0.636892  1
+  Ir  Ir10  1  0.750000  0.261542  0.125219  1
+  Ir  Ir11  1  0.250000  0.738458  0.874781  1

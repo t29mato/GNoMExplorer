@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_CaTb4(In2Ir)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.69667800
+_cell_length_b   8.08213700
+_cell_length_c   18.31443300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaTb4(In2Ir)2
+_chemical_formula_sum   'Ca2 Tb8 In8 Ir4'
+_cell_volume   547.18137773
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.000000  0.000000  0.000000  1
+  Ca  Ca1  1  0.000000  0.500000  0.500000  1
+  Tb  Tb2  1  0.000000  0.116498  0.411123  1
+  Tb  Tb3  1  0.000000  0.883502  0.588877  1
+  Tb  Tb4  1  0.000000  0.383502  0.911123  1
+  Tb  Tb5  1  0.000000  0.616498  0.088877  1
+  Tb  Tb6  1  0.000000  0.244359  0.221038  1
+  Tb  Tb7  1  0.000000  0.755641  0.778962  1
+  Tb  Tb8  1  0.000000  0.255641  0.721038  1
+  Tb  Tb9  1  0.000000  0.744359  0.278962  1
+  In  In10  1  0.500000  0.426965  0.348722  1
+  In  In11  1  0.500000  0.573035  0.651278  1
+  In  In12  1  0.500000  0.073035  0.848722  1
+  In  In13  1  0.500000  0.926965  0.151278  1
+  In  In14  1  0.500000  0.295873  0.068165  1
+  In  In15  1  0.500000  0.704127  0.931835  1
+  In  In16  1  0.500000  0.204127  0.568165  1
+  In  In17  1  0.500000  0.795873  0.431835  1
+  Ir  Ir18  1  0.500000  0.019640  0.304652  1
+  Ir  Ir19  1  0.500000  0.980360  0.695348  1
+  Ir  Ir20  1  0.500000  0.480360  0.804652  1
+  Ir  Ir21  1  0.500000  0.519640  0.195348  1

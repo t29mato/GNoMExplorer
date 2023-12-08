@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_Na(AcSi)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.00485500
+_cell_length_b   8.37086300
+_cell_length_c   16.12078100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na(AcSi)4
+_chemical_formula_sum   'Na4 Ac16 Si16'
+_cell_volume   1080.21395087
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.358730  0.018318  0.750000  1
+  Na  Na1  1  0.858730  0.481682  0.750000  1
+  Na  Na2  1  0.141270  0.518318  0.250000  1
+  Na  Na3  1  0.641270  0.981682  0.250000  1
+  Ac  Ac4  1  0.314809  0.184104  0.125205  1
+  Ac  Ac5  1  0.814809  0.315896  0.374795  1
+  Ac  Ac6  1  0.185191  0.684104  0.874795  1
+  Ac  Ac7  1  0.685191  0.815896  0.625205  1
+  Ac  Ac8  1  0.314809  0.184104  0.374795  1
+  Ac  Ac9  1  0.814809  0.315896  0.125205  1
+  Ac  Ac10  1  0.185191  0.684104  0.625205  1
+  Ac  Ac11  1  0.685191  0.815896  0.874795  1
+  Ac  Ac12  1  0.957489  0.807404  0.394074  1
+  Ac  Ac13  1  0.457489  0.692596  0.105926  1
+  Ac  Ac14  1  0.542511  0.307404  0.605926  1
+  Ac  Ac15  1  0.042511  0.192596  0.894074  1
+  Ac  Ac16  1  0.042511  0.192596  0.605926  1
+  Ac  Ac17  1  0.542511  0.307404  0.894074  1
+  Ac  Ac18  1  0.457489  0.692596  0.394074  1
+  Ac  Ac19  1  0.957489  0.807404  0.105926  1
+  Si  Si20  1  0.865144  0.527180  0.535068  1
+  Si  Si21  1  0.365144  0.972820  0.964932  1
+  Si  Si22  1  0.634856  0.027180  0.464932  1
+  Si  Si23  1  0.134856  0.472820  0.035068  1
+  Si  Si24  1  0.134856  0.472820  0.464932  1
+  Si  Si25  1  0.634856  0.027180  0.035068  1
+  Si  Si26  1  0.365144  0.972820  0.535068  1
+  Si  Si27  1  0.865144  0.527180  0.964932  1
+  Si  Si28  1  0.981656  0.919084  0.750000  1
+  Si  Si29  1  0.481656  0.580916  0.750000  1
+  Si  Si30  1  0.518344  0.419084  0.250000  1
+  Si  Si31  1  0.018344  0.080916  0.250000  1
+  Si  Si32  1  0.258422  0.382369  0.750000  1
+  Si  Si33  1  0.758422  0.117631  0.750000  1
+  Si  Si34  1  0.241578  0.882369  0.250000  1
+  Si  Si35  1  0.741578  0.617631  0.250000  1

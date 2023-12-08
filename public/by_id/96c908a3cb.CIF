@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Gd2Er(GaNi)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.98328800
+_cell_length_b   7.03724798
+_cell_length_c   3.82470800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.74667482
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd2Er(GaNi)3
+_chemical_formula_sum   'Gd2 Er1 Ga3 Ni3'
+_cell_volume   163.19042950
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.000177  0.418516  0.500000  1
+  Gd  Gd1  1  0.581661  0.581484  0.500000  1
+  Er  Er2  1  0.416116  0.000000  0.500000  1
+  Ga  Ga3  1  0.004220  0.768289  0.000000  1
+  Ga  Ga4  1  0.235932  0.231711  0.000000  1
+  Ga  Ga5  1  0.762138  0.000000  0.000000  1
+  Ni  Ni6  1  0.335059  0.671953  0.000000  1
+  Ni  Ni7  1  0.663107  0.328047  0.000000  1
+  Ni  Ni8  1  0.001590  0.000000  0.500000  1

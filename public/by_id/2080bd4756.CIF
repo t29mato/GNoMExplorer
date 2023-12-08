@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ta2VSi(BW)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.07087029
+_cell_length_b   7.10191974
+_cell_length_c   7.08612443
+_cell_angle_alpha   129.41096140
+_cell_angle_beta   129.28588032
+_cell_angle_gamma   74.74291455
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2VSi(BW)2
+_chemical_formula_sum   'Ta4 V2 Si2 B4 W4'
+_cell_volume   206.97778141
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.524392  0.692952  0.497920  1
+  Ta  Ta1  1  0.029945  0.529814  0.835603  1
+  Ta  Ta2  1  0.692709  0.192793  0.161795  1
+  Ta  Ta3  1  0.974115  0.472735  0.169828  1
+  V  V4  1  0.002323  0.000797  0.000313  1
+  V  V5  1  0.500954  0.501208  0.998630  1
+  Si  Si6  1  0.247329  0.242162  0.993487  1
+  Si  Si7  1  0.747919  0.749610  0.001873  1
+  B  B8  1  0.618899  0.121449  0.738404  1
+  B  B9  1  0.129060  0.374381  0.502208  1
+  B  B10  1  0.875470  0.628879  0.502618  1
+  B  B11  1  0.381169  0.882732  0.260657  1
+  W  W12  1  0.193064  0.030892  0.497838  1
+  W  W13  1  0.471299  0.304469  0.499920  1
+  W  W14  1  0.805406  0.970546  0.499722  1
+  W  W15  1  0.305946  0.804582  0.839184  1

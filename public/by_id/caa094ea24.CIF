@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ti(SiRh2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.00571800
+_cell_length_b   8.87991600
+_cell_length_c   11.03725600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti(SiRh2)2
+_chemical_formula_sum   'Ti4 Si8 Rh16'
+_cell_volume   392.60004525
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.250000  0.129002  0.818475  1
+  Ti  Ti1  1  0.250000  0.370998  0.318475  1
+  Ti  Ti2  1  0.750000  0.870998  0.181525  1
+  Ti  Ti3  1  0.750000  0.629002  0.681525  1
+  Si  Si4  1  0.250000  0.414668  0.638090  1
+  Si  Si5  1  0.250000  0.085332  0.138090  1
+  Si  Si6  1  0.750000  0.585332  0.361910  1
+  Si  Si7  1  0.750000  0.914668  0.861910  1
+  Si  Si8  1  0.250000  0.620236  0.054856  1
+  Si  Si9  1  0.250000  0.879764  0.554856  1
+  Si  Si10  1  0.750000  0.379764  0.945144  1
+  Si  Si11  1  0.750000  0.120236  0.445144  1
+  Rh  Rh12  1  0.250000  0.615036  0.499680  1
+  Rh  Rh13  1  0.250000  0.884964  0.999680  1
+  Rh  Rh14  1  0.750000  0.384964  0.500320  1
+  Rh  Rh15  1  0.750000  0.115036  0.000320  1
+  Rh  Rh16  1  0.250000  0.715517  0.257421  1
+  Rh  Rh17  1  0.250000  0.784483  0.757421  1
+  Rh  Rh18  1  0.750000  0.284483  0.742579  1
+  Rh  Rh19  1  0.750000  0.215517  0.242579  1
+  Rh  Rh20  1  0.250000  0.168984  0.565583  1
+  Rh  Rh21  1  0.250000  0.331016  0.065583  1
+  Rh  Rh22  1  0.750000  0.831016  0.434417  1
+  Rh  Rh23  1  0.750000  0.668984  0.934417  1
+  Rh  Rh24  1  0.250000  0.015484  0.340727  1
+  Rh  Rh25  1  0.250000  0.484516  0.840727  1
+  Rh  Rh26  1  0.750000  0.984516  0.659273  1
+  Rh  Rh27  1  0.750000  0.515484  0.159273  1

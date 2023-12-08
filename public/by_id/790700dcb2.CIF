@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ti9Si5GeMo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.49324241
+_cell_length_b   7.49665542
+_cell_length_c   5.12992007
+_cell_angle_alpha   89.93423290
+_cell_angle_beta   90.06223883
+_cell_angle_gamma   120.10103170
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti9Si5GeMo
+_chemical_formula_sum   'Ti9 Si5 Ge1 Mo1'
+_cell_volume   249.30739481
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.999749  0.748647  0.748653  1
+  Ti  Ti1  1  0.248797  0.248173  0.748393  1
+  Ti  Ti2  1  0.995658  0.249913  0.251382  1
+  Ti  Ti3  1  0.749459  0.001133  0.748881  1
+  Ti  Ti4  1  0.753399  0.752774  0.251367  1
+  Ti  Ti5  1  0.332921  0.668385  0.999572  1
+  Ti  Ti6  1  0.249979  0.996219  0.251199  1
+  Ti  Ti7  1  0.668478  0.333087  0.501213  1
+  Ti  Ti8  1  0.668670  0.332834  0.998756  1
+  Si  Si9  1  0.608997  0.609598  0.748191  1
+  Si  Si10  1  0.391485  0.000596  0.748422  1
+  Si  Si11  1  0.999873  0.607683  0.251831  1
+  Si  Si12  1  0.607135  0.999108  0.251773  1
+  Si  Si13  1  0.001456  0.392162  0.748239  1
+  Ge  Ge14  1  0.390905  0.390534  0.250328  1
+  Mo  Mo15  1  0.333040  0.669153  0.501802  1

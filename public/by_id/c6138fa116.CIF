@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Fe4Si8Mo11WC2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.78645400
+_cell_length_b   7.78645388
+_cell_length_c   7.80042600
+_cell_angle_alpha   59.94061499
+_cell_angle_beta   59.94061552
+_cell_angle_gamma   59.93778079
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe4Si8Mo11WC2
+_chemical_formula_sum   'Fe4 Si8 Mo11 W1 C2'
+_cell_volume   333.95510831
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.123855  0.123855  0.624810  1
+  Fe  Fe1  1  0.126366  0.625049  0.124292  1
+  Fe  Fe2  1  0.123855  0.123855  0.127479  1
+  Fe  Fe3  1  0.625049  0.126366  0.124292  1
+  Si  Si4  1  0.915060  0.255783  0.914579  1
+  Si  Si5  1  0.336616  0.994828  0.334278  1
+  Si  Si6  1  0.335026  0.335026  0.335297  1
+  Si  Si7  1  0.994828  0.336616  0.334278  1
+  Si  Si8  1  0.914503  0.914503  0.253489  1
+  Si  Si9  1  0.255783  0.915060  0.914579  1
+  Si  Si10  1  0.335026  0.335026  0.994650  1
+  Si  Si11  1  0.914503  0.914503  0.917506  1
+  Mo  Mo12  1  0.306839  0.691977  0.691965  1
+  Mo  Mo13  1  0.307294  0.307294  0.692706  1
+  Mo  Mo14  1  0.558874  0.941818  0.557360  1
+  Mo  Mo15  1  0.941818  0.558874  0.557360  1
+  Mo  Mo16  1  0.558874  0.941818  0.941948  1
+  Mo  Mo17  1  0.691977  0.306839  0.309220  1
+  Mo  Mo18  1  0.941818  0.558874  0.941948  1
+  Mo  Mo19  1  0.306839  0.691977  0.309220  1
+  Mo  Mo20  1  0.559643  0.559643  0.940357  1
+  Mo  Mo21  1  0.691977  0.306839  0.691965  1
+  Mo  Mo22  1  0.690556  0.690556  0.309444  1
+  W  W23  1  0.943053  0.943053  0.556947  1
+  C  C24  1  0.750962  0.750962  0.749038  1
+  C  C25  1  0.499006  0.499006  0.500994  1

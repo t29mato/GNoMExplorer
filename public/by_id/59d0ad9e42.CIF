@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Mn10SiB4P
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.48104295
+_cell_length_b   6.48104400
+_cell_length_c   6.48104320
+_cell_angle_alpha   129.34686520
+_cell_angle_beta   129.34687623
+_cell_angle_gamma   74.45308294
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn10SiB4P
+_chemical_formula_sum   'Mn10 Si1 B4 P1'
+_cell_volume   158.66419234
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.196436  0.690638  0.163408  1
+  Mn  Mn1  1  0.466972  0.972771  0.163408  1
+  Mn  Mn2  1  0.998297  0.998297  0.000000  1
+  Mn  Mn3  1  0.501703  0.501703  0.000000  1
+  Mn  Mn4  1  0.527229  0.033028  0.836592  1
+  Mn  Mn5  1  0.033028  0.196436  0.505798  1
+  Mn  Mn6  1  0.690638  0.527229  0.494202  1
+  Mn  Mn7  1  0.972771  0.809362  0.505798  1
+  Mn  Mn8  1  0.303564  0.466972  0.494202  1
+  Mn  Mn9  1  0.809362  0.303564  0.836592  1
+  Si  Si10  1  0.750000  0.750000  0.000000  1
+  B  B11  1  0.880916  0.380916  0.261831  1
+  B  B12  1  0.380916  0.119084  0.500000  1
+  B  B13  1  0.619084  0.880916  0.500000  1
+  B  B14  1  0.119084  0.619084  0.738169  1
+  P  P15  1  0.250000  0.250000  0.000000  1

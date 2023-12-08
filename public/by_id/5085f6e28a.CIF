@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Gd2ErAl3Si2Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.95533198
+_cell_length_b   6.95533050
+_cell_length_c   4.21073900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.07240438
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd2ErAl3Si2Pt
+_chemical_formula_sum   'Gd2 Er1 Al3 Si2 Pt1'
+_cell_volume   176.28171538
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.418667  0.000563  0.000000  1
+  Gd  Gd1  1  0.000563  0.418667  0.000000  1
+  Er  Er2  1  0.584014  0.584014  0.000000  1
+  Al  Al3  1  0.763380  0.998598  0.499999  1
+  Al  Al4  1  0.236622  0.236623  0.499999  1
+  Al  Al5  1  0.998598  0.763379  0.499999  1
+  Si  Si6  1  0.665140  0.337297  0.499999  1
+  Si  Si7  1  0.337297  0.665141  0.499999  1
+  Pt  Pt8  1  0.995718  0.995718  0.000000  1

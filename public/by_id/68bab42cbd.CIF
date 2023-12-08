@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Ti6Co15Si7Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.86325338
+_cell_length_b   7.86325292
+_cell_length_c   7.88009899
+_cell_angle_alpha   60.07069038
+_cell_angle_beta   60.07069084
+_cell_angle_gamma   60.00000118
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti6Co15Si7Pd
+_chemical_formula_sum   'Ti6 Co15 Si7 Pd1'
+_cell_volume   344.89302173
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.200762  0.801810  0.796667  1
+  Ti  Ti1  1  0.804143  0.804143  0.199496  1
+  Ti  Ti2  1  0.804143  0.192217  0.199496  1
+  Ti  Ti3  1  0.200762  0.200762  0.796667  1
+  Ti  Ti4  1  0.801810  0.200762  0.796667  1
+  Ti  Ti5  1  0.192217  0.804143  0.199496  1
+  Co  Co6  1  0.165354  0.501149  0.168142  1
+  Co  Co7  1  0.858256  0.378279  0.385186  1
+  Co  Co8  1  0.495559  0.836851  0.830741  1
+  Co  Co9  1  0.501149  0.165354  0.168142  1
+  Co  Co10  1  0.834023  0.834023  0.497932  1
+  Co  Co11  1  0.167677  0.167677  0.496969  1
+  Co  Co12  1  0.141720  0.619495  0.619289  1
+  Co  Co13  1  0.165354  0.165354  0.168142  1
+  Co  Co14  1  0.379130  0.379130  0.862610  1
+  Co  Co15  1  0.619495  0.619495  0.619289  1
+  Co  Co16  1  0.378279  0.858256  0.385186  1
+  Co  Co17  1  0.378279  0.378279  0.385186  1
+  Co  Co18  1  0.836851  0.836851  0.830741  1
+  Co  Co19  1  0.619495  0.141720  0.619289  1
+  Co  Co20  1  0.836851  0.495559  0.830741  1
+  Si  Si21  1  0.500564  0.999840  0.499756  1
+  Si  Si22  1  0.498668  0.498668  0.992110  1
+  Si  Si23  1  0.494191  0.494191  0.517427  1
+  Si  Si24  1  0.999840  0.999840  0.499756  1
+  Si  Si25  1  0.010553  0.498668  0.992110  1
+  Si  Si26  1  0.999840  0.500564  0.499756  1
+  Si  Si27  1  0.498668  0.010553  0.992110  1
+  Pd  Pd28  1  0.616368  0.616368  0.150895  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_La3MgCd2Sn2Hg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.83965115
+_cell_length_b   7.83965121
+_cell_length_c   4.77922900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   121.06172265
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3MgCd2Sn2Hg
+_chemical_formula_sum   'La3 Mg1 Cd2 Sn2 Hg1'
+_cell_volume   251.61438085
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.586039  0.004672  0.000000  1
+  La  La1  1  0.004672  0.586039  0.000000  1
+  La  La2  1  0.409030  0.409030  0.000000  1
+  Mg  Mg3  1  0.769563  0.769563  0.500000  1
+  Cd  Cd4  1  0.241112  0.996350  0.500000  1
+  Cd  Cd5  1  0.996350  0.241112  0.500000  1
+  Sn  Sn6  1  0.340801  0.666384  0.500000  1
+  Sn  Sn7  1  0.666384  0.340801  0.500000  1
+  Hg  Hg8  1  0.986047  0.986047  0.000000  1

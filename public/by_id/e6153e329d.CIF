@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NdEu(MgIr)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.26968900
+_cell_length_b   7.19345424
+_cell_length_c   8.47383418
+_cell_angle_alpha   90.27044143
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdEu(MgIr)2
+_chemical_formula_sum   'Nd2 Eu2 Mg4 Ir4'
+_cell_volume   260.26085445
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.250000  0.535435  0.823646  1
+  Nd  Nd1  1  0.750000  0.464565  0.176354  1
+  Eu  Eu2  1  0.750000  0.966729  0.324691  1
+  Eu  Eu3  1  0.250000  0.033271  0.675309  1
+  Mg  Mg4  1  0.750000  0.864980  0.941117  1
+  Mg  Mg5  1  0.250000  0.135020  0.058883  1
+  Mg  Mg6  1  0.250000  0.636767  0.441665  1
+  Mg  Mg7  1  0.750000  0.363233  0.558335  1
+  Ir  Ir8  1  0.750000  0.734931  0.630690  1
+  Ir  Ir9  1  0.250000  0.265069  0.369310  1
+  Ir  Ir10  1  0.250000  0.755306  0.124258  1
+  Ir  Ir11  1  0.750000  0.244694  0.875742  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_EuPb(CO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.20275500
+_cell_length_b   6.20654100
+_cell_length_c   8.56818700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuPb(CO3)2
+_chemical_formula_sum   'Eu2 Pb2 C4 O12'
+_cell_volume   276.67628794
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.750000  0.743673  0.084653  1
+  Eu  Eu1  1  0.250000  0.756327  0.584653  1
+  Pb  Pb2  1  0.250000  0.253070  0.916222  1
+  Pb  Pb3  1  0.750000  0.246930  0.416222  1
+  C  C4  1  0.250000  0.422824  0.258689  1
+  C  C5  1  0.750000  0.590605  0.741250  1
+  C  C6  1  0.750000  0.077176  0.758689  1
+  C  C7  1  0.250000  0.909395  0.241250  1
+  O  O8  1  0.966709  0.078450  0.682298  1
+  O  O9  1  0.466709  0.421550  0.182298  1
+  O  O10  1  0.466772  0.906609  0.317477  1
+  O  O11  1  0.750000  0.599066  0.589399  1
+  O  O12  1  0.750000  0.084739  0.910237  1
+  O  O13  1  0.533291  0.078450  0.682298  1
+  O  O14  1  0.250000  0.900934  0.089399  1
+  O  O15  1  0.250000  0.415261  0.410237  1
+  O  O16  1  0.533228  0.593391  0.817477  1
+  O  O17  1  0.966772  0.593391  0.817477  1
+  O  O18  1  0.033291  0.421550  0.182298  1
+  O  O19  1  0.033228  0.906609  0.317477  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NdInNiH
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.22500800
+_cell_length_b   7.48702100
+_cell_length_c   8.91215600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdInNiH
+_chemical_formula_sum   'Nd4 In4 Ni4 H4'
+_cell_volume   281.91576762
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.750000  0.017527  0.684174  1
+  Nd  Nd1  1  0.250000  0.982473  0.315826  1
+  Nd  Nd2  1  0.250000  0.482473  0.184174  1
+  Nd  Nd3  1  0.750000  0.517527  0.815826  1
+  In  In4  1  0.750000  0.642337  0.439559  1
+  In  In5  1  0.250000  0.357663  0.560441  1
+  In  In6  1  0.250000  0.857663  0.939559  1
+  In  In7  1  0.750000  0.142337  0.060441  1
+  Ni  Ni8  1  0.750000  0.765723  0.120086  1
+  Ni  Ni9  1  0.250000  0.234277  0.879914  1
+  Ni  Ni10  1  0.250000  0.734277  0.620086  1
+  Ni  Ni11  1  0.750000  0.265723  0.379914  1
+  H  H12  1  0.250000  0.443241  0.924576  1
+  H  H13  1  0.750000  0.556759  0.075424  1
+  H  H14  1  0.750000  0.056759  0.424576  1
+  H  H15  1  0.250000  0.943241  0.575424  1

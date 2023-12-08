@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_TmPa2(GaIr)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.20458023
+_cell_length_b   7.19475782
+_cell_length_c   3.87786400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.95490906
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TmPa2(GaIr)3
+_chemical_formula_sum   'Tm1 Pa2 Ga3 Ir3'
+_cell_volume   174.15871729
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.000000  0.594058  0.500001  1
+  Pa  Pa1  1  0.586774  0.000033  0.500001  1
+  Pa  Pa2  1  0.413227  0.413259  0.500001  1
+  Ga  Ga3  1  0.236813  0.988226  0.000000  1
+  Ga  Ga4  1  0.000000  0.257785  0.000000  1
+  Ga  Ga5  1  0.763188  0.751413  0.000000  1
+  Ir  Ir6  1  0.645557  0.315255  0.000000  1
+  Ir  Ir7  1  0.354444  0.669699  0.000000  1
+  Ir  Ir8  1  0.000000  0.010272  0.500001  1

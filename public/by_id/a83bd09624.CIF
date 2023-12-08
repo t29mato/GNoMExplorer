@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_HoMn2(Ga3Fe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.03305520
+_cell_length_b   6.60113812
+_cell_length_c   6.60113798
+_cell_angle_alpha   79.91351908
+_cell_angle_beta   67.59033703
+_cell_angle_gamma   67.59033518
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoMn2(Ga3Fe2)2
+_chemical_formula_sum   'Ho1 Mn2 Ga6 Fe4'
+_cell_volume   187.32762832
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.000000  0.000000  0.000000  1
+  Mn  Mn1  1  0.500000  0.241734  0.758266  1
+  Mn  Mn2  1  0.500000  0.758266  0.241734  1
+  Ga  Ga3  1  0.683845  0.816155  0.816155  1
+  Ga  Ga4  1  0.316155  0.183845  0.183845  1
+  Ga  Ga5  1  0.343076  0.656924  0.656924  1
+  Ga  Ga6  1  0.656924  0.343076  0.343076  1
+  Ga  Ga7  1  0.000000  0.668992  0.331008  1
+  Ga  Ga8  1  0.000000  0.331008  0.668992  1
+  Fe  Fe9  1  0.000000  0.500000  0.000000  1
+  Fe  Fe10  1  0.500000  0.500000  0.000000  1
+  Fe  Fe11  1  0.000000  0.000000  0.500000  1
+  Fe  Fe12  1  0.500000  0.000000  0.500000  1

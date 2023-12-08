@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Pr2Cr2(Tc5C)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.97270658
+_cell_length_b   6.97270805
+_cell_length_c   6.97443157
+_cell_angle_alpha   82.83551026
+_cell_angle_beta   82.83551540
+_cell_angle_gamma   83.18980682
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr2Cr2(Tc5C)3
+_chemical_formula_sum   'Pr2 Cr2 Tc15 C3'
+_cell_volume   331.97997842
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.648919  0.648919  0.648103  1
+  Pr  Pr1  1  0.351081  0.351081  0.351897  1
+  Cr  Cr2  1  0.500000  0.000000  0.000000  1
+  Cr  Cr3  1  0.000000  0.500000  0.000000  1
+  Tc  Tc4  1  0.000000  0.000000  0.500000  1
+  Tc  Tc5  1  0.721544  0.278456  0.000000  1
+  Tc  Tc6  1  0.001037  0.719376  0.274726  1
+  Tc  Tc7  1  0.280624  0.998963  0.725274  1
+  Tc  Tc8  1  0.998963  0.280624  0.725274  1
+  Tc  Tc9  1  0.719376  0.001037  0.274726  1
+  Tc  Tc10  1  0.278456  0.721544  0.000000  1
+  Tc  Tc11  1  0.348599  0.867663  0.341906  1
+  Tc  Tc12  1  0.341748  0.341748  0.872388  1
+  Tc  Tc13  1  0.867663  0.348599  0.341906  1
+  Tc  Tc14  1  0.651401  0.132337  0.658094  1
+  Tc  Tc15  1  0.658252  0.658252  0.127612  1
+  Tc  Tc16  1  0.132337  0.651401  0.658094  1
+  Tc  Tc17  1  0.902125  0.902125  0.902651  1
+  Tc  Tc18  1  0.097875  0.097875  0.097349  1
+  C  C19  1  0.500000  0.500000  0.000000  1
+  C  C20  1  0.000000  0.500000  0.500000  1
+  C  C21  1  0.500000  0.000000  0.500000  1

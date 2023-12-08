@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_PaMnCrB6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.44204751
+_cell_length_b   5.44204763
+_cell_length_c   5.44204816
+_cell_angle_alpha   146.91831821
+_cell_angle_beta   108.46791649
+_cell_angle_gamma   81.10253103
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PaMnCrB6
+_chemical_formula_sum   'Pa1 Mn1 Cr1 B6'
+_cell_volume   81.51043739
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.000773  0.000773  0.000000  1
+  Mn  Mn1  1  0.654328  0.154328  0.500000  1
+  Cr  Cr2  1  0.343476  0.843477  0.500000  1
+  B  B3  1  0.546427  0.304784  0.241643  1
+  B  B4  1  0.459421  0.695659  0.763762  1
+  B  B5  1  0.931897  0.695659  0.236238  1
+  B  B6  1  0.356474  0.500268  0.856206  1
+  B  B7  1  0.644062  0.500268  0.143794  1
+  B  B8  1  0.063142  0.304784  0.758357  1

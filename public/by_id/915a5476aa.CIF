@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_LiMn20(VC3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.35263715
+_cell_length_b   7.35231883
+_cell_length_c   7.35275123
+_cell_angle_alpha   59.99455066
+_cell_angle_beta   59.99739909
+_cell_angle_gamma   60.00034087
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiMn20(VC3)2
+_chemical_formula_sum   'Li1 Mn20 V2 C6'
+_cell_volume   281.04575772
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.000000  0.000000  0.000000  1
+  Mn  Mn1  1  0.854137  0.381943  0.381991  1
+  Mn  Mn2  1  0.381917  0.854135  0.381993  1
+  Mn  Mn3  1  0.381950  0.381966  0.854063  1
+  Mn  Mn4  1  0.381910  0.381943  0.382027  1
+  Mn  Mn5  1  0.145863  0.618057  0.618009  1
+  Mn  Mn6  1  0.618083  0.145865  0.618007  1
+  Mn  Mn7  1  0.618050  0.618034  0.145937  1
+  Mn  Mn8  1  0.618090  0.618057  0.617973  1
+  Mn  Mn9  1  0.658742  0.999966  0.999992  1
+  Mn  Mn10  1  0.658727  0.999959  0.341326  1
+  Mn  Mn11  1  0.658753  0.341272  0.999990  1
+  Mn  Mn12  1  0.999968  0.658684  0.341352  1
+  Mn  Mn13  1  0.999982  0.658711  0.000001  1
+  Mn  Mn14  1  0.341247  0.658728  0.000010  1
+  Mn  Mn15  1  0.000032  0.341316  0.658648  1
+  Mn  Mn16  1  0.341273  0.000041  0.658674  1
+  Mn  Mn17  1  0.000016  0.000009  0.658680  1
+  Mn  Mn18  1  0.341258  0.000034  0.000008  1
+  Mn  Mn19  1  0.000018  0.341289  0.999999  1
+  Mn  Mn20  1  0.999984  0.999991  0.341320  1
+  V  V21  1  0.249951  0.249992  0.250071  1
+  V  V22  1  0.750049  0.750008  0.749929  1
+  C  C23  1  0.727917  0.272077  0.272102  1
+  C  C24  1  0.727950  0.272116  0.727866  1
+  C  C25  1  0.727990  0.727912  0.272081  1
+  C  C26  1  0.272083  0.727923  0.727898  1
+  C  C27  1  0.272050  0.727884  0.272134  1
+  C  C28  1  0.272010  0.272088  0.727919  1

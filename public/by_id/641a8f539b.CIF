@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Pr16CdHg3Os3Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.98300532
+_cell_length_b   10.06192243
+_cell_length_c   10.06192200
+_cell_angle_alpha   59.99999484
+_cell_angle_beta   59.73814831
+_cell_angle_gamma   59.73815390
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr16CdHg3Os3Pt
+_chemical_formula_sum   'Pr16 Cd1 Hg3 Os3 Pt1'
+_cell_volume   711.83271289
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.345494  0.350386  0.350386  1
+  Pr  Pr1  1  0.345494  0.350386  0.953735  1
+  Pr  Pr2  1  0.345494  0.953735  0.350386  1
+  Pr  Pr3  1  0.958622  0.347126  0.347126  1
+  Pr  Pr4  1  0.813484  0.191936  0.191936  1
+  Pr  Pr5  1  0.189266  0.810576  0.810576  1
+  Pr  Pr6  1  0.189266  0.810576  0.189582  1
+  Pr  Pr7  1  0.813484  0.191936  0.802644  1
+  Pr  Pr8  1  0.189266  0.189582  0.810576  1
+  Pr  Pr9  1  0.813484  0.802644  0.191936  1
+  Pr  Pr10  1  0.937556  0.561137  0.561137  1
+  Pr  Pr11  1  0.555725  0.939958  0.939958  1
+  Pr  Pr12  1  0.555725  0.939958  0.564361  1
+  Pr  Pr13  1  0.937556  0.561137  0.940169  1
+  Pr  Pr14  1  0.555725  0.564361  0.939958  1
+  Pr  Pr15  1  0.937556  0.940169  0.561137  1
+  Cd  Cd16  1  0.262675  0.579108  0.579108  1
+  Hg  Hg17  1  0.581894  0.584486  0.584486  1
+  Hg  Hg18  1  0.581894  0.584486  0.249132  1
+  Hg  Hg19  1  0.581894  0.249132  0.584486  1
+  Os  Os20  1  0.143614  0.138036  0.138036  1
+  Os  Os21  1  0.143614  0.138036  0.580313  1
+  Os  Os22  1  0.143614  0.580313  0.138036  1
+  Pt  Pt23  1  0.577602  0.140799  0.140799  1

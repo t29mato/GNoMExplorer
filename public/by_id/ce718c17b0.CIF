@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_LiDy16Cd3(CoNi)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.49351787
+_cell_length_b   9.49351812
+_cell_length_c   9.50185812
+_cell_angle_alpha   59.95030067
+_cell_angle_beta   59.95030140
+_cell_angle_gamma   59.93249719
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiDy16Cd3(CoNi)2
+_chemical_formula_sum   'Li1 Dy16 Cd3 Co2 Ni2'
+_cell_volume   604.78294535
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.820999  0.820999  0.821058  1
+  Dy  Dy1  1  0.596253  0.596253  0.601057  1
+  Dy  Dy2  1  0.596651  0.596651  0.208056  1
+  Dy  Dy3  1  0.594119  0.211430  0.597471  1
+  Dy  Dy4  1  0.211430  0.594119  0.597471  1
+  Dy  Dy5  1  0.064174  0.439729  0.439965  1
+  Dy  Dy6  1  0.435108  0.067069  0.060525  1
+  Dy  Dy7  1  0.439729  0.064174  0.439965  1
+  Dy  Dy8  1  0.067069  0.435108  0.060525  1
+  Dy  Dy9  1  0.439203  0.439203  0.061462  1
+  Dy  Dy10  1  0.063238  0.063238  0.435947  1
+  Dy  Dy11  1  0.185881  0.812323  0.814951  1
+  Dy  Dy12  1  0.812738  0.186887  0.187003  1
+  Dy  Dy13  1  0.812323  0.185881  0.814951  1
+  Dy  Dy14  1  0.186887  0.812738  0.187003  1
+  Dy  Dy15  1  0.813510  0.813510  0.187069  1
+  Dy  Dy16  1  0.186825  0.186825  0.813893  1
+  Cd  Cd17  1  0.831578  0.831578  0.506969  1
+  Cd  Cd18  1  0.831896  0.506230  0.831773  1
+  Cd  Cd19  1  0.506230  0.831896  0.831773  1
+  Co  Co20  1  0.393320  0.393320  0.391841  1
+  Co  Co21  1  0.393046  0.393046  0.825630  1
+  Ni  Ni22  1  0.392169  0.825630  0.391821  1
+  Ni  Ni23  1  0.825630  0.392169  0.391821  1

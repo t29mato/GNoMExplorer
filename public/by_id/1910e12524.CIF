@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CaCeSiRh3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.07106719
+_cell_length_b   5.07106706
+_cell_length_c   5.07106696
+_cell_angle_alpha   67.53690404
+_cell_angle_beta   67.53690745
+_cell_angle_gamma   67.53692207
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaCeSiRh3
+_chemical_formula_sum   'Ca1 Ce1 Si1 Rh3'
+_cell_volume   107.02754659
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.625158  0.625158  0.625158  1
+  Ce  Ce1  1  0.362107  0.362107  0.362107  1
+  Si  Si2  1  0.004645  0.004645  0.004645  1
+  Rh  Rh3  1  0.001752  0.001752  0.504585  1
+  Rh  Rh4  1  0.504585  0.001752  0.001752  1
+  Rh  Rh5  1  0.001752  0.504585  0.001752  1

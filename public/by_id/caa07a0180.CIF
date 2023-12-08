@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Ho2MgSi6(Pd9Pt)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.69452257
+_cell_length_b   8.69452313
+_cell_length_c   8.69452265
+_cell_angle_alpha   59.78171447
+_cell_angle_beta   59.78171062
+_cell_angle_gamma   59.78171201
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2MgSi6(Pd9Pt)2
+_chemical_formula_sum   'Ho2 Mg1 Si6 Pd18 Pt2'
+_cell_volume   462.44979391
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.250252  0.250252  0.250252  1
+  Ho  Ho1  1  0.749748  0.749748  0.749748  1
+  Mg  Mg2  1  0.000000  0.000000  0.000000  1
+  Si  Si3  1  0.731782  0.267368  0.267368  1
+  Si  Si4  1  0.268218  0.732632  0.732632  1
+  Si  Si5  1  0.267368  0.731782  0.267368  1
+  Si  Si6  1  0.732632  0.268218  0.732632  1
+  Si  Si7  1  0.267368  0.267368  0.731782  1
+  Si  Si8  1  0.732632  0.732632  0.268218  1
+  Pd  Pd9  1  0.382221  0.382221  0.851059  1
+  Pd  Pd10  1  0.382221  0.851059  0.382221  1
+  Pd  Pd11  1  0.617779  0.617779  0.148941  1
+  Pd  Pd12  1  0.617779  0.148941  0.617779  1
+  Pd  Pd13  1  0.851059  0.382221  0.382221  1
+  Pd  Pd14  1  0.148941  0.617779  0.617779  1
+  Pd  Pd15  1  0.343515  0.000122  0.000122  1
+  Pd  Pd16  1  0.656485  0.999878  0.999878  1
+  Pd  Pd17  1  0.000000  0.343147  0.656853  1
+  Pd  Pd18  1  0.000000  0.656853  0.343147  1
+  Pd  Pd19  1  0.000122  0.343515  0.000122  1
+  Pd  Pd20  1  0.656853  0.000000  0.343147  1
+  Pd  Pd21  1  0.999878  0.656485  0.999878  1
+  Pd  Pd22  1  0.343147  0.000000  0.656853  1
+  Pd  Pd23  1  0.000122  0.000122  0.343515  1
+  Pd  Pd24  1  0.999878  0.999878  0.656485  1
+  Pd  Pd25  1  0.656853  0.343147  0.000000  1
+  Pd  Pd26  1  0.343147  0.656853  0.000000  1
+  Pt  Pt27  1  0.383536  0.383536  0.383536  1
+  Pt  Pt28  1  0.616464  0.616464  0.616464  1

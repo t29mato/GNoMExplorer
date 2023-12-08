@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_V4Ga(Se3S)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.18580764
+_cell_length_b   7.18580772
+_cell_length_c   7.17533400
+_cell_angle_alpha   60.04820389
+_cell_angle_beta   60.04820353
+_cell_angle_gamma   60.17751823
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V4Ga(Se3S)2
+_chemical_formula_sum   'V4 Ga1 Se6 S2'
+_cell_volume   262.52729125
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.604194  0.604194  0.192757  1
+  V  V1  1  0.606512  0.192221  0.600634  1
+  V  V2  1  0.192221  0.606512  0.600634  1
+  V  V3  1  0.604194  0.604194  0.598856  1
+  Ga  Ga4  1  0.002314  0.002314  0.997686  1
+  Se  Se5  1  0.863942  0.863942  0.410578  1
+  Se  Se6  1  0.863059  0.415047  0.860947  1
+  Se  Se7  1  0.415047  0.863059  0.860947  1
+  Se  Se8  1  0.863942  0.863942  0.861539  1
+  Se  Se9  1  0.367453  0.367453  0.896810  1
+  Se  Se10  1  0.367453  0.367453  0.368282  1
+  S  S11  1  0.873234  0.376436  0.375165  1
+  S  S12  1  0.376436  0.873234  0.375165  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Y2Al2PtRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.36595000
+_cell_length_b   6.88076400
+_cell_length_c   7.83989500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2Al2PtRh
+_chemical_formula_sum   'Y4 Al4 Pt2 Rh2'
+_cell_volume   235.51884692
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.250000  0.031586  0.678136  1
+  Y  Y1  1  0.250000  0.531586  0.821864  1
+  Y  Y2  1  0.750000  0.973435  0.316915  1
+  Y  Y3  1  0.750000  0.473435  0.183085  1
+  Al  Al4  1  0.250000  0.139984  0.063461  1
+  Al  Al5  1  0.250000  0.639984  0.436539  1
+  Al  Al6  1  0.750000  0.857109  0.936512  1
+  Al  Al7  1  0.750000  0.357109  0.563488  1
+  Pt  Pt8  1  0.750000  0.728604  0.618523  1
+  Pt  Pt9  1  0.750000  0.228604  0.881477  1
+  Rh  Rh10  1  0.250000  0.269283  0.383276  1
+  Rh  Rh11  1  0.250000  0.769283  0.116724  1

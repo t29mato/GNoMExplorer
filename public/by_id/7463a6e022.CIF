@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_UFe4(SiTc3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.73558476
+_cell_length_b   6.61005906
+_cell_length_c   6.61005903
+_cell_angle_alpha   101.54145832
+_cell_angle_beta   110.99032607
+_cell_angle_gamma   69.00966814
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UFe4(SiTc3)2
+_chemical_formula_sum   'U1 Fe4 Si2 Tc6'
+_cell_volume   179.74933616
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.000000  0.000000  0.000000  1
+  Fe  Fe1  1  0.500000  0.000000  0.500000  1
+  Fe  Fe2  1  0.000000  0.000000  0.500000  1
+  Fe  Fe3  1  0.500000  0.500000  0.000000  1
+  Fe  Fe4  1  0.000000  0.500000  0.000000  1
+  Si  Si5  1  0.267943  0.232057  0.767943  1
+  Si  Si6  1  0.732057  0.767943  0.232057  1
+  Tc  Tc7  1  0.635274  0.364726  0.635274  1
+  Tc  Tc8  1  0.364726  0.635274  0.364726  1
+  Tc  Tc9  1  0.000000  0.351198  0.351198  1
+  Tc  Tc10  1  0.000000  0.648802  0.648802  1
+  Tc  Tc11  1  0.500000  0.184370  0.184370  1
+  Tc  Tc12  1  0.500000  0.815630  0.815630  1

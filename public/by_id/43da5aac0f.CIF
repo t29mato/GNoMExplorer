@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Dy3Th4Co3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.52924818
+_cell_length_b   9.52924950
+_cell_length_c   6.30873700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.97981617
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy3Th4Co3
+_chemical_formula_sum   'Dy6 Th8 Co6'
+_cell_volume   496.22504968
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.538509  0.461493  0.051285  1
+  Dy  Dy1  1  0.461493  0.538508  0.551285  1
+  Dy  Dy2  1  0.538388  0.076858  0.051115  1
+  Dy  Dy3  1  0.923140  0.461612  0.051115  1
+  Dy  Dy4  1  0.076857  0.538387  0.551114  1
+  Dy  Dy5  1  0.461612  0.923142  0.551114  1
+  Th  Th6  1  0.125674  0.874327  0.256354  1
+  Th  Th7  1  0.874328  0.125672  0.756355  1
+  Th  Th8  1  0.125461  0.251293  0.256173  1
+  Th  Th9  1  0.748708  0.874540  0.256173  1
+  Th  Th10  1  0.251294  0.125460  0.756173  1
+  Th  Th11  1  0.874540  0.748707  0.756173  1
+  Th  Th12  1  0.333285  0.666715  0.007023  1
+  Th  Th13  1  0.666716  0.333285  0.507025  1
+  Co  Co14  1  0.816913  0.183086  0.300315  1
+  Co  Co15  1  0.183087  0.816914  0.800315  1
+  Co  Co16  1  0.816859  0.633770  0.300219  1
+  Co  Co17  1  0.366230  0.183141  0.300219  1
+  Co  Co18  1  0.633770  0.816860  0.800221  1
+  Co  Co19  1  0.183141  0.366232  0.800221  1

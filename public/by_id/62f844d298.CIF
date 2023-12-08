@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Zr12Al8CoNi(PtC2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.58529344
+_cell_length_b   8.58529328
+_cell_length_c   8.58529400
+_cell_angle_alpha   60.04294965
+_cell_angle_beta   60.04295028
+_cell_angle_gamma   60.04294363
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr12Al8CoNi(PtC2)2
+_chemical_formula_sum   'Zr12 Al8 Co1 Ni1 Pt2 C4'
+_cell_volume   447.89170657
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.556578  0.944743  0.554188  1
+  Zr  Zr1  1  0.306033  0.693645  0.693645  1
+  Zr  Zr2  1  0.694049  0.304966  0.304966  1
+  Zr  Zr3  1  0.305714  0.694260  0.306143  1
+  Zr  Zr4  1  0.693422  0.695812  0.305257  1
+  Zr  Zr5  1  0.305714  0.306143  0.694260  1
+  Zr  Zr6  1  0.556578  0.554188  0.944743  1
+  Zr  Zr7  1  0.943967  0.556355  0.556355  1
+  Zr  Zr8  1  0.555951  0.945034  0.945034  1
+  Zr  Zr9  1  0.944286  0.943857  0.555740  1
+  Zr  Zr10  1  0.693422  0.305257  0.695812  1
+  Zr  Zr11  1  0.944286  0.555740  0.943857  1
+  Al  Al12  1  0.912092  0.924470  0.924470  1
+  Al  Al13  1  0.010453  0.326931  0.326931  1
+  Al  Al14  1  0.334581  0.011526  0.323244  1
+  Al  Al15  1  0.334581  0.323244  0.011526  1
+  Al  Al16  1  0.915419  0.238474  0.926756  1
+  Al  Al17  1  0.915419  0.926756  0.238474  1
+  Al  Al18  1  0.239547  0.923069  0.923069  1
+  Al  Al19  1  0.337908  0.325530  0.325530  1
+  Co  Co20  1  0.625000  0.125000  0.125000  1
+  Ni  Ni21  1  0.125000  0.125000  0.125000  1
+  Pt  Pt22  1  0.125000  0.625000  0.125000  1
+  Pt  Pt23  1  0.125000  0.125000  0.625000  1
+  C  C24  1  0.625000  0.625000  0.625000  1
+  C  C25  1  0.125000  0.625000  0.625000  1
+  C  C26  1  0.625000  0.125000  0.625000  1
+  C  C27  1  0.625000  0.625000  0.125000  1

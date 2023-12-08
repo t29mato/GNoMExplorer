@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Tb2TeC2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.46500256
+_cell_length_b   7.46500267
+_cell_length_c   6.96584741
+_cell_angle_alpha   100.93707114
+_cell_angle_beta   100.93707075
+_cell_angle_gamma   32.66273624
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2TeC2
+_chemical_formula_sum   'Tb4 Te2 C4'
+_cell_volume   205.36305036
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.464501  0.840974  0.141836  1
+  Tb  Tb1  1  0.159026  0.535500  0.358164  1
+  Tb  Tb2  1  0.840974  0.464501  0.641836  1
+  Tb  Tb3  1  0.535500  0.159026  0.858164  1
+  Te  Te4  1  0.788180  0.211820  0.250000  1
+  Te  Te5  1  0.211820  0.788180  0.750000  1
+  C  C6  1  0.103639  0.356227  0.034494  1
+  C  C7  1  0.643773  0.896361  0.465506  1
+  C  C8  1  0.356227  0.103639  0.534493  1
+  C  C9  1  0.896361  0.643774  0.965506  1

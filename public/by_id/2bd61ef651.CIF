@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ce3Th(FeB10)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.16030600
+_cell_length_b   5.60547225
+_cell_length_c   11.18313751
+_cell_angle_alpha   90.03456055
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce3Th(FeB10)2
+_chemical_formula_sum   'Ce3 Th1 Fe2 B20'
+_cell_volume   260.79608554
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.500000  0.290901  0.868737  1
+  Ce  Ce1  1  0.500000  0.708804  0.129573  1
+  Ce  Ce2  1  0.500000  0.789577  0.632442  1
+  Th  Th3  1  0.500000  0.208676  0.368356  1
+  Fe  Fe4  1  0.000000  0.500880  0.500538  1
+  Fe  Fe5  1  0.000000  0.999687  0.000024  1
+  B  B6  1  0.000000  0.126926  0.540166  1
+  B  B7  1  0.000000  0.872823  0.460680  1
+  B  B8  1  0.000000  0.626807  0.960190  1
+  B  B9  1  0.000000  0.373503  0.039649  1
+  B  B10  1  0.000000  0.148897  0.697412  1
+  B  B11  1  0.000000  0.850544  0.302434  1
+  B  B12  1  0.299687  0.204938  0.113153  1
+  B  B13  1  0.299781  0.794854  0.886637  1
+  B  B14  1  0.700475  0.705517  0.386632  1
+  B  B15  1  0.700333  0.294894  0.613775  1
+  B  B16  1  0.700219  0.794854  0.886637  1
+  B  B17  1  0.700313  0.204938  0.113153  1
+  B  B18  1  0.299667  0.294894  0.613775  1
+  B  B19  1  0.299525  0.705517  0.386632  1
+  B  B20  1  0.000000  0.038478  0.187304  1
+  B  B21  1  0.000000  0.961395  0.812498  1
+  B  B22  1  0.000000  0.539216  0.312407  1
+  B  B23  1  0.000000  0.461700  0.687680  1
+  B  B24  1  0.000000  0.351650  0.196741  1
+  B  B25  1  0.000000  0.649128  0.802777  1

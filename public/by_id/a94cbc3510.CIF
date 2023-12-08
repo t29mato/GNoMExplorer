@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CeCuH4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.26981201
+_cell_length_b   6.26981164
+_cell_length_c   4.98576600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   144.75154409
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeCuH4
+_chemical_formula_sum   'Ce2 Cu2 H8'
+_cell_volume   113.11219359
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.135011  0.864989  0.280975  1
+  Ce  Ce1  1  0.864989  0.135011  0.780975  1
+  Cu  Cu2  1  0.407508  0.592492  0.286112  1
+  Cu  Cu3  1  0.592492  0.407508  0.786112  1
+  H  H4  1  0.309672  0.690328  0.031766  1
+  H  H5  1  0.690328  0.309672  0.531766  1
+  H  H6  1  0.302007  0.697993  0.531677  1
+  H  H7  1  0.697993  0.302007  0.031677  1
+  H  H8  1  0.083076  0.916924  0.790117  1
+  H  H9  1  0.916924  0.083076  0.290117  1
+  H  H10  1  0.517412  0.482588  0.078352  1
+  H  H11  1  0.482588  0.517412  0.578352  1

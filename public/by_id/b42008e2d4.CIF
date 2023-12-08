@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfZrMnSi2Mo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.56148500
+_cell_length_b   6.81153953
+_cell_length_c   7.98924197
+_cell_angle_alpha   89.45196811
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfZrMnSi2Mo
+_chemical_formula_sum   'Hf2 Zr2 Mn2 Si4 Mo2'
+_cell_volume   193.80372002
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.250000  0.540724  0.176722  1
+  Hf  Hf1  1  0.750000  0.459276  0.823278  1
+  Zr  Zr2  1  0.250000  0.034634  0.334409  1
+  Zr  Zr3  1  0.750000  0.965366  0.665591  1
+  Mn  Mn4  1  0.750000  0.369280  0.437098  1
+  Mn  Mn5  1  0.250000  0.630720  0.562902  1
+  Si  Si6  1  0.250000  0.271776  0.620637  1
+  Si  Si7  1  0.750000  0.728224  0.379363  1
+  Si  Si8  1  0.250000  0.757443  0.857783  1
+  Si  Si9  1  0.750000  0.242557  0.142217  1
+  Mo  Mo10  1  0.750000  0.861522  0.063690  1
+  Mo  Mo11  1  0.250000  0.138478  0.936310  1

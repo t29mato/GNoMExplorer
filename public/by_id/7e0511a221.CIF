@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ba2Sr(AlP2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.54632026
+_cell_length_b   8.54632025
+_cell_length_c   6.88267432
+_cell_angle_alpha   87.23905708
+_cell_angle_beta   87.23905259
+_cell_angle_gamma   76.39618006
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Sr(AlP2)2
+_chemical_formula_sum   'Ba4 Sr2 Al4 P8'
+_cell_volume   487.68573489
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.996805  0.259191  0.439328  1
+  Ba  Ba1  1  0.740809  0.003195  0.060672  1
+  Ba  Ba2  1  0.003195  0.740809  0.560672  1
+  Ba  Ba3  1  0.259191  0.996805  0.939328  1
+  Sr  Sr4  1  0.598700  0.401300  0.750000  1
+  Sr  Sr5  1  0.401300  0.598700  0.250000  1
+  Al  Al6  1  0.579433  0.826701  0.569479  1
+  Al  Al7  1  0.173299  0.420567  0.930521  1
+  Al  Al8  1  0.420567  0.173299  0.430521  1
+  Al  Al9  1  0.826701  0.579433  0.069479  1
+  P  P10  1  0.693122  0.063000  0.537399  1
+  P  P11  1  0.937000  0.306878  0.962601  1
+  P  P12  1  0.410570  0.271054  0.094377  1
+  P  P13  1  0.728946  0.589430  0.405623  1
+  P  P14  1  0.589430  0.728946  0.905623  1
+  P  P15  1  0.271054  0.410570  0.594377  1
+  P  P16  1  0.063000  0.693122  0.037399  1
+  P  P17  1  0.306878  0.937000  0.462601  1

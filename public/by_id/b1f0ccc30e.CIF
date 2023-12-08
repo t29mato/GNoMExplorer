@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Sc8CoHg3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.58931700
+_cell_length_b   9.58931577
+_cell_length_c   6.57729000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000078
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc8CoHg3
+_chemical_formula_sum   'Sc16 Co2 Hg6'
+_cell_volume   523.78482839
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.000000  0.000000  0.268152  1
+  Sc  Sc1  1  0.000000  0.000000  0.768152  1
+  Sc  Sc2  1  0.177467  0.822533  0.988005  1
+  Sc  Sc3  1  0.822533  0.177467  0.488005  1
+  Sc  Sc4  1  0.177467  0.354934  0.988005  1
+  Sc  Sc5  1  0.645066  0.822533  0.988005  1
+  Sc  Sc6  1  0.354934  0.177467  0.488005  1
+  Sc  Sc7  1  0.822533  0.645066  0.488005  1
+  Sc  Sc8  1  0.333333  0.666667  0.684493  1
+  Sc  Sc9  1  0.666667  0.333333  0.184493  1
+  Sc  Sc10  1  0.464853  0.535147  0.290501  1
+  Sc  Sc11  1  0.535147  0.464853  0.790501  1
+  Sc  Sc12  1  0.464853  0.929707  0.290501  1
+  Sc  Sc13  1  0.070293  0.535147  0.290501  1
+  Sc  Sc14  1  0.929707  0.464853  0.790501  1
+  Sc  Sc15  1  0.535147  0.070293  0.790501  1
+  Co  Co16  1  0.333333  0.666667  0.062769  1
+  Co  Co17  1  0.666667  0.333333  0.562769  1
+  Hg  Hg18  1  0.165307  0.834693  0.540709  1
+  Hg  Hg19  1  0.834693  0.165307  0.040709  1
+  Hg  Hg20  1  0.165307  0.330615  0.540709  1
+  Hg  Hg21  1  0.669385  0.834693  0.540709  1
+  Hg  Hg22  1  0.330615  0.165307  0.040709  1
+  Hg  Hg23  1  0.834693  0.669385  0.040709  1

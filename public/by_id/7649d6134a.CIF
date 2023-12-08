@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_LuTa4(NbSn3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.79002300
+_cell_length_b   5.79166820
+_cell_length_c   9.57500200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00940389
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuTa4(NbSn3)2
+_chemical_formula_sum   'Lu1 Ta4 Nb2 Sn6'
+_cell_volume   278.04321821
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.000000  0.000000  0.999880  1
+  Ta  Ta1  1  0.000000  0.500000  0.751100  1
+  Ta  Ta2  1  0.500000  0.500000  0.751063  1
+  Ta  Ta3  1  0.500000  0.000000  0.751063  1
+  Ta  Ta4  1  0.000000  0.500000  0.248997  1
+  Nb  Nb5  1  0.500000  0.500000  0.249344  1
+  Nb  Nb6  1  0.500000  0.000000  0.249344  1
+  Sn  Sn7  1  0.667131  0.333565  0.499972  1
+  Sn  Sn8  1  0.332869  0.666435  0.499972  1
+  Sn  Sn9  1  0.666731  0.333365  0.000122  1
+  Sn  Sn10  1  0.333269  0.666635  0.000122  1
+  Sn  Sn11  1  0.000000  0.000000  0.668830  1
+  Sn  Sn12  1  0.000000  0.000000  0.330190  1

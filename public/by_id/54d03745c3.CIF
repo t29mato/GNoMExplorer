@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_La3(GaPd)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.40840895
+_cell_length_b   8.40840882
+_cell_length_c   8.40837094
+_cell_angle_alpha   150.37921236
+_cell_angle_beta   127.42253463
+_cell_angle_gamma   61.51053410
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3(GaPd)4
+_chemical_formula_sum   'La3 Ga4 Pd4'
+_cell_volume   231.35120725
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.500000  0.000000  0.500000  1
+  La  La1  1  0.871796  0.871796  0.000000  1
+  La  La2  1  0.128204  0.128204  0.000000  1
+  Ga  Ga3  1  0.481265  0.673913  0.807351  1
+  Ga  Ga4  1  0.866563  0.673914  0.192649  1
+  Ga  Ga5  1  0.133437  0.326086  0.807351  1
+  Ga  Ga6  1  0.518735  0.326087  0.192649  1
+  Pd  Pd7  1  0.284558  0.784558  0.500000  1
+  Pd  Pd8  1  0.715442  0.215442  0.500000  1
+  Pd  Pd9  1  0.797001  0.500000  0.297001  1
+  Pd  Pd10  1  0.202999  0.500000  0.702999  1

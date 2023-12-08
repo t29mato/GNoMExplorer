@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Th3Fe2(CuSi2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.09746319
+_cell_length_b   4.08480323
+_cell_length_c   12.15347965
+_cell_angle_alpha   99.67449476
+_cell_angle_beta   99.70477343
+_cell_angle_gamma   90.00000758
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Th3Fe2(CuSi2)2
+_chemical_formula_sum   'Th3 Fe2 Cu2 Si4'
+_cell_volume   197.57026078
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.844646  0.344646  0.689294  1
+  Th  Th1  1  0.155354  0.655354  0.310706  1
+  Th  Th2  1  0.000000  0.000000  0.000000  1
+  Fe  Fe3  1  0.248895  0.248895  0.497788  1
+  Fe  Fe4  1  0.751105  0.751105  0.502212  1
+  Cu  Cu5  1  0.599186  0.099186  0.198373  1
+  Cu  Cu6  1  0.400814  0.900814  0.801627  1
+  Si  Si7  1  0.449296  0.449296  0.898593  1
+  Si  Si8  1  0.550704  0.550704  0.101407  1
+  Si  Si9  1  0.702434  0.202434  0.404868  1
+  Si  Si10  1  0.297566  0.797566  0.595132  1

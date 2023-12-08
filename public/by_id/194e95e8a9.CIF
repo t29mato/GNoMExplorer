@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Tb5Sm3(Si3Au)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.22518300
+_cell_length_b   8.24266148
+_cell_length_c   8.42801800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.92987550
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb5Sm3(Si3Au)4
+_chemical_formula_sum   'Tb5 Sm3 Si12 Au4'
+_cell_volume   495.19422081
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.500014  0.500032  0.750000  1
+  Tb  Tb1  1  0.500034  0.500005  0.250000  1
+  Tb  Tb2  1  0.000018  0.500032  0.750000  1
+  Tb  Tb3  1  0.999971  0.500005  0.250000  1
+  Tb  Tb4  1  0.499968  0.999936  0.750000  1
+  Sm  Sm5  1  0.500070  0.000140  0.250000  1
+  Sm  Sm6  1  0.999963  0.999924  0.750000  1
+  Sm  Sm7  1  0.000022  0.000044  0.250000  1
+  Si  Si8  1  0.835370  0.164260  0.998311  1
+  Si  Si9  1  0.164637  0.835721  0.999239  1
+  Si  Si10  1  0.328890  0.164260  0.998311  1
+  Si  Si11  1  0.164637  0.835721  0.500761  1
+  Si  Si12  1  0.671083  0.835721  0.999239  1
+  Si  Si13  1  0.835370  0.164260  0.501689  1
+  Si  Si14  1  0.836048  0.672097  0.000099  1
+  Si  Si15  1  0.671083  0.835721  0.500761  1
+  Si  Si16  1  0.163949  0.327900  0.000878  1
+  Si  Si17  1  0.328890  0.164260  0.501689  1
+  Si  Si18  1  0.163949  0.327900  0.499122  1
+  Si  Si19  1  0.836048  0.672097  0.499901  1
+  Au  Au20  1  0.667589  0.335175  0.996373  1
+  Au  Au21  1  0.332402  0.664807  0.996088  1
+  Au  Au22  1  0.332402  0.664807  0.503912  1
+  Au  Au23  1  0.667589  0.335175  0.503627  1

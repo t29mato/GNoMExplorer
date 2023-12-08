@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Th4CuSi6Ru
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.23377507
+_cell_length_b   8.18767876
+_cell_length_c   5.89379049
+_cell_angle_alpha   69.38571570
+_cell_angle_beta   68.54917521
+_cell_angle_gamma   42.06511520
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Th4CuSi6Ru
+_chemical_formula_sum   'Th4 Cu1 Si6 Ru1'
+_cell_volume   245.68600146
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.751859  0.751859  0.748141  1
+  Th  Th1  1  0.748641  0.246056  0.753944  1
+  Th  Th2  1  0.251859  0.251859  0.248141  1
+  Th  Th3  1  0.246056  0.748641  0.251359  1
+  Cu  Cu4  1  0.665394  0.665394  0.334606  1
+  Si  Si5  1  0.833824  0.335083  0.166176  1
+  Si  Si6  1  0.666424  0.166840  0.333576  1
+  Si  Si7  1  0.166840  0.666424  0.833160  1
+  Si  Si8  1  0.335083  0.833824  0.664917  1
+  Si  Si9  1  0.168238  0.168238  0.831762  1
+  Si  Si10  1  0.830999  0.830999  0.169001  1
+  Ru  Ru11  1  0.334783  0.334783  0.665217  1

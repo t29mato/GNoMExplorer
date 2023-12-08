@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Na2Sn(RhSe3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.65413102
+_cell_length_b   6.65413154
+_cell_length_c   7.31967781
+_cell_angle_alpha   81.58318847
+_cell_angle_beta   81.58318266
+_cell_angle_gamma   120.67785582
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Sn(RhSe3)2
+_chemical_formula_sum   'Na2 Sn1 Rh2 Se6'
+_cell_volume   266.26717906
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.161492  0.838508  0.500000  1
+  Na  Na1  1  0.838508  0.161492  0.500000  1
+  Sn  Sn2  1  0.000000  0.000000  0.000000  1
+  Rh  Rh3  1  0.332482  0.667518  0.000000  1
+  Rh  Rh4  1  0.667518  0.332482  0.000000  1
+  Se  Se5  1  0.939160  0.578628  0.194117  1
+  Se  Se6  1  0.291269  0.291269  0.196107  1
+  Se  Se7  1  0.578628  0.939160  0.194117  1
+  Se  Se8  1  0.708731  0.708731  0.803893  1
+  Se  Se9  1  0.060840  0.421372  0.805883  1
+  Se  Se10  1  0.421372  0.060840  0.805883  1

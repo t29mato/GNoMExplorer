@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LaSiRu2C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.94601498
+_cell_length_b   5.94601436
+_cell_length_c   7.23646500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   140.57635426
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaSiRu2C
+_chemical_formula_sum   'La2 Si2 Ru4 C2'
+_cell_volume   162.47475986
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.551417  0.448583  0.250000  1
+  La  La1  1  0.448583  0.551417  0.750000  1
+  Si  Si2  1  0.272616  0.727384  0.250000  1
+  Si  Si3  1  0.727384  0.272616  0.750000  1
+  Ru  Ru4  1  0.835335  0.164665  0.058374  1
+  Ru  Ru5  1  0.164665  0.835335  0.941626  1
+  Ru  Ru6  1  0.164665  0.835335  0.558374  1
+  Ru  Ru7  1  0.835335  0.164665  0.441626  1
+  C  C8  1  0.000000  0.000000  0.000000  1
+  C  C9  1  0.000000  0.000000  0.500000  1

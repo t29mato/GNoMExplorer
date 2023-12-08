@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Tl2Ir2OF10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.25042600
+_cell_length_b   7.42664787
+_cell_length_c   13.79817700
+_cell_angle_alpha   78.57879280
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl2Ir2OF10
+_chemical_formula_sum   'Tl4 Ir4 O2 F20'
+_cell_volume   527.37905173
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.425698  0.221423  0.597534  1
+  Tl  Tl1  1  0.574302  0.221423  0.097534  1
+  Tl  Tl2  1  0.574302  0.778577  0.402466  1
+  Tl  Tl3  1  0.425698  0.778577  0.902466  1
+  Ir  Ir4  1  0.020253  0.291874  0.334843  1
+  Ir  Ir5  1  0.979747  0.291874  0.834843  1
+  Ir  Ir6  1  0.020253  0.708126  0.165157  1
+  Ir  Ir7  1  0.979747  0.708126  0.665157  1
+  O  O8  1  0.098936  0.500000  0.750000  1
+  O  O9  1  0.901064  0.500000  0.250000  1
+  F  F10  1  0.721536  0.851027  0.187410  1
+  F  F11  1  0.675601  0.581056  0.635688  1
+  F  F12  1  0.175976  0.795185  0.274544  1
+  F  F13  1  0.841582  0.076946  0.920308  1
+  F  F14  1  0.324399  0.418944  0.364312  1
+  F  F15  1  0.158418  0.923054  0.079692  1
+  F  F16  1  0.175976  0.204815  0.225456  1
+  F  F17  1  0.278464  0.851027  0.687410  1
+  F  F18  1  0.824024  0.204815  0.725456  1
+  F  F19  1  0.675601  0.418944  0.864312  1
+  F  F20  1  0.158418  0.076946  0.420308  1
+  F  F21  1  0.136606  0.355631  0.950495  1
+  F  F22  1  0.278464  0.148973  0.812590  1
+  F  F23  1  0.863394  0.644369  0.049505  1
+  F  F24  1  0.824024  0.795185  0.774544  1
+  F  F25  1  0.721536  0.148973  0.312590  1
+  F  F26  1  0.841582  0.923054  0.579692  1
+  F  F27  1  0.863394  0.355631  0.450495  1
+  F  F28  1  0.324399  0.581056  0.135688  1
+  F  F29  1  0.136606  0.644369  0.549505  1

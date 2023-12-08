@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Er12Zn(InFe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.34595917
+_cell_length_b   8.34595890
+_cell_length_c   8.34595887
+_cell_angle_alpha   109.77996209
+_cell_angle_beta   109.77996596
+_cell_angle_gamma   108.85548287
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er12Zn(InFe)2
+_chemical_formula_sum   'Er12 Zn1 In2 Fe2'
+_cell_volume   447.47551473
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.305060  0.305060  0.610119  1
+  Er  Er1  1  0.694940  0.694940  0.389881  1
+  Er  Er2  1  0.305060  0.694940  0.000000  1
+  Er  Er3  1  0.694940  0.305060  0.000000  1
+  Er  Er4  1  0.446849  0.203397  0.243452  1
+  Er  Er5  1  0.553151  0.796603  0.756548  1
+  Er  Er6  1  0.959945  0.203397  0.756548  1
+  Er  Er7  1  0.203397  0.959945  0.756548  1
+  Er  Er8  1  0.040055  0.796603  0.243452  1
+  Er  Er9  1  0.796603  0.040055  0.243452  1
+  Er  Er10  1  0.203397  0.446849  0.243452  1
+  Er  Er11  1  0.796603  0.553151  0.756548  1
+  Zn  Zn12  1  0.000000  0.000000  0.000000  1
+  In  In13  1  0.500000  0.000000  0.500000  1
+  In  In14  1  0.000000  0.500000  0.500000  1
+  Fe  Fe15  1  0.386765  0.386765  0.000000  1
+  Fe  Fe16  1  0.613235  0.613235  0.000000  1

@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_InBi3Pt2(RhO7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.31292983
+_cell_length_b   7.34470835
+_cell_length_c   7.34470824
+_cell_angle_alpha   60.02703028
+_cell_angle_beta   59.87636710
+_cell_angle_gamma   59.87637076
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InBi3Pt2(RhO7)2
+_chemical_formula_sum   'In1 Bi3 Pt2 Rh2 O14'
+_cell_volume   278.48366566
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.625000  0.125000  0.125000  1
+  Bi  Bi1  1  0.125000  0.125000  0.625000  1
+  Bi  Bi2  1  0.125000  0.625000  0.125000  1
+  Bi  Bi3  1  0.125000  0.125000  0.125000  1
+  Pt  Pt4  1  0.625000  0.625000  0.125000  1
+  Pt  Pt5  1  0.625000  0.125000  0.625000  1
+  Rh  Rh6  1  0.125000  0.625000  0.625000  1
+  Rh  Rh7  1  0.625000  0.625000  0.625000  1
+  O  O8  1  0.272567  0.243162  0.243162  1
+  O  O9  1  0.977433  0.006838  0.006838  1
+  O  O10  1  0.545640  0.960552  0.533344  1
+  O  O11  1  0.290420  0.709739  0.290736  1
+  O  O12  1  0.545640  0.533344  0.960552  1
+  O  O13  1  0.957354  0.541916  0.541916  1
+  O  O14  1  0.545271  0.960563  0.960563  1
+  O  O15  1  0.959580  0.959264  0.540261  1
+  O  O16  1  0.959580  0.540261  0.959264  1
+  O  O17  1  0.704729  0.289437  0.289437  1
+  O  O18  1  0.292646  0.708084  0.708084  1
+  O  O19  1  0.704360  0.289448  0.716656  1
+  O  O20  1  0.290420  0.290736  0.709739  1
+  O  O21  1  0.704360  0.716656  0.289448  1

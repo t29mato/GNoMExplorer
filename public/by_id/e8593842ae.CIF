@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Re3Tc(TeS)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.22384324
+_cell_length_b   7.22384354
+_cell_length_c   7.22384364
+_cell_angle_alpha   59.75552969
+_cell_angle_beta   59.75552538
+_cell_angle_gamma   59.75552395
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Re3Tc(TeS)4
+_chemical_formula_sum   'Re3 Tc1 Te4 S4'
+_cell_volume   265.07719827
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Re  Re0  1  0.542076  0.152404  0.152404  1
+  Re  Re1  1  0.152404  0.152404  0.542076  1
+  Re  Re2  1  0.152404  0.542076  0.152404  1
+  Tc  Tc3  1  0.152114  0.152114  0.152114  1
+  Te  Te4  1  0.878178  0.365619  0.878178  1
+  Te  Te5  1  0.878178  0.878178  0.365619  1
+  Te  Te6  1  0.365619  0.878178  0.878178  1
+  Te  Te7  1  0.877663  0.877663  0.877663  1
+  S  S8  1  0.378029  0.378029  0.378029  1
+  S  S9  1  0.865434  0.378952  0.378952  1
+  S  S10  1  0.378952  0.378952  0.865434  1
+  S  S11  1  0.378952  0.865434  0.378952  1

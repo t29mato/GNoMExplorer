@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_BeHgPO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.74574400
+_cell_length_b   7.83604300
+_cell_length_c   9.66116500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BeHgPO4
+_chemical_formula_sum   'Be4 Hg4 P4 O16'
+_cell_volume   359.27799398
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.121193  0.636082  0.868254  1
+  Be  Be1  1  0.621193  0.363918  0.131746  1
+  Be  Be2  1  0.621193  0.136082  0.631746  1
+  Be  Be3  1  0.121193  0.863918  0.368254  1
+  Hg  Hg4  1  0.601909  0.551465  0.426751  1
+  Hg  Hg5  1  0.101909  0.448535  0.573249  1
+  Hg  Hg6  1  0.101909  0.051465  0.073249  1
+  Hg  Hg7  1  0.601909  0.948535  0.926751  1
+  P  P8  1  0.125779  0.569144  0.168731  1
+  P  P9  1  0.625779  0.430856  0.831269  1
+  P  P10  1  0.625779  0.069144  0.331269  1
+  P  P11  1  0.125779  0.930856  0.668731  1
+  O  O12  1  0.809527  0.523366  0.192212  1
+  O  O13  1  0.309527  0.476634  0.807788  1
+  O  O14  1  0.309527  0.023366  0.307788  1
+  O  O15  1  0.809527  0.976634  0.692212  1
+  O  O16  1  0.298694  0.402428  0.172499  1
+  O  O17  1  0.798694  0.597572  0.827501  1
+  O  O18  1  0.798694  0.902428  0.327501  1
+  O  O19  1  0.298694  0.097572  0.672499  1
+  O  O20  1  0.220593  0.684937  0.291739  1
+  O  O21  1  0.720593  0.315063  0.708261  1
+  O  O22  1  0.720593  0.184937  0.208261  1
+  O  O23  1  0.220593  0.815063  0.791739  1
+  O  O24  1  0.166207  0.667860  0.032388  1
+  O  O25  1  0.666207  0.332140  0.967612  1
+  O  O26  1  0.666207  0.167860  0.467612  1
+  O  O27  1  0.166207  0.832140  0.532388  1

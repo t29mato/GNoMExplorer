@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Zr6Al16Fe(CuNi2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.57096169
+_cell_length_b   8.57076519
+_cell_length_c   8.56713300
+_cell_angle_alpha   60.01829064
+_cell_angle_beta   60.01488688
+_cell_angle_gamma   59.97190804
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr6Al16Fe(CuNi2)2
+_chemical_formula_sum   'Zr6 Al16 Fe1 Cu2 Ni4'
+_cell_volume   445.02681209
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.690059  0.690061  0.309941  1
+  Zr  Zr1  1  0.306343  0.693657  0.306342  1
+  Zr  Zr2  1  0.693629  0.306371  0.306372  1
+  Zr  Zr3  1  0.309941  0.309939  0.690059  1
+  Zr  Zr4  1  0.693657  0.306343  0.693658  1
+  Zr  Zr5  1  0.306371  0.693629  0.693628  1
+  Al  Al6  1  0.880795  0.880797  0.350486  1
+  Al  Al7  1  0.887923  0.350483  0.880797  1
+  Al  Al8  1  0.350478  0.887926  0.880796  1
+  Al  Al9  1  0.880801  0.880798  0.887925  1
+  Al  Al10  1  0.119205  0.119203  0.649514  1
+  Al  Al11  1  0.112077  0.649517  0.119203  1
+  Al  Al12  1  0.649522  0.112074  0.119204  1
+  Al  Al13  1  0.119199  0.119202  0.112075  1
+  Al  Al14  1  0.668768  0.668808  0.998742  1
+  Al  Al15  1  0.663680  0.998741  0.668808  1
+  Al  Al16  1  0.998744  0.663678  0.668768  1
+  Al  Al17  1  0.668809  0.668769  0.663677  1
+  Al  Al18  1  0.331232  0.331192  0.001258  1
+  Al  Al19  1  0.336320  0.001259  0.331192  1
+  Al  Al20  1  0.001256  0.336322  0.331232  1
+  Al  Al21  1  0.331191  0.331231  0.336323  1
+  Fe  Fe22  1  0.000000  0.000000  0.000000  1
+  Cu  Cu23  1  0.000000  0.000000  0.500000  1
+  Cu  Cu24  1  0.500000  0.500000  0.000000  1
+  Ni  Ni25  1  0.500000  0.000000  0.500000  1
+  Ni  Ni26  1  0.000000  0.500000  0.500000  1
+  Ni  Ni27  1  0.000000  0.500000  0.000000  1
+  Ni  Ni28  1  0.500000  0.000000  0.000000  1

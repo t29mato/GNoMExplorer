@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_LaCo(As4Ru)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.38103760
+_cell_length_b   7.38103749
+_cell_length_c   7.42441500
+_cell_angle_alpha   109.59031322
+_cell_angle_beta   109.59031292
+_cell_angle_gamma   109.35186653
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaCo(As4Ru)3
+_chemical_formula_sum   'La1 Co1 As12 Ru3'
+_cell_volume   310.91004586
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.000000  0.000000  0.000000  1
+  Co  Co1  1  0.000000  0.000000  0.500000  1
+  As  As2  1  0.498743  0.348843  0.150449  1
+  As  As3  1  0.193535  0.340969  0.842549  1
+  As  As4  1  0.501256  0.651157  0.849550  1
+  As  As5  1  0.806465  0.659032  0.157450  1
+  As  As6  1  0.149900  0.498743  0.348294  1
+  As  As7  1  0.340969  0.147433  0.498419  1
+  As  As8  1  0.147433  0.806465  0.649015  1
+  As  As9  1  0.348843  0.850099  0.198393  1
+  As  As10  1  0.852566  0.193535  0.350986  1
+  As  As11  1  0.659031  0.852566  0.501580  1
+  As  As12  1  0.850099  0.501256  0.651706  1
+  As  As13  1  0.651158  0.149900  0.801607  1
+  Ru  Ru14  1  0.500000  0.500000  0.500000  1
+  Ru  Ru15  1  0.500000  0.000000  0.000000  1
+  Ru  Ru16  1  0.000000  0.500000  0.000000  1

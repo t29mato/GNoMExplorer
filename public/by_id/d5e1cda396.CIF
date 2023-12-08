@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_ThCu3PtAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.18901325
+_cell_length_b   5.18901427
+_cell_length_c   5.24192636
+_cell_angle_alpha   60.33335096
+_cell_angle_beta   60.33334363
+_cell_angle_gamma   59.99999122
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThCu3PtAu
+_chemical_formula_sum   'Th1 Cu3 Pt1 Au1'
+_cell_volume   100.30335645
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.999393  0.999393  0.001822  1
+  Cu  Cu1  1  0.625778  0.131272  0.617171  1
+  Cu  Cu2  1  0.131272  0.625778  0.617171  1
+  Cu  Cu3  1  0.625778  0.625778  0.617171  1
+  Pt  Pt4  1  0.626619  0.626619  0.120143  1
+  Au  Au5  1  0.241159  0.241159  0.276522  1

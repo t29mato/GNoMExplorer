@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CeU(MoN2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.21253200
+_cell_length_b   5.67888006
+_cell_length_c   10.97015458
+_cell_angle_alpha   90.36540145
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeU(MoN2)2
+_chemical_formula_sum   'Ce2 U2 Mo4 N8'
+_cell_volume   200.13086567
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.250000  0.573535  0.854522  1
+  Ce  Ce1  1  0.750000  0.426465  0.145478  1
+  U  U2  1  0.750000  0.924858  0.355746  1
+  U  U3  1  0.250000  0.075142  0.644254  1
+  Mo  Mo4  1  0.250000  0.932492  0.099205  1
+  Mo  Mo5  1  0.750000  0.067508  0.900795  1
+  Mo  Mo6  1  0.750000  0.567406  0.597661  1
+  Mo  Mo7  1  0.250000  0.432594  0.402339  1
+  N  N8  1  0.250000  0.676583  0.251365  1
+  N  N9  1  0.750000  0.323417  0.748635  1
+  N  N10  1  0.750000  0.840988  0.740431  1
+  N  N11  1  0.250000  0.159012  0.259569  1
+  N  N12  1  0.250000  0.758127  0.504564  1
+  N  N13  1  0.750000  0.241873  0.495436  1
+  N  N14  1  0.750000  0.752706  0.005932  1
+  N  N15  1  0.250000  0.247294  0.994068  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_HoTeBrO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.21568200
+_cell_length_b   7.65037761
+_cell_length_c   8.75530373
+_cell_angle_alpha   75.73561631
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoTeBrO3
+_chemical_formula_sum   'Ho4 Te4 Br4 O12'
+_cell_volume   468.41525046
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.750292  0.293053  0.348134  1
+  Ho  Ho1  1  0.250292  0.206947  0.651866  1
+  Ho  Ho2  1  0.249708  0.706947  0.651866  1
+  Ho  Ho3  1  0.749708  0.793053  0.348134  1
+  Te  Te4  1  0.217315  0.557734  0.296609  1
+  Te  Te5  1  0.717315  0.942266  0.703391  1
+  Te  Te6  1  0.782685  0.442266  0.703391  1
+  Te  Te7  1  0.282685  0.057734  0.296609  1
+  Br  Br8  1  0.701076  0.614999  0.095256  1
+  Br  Br9  1  0.201076  0.885001  0.904744  1
+  Br  Br10  1  0.298924  0.385001  0.904744  1
+  Br  Br11  1  0.798924  0.114999  0.095256  1
+  O  O12  1  0.289012  0.494504  0.517666  1
+  O  O13  1  0.789012  0.005496  0.482334  1
+  O  O14  1  0.710988  0.505496  0.482334  1
+  O  O15  1  0.210988  0.994504  0.517666  1
+  O  O16  1  0.053899  0.740390  0.329539  1
+  O  O17  1  0.553899  0.759610  0.670461  1
+  O  O18  1  0.946101  0.259610  0.670461  1
+  O  O19  1  0.446101  0.240390  0.329539  1
+  O  O20  1  0.054343  0.356496  0.325273  1
+  O  O21  1  0.554343  0.143504  0.674727  1
+  O  O22  1  0.945657  0.643504  0.674727  1
+  O  O23  1  0.445657  0.856496  0.325273  1

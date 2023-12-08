@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TbCeTh(B2C)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.34525643
+_cell_length_b   5.34525617
+_cell_length_c   5.34525615
+_cell_angle_alpha   76.80781301
+_cell_angle_beta   76.80782063
+_cell_angle_gamma   76.80780141
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbCeTh(B2C)3
+_chemical_formula_sum   'Tb1 Ce1 Th1 B6 C3'
+_cell_volume   142.24791319
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.686749  0.686749  0.686749  1
+  Ce  Ce1  1  0.312549  0.312549  0.312549  1
+  Th  Th2  1  0.000391  0.000391  0.000391  1
+  B  B3  1  0.500543  0.774839  0.225945  1
+  B  B4  1  0.225945  0.500543  0.774839  1
+  B  B5  1  0.774839  0.225945  0.500543  1
+  B  B6  1  0.500543  0.225945  0.774839  1
+  B  B7  1  0.225945  0.774839  0.500543  1
+  B  B8  1  0.774839  0.500543  0.225945  1
+  C  C9  1  0.999449  0.999449  0.498759  1
+  C  C10  1  0.999449  0.498759  0.999449  1
+  C  C11  1  0.498759  0.999449  0.999449  1

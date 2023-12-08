@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_PrHo4(FeB3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.40983553
+_cell_length_b   5.40983614
+_cell_length_c   8.27100487
+_cell_angle_alpha   70.91100393
+_cell_angle_beta   70.91100005
+_cell_angle_gamma   60.00001333
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrHo4(FeB3)2
+_chemical_formula_sum   'Pr1 Ho4 Fe2 B6'
+_cell_volume   194.11000319
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.000000  0.000000  0.000000  1
+  Ho  Ho1  1  0.249975  0.249975  0.250074  1
+  Ho  Ho2  1  0.750025  0.750025  0.749926  1
+  Ho  Ho3  1  0.417371  0.417371  0.747888  1
+  Ho  Ho4  1  0.582629  0.582629  0.252112  1
+  Fe  Fe5  1  0.116504  0.116504  0.650487  1
+  Fe  Fe6  1  0.883496  0.883496  0.349513  1
+  B  B7  1  0.167666  0.832334  0.500000  1
+  B  B8  1  0.832334  0.500000  0.500000  1
+  B  B9  1  0.500000  0.167666  0.500000  1
+  B  B10  1  0.167666  0.500000  0.500000  1
+  B  B11  1  0.500000  0.832334  0.500000  1
+  B  B12  1  0.832334  0.167666  0.500000  1

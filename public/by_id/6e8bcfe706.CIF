@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sr2Be(SiPd2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.87314857
+_cell_length_b   6.89571725
+_cell_length_c   6.87314900
+_cell_angle_alpha   129.69454383
+_cell_angle_beta   116.42121534
+_cell_angle_gamma   85.09650172
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2Be(SiPd2)3
+_chemical_formula_sum   'Sr2 Be1 Si3 Pd6'
+_cell_volume   214.93715105
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.247168  0.969592  0.722424  1
+  Sr  Sr1  1  0.753627  0.040225  0.286597  1
+  Be  Be2  1  0.068632  0.258762  0.190132  1
+  Si  Si3  1  0.923800  0.733126  0.809326  1
+  Si  Si4  1  0.424101  0.614641  0.190541  1
+  Si  Si5  1  0.580425  0.387110  0.806684  1
+  Pd  Pd6  1  0.490810  0.497552  0.490766  1
+  Pd  Pd7  1  0.006786  0.497552  0.006742  1
+  Pd  Pd8  1  0.291243  0.001205  0.293019  1
+  Pd  Pd9  1  0.708185  0.001205  0.709961  1
+  Pd  Pd10  1  0.208878  0.499515  0.703171  1
+  Pd  Pd11  1  0.796343  0.499515  0.290636  1

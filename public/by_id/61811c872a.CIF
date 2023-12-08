@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_CaYb(ThPt2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.56563100
+_cell_length_b   5.77122607
+_cell_length_c   7.25469400
+_cell_angle_alpha   88.06671350
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaYb(ThPt2)2
+_chemical_formula_sum   'Ca1 Yb1 Th2 Pt4'
+_cell_volume   191.04721737
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.750000  0.642117  0.321579  1
+  Yb  Yb1  1  0.250000  0.356270  0.679984  1
+  Th  Th2  1  0.250000  0.146458  0.185301  1
+  Th  Th3  1  0.750000  0.854265  0.814616  1
+  Pt  Pt4  1  0.750000  0.145990  0.451449  1
+  Pt  Pt5  1  0.250000  0.855494  0.553060  1
+  Pt  Pt6  1  0.250000  0.670873  0.037454  1
+  Pt  Pt7  1  0.750000  0.328535  0.956557  1

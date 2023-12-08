@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_ErLu2Ag(Pt2O7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.26995316
+_cell_length_b   7.13511035
+_cell_length_c   7.26995240
+_cell_angle_alpha   59.46578809
+_cell_angle_beta   60.03651016
+_cell_angle_gamma   59.46578383
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErLu2Ag(Pt2O7)2
+_chemical_formula_sum   'Er1 Lu2 Ag1 Pt4 O14'
+_cell_volume   264.55270645
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.625000  0.625000  0.625000  1
+  Lu  Lu1  1  0.625000  0.625000  0.125000  1
+  Lu  Lu2  1  0.125000  0.625000  0.625000  1
+  Ag  Ag3  1  0.625000  0.125000  0.625000  1
+  Pt  Pt4  1  0.125000  0.125000  0.125000  1
+  Pt  Pt5  1  0.625000  0.125000  0.125000  1
+  Pt  Pt6  1  0.125000  0.125000  0.625000  1
+  Pt  Pt7  1  0.125000  0.625000  0.125000  1
+  O  O8  1  0.031381  0.473402  0.467118  1
+  O  O9  1  0.782882  0.776598  0.218619  1
+  O  O10  1  0.790613  0.224267  0.194627  1
+  O  O11  1  0.458723  0.028378  0.458723  1
+  O  O12  1  0.748989  0.758761  0.748989  1
+  O  O13  1  0.029456  0.473533  0.029456  1
+  O  O14  1  0.055373  0.025733  0.459387  1
+  O  O15  1  0.220544  0.776467  0.220544  1
+  O  O16  1  0.194627  0.224267  0.790613  1
+  O  O17  1  0.791277  0.221622  0.791277  1
+  O  O18  1  0.501011  0.491239  0.501011  1
+  O  O19  1  0.459387  0.025733  0.055373  1
+  O  O20  1  0.467118  0.473402  0.031381  1
+  O  O21  1  0.218619  0.776598  0.782882  1

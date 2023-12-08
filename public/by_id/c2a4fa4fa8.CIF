@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_La2Nd14Cd4NiRu3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.90414188
+_cell_length_b   9.96960876
+_cell_length_c   9.99570700
+_cell_angle_alpha   59.91336338
+_cell_angle_beta   59.69369591
+_cell_angle_gamma   59.71498287
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2Nd14Cd4NiRu3
+_chemical_formula_sum   'La2 Nd14 Cd4 Ni1 Ru3'
+_cell_volume   694.31334757
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.596068  0.595520  0.597008  1
+  La  La1  1  0.596068  0.595520  0.211404  1
+  Nd  Nd2  1  0.599000  0.206057  0.597471  1
+  Nd  Nd3  1  0.206355  0.596191  0.598727  1
+  Nd  Nd4  1  0.060464  0.440214  0.439622  1
+  Nd  Nd5  1  0.438915  0.061057  0.059755  1
+  Nd  Nd6  1  0.438915  0.061057  0.440271  1
+  Nd  Nd7  1  0.060464  0.440214  0.059701  1
+  Nd  Nd8  1  0.439300  0.440517  0.060091  1
+  Nd  Nd9  1  0.060429  0.059523  0.440024  1
+  Nd  Nd10  1  0.188012  0.811554  0.810889  1
+  Nd  Nd11  1  0.809519  0.187244  0.187265  1
+  Nd  Nd12  1  0.809519  0.187244  0.815972  1
+  Nd  Nd13  1  0.188012  0.811554  0.189544  1
+  Nd  Nd14  1  0.809917  0.817418  0.186332  1
+  Nd  Nd15  1  0.189259  0.190845  0.809947  1
+  Cd  Cd16  1  0.829739  0.830444  0.829292  1
+  Cd  Cd17  1  0.829739  0.830444  0.510525  1
+  Cd  Cd18  1  0.829965  0.510052  0.829991  1
+  Cd  Cd19  1  0.510080  0.830470  0.829725  1
+  Ni  Ni20  1  0.827624  0.390449  0.390964  1
+  Ru  Ru21  1  0.393655  0.389094  0.386747  1
+  Ru  Ru22  1  0.393655  0.389094  0.830502  1
+  Ru  Ru23  1  0.395325  0.828218  0.388228  1

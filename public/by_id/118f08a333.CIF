@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfSc3Al7Mo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.35175600
+_cell_length_b   5.35175630
+_cell_length_c   8.74108700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999813
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfSc3Al7Mo
+_chemical_formula_sum   'Hf1 Sc3 Al7 Mo1'
+_cell_volume   216.81469626
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.333333  0.666667  0.058420  1
+  Sc  Sc1  1  0.333333  0.666667  0.447621  1
+  Sc  Sc2  1  0.666667  0.333333  0.938234  1
+  Sc  Sc3  1  0.666667  0.333333  0.551901  1
+  Al  Al4  1  0.169557  0.339115  0.755077  1
+  Al  Al5  1  0.830875  0.169125  0.245835  1
+  Al  Al6  1  0.338250  0.169125  0.245835  1
+  Al  Al7  1  0.660885  0.830443  0.755077  1
+  Al  Al8  1  0.000000  0.000000  0.500332  1
+  Al  Al9  1  0.830875  0.661750  0.245835  1
+  Al  Al10  1  0.169557  0.830443  0.755077  1
+  Mo  Mo11  1  0.000000  0.000000  0.000758  1

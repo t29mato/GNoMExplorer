@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Li3Al(PRh3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.12953400
+_cell_length_b   5.80403400
+_cell_length_c   12.28269200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3Al(PRh3)2
+_chemical_formula_sum   'Li6 Al2 P4 Rh12'
+_cell_volume   294.39101823
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.000002  0.500001  0.001630  1
+  Li  Li1  1  0.499913  0.000000  0.170107  1
+  Li  Li2  1  0.999914  0.500001  0.329892  1
+  Li  Li3  1  0.500002  0.000000  0.498370  1
+  Li  Li4  1  0.000089  0.500001  0.668650  1
+  Li  Li5  1  0.500089  0.000000  0.831351  1
+  Al  Al6  1  0.000116  0.000000  0.666253  1
+  Al  Al7  1  0.500116  0.500001  0.833747  1
+  P  P8  1  0.999997  0.000000  0.996971  1
+  P  P9  1  0.499907  0.500001  0.165263  1
+  P  P10  1  0.999907  0.000000  0.334737  1
+  P  P11  1  0.499997  0.500001  0.503029  1
+  Rh  Rh12  1  0.499984  0.245562  0.008399  1
+  Rh  Rh13  1  0.499984  0.754438  0.008399  1
+  Rh  Rh14  1  0.999915  0.248223  0.168768  1
+  Rh  Rh15  1  0.999915  0.751776  0.168768  1
+  Rh  Rh16  1  0.499914  0.251776  0.331232  1
+  Rh  Rh17  1  0.499914  0.748224  0.331232  1
+  Rh  Rh18  1  0.999984  0.254439  0.491601  1
+  Rh  Rh19  1  0.999984  0.745562  0.491601  1
+  Rh  Rh20  1  0.500091  0.254813  0.659949  1
+  Rh  Rh21  1  0.500091  0.745187  0.659949  1
+  Rh  Rh22  1  0.000091  0.245186  0.840050  1
+  Rh  Rh23  1  0.000091  0.754813  0.840050  1

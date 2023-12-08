@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Tb3Th(InPd2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.83114522
+_cell_length_b   7.83114522
+_cell_length_c   3.75765200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.84361764
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb3Th(InPd2)2
+_chemical_formula_sum   'Tb3 Th1 In2 Pd4'
+_cell_volume   230.41992669
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.825101  0.669759  0.500000  1
+  Tb  Tb1  1  0.169759  0.325101  0.500000  1
+  Tb  Tb2  1  0.675918  0.175918  0.500000  1
+  Th  Th3  1  0.328435  0.828435  0.500000  1
+  In  In4  1  0.995083  0.002110  0.000000  1
+  In  In5  1  0.502110  0.495083  0.000000  1
+  Pd  Pd6  1  0.372312  0.125958  0.000000  1
+  Pd  Pd7  1  0.874511  0.374511  0.000000  1
+  Pd  Pd8  1  0.130812  0.630812  0.000000  1
+  Pd  Pd9  1  0.625958  0.872312  0.000000  1

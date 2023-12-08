@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Be7V2SiAu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.43100300
+_cell_length_b   4.43100398
+_cell_length_c   7.31732400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000018
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Be7V2SiAu2
+_chemical_formula_sum   'Be7 V2 Si1 Au2'
+_cell_volume   124.41911275
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.000000  0.000000  0.000000  1
+  Be  Be1  1  0.829257  0.170743  0.249089  1
+  Be  Be2  1  0.829257  0.658514  0.249089  1
+  Be  Be3  1  0.341486  0.170743  0.249089  1
+  Be  Be4  1  0.170743  0.829257  0.750911  1
+  Be  Be5  1  0.170743  0.341486  0.750911  1
+  Be  Be6  1  0.658514  0.829257  0.750911  1
+  V  V7  1  0.333333  0.666667  0.456476  1
+  V  V8  1  0.666667  0.333333  0.543524  1
+  Si  Si9  1  0.000000  0.000000  0.500000  1
+  Au  Au10  1  0.666667  0.333333  0.914931  1
+  Au  Au11  1  0.333333  0.666667  0.085069  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_TbY15(In3Fe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.38055341
+_cell_length_b   10.38054921
+_cell_length_c   7.06772285
+_cell_angle_alpha   90.08889682
+_cell_angle_beta   89.91110241
+_cell_angle_gamma   119.97263601
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbY15(In3Fe)2
+_chemical_formula_sum   'Tb1 Y15 In6 Fe2'
+_cell_volume   659.73567575
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.463562  0.536438  0.482015  1
+  Y  Y1  1  0.072149  0.536152  0.481172  1
+  Y  Y2  1  0.463848  0.927851  0.481171  1
+  Y  Y3  1  0.536157  0.463843  0.981395  1
+  Y  Y4  1  0.927621  0.463837  0.981210  1
+  Y  Y5  1  0.536163  0.072379  0.981209  1
+  Y  Y6  1  0.821643  0.178357  0.277015  1
+  Y  Y7  1  0.356722  0.178414  0.276999  1
+  Y  Y8  1  0.821586  0.643278  0.276999  1
+  Y  Y9  1  0.178411  0.821589  0.777053  1
+  Y  Y10  1  0.643488  0.821626  0.776927  1
+  Y  Y11  1  0.178374  0.356512  0.776927  1
+  Y  Y12  1  0.333257  0.666743  0.093967  1
+  Y  Y13  1  0.666687  0.333313  0.593846  1
+  Y  Y14  1  0.000044  0.999956  0.495544  1
+  Y  Y15  1  0.000017  0.999983  0.995454  1
+  In  In16  1  0.162905  0.837095  0.233545  1
+  In  In17  1  0.674308  0.837287  0.233333  1
+  In  In18  1  0.162713  0.325692  0.233333  1
+  In  In19  1  0.837110  0.162890  0.733598  1
+  In  In20  1  0.325814  0.162852  0.733576  1
+  In  In21  1  0.837148  0.674186  0.733576  1
+  Fe  Fe22  1  0.333616  0.666383  0.707105  1
+  Fe  Fe23  1  0.666659  0.333342  0.207585  1

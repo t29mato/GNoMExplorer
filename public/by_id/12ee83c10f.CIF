@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_TbHo11(TcOs)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.28019801
+_cell_length_b   7.40900001
+_cell_length_c   9.06014400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   89.99363761
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbHo11(TcOs)2
+_chemical_formula_sum   'Tb1 Ho11 Tc2 Os2'
+_cell_volume   421.56838108
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.875408  0.539761  0.250000  1
+  Ho  Ho1  1  0.337077  0.675392  0.062382  1
+  Ho  Ho2  1  0.163119  0.175335  0.437559  1
+  Ho  Ho3  1  0.665228  0.324237  0.563074  1
+  Ho  Ho4  1  0.834689  0.824424  0.936963  1
+  Ho  Ho5  1  0.665228  0.324237  0.936926  1
+  Ho  Ho6  1  0.834689  0.824424  0.563037  1
+  Ho  Ho7  1  0.337077  0.675392  0.437618  1
+  Ho  Ho8  1  0.163119  0.175335  0.062441  1
+  Ho  Ho9  1  0.624661  0.039681  0.250000  1
+  Ho  Ho10  1  0.130498  0.459255  0.750000  1
+  Ho  Ho11  1  0.369463  0.959258  0.750000  1
+  Tc  Tc12  1  0.038896  0.884441  0.250000  1
+  Tc  Tc13  1  0.460839  0.384270  0.250000  1
+  Os  Os14  1  0.959539  0.117261  0.750000  1
+  Os  Os15  1  0.540470  0.617294  0.750000  1

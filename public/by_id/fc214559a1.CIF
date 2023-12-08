@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Pa(OF3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47188541
+_cell_length_b   5.59854394
+_cell_length_c   5.35903455
+_cell_angle_alpha   81.21637123
+_cell_angle_beta   100.63470502
+_cell_angle_gamma   101.61904821
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pa(OF3)2
+_chemical_formula_sum   'Pa1 O2 F6'
+_cell_volume   156.90329252
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.000000  0.000000  0.000000  1
+  O  O1  1  0.416631  0.540079  0.523317  1
+  O  O2  1  0.583369  0.459921  0.476683  1
+  F  F3  1  0.680915  0.128741  0.770097  1
+  F  F4  1  0.319085  0.871259  0.229903  1
+  F  F5  1  0.029439  0.802622  0.711085  1
+  F  F6  1  0.970561  0.197378  0.288915  1
+  F  F7  1  0.243034  0.318431  0.860357  1
+  F  F8  1  0.756966  0.681569  0.139643  1

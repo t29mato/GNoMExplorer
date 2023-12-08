@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Sr5(AgAu2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   16.58292118
+_cell_length_b   16.58292151
+_cell_length_c   4.37526000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   164.19511471
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr5(AgAu2)2
+_chemical_formula_sum   'Sr5 Ag2 Au4'
+_cell_volume   327.69734534
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.998598  0.001402  0.000000  1
+  Sr  Sr1  1  0.617803  0.382197  0.000000  1
+  Sr  Sr2  1  0.383079  0.616921  0.000000  1
+  Sr  Sr3  1  0.800376  0.199623  0.500000  1
+  Sr  Sr4  1  0.198006  0.801993  0.500000  1
+  Ag  Ag5  1  0.906577  0.093423  0.500000  1
+  Ag  Ag6  1  0.542320  0.457679  0.500000  1
+  Au  Au7  1  0.719718  0.280282  0.000000  1
+  Au  Au8  1  0.280560  0.719440  0.000000  1
+  Au  Au9  1  0.457856  0.542143  0.500000  1
+  Au  Au10  1  0.095105  0.904895  0.500000  1

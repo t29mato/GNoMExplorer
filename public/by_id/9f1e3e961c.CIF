@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Lu12Co(TcHg)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.19800958
+_cell_length_b   8.19801039
+_cell_length_c   8.19801000
+_cell_angle_alpha   108.68176409
+_cell_angle_beta   108.68176601
+_cell_angle_gamma   111.06193510
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu12Co(TcHg)2
+_chemical_formula_sum   'Lu12 Co1 Tc2 Hg2'
+_cell_volume   423.88839996
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.303084  0.303084  0.613539  1
+  Lu  Lu1  1  0.689543  0.689543  0.386461  1
+  Lu  Lu2  1  0.689543  0.303084  0.000000  1
+  Lu  Lu3  1  0.303084  0.689543  0.000000  1
+  Lu  Lu4  1  0.188260  0.430726  0.242466  1
+  Lu  Lu5  1  0.808682  0.568467  0.759785  1
+  Lu  Lu6  1  0.188260  0.945793  0.757534  1
+  Lu  Lu7  1  0.945793  0.188260  0.757534  1
+  Lu  Lu8  1  0.808682  0.048899  0.240215  1
+  Lu  Lu9  1  0.048899  0.808682  0.240215  1
+  Lu  Lu10  1  0.430726  0.188260  0.242466  1
+  Lu  Lu11  1  0.568467  0.808682  0.759785  1
+  Co  Co12  1  0.643908  0.643908  0.000000  1
+  Tc  Tc13  1  0.387168  0.387168  0.000000  1
+  Tc  Tc14  1  0.000926  0.000926  0.000000  1
+  Hg  Hg15  1  0.997486  0.497486  0.500000  1
+  Hg  Hg16  1  0.497486  0.997486  0.500000  1

@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Al(CoW)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.96392365
+_cell_length_b   8.96392418
+_cell_length_c   8.96392500
+_cell_angle_alpha   30.99055753
+_cell_angle_beta   30.99055061
+_cell_angle_gamma   30.99056106
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al(CoW)6
+_chemical_formula_sum   'Al1 Co6 W6'
+_cell_volume   169.39839745
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.000000  0.000000  0.000000  1
+  Co  Co1  1  0.090792  0.090792  0.584394  1
+  Co  Co2  1  0.415606  0.909208  0.909208  1
+  Co  Co3  1  0.584394  0.090792  0.090792  1
+  Co  Co4  1  0.909208  0.909208  0.415606  1
+  Co  Co5  1  0.909208  0.415606  0.909208  1
+  Co  Co6  1  0.090792  0.584394  0.090792  1
+  W  W7  1  0.832269  0.832269  0.832269  1
+  W  W8  1  0.653345  0.653345  0.653345  1
+  W  W9  1  0.450081  0.450081  0.450081  1
+  W  W10  1  0.549919  0.549919  0.549919  1
+  W  W11  1  0.167731  0.167731  0.167731  1
+  W  W12  1  0.346655  0.346655  0.346655  1

@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Er4Pu(FeB3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.41496195
+_cell_length_b   5.41496150
+_cell_length_c   7.95356700
+_cell_angle_alpha   70.09807755
+_cell_angle_beta   70.09809051
+_cell_angle_gamma   59.99998100
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er4Pu(FeB3)2
+_chemical_formula_sum   'Er4 Pu1 Fe2 B6'
+_cell_volume   185.71137193
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.253381  0.253381  0.239857  1
+  Er  Er1  1  0.746619  0.746619  0.760143  1
+  Er  Er2  1  0.413872  0.413872  0.758384  1
+  Er  Er3  1  0.586128  0.586128  0.241616  1
+  Pu  Pu4  1  0.000000  0.000000  0.000000  1
+  Fe  Fe5  1  0.109471  0.109471  0.671585  1
+  Fe  Fe6  1  0.890529  0.890529  0.328415  1
+  B  B7  1  0.167186  0.832814  0.500000  1
+  B  B8  1  0.832814  0.500000  0.500000  1
+  B  B9  1  0.500000  0.167186  0.500000  1
+  B  B10  1  0.167186  0.500000  0.500000  1
+  B  B11  1  0.500000  0.832814  0.500000  1
+  B  B12  1  0.832814  0.167186  0.500000  1

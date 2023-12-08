@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_Ca(AcPd)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.13863200
+_cell_length_b   8.13863200
+_cell_length_c   16.06797200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca(AcPd)4
+_chemical_formula_sum   'Ca4 Ac16 Pd16'
+_cell_volume   1064.29957715
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.321444  0.321444  0.000000  1
+  Ca  Ca1  1  0.178556  0.821444  0.250000  1
+  Ca  Ca2  1  0.821444  0.178556  0.750000  1
+  Ca  Ca3  1  0.678556  0.678556  0.500000  1
+  Ac  Ac4  1  0.359113  0.996471  0.451387  1
+  Ac  Ac5  1  0.503529  0.859113  0.701387  1
+  Ac  Ac6  1  0.496471  0.140887  0.201387  1
+  Ac  Ac7  1  0.859113  0.503529  0.298613  1
+  Ac  Ac8  1  0.140887  0.496471  0.798613  1
+  Ac  Ac9  1  0.640887  0.003529  0.951387  1
+  Ac  Ac10  1  0.996471  0.359113  0.548613  1
+  Ac  Ac11  1  0.003529  0.640887  0.048613  1
+  Ac  Ac12  1  0.148221  0.990356  0.875069  1
+  Ac  Ac13  1  0.509644  0.648221  0.125069  1
+  Ac  Ac14  1  0.490356  0.351779  0.625069  1
+  Ac  Ac15  1  0.648221  0.509644  0.874931  1
+  Ac  Ac16  1  0.351779  0.490356  0.374931  1
+  Ac  Ac17  1  0.851779  0.009644  0.375069  1
+  Ac  Ac18  1  0.990356  0.148221  0.124931  1
+  Ac  Ac19  1  0.009644  0.851779  0.624931  1
+  Pd  Pd20  1  0.191773  0.153050  0.690795  1
+  Pd  Pd21  1  0.346950  0.691773  0.940795  1
+  Pd  Pd22  1  0.653050  0.308227  0.440795  1
+  Pd  Pd23  1  0.691773  0.346950  0.059205  1
+  Pd  Pd24  1  0.308227  0.653050  0.559205  1
+  Pd  Pd25  1  0.808227  0.846950  0.190795  1
+  Pd  Pd26  1  0.153050  0.191773  0.309205  1
+  Pd  Pd27  1  0.846950  0.808227  0.809205  1
+  Pd  Pd28  1  0.293093  0.949176  0.062894  1
+  Pd  Pd29  1  0.550824  0.793093  0.312894  1
+  Pd  Pd30  1  0.449176  0.206907  0.812894  1
+  Pd  Pd31  1  0.793093  0.550824  0.687106  1
+  Pd  Pd32  1  0.206907  0.449176  0.187106  1
+  Pd  Pd33  1  0.706907  0.050824  0.562894  1
+  Pd  Pd34  1  0.949176  0.293093  0.937106  1
+  Pd  Pd35  1  0.050824  0.706907  0.437106  1

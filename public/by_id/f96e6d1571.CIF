@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Ba5(I4Br)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.92190300
+_cell_length_b   12.98957300
+_cell_length_c   12.98957300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba5(I4Br)2
+_chemical_formula_sum   'Ba10 I16 Br4'
+_cell_volume   1336.65482454
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.750909  0.606146  0.098864  1
+  Ba  Ba1  1  0.249092  0.901137  0.106145  1
+  Ba  Ba2  1  0.867262  0.250000  0.250000  1
+  Ba  Ba3  1  0.249092  0.598864  0.393854  1
+  Ba  Ba4  1  0.750909  0.893854  0.401136  1
+  Ba  Ba5  1  0.249092  0.106145  0.598864  1
+  Ba  Ba6  1  0.750909  0.401136  0.606146  1
+  Ba  Ba7  1  0.132739  0.750000  0.750000  1
+  Ba  Ba8  1  0.750909  0.098864  0.893854  1
+  Ba  Ba9  1  0.249092  0.393854  0.901137  1
+  I  I10  1  0.632259  0.339947  0.034331  1
+  I  I11  1  0.114636  0.161217  0.039214  1
+  I  I12  1  0.632259  0.034331  0.160054  1
+  I  I13  1  0.114636  0.460786  0.161217  1
+  I  I14  1  0.114636  0.039214  0.338782  1
+  I  I15  1  0.632259  0.465669  0.339947  1
+  I  I16  1  0.114636  0.338782  0.460786  1
+  I  I17  1  0.632259  0.160054  0.465669  1
+  I  I18  1  0.367742  0.839947  0.534331  1
+  I  I19  1  0.885363  0.661217  0.539214  1
+  I  I20  1  0.367742  0.534331  0.660053  1
+  I  I21  1  0.885363  0.960785  0.661217  1
+  I  I22  1  0.885363  0.539214  0.838783  1
+  I  I23  1  0.367742  0.965669  0.839947  1
+  I  I24  1  0.885363  0.838783  0.960785  1
+  I  I25  1  0.367742  0.660053  0.965669  1
+  Br  Br26  1  0.000000  0.750000  0.250000  1
+  Br  Br27  1  0.500000  0.750000  0.250000  1
+  Br  Br28  1  0.000000  0.250000  0.750000  1
+  Br  Br29  1  0.500000  0.250000  0.750000  1

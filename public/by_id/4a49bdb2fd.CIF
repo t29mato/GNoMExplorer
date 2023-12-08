@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_K2SnBi2Pb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.68135534
+_cell_length_b   6.73779553
+_cell_length_c   6.68135455
+_cell_angle_alpha   122.98432907
+_cell_angle_beta   116.99798229
+_cell_angle_gamma   89.83139032
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2SnBi2Pb
+_chemical_formula_sum   'K2 Sn1 Bi2 Pb1'
+_cell_volume   212.46663253
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.001452  0.006095  0.004643  1
+  K  K1  1  0.248496  0.751179  0.502683  1
+  Sn  Sn2  1  0.627361  0.372764  0.745403  1
+  Bi  Bi3  1  0.626120  0.375262  0.250802  1
+  Bi  Bi4  1  0.124461  0.375262  0.749141  1
+  Pb  Pb5  1  0.622111  0.869438  0.247328  1

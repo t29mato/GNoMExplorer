@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Hf2TiSiGeMo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.56655900
+_cell_length_b   6.95922100
+_cell_length_c   8.34206600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf2TiSiGeMo
+_chemical_formula_sum   'Hf4 Ti2 Si2 Ge2 Mo2'
+_cell_volume   207.05401800
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.250000  0.556597  0.160301  1
+  Hf  Hf1  1  0.250000  0.056597  0.339699  1
+  Hf  Hf2  1  0.750000  0.456720  0.832050  1
+  Hf  Hf3  1  0.750000  0.956720  0.667950  1
+  Ti  Ti4  1  0.250000  0.619721  0.561382  1
+  Ti  Ti5  1  0.250000  0.119721  0.938618  1
+  Si  Si6  1  0.250000  0.751814  0.858431  1
+  Si  Si7  1  0.250000  0.251814  0.641569  1
+  Ge  Ge8  1  0.750000  0.250155  0.137421  1
+  Ge  Ge9  1  0.750000  0.750155  0.362579  1
+  Mo  Mo10  1  0.750000  0.364993  0.444396  1
+  Mo  Mo11  1  0.750000  0.864993  0.055604  1

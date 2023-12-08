@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Y2Lu2MnTc7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.32300800
+_cell_length_b   5.32300973
+_cell_length_c   8.88762200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001408
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2Lu2MnTc7
+_chemical_formula_sum   'Y2 Lu2 Mn1 Tc7'
+_cell_volume   218.08737473
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.666667  0.333333  0.935069  1
+  Y  Y1  1  0.333333  0.666667  0.064931  1
+  Lu  Lu2  1  0.333333  0.666667  0.436891  1
+  Lu  Lu3  1  0.666667  0.333333  0.563109  1
+  Mn  Mn4  1  0.000000  0.000000  0.500000  1
+  Tc  Tc5  1  0.000000  0.000000  0.000000  1
+  Tc  Tc6  1  0.829433  0.170567  0.255143  1
+  Tc  Tc7  1  0.829433  0.658867  0.255143  1
+  Tc  Tc8  1  0.341133  0.170567  0.255143  1
+  Tc  Tc9  1  0.170567  0.829433  0.744857  1
+  Tc  Tc10  1  0.170567  0.341133  0.744857  1
+  Tc  Tc11  1  0.658867  0.829433  0.744857  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_MnCr3(CuS4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.95753430
+_cell_length_b   6.95753466
+_cell_length_c   6.95753348
+_cell_angle_alpha   60.02166628
+_cell_angle_beta   60.02166809
+_cell_angle_gamma   60.02165441
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnCr3(CuS4)2
+_chemical_formula_sum   'Mn1 Cr3 Cu2 S8'
+_cell_volume   238.26720229
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.500000  0.500000  0.500000  1
+  Cr  Cr1  1  0.000000  0.500000  0.500000  1
+  Cr  Cr2  1  0.500000  0.500000  0.000000  1
+  Cr  Cr3  1  0.500000  0.000000  0.500000  1
+  Cu  Cu4  1  0.125284  0.125284  0.125284  1
+  Cu  Cu5  1  0.874716  0.874716  0.874716  1
+  S  S6  1  0.258205  0.258205  0.258205  1
+  S  S7  1  0.725298  0.259133  0.259133  1
+  S  S8  1  0.259133  0.259133  0.725298  1
+  S  S9  1  0.259133  0.725298  0.259133  1
+  S  S10  1  0.741795  0.741795  0.741795  1
+  S  S11  1  0.274702  0.740867  0.740867  1
+  S  S12  1  0.740867  0.740867  0.274702  1
+  S  S13  1  0.740867  0.274702  0.740867  1

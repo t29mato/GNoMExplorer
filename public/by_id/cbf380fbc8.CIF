@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_TbEr7Ga3Fe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.89650000
+_cell_length_b   9.89650151
+_cell_length_c   6.96020200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000832
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbEr7Ga3Fe
+_chemical_formula_sum   'Tb2 Er14 Ga6 Fe2'
+_cell_volume   590.35842252
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.000000  0.000000  0.269092  1
+  Tb  Tb1  1  0.000000  0.000000  0.769092  1
+  Er  Er2  1  0.174115  0.825885  0.989144  1
+  Er  Er3  1  0.825885  0.174115  0.489144  1
+  Er  Er4  1  0.174115  0.348232  0.989144  1
+  Er  Er5  1  0.651768  0.825885  0.989144  1
+  Er  Er6  1  0.348232  0.174115  0.489144  1
+  Er  Er7  1  0.825885  0.651768  0.489144  1
+  Er  Er8  1  0.333333  0.666667  0.670907  1
+  Er  Er9  1  0.666667  0.333333  0.170907  1
+  Er  Er10  1  0.463023  0.536977  0.293470  1
+  Er  Er11  1  0.536977  0.463023  0.793470  1
+  Er  Er12  1  0.463023  0.926046  0.293470  1
+  Er  Er13  1  0.073954  0.536977  0.293470  1
+  Er  Er14  1  0.926046  0.463023  0.793470  1
+  Er  Er15  1  0.536977  0.073954  0.793470  1
+  Ga  Ga16  1  0.164301  0.835699  0.543648  1
+  Ga  Ga17  1  0.835699  0.164301  0.043648  1
+  Ga  Ga18  1  0.164301  0.328602  0.543648  1
+  Ga  Ga19  1  0.671398  0.835699  0.543648  1
+  Ga  Ga20  1  0.328602  0.164301  0.043648  1
+  Ga  Ga21  1  0.835699  0.671398  0.043648  1
+  Fe  Fe22  1  0.333333  0.666667  0.054273  1
+  Fe  Fe23  1  0.666667  0.333333  0.554273  1

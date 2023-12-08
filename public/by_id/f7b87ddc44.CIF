@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Hf6Sc3TaRe3P
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.69826000
+_cell_length_b   8.69825989
+_cell_length_c   8.53917200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000042
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf6Sc3TaRe3P
+_chemical_formula_sum   'Hf12 Sc6 Ta2 Re6 P2'
+_cell_volume   559.51425504
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.197342  0.802658  0.452852  1
+  Hf  Hf1  1  0.197342  0.394684  0.452852  1
+  Hf  Hf2  1  0.605316  0.802658  0.452852  1
+  Hf  Hf3  1  0.802658  0.197342  0.547148  1
+  Hf  Hf4  1  0.802658  0.605316  0.547148  1
+  Hf  Hf5  1  0.394684  0.197342  0.547148  1
+  Hf  Hf6  1  0.802658  0.197342  0.952852  1
+  Hf  Hf7  1  0.802658  0.605316  0.952852  1
+  Hf  Hf8  1  0.394684  0.197342  0.952852  1
+  Hf  Hf9  1  0.197342  0.802658  0.047148  1
+  Hf  Hf10  1  0.197342  0.394684  0.047148  1
+  Hf  Hf11  1  0.605316  0.802658  0.047148  1
+  Sc  Sc12  1  0.540454  0.459546  0.250000  1
+  Sc  Sc13  1  0.540454  0.080909  0.250000  1
+  Sc  Sc14  1  0.919091  0.459546  0.250000  1
+  Sc  Sc15  1  0.459546  0.540454  0.750000  1
+  Sc  Sc16  1  0.459546  0.919091  0.750000  1
+  Sc  Sc17  1  0.080909  0.540454  0.750000  1
+  Ta  Ta18  1  0.000000  0.000000  0.500000  1
+  Ta  Ta19  1  0.000000  0.000000  0.000000  1
+  Re  Re20  1  0.887532  0.112468  0.250000  1
+  Re  Re21  1  0.887532  0.775065  0.250000  1
+  Re  Re22  1  0.224935  0.112468  0.250000  1
+  Re  Re23  1  0.112468  0.887532  0.750000  1
+  Re  Re24  1  0.112468  0.224935  0.750000  1
+  Re  Re25  1  0.775065  0.887532  0.750000  1
+  P  P26  1  0.333333  0.666667  0.250000  1
+  P  P27  1  0.666667  0.333333  0.750000  1

@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Ce4Lu(SiB4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.31051400
+_cell_length_b   7.31051400
+_cell_length_c   8.21764500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce4Lu(SiB4)2
+_chemical_formula_sum   'Ce8 Lu2 Si4 B16'
+_cell_volume   439.18065513
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.681938  0.181938  0.227413  1
+  Ce  Ce1  1  0.318062  0.818062  0.772587  1
+  Ce  Ce2  1  0.318062  0.818062  0.227413  1
+  Ce  Ce3  1  0.818062  0.681938  0.227413  1
+  Ce  Ce4  1  0.818062  0.681938  0.772587  1
+  Ce  Ce5  1  0.681938  0.181938  0.772587  1
+  Ce  Ce6  1  0.181938  0.318062  0.772587  1
+  Ce  Ce7  1  0.181938  0.318062  0.227413  1
+  Lu  Lu8  1  0.000000  0.000000  0.500000  1
+  Lu  Lu9  1  0.500000  0.500000  0.500000  1
+  Si  Si10  1  0.116594  0.616594  0.500000  1
+  Si  Si11  1  0.883406  0.383406  0.500000  1
+  Si  Si12  1  0.383406  0.116594  0.500000  1
+  Si  Si13  1  0.616594  0.883406  0.500000  1
+  B  B14  1  0.172457  0.039377  0.000000  1
+  B  B15  1  0.827543  0.960623  0.000000  1
+  B  B16  1  0.960623  0.172457  0.000000  1
+  B  B17  1  0.327543  0.539377  0.000000  1
+  B  B18  1  0.039377  0.827543  0.000000  1
+  B  B19  1  0.672457  0.460623  0.000000  1
+  B  B20  1  0.539377  0.672457  0.000000  1
+  B  B21  1  0.460623  0.327543  0.000000  1
+  B  B22  1  0.091674  0.591674  0.000000  1
+  B  B23  1  0.908326  0.408326  0.000000  1
+  B  B24  1  0.408326  0.091674  0.000000  1
+  B  B25  1  0.591674  0.908326  0.000000  1
+  B  B26  1  0.000000  0.000000  0.160761  1
+  B  B27  1  0.000000  0.000000  0.839239  1
+  B  B28  1  0.500000  0.500000  0.839239  1
+  B  B29  1  0.500000  0.500000  0.160761  1

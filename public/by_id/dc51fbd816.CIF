@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_CaCe3Y12(CdIr)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.66210917
+_cell_length_b   9.66210892
+_cell_length_c   9.66210908
+_cell_angle_alpha   60.53988700
+_cell_angle_beta   60.53988691
+_cell_angle_gamma   60.53988503
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaCe3Y12(CdIr)4
+_chemical_formula_sum   'Ca1 Ce3 Y12 Cd4 Ir4'
+_cell_volume   645.60422456
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.352707  0.352707  0.352707  1
+  Ce  Ce1  1  0.349508  0.349508  0.956262  1
+  Ce  Ce2  1  0.349508  0.956262  0.349508  1
+  Ce  Ce3  1  0.956262  0.349508  0.349508  1
+  Y  Y4  1  0.810411  0.189424  0.189424  1
+  Y  Y5  1  0.186553  0.811222  0.811222  1
+  Y  Y6  1  0.189424  0.810411  0.189424  1
+  Y  Y7  1  0.811222  0.186553  0.811222  1
+  Y  Y8  1  0.189424  0.189424  0.810411  1
+  Y  Y9  1  0.811222  0.811222  0.186553  1
+  Y  Y10  1  0.936755  0.562012  0.562012  1
+  Y  Y11  1  0.562066  0.937777  0.937777  1
+  Y  Y12  1  0.562012  0.936755  0.562012  1
+  Y  Y13  1  0.937777  0.562066  0.937777  1
+  Y  Y14  1  0.562012  0.562012  0.936755  1
+  Y  Y15  1  0.937777  0.937777  0.562066  1
+  Cd  Cd16  1  0.581362  0.581362  0.581362  1
+  Cd  Cd17  1  0.582658  0.582658  0.255970  1
+  Cd  Cd18  1  0.582658  0.255970  0.582658  1
+  Cd  Cd19  1  0.255970  0.582658  0.582658  1
+  Ir  Ir20  1  0.143206  0.143206  0.143206  1
+  Ir  Ir21  1  0.138017  0.138017  0.573474  1
+  Ir  Ir22  1  0.138017  0.573474  0.138017  1
+  Ir  Ir23  1  0.573474  0.138017  0.138017  1

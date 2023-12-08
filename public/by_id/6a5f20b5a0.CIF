@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Li6PuO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.45128632
+_cell_length_b   5.40385329
+_cell_length_c   5.43169422
+_cell_angle_alpha   100.13875511
+_cell_angle_beta   101.01849153
+_cell_angle_gamma   101.31891844
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li6PuO6
+_chemical_formula_sum   'Li6 Pu1 O6'
+_cell_volume   150.16384114
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.351717  0.648096  0.000635  1
+  Li  Li1  1  0.648283  0.351904  0.999365  1
+  Li  Li2  1  0.002238  0.646370  0.354566  1
+  Li  Li3  1  0.353114  0.998603  0.645755  1
+  Li  Li4  1  0.997762  0.353630  0.645434  1
+  Li  Li5  1  0.646886  0.001397  0.354245  1
+  Pu  Pu6  1  0.000000  0.000000  0.000000  1
+  O  O7  1  0.729188  0.102054  0.730471  1
+  O  O8  1  0.270812  0.897946  0.269529  1
+  O  O9  1  0.267900  0.267879  0.901475  1
+  O  O10  1  0.901141  0.269764  0.268971  1
+  O  O11  1  0.732100  0.732121  0.098525  1
+  O  O12  1  0.098859  0.730236  0.731029  1

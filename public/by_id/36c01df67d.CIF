@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_HoNp2(GaPt)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.17185989
+_cell_length_b   7.17185879
+_cell_length_c   4.03147900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   121.03076825
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoNp2(GaPt)3
+_chemical_formula_sum   'Ho1 Np2 Ga3 Pt3'
+_cell_volume   177.68603885
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.586166  0.586166  0.500000  1
+  Np  Np1  1  0.420334  0.997233  0.500000  1
+  Np  Np2  1  0.997233  0.420334  0.500000  1
+  Ga  Ga3  1  0.755924  0.997435  0.000000  1
+  Ga  Ga4  1  0.997435  0.755924  0.000000  1
+  Ga  Ga5  1  0.246885  0.246885  0.000000  1
+  Pt  Pt6  1  0.328037  0.665896  0.000000  1
+  Pt  Pt7  1  0.665896  0.328037  0.000000  1
+  Pt  Pt8  1  0.002090  0.002090  0.500000  1

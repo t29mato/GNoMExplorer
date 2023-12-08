@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Hf2MnNiAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.77773100
+_cell_length_b   6.51078801
+_cell_length_c   7.52043865
+_cell_angle_alpha   90.83260723
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf2MnNiAs2
+_chemical_formula_sum   'Hf4 Mn2 Ni2 As4'
+_cell_volume   184.95322182
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.250000  0.468899  0.177062  1
+  Hf  Hf1  1  0.750000  0.531101  0.822938  1
+  Hf  Hf2  1  0.750000  0.020154  0.678136  1
+  Hf  Hf3  1  0.250000  0.979846  0.321864  1
+  Mn  Mn4  1  0.250000  0.863066  0.937290  1
+  Mn  Mn5  1  0.750000  0.136934  0.062710  1
+  Ni  Ni6  1  0.750000  0.649668  0.432300  1
+  Ni  Ni7  1  0.250000  0.350332  0.567700  1
+  As  As8  1  0.250000  0.726731  0.619285  1
+  As  As9  1  0.750000  0.273269  0.380715  1
+  As  As10  1  0.750000  0.766957  0.125674  1
+  As  As11  1  0.250000  0.233043  0.874326  1

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_LiCrTc5P4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.06294400
+_cell_length_b   7.50100614
+_cell_length_c   7.49061294
+_cell_angle_alpha   59.94874667
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCrTc5P4
+_chemical_formula_sum   'Li1 Cr1 Tc5 P4'
+_cell_volume   148.96424404
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.000000  0.000878  0.998225  1
+  Cr  Cr1  1  0.000000  0.541916  0.916231  1
+  Tc  Tc2  1  0.500001  0.199563  0.191114  1
+  Tc  Tc3  1  0.500001  0.609279  0.191157  1
+  Tc  Tc4  1  0.000000  0.542957  0.545528  1
+  Tc  Tc5  1  0.000000  0.911472  0.545553  1
+  Tc  Tc6  1  0.500001  0.193579  0.612882  1
+  P  P7  1  0.000000  0.333280  0.333423  1
+  P  P8  1  0.500001  0.829826  0.340394  1
+  P  P9  1  0.500001  0.346125  0.829431  1
+  P  P10  1  0.500001  0.824480  0.829416  1

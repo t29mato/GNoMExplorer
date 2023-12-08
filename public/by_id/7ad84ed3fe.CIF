@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_HgI14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.24247406
+_cell_length_b   10.24241296
+_cell_length_c   10.24178864
+_cell_angle_alpha   104.11699714
+_cell_angle_beta   104.03407051
+_cell_angle_gamma   104.06765123
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HgI14
+_chemical_formula_sum   'Hg1 I14'
+_cell_volume   957.32178614
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.500000  0.500000  0.500000  1
+  I  I1  1  0.727444  0.272489  0.000007  1
+  I  I2  1  0.272556  0.727511  0.999993  1
+  I  I3  1  0.700254  0.700228  0.234406  1
+  I  I4  1  0.727469  0.000005  0.272507  1
+  I  I5  1  0.000004  0.727504  0.272534  1
+  I  I6  1  0.294439  0.294577  0.294413  1
+  I  I7  1  0.765573  0.299808  0.299813  1
+  I  I8  1  0.299744  0.765614  0.299764  1
+  I  I9  1  0.700256  0.234385  0.700236  1
+  I  I10  1  0.234426  0.700192  0.700187  1
+  I  I11  1  0.705561  0.705423  0.705587  1
+  I  I12  1  0.272531  0.999995  0.727493  1
+  I  I13  1  0.999996  0.272496  0.727466  1
+  I  I14  1  0.299746  0.299772  0.765594  1

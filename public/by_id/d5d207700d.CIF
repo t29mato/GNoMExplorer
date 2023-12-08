@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Sr2NiSb4Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.40610232
+_cell_length_b   9.40610252
+_cell_length_c   4.98417000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   151.19400349
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2NiSb4Pt
+_chemical_formula_sum   'Sr2 Ni1 Sb4 Pt1'
+_cell_volume   212.48092938
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.394836  0.605164  0.750000  1
+  Sr  Sr1  1  0.607789  0.392211  0.250000  1
+  Ni  Ni2  1  0.814006  0.185994  0.250000  1
+  Sb  Sb3  1  0.037927  0.962073  0.750000  1
+  Sb  Sb4  1  0.953163  0.046837  0.250000  1
+  Sb  Sb5  1  0.250880  0.749120  0.250000  1
+  Sb  Sb6  1  0.757446  0.242554  0.750000  1
+  Pt  Pt7  1  0.183956  0.816044  0.750000  1

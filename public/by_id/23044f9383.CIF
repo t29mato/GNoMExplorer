@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Co2MoP2W
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.75569600
+_cell_length_b   5.81621100
+_cell_length_c   6.74793600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co2MoP2W
+_chemical_formula_sum   'Co4 Mo2 P4 W2'
+_cell_volume   147.40137677
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.750000  0.640526  0.429989  1
+  Co  Co1  1  0.250000  0.859662  0.933514  1
+  Co  Co2  1  0.750000  0.140526  0.070011  1
+  Co  Co3  1  0.250000  0.359662  0.566486  1
+  Mo  Mo4  1  0.750000  0.032189  0.668861  1
+  Mo  Mo5  1  0.750000  0.532189  0.831139  1
+  P  P6  1  0.250000  0.732802  0.621131  1
+  P  P7  1  0.250000  0.232802  0.878869  1
+  P  P8  1  0.750000  0.267255  0.381055  1
+  P  P9  1  0.750000  0.767255  0.118945  1
+  W  W10  1  0.250000  0.467566  0.169159  1
+  W  W11  1  0.250000  0.967566  0.330841  1

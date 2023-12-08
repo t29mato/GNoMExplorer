@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_YbCe2(SnIr)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.49166599
+_cell_length_b   7.49166575
+_cell_length_c   4.09409800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   121.14805474
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbCe2(SnIr)3
+_chemical_formula_sum   'Yb1 Ce2 Sn3 Ir3'
+_cell_volume   196.65470687
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.408608  0.408608  0.000000  1
+  Ce  Ce1  1  0.586357  0.999919  0.000000  1
+  Ce  Ce2  1  0.999919  0.586357  0.000000  1
+  Sn  Sn3  1  0.012243  0.254589  0.500000  1
+  Sn  Sn4  1  0.734466  0.734466  0.500000  1
+  Sn  Sn5  1  0.254589  0.012243  0.500000  1
+  Ir  Ir6  1  0.988435  0.988435  0.000000  1
+  Ir  Ir7  1  0.684944  0.330438  0.500000  1
+  Ir  Ir8  1  0.330438  0.684944  0.500000  1

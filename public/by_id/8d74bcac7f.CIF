@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Zr4Ti2Si4MoIr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.65137100
+_cell_length_b   6.88052161
+_cell_length_c   8.17317079
+_cell_angle_alpha   89.45483501
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr4Ti2Si4MoIr
+_chemical_formula_sum   'Zr4 Ti2 Si4 Mo1 Ir1'
+_cell_volume   205.32802995
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.250000  0.034461  0.332379  1
+  Zr  Zr1  1  0.250000  0.541283  0.167188  1
+  Zr  Zr2  1  0.750000  0.965553  0.666251  1
+  Zr  Zr3  1  0.750000  0.464167  0.825992  1
+  Ti  Ti4  1  0.250000  0.131744  0.941897  1
+  Ti  Ti5  1  0.250000  0.631070  0.561181  1
+  Si  Si6  1  0.250000  0.260164  0.631335  1
+  Si  Si7  1  0.250000  0.759340  0.863364  1
+  Si  Si8  1  0.750000  0.734035  0.361797  1
+  Si  Si9  1  0.750000  0.243120  0.144058  1
+  Mo  Mo10  1  0.750000  0.869635  0.061718  1
+  Ir  Ir11  1  0.750000  0.365428  0.442841  1

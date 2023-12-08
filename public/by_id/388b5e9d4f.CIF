@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_HoEr15(Ga3Fe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.89376900
+_cell_length_b   9.89376850
+_cell_length_c   6.88428300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999834
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoEr15(Ga3Fe)2
+_chemical_formula_sum   'Ho1 Er15 Ga6 Fe2'
+_cell_volume   583.59674955
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.000000  0.000000  0.730487  1
+  Er  Er1  1  0.173284  0.826716  0.510062  1
+  Er  Er2  1  0.653431  0.826716  0.510062  1
+  Er  Er3  1  0.173284  0.346569  0.510062  1
+  Er  Er4  1  0.826764  0.173236  0.010281  1
+  Er  Er5  1  0.346473  0.173236  0.010281  1
+  Er  Er6  1  0.826764  0.653527  0.010281  1
+  Er  Er7  1  0.333333  0.666667  0.829850  1
+  Er  Er8  1  0.666667  0.333333  0.329744  1
+  Er  Er9  1  0.463439  0.536561  0.207149  1
+  Er  Er10  1  0.073122  0.536561  0.207149  1
+  Er  Er11  1  0.463439  0.926878  0.207149  1
+  Er  Er12  1  0.536534  0.463466  0.707115  1
+  Er  Er13  1  0.926933  0.463466  0.707115  1
+  Er  Er14  1  0.536534  0.073067  0.707115  1
+  Er  Er15  1  0.000000  0.000000  0.230627  1
+  Ga  Ga16  1  0.163712  0.836288  0.959832  1
+  Ga  Ga17  1  0.672575  0.836288  0.959832  1
+  Ga  Ga18  1  0.163712  0.327425  0.959832  1
+  Ga  Ga19  1  0.836292  0.163708  0.459658  1
+  Ga  Ga20  1  0.327418  0.163708  0.459658  1
+  Ga  Ga21  1  0.836292  0.672582  0.459658  1
+  Fe  Fe22  1  0.333333  0.666667  0.445541  1
+  Fe  Fe23  1  0.666667  0.333333  0.945500  1

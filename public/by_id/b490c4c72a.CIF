@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_NaYb(Si7Ir3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.01110584
+_cell_length_b   8.01110544
+_cell_length_c   8.01110739
+_cell_angle_alpha   56.85648942
+_cell_angle_beta   56.85648204
+_cell_angle_gamma   56.85648596
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaYb(Si7Ir3)2
+_chemical_formula_sum   'Na1 Yb1 Si14 Ir6'
+_cell_volume   337.17918630
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.000000  0.000000  0.000000  1
+  Yb  Yb1  1  0.500000  0.500000  0.500000  1
+  Si  Si2  1  0.749694  0.749694  0.749694  1
+  Si  Si3  1  0.250306  0.250306  0.250306  1
+  Si  Si4  1  0.850381  0.065245  0.674470  1
+  Si  Si5  1  0.674470  0.850381  0.065245  1
+  Si  Si6  1  0.065245  0.674470  0.850381  1
+  Si  Si7  1  0.650366  0.828430  0.432891  1
+  Si  Si8  1  0.432891  0.650366  0.828430  1
+  Si  Si9  1  0.828430  0.432891  0.650366  1
+  Si  Si10  1  0.171570  0.567109  0.349634  1
+  Si  Si11  1  0.567109  0.349634  0.171570  1
+  Si  Si12  1  0.349634  0.171570  0.567109  1
+  Si  Si13  1  0.934755  0.325530  0.149619  1
+  Si  Si14  1  0.325530  0.149619  0.934755  1
+  Si  Si15  1  0.149619  0.934755  0.325530  1
+  Ir  Ir16  1  0.072321  0.430419  0.748413  1
+  Ir  Ir17  1  0.251587  0.927679  0.569581  1
+  Ir  Ir18  1  0.569581  0.251587  0.927679  1
+  Ir  Ir19  1  0.927679  0.569581  0.251587  1
+  Ir  Ir20  1  0.430419  0.748413  0.072321  1
+  Ir  Ir21  1  0.748413  0.072321  0.430419  1

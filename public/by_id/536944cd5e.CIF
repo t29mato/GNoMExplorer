@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ta12Al7Ga(FeC)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.19644366
+_cell_length_b   8.19644363
+_cell_length_c   8.19699707
+_cell_angle_alpha   60.00977261
+_cell_angle_beta   60.00977332
+_cell_angle_gamma   60.00805962
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta12Al7Ga(FeC)4
+_chemical_formula_sum   'Ta12 Al7 Ga1 Fe4 C4'
+_cell_volume   389.47652566
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.556922  0.942937  0.556791  1
+  Ta  Ta1  1  0.306918  0.693035  0.693026  1
+  Ta  Ta2  1  0.693837  0.306466  0.306394  1
+  Ta  Ta3  1  0.306466  0.693837  0.306394  1
+  Ta  Ta4  1  0.693057  0.693057  0.306927  1
+  Ta  Ta5  1  0.306414  0.306414  0.693852  1
+  Ta  Ta6  1  0.556807  0.556807  0.942996  1
+  Ta  Ta7  1  0.942937  0.556922  0.556791  1
+  Ta  Ta8  1  0.556934  0.943477  0.943500  1
+  Ta  Ta9  1  0.943439  0.943439  0.556975  1
+  Ta  Ta10  1  0.693035  0.306918  0.693026  1
+  Ta  Ta11  1  0.943477  0.556934  0.943500  1
+  Al  Al12  1  0.918170  0.918170  0.918184  1
+  Al  Al13  1  0.004492  0.331712  0.331722  1
+  Al  Al14  1  0.331712  0.004492  0.331722  1
+  Al  Al15  1  0.331703  0.331703  0.004512  1
+  Al  Al16  1  0.918106  0.245511  0.918099  1
+  Al  Al17  1  0.918115  0.918115  0.245457  1
+  Al  Al18  1  0.245511  0.918106  0.918099  1
+  Ga  Ga19  1  0.333123  0.333123  0.333127  1
+  Fe  Fe20  1  0.125127  0.125127  0.125075  1
+  Fe  Fe21  1  0.625685  0.124176  0.124178  1
+  Fe  Fe22  1  0.124176  0.625685  0.124178  1
+  Fe  Fe23  1  0.124176  0.124176  0.625710  1
+  C  C24  1  0.625132  0.625132  0.625183  1
+  C  C25  1  0.125062  0.624759  0.624733  1
+  C  C26  1  0.624759  0.125062  0.624733  1
+  C  C27  1  0.624707  0.624707  0.125114  1

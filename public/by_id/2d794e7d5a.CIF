@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ca3(CuSi)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.57234800
+_cell_length_b   8.06222500
+_cell_length_c   13.10060300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca3(CuSi)2
+_chemical_formula_sum   'Ca12 Cu8 Si8'
+_cell_volume   588.55144603
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.126709  0.618051  0.105923  1
+  Ca  Ca1  1  0.126709  0.881949  0.894077  1
+  Ca  Ca2  1  0.873291  0.118051  0.394077  1
+  Ca  Ca3  1  0.873291  0.381949  0.605923  1
+  Ca  Ca4  1  0.873291  0.381949  0.894077  1
+  Ca  Ca5  1  0.873291  0.118051  0.105923  1
+  Ca  Ca6  1  0.126709  0.881949  0.605923  1
+  Ca  Ca7  1  0.126709  0.618051  0.394077  1
+  Ca  Ca8  1  0.345779  0.258623  0.250000  1
+  Ca  Ca9  1  0.345779  0.241377  0.750000  1
+  Ca  Ca10  1  0.654221  0.758623  0.250000  1
+  Ca  Ca11  1  0.654221  0.741377  0.750000  1
+  Cu  Cu12  1  0.616568  0.471208  0.086703  1
+  Cu  Cu13  1  0.616568  0.028792  0.913297  1
+  Cu  Cu14  1  0.383432  0.971208  0.413297  1
+  Cu  Cu15  1  0.383432  0.528792  0.586703  1
+  Cu  Cu16  1  0.383432  0.528792  0.913297  1
+  Cu  Cu17  1  0.383432  0.971208  0.086703  1
+  Cu  Cu18  1  0.616568  0.028792  0.586703  1
+  Cu  Cu19  1  0.616568  0.471208  0.413297  1
+  Si  Si20  1  0.377169  0.250000  0.000000  1
+  Si  Si21  1  0.622831  0.750000  0.500000  1
+  Si  Si22  1  0.622831  0.750000  0.000000  1
+  Si  Si23  1  0.377169  0.250000  0.500000  1
+  Si  Si24  1  0.819833  0.411781  0.250000  1
+  Si  Si25  1  0.819833  0.088219  0.750000  1
+  Si  Si26  1  0.180167  0.911781  0.250000  1
+  Si  Si27  1  0.180167  0.588219  0.750000  1

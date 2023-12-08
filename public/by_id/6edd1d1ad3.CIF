@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ti9Ga4Si2Tc
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.92985416
+_cell_length_b   7.54552659
+_cell_length_c   7.54552635
+_cell_angle_alpha   83.87397420
+_cell_angle_beta   70.93298153
+_cell_angle_gamma   70.93297638
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti9Ga4Si2Tc
+_chemical_formula_sum   'Ti9 Ga4 Si2 Tc1'
+_cell_volume   250.72797131
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.750000  0.500000  0.500000  1
+  Ti  Ti1  1  0.076583  0.139980  0.707215  1
+  Ti  Ti2  1  0.923777  0.860020  0.292785  1
+  Ti  Ti3  1  0.783438  0.292785  0.139980  1
+  Ti  Ti4  1  0.423417  0.292785  0.860020  1
+  Ti  Ti5  1  0.216202  0.707215  0.860020  1
+  Ti  Ti6  1  0.576223  0.707215  0.139980  1
+  Ti  Ti7  1  0.716562  0.860020  0.707215  1
+  Ti  Ti8  1  0.283798  0.139980  0.292785  1
+  Ga  Ga9  1  0.169434  0.500000  0.172534  1
+  Ga  Ga10  1  0.841969  0.500000  0.827466  1
+  Ga  Ga11  1  0.330566  0.827466  0.500000  1
+  Ga  Ga12  1  0.658031  0.172534  0.500000  1
+  Si  Si13  1  0.250000  0.000000  0.000000  1
+  Si  Si14  1  0.750000  0.000000  0.000000  1
+  Tc  Tc15  1  0.250000  0.500000  0.500000  1

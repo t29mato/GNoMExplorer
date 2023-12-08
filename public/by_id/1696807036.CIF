@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Sr6LaFe(BO3)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.85286658
+_cell_length_b   7.85286416
+_cell_length_c   7.85286270
+_cell_angle_alpha   105.36671082
+_cell_angle_beta   105.36670011
+_cell_angle_gamma   105.36673342
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr6LaFe(BO3)6
+_chemical_formula_sum   'Sr6 La1 Fe1 B6 O18'
+_cell_volume   419.97756251
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.647381  0.268994  0.162800  1
+  Sr  Sr1  1  0.162801  0.647381  0.268994  1
+  Sr  Sr2  1  0.731005  0.837200  0.352619  1
+  Sr  Sr3  1  0.268995  0.162800  0.647382  1
+  Sr  Sr4  1  0.837201  0.352619  0.731007  1
+  Sr  Sr5  1  0.352619  0.731006  0.837199  1
+  La  La6  1  0.000000  0.000000  0.000000  1
+  Fe  Fe7  1  0.500000  0.500000  0.500000  1
+  B  B8  1  0.301737  0.384584  0.048399  1
+  B  B9  1  0.384584  0.048399  0.301737  1
+  B  B10  1  0.048399  0.301737  0.384584  1
+  B  B11  1  0.951601  0.698263  0.615416  1
+  B  B12  1  0.615416  0.951601  0.698263  1
+  B  B13  1  0.698263  0.615416  0.951601  1
+  O  O14  1  0.713125  0.804447  0.016571  1
+  O  O15  1  0.803416  0.544914  0.064048  1
+  O  O16  1  0.983429  0.286875  0.195552  1
+  O  O17  1  0.455085  0.935952  0.196583  1
+  O  O18  1  0.431016  0.502530  0.230271  1
+  O  O19  1  0.195552  0.983429  0.286875  1
+  O  O20  1  0.502528  0.230271  0.431016  1
+  O  O21  1  0.935952  0.196584  0.455086  1
+  O  O22  1  0.230271  0.431016  0.502529  1
+  O  O23  1  0.769729  0.568984  0.497472  1
+  O  O24  1  0.064048  0.803416  0.544914  1
+  O  O25  1  0.497472  0.769729  0.568984  1
+  O  O26  1  0.804447  0.016570  0.713125  1
+  O  O27  1  0.568984  0.497471  0.769729  1
+  O  O28  1  0.544914  0.064048  0.803416  1
+  O  O29  1  0.016570  0.713124  0.804447  1
+  O  O30  1  0.196583  0.455085  0.935952  1
+  O  O31  1  0.286876  0.195553  0.983429  1

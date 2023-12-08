@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Co18Ni3(B3W)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.40513724
+_cell_length_b   7.40513731
+_cell_length_c   7.40236905
+_cell_angle_alpha   59.92392809
+_cell_angle_beta   59.92391665
+_cell_angle_gamma   60.04185173
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co18Ni3(B3W)2
+_chemical_formula_sum   'Co18 Ni3 B6 W2'
+_cell_volume   286.78634137
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.618016  0.618016  0.146522  1
+  Co  Co1  1  0.617270  0.146478  0.618590  1
+  Co  Co2  1  0.146478  0.617270  0.618590  1
+  Co  Co3  1  0.618083  0.618083  0.617696  1
+  Co  Co4  1  0.382140  0.382140  0.852837  1
+  Co  Co5  1  0.382302  0.853657  0.381627  1
+  Co  Co6  1  0.853657  0.382302  0.381627  1
+  Co  Co7  1  0.382250  0.382250  0.382480  1
+  Co  Co8  1  0.999170  0.999170  0.340424  1
+  Co  Co9  1  0.660437  0.000515  0.340459  1
+  Co  Co10  1  0.000515  0.660437  0.340459  1
+  Co  Co11  1  0.659914  0.340854  0.000585  1
+  Co  Co12  1  0.999644  0.336493  0.999770  1
+  Co  Co13  1  0.000199  0.339580  0.659778  1
+  Co  Co14  1  0.340854  0.659914  0.000585  1
+  Co  Co15  1  0.339580  0.000199  0.659778  1
+  Co  Co16  1  0.336493  0.999644  0.999770  1
+  Co  Co17  1  0.001841  0.001841  0.656453  1
+  Ni  Ni18  1  0.000236  0.000236  0.999773  1
+  Ni  Ni19  1  0.001353  0.659439  0.000478  1
+  Ni  Ni20  1  0.659439  0.001353  0.000478  1
+  B  B21  1  0.724873  0.724873  0.276241  1
+  B  B22  1  0.275272  0.725016  0.275655  1
+  B  B23  1  0.725016  0.275272  0.275655  1
+  B  B24  1  0.274349  0.274349  0.725385  1
+  B  B25  1  0.725002  0.276540  0.724116  1
+  B  B26  1  0.276540  0.725002  0.724116  1
+  W  W27  1  0.749442  0.749442  0.749433  1
+  W  W28  1  0.249637  0.249637  0.250647  1

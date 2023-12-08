@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_AlCo20ReB6Mo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.40773934
+_cell_length_b   7.40797400
+_cell_length_c   7.40786600
+_cell_angle_alpha   60.00052546
+_cell_angle_beta   60.00107589
+_cell_angle_gamma   60.00121628
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlCo20ReB6Mo
+_chemical_formula_sum   'Al1 Co20 Re1 B6 Mo1'
+_cell_volume   287.45674869
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.000011  0.000003  0.999979  1
+  Co  Co1  1  0.617553  0.617542  0.147322  1
+  Co  Co2  1  0.617545  0.147331  0.617557  1
+  Co  Co3  1  0.147281  0.617556  0.617573  1
+  Co  Co4  1  0.617557  0.617542  0.617573  1
+  Co  Co5  1  0.381319  0.381316  0.856091  1
+  Co  Co6  1  0.381281  0.856174  0.381293  1
+  Co  Co7  1  0.856085  0.381314  0.381326  1
+  Co  Co8  1  0.381284  0.381288  0.381289  1
+  Co  Co9  1  0.000381  0.000396  0.341533  1
+  Co  Co10  1  0.657702  0.000393  0.341528  1
+  Co  Co11  1  0.000399  0.657702  0.341496  1
+  Co  Co12  1  0.657715  0.341541  0.000362  1
+  Co  Co13  1  0.000368  0.341517  0.000384  1
+  Co  Co14  1  0.000370  0.341500  0.657726  1
+  Co  Co15  1  0.341523  0.657723  0.000372  1
+  Co  Co16  1  0.341529  0.000374  0.657722  1
+  Co  Co17  1  0.341535  0.000369  0.000361  1
+  Co  Co18  1  0.000367  0.000400  0.657711  1
+  Co  Co19  1  0.000384  0.657714  0.000385  1
+  Co  Co20  1  0.657727  0.000387  0.000351  1
+  Re  Re21  1  0.250006  0.249988  0.250057  1
+  B  B22  1  0.724200  0.724087  0.275884  1
+  B  B23  1  0.275868  0.724102  0.275801  1
+  B  B24  1  0.724118  0.275905  0.275861  1
+  B  B25  1  0.275854  0.275833  0.724141  1
+  B  B26  1  0.724145  0.275915  0.724112  1
+  B  B27  1  0.275905  0.724113  0.724199  1
+  Mo  Mo28  1  0.749986  0.749975  0.750015  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Lu3CoSi3Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.54837180
+_cell_length_b   5.54837201
+_cell_length_c   13.49091129
+_cell_angle_alpha   89.39249895
+_cell_angle_beta   90.60750300
+_cell_angle_gamma   136.60682831
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu3CoSi3Rh
+_chemical_formula_sum   'Lu6 Co2 Si6 Rh2'
+_cell_volume   285.29979065
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.640413  0.359587  0.248565  1
+  Lu  Lu1  1  0.359587  0.640413  0.751435  1
+  Lu  Lu2  1  0.920518  0.079482  0.109526  1
+  Lu  Lu3  1  0.079482  0.920518  0.890474  1
+  Lu  Lu4  1  0.081596  0.918404  0.615850  1
+  Lu  Lu5  1  0.918404  0.081596  0.384150  1
+  Co  Co6  1  0.214360  0.785640  0.078710  1
+  Co  Co7  1  0.785640  0.214360  0.921290  1
+  Si  Si8  1  0.335712  0.664288  0.241614  1
+  Si  Si9  1  0.664288  0.335712  0.758386  1
+  Si  Si10  1  0.618037  0.381963  0.039572  1
+  Si  Si11  1  0.381963  0.618037  0.960428  1
+  Si  Si12  1  0.391287  0.608713  0.536906  1
+  Si  Si13  1  0.608713  0.391287  0.463094  1
+  Rh  Rh14  1  0.790679  0.209321  0.592516  1
+  Rh  Rh15  1  0.209321  0.790679  0.407484  1

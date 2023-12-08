@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_TaTi18Si16Ir
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.69662955
+_cell_length_b   6.69662930
+_cell_length_c   12.16821202
+_cell_angle_alpha   89.63831657
+_cell_angle_beta   90.36168449
+_cell_angle_gamma   89.95345708
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaTi18Si16Ir
+_chemical_formula_sum   'Ta1 Ti18 Si16 Ir1'
+_cell_volume   545.65964709
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.828444  0.828444  0.500000  1
+  Ti  Ti1  1  0.996380  0.146820  0.624622  1
+  Ti  Ti2  1  0.353785  0.500760  0.869560  1
+  Ti  Ti3  1  0.648786  0.504425  0.371141  1
+  Ti  Ti4  1  0.500760  0.353785  0.130440  1
+  Ti  Ti5  1  0.504425  0.648786  0.628859  1
+  Ti  Ti6  1  0.004306  0.848308  0.120239  1
+  Ti  Ti7  1  0.146820  0.996380  0.375378  1
+  Ti  Ti8  1  0.848308  0.004306  0.879761  1
+  Ti  Ti9  1  0.000608  0.346523  0.220039  1
+  Ti  Ti10  1  0.154983  0.501266  0.468939  1
+  Ti  Ti11  1  0.839682  0.500460  0.970238  1
+  Ti  Ti12  1  0.501266  0.154983  0.531061  1
+  Ti  Ti13  1  0.500460  0.839682  0.029762  1
+  Ti  Ti14  1  0.998356  0.656122  0.720765  1
+  Ti  Ti15  1  0.346523  0.000608  0.779961  1
+  Ti  Ti16  1  0.656122  0.998356  0.279235  1
+  Ti  Ti17  1  0.327795  0.671533  0.246998  1
+  Ti  Ti18  1  0.671533  0.327795  0.753002  1
+  Si  Si19  1  0.047511  0.299568  0.816537  1
+  Si  Si20  1  0.199972  0.540924  0.061543  1
+  Si  Si21  1  0.800764  0.451607  0.565450  1
+  Si  Si22  1  0.540924  0.199972  0.938457  1
+  Si  Si23  1  0.451607  0.800764  0.434550  1
+  Si  Si24  1  0.957042  0.697199  0.312101  1
+  Si  Si25  1  0.299568  0.047511  0.183463  1
+  Si  Si26  1  0.697199  0.957042  0.687899  1
+  Si  Si27  1  0.294558  0.356690  0.673588  1
+  Si  Si28  1  0.140077  0.792371  0.921675  1
+  Si  Si29  1  0.858273  0.207414  0.423052  1
+  Si  Si30  1  0.792371  0.140077  0.078325  1
+  Si  Si31  1  0.207414  0.858273  0.576948  1
+  Si  Si32  1  0.705462  0.645175  0.173633  1
+  Si  Si33  1  0.356690  0.294558  0.326412  1
+  Si  Si34  1  0.645175  0.705462  0.826367  1
+  Ir  Ir35  1  0.176051  0.176051  0.000000  1

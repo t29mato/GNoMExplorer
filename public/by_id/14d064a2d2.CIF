@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Lu(FeTc2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.70932222
+_cell_length_b   6.70932211
+_cell_length_c   6.70932251
+_cell_angle_alpha   97.24981481
+_cell_angle_beta   97.24982076
+_cell_angle_gamma   138.38364847
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu(FeTc2)4
+_chemical_formula_sum   'Lu1 Fe4 Tc8'
+_cell_volume   187.50047414
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.000000  0.000000  0.000000  1
+  Fe  Fe1  1  0.500000  0.000000  0.000000  1
+  Fe  Fe2  1  0.500000  0.500000  0.500000  1
+  Fe  Fe3  1  0.000000  0.000000  0.500000  1
+  Fe  Fe4  1  0.000000  0.500000  0.000000  1
+  Tc  Tc5  1  0.000000  0.356832  0.356832  1
+  Tc  Tc6  1  0.285755  0.500000  0.785755  1
+  Tc  Tc7  1  0.500000  0.285755  0.785755  1
+  Tc  Tc8  1  0.500000  0.714245  0.214245  1
+  Tc  Tc9  1  0.714245  0.500000  0.214245  1
+  Tc  Tc10  1  0.000000  0.643168  0.643168  1
+  Tc  Tc11  1  0.356832  0.000000  0.356832  1
+  Tc  Tc12  1  0.643168  0.000000  0.643168  1

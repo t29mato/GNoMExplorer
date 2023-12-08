@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LaCd(CuPd)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.31816977
+_cell_length_b   5.56105114
+_cell_length_c   5.31816852
+_cell_angle_alpha   58.47738880
+_cell_angle_beta   58.55607978
+_cell_angle_gamma   58.47737894
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaCd(CuPd)2
+_chemical_formula_sum   'La1 Cd1 Cu2 Pd2'
+_cell_volume   107.40862372
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.749941  0.750059  0.749941  1
+  Cd  Cd1  1  0.990231  0.009769  0.990231  1
+  Cu  Cu2  1  0.877583  0.370560  0.381298  1
+  Cu  Cu3  1  0.381298  0.370560  0.877583  1
+  Pd  Pd4  1  0.375474  0.876588  0.375474  1
+  Pd  Pd5  1  0.375474  0.372464  0.375474  1

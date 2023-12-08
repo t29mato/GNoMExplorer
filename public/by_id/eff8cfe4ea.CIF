@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TbSm3(Tc3Os)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.32727100
+_cell_length_b   5.32727160
+_cell_length_c   9.19474000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999007
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbSm3(Tc3Os)2
+_chemical_formula_sum   'Tb1 Sm3 Tc6 Os2'
+_cell_volume   225.98507493
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.333333  0.666667  0.063811  1
+  Sm  Sm1  1  0.333333  0.666667  0.436473  1
+  Sm  Sm2  1  0.666667  0.333333  0.563188  1
+  Sm  Sm3  1  0.666667  0.333333  0.936905  1
+  Tc  Tc4  1  0.829675  0.170325  0.249165  1
+  Tc  Tc5  1  0.829675  0.659349  0.249165  1
+  Tc  Tc6  1  0.340651  0.170325  0.249165  1
+  Tc  Tc7  1  0.170573  0.829427  0.750686  1
+  Tc  Tc8  1  0.170573  0.341145  0.750686  1
+  Tc  Tc9  1  0.658855  0.829427  0.750686  1
+  Os  Os10  1  0.000000  0.000000  0.499890  1
+  Os  Os11  1  0.000000  0.000000  0.000180  1

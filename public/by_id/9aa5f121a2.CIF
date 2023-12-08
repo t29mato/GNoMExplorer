@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Hf15Sc3Re6(MoP)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.61627420
+_cell_length_b   8.62513630
+_cell_length_c   8.57037300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.03402564
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf15Sc3Re6(MoP)2
+_chemical_formula_sum   'Hf15 Sc3 Re6 Mo2 P2'
+_cell_volume   551.40008294
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.196424  0.804299  0.452715  1
+  Hf  Hf1  1  0.196424  0.392124  0.452715  1
+  Hf  Hf2  1  0.607219  0.803610  0.453528  1
+  Hf  Hf3  1  0.804613  0.195082  0.550911  1
+  Hf  Hf4  1  0.804613  0.609532  0.550911  1
+  Hf  Hf5  1  0.389810  0.194905  0.550028  1
+  Hf  Hf6  1  0.804613  0.195082  0.949089  1
+  Hf  Hf7  1  0.804613  0.609532  0.949089  1
+  Hf  Hf8  1  0.389810  0.194905  0.949972  1
+  Hf  Hf9  1  0.196424  0.804299  0.047285  1
+  Hf  Hf10  1  0.196424  0.392124  0.047285  1
+  Hf  Hf11  1  0.607219  0.803610  0.046472  1
+  Hf  Hf12  1  0.539257  0.459265  0.250000  1
+  Hf  Hf13  1  0.539257  0.079992  0.250000  1
+  Hf  Hf14  1  0.920997  0.460498  0.250000  1
+  Sc  Sc15  1  0.459237  0.540298  0.750000  1
+  Sc  Sc16  1  0.459237  0.918940  0.750000  1
+  Sc  Sc17  1  0.080953  0.540477  0.750000  1
+  Re  Re18  1  0.221099  0.110549  0.250000  1
+  Re  Re19  1  0.109947  0.890399  0.750000  1
+  Re  Re20  1  0.109947  0.219549  0.750000  1
+  Re  Re21  1  0.780387  0.890194  0.750000  1
+  Re  Re22  1  0.000568  0.000283  0.500831  1
+  Re  Re23  1  0.000568  0.000283  0.999169  1
+  Mo  Mo24  1  0.890956  0.109253  0.250000  1
+  Mo  Mo25  1  0.890956  0.781702  0.250000  1
+  P  P26  1  0.332387  0.666194  0.250000  1
+  P  P27  1  0.666047  0.333023  0.750000  1

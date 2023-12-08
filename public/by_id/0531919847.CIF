@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_ErLu4(Sn3Os)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.84513027
+_cell_length_b   9.84513076
+_cell_length_c   9.84513100
+_cell_angle_alpha   60.00000257
+_cell_angle_beta   60.00000092
+_cell_angle_gamma   60.00000420
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErLu4(Sn3Os)6
+_chemical_formula_sum   'Er1 Lu4 Sn18 Os6'
+_cell_volume   674.76023803
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.000000  0.000000  0.000000  1
+  Lu  Lu1  1  0.372891  0.372892  0.881326  1
+  Lu  Lu2  1  0.372892  0.881325  0.372891  1
+  Lu  Lu3  1  0.881325  0.372892  0.372891  1
+  Lu  Lu4  1  0.372892  0.372891  0.372891  1
+  Sn  Sn5  1  0.593970  0.593970  0.218092  1
+  Sn  Sn6  1  0.593970  0.218092  0.593970  1
+  Sn  Sn7  1  0.218092  0.593970  0.593970  1
+  Sn  Sn8  1  0.593970  0.593970  0.593970  1
+  Sn  Sn9  1  0.750000  0.750000  0.750000  1
+  Sn  Sn10  1  0.997771  0.352312  0.652148  1
+  Sn  Sn11  1  0.997771  0.997771  0.652148  1
+  Sn  Sn12  1  0.352312  0.997771  0.652148  1
+  Sn  Sn13  1  0.997771  0.652148  0.352312  1
+  Sn  Sn14  1  0.352312  0.652148  0.997771  1
+  Sn  Sn15  1  0.997771  0.652148  0.997771  1
+  Sn  Sn16  1  0.652148  0.997771  0.997771  1
+  Sn  Sn17  1  0.652148  0.352312  0.997771  1
+  Sn  Sn18  1  0.652148  0.997771  0.352312  1
+  Sn  Sn19  1  0.352312  0.997771  0.997771  1
+  Sn  Sn20  1  0.997771  0.997771  0.352312  1
+  Sn  Sn21  1  0.997771  0.352312  0.997771  1
+  Sn  Sn22  1  0.250000  0.250000  0.250000  1
+  Os  Os23  1  0.256448  0.256448  0.743552  1
+  Os  Os24  1  0.743552  0.256448  0.743552  1
+  Os  Os25  1  0.256448  0.743552  0.743552  1
+  Os  Os26  1  0.743552  0.743552  0.256448  1
+  Os  Os27  1  0.256448  0.743552  0.256448  1
+  Os  Os28  1  0.743552  0.256448  0.256448  1

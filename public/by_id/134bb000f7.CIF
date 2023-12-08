@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_GaNi4Mo6WC2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.97587890
+_cell_length_b   7.91312166
+_cell_length_c   7.97584864
+_cell_angle_alpha   60.25930777
+_cell_angle_beta   60.68097558
+_cell_angle_gamma   60.25947188
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaNi4Mo6WC2
+_chemical_formula_sum   'Ga2 Ni8 Mo12 W2 C4'
+_cell_volume   359.15579117
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.125000  0.125000  0.125000  1
+  Ga  Ga1  1  0.125000  0.625000  0.125000  1
+  Ni  Ni2  1  0.921266  0.912594  0.253562  1
+  Ni  Ni3  1  0.328231  0.337245  0.328239  1
+  Ni  Ni4  1  0.253571  0.912586  0.921273  1
+  Ni  Ni5  1  0.328235  0.006282  0.328241  1
+  Ni  Ni6  1  0.996429  0.337414  0.328727  1
+  Ni  Ni7  1  0.328734  0.337406  0.996438  1
+  Ni  Ni8  1  0.921769  0.912755  0.921761  1
+  Ni  Ni9  1  0.921765  0.243718  0.921759  1
+  Mo  Mo10  1  0.681757  0.311596  0.314914  1
+  Mo  Mo11  1  0.935086  0.938409  0.568244  1
+  Mo  Mo12  1  0.681757  0.691737  0.314914  1
+  Mo  Mo13  1  0.694246  0.305763  0.694236  1
+  Mo  Mo14  1  0.318432  0.681574  0.318421  1
+  Mo  Mo15  1  0.555754  0.944237  0.555764  1
+  Mo  Mo16  1  0.568243  0.938404  0.935086  1
+  Mo  Mo17  1  0.935084  0.558261  0.568245  1
+  Mo  Mo18  1  0.931568  0.568426  0.931579  1
+  Mo  Mo19  1  0.314914  0.311591  0.681756  1
+  Mo  Mo20  1  0.568243  0.558263  0.935086  1
+  Mo  Mo21  1  0.314916  0.691739  0.681755  1
+  W  W22  1  0.625000  0.125000  0.125000  1
+  W  W23  1  0.125000  0.125000  0.625000  1
+  C  C24  1  0.625000  0.625000  0.625000  1
+  C  C25  1  0.625000  0.625000  0.125000  1
+  C  C26  1  0.125000  0.625000  0.625000  1
+  C  C27  1  0.625000  0.125000  0.625000  1

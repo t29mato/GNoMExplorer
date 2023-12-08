@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ti3AlCu2N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.00465785
+_cell_length_b   8.00465817
+_cell_length_c   8.00465800
+_cell_angle_alpha   60.00000070
+_cell_angle_beta   59.99999937
+_cell_angle_gamma   59.99999853
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3AlCu2N
+_chemical_formula_sum   'Ti12 Al4 Cu8 N4'
+_cell_volume   362.67142825
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.932438  0.567562  0.567562  1
+  Ti  Ti1  1  0.682438  0.317562  0.682438  1
+  Ti  Ti2  1  0.932438  0.567562  0.932438  1
+  Ti  Ti3  1  0.567562  0.932438  0.932438  1
+  Ti  Ti4  1  0.317562  0.682438  0.317562  1
+  Ti  Ti5  1  0.567562  0.932438  0.567562  1
+  Ti  Ti6  1  0.682438  0.682438  0.317562  1
+  Ti  Ti7  1  0.932438  0.932438  0.567562  1
+  Ti  Ti8  1  0.317562  0.317562  0.682438  1
+  Ti  Ti9  1  0.682438  0.317562  0.317562  1
+  Ti  Ti10  1  0.567562  0.567562  0.932438  1
+  Ti  Ti11  1  0.317562  0.682438  0.682438  1
+  Al  Al12  1  0.125000  0.625000  0.125000  1
+  Al  Al13  1  0.125000  0.125000  0.625000  1
+  Al  Al14  1  0.625000  0.125000  0.125000  1
+  Al  Al15  1  0.125000  0.125000  0.125000  1
+  Cu  Cu16  1  0.252669  0.915777  0.915777  1
+  Cu  Cu17  1  0.334223  0.334223  0.334223  1
+  Cu  Cu18  1  0.334223  0.334223  0.997331  1
+  Cu  Cu19  1  0.915777  0.252669  0.915777  1
+  Cu  Cu20  1  0.915777  0.915777  0.915777  1
+  Cu  Cu21  1  0.997331  0.334223  0.334223  1
+  Cu  Cu22  1  0.915777  0.915777  0.252669  1
+  Cu  Cu23  1  0.334223  0.997331  0.334223  1
+  N  N24  1  0.625000  0.125000  0.625000  1
+  N  N25  1  0.625000  0.625000  0.125000  1
+  N  N26  1  0.125000  0.625000  0.625000  1
+  N  N27  1  0.625000  0.625000  0.625000  1

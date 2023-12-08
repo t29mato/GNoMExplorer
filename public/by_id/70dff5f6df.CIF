@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Hf2Zr4Al16Ni6Ir
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.56615489
+_cell_length_b   8.55969216
+_cell_length_c   8.55969270
+_cell_angle_alpha   60.05505920
+_cell_angle_beta   59.97502323
+_cell_angle_gamma   59.97502396
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf2Zr4Al16Ni6Ir
+_chemical_formula_sum   'Hf2 Zr4 Al16 Ni6 Ir1'
+_cell_volume   443.81649440
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.688399  0.689068  0.310932  1
+  Hf  Hf1  1  0.311601  0.689068  0.310932  1
+  Zr  Zr2  1  0.690486  0.310330  0.308697  1
+  Zr  Zr3  1  0.307810  0.308524  0.691476  1
+  Zr  Zr4  1  0.692190  0.308524  0.691476  1
+  Zr  Zr5  1  0.309514  0.691303  0.689670  1
+  Al  Al6  1  0.879677  0.878971  0.361677  1
+  Al  Al7  1  0.878809  0.363082  0.879302  1
+  Al  Al8  1  0.362370  0.878734  0.879816  1
+  Al  Al9  1  0.879082  0.878734  0.879816  1
+  Al  Al10  1  0.121191  0.120698  0.636918  1
+  Al  Al11  1  0.120323  0.638323  0.121029  1
+  Al  Al12  1  0.637630  0.120184  0.121266  1
+  Al  Al13  1  0.120918  0.120184  0.121266  1
+  Al  Al14  1  0.665016  0.666053  0.003914  1
+  Al  Al15  1  0.665885  0.002911  0.665318  1
+  Al  Al16  1  0.003361  0.665772  0.665167  1
+  Al  Al17  1  0.665699  0.665772  0.665167  1
+  Al  Al18  1  0.334115  0.334682  0.997089  1
+  Al  Al19  1  0.334984  0.996086  0.333947  1
+  Al  Al20  1  0.996639  0.334833  0.334228  1
+  Al  Al21  1  0.334301  0.334833  0.334228  1
+  Ni  Ni22  1  0.001028  0.999383  0.498905  1
+  Ni  Ni23  1  0.500684  0.999383  0.498905  1
+  Ni  Ni24  1  0.000000  0.501859  0.498141  1
+  Ni  Ni25  1  0.499316  0.501095  0.000617  1
+  Ni  Ni26  1  0.998972  0.501095  0.000617  1
+  Ni  Ni27  1  0.500000  0.999454  0.000546  1
+  Ir  Ir28  1  0.000000  0.001064  0.998936  1

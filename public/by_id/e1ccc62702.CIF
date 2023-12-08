@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Hf6Ta(TiGe2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.86941800
+_cell_length_b   7.86941809
+_cell_length_c   5.37508500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999964
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf6Ta(TiGe2)3
+_chemical_formula_sum   'Hf6 Ta1 Ti3 Ge6'
+_cell_volume   288.27116494
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.749391  0.748743  0.751811  1
+  Hf  Hf1  1  0.251257  0.000648  0.751811  1
+  Hf  Hf2  1  0.999352  0.250609  0.751811  1
+  Hf  Hf3  1  0.251257  0.250609  0.248189  1
+  Hf  Hf4  1  0.749391  0.000648  0.248189  1
+  Hf  Hf5  1  0.999352  0.748743  0.248189  1
+  Ta  Ta6  1  0.666667  0.333333  0.000000  1
+  Ti  Ti7  1  0.333333  0.666667  0.000000  1
+  Ti  Ti8  1  0.333333  0.666667  0.500000  1
+  Ti  Ti9  1  0.666667  0.333333  0.500000  1
+  Ge  Ge10  1  0.394589  0.396075  0.747678  1
+  Ge  Ge11  1  0.603925  0.998514  0.747678  1
+  Ge  Ge12  1  0.001486  0.605411  0.747678  1
+  Ge  Ge13  1  0.603925  0.605411  0.252322  1
+  Ge  Ge14  1  0.394589  0.998514  0.252322  1
+  Ge  Ge15  1  0.001486  0.396075  0.252322  1

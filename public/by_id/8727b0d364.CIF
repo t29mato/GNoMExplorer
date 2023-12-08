@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_TbNd3Al2(SiAg)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.55426700
+_cell_length_b   9.55426714
+_cell_length_c   6.91870900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   153.34088432
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbNd3Al2(SiAg)4
+_chemical_formula_sum   'Tb1 Nd3 Al2 Si4 Ag4'
+_cell_volume   283.37262237
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.348570  0.651430  0.250000  1
+  Nd  Nd1  1  0.651082  0.348918  0.750000  1
+  Nd  Nd2  1  0.547075  0.452925  0.250000  1
+  Nd  Nd3  1  0.451613  0.548387  0.750000  1
+  Al  Al4  1  0.721883  0.278117  0.250000  1
+  Al  Al5  1  0.279822  0.720178  0.750000  1
+  Si  Si6  1  0.056496  0.943504  0.925295  1
+  Si  Si7  1  0.941952  0.058048  0.076342  1
+  Si  Si8  1  0.941952  0.058048  0.423658  1
+  Si  Si9  1  0.056496  0.943504  0.574705  1
+  Ag  Ag10  1  0.187962  0.812038  0.052377  1
+  Ag  Ag11  1  0.187962  0.812038  0.447623  1
+  Ag  Ag12  1  0.813566  0.186434  0.949619  1
+  Ag  Ag13  1  0.813566  0.186434  0.550381  1

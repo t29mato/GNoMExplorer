@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ti2VTc4Mo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.20220800
+_cell_length_b   4.35807400
+_cell_length_c   8.74727800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00082837
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2VTc4Mo
+_chemical_formula_sum   'Ti4 V2 Tc8 Mo2'
+_cell_volume   236.43613768
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.749989  0.249999  0.121966  1
+  Ti  Ti1  1  0.249985  0.750000  0.378077  1
+  Ti  Ti2  1  0.750012  0.249999  0.628262  1
+  Ti  Ti3  1  0.250013  0.750000  0.871688  1
+  V  V4  1  0.250011  0.249999  0.626379  1
+  V  V5  1  0.750018  0.750000  0.873658  1
+  Tc  Tc6  1  0.998620  0.750000  0.123238  1
+  Tc  Tc7  1  0.501374  0.750000  0.123240  1
+  Tc  Tc8  1  0.001523  0.249999  0.376835  1
+  Tc  Tc9  1  0.498446  0.249999  0.376837  1
+  Tc  Tc10  1  0.498357  0.750000  0.626769  1
+  Tc  Tc11  1  0.001666  0.750000  0.626770  1
+  Tc  Tc12  1  0.501403  0.249999  0.873156  1
+  Tc  Tc13  1  0.998605  0.249999  0.873158  1
+  Mo  Mo14  1  0.249988  0.249999  0.123337  1
+  Mo  Mo15  1  0.749990  0.750000  0.376630  1

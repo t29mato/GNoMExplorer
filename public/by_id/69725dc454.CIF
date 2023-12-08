@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_CaTb(Al7Au3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.50430909
+_cell_length_b   8.50430893
+_cell_length_c   8.50430700
+_cell_angle_alpha   56.97319381
+_cell_angle_beta   56.97319449
+_cell_angle_gamma   56.97320318
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaTb(Al7Au3)2
+_chemical_formula_sum   'Ca1 Tb1 Al14 Au6'
+_cell_volume   404.55554495
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.000000  0.000000  0.000000  1
+  Tb  Tb1  1  0.500000  0.500000  0.500000  1
+  Al  Al2  1  0.431046  0.647681  0.831496  1
+  Al  Al3  1  0.831496  0.431046  0.647681  1
+  Al  Al4  1  0.647681  0.831496  0.431046  1
+  Al  Al5  1  0.070489  0.667514  0.851454  1
+  Al  Al6  1  0.851454  0.070489  0.667514  1
+  Al  Al7  1  0.667514  0.851454  0.070489  1
+  Al  Al8  1  0.568954  0.352319  0.168504  1
+  Al  Al9  1  0.168504  0.568954  0.352319  1
+  Al  Al10  1  0.250209  0.250209  0.250209  1
+  Al  Al11  1  0.749791  0.749791  0.749791  1
+  Al  Al12  1  0.332486  0.148546  0.929511  1
+  Al  Al13  1  0.148546  0.929511  0.332486  1
+  Al  Al14  1  0.929511  0.332486  0.148546  1
+  Al  Al15  1  0.352319  0.168504  0.568954  1
+  Au  Au16  1  0.749124  0.073612  0.428233  1
+  Au  Au17  1  0.428233  0.749124  0.073612  1
+  Au  Au18  1  0.073612  0.428233  0.749124  1
+  Au  Au19  1  0.250876  0.926388  0.571767  1
+  Au  Au20  1  0.571767  0.250876  0.926388  1
+  Au  Au21  1  0.926388  0.571767  0.250876  1

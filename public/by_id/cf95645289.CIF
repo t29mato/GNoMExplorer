@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Li8Tb3Dy5Sn5Bi3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.49145300
+_cell_length_b   9.49145289
+_cell_length_c   7.27541300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000387
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li8Tb3Dy5Sn5Bi3
+_chemical_formula_sum   'Li8 Tb3 Dy5 Sn5 Bi3'
+_cell_volume   567.61473955
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.167224  0.334448  0.281108  1
+  Li  Li1  1  0.167224  0.832776  0.281108  1
+  Li  Li2  1  0.665552  0.832776  0.281108  1
+  Li  Li3  1  0.831636  0.663273  0.789421  1
+  Li  Li4  1  0.831636  0.168364  0.789421  1
+  Li  Li5  1  0.336727  0.168364  0.789421  1
+  Li  Li6  1  0.333333  0.666667  0.669159  1
+  Li  Li7  1  0.666667  0.333333  0.177772  1
+  Tb  Tb8  1  0.514449  0.028898  0.488881  1
+  Tb  Tb9  1  0.514449  0.485551  0.488881  1
+  Tb  Tb10  1  0.971102  0.485551  0.488881  1
+  Dy  Dy11  1  0.491002  0.982006  0.999478  1
+  Dy  Dy12  1  0.491002  0.508998  0.999478  1
+  Dy  Dy13  1  0.017994  0.508998  0.999478  1
+  Dy  Dy14  1  0.000000  0.000000  0.493094  1
+  Dy  Dy15  1  0.000000  0.000000  0.008690  1
+  Sn  Sn16  1  0.833580  0.667160  0.232213  1
+  Sn  Sn17  1  0.833580  0.166420  0.232213  1
+  Sn  Sn18  1  0.332840  0.166420  0.232213  1
+  Sn  Sn19  1  0.333333  0.666667  0.257422  1
+  Sn  Sn20  1  0.666667  0.333333  0.760363  1
+  Bi  Bi21  1  0.166701  0.333404  0.734064  1
+  Bi  Bi22  1  0.166701  0.833299  0.734064  1
+  Bi  Bi23  1  0.666596  0.833299  0.734064  1

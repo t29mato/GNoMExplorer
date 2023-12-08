@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Ac(SiTc2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.40321902
+_cell_length_b   7.40321779
+_cell_length_c   4.19990800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   146.92635564
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ac(SiTc2)2
+_chemical_formula_sum   'Ac1 Si2 Tc4'
+_cell_volume   125.61688881
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  0.000000  0.000000  0.000000  1
+  Si  Si1  1  0.596142  0.403858  0.500000  1
+  Si  Si2  1  0.403858  0.596142  0.500000  1
+  Tc  Tc3  1  0.806315  0.193685  0.500000  1
+  Tc  Tc4  1  0.193685  0.806315  0.500000  1
+  Tc  Tc5  1  0.698523  0.301477  0.000000  1
+  Tc  Tc6  1  0.301477  0.698523  0.000000  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_MgTi(NbPd6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.61108100
+_cell_length_b   5.61108065
+_cell_length_c   9.13138800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000794
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTi(NbPd6)2
+_chemical_formula_sum   'Mg1 Ti1 Nb2 Pd12'
+_cell_volume   248.97769561
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.333333  0.666667  0.249449  1
+  Ti  Ti1  1  0.000000  0.000000  0.004191  1
+  Nb  Nb2  1  0.000000  0.000000  0.494370  1
+  Nb  Nb3  1  0.666667  0.333333  0.752588  1
+  Pd  Pd4  1  0.501557  0.498443  0.503001  1
+  Pd  Pd5  1  0.501557  0.003113  0.503001  1
+  Pd  Pd6  1  0.996887  0.498443  0.503001  1
+  Pd  Pd7  1  0.501696  0.498304  0.996908  1
+  Pd  Pd8  1  0.501696  0.003392  0.996908  1
+  Pd  Pd9  1  0.996608  0.498304  0.996908  1
+  Pd  Pd10  1  0.833088  0.666176  0.249341  1
+  Pd  Pd11  1  0.333824  0.166912  0.249341  1
+  Pd  Pd12  1  0.833088  0.166912  0.249341  1
+  Pd  Pd13  1  0.165816  0.331630  0.750550  1
+  Pd  Pd14  1  0.668370  0.834184  0.750550  1
+  Pd  Pd15  1  0.165816  0.834184  0.750550  1

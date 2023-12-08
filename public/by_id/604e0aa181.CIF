@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TbHoAl2IrPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.35665200
+_cell_length_b   6.86668900
+_cell_length_c   7.88845600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbHoAl2IrPd
+_chemical_formula_sum   'Tb2 Ho2 Al4 Ir2 Pd2'
+_cell_volume   235.98926979
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.250000  0.034020  0.678069  1
+  Tb  Tb1  1  0.250000  0.534020  0.821931  1
+  Ho  Ho2  1  0.750000  0.973900  0.316181  1
+  Ho  Ho3  1  0.750000  0.473900  0.183819  1
+  Al  Al4  1  0.250000  0.139660  0.067206  1
+  Al  Al5  1  0.250000  0.639660  0.432794  1
+  Al  Al6  1  0.750000  0.855176  0.942454  1
+  Al  Al7  1  0.750000  0.355176  0.557546  1
+  Ir  Ir8  1  0.250000  0.267871  0.381176  1
+  Ir  Ir9  1  0.250000  0.767871  0.118824  1
+  Pd  Pd10  1  0.750000  0.729372  0.618771  1
+  Pd  Pd11  1  0.750000  0.229372  0.881229  1

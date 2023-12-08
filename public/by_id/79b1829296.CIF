@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Ca2Hg(ClO)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.66533572
+_cell_length_b   6.66533553
+_cell_length_c   6.79545580
+_cell_angle_alpha   114.63022306
+_cell_angle_beta   114.63022050
+_cell_angle_gamma   33.36539286
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2Hg(ClO)2
+_chemical_formula_sum   'Ca2 Hg1 Cl2 O2'
+_cell_volume   149.49954466
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.766006  0.766006  0.229826  1
+  Ca  Ca1  1  0.233994  0.233994  0.770174  1
+  Hg  Hg2  1  0.000000  0.000000  0.000000  1
+  Cl  Cl3  1  0.616704  0.616704  0.440074  1
+  Cl  Cl4  1  0.383297  0.383297  0.559926  1
+  O  O5  1  0.167343  0.167343  0.036022  1
+  O  O6  1  0.832656  0.832656  0.963978  1

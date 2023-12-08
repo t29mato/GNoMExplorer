@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ErU(FeSi)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.24992100
+_cell_length_b   7.01162450
+_cell_length_c   6.76317884
+_cell_angle_alpha   95.20306659
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErU(FeSi)2
+_chemical_formula_sum   'Er2 U2 Fe4 Si4'
+_cell_volume   200.70453773
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.250000  0.976890  0.277427  1
+  Er  Er1  1  0.750000  0.023110  0.722573  1
+  U  U2  1  0.250000  0.483679  0.196649  1
+  U  U3  1  0.750000  0.516321  0.803351  1
+  Fe  Fe4  1  0.750000  0.737635  0.044681  1
+  Fe  Fe5  1  0.250000  0.262365  0.955319  1
+  Fe  Fe6  1  0.750000  0.365350  0.461820  1
+  Fe  Fe7  1  0.250000  0.634650  0.538180  1
+  Si  Si8  1  0.250000  0.797974  0.886120  1
+  Si  Si9  1  0.750000  0.202026  0.113880  1
+  Si  Si10  1  0.250000  0.295897  0.598023  1
+  Si  Si11  1  0.750000  0.704103  0.401977  1

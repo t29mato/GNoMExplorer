@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ho15Tm(Ga3Fe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.93664578
+_cell_length_b   9.93664440
+_cell_length_c   6.89226272
+_cell_angle_alpha   89.95474650
+_cell_angle_beta   90.04524942
+_cell_angle_gamma   119.99676817
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho15Tm(Ga3Fe)2
+_chemical_formula_sum   'Ho15 Tm1 Ga6 Fe2'
+_cell_volume   589.36721505
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.654102  0.826828  0.510568  1
+  Ho  Ho1  1  0.173172  0.345898  0.510568  1
+  Ho  Ho2  1  0.826781  0.173219  0.010842  1
+  Ho  Ho3  1  0.346335  0.173229  0.010924  1
+  Ho  Ho4  1  0.826771  0.653665  0.010924  1
+  Ho  Ho5  1  0.332973  0.667027  0.829425  1
+  Ho  Ho6  1  0.666598  0.333402  0.330039  1
+  Ho  Ho7  1  0.463065  0.536935  0.206427  1
+  Ho  Ho8  1  0.073694  0.537511  0.207519  1
+  Ho  Ho9  1  0.462489  0.926306  0.207519  1
+  Ho  Ho10  1  0.537059  0.462941  0.706787  1
+  Ho  Ho11  1  0.926682  0.463646  0.706838  1
+  Ho  Ho12  1  0.536354  0.073318  0.706838  1
+  Ho  Ho13  1  0.000317  0.999683  0.231266  1
+  Ho  Ho14  1  0.000234  0.999766  0.730863  1
+  Tm  Tm15  1  0.173332  0.826668  0.511110  1
+  Ga  Ga16  1  0.163770  0.836230  0.957882  1
+  Ga  Ga17  1  0.672336  0.836215  0.958881  1
+  Ga  Ga18  1  0.163785  0.327664  0.958881  1
+  Ga  Ga19  1  0.836195  0.163805  0.458914  1
+  Ga  Ga20  1  0.326854  0.162498  0.459313  1
+  Ga  Ga21  1  0.837502  0.673146  0.459313  1
+  Fe  Fe22  1  0.332971  0.667029  0.446515  1
+  Fe  Fe23  1  0.666631  0.333369  0.945880  1

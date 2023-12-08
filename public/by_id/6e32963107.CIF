@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_TaTi2Al2RhC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.24337470
+_cell_length_b   8.22681179
+_cell_length_c   8.24698558
+_cell_angle_alpha   60.05187826
+_cell_angle_beta   59.85266634
+_cell_angle_gamma   60.08904243
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaTi2Al2RhC
+_chemical_formula_sum   'Ta4 Ti8 Al8 Rh4 C4'
+_cell_volume   395.44994718
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.936199  0.936199  0.563801  1
+  Ta  Ta1  1  0.686984  0.313688  0.313101  1
+  Ta  Ta2  1  0.313688  0.686984  0.686226  1
+  Ta  Ta3  1  0.685839  0.685839  0.314161  1
+  Ti  Ti4  1  0.686312  0.314214  0.685831  1
+  Ti  Ti5  1  0.314214  0.686312  0.313644  1
+  Ti  Ti6  1  0.564430  0.936302  0.563404  1
+  Ti  Ti7  1  0.564211  0.936723  0.936056  1
+  Ti  Ti8  1  0.936723  0.564211  0.563009  1
+  Ti  Ti9  1  0.936302  0.564430  0.935864  1
+  Ti  Ti10  1  0.313701  0.313701  0.686299  1
+  Ti  Ti11  1  0.563362  0.563362  0.936638  1
+  Al  Al12  1  0.916218  0.254489  0.914010  1
+  Al  Al13  1  0.336195  0.332373  0.995861  1
+  Al  Al14  1  0.997644  0.333736  0.336303  1
+  Al  Al15  1  0.332373  0.336195  0.335570  1
+  Al  Al16  1  0.254489  0.916218  0.915283  1
+  Al  Al17  1  0.914054  0.915340  0.917521  1
+  Al  Al18  1  0.915340  0.914054  0.253086  1
+  Al  Al19  1  0.333736  0.997644  0.332316  1
+  Rh  Rh20  1  0.124998  0.624657  0.123772  1
+  Rh  Rh21  1  0.125347  0.122907  0.625362  1
+  Rh  Rh22  1  0.624657  0.124998  0.126572  1
+  Rh  Rh23  1  0.122907  0.125347  0.126385  1
+  C  C24  1  0.621703  0.126589  0.627535  1
+  C  C25  1  0.624034  0.627752  0.120816  1
+  C  C26  1  0.126589  0.621703  0.624174  1
+  C  C27  1  0.627752  0.624034  0.627398  1

@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Sm6Sc(FeC4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.33875800
+_cell_length_b   8.33875814
+_cell_length_c   5.16012400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999839
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm6Sc(FeC4)3
+_chemical_formula_sum   'Sm6 Sc1 Fe3 C12'
+_cell_volume   310.73739782
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.619370  0.678712  0.751408  1
+  Sm  Sm1  1  0.940659  0.619370  0.248592  1
+  Sm  Sm2  1  0.678712  0.059341  0.248592  1
+  Sm  Sm3  1  0.321288  0.940659  0.751408  1
+  Sm  Sm4  1  0.059341  0.380630  0.751408  1
+  Sm  Sm5  1  0.380630  0.321288  0.248592  1
+  Sc  Sc6  1  0.000000  0.000000  0.500000  1
+  Fe  Fe7  1  0.000000  0.000000  0.000000  1
+  Fe  Fe8  1  0.666667  0.333333  0.753816  1
+  Fe  Fe9  1  0.333333  0.666667  0.246184  1
+  C  C10  1  0.964010  0.754312  0.752556  1
+  C  C11  1  0.209698  0.964010  0.247444  1
+  C  C12  1  0.754312  0.790302  0.247444  1
+  C  C13  1  0.245688  0.209698  0.752556  1
+  C  C14  1  0.790302  0.035990  0.752556  1
+  C  C15  1  0.035990  0.245688  0.247444  1
+  C  C16  1  0.859342  0.567836  0.754632  1
+  C  C17  1  0.291505  0.859342  0.245368  1
+  C  C18  1  0.567836  0.708495  0.245368  1
+  C  C19  1  0.432164  0.291505  0.754632  1
+  C  C20  1  0.140658  0.432164  0.245368  1
+  C  C21  1  0.708495  0.140658  0.754632  1

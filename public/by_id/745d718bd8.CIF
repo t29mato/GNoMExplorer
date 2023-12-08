@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ac2FeOsI
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.30499800
+_cell_length_b   4.30499795
+_cell_length_c   18.92806600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001573
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ac2FeOsI
+_chemical_formula_sum   'Ac4 Fe2 Os2 I2'
+_cell_volume   303.79645924
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  0.000000  0.000000  0.105215  1
+  Ac  Ac1  1  0.000000  0.000000  0.605215  1
+  Ac  Ac2  1  0.000000  0.000000  0.895170  1
+  Ac  Ac3  1  0.000000  0.000000  0.395170  1
+  Fe  Fe4  1  0.333333  0.666667  0.001210  1
+  Fe  Fe5  1  0.666667  0.333333  0.501210  1
+  Os  Os6  1  0.666667  0.333333  0.998766  1
+  Os  Os7  1  0.333333  0.666667  0.498766  1
+  I  I8  1  0.666667  0.333333  0.249639  1
+  I  I9  1  0.333333  0.666667  0.749639  1

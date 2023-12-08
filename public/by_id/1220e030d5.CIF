@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_TbHoThSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.59415136
+_cell_length_b   7.59415136
+_cell_length_c   4.22153100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.13612195
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbHoThSi2
+_chemical_formula_sum   'Tb2 Ho2 Th2 Si4'
+_cell_volume   243.45979648
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.675323  0.175323  0.500000  1
+  Tb  Tb1  1  0.324677  0.824677  0.500000  1
+  Ho  Ho2  1  0.500000  0.500000  0.000000  1
+  Ho  Ho3  1  0.000000  0.000000  0.000000  1
+  Th  Th4  1  0.179897  0.320103  0.500000  1
+  Th  Th5  1  0.820103  0.679897  0.500000  1
+  Si  Si6  1  0.118713  0.618713  0.000000  1
+  Si  Si7  1  0.881287  0.381287  0.000000  1
+  Si  Si8  1  0.613837  0.886163  0.000000  1
+  Si  Si9  1  0.386163  0.113837  0.000000  1

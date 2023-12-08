@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LaNd3Te7Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.33162458
+_cell_length_b   8.86371300
+_cell_length_c   9.41755718
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.04431376
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaNd3Te7Pd
+_chemical_formula_sum   'La1 Nd3 Te7 Pd1'
+_cell_volume   361.58019174
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.003530  0.250000  0.741656  1
+  Nd  Nd1  1  0.000656  0.750000  0.711695  1
+  Nd  Nd2  1  0.499282  0.003023  0.268125  1
+  Nd  Nd3  1  0.499282  0.496977  0.268125  1
+  Te  Te4  1  0.996926  0.942259  0.001408  1
+  Te  Te5  1  0.996926  0.557741  0.001408  1
+  Te  Te6  1  0.504618  0.250000  0.003667  1
+  Te  Te7  1  0.999533  0.750000  0.368012  1
+  Te  Te8  1  0.000170  0.250000  0.372874  1
+  Te  Te9  1  0.501482  0.999817  0.627956  1
+  Te  Te10  1  0.501482  0.500183  0.627956  1
+  Pd  Pd11  1  0.496110  0.750000  0.008043  1

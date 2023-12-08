@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NaMg2TcN4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.98649200
+_cell_length_b   5.61145700
+_cell_length_c   5.31114900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaMg2TcN4
+_chemical_formula_sum   'Na2 Mg4 Tc2 N8'
+_cell_volume   208.22040688
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.000000  0.668351  0.864881  1
+  Na  Na1  1  0.500000  0.331649  0.364881  1
+  Mg  Mg2  1  0.255123  0.175555  0.854609  1
+  Mg  Mg3  1  0.744877  0.175555  0.854609  1
+  Mg  Mg4  1  0.244877  0.824445  0.354609  1
+  Mg  Mg5  1  0.755123  0.824445  0.354609  1
+  Tc  Tc6  1  0.000000  0.313652  0.346233  1
+  Tc  Tc7  1  0.500000  0.686348  0.846233  1
+  N  N8  1  0.000000  0.631897  0.418285  1
+  N  N9  1  0.500000  0.368103  0.918285  1
+  N  N10  1  0.000000  0.274281  0.008245  1
+  N  N11  1  0.500000  0.725719  0.508245  1
+  N  N12  1  0.789326  0.170867  0.471379  1
+  N  N13  1  0.210674  0.170867  0.471379  1
+  N  N14  1  0.710674  0.829133  0.971379  1
+  N  N15  1  0.289326  0.829133  0.971379  1

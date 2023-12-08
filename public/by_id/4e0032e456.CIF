@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Li3Cr(FeRh3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.19069900
+_cell_length_b   5.93462300
+_cell_length_c   12.54481400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.99855375
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3Cr(FeRh3)2
+_chemical_formula_sum   'Li6 Cr2 Fe4 Rh12'
+_cell_volume   311.99226732
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.000001  0.500000  0.000246  1
+  Li  Li1  1  0.499874  0.000000  0.166305  1
+  Li  Li2  1  0.999844  0.500000  0.333826  1
+  Li  Li3  1  0.500002  0.000000  0.499702  1
+  Li  Li4  1  0.000135  0.500000  0.666926  1
+  Li  Li5  1  0.500134  0.000000  0.833004  1
+  Cr  Cr6  1  0.999997  0.000000  0.997578  1
+  Cr  Cr7  1  0.499884  0.500000  0.169081  1
+  Fe  Fe8  1  0.999872  0.000000  0.334467  1
+  Fe  Fe9  1  0.499999  0.500000  0.499952  1
+  Fe  Fe10  1  0.000123  0.000000  0.666732  1
+  Fe  Fe11  1  0.500127  0.500000  0.832158  1
+  Rh  Rh12  1  0.499994  0.249908  0.002419  1
+  Rh  Rh13  1  0.499994  0.750092  0.002419  1
+  Rh  Rh14  1  0.999888  0.250139  0.164288  1
+  Rh  Rh15  1  0.999888  0.749860  0.164288  1
+  Rh  Rh16  1  0.499873  0.251769  0.328651  1
+  Rh  Rh17  1  0.499873  0.748230  0.328651  1
+  Rh  Rh18  1  0.000001  0.249845  0.499078  1
+  Rh  Rh19  1  0.000001  0.750155  0.499078  1
+  Rh  Rh20  1  0.500121  0.250174  0.667632  1
+  Rh  Rh21  1  0.500121  0.749825  0.667632  1
+  Rh  Rh22  1  0.000122  0.248183  0.837945  1
+  Rh  Rh23  1  0.000122  0.751816  0.837945  1

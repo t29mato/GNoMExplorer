@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_MnSi(Tc2B)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.87010058
+_cell_length_b   5.87010055
+_cell_length_c   6.84217001
+_cell_angle_alpha   115.40188431
+_cell_angle_beta   115.40189011
+_cell_angle_gamma   89.99999960
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnSi(Tc2B)2
+_chemical_formula_sum   'Mn2 Si2 Tc8 B4'
+_cell_volume   187.42866472
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.500000  0.500000  0.000000  1
+  Mn  Mn1  1  0.000000  0.000000  0.000000  1
+  Si  Si2  1  0.250000  0.250000  0.500000  1
+  Si  Si3  1  0.750000  0.750000  0.500000  1
+  Tc  Tc4  1  0.028497  0.528497  0.729511  1
+  Tc  Tc5  1  0.701015  0.201015  0.729511  1
+  Tc  Tc6  1  0.201015  0.028497  0.729511  1
+  Tc  Tc7  1  0.528497  0.701015  0.729511  1
+  Tc  Tc8  1  0.971503  0.471503  0.270489  1
+  Tc  Tc9  1  0.298985  0.798985  0.270489  1
+  Tc  Tc10  1  0.798985  0.971503  0.270489  1
+  Tc  Tc11  1  0.471503  0.298985  0.270489  1
+  B  B12  1  0.373461  0.873461  0.000000  1
+  B  B13  1  0.626539  0.126539  0.000000  1
+  B  B14  1  0.126539  0.373461  0.000000  1
+  B  B15  1  0.873461  0.626539  0.000000  1

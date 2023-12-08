@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Be8CrOs2Ru
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.31701700
+_cell_length_b   4.31701778
+_cell_length_c   7.02780500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000170
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Be8CrOs2Ru
+_chemical_formula_sum   'Be8 Cr1 Os2 Ru1'
+_cell_volume   113.42738580
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.169872  0.339742  0.750575  1
+  Be  Be1  1  0.169872  0.830128  0.750575  1
+  Be  Be2  1  0.337688  0.168845  0.250347  1
+  Be  Be3  1  0.831155  0.662312  0.250347  1
+  Be  Be4  1  0.000000  0.000000  0.998802  1
+  Be  Be5  1  0.660258  0.830128  0.750575  1
+  Be  Be6  1  0.831155  0.168845  0.250347  1
+  Be  Be7  1  0.000000  0.000000  0.499251  1
+  Cr  Cr8  1  0.666667  0.333333  0.564462  1
+  Os  Os9  1  0.333333  0.666667  0.449306  1
+  Os  Os10  1  0.666667  0.333333  0.924953  1
+  Ru  Ru11  1  0.333333  0.666667  0.060459  1

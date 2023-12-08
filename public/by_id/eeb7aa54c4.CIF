@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_DyCoH4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.03627510
+_cell_length_b   6.03627431
+_cell_length_c   4.71920900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   145.47843964
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyCoH4
+_chemical_formula_sum   'Dy2 Co2 H8'
+_cell_volume   97.44799739
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.867400  0.132600  0.750000  1
+  Dy  Dy1  1  0.132600  0.867400  0.250000  1
+  Co  Co2  1  0.597220  0.402780  0.750000  1
+  Co  Co3  1  0.402780  0.597220  0.250000  1
+  H  H4  1  0.089135  0.910865  0.750000  1
+  H  H5  1  0.910865  0.089135  0.250000  1
+  H  H6  1  0.692727  0.307273  0.501841  1
+  H  H7  1  0.307273  0.692727  0.498159  1
+  H  H8  1  0.692727  0.307273  0.998159  1
+  H  H9  1  0.307273  0.692727  0.001841  1
+  H  H10  1  0.500000  0.500000  0.000000  1
+  H  H11  1  0.500000  0.500000  0.500000  1

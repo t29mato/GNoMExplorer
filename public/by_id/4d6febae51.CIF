@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Li7CdInO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.65711398
+_cell_length_b   5.65711346
+_cell_length_c   6.25170993
+_cell_angle_alpha   63.09933144
+_cell_angle_beta   63.09933193
+_cell_angle_gamma   60.00000589
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li7CdInO6
+_chemical_formula_sum   'Li7 Cd1 In1 O6'
+_cell_volume   147.74193652
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.189339  0.545835  0.368751  1
+  Li  Li1  1  0.545835  0.896076  0.368751  1
+  Li  Li2  1  0.896077  0.189337  0.368751  1
+  Li  Li3  1  0.151406  0.767478  0.631484  1
+  Li  Li4  1  0.449633  0.151406  0.631484  1
+  Li  Li5  1  0.767478  0.449633  0.631484  1
+  Li  Li6  1  0.323816  0.323817  0.028551  1
+  Cd  Cd7  1  0.002182  0.002182  0.993453  1
+  In  In8  1  0.667684  0.667685  0.996944  1
+  O  O9  1  0.269265  0.905232  0.251372  1
+  O  O10  1  0.574130  0.269266  0.251372  1
+  O  O11  1  0.905232  0.574131  0.251372  1
+  O  O12  1  0.067637  0.433404  0.742077  1
+  O  O13  1  0.433405  0.756882  0.742077  1
+  O  O14  1  0.756883  0.067635  0.742077  1

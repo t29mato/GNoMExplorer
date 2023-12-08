@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_RbNp2AuSe5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.19302700
+_cell_length_b   8.19302945
+_cell_length_c   17.88190300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   149.91146331
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbNp2AuSe5
+_chemical_formula_sum   'Rb2 Np4 Au2 Se10'
+_cell_volume   601.77334045
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.038012  0.961988  0.250000  1
+  Rb  Rb1  1  0.961988  0.038012  0.750000  1
+  Np  Np2  1  0.212931  0.787069  0.900468  1
+  Np  Np3  1  0.787069  0.212931  0.400468  1
+  Np  Np4  1  0.212931  0.787069  0.599532  1
+  Np  Np5  1  0.787069  0.212931  0.099532  1
+  Au  Au6  1  0.326576  0.673424  0.250000  1
+  Au  Au7  1  0.673424  0.326576  0.750000  1
+  Se  Se8  1  0.175497  0.824503  0.442199  1
+  Se  Se9  1  0.824503  0.175497  0.942199  1
+  Se  Se10  1  0.280536  0.719464  0.750000  1
+  Se  Se11  1  0.404822  0.595178  0.376021  1
+  Se  Se12  1  0.175497  0.824503  0.057801  1
+  Se  Se13  1  0.595178  0.404822  0.876021  1
+  Se  Se14  1  0.595178  0.404822  0.623979  1
+  Se  Se15  1  0.404822  0.595178  0.123979  1
+  Se  Se16  1  0.824503  0.175497  0.557801  1
+  Se  Se17  1  0.719464  0.280536  0.250000  1

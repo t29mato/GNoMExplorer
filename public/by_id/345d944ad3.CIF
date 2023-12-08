@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Y2Al4Ge2Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.21165121
+_cell_length_b   4.21169232
+_cell_length_c   10.28892200
+_cell_angle_alpha   101.87442591
+_cell_angle_beta   101.87454350
+_cell_angle_gamma   89.99810598
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2Al4Ge2Rh
+_chemical_formula_sum   'Y2 Al4 Ge2 Rh1'
+_cell_volume   174.60864646
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.184656  0.184652  0.369270  1
+  Y  Y1  1  0.815357  0.815353  0.630737  1
+  Al  Al2  1  0.569267  0.068621  0.137876  1
+  Al  Al3  1  0.068624  0.569272  0.137875  1
+  Al  Al4  1  0.931384  0.430726  0.862125  1
+  Al  Al5  1  0.430719  0.931381  0.862125  1
+  Ge  Ge6  1  0.663931  0.663925  0.327895  1
+  Ge  Ge7  1  0.336081  0.336078  0.672110  1
+  Rh  Rh8  1  0.999985  0.000000  0.999989  1

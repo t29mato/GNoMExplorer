@@ -1,0 +1,64 @@
+# generated using pymatgen
+data_TbSm4Tm(Si3Ru)8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.14069998
+_cell_length_b   10.14069951
+_cell_length_c   8.19020300
+_cell_angle_alpha   90.01568062
+_cell_angle_beta   90.01567780
+_cell_angle_gamma   132.39303831
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbSm4Tm(Si3Ru)8
+_chemical_formula_sum   'Tb1 Sm4 Tm1 Si24 Ru8'
+_cell_volume   622.01782197
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.000000  0.000000  0.000000  1
+  Sm  Sm1  1  0.502598  0.002505  0.749732  1
+  Sm  Sm2  1  0.997495  0.497402  0.250268  1
+  Sm  Sm3  1  0.497402  0.997495  0.250268  1
+  Sm  Sm4  1  0.002505  0.502598  0.749732  1
+  Tm  Tm5  1  0.500000  0.500000  0.500000  1
+  Si  Si6  1  0.794634  0.205366  0.500000  1
+  Si  Si7  1  0.295111  0.704889  0.000000  1
+  Si  Si8  1  0.205366  0.794634  0.500000  1
+  Si  Si9  1  0.704889  0.295111  0.000000  1
+  Si  Si10  1  0.332265  0.332265  0.833202  1
+  Si  Si11  1  0.667735  0.667735  0.166798  1
+  Si  Si12  1  0.167081  0.167081  0.332985  1
+  Si  Si13  1  0.832919  0.832919  0.667015  1
+  Si  Si14  1  0.121006  0.887417  0.728249  1
+  Si  Si15  1  0.112583  0.878994  0.271751  1
+  Si  Si16  1  0.610875  0.377951  0.228906  1
+  Si  Si17  1  0.622049  0.389125  0.771094  1
+  Si  Si18  1  0.878994  0.112583  0.271751  1
+  Si  Si19  1  0.887417  0.121006  0.728249  1
+  Si  Si20  1  0.389125  0.622049  0.771094  1
+  Si  Si21  1  0.377951  0.610875  0.228906  1
+  Si  Si22  1  0.344906  0.112227  0.505044  1
+  Si  Si23  1  0.887773  0.655094  0.494956  1
+  Si  Si24  1  0.387442  0.154822  0.004862  1
+  Si  Si25  1  0.845178  0.612558  0.995138  1
+  Si  Si26  1  0.655094  0.887773  0.494956  1
+  Si  Si27  1  0.112227  0.344906  0.505044  1
+  Si  Si28  1  0.612558  0.845178  0.995138  1
+  Si  Si29  1  0.154822  0.387442  0.004862  1
+  Ru  Ru30  1  0.667268  0.332732  0.500000  1
+  Ru  Ru31  1  0.168338  0.831662  0.000000  1
+  Ru  Ru32  1  0.332732  0.667268  0.500000  1
+  Ru  Ru33  1  0.831662  0.168338  0.000000  1
+  Ru  Ru34  1  0.126902  0.126902  0.625178  1
+  Ru  Ru35  1  0.873098  0.873098  0.374822  1
+  Ru  Ru36  1  0.375085  0.375085  0.127993  1
+  Ru  Ru37  1  0.624915  0.624915  0.872007  1

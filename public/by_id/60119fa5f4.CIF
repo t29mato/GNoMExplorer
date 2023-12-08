@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfZr3Ta2(Si2W)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.58273700
+_cell_length_b   6.98960601
+_cell_length_c   8.37505701
+_cell_angle_alpha   90.00439291
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfZr3Ta2(Si2W)2
+_chemical_formula_sum   'Hf1 Zr3 Ta2 Si4 W2'
+_cell_volume   209.72750735
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.250000  0.042218  0.334150  1
+  Zr  Zr1  1  0.250000  0.541577  0.166015  1
+  Zr  Zr2  1  0.750000  0.460358  0.831467  1
+  Zr  Zr3  1  0.750000  0.960577  0.667611  1
+  Ta  Ta4  1  0.250000  0.631237  0.558705  1
+  Ta  Ta5  1  0.250000  0.130938  0.941363  1
+  Si  Si6  1  0.250000  0.756664  0.863273  1
+  Si  Si7  1  0.250000  0.256732  0.636565  1
+  Si  Si8  1  0.750000  0.241855  0.144346  1
+  Si  Si9  1  0.750000  0.743482  0.356355  1
+  W  W10  1  0.750000  0.366129  0.439110  1
+  W  W11  1  0.750000  0.868234  0.061040  1

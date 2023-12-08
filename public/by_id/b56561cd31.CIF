@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Pr3Nd5Ga(Si4Rh)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.26077300
+_cell_length_b   8.26077278
+_cell_length_c   8.52940600
+_cell_angle_alpha   90.00253482
+_cell_angle_beta   89.99746785
+_cell_angle_gamma   120.00119407
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr3Nd5Ga(Si4Rh)3
+_chemical_formula_sum   'Pr3 Nd5 Ga1 Si12 Rh3'
+_cell_volume   504.06385652
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.999989  0.000011  0.747764  1
+  Pr  Pr1  1  0.000021  0.999979  0.252530  1
+  Pr  Pr2  1  0.497958  0.502042  0.746344  1
+  Nd  Nd3  1  0.497960  0.995895  0.745980  1
+  Nd  Nd4  1  0.004105  0.502040  0.745980  1
+  Nd  Nd5  1  0.499747  0.500253  0.253792  1
+  Nd  Nd6  1  0.000558  0.500237  0.253847  1
+  Nd  Nd7  1  0.499763  0.999442  0.253847  1
+  Ga  Ga8  1  0.666871  0.333129  0.995390  1
+  Si  Si9  1  0.838248  0.161752  0.000353  1
+  Si  Si10  1  0.838463  0.676651  0.000543  1
+  Si  Si11  1  0.323349  0.161537  0.000543  1
+  Si  Si12  1  0.832211  0.167789  0.501233  1
+  Si  Si13  1  0.832510  0.664548  0.500867  1
+  Si  Si14  1  0.335452  0.167490  0.500867  1
+  Si  Si15  1  0.167410  0.832590  0.498811  1
+  Si  Si16  1  0.665354  0.832908  0.498450  1
+  Si  Si17  1  0.167092  0.334646  0.498450  1
+  Si  Si18  1  0.169695  0.830305  0.000584  1
+  Si  Si19  1  0.660725  0.830605  0.001011  1
+  Si  Si20  1  0.169395  0.339275  0.001011  1
+  Rh  Rh21  1  0.666862  0.333138  0.502348  1
+  Rh  Rh22  1  0.333154  0.666846  0.496982  1
+  Rh  Rh23  1  0.333114  0.666886  0.002473  1

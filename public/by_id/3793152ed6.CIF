@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ti2NbGaOs4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.24608900
+_cell_length_b   4.39547300
+_cell_length_c   8.79244900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.99979819
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2NbGaOs4
+_chemical_formula_sum   'Ti4 Nb2 Ga2 Os8'
+_cell_volume   241.39242784
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.249994  0.250000  0.134538  1
+  Ti  Ti1  1  0.750001  0.749999  0.365463  1
+  Ti  Ti2  1  0.250004  0.250000  0.616255  1
+  Ti  Ti3  1  0.750001  0.749999  0.883719  1
+  Nb  Nb4  1  0.750003  0.250000  0.623253  1
+  Nb  Nb5  1  0.250001  0.749999  0.876748  1
+  Ga  Ga6  1  0.750000  0.250000  0.126381  1
+  Ga  Ga7  1  0.249999  0.749999  0.373626  1
+  Os  Os8  1  0.499089  0.749999  0.122999  1
+  Os  Os9  1  0.000909  0.749999  0.122997  1
+  Os  Os10  1  0.500950  0.250000  0.377002  1
+  Os  Os11  1  0.999049  0.250000  0.377000  1
+  Os  Os12  1  0.999567  0.749999  0.625866  1
+  Os  Os13  1  0.500435  0.749999  0.625866  1
+  Os  Os14  1  0.000426  0.250000  0.874142  1
+  Os  Os15  1  0.499571  0.250000  0.874142  1

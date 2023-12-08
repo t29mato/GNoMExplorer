@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Tb3HoZn4(Ga7Pd3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.63306288
+_cell_length_b   7.66409738
+_cell_length_c   9.50558900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.31410268
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb3HoZn4(Ga7Pd3)2
+_chemical_formula_sum   'Tb3 Ho1 Zn4 Ga14 Pd6'
+_cell_volume   484.87508221
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.004350  0.329711  0.750000  1
+  Tb  Tb1  1  0.673061  0.998420  0.250000  1
+  Tb  Tb2  1  0.326934  0.001498  0.750000  1
+  Ho  Ho3  1  0.995693  0.670471  0.250000  1
+  Zn  Zn4  1  0.137937  0.137238  0.250000  1
+  Zn  Zn5  1  0.861865  0.862272  0.750000  1
+  Zn  Zn6  1  0.342006  0.544956  0.250000  1
+  Zn  Zn7  1  0.657841  0.455324  0.750000  1
+  Ga  Ga8  1  0.009229  0.337385  0.085848  1
+  Ga  Ga9  1  0.990899  0.663244  0.915035  1
+  Ga  Ga10  1  0.990899  0.663244  0.584965  1
+  Ga  Ga11  1  0.332374  0.000576  0.415119  1
+  Ga  Ga12  1  0.009229  0.337385  0.414152  1
+  Ga  Ga13  1  0.666976  0.998723  0.584386  1
+  Ga  Ga14  1  0.666976  0.998723  0.915614  1
+  Ga  Ga15  1  0.332374  0.000576  0.084881  1
+  Ga  Ga16  1  0.336300  0.333134  0.564395  1
+  Ga  Ga17  1  0.664230  0.666896  0.434930  1
+  Ga  Ga18  1  0.664230  0.666896  0.065070  1
+  Ga  Ga19  1  0.336300  0.333134  0.935605  1
+  Ga  Ga20  1  0.539311  0.342123  0.250000  1
+  Ga  Ga21  1  0.461107  0.658266  0.750000  1
+  Pd  Pd22  1  0.675215  0.325448  0.003705  1
+  Pd  Pd23  1  0.324803  0.674512  0.996523  1
+  Pd  Pd24  1  0.324803  0.674512  0.503477  1
+  Pd  Pd25  1  0.675215  0.325448  0.496295  1
+  Pd  Pd26  1  0.999921  0.999943  0.000101  1
+  Pd  Pd27  1  0.999921  0.999943  0.499899  1

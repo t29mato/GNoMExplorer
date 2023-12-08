@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Gd2CuO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.36067300
+_cell_length_b   8.36067300
+_cell_length_c   5.83217800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd2CuO5
+_chemical_formula_sum   'Gd8 Cu4 O20'
+_cell_volume   407.67421712
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.347594  0.348266  0.250222  1
+  Gd  Gd1  1  0.651734  0.347594  0.749778  1
+  Gd  Gd2  1  0.348266  0.652406  0.749778  1
+  Gd  Gd3  1  0.652406  0.651734  0.250222  1
+  Gd  Gd4  1  0.847594  0.848266  0.749778  1
+  Gd  Gd5  1  0.151734  0.847594  0.250222  1
+  Gd  Gd6  1  0.848266  0.152406  0.250222  1
+  Gd  Gd7  1  0.152406  0.151734  0.749778  1
+  Cu  Cu8  1  0.000000  0.500000  0.590308  1
+  Cu  Cu9  1  0.000000  0.500000  0.090208  1
+  Cu  Cu10  1  0.500000  0.000000  0.409692  1
+  Cu  Cu11  1  0.500000  0.000000  0.909792  1
+  O  O12  1  0.913387  0.297651  0.596957  1
+  O  O13  1  0.086965  0.297759  0.097629  1
+  O  O14  1  0.797759  0.413035  0.097629  1
+  O  O15  1  0.202349  0.413387  0.596957  1
+  O  O16  1  0.500000  0.500000  0.500000  1
+  O  O17  1  0.500000  0.500000  0.000000  1
+  O  O18  1  0.797651  0.586613  0.596957  1
+  O  O19  1  0.202241  0.586965  0.097629  1
+  O  O20  1  0.913035  0.702241  0.097629  1
+  O  O21  1  0.086613  0.702349  0.596957  1
+  O  O22  1  0.413387  0.797651  0.403043  1
+  O  O23  1  0.586965  0.797759  0.902371  1
+  O  O24  1  0.297759  0.913035  0.902371  1
+  O  O25  1  0.702349  0.913387  0.403043  1
+  O  O26  1  0.000000  0.000000  0.500000  1
+  O  O27  1  0.000000  0.000000  0.000000  1
+  O  O28  1  0.297651  0.086613  0.403043  1
+  O  O29  1  0.702241  0.086965  0.902371  1
+  O  O30  1  0.413035  0.202241  0.902371  1
+  O  O31  1  0.586613  0.202349  0.403043  1

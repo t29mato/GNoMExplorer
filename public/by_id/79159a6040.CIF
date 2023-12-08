@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Sc11(IrOs)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.46268318
+_cell_length_b   9.46268462
+_cell_length_c   9.46268397
+_cell_angle_alpha   60.09606665
+_cell_angle_beta   60.09606223
+_cell_angle_gamma   60.09606816
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc11(IrOs)2
+_chemical_formula_sum   'Sc22 Ir4 Os4'
+_cell_volume   600.44373314
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.843888  0.843888  0.843888  1
+  Sc  Sc1  1  0.531484  0.155332  0.155332  1
+  Sc  Sc2  1  0.155332  0.155332  0.531484  1
+  Sc  Sc3  1  0.155332  0.531484  0.155332  1
+  Sc  Sc4  1  0.844668  0.844668  0.468516  1
+  Sc  Sc5  1  0.844668  0.468516  0.844668  1
+  Sc  Sc6  1  0.468516  0.844668  0.844668  1
+  Sc  Sc7  1  0.156112  0.156112  0.156112  1
+  Sc  Sc8  1  0.199088  0.802040  0.199088  1
+  Sc  Sc9  1  0.197960  0.800912  0.800912  1
+  Sc  Sc10  1  0.802040  0.199088  0.199088  1
+  Sc  Sc11  1  0.800912  0.800912  0.197960  1
+  Sc  Sc12  1  0.199088  0.199088  0.802040  1
+  Sc  Sc13  1  0.800912  0.197960  0.800912  1
+  Sc  Sc14  1  0.382970  0.382970  0.382970  1
+  Sc  Sc15  1  0.149079  0.617793  0.617793  1
+  Sc  Sc16  1  0.617793  0.149079  0.617793  1
+  Sc  Sc17  1  0.617793  0.617793  0.149079  1
+  Sc  Sc18  1  0.382207  0.850921  0.382207  1
+  Sc  Sc19  1  0.382207  0.382207  0.850921  1
+  Sc  Sc20  1  0.850921  0.382207  0.382207  1
+  Sc  Sc21  1  0.617030  0.617030  0.617030  1
+  Ir  Ir22  1  0.500000  0.500000  0.000000  1
+  Ir  Ir23  1  0.500000  0.000000  0.500000  1
+  Ir  Ir24  1  0.000000  0.500000  0.500000  1
+  Ir  Ir25  1  0.000000  0.000000  0.000000  1
+  Os  Os26  1  0.000000  0.000000  0.500000  1
+  Os  Os27  1  0.500000  0.000000  0.000000  1
+  Os  Os28  1  0.000000  0.500000  0.000000  1
+  Os  Os29  1  0.500000  0.500000  0.500000  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_La2Pr8Si5Hg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.91855238
+_cell_length_b   7.91855281
+_cell_length_c   9.10733317
+_cell_angle_alpha   115.76842099
+_cell_angle_beta   115.76842822
+_cell_angle_gamma   90.00000648
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2Pr8Si5Hg
+_chemical_formula_sum   'La2 Pr8 Si5 Hg1'
+_cell_volume   450.38292491
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.495348  0.495348  0.990695  1
+  La  La1  1  0.004652  0.004652  0.009305  1
+  Pr  Pr2  1  0.969277  0.824748  0.285467  1
+  Pr  Pr3  1  0.316190  0.460718  0.285467  1
+  Pr  Pr4  1  0.824748  0.316190  0.285467  1
+  Pr  Pr5  1  0.460718  0.969277  0.285467  1
+  Pr  Pr6  1  0.039282  0.183810  0.714533  1
+  Pr  Pr7  1  0.675252  0.530723  0.714533  1
+  Pr  Pr8  1  0.183810  0.675252  0.714533  1
+  Pr  Pr9  1  0.530723  0.039282  0.714533  1
+  Si  Si10  1  0.250000  0.250000  0.500000  1
+  Si  Si11  1  0.613521  0.886479  0.000000  1
+  Si  Si12  1  0.386479  0.113521  0.000000  1
+  Si  Si13  1  0.886479  0.386479  0.000000  1
+  Si  Si14  1  0.113521  0.613521  0.000000  1
+  Hg  Hg15  1  0.750000  0.750000  0.500000  1

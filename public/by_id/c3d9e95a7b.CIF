@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_DyCo2(B2Ru)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.18567700
+_cell_length_b   7.18567700
+_cell_length_c   3.92273100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyCo2(B2Ru)2
+_chemical_formula_sum   'Dy2 Co4 B8 Ru4'
+_cell_volume   202.54611181
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.000000  0.000000  0.090607  1
+  Dy  Dy1  1  0.500000  0.500000  0.590607  1
+  Co  Co2  1  0.621159  0.118854  0.375527  1
+  Co  Co3  1  0.378841  0.881146  0.375527  1
+  Co  Co4  1  0.618854  0.878841  0.875527  1
+  Co  Co5  1  0.381146  0.121159  0.875527  1
+  B  B6  1  0.341993  0.819598  0.879263  1
+  B  B7  1  0.658007  0.180402  0.879263  1
+  B  B8  1  0.319598  0.158007  0.379263  1
+  B  B9  1  0.680402  0.841993  0.379263  1
+  B  B10  1  0.173811  0.728858  0.597906  1
+  B  B11  1  0.826189  0.271142  0.597906  1
+  B  B12  1  0.228858  0.326189  0.097906  1
+  B  B13  1  0.771142  0.673811  0.097906  1
+  Ru  Ru14  1  0.840750  0.388580  0.102000  1
+  Ru  Ru15  1  0.159250  0.611420  0.102000  1
+  Ru  Ru16  1  0.888580  0.659250  0.602000  1
+  Ru  Ru17  1  0.111420  0.340750  0.602000  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Al3Ga3(Si4Ir3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.41181888
+_cell_length_b   7.41181872
+_cell_length_c   7.41181907
+_cell_angle_alpha   109.33599941
+_cell_angle_beta   109.46763796
+_cell_angle_gamma   109.61014310
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al3Ga3(Si4Ir3)2
+_chemical_formula_sum   'Al3 Ga3 Si8 Ir6'
+_cell_volume   313.43681411
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.750336  0.500000  0.250336  1
+  Al  Al1  1  0.750037  0.250178  0.499859  1
+  Al  Al2  1  0.249681  0.749822  0.499859  1
+  Ga  Ga3  1  0.500306  0.750183  0.250489  1
+  Ga  Ga4  1  0.500306  0.249817  0.750123  1
+  Ga  Ga5  1  0.249608  0.500000  0.749608  1
+  Si  Si6  1  0.330358  0.330186  0.330007  1
+  Si  Si7  1  0.670089  0.669797  0.669534  1
+  Si  Si8  1  0.999736  0.999445  0.669534  1
+  Si  Si9  1  0.999822  0.669814  0.000172  1
+  Si  Si10  1  0.999822  0.999650  0.330007  1
+  Si  Si11  1  0.999736  0.330203  0.000292  1
+  Si  Si12  1  0.670089  0.000555  0.000292  1
+  Si  Si13  1  0.330358  0.000350  0.000172  1
+  Ir  Ir14  1  0.999297  0.331193  0.330490  1
+  Ir  Ir15  1  0.999297  0.668807  0.668104  1
+  Ir  Ir16  1  0.330619  0.000000  0.330619  1
+  Ir  Ir17  1  0.669422  0.000000  0.669422  1
+  Ir  Ir18  1  0.330614  0.330072  0.000542  1
+  Ir  Ir19  1  0.670470  0.669928  0.000542  1

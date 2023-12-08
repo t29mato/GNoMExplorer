@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YbEu3(BeSi3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.15317745
+_cell_length_b   7.93575731
+_cell_length_c   5.91070916
+_cell_angle_alpha   70.42004840
+_cell_angle_beta   66.49854820
+_cell_angle_gamma   43.08142400
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbEu3(BeSi3)2
+_chemical_formula_sum   'Yb1 Eu3 Be2 Si6'
+_cell_volume   238.95964128
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.750001  0.749999  0.750000  1
+  Eu  Eu1  1  0.250000  0.250000  0.250001  1
+  Eu  Eu2  1  0.242680  0.757320  0.242681  1
+  Eu  Eu3  1  0.757320  0.242681  0.757321  1
+  Be  Be4  1  0.666774  0.666775  0.333226  1
+  Be  Be5  1  0.333225  0.333226  0.666775  1
+  Si  Si6  1  0.825535  0.347001  0.173407  1
+  Si  Si7  1  0.827505  0.827505  0.172496  1
+  Si  Si8  1  0.654058  0.173407  0.347001  1
+  Si  Si9  1  0.347001  0.825535  0.654059  1
+  Si  Si10  1  0.172495  0.172496  0.827506  1
+  Si  Si11  1  0.173406  0.654059  0.825535  1

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LaCu2Pd2Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.16328059
+_cell_length_b   5.28284548
+_cell_length_c   5.28284520
+_cell_angle_alpha   63.44043522
+_cell_angle_beta   60.74588936
+_cell_angle_gamma   60.74589942
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaCu2Pd2Au
+_chemical_formula_sum   'La1 Cu2 Pd2 Au1'
+_cell_volume   105.49908953
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.998609  0.001391  0.001391  1
+  Cu  Cu1  1  0.129442  0.618646  0.618646  1
+  Cu  Cu2  1  0.633267  0.618646  0.618646  1
+  Pd  Pd3  1  0.626105  0.623614  0.124176  1
+  Pd  Pd4  1  0.626105  0.124176  0.623614  1
+  Au  Au5  1  0.236473  0.263527  0.263527  1

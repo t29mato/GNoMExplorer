@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Li4La4Si7Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.93904400
+_cell_length_b   7.82301001
+_cell_length_c   10.77761001
+_cell_angle_alpha   89.99583770
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li4La4Si7Ge
+_chemical_formula_sum   'Li4 La4 Si7 Ge1'
+_cell_volume   332.11399818
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.250000  0.996143  0.389372  1
+  Li  Li1  1  0.250000  0.495536  0.111858  1
+  Li  Li2  1  0.750000  0.005398  0.608185  1
+  Li  Li3  1  0.750000  0.503027  0.889183  1
+  La  La4  1  0.250000  0.141985  0.866233  1
+  La  La5  1  0.250000  0.635581  0.632931  1
+  La  La6  1  0.750000  0.862215  0.135102  1
+  La  La7  1  0.750000  0.361836  0.365464  1
+  Si  Si8  1  0.250000  0.225575  0.573101  1
+  Si  Si9  1  0.250000  0.720801  0.929888  1
+  Si  Si10  1  0.750000  0.774365  0.426803  1
+  Si  Si11  1  0.750000  0.274949  0.073614  1
+  Si  Si12  1  0.250000  0.666137  0.323558  1
+  Si  Si13  1  0.250000  0.166414  0.177045  1
+  Si  Si14  1  0.750000  0.333007  0.676931  1
+  Ge  Ge15  1  0.750000  0.837033  0.820734  1

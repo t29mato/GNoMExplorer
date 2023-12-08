@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_SmDy4(CoB3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.40964465
+_cell_length_b   5.40964436
+_cell_length_c   8.40458237
+_cell_angle_alpha   71.22655588
+_cell_angle_beta   71.22655778
+_cell_angle_gamma   59.99999278
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmDy4(CoB3)2
+_chemical_formula_sum   'Sm1 Dy4 Co2 B6'
+_cell_volume   197.74861866
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.000000  0.000000  0.000000  1
+  Dy  Dy1  1  0.250736  0.250736  0.247791  1
+  Dy  Dy2  1  0.749264  0.749264  0.752209  1
+  Dy  Dy3  1  0.416946  0.416946  0.749161  1
+  Dy  Dy4  1  0.583054  0.583054  0.250839  1
+  Co  Co5  1  0.119822  0.119822  0.640533  1
+  Co  Co6  1  0.880178  0.880178  0.359467  1
+  B  B7  1  0.168584  0.831416  0.500000  1
+  B  B8  1  0.831416  0.500000  0.500000  1
+  B  B9  1  0.500000  0.168584  0.500000  1
+  B  B10  1  0.168584  0.500000  0.500000  1
+  B  B11  1  0.500000  0.831416  0.500000  1
+  B  B12  1  0.831416  0.168584  0.500000  1

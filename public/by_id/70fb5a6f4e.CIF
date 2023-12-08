@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Tb3Sm(Co2Br)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.91882500
+_cell_length_b   3.91882475
+_cell_length_c   16.51882300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999369
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb3Sm(Co2Br)2
+_chemical_formula_sum   'Tb3 Sm1 Co4 Br2'
+_cell_volume   219.69565658
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.000000  0.000000  0.107321  1
+  Tb  Tb1  1  0.000000  0.000000  0.892433  1
+  Tb  Tb2  1  0.000000  0.000000  0.608427  1
+  Sm  Sm3  1  0.000000  0.000000  0.390441  1
+  Co  Co4  1  0.333333  0.666667  0.503699  1
+  Co  Co5  1  0.666667  0.333333  0.499454  1
+  Co  Co6  1  0.666667  0.333333  0.002193  1
+  Co  Co7  1  0.333333  0.666667  0.997689  1
+  Br  Br8  1  0.333333  0.666667  0.248196  1
+  Br  Br9  1  0.666667  0.333333  0.750147  1

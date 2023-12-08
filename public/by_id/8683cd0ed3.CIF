@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ac2C2Cl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.85760800
+_cell_length_b   7.85760774
+_cell_length_c   6.95901038
+_cell_angle_alpha   80.72673259
+_cell_angle_beta   80.72673396
+_cell_angle_gamma   33.69279260
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ac2C2Cl
+_chemical_formula_sum   'Ac4 C4 Cl2'
+_cell_volume   234.94859172
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  0.551417  0.150043  0.145588  1
+  Ac  Ac1  1  0.150043  0.551417  0.645588  1
+  Ac  Ac2  1  0.448583  0.849957  0.854412  1
+  Ac  Ac3  1  0.849957  0.448583  0.354412  1
+  C  C4  1  0.361141  0.088237  0.474317  1
+  C  C5  1  0.911763  0.638859  0.025683  1
+  C  C6  1  0.638859  0.911763  0.525683  1
+  C  C7  1  0.088237  0.361141  0.974317  1
+  Cl  Cl8  1  0.790269  0.209731  0.750000  1
+  Cl  Cl9  1  0.209731  0.790269  0.250000  1

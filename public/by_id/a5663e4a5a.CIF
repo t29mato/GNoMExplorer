@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Cs2NbAuS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   14.61044143
+_cell_length_b   13.00475728
+_cell_length_c   7.85092414
+_cell_angle_alpha   85.14120018
+_cell_angle_beta   62.48645706
+_cell_angle_gamma   32.37234806
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2NbAuS4
+_chemical_formula_sum   'Cs4 Nb2 Au2 S8'
+_cell_volume   542.35392443
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.821319  0.821319  0.178681  1
+  Cs  Cs1  1  0.178681  0.178681  0.821319  1
+  Cs  Cs2  1  0.428681  0.428681  0.071319  1
+  Cs  Cs3  1  0.071319  0.071319  0.428681  1
+  Nb  Nb4  1  0.250000  0.250000  0.250000  1
+  Nb  Nb5  1  0.000000  0.000000  0.000000  1
+  Au  Au6  1  0.500000  0.500000  0.500000  1
+  Au  Au7  1  0.750000  0.750000  0.750000  1
+  S  S8  1  0.738559  0.368157  0.072646  1
+  S  S9  1  0.429361  0.177354  0.881843  1
+  S  S10  1  0.881843  0.511441  0.429361  1
+  S  S11  1  0.177354  0.429361  0.511441  1
+  S  S12  1  0.072646  0.820639  0.738559  1
+  S  S13  1  0.368157  0.738559  0.820639  1
+  S  S14  1  0.511441  0.881843  0.177354  1
+  S  S15  1  0.820639  0.072646  0.368157  1

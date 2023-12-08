@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Y2Lu2IrPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.61999700
+_cell_length_b   7.16106500
+_cell_length_c   8.72995200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2Lu2IrPt
+_chemical_formula_sum   'Y4 Lu4 Ir2 Pt2'
+_cell_volume   288.82259463
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.250000  0.014523  0.668253  1
+  Y  Y1  1  0.250000  0.514523  0.831747  1
+  Y  Y2  1  0.750000  0.989485  0.330488  1
+  Y  Y3  1  0.750000  0.489485  0.169512  1
+  Lu  Lu4  1  0.250000  0.141515  0.078705  1
+  Lu  Lu5  1  0.250000  0.641515  0.421295  1
+  Lu  Lu6  1  0.750000  0.857016  0.928284  1
+  Lu  Lu7  1  0.750000  0.357016  0.571716  1
+  Ir  Ir8  1  0.250000  0.247362  0.405377  1
+  Ir  Ir9  1  0.250000  0.747362  0.094623  1
+  Pt  Pt10  1  0.750000  0.750099  0.599549  1
+  Pt  Pt11  1  0.750000  0.250099  0.900451  1

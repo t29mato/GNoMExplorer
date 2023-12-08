@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_AlSiNi4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.75267500
+_cell_length_b   4.94998300
+_cell_length_c   7.24470400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlSiNi4
+_chemical_formula_sum   'Al2 Si2 Ni8'
+_cell_volume   134.57528476
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.750000  0.811115  0.891345  1
+  Al  Al1  1  0.750000  0.311115  0.608655  1
+  Si  Si2  1  0.250000  0.182915  0.100582  1
+  Si  Si3  1  0.250000  0.682915  0.399418  1
+  Ni  Ni4  1  0.750000  0.451690  0.283700  1
+  Ni  Ni5  1  0.750000  0.951690  0.216300  1
+  Ni  Ni6  1  0.250000  0.569127  0.723891  1
+  Ni  Ni7  1  0.250000  0.069127  0.776109  1
+  Ni  Ni8  1  0.750000  0.329762  0.943717  1
+  Ni  Ni9  1  0.750000  0.829762  0.556283  1
+  Ni  Ni10  1  0.250000  0.655391  0.076819  1
+  Ni  Ni11  1  0.250000  0.155391  0.423181  1

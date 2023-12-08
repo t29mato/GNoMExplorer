@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_MnPd7Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.24386166
+_cell_length_b   6.24386119
+_cell_length_c   6.22341435
+_cell_angle_alpha   95.72568134
+_cell_angle_beta   95.72566703
+_cell_angle_gamma   143.23739871
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnPd7Pt
+_chemical_formula_sum   'Mn1 Pd7 Pt1'
+_cell_volume   137.75224455
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.002003  0.002003  0.004007  1
+  Pd  Pd1  1  0.334976  0.664383  0.999359  1
+  Pd  Pd2  1  0.664383  0.334976  0.999359  1
+  Pd  Pd3  1  0.335403  0.335403  0.670807  1
+  Pd  Pd4  1  0.669540  0.999428  0.668968  1
+  Pd  Pd5  1  0.999428  0.669540  0.668968  1
+  Pd  Pd6  1  0.000552  0.330294  0.330848  1
+  Pd  Pd7  1  0.330294  0.000552  0.330848  1
+  Pt  Pt8  1  0.663419  0.663419  0.326838  1

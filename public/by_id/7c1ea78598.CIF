@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Tb4In(FeB3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.36737090
+_cell_length_b   5.36737029
+_cell_length_c   8.20399422
+_cell_angle_alpha   70.90597808
+_cell_angle_beta   70.90597896
+_cell_angle_gamma   60.00000152
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb4In(FeB3)2
+_chemical_formula_sum   'Tb4 In1 Fe2 B6'
+_cell_volume   189.51850780
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.748321  0.748321  0.755039  1
+  Tb  Tb1  1  0.251679  0.251679  0.244961  1
+  Tb  Tb2  1  0.584549  0.584549  0.246354  1
+  Tb  Tb3  1  0.415451  0.415451  0.753646  1
+  In  In4  1  0.000000  0.000000  0.000000  1
+  Fe  Fe5  1  0.882715  0.882715  0.351853  1
+  Fe  Fe6  1  0.117285  0.117285  0.648147  1
+  B  B7  1  0.500000  0.168120  0.500000  1
+  B  B8  1  0.831880  0.500000  0.500000  1
+  B  B9  1  0.168119  0.831881  0.500000  1
+  B  B10  1  0.168119  0.500000  0.500000  1
+  B  B11  1  0.831880  0.168119  0.500000  1
+  B  B12  1  0.500000  0.831881  0.500000  1

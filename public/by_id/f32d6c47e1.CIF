@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Pr12Os(RhBr4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.54173278
+_cell_length_b   10.54173308
+_cell_length_c   10.54173235
+_cell_angle_alpha   109.44223546
+_cell_angle_beta   109.44223645
+_cell_angle_gamma   109.44223691
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr12Os(RhBr4)3
+_chemical_formula_sum   'Pr12 Os1 Rh3 Br12'
+_cell_volume   902.77451115
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.468914  0.481952  0.236268  1
+  Pr  Pr1  1  0.750000  0.233686  0.266314  1
+  Pr  Pr2  1  0.750000  0.015312  0.484688  1
+  Pr  Pr3  1  0.236268  0.468914  0.481952  1
+  Pr  Pr4  1  0.266314  0.750000  0.233686  1
+  Pr  Pr5  1  0.031086  0.263732  0.018048  1
+  Pr  Pr6  1  0.018048  0.031086  0.263732  1
+  Pr  Pr7  1  0.484688  0.750000  0.015312  1
+  Pr  Pr8  1  0.481952  0.236268  0.468914  1
+  Pr  Pr9  1  0.015312  0.484688  0.750000  1
+  Pr  Pr10  1  0.263732  0.018048  0.031086  1
+  Pr  Pr11  1  0.233686  0.266314  0.750000  1
+  Os  Os12  1  0.250000  0.250000  0.250000  1
+  Rh  Rh13  1  0.501171  0.998829  0.250000  1
+  Rh  Rh14  1  0.998829  0.250000  0.501171  1
+  Rh  Rh15  1  0.250000  0.501171  0.998829  1
+  Br  Br16  1  0.250000  0.753723  0.746277  1
+  Br  Br17  1  0.509269  0.504572  0.755132  1
+  Br  Br18  1  0.990731  0.744868  0.995428  1
+  Br  Br19  1  0.746277  0.250000  0.753723  1
+  Br  Br20  1  0.995428  0.990731  0.744868  1
+  Br  Br21  1  0.250000  0.995236  0.504764  1
+  Br  Br22  1  0.755132  0.509269  0.504572  1
+  Br  Br23  1  0.504764  0.250000  0.995236  1
+  Br  Br24  1  0.753723  0.746277  0.250000  1
+  Br  Br25  1  0.744868  0.995428  0.990731  1
+  Br  Br26  1  0.995236  0.504764  0.250000  1
+  Br  Br27  1  0.504572  0.755132  0.509269  1

@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ta11NbAl8(AuC)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.42661716
+_cell_length_b   8.43287630
+_cell_length_c   8.42661574
+_cell_angle_alpha   59.97542659
+_cell_angle_beta   59.93180672
+_cell_angle_gamma   59.97543292
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta11NbAl8(AuC)4
+_chemical_formula_sum   'Ta11 Nb1 Al8 Au4 C4'
+_cell_volume   423.04020279
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.320924  0.679029  0.679450  1
+  Ta  Ta1  1  0.679450  0.320597  0.320924  1
+  Ta  Ta2  1  0.321195  0.678805  0.321195  1
+  Ta  Ta3  1  0.679450  0.679029  0.320924  1
+  Ta  Ta4  1  0.320924  0.320597  0.679450  1
+  Ta  Ta5  1  0.571053  0.570434  0.929072  1
+  Ta  Ta6  1  0.929072  0.570434  0.571053  1
+  Ta  Ta7  1  0.571053  0.929441  0.929072  1
+  Ta  Ta8  1  0.929072  0.929441  0.571053  1
+  Ta  Ta9  1  0.679518  0.320482  0.679518  1
+  Ta  Ta10  1  0.928702  0.571298  0.928702  1
+  Nb  Nb11  1  0.569152  0.930848  0.569152  1
+  Al  Al12  1  0.913998  0.913832  0.913998  1
+  Al  Al13  1  0.991805  0.336105  0.335985  1
+  Al  Al14  1  0.336241  0.991721  0.336241  1
+  Al  Al15  1  0.335985  0.336105  0.991805  1
+  Al  Al16  1  0.913998  0.258172  0.913998  1
+  Al  Al17  1  0.913315  0.913966  0.258752  1
+  Al  Al18  1  0.258752  0.913966  0.913315  1
+  Al  Al19  1  0.336241  0.335797  0.336241  1
+  Au  Au20  1  0.124953  0.125061  0.124953  1
+  Au  Au21  1  0.625053  0.125467  0.124013  1
+  Au  Au22  1  0.124953  0.625034  0.124953  1
+  Au  Au23  1  0.124013  0.125467  0.625053  1
+  C  C24  1  0.625367  0.623475  0.625367  1
+  C  C25  1  0.125233  0.624801  0.625166  1
+  C  C26  1  0.625367  0.125792  0.625367  1
+  C  C27  1  0.625166  0.624801  0.125233  1

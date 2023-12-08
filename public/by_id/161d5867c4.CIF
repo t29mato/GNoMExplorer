@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_BaNaSc(H6Ir)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.91617600
+_cell_length_b   4.91617747
+_cell_length_c   8.32698200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999013
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaNaSc(H6Ir)2
+_chemical_formula_sum   'Ba1 Na1 Sc1 H12 Ir2'
+_cell_volume   174.29032312
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.000000  0.000000  0.026172  1
+  Na  Na1  1  0.666667  0.333333  0.364491  1
+  Sc  Sc2  1  0.333333  0.666667  0.610895  1
+  H  H3  1  0.170912  0.829088  0.396145  1
+  H  H4  1  0.658177  0.829088  0.396145  1
+  H  H5  1  0.170912  0.341823  0.396145  1
+  H  H6  1  0.832637  0.167363  0.611284  1
+  H  H7  1  0.334725  0.167363  0.611284  1
+  H  H8  1  0.832637  0.665275  0.611284  1
+  H  H9  1  0.502491  0.004980  0.833421  1
+  H  H10  1  0.502491  0.497509  0.833421  1
+  H  H11  1  0.995020  0.497509  0.833421  1
+  H  H12  1  0.488291  0.976583  0.158014  1
+  H  H13  1  0.488291  0.511709  0.158014  1
+  H  H14  1  0.023417  0.511709  0.158014  1
+  Ir  Ir15  1  0.666667  0.333333  0.719766  1
+  Ir  Ir16  1  0.333333  0.666667  0.282081  1

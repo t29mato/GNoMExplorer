@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ta3Al2Cr6W
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.84840200
+_cell_length_b   4.84840174
+_cell_length_c   8.26324000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000177
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta3Al2Cr6W
+_chemical_formula_sum   'Ta3 Al2 Cr6 W1'
+_cell_volume   168.22022550
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.666667  0.333333  0.564448  1
+  Ta  Ta1  1  0.666667  0.333333  0.933395  1
+  Ta  Ta2  1  0.333333  0.666667  0.067019  1
+  Al  Al3  1  0.000000  0.000000  0.500266  1
+  Al  Al4  1  0.000000  0.000000  0.000415  1
+  Cr  Cr5  1  0.826937  0.173063  0.251392  1
+  Cr  Cr6  1  0.826937  0.653876  0.251392  1
+  Cr  Cr7  1  0.346124  0.173063  0.251392  1
+  Cr  Cr8  1  0.173079  0.826921  0.748726  1
+  Cr  Cr9  1  0.173079  0.346158  0.748726  1
+  Cr  Cr10  1  0.653842  0.826921  0.748726  1
+  W  W11  1  0.333333  0.666667  0.434102  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LiSi(Tc2B)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.80461624
+_cell_length_b   5.80461649
+_cell_length_c   6.79182240
+_cell_angle_alpha   115.29784596
+_cell_angle_beta   115.29784435
+_cell_angle_gamma   89.99999131
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiSi(Tc2B)2
+_chemical_formula_sum   'Li2 Si2 Tc8 B4'
+_cell_volume   182.32572767
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.500000  0.500000  0.000000  1
+  Li  Li1  1  0.000000  0.000000  0.000000  1
+  Si  Si2  1  0.250000  0.250000  0.500000  1
+  Si  Si3  1  0.750000  0.750000  0.500000  1
+  Tc  Tc4  1  0.030615  0.530615  0.728203  1
+  Tc  Tc5  1  0.697588  0.197588  0.728203  1
+  Tc  Tc6  1  0.197588  0.030615  0.728203  1
+  Tc  Tc7  1  0.530615  0.697588  0.728203  1
+  Tc  Tc8  1  0.969385  0.469385  0.271797  1
+  Tc  Tc9  1  0.302412  0.802412  0.271797  1
+  Tc  Tc10  1  0.802412  0.969385  0.271797  1
+  Tc  Tc11  1  0.469385  0.302412  0.271797  1
+  B  B12  1  0.378599  0.878599  0.000000  1
+  B  B13  1  0.621401  0.121401  0.000000  1
+  B  B14  1  0.121401  0.378599  0.000000  1
+  B  B15  1  0.878599  0.621401  0.000000  1

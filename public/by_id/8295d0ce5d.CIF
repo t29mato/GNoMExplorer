@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CaCeMgGaIr2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.12834700
+_cell_length_b   4.18018900
+_cell_length_c   8.29230800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaCeMgGaIr2
+_chemical_formula_sum   'Ca2 Ce2 Mg2 Ga2 Ir4'
+_cell_volume   247.09284809
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.963254  0.250000  0.184472  1
+  Ca  Ca1  1  0.463254  0.250000  0.315528  1
+  Ce  Ce2  1  0.034288  0.750000  0.822906  1
+  Ce  Ce3  1  0.534288  0.750000  0.677094  1
+  Mg  Mg4  1  0.140275  0.750000  0.431816  1
+  Mg  Mg5  1  0.640275  0.750000  0.068184  1
+  Ga  Ga6  1  0.865807  0.250000  0.557414  1
+  Ga  Ga7  1  0.365807  0.250000  0.942586  1
+  Ir  Ir8  1  0.738512  0.250000  0.858470  1
+  Ir  Ir9  1  0.238512  0.250000  0.641530  1
+  Ir  Ir10  1  0.257863  0.750000  0.096106  1
+  Ir  Ir11  1  0.757863  0.750000  0.403894  1

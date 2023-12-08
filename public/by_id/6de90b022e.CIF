@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na2CeBiF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.83992682
+_cell_length_b   6.83992612
+_cell_length_c   6.83992800
+_cell_angle_alpha   131.37822418
+_cell_angle_beta   131.37821898
+_cell_angle_gamma   71.21284898
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2CeBiF8
+_chemical_formula_sum   'Na2 Ce1 Bi1 F8'
+_cell_volume   176.38408152
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.500000  0.500000  0.000000  1
+  Na  Na1  1  0.250000  0.750000  0.500000  1
+  Ce  Ce2  1  0.000000  0.000000  0.000000  1
+  Bi  Bi3  1  0.750000  0.250000  0.500000  1
+  F  F4  1  0.634844  0.126115  0.012012  1
+  F  F5  1  0.377168  0.885897  0.012012  1
+  F  F6  1  0.634844  0.622832  0.508728  1
+  F  F7  1  0.873885  0.885897  0.508728  1
+  F  F8  1  0.114104  0.126116  0.491273  1
+  F  F9  1  0.377168  0.365155  0.491273  1
+  F  F10  1  0.873884  0.365155  0.987988  1
+  F  F11  1  0.114104  0.622833  0.987988  1

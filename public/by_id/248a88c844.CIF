@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_Sr2Zn(PRh2)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.77872200
+_cell_length_b   9.77872292
+_cell_length_c   3.92092700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001718
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2Zn(PRh2)6
+_chemical_formula_sum   'Sr2 Zn1 P6 Rh12'
+_cell_volume   324.70094568
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.333333  0.666667  0.751482  1
+  Sr  Sr1  1  0.666667  0.333333  0.248518  1
+  Zn  Zn2  1  0.000000  0.000000  0.500000  1
+  P  P3  1  0.889574  0.603066  0.749019  1
+  P  P4  1  0.396934  0.286507  0.749019  1
+  P  P5  1  0.713493  0.110426  0.749019  1
+  P  P6  1  0.110426  0.396934  0.250981  1
+  P  P7  1  0.603066  0.713493  0.250981  1
+  P  P8  1  0.286507  0.889574  0.250981  1
+  Rh  Rh9  1  0.613795  0.554358  0.749702  1
+  Rh  Rh10  1  0.445642  0.059439  0.749702  1
+  Rh  Rh11  1  0.940561  0.386205  0.749702  1
+  Rh  Rh12  1  0.386205  0.445642  0.250298  1
+  Rh  Rh13  1  0.554358  0.940561  0.250298  1
+  Rh  Rh14  1  0.059439  0.613795  0.250298  1
+  Rh  Rh15  1  0.123154  0.845582  0.752181  1
+  Rh  Rh16  1  0.154418  0.277573  0.752181  1
+  Rh  Rh17  1  0.722427  0.876846  0.752181  1
+  Rh  Rh18  1  0.876846  0.154418  0.247819  1
+  Rh  Rh19  1  0.845582  0.722427  0.247819  1
+  Rh  Rh20  1  0.277573  0.123154  0.247819  1

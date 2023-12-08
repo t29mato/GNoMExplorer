@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_K2MnCuSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   13.37552223
+_cell_length_b   11.95109380
+_cell_length_c   7.26904423
+_cell_angle_alpha   84.46347729
+_cell_angle_beta   62.78999807
+_cell_angle_gamma   32.74652334
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2MnCuSe4
+_chemical_formula_sum   'K4 Mn2 Cu2 Se8'
+_cell_volume   447.65122694
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.680560  0.680560  0.319440  1
+  K  K1  1  0.319440  0.319440  0.680560  1
+  K  K2  1  0.569440  0.569440  0.930560  1
+  K  K3  1  0.930560  0.930560  0.569440  1
+  Mn  Mn4  1  0.500000  0.500000  0.500000  1
+  Mn  Mn5  1  0.750000  0.750000  0.750000  1
+  Cu  Cu6  1  0.000000  0.000000  0.000000  1
+  Cu  Cu7  1  0.250000  0.250000  0.250000  1
+  Se  Se8  1  0.364206  0.023115  0.937612  1
+  Se  Se9  1  0.675066  0.937612  0.023115  1
+  Se  Se10  1  0.937612  0.675066  0.364206  1
+  Se  Se11  1  0.023115  0.364206  0.675066  1
+  Se  Se12  1  0.885794  0.226885  0.312388  1
+  Se  Se13  1  0.574934  0.312388  0.226885  1
+  Se  Se14  1  0.312388  0.574934  0.885794  1
+  Se  Se15  1  0.226885  0.885794  0.574934  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Be8Fe3Os
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.22557000
+_cell_length_b   4.22557140
+_cell_length_c   6.88896900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000473
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Be8Fe3Os
+_chemical_formula_sum   'Be8 Fe3 Os1'
+_cell_volume   106.52599172
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.170476  0.340950  0.751436  1
+  Be  Be1  1  0.170476  0.829524  0.751436  1
+  Be  Be2  1  0.339271  0.169636  0.248796  1
+  Be  Be3  1  0.830364  0.660729  0.248796  1
+  Be  Be4  1  0.000000  0.000000  0.996842  1
+  Be  Be5  1  0.659050  0.829524  0.751436  1
+  Be  Be6  1  0.830364  0.169636  0.248796  1
+  Be  Be7  1  0.000000  0.000000  0.500898  1
+  Fe  Fe8  1  0.666667  0.333333  0.938503  1
+  Fe  Fe9  1  0.333333  0.666667  0.057415  1
+  Fe  Fe10  1  0.666667  0.333333  0.567469  1
+  Os  Os11  1  0.333333  0.666667  0.438179  1

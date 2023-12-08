@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_AlFe2Ni(AuO2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.24813259
+_cell_length_b   6.11958234
+_cell_length_c   7.08042233
+_cell_angle_alpha   64.37411419
+_cell_angle_beta   75.81799620
+_cell_angle_gamma   89.92076355
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlFe2Ni(AuO2)4
+_chemical_formula_sum   'Al1 Fe2 Ni1 Au4 O8'
+_cell_volume   197.35360373
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.500001  0.249966  0.000002  1
+  Fe  Fe1  1  0.999916  0.500853  0.000017  1
+  Fe  Fe2  1  0.000074  0.999203  0.999984  1
+  Ni  Ni3  1  0.500004  0.749994  0.999996  1
+  Au  Au4  1  0.008398  0.001300  0.497583  1
+  Au  Au5  1  0.991605  0.498784  0.502421  1
+  Au  Au6  1  0.499998  0.749974  0.499987  1
+  Au  Au7  1  0.500009  0.249964  0.500009  1
+  O  O8  1  0.898754  0.834775  0.830650  1
+  O  O9  1  0.870052  0.330840  0.838364  1
+  O  O10  1  0.392108  0.564347  0.836488  1
+  O  O11  1  0.392234  0.099147  0.836505  1
+  O  O12  1  0.129953  0.169227  0.161637  1
+  O  O13  1  0.101235  0.665277  0.169352  1
+  O  O14  1  0.607883  0.935584  0.163484  1
+  O  O15  1  0.607776  0.400765  0.163518  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_LaPr2InHg2Rh3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.62620314
+_cell_length_b   7.75583261
+_cell_length_c   4.09501500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.94057720
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaPr2InHg2Rh3
+_chemical_formula_sum   'La1 Pr2 In1 Hg2 Rh3'
+_cell_volume   209.88560941
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.000005  0.593976  0.500000  1
+  Pr  Pr1  1  0.405156  0.405181  0.500000  1
+  Pr  Pr2  1  0.599194  0.999653  0.500000  1
+  In  In3  1  0.256934  0.003724  0.000000  1
+  Hg  Hg4  1  0.740616  0.744994  0.000000  1
+  Hg  Hg5  1  0.999625  0.251314  0.000000  1
+  Rh  Rh6  1  0.322123  0.674452  0.000000  1
+  Rh  Rh7  1  0.018031  0.997865  0.500000  1
+  Rh  Rh8  1  0.658315  0.328841  0.000000  1

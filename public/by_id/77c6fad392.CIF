@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_ErTm2Si2Ag3Hg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.19133804
+_cell_length_b   7.19133786
+_cell_length_c   4.19163800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.98814841
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErTm2Si2Ag3Hg
+_chemical_formula_sum   'Er1 Tm2 Si2 Ag3 Hg1'
+_cell_volume   187.75246618
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.421837  0.421837  0.500000  1
+  Tm  Tm1  1  0.578237  0.000047  0.500000  1
+  Tm  Tm2  1  0.000047  0.578237  0.500000  1
+  Si  Si3  1  0.667081  0.333077  0.000000  1
+  Si  Si4  1  0.333077  0.667081  0.000000  1
+  Ag  Ag5  1  0.730049  0.730049  0.000000  1
+  Ag  Ag6  1  0.270387  0.999806  0.000000  1
+  Ag  Ag7  1  0.999806  0.270387  0.000000  1
+  Hg  Hg8  1  0.999479  0.999479  0.500000  1

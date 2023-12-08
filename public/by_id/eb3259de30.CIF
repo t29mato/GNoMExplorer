@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_YbCd(CuPd)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.20509549
+_cell_length_b   5.49125992
+_cell_length_c   5.20509547
+_cell_angle_alpha   58.16406073
+_cell_angle_beta   58.04329323
+_cell_angle_gamma   58.16406203
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbCd(CuPd)2
+_chemical_formula_sum   'Yb1 Cd1 Cu2 Pd2'
+_cell_volume   100.67483719
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.750553  0.749447  0.750553  1
+  Cd  Cd1  1  0.997573  0.002427  0.997573  1
+  Cu  Cu2  1  0.874813  0.373943  0.377300  1
+  Cu  Cu3  1  0.377300  0.373943  0.874813  1
+  Pd  Pd4  1  0.374881  0.876045  0.374881  1
+  Pd  Pd5  1  0.374881  0.374193  0.374881  1

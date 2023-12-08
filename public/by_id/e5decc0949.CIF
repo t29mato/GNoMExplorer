@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Tb13Dy7(FeHg3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.62528465
+_cell_length_b   9.62528492
+_cell_length_c   9.66207800
+_cell_angle_alpha   89.94367619
+_cell_angle_beta   90.05632382
+_cell_angle_gamma   120.00724850
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb13Dy7(FeHg3)2
+_chemical_formula_sum   'Tb13 Dy7 Fe2 Hg6'
+_cell_volume   775.16890114
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.000029  0.999971  0.499991  1
+  Tb  Tb1  1  0.999748  0.000252  0.999895  1
+  Tb  Tb2  1  0.541584  0.458416  0.250754  1
+  Tb  Tb3  1  0.541830  0.083403  0.250537  1
+  Tb  Tb4  1  0.916597  0.458170  0.250537  1
+  Tb  Tb5  1  0.458270  0.541730  0.749307  1
+  Tb  Tb6  1  0.458564  0.916979  0.749363  1
+  Tb  Tb7  1  0.083021  0.541436  0.749363  1
+  Tb  Tb8  1  0.787937  0.575671  0.935449  1
+  Tb  Tb9  1  0.424329  0.212063  0.935449  1
+  Tb  Tb10  1  0.212063  0.787937  0.064620  1
+  Tb  Tb11  1  0.211854  0.424117  0.064537  1
+  Tb  Tb12  1  0.575883  0.788146  0.064537  1
+  Dy  Dy13  1  0.212253  0.787747  0.436003  1
+  Dy  Dy14  1  0.212237  0.424535  0.435983  1
+  Dy  Dy15  1  0.575465  0.787763  0.435983  1
+  Dy  Dy16  1  0.787834  0.212166  0.564214  1
+  Dy  Dy17  1  0.787654  0.575251  0.564102  1
+  Dy  Dy18  1  0.424749  0.212346  0.564102  1
+  Dy  Dy19  1  0.787637  0.212363  0.935189  1
+  Fe  Fe20  1  0.333351  0.666649  0.250779  1
+  Fe  Fe21  1  0.667101  0.332899  0.749392  1
+  Hg  Hg22  1  0.881789  0.118211  0.249897  1
+  Hg  Hg23  1  0.881829  0.763593  0.250005  1
+  Hg  Hg24  1  0.236407  0.118171  0.250005  1
+  Hg  Hg25  1  0.118199  0.881801  0.750117  1
+  Hg  Hg26  1  0.118231  0.236449  0.749947  1
+  Hg  Hg27  1  0.763551  0.881769  0.749947  1

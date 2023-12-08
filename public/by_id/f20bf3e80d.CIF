@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_BaReF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.06349919
+_cell_length_b   5.06371033
+_cell_length_c   5.06371056
+_cell_angle_alpha   97.62522352
+_cell_angle_beta   97.62495971
+_cell_angle_gamma   97.62497396
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaReF6
+_chemical_formula_sum   'Ba1 Re1 F6'
+_cell_volume   126.04654839
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.499999  0.500000  0.499999  1
+  Re  Re1  1  0.000000  0.000000  0.000000  1
+  F  F2  1  0.717556  0.717556  0.070042  1
+  F  F3  1  0.929954  0.282441  0.282440  1
+  F  F4  1  0.282445  0.929958  0.282444  1
+  F  F5  1  0.717555  0.070043  0.717556  1
+  F  F6  1  0.070047  0.717559  0.717560  1
+  F  F7  1  0.282444  0.282444  0.929959  1

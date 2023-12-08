@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Pa3Si2Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.93174900
+_cell_length_b   10.41138200
+_cell_length_c   11.66134400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pa3Si2Ni
+_chemical_formula_sum   'Pa12 Si8 Ni4'
+_cell_volume   477.35642590
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.250000  0.072054  0.872067  1
+  Pa  Pa1  1  0.250000  0.427946  0.372067  1
+  Pa  Pa2  1  0.750000  0.927946  0.127933  1
+  Pa  Pa3  1  0.750000  0.572054  0.627933  1
+  Pa  Pa4  1  0.250000  0.102496  0.545230  1
+  Pa  Pa5  1  0.250000  0.397504  0.045230  1
+  Pa  Pa6  1  0.750000  0.897504  0.454770  1
+  Pa  Pa7  1  0.750000  0.602496  0.954770  1
+  Pa  Pa8  1  0.250000  0.760221  0.720128  1
+  Pa  Pa9  1  0.250000  0.739779  0.220128  1
+  Pa  Pa10  1  0.750000  0.239779  0.279872  1
+  Pa  Pa11  1  0.750000  0.260221  0.779872  1
+  Si  Si12  1  0.250000  0.805900  0.973969  1
+  Si  Si13  1  0.250000  0.694100  0.473969  1
+  Si  Si14  1  0.750000  0.194100  0.026031  1
+  Si  Si15  1  0.750000  0.305900  0.526031  1
+  Si  Si16  1  0.250000  0.482088  0.800962  1
+  Si  Si17  1  0.250000  0.017912  0.300962  1
+  Si  Si18  1  0.750000  0.517912  0.199038  1
+  Si  Si19  1  0.750000  0.982088  0.699038  1
+  Ni  Ni20  1  0.250000  0.369578  0.623705  1
+  Ni  Ni21  1  0.250000  0.130422  0.123705  1
+  Ni  Ni22  1  0.750000  0.630422  0.376295  1
+  Ni  Ni23  1  0.750000  0.869578  0.876295  1

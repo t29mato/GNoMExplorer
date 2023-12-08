@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_DyHo3(MoOs3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.48110500
+_cell_length_b   5.48110560
+_cell_length_c   8.52936100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001447
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyHo3(MoOs3)2
+_chemical_formula_sum   'Dy1 Ho3 Mo2 Os6'
+_cell_volume   221.91331227
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.333333  0.666667  0.435380  1
+  Ho  Ho1  1  0.666667  0.333333  0.564535  1
+  Ho  Ho2  1  0.666667  0.333333  0.935585  1
+  Ho  Ho3  1  0.333333  0.666667  0.064348  1
+  Mo  Mo4  1  0.000000  0.000000  0.499983  1
+  Mo  Mo5  1  0.000000  0.000000  0.000055  1
+  Os  Os6  1  0.827478  0.172522  0.249744  1
+  Os  Os7  1  0.827478  0.654957  0.249744  1
+  Os  Os8  1  0.345043  0.172522  0.249744  1
+  Os  Os9  1  0.172480  0.827520  0.750292  1
+  Os  Os10  1  0.172480  0.344962  0.750292  1
+  Os  Os11  1  0.655038  0.827520  0.750292  1

@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Mg2Cd2As(PN2)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.35306923
+_cell_length_b   7.40304883
+_cell_length_c   7.35306985
+_cell_angle_alpha   109.79087968
+_cell_angle_beta   108.55536150
+_cell_angle_gamma   109.79088950
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2Cd2As(PN2)6
+_chemical_formula_sum   'Mg2 Cd2 As1 P6 N12'
+_cell_volume   309.13560991
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.613529  0.000000  0.997702  1
+  Mg  Mg1  1  0.997702  0.000000  0.613529  1
+  Cd  Cd2  1  0.003748  0.675659  0.003748  1
+  Cd  Cd3  1  0.328090  0.324341  0.328090  1
+  As  As4  1  0.979047  0.000000  0.979047  1
+  P  P5  1  0.253888  0.750319  0.505447  1
+  P  P6  1  0.755128  0.249681  0.503569  1
+  P  P7  1  0.754150  0.500000  0.254150  1
+  P  P8  1  0.254150  0.500000  0.754150  1
+  P  P9  1  0.505447  0.750319  0.253888  1
+  P  P10  1  0.503569  0.249681  0.755128  1
+  N  N11  1  0.715684  0.281731  0.284894  1
+  N  N12  1  0.291240  0.716278  0.291240  1
+  N  N13  1  0.296294  0.577424  0.580559  1
+  N  N14  1  0.580559  0.577424  0.296294  1
+  N  N15  1  0.433952  0.718269  0.003163  1
+  N  N16  1  0.003163  0.718269  0.433952  1
+  N  N17  1  0.574961  0.283722  0.574961  1
+  N  N18  1  0.724676  0.000000  0.424124  1
+  N  N19  1  0.424124  0.000000  0.724676  1
+  N  N20  1  0.718869  0.422576  0.003135  1
+  N  N21  1  0.284894  0.281731  0.715684  1
+  N  N22  1  0.003135  0.422576  0.718869  1

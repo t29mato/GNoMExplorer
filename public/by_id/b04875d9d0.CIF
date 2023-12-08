@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Pr(Nd2Ag3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   17.60901920
+_cell_length_b   17.60901810
+_cell_length_c   4.05131200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   166.33892954
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr(Nd2Ag3)2
+_chemical_formula_sum   'Pr1 Nd4 Ag6'
+_cell_volume   296.69169491
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.000000  0.000000  0.000000  1
+  Nd  Nd1  1  0.623450  0.376548  0.000000  1
+  Nd  Nd2  1  0.376548  0.623450  0.000000  1
+  Nd  Nd3  1  0.808776  0.191222  0.500001  1
+  Nd  Nd4  1  0.191222  0.808776  0.500001  1
+  Ag  Ag5  1  0.723238  0.276760  0.000000  1
+  Ag  Ag6  1  0.276760  0.723238  0.000000  1
+  Ag  Ag7  1  0.908302  0.091697  0.500001  1
+  Ag  Ag8  1  0.539969  0.460029  0.500001  1
+  Ag  Ag9  1  0.460029  0.539969  0.500001  1
+  Ag  Ag10  1  0.091697  0.908302  0.500001  1

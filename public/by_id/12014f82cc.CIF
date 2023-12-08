@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_LaCe(DySe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.29820209
+_cell_length_b   7.29820129
+_cell_length_c   7.22584835
+_cell_angle_alpha   80.20985969
+_cell_angle_beta   80.20985952
+_cell_angle_gamma   32.94359534
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaCe(DySe2)2
+_chemical_formula_sum   'La1 Ce1 Dy2 Se4'
+_cell_volume   205.98387551
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.500000  0.500000  0.500000  1
+  Ce  Ce1  1  0.000000  0.000000  0.000000  1
+  Dy  Dy2  1  0.752158  0.752158  0.751717  1
+  Dy  Dy3  1  0.247842  0.247842  0.248283  1
+  Se  Se4  1  0.368631  0.368631  0.881254  1
+  Se  Se5  1  0.134292  0.134292  0.626322  1
+  Se  Se6  1  0.865708  0.865708  0.373678  1
+  Se  Se7  1  0.631369  0.631369  0.118746  1

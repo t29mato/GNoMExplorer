@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Tb3Er7Cd3Co
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.54650400
+_cell_length_b   9.54650352
+_cell_length_c   9.68326900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999475
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb3Er7Cd3Co
+_chemical_formula_sum   'Tb6 Er14 Cd6 Co2'
+_cell_volume   764.26038202
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.541954  0.458046  0.250000  1
+  Tb  Tb1  1  0.541954  0.083908  0.250000  1
+  Tb  Tb2  1  0.916092  0.458046  0.250000  1
+  Tb  Tb3  1  0.458046  0.541954  0.750000  1
+  Tb  Tb4  1  0.458046  0.916092  0.750000  1
+  Tb  Tb5  1  0.083908  0.541954  0.750000  1
+  Er  Er6  1  0.000000  0.000000  0.500000  1
+  Er  Er7  1  0.000000  0.000000  0.000000  1
+  Er  Er8  1  0.211880  0.788120  0.436472  1
+  Er  Er9  1  0.211880  0.423759  0.436472  1
+  Er  Er10  1  0.576241  0.788120  0.436472  1
+  Er  Er11  1  0.788120  0.211880  0.563528  1
+  Er  Er12  1  0.788120  0.576241  0.563528  1
+  Er  Er13  1  0.423759  0.211880  0.563528  1
+  Er  Er14  1  0.788120  0.211880  0.936472  1
+  Er  Er15  1  0.788120  0.576241  0.936472  1
+  Er  Er16  1  0.423759  0.211880  0.936472  1
+  Er  Er17  1  0.211880  0.788120  0.063528  1
+  Er  Er18  1  0.211880  0.423759  0.063528  1
+  Er  Er19  1  0.576241  0.788120  0.063528  1
+  Cd  Cd20  1  0.885708  0.114292  0.250000  1
+  Cd  Cd21  1  0.885708  0.771418  0.250000  1
+  Cd  Cd22  1  0.228582  0.114292  0.250000  1
+  Cd  Cd23  1  0.114292  0.885708  0.750000  1
+  Cd  Cd24  1  0.114292  0.228582  0.750000  1
+  Cd  Cd25  1  0.771418  0.885708  0.750000  1
+  Co  Co26  1  0.333333  0.666667  0.250000  1
+  Co  Co27  1  0.666667  0.333333  0.750000  1

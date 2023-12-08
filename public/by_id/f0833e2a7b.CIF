@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ti9CrSi5Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.44119251
+_cell_length_b   7.44583875
+_cell_length_c   5.06474726
+_cell_angle_alpha   89.96301690
+_cell_angle_beta   90.01665527
+_cell_angle_gamma   120.15509268
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti9CrSi5Ge
+_chemical_formula_sum   'Ti9 Cr1 Si5 Ge1'
+_cell_volume   242.64069406
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.997815  0.749246  0.752365  1
+  Ti  Ti1  1  0.247313  0.244284  0.751404  1
+  Ti  Ti2  1  0.993769  0.247267  0.247187  1
+  Ti  Ti3  1  0.751992  0.002910  0.752738  1
+  Ti  Ti4  1  0.756944  0.754128  0.248554  1
+  Ti  Ti5  1  0.332926  0.668597  0.998589  1
+  Ti  Ti6  1  0.249346  0.998377  0.247591  1
+  Ti  Ti7  1  0.668133  0.333255  0.501174  1
+  Ti  Ti8  1  0.668766  0.332627  0.998852  1
+  Cr  Cr9  1  0.333011  0.669486  0.502240  1
+  Si  Si10  1  0.603273  0.609486  0.740828  1
+  Si  Si11  1  0.391442  0.994955  0.739230  1
+  Si  Si12  1  0.005690  0.607731  0.261267  1
+  Si  Si13  1  0.601551  0.993336  0.261322  1
+  Si  Si14  1  0.007107  0.397621  0.738796  1
+  Ge  Ge15  1  0.390923  0.396693  0.257861  1

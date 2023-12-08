@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_PaGaNi5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.02715513
+_cell_length_b   5.02715335
+_cell_length_c   5.02715419
+_cell_angle_alpha   103.59762086
+_cell_angle_beta   103.59762010
+_cell_angle_gamma   121.99171080
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PaGaNi5
+_chemical_formula_sum   'Pa1 Ga1 Ni5'
+_cell_volume   94.23846220
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.000000  0.000000  0.000000  1
+  Ga  Ga1  1  0.250000  0.750000  0.500000  1
+  Ni  Ni2  1  0.697306  0.302694  0.000000  1
+  Ni  Ni3  1  0.302694  0.697306  0.000000  1
+  Ni  Ni4  1  0.302694  0.302694  0.605390  1
+  Ni  Ni5  1  0.697306  0.697306  0.394610  1
+  Ni  Ni6  1  0.750000  0.250000  0.500000  1

@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ta3TiNb2Al4(AuC)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.40416048
+_cell_length_b   8.40438161
+_cell_length_c   8.40143500
+_cell_angle_alpha   60.01027093
+_cell_angle_beta   60.00962130
+_cell_angle_gamma   59.97378451
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta3TiNb2Al4(AuC)2
+_chemical_formula_sum   'Ta6 Ti2 Nb4 Al8 Au4 C4'
+_cell_volume   419.58282678
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.680589  0.319558  0.679332  1
+  Ta  Ta1  1  0.319559  0.680591  0.320522  1
+  Ta  Ta2  1  0.570743  0.929282  0.570064  1
+  Ta  Ta3  1  0.570327  0.929684  0.930577  1
+  Ta  Ta4  1  0.929686  0.570326  0.569410  1
+  Ta  Ta5  1  0.929282  0.570745  0.929909  1
+  Ti  Ti6  1  0.321999  0.321994  0.678006  1
+  Ti  Ti7  1  0.572115  0.572118  0.927886  1
+  Nb  Nb8  1  0.929210  0.929209  0.570789  1
+  Nb  Nb9  1  0.681186  0.318728  0.319674  1
+  Nb  Nb10  1  0.318731  0.681185  0.680408  1
+  Nb  Nb11  1  0.679459  0.679467  0.320536  1
+  Al  Al12  1  0.911495  0.260156  0.914409  1
+  Al  Al13  1  0.335797  0.336427  0.989535  1
+  Al  Al14  1  0.992425  0.335895  0.335561  1
+  Al  Al15  1  0.336425  0.335801  0.338241  1
+  Al  Al16  1  0.260150  0.911498  0.913947  1
+  Al  Al17  1  0.914679  0.914209  0.913848  1
+  Al  Al18  1  0.914208  0.914679  0.257268  1
+  Al  Al19  1  0.335889  0.992428  0.336119  1
+  Au  Au20  1  0.127630  0.623926  0.124924  1
+  Au  Au21  1  0.125631  0.126878  0.626060  1
+  Au  Au22  1  0.623925  0.127630  0.123520  1
+  Au  Au23  1  0.126880  0.125633  0.121431  1
+  C  C24  1  0.617695  0.127140  0.628457  1
+  C  C25  1  0.622736  0.624405  0.121108  1
+  C  C26  1  0.127150  0.617675  0.626714  1
+  C  C27  1  0.624404  0.622735  0.631742  1

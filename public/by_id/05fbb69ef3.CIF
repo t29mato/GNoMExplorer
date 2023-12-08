@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ca(NiH3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.49217085
+_cell_length_b   4.47609793
+_cell_length_c   4.29125289
+_cell_angle_alpha   89.41351580
+_cell_angle_beta   90.40848029
+_cell_angle_gamma   119.92241070
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca(NiH3)2
+_chemical_formula_sum   'Ca1 Ni2 H6'
+_cell_volume   74.78003562
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.474689  0.394076  0.516026  1
+  Ni  Ni1  1  0.142549  0.727270  0.008373  1
+  Ni  Ni2  1  0.807359  0.060578  0.007996  1
+  H  H3  1  0.030044  0.391484  0.231162  1
+  H  H4  1  0.473960  0.840616  0.786735  1
+  H  H5  1  0.919998  0.835683  0.231430  1
+  H  H6  1  0.018075  0.940748  0.782372  1
+  H  H7  1  0.475467  0.960741  0.225542  1
+  H  H8  1  0.930994  0.396691  0.782636  1

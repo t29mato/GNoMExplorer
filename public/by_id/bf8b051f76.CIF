@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sr4CdSi6Ag
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.73220134
+_cell_length_b   8.51307700
+_cell_length_c   6.34799371
+_cell_angle_alpha   70.25253670
+_cell_angle_beta   66.57381811
+_cell_angle_gamma   43.17364520
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr4CdSi6Ag
+_chemical_formula_sum   'Sr4 Cd1 Si6 Ag1'
+_cell_volume   295.39851430
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.751290  0.751290  0.748710  1
+  Sr  Sr1  1  0.754016  0.243834  0.756166  1
+  Sr  Sr2  1  0.251290  0.251290  0.248710  1
+  Sr  Sr3  1  0.243834  0.754016  0.245984  1
+  Cd  Cd4  1  0.665901  0.665901  0.334099  1
+  Si  Si5  1  0.841293  0.316862  0.158707  1
+  Si  Si6  1  0.672280  0.164327  0.327720  1
+  Si  Si7  1  0.164327  0.672280  0.835673  1
+  Si  Si8  1  0.316862  0.841293  0.683138  1
+  Si  Si9  1  0.162463  0.162463  0.837537  1
+  Si  Si10  1  0.842776  0.842776  0.157224  1
+  Ag  Ag11  1  0.333669  0.333669  0.666331  1

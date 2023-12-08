@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ho5B(WC3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.40190720
+_cell_length_b   8.40190758
+_cell_length_c   3.41087300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   122.51189118
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho5B(WC3)2
+_chemical_formula_sum   'Ho5 B1 W2 C6'
+_cell_volume   203.04536812
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.500000  0.500000  0.000000  1
+  Ho  Ho1  1  0.076835  0.326379  0.500000  1
+  Ho  Ho2  1  0.923165  0.673621  0.500000  1
+  Ho  Ho3  1  0.673621  0.923165  0.500000  1
+  Ho  Ho4  1  0.326379  0.076835  0.500000  1
+  B  B5  1  0.000000  0.000000  0.000000  1
+  W  W6  1  0.712565  0.287435  0.000000  1
+  W  W7  1  0.287435  0.712565  0.000000  1
+  C  C8  1  0.627397  0.372603  0.500000  1
+  C  C9  1  0.372603  0.627397  0.500000  1
+  C  C10  1  0.182708  0.182708  0.000000  1
+  C  C11  1  0.817292  0.817292  0.000000  1
+  C  C12  1  0.000000  0.500000  0.000000  1
+  C  C13  1  0.500000  0.000000  0.000000  1

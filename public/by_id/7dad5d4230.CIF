@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Lu10Si4BiRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.68378831
+_cell_length_b   8.68378830
+_cell_length_c   8.68378791
+_cell_angle_alpha   129.80086856
+_cell_angle_beta   129.80087930
+_cell_angle_gamma   73.72530853
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu10Si4BiRh
+_chemical_formula_sum   'Lu10 Si4 Bi1 Rh1'
+_cell_volume   377.08982889
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.985436  0.985436  0.000000  1
+  Lu  Lu1  1  0.514564  0.514564  0.000000  1
+  Lu  Lu2  1  0.833382  0.286497  0.836174  1
+  Lu  Lu3  1  0.213503  0.666618  0.163826  1
+  Lu  Lu4  1  0.450326  0.997209  0.163826  1
+  Lu  Lu5  1  0.286497  0.450326  0.453117  1
+  Lu  Lu6  1  0.049674  0.213503  0.546883  1
+  Lu  Lu7  1  0.502791  0.049674  0.836174  1
+  Lu  Lu8  1  0.666618  0.502791  0.453117  1
+  Lu  Lu9  1  0.997209  0.833382  0.546883  1
+  Si  Si10  1  0.129761  0.629761  0.759522  1
+  Si  Si11  1  0.870239  0.370239  0.240478  1
+  Si  Si12  1  0.629761  0.870239  0.500000  1
+  Si  Si13  1  0.370239  0.129761  0.500000  1
+  Bi  Bi14  1  0.750000  0.750000  0.000000  1
+  Rh  Rh15  1  0.250000  0.250000  0.000000  1

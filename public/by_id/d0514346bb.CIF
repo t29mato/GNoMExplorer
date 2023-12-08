@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LiPr2GaPd2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.47575400
+_cell_length_b   7.21902900
+_cell_length_c   8.07055000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiPr2GaPd2
+_chemical_formula_sum   'Li2 Pr4 Ga2 Pd4'
+_cell_volume   260.76429607
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.250000  0.145891  0.069991  1
+  Li  Li1  1  0.250000  0.645891  0.430009  1
+  Pr  Pr2  1  0.250000  0.032887  0.692866  1
+  Pr  Pr3  1  0.250000  0.532887  0.807134  1
+  Pr  Pr4  1  0.750000  0.976277  0.307451  1
+  Pr  Pr5  1  0.750000  0.476277  0.192549  1
+  Ga  Ga6  1  0.750000  0.849723  0.933250  1
+  Ga  Ga7  1  0.750000  0.349723  0.566750  1
+  Pd  Pd8  1  0.250000  0.271798  0.398040  1
+  Pd  Pd9  1  0.250000  0.771798  0.101960  1
+  Pd  Pd10  1  0.750000  0.723425  0.608724  1
+  Pd  Pd11  1  0.750000  0.223425  0.891276  1

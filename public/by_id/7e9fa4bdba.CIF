@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ti9Nb3AgSn9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.33027100
+_cell_length_b   9.33027150
+_cell_length_c   5.69773400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000177
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti9Nb3AgSn9
+_chemical_formula_sum   'Ti9 Nb3 Ag1 Sn9'
+_cell_volume   429.55752731
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.841652  0.683304  0.774185  1
+  Ti  Ti1  1  0.158348  0.841652  0.225815  1
+  Ti  Ti2  1  0.683304  0.841652  0.225815  1
+  Ti  Ti3  1  0.316696  0.158348  0.774185  1
+  Ti  Ti4  1  0.841652  0.158348  0.774185  1
+  Ti  Ti5  1  0.158348  0.316696  0.225815  1
+  Ti  Ti6  1  0.500000  0.000000  0.500000  1
+  Ti  Ti7  1  0.000000  0.500000  0.500000  1
+  Ti  Ti8  1  0.500000  0.500000  0.500000  1
+  Nb  Nb9  1  0.500000  0.500000  0.000000  1
+  Nb  Nb10  1  0.000000  0.500000  0.000000  1
+  Nb  Nb11  1  0.500000  0.000000  0.000000  1
+  Ag  Ag12  1  0.000000  0.000000  0.500000  1
+  Sn  Sn13  1  0.198186  0.396372  0.731417  1
+  Sn  Sn14  1  0.801814  0.198186  0.268583  1
+  Sn  Sn15  1  0.396372  0.198186  0.268583  1
+  Sn  Sn16  1  0.603628  0.801814  0.731417  1
+  Sn  Sn17  1  0.198186  0.801814  0.731417  1
+  Sn  Sn18  1  0.801814  0.603628  0.268583  1
+  Sn  Sn19  1  0.666667  0.333333  0.759883  1
+  Sn  Sn20  1  0.333333  0.666667  0.240117  1
+  Sn  Sn21  1  0.000000  0.000000  0.000000  1

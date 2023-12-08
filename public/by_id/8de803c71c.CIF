@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_SrNd3(PPd3)8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.55195298
+_cell_length_b   8.55195298
+_cell_length_c   8.55195298
+_cell_angle_alpha   90.12976716
+_cell_angle_beta   90.12976716
+_cell_angle_gamma   90.12976716
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrNd3(PPd3)8
+_chemical_formula_sum   'Sr1 Nd3 P8 Pd24'
+_cell_volume   625.44995611
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.000000  0.000000  0.000000  1
+  Nd  Nd1  1  0.500000  0.500000  0.000000  1
+  Nd  Nd2  1  0.500000  0.000000  0.500000  1
+  Nd  Nd3  1  0.000000  0.500000  0.500000  1
+  P  P4  1  0.806801  0.308427  0.190682  1
+  P  P5  1  0.190682  0.806801  0.308427  1
+  P  P6  1  0.691867  0.691867  0.691867  1
+  P  P7  1  0.308427  0.190682  0.806801  1
+  P  P8  1  0.193199  0.691573  0.809318  1
+  P  P9  1  0.809318  0.193199  0.691573  1
+  P  P10  1  0.308133  0.308133  0.308133  1
+  P  P11  1  0.691573  0.809318  0.193199  1
+  Pd  Pd12  1  0.419726  0.848052  0.164468  1
+  Pd  Pd13  1  0.579141  0.348172  0.336427  1
+  Pd  Pd14  1  0.079258  0.156012  0.658767  1
+  Pd  Pd15  1  0.921943  0.649416  0.832739  1
+  Pd  Pd16  1  0.164468  0.419726  0.848052  1
+  Pd  Pd17  1  0.336427  0.579141  0.348172  1
+  Pd  Pd18  1  0.658767  0.079258  0.156012  1
+  Pd  Pd19  1  0.832739  0.921943  0.649416  1
+  Pd  Pd20  1  0.848052  0.164468  0.419726  1
+  Pd  Pd21  1  0.348172  0.336427  0.579141  1
+  Pd  Pd22  1  0.156012  0.658767  0.079258  1
+  Pd  Pd23  1  0.649416  0.832739  0.921943  1
+  Pd  Pd24  1  0.580274  0.151948  0.835532  1
+  Pd  Pd25  1  0.420859  0.651828  0.663573  1
+  Pd  Pd26  1  0.920742  0.843988  0.341233  1
+  Pd  Pd27  1  0.078057  0.350584  0.167261  1
+  Pd  Pd28  1  0.835532  0.580274  0.151948  1
+  Pd  Pd29  1  0.663573  0.420859  0.651828  1
+  Pd  Pd30  1  0.341233  0.920742  0.843988  1
+  Pd  Pd31  1  0.167261  0.078057  0.350584  1
+  Pd  Pd32  1  0.151948  0.835532  0.580274  1
+  Pd  Pd33  1  0.651828  0.663573  0.420859  1
+  Pd  Pd34  1  0.843988  0.341233  0.920742  1
+  Pd  Pd35  1  0.350584  0.167261  0.078057  1

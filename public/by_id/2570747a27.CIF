@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Lu4Sc(ZnTe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.42806856
+_cell_length_b   8.42806963
+_cell_length_c   7.67998300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   125.78328876
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu4Sc(ZnTe)2
+_chemical_formula_sum   'Lu8 Sc2 Zn4 Te4'
+_cell_volume   442.55045396
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.787769  0.540957  0.164473  1
+  Lu  Lu1  1  0.459043  0.212231  0.835527  1
+  Lu  Lu2  1  0.959043  0.712231  0.664473  1
+  Lu  Lu3  1  0.287769  0.040957  0.335527  1
+  Lu  Lu4  1  0.212231  0.459043  0.835527  1
+  Lu  Lu5  1  0.540957  0.787769  0.164473  1
+  Lu  Lu6  1  0.040957  0.287769  0.335527  1
+  Lu  Lu7  1  0.712231  0.959043  0.664473  1
+  Sc  Sc8  1  0.000000  0.000000  0.000000  1
+  Sc  Sc9  1  0.500000  0.500000  0.500000  1
+  Zn  Zn10  1  0.869231  0.869231  0.371609  1
+  Zn  Zn11  1  0.130769  0.130769  0.628391  1
+  Zn  Zn12  1  0.630769  0.630769  0.871609  1
+  Zn  Zn13  1  0.369231  0.369231  0.128391  1
+  Te  Te14  1  0.205217  0.794783  0.000000  1
+  Te  Te15  1  0.705217  0.294783  0.500000  1
+  Te  Te16  1  0.794783  0.205217  0.000000  1
+  Te  Te17  1  0.294783  0.705217  0.500000  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Lu5NiBiAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.38260676
+_cell_length_b   8.38260671
+_cell_length_c   8.68252752
+_cell_angle_alpha   125.36532833
+_cell_angle_beta   125.36532993
+_cell_angle_gamma   78.52196437
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu5NiBiAu
+_chemical_formula_sum   'Lu10 Ni2 Bi2 Au2'
+_cell_volume   397.14691917
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.000000  0.000000  0.000000  1
+  Lu  Lu1  1  0.500000  0.500000  0.000000  1
+  Lu  Lu2  1  0.776716  0.276716  0.783288  1
+  Lu  Lu3  1  0.223284  0.723284  0.216712  1
+  Lu  Lu4  1  0.493429  0.993429  0.216712  1
+  Lu  Lu5  1  0.307348  0.463359  0.500000  1
+  Lu  Lu6  1  0.036641  0.192652  0.500000  1
+  Lu  Lu7  1  0.506571  0.006571  0.783288  1
+  Lu  Lu8  1  0.692652  0.536641  0.500000  1
+  Lu  Lu9  1  0.963359  0.807348  0.500000  1
+  Ni  Ni10  1  0.632217  0.867783  0.500000  1
+  Ni  Ni11  1  0.367783  0.132217  0.500000  1
+  Bi  Bi12  1  0.250000  0.250000  0.000000  1
+  Bi  Bi13  1  0.750000  0.750000  0.000000  1
+  Au  Au14  1  0.136875  0.636875  0.773751  1
+  Au  Au15  1  0.863125  0.363125  0.226249  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_LiY2Si2AgGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.34109933
+_cell_length_b   9.34109875
+_cell_length_c   6.86479920
+_cell_angle_alpha   89.70820189
+_cell_angle_beta   90.29179777
+_cell_angle_gamma   153.43939591
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiY2Si2AgGe
+_chemical_formula_sum   'Li2 Y4 Si4 Ag2 Ge2'
+_cell_volume   267.83382305
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.186960  0.813040  0.059736  1
+  Li  Li1  1  0.813040  0.186960  0.940264  1
+  Y  Y2  1  0.551822  0.448178  0.251332  1
+  Y  Y3  1  0.448178  0.551822  0.748668  1
+  Y  Y4  1  0.347729  0.652271  0.240647  1
+  Y  Y5  1  0.652271  0.347729  0.759353  1
+  Si  Si6  1  0.941349  0.058651  0.070707  1
+  Si  Si7  1  0.058651  0.941349  0.929293  1
+  Si  Si8  1  0.057715  0.942285  0.579614  1
+  Si  Si9  1  0.942285  0.057715  0.420386  1
+  Ag  Ag10  1  0.813626  0.186374  0.562075  1
+  Ag  Ag11  1  0.186374  0.813626  0.437925  1
+  Ge  Ge12  1  0.721544  0.278456  0.227889  1
+  Ge  Ge13  1  0.278456  0.721544  0.772111  1

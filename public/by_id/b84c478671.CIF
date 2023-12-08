@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Pa3(AlPt)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.06001003
+_cell_length_b   8.06001021
+_cell_length_c   8.05998077
+_cell_angle_alpha   149.68326196
+_cell_angle_beta   126.68841087
+_cell_angle_gamma   62.56731908
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pa3(AlPt)4
+_chemical_formula_sum   'Pa3 Al4 Pt4'
+_cell_volume   209.97673138
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.500000  0.000000  0.500000  1
+  Pa  Pa1  1  0.893796  0.893796  0.000000  1
+  Pa  Pa2  1  0.106204  0.106204  0.000000  1
+  Al  Al3  1  0.486127  0.679884  0.806244  1
+  Al  Al4  1  0.873640  0.679883  0.193756  1
+  Al  Al5  1  0.126360  0.320117  0.806244  1
+  Al  Al6  1  0.513873  0.320116  0.193756  1
+  Pt  Pt7  1  0.277960  0.777960  0.500000  1
+  Pt  Pt8  1  0.722040  0.222040  0.500000  1
+  Pt  Pt9  1  0.783272  0.500000  0.283272  1
+  Pt  Pt10  1  0.216728  0.500000  0.716728  1

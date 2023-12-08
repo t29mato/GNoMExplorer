@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Tb3Dy3In2C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.94762584
+_cell_length_b   6.94762535
+_cell_length_c   6.94827302
+_cell_angle_alpha   60.00308692
+_cell_angle_beta   60.00309279
+_cell_angle_gamma   60.00001177
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb3Dy3In2C
+_chemical_formula_sum   'Tb3 Dy3 In2 C1'
+_cell_volume   237.16740921
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.754502  0.754502  0.245582  1
+  Tb  Tb1  1  0.754501  0.245413  0.245582  1
+  Tb  Tb2  1  0.245413  0.754501  0.245582  1
+  Dy  Dy3  1  0.244973  0.244973  0.755110  1
+  Dy  Dy4  1  0.754943  0.244971  0.755112  1
+  Dy  Dy5  1  0.244971  0.754943  0.755112  1
+  In  In6  1  0.249954  0.249954  0.250138  1
+  In  In7  1  0.749953  0.749953  0.750136  1
+  C  C8  1  0.000786  0.000786  0.997642  1

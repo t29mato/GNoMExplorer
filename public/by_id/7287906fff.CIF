@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Nb2FeSi2Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.75806600
+_cell_length_b   6.38944167
+_cell_length_c   7.26007594
+_cell_angle_alpha   91.50914883
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb2FeSi2Pt
+_chemical_formula_sum   'Nb4 Fe2 Si4 Pt2'
+_cell_volume   174.26806443
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.250000  0.523878  0.163925  1
+  Nb  Nb1  1  0.750000  0.476122  0.836075  1
+  Nb  Nb2  1  0.750000  0.978711  0.689717  1
+  Nb  Nb3  1  0.250000  0.021289  0.310283  1
+  Fe  Fe4  1  0.750000  0.859235  0.060585  1
+  Fe  Fe5  1  0.250000  0.140765  0.939415  1
+  Si  Si6  1  0.250000  0.781817  0.892316  1
+  Si  Si7  1  0.750000  0.218183  0.107684  1
+  Si  Si8  1  0.750000  0.740525  0.362635  1
+  Si  Si9  1  0.250000  0.259475  0.637365  1
+  Pt  Pt10  1  0.250000  0.650084  0.565878  1
+  Pt  Pt11  1  0.750000  0.349916  0.434122  1

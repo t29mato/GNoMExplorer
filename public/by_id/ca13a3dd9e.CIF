@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CeZrAl3Tc
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.33119200
+_cell_length_b   5.33119176
+_cell_length_c   8.99139000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99998910
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeZrAl3Tc
+_chemical_formula_sum   'Ce2 Zr2 Al6 Tc2'
+_cell_volume   221.31260105
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.333333  0.666667  0.456401  1
+  Ce  Ce1  1  0.666667  0.333333  0.543599  1
+  Zr  Zr2  1  0.666667  0.333333  0.940836  1
+  Zr  Zr3  1  0.333333  0.666667  0.059164  1
+  Al  Al4  1  0.834408  0.165592  0.235528  1
+  Al  Al5  1  0.834408  0.668816  0.235528  1
+  Al  Al6  1  0.331184  0.165592  0.235528  1
+  Al  Al7  1  0.165592  0.834408  0.764472  1
+  Al  Al8  1  0.165592  0.331184  0.764472  1
+  Al  Al9  1  0.668816  0.834408  0.764472  1
+  Tc  Tc10  1  0.000000  0.000000  0.500000  1
+  Tc  Tc11  1  0.000000  0.000000  0.000000  1

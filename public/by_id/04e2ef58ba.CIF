@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Hf6Al8Si8Ir7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.56391306
+_cell_length_b   8.56391248
+_cell_length_c   8.56391300
+_cell_angle_alpha   59.99999412
+_cell_angle_beta   59.99999639
+_cell_angle_gamma   59.99999979
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf6Al8Si8Ir7
+_chemical_formula_sum   'Hf6 Al8 Si8 Ir7'
+_cell_volume   444.12138678
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.690126  0.309874  0.309874  1
+  Hf  Hf1  1  0.309874  0.690126  0.690126  1
+  Hf  Hf2  1  0.309874  0.690126  0.309874  1
+  Hf  Hf3  1  0.690126  0.309874  0.690126  1
+  Hf  Hf4  1  0.309874  0.309874  0.690126  1
+  Hf  Hf5  1  0.690126  0.690126  0.309874  1
+  Al  Al6  1  0.119999  0.119999  0.119999  1
+  Al  Al7  1  0.880001  0.880001  0.880001  1
+  Al  Al8  1  0.119999  0.119999  0.640003  1
+  Al  Al9  1  0.119999  0.640003  0.119999  1
+  Al  Al10  1  0.880001  0.880001  0.359997  1
+  Al  Al11  1  0.880001  0.359997  0.880001  1
+  Al  Al12  1  0.640003  0.119999  0.119999  1
+  Al  Al13  1  0.359997  0.880001  0.880001  1
+  Si  Si14  1  0.341609  0.341609  0.341609  1
+  Si  Si15  1  0.658391  0.658391  0.658391  1
+  Si  Si16  1  0.341609  0.341609  0.975173  1
+  Si  Si17  1  0.341609  0.975173  0.341609  1
+  Si  Si18  1  0.658391  0.658391  0.024827  1
+  Si  Si19  1  0.658391  0.024827  0.658391  1
+  Si  Si20  1  0.975173  0.341609  0.341609  1
+  Si  Si21  1  0.024827  0.658391  0.658391  1
+  Ir  Ir22  1  0.500000  0.000000  0.000000  1
+  Ir  Ir23  1  0.000000  0.500000  0.500000  1
+  Ir  Ir24  1  0.000000  0.500000  0.000000  1
+  Ir  Ir25  1  0.500000  0.000000  0.500000  1
+  Ir  Ir26  1  0.000000  0.000000  0.500000  1
+  Ir  Ir27  1  0.500000  0.500000  0.000000  1
+  Ir  Ir28  1  0.000000  0.000000  0.000000  1

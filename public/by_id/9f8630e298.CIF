@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ba3Zn2CoO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.96041830
+_cell_length_b   5.96041979
+_cell_length_c   6.80933883
+_cell_angle_alpha   90.07295893
+_cell_angle_beta   89.92703657
+_cell_angle_gamma   119.98062139
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3Zn2CoO6
+_chemical_formula_sum   'Ba3 Zn2 Co1 O6'
+_cell_volume   209.54314942
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.654311  0.000883  0.833400  1
+  Ba  Ba1  1  0.000883  0.654311  0.166600  1
+  Ba  Ba2  1  0.346240  0.346240  0.500000  1
+  Zn  Zn3  1  0.999708  0.583918  0.667004  1
+  Zn  Zn4  1  0.583918  0.999708  0.332996  1
+  Co  Co5  1  0.416639  0.416639  0.000000  1
+  O  O6  1  0.124434  0.421335  0.876191  1
+  O  O7  1  0.577969  0.701582  0.208727  1
+  O  O8  1  0.297113  0.875869  0.543048  1
+  O  O9  1  0.701582  0.577969  0.791273  1
+  O  O10  1  0.421335  0.124434  0.123809  1
+  O  O11  1  0.875869  0.297113  0.456952  1

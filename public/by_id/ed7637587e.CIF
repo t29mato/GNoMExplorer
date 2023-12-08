@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Dy3AlIn2Ga2Cu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.22666767
+_cell_length_b   7.22666932
+_cell_length_c   4.34921700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   121.36610652
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy3AlIn2Ga2Cu
+_chemical_formula_sum   'Dy3 Al1 In2 Ga2 Cu1'
+_cell_volume   193.94269609
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.591471  0.001351  0.500000  1
+  Dy  Dy1  1  0.416775  0.416775  0.500000  1
+  Dy  Dy2  1  0.001351  0.591471  0.500000  1
+  Al  Al3  1  0.760805  0.760805  0.000000  1
+  In  In4  1  0.993690  0.241039  0.000000  1
+  In  In5  1  0.241039  0.993690  0.000000  1
+  Ga  Ga6  1  0.348365  0.668493  0.000000  1
+  Ga  Ga7  1  0.668493  0.348365  0.000000  1
+  Cu  Cu8  1  0.978012  0.978012  0.500000  1

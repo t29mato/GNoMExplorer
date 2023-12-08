@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Hf10ZnSi(Sn2Sb)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.62021706
+_cell_length_b   8.60516121
+_cell_length_c   5.80130300
+_cell_angle_alpha   89.99875250
+_cell_angle_beta   90.00061850
+_cell_angle_gamma   119.94222809
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf10ZnSi(Sn2Sb)2
+_chemical_formula_sum   'Hf10 Zn1 Si1 Sn4 Sb2'
+_cell_volume   372.89445259
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.734864  0.735649  0.247630  1
+  Hf  Hf1  1  0.734864  0.999215  0.752370  1
+  Hf  Hf2  1  0.999441  0.263407  0.246722  1
+  Hf  Hf3  1  0.999441  0.736033  0.753278  1
+  Hf  Hf4  1  0.265205  0.264923  0.752787  1
+  Hf  Hf5  1  0.265205  0.000282  0.247213  1
+  Hf  Hf6  1  0.334854  0.667428  0.500000  1
+  Hf  Hf7  1  0.666762  0.333380  0.000000  1
+  Hf  Hf8  1  0.666419  0.333209  0.500000  1
+  Hf  Hf9  1  0.334373  0.667187  0.000000  1
+  Zn  Zn10  1  0.001175  0.000588  0.500000  1
+  Si  Si11  1  0.000409  0.000204  0.000000  1
+  Sn  Sn12  1  0.388787  0.000033  0.747868  1
+  Sn  Sn13  1  0.388787  0.388754  0.252132  1
+  Sn  Sn14  1  0.000734  0.610242  0.253063  1
+  Sn  Sn15  1  0.000734  0.390492  0.746937  1
+  Sb  Sb16  1  0.608974  0.608192  0.746650  1
+  Sb  Sb17  1  0.608974  0.000782  0.253350  1

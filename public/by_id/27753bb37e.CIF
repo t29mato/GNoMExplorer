@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Fe2PbCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.43972157
+_cell_length_b   6.42272486
+_cell_length_c   6.32873305
+_cell_angle_alpha   90.00024465
+_cell_angle_beta   90.25980907
+_cell_angle_gamma   120.36538816
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe2PbCl6
+_chemical_formula_sum   'Fe2 Pb1 Cl6'
+_cell_volume   225.84838198
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.955806  0.485036  0.728670  1
+  Fe  Fe1  1  0.622364  0.814583  0.728866  1
+  Pb  Pb2  1  0.288357  0.149722  0.228301  1
+  Cl  Cl3  1  0.928468  0.788944  0.506116  1
+  Cl  Cl4  1  0.292868  0.519495  0.507916  1
+  Cl  Cl5  1  0.659826  0.153310  0.508562  1
+  Cl  Cl6  1  0.660424  0.520997  0.949427  1
+  Cl  Cl7  1  0.290931  0.787115  0.950746  1
+  Cl  Cl8  1  0.927105  0.151427  0.951427  1

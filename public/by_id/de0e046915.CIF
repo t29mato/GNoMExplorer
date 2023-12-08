@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_V2In(Ni10B3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.43242227
+_cell_length_b   7.43242279
+_cell_length_c   7.43282600
+_cell_angle_alpha   60.00083356
+_cell_angle_beta   60.00083315
+_cell_angle_gamma   60.00905029
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V2In(Ni10B3)2
+_chemical_formula_sum   'V2 In1 Ni20 B6'
+_cell_volume   290.35874970
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.000001  0.000001  0.000004  1
+  V  V1  1  0.250016  0.250016  0.249930  1
+  In  In2  1  0.749962  0.749962  0.750131  1
+  Ni  Ni3  1  0.610751  0.610751  0.167805  1
+  Ni  Ni4  1  0.610763  0.167728  0.610750  1
+  Ni  Ni5  1  0.167728  0.610763  0.610750  1
+  Ni  Ni6  1  0.610775  0.610775  0.610694  1
+  Ni  Ni7  1  0.378415  0.378415  0.864672  1
+  Ni  Ni8  1  0.378383  0.864779  0.378433  1
+  Ni  Ni9  1  0.864779  0.378383  0.378433  1
+  Ni  Ni10  1  0.378379  0.378379  0.378489  1
+  Ni  Ni11  1  0.002290  0.002290  0.336186  1
+  Ni  Ni12  1  0.659255  0.002261  0.336195  1
+  Ni  Ni13  1  0.002261  0.659255  0.336195  1
+  Ni  Ni14  1  0.659349  0.336076  0.002285  1
+  Ni  Ni15  1  0.002316  0.336205  0.002242  1
+  Ni  Ni16  1  0.002323  0.336173  0.659240  1
+  Ni  Ni17  1  0.336076  0.659349  0.002285  1
+  Ni  Ni18  1  0.336173  0.002323  0.659240  1
+  Ni  Ni19  1  0.336205  0.002316  0.002242  1
+  Ni  Ni20  1  0.002287  0.002287  0.659237  1
+  Ni  Ni21  1  0.002260  0.659258  0.002272  1
+  Ni  Ni22  1  0.659258  0.002260  0.002272  1
+  B  B23  1  0.730034  0.730034  0.269951  1
+  B  B24  1  0.269993  0.730020  0.269980  1
+  B  B25  1  0.730020  0.269993  0.269980  1
+  B  B26  1  0.269976  0.269976  0.730052  1
+  B  B27  1  0.729995  0.269979  0.730027  1
+  B  B28  1  0.269979  0.729995  0.730027  1

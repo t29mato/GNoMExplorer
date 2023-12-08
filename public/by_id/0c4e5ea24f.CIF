@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_LiPr2Si2AgPb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.95835651
+_cell_length_b   9.95835647
+_cell_length_c   7.02275247
+_cell_angle_alpha   90.24271345
+_cell_angle_beta   89.75728549
+_cell_angle_gamma   153.21556815
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiPr2Si2AgPb
+_chemical_formula_sum   'Li2 Pr4 Si4 Ag2 Pb2'
+_cell_volume   313.83653196
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.177747  0.822253  0.060419  1
+  Li  Li1  1  0.822253  0.177747  0.939581  1
+  Pr  Pr2  1  0.547951  0.452049  0.250694  1
+  Pr  Pr3  1  0.452049  0.547951  0.749306  1
+  Pr  Pr4  1  0.351728  0.648272  0.251056  1
+  Pr  Pr5  1  0.648272  0.351728  0.748944  1
+  Si  Si6  1  0.944102  0.055898  0.074738  1
+  Si  Si7  1  0.055898  0.944102  0.925262  1
+  Si  Si8  1  0.054185  0.945815  0.580917  1
+  Si  Si9  1  0.945815  0.054185  0.419083  1
+  Ag  Ag10  1  0.825054  0.174946  0.560684  1
+  Ag  Ag11  1  0.174946  0.825054  0.439316  1
+  Pb  Pb12  1  0.722166  0.277834  0.234843  1
+  Pb  Pb13  1  0.277834  0.722166  0.765157  1

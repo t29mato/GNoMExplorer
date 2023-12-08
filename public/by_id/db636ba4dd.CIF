@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_LaMn2(P6Rh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.94062156
+_cell_length_b   6.93956056
+_cell_length_c   6.94677602
+_cell_angle_alpha   109.48943760
+_cell_angle_beta   109.48030157
+_cell_angle_gamma   109.40120120
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaMn2(P6Rh)2
+_chemical_formula_sum   'La1 Mn2 P12 Rh2'
+_cell_volume   257.70347465
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.000000  0.000000  0.000000  1
+  Mn  Mn1  1  0.000000  0.000000  0.500000  1
+  Mn  Mn2  1  0.500000  0.500000  0.500000  1
+  P  P3  1  0.498626  0.843572  0.634411  1
+  P  P4  1  0.209154  0.864175  0.365669  1
+  P  P5  1  0.790846  0.135825  0.634331  1
+  P  P6  1  0.150817  0.349868  0.500510  1
+  P  P7  1  0.365025  0.501477  0.155798  1
+  P  P8  1  0.501374  0.156428  0.365589  1
+  P  P9  1  0.141142  0.639140  0.780256  1
+  P  P10  1  0.345574  0.209290  0.844258  1
+  P  P11  1  0.849183  0.650132  0.499490  1
+  P  P12  1  0.654426  0.790710  0.155742  1
+  P  P13  1  0.858858  0.360860  0.219744  1
+  P  P14  1  0.634975  0.498523  0.844202  1
+  Rh  Rh15  1  0.500000  0.000000  0.000000  1
+  Rh  Rh16  1  0.000000  0.500000  0.000000  1

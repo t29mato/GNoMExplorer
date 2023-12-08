@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ErTh(ZnCo)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.80209000
+_cell_length_b   6.86816898
+_cell_length_c   8.24547815
+_cell_angle_alpha   91.55619712
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErTh(ZnCo)2
+_chemical_formula_sum   'Er2 Th2 Zn4 Co4'
+_cell_volume   215.23802529
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.750000  0.958115  0.680667  1
+  Er  Er1  1  0.250000  0.041885  0.319333  1
+  Th  Th2  1  0.250000  0.538858  0.189299  1
+  Th  Th3  1  0.750000  0.461142  0.810701  1
+  Zn  Zn4  1  0.250000  0.644822  0.553836  1
+  Zn  Zn5  1  0.750000  0.355178  0.446164  1
+  Zn  Zn6  1  0.750000  0.880160  0.058270  1
+  Zn  Zn7  1  0.250000  0.119840  0.941730  1
+  Co  Co8  1  0.250000  0.739991  0.868634  1
+  Co  Co9  1  0.750000  0.260009  0.131366  1
+  Co  Co10  1  0.750000  0.742412  0.357293  1
+  Co  Co11  1  0.250000  0.257588  0.642707  1

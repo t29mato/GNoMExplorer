@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Pr3Y(InRh)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.40624900
+_cell_length_b   7.24888353
+_cell_length_c   8.54841070
+_cell_angle_alpha   89.66499730
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr3Y(InRh)4
+_chemical_formula_sum   'Pr3 Y1 In4 Rh4'
+_cell_volume   273.03486856
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.250000  0.036747  0.179441  1
+  Pr  Pr1  1  0.750000  0.962862  0.820020  1
+  Pr  Pr2  1  0.250000  0.535542  0.322296  1
+  Y  Y3  1  0.750000  0.462395  0.680435  1
+  In  In4  1  0.750000  0.359224  0.059683  1
+  In  In5  1  0.250000  0.638824  0.935854  1
+  In  In6  1  0.750000  0.856943  0.439056  1
+  In  In7  1  0.250000  0.147349  0.563951  1
+  Rh  Rh8  1  0.250000  0.749541  0.624283  1
+  Rh  Rh9  1  0.750000  0.246871  0.377980  1
+  Rh  Rh10  1  0.250000  0.257858  0.872702  1
+  Rh  Rh11  1  0.750000  0.745845  0.124298  1

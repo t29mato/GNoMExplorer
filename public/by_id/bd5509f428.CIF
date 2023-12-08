@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ba2ScHO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.18872100
+_cell_length_b   4.18867600
+_cell_length_c   13.99666800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2ScHO3
+_chemical_formula_sum   'Ba4 Sc2 H2 O6'
+_cell_volume   245.57427114
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.499999  0.000000  0.102854  1
+  Ba  Ba1  1  0.499999  0.000000  0.375052  1
+  Ba  Ba2  1  0.000000  0.499999  0.624948  1
+  Ba  Ba3  1  0.000000  0.499999  0.897146  1
+  Sc  Sc4  1  0.000000  0.499999  0.231944  1
+  Sc  Sc5  1  0.499999  0.000000  0.768056  1
+  H  H6  1  0.000000  0.499999  0.417908  1
+  H  H7  1  0.499999  0.000000  0.582093  1
+  O  O8  1  0.000000  0.499999  0.088359  1
+  O  O9  1  0.000000  0.000000  0.253164  1
+  O  O10  1  0.499999  0.499999  0.253162  1
+  O  O11  1  0.000000  0.000000  0.746838  1
+  O  O12  1  0.499999  0.499999  0.746836  1
+  O  O13  1  0.499999  0.000000  0.911641  1

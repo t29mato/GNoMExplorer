@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Er2Al9Co2Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.42049016
+_cell_length_b   7.42046628
+_cell_length_c   9.30537400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   118.96879443
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er2Al9Co2Pt
+_chemical_formula_sum   'Er4 Al18 Co4 Pt2'
+_cell_volume   448.27849968
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.995864  0.679260  0.250000  1
+  Er  Er1  1  0.004136  0.320740  0.750000  1
+  Er  Er2  1  0.679259  0.995864  0.250000  1
+  Er  Er3  1  0.320741  0.004136  0.750000  1
+  Al  Al4  1  0.142276  0.142276  0.250000  1
+  Al  Al5  1  0.857724  0.857724  0.750000  1
+  Al  Al6  1  0.999154  0.345403  0.074416  1
+  Al  Al7  1  0.000846  0.654597  0.925584  1
+  Al  Al8  1  0.000846  0.654597  0.574416  1
+  Al  Al9  1  0.345404  0.999155  0.425584  1
+  Al  Al10  1  0.999154  0.345403  0.425584  1
+  Al  Al11  1  0.654596  0.000845  0.574416  1
+  Al  Al12  1  0.654596  0.000845  0.925584  1
+  Al  Al13  1  0.345404  0.999155  0.074416  1
+  Al  Al14  1  0.340010  0.340010  0.548065  1
+  Al  Al15  1  0.659990  0.659990  0.451935  1
+  Al  Al16  1  0.659990  0.659990  0.048065  1
+  Al  Al17  1  0.340010  0.340010  0.951935  1
+  Al  Al18  1  0.340399  0.560464  0.250000  1
+  Al  Al19  1  0.659601  0.439536  0.750000  1
+  Al  Al20  1  0.560463  0.340399  0.250000  1
+  Al  Al21  1  0.439537  0.659601  0.750000  1
+  Co  Co22  1  0.671557  0.328442  0.000001  1
+  Co  Co23  1  0.328443  0.671558  0.999999  1
+  Co  Co24  1  0.328443  0.671558  0.500001  1
+  Co  Co25  1  0.671557  0.328442  0.499999  1
+  Pt  Pt26  1  0.000000  0.000000  0.000000  1
+  Pt  Pt27  1  0.000000  0.000000  0.500000  1

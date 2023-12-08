@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Sr3Tc4(NiP3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.57940981
+_cell_length_b   8.57940943
+_cell_length_c   8.57941003
+_cell_angle_alpha   153.04496171
+_cell_angle_beta   93.98984876
+_cell_angle_gamma   92.23841792
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3Tc4(NiP3)2
+_chemical_formula_sum   'Sr3 Tc4 Ni2 P6'
+_cell_volume   278.33338397
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.338072  0.338072  0.000000  1
+  Sr  Sr1  1  0.666000  0.666000  0.000000  1
+  Sr  Sr2  1  0.996059  0.996059  0.000000  1
+  Tc  Tc3  1  0.573811  0.828515  0.745295  1
+  Tc  Tc4  1  0.248752  0.504705  0.744047  1
+  Tc  Tc5  1  0.760658  0.504705  0.255953  1
+  Tc  Tc6  1  0.083221  0.828515  0.254705  1
+  Ni  Ni7  1  0.405983  0.166717  0.239267  1
+  Ni  Ni8  1  0.927449  0.166717  0.760733  1
+  P  P9  1  0.304169  0.667049  0.637119  1
+  P  P10  1  0.678795  0.329234  0.349561  1
+  P  P11  1  0.979673  0.329234  0.650439  1
+  P  P12  1  0.352176  0.003714  0.348462  1
+  P  P13  1  0.029930  0.667049  0.362881  1
+  P  P14  1  0.655252  0.003714  0.651538  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ti4Si3Mo4P
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.74404006
+_cell_length_b   3.35347900
+_cell_length_c   8.03780730
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.84597177
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti4Si3Mo4P
+_chemical_formula_sum   'Ti4 Si3 Mo4 P1'
+_cell_volume   181.78236663
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.961212  0.250000  0.165713  1
+  Ti  Ti1  1  0.451333  0.250000  0.328616  1
+  Ti  Ti2  1  0.546838  0.750001  0.665750  1
+  Ti  Ti3  1  0.044868  0.750001  0.833329  1
+  Si  Si4  1  0.749648  0.750001  0.360905  1
+  Si  Si5  1  0.252266  0.250000  0.640114  1
+  Si  Si6  1  0.748701  0.250000  0.861797  1
+  Mo  Mo7  1  0.633956  0.750001  0.065799  1
+  Mo  Mo8  1  0.138145  0.750001  0.433269  1
+  Mo  Mo9  1  0.865718  0.250000  0.564856  1
+  Mo  Mo10  1  0.358728  0.250000  0.939938  1
+  P  P11  1  0.248588  0.750001  0.139910  1

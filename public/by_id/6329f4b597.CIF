@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SmThPt10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.47650500
+_cell_length_b   5.40274800
+_cell_length_c   9.31784200
+_cell_angle_alpha   89.99998940
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmThPt10
+_chemical_formula_sum   'Sm1 Th1 Pt10'
+_cell_volume   225.35600087
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.000000  0.999981  0.000000  1
+  Th  Th1  1  0.000000  0.499973  0.500000  1
+  Pt  Pt2  1  0.000000  0.999973  0.333680  1
+  Pt  Pt3  1  0.000000  0.499976  0.831852  1
+  Pt  Pt4  1  0.000000  0.499976  0.168148  1
+  Pt  Pt5  1  0.000000  0.999973  0.666320  1
+  Pt  Pt6  1  0.500000  0.999994  0.500000  1
+  Pt  Pt7  1  0.500000  0.499996  0.000000  1
+  Pt  Pt8  1  0.500000  0.251469  0.251216  1
+  Pt  Pt9  1  0.500000  0.748509  0.748787  1
+  Pt  Pt10  1  0.500000  0.748509  0.251213  1
+  Pt  Pt11  1  0.500000  0.251469  0.748784  1

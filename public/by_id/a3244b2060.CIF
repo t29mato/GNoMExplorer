@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ca2CeTh(NiB4)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.90835434
+_cell_length_b   6.90835338
+_cell_length_c   6.90835392
+_cell_angle_alpha   112.64913148
+_cell_angle_beta   112.64913338
+_cell_angle_gamma   103.28685119
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2CeTh(NiB4)4
+_chemical_formula_sum   'Ca2 Ce1 Th1 Ni4 B16'
+_cell_volume   251.62096212
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.796235  0.796235  0.000000  1
+  Ca  Ca1  1  0.203765  0.203765  0.000000  1
+  Ce  Ce2  1  0.250000  0.750000  0.500000  1
+  Th  Th3  1  0.750000  0.250000  0.500000  1
+  Ni  Ni4  1  0.272800  0.499886  0.772914  1
+  Ni  Ni5  1  0.726974  0.499886  0.227086  1
+  Ni  Ni6  1  0.500114  0.727200  0.227086  1
+  Ni  Ni7  1  0.500114  0.273026  0.772914  1
+  B  B8  1  0.277329  0.112411  0.390381  1
+  B  B9  1  0.722031  0.886948  0.609619  1
+  B  B10  1  0.277329  0.886948  0.164917  1
+  B  B11  1  0.722031  0.112411  0.835083  1
+  B  B12  1  0.113052  0.722671  0.835083  1
+  B  B13  1  0.887589  0.277969  0.164917  1
+  B  B14  1  0.113052  0.277969  0.390381  1
+  B  B15  1  0.887589  0.722671  0.609619  1
+  B  B16  1  0.112819  0.110952  0.526567  1
+  B  B17  1  0.584384  0.586251  0.473433  1
+  B  B18  1  0.112819  0.586251  0.001867  1
+  B  B19  1  0.584384  0.110952  0.998133  1
+  B  B20  1  0.889048  0.887181  0.473433  1
+  B  B21  1  0.413749  0.415616  0.526567  1
+  B  B22  1  0.889048  0.415616  0.001867  1
+  B  B23  1  0.413749  0.887181  0.998133  1

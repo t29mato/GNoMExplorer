@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Pa4CrGa11Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.49065986
+_cell_length_b   7.49065983
+_cell_length_c   7.49066006
+_cell_angle_alpha   109.53789293
+_cell_angle_beta   109.53789338
+_cell_angle_gamma   109.33796709
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pa4CrGa11Ge
+_chemical_formula_sum   'Pa4 Cr1 Ga11 Ge1'
+_cell_volume   323.54637463
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.998871  0.998871  0.497188  1
+  Pa  Pa1  1  0.998871  0.501683  0.000000  1
+  Pa  Pa2  1  0.501683  0.998871  0.000000  1
+  Pa  Pa3  1  0.501683  0.501683  0.502812  1
+  Cr  Cr4  1  0.998142  0.998142  0.000000  1
+  Ga  Ga5  1  0.293378  0.001454  0.291924  1
+  Ga  Ga6  1  0.001454  0.293378  0.291924  1
+  Ga  Ga7  1  0.291059  0.291059  0.000000  1
+  Ga  Ga8  1  0.709530  0.001454  0.708076  1
+  Ga  Ga9  1  0.001454  0.709530  0.708076  1
+  Ga  Ga10  1  0.749858  0.249858  0.500000  1
+  Ga  Ga11  1  0.748512  0.497783  0.250729  1
+  Ga  Ga12  1  0.497783  0.247054  0.749271  1
+  Ga  Ga13  1  0.247054  0.497783  0.749271  1
+  Ga  Ga14  1  0.249858  0.749858  0.500000  1
+  Ga  Ga15  1  0.497783  0.748512  0.250729  1
+  Ge  Ge16  1  0.713028  0.713028  0.000000  1

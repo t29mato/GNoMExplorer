@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_SmThB4(OsRu)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.78578088
+_cell_length_b   6.01696070
+_cell_length_c   5.61392956
+_cell_angle_alpha   71.28804555
+_cell_angle_beta   57.12250365
+_cell_angle_gamma   51.58944438
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmThB4(OsRu)2
+_chemical_formula_sum   'Sm1 Th1 B4 Os2 Ru2'
+_cell_volume   150.79396606
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.000000  0.000000  0.000000  1
+  Th  Th1  1  0.250000  0.250000  0.250000  1
+  B  B2  1  0.316029  0.683971  0.316029  1
+  B  B3  1  0.683971  0.316029  0.683971  1
+  B  B4  1  0.565405  0.934595  0.565405  1
+  B  B5  1  0.934595  0.565405  0.934595  1
+  Os  Os6  1  0.637187  0.637187  0.362813  1
+  Os  Os7  1  0.362813  0.362813  0.637187  1
+  Ru  Ru8  1  0.612878  0.612878  0.887122  1
+  Ru  Ru9  1  0.887122  0.887122  0.612878  1

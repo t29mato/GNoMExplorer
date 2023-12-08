@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LiPr2TiRh2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.29568400
+_cell_length_b   7.18212784
+_cell_length_c   8.51456178
+_cell_angle_alpha   93.12495465
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiPr2TiRh2
+_chemical_formula_sum   'Li2 Pr4 Ti2 Rh4'
+_cell_volume   262.30193311
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.250000  0.629281  0.555412  1
+  Li  Li1  1  0.750000  0.370719  0.444588  1
+  Pr  Pr2  1  0.250000  0.526796  0.189793  1
+  Pr  Pr3  1  0.750000  0.473204  0.810207  1
+  Pr  Pr4  1  0.750000  0.963575  0.673190  1
+  Pr  Pr5  1  0.250000  0.036425  0.326810  1
+  Ti  Ti6  1  0.750000  0.872857  0.065658  1
+  Ti  Ti7  1  0.250000  0.127143  0.934342  1
+  Rh  Rh8  1  0.250000  0.779124  0.920364  1
+  Rh  Rh9  1  0.750000  0.220876  0.079636  1
+  Rh  Rh10  1  0.750000  0.750299  0.350564  1
+  Rh  Rh11  1  0.250000  0.249701  0.649436  1

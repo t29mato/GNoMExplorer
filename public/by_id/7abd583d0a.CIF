@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_La(BeP)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.73578400
+_cell_length_b   10.64964200
+_cell_length_c   11.42613400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La(BeP)3
+_chemical_formula_sum   'La4 Be12 P12'
+_cell_volume   454.58602393
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.750000  0.941383  0.337416  1
+  La  La1  1  0.250000  0.441383  0.162584  1
+  La  La2  1  0.750000  0.558617  0.837416  1
+  La  La3  1  0.250000  0.058617  0.662584  1
+  Be  Be4  1  0.750000  0.243568  0.451808  1
+  Be  Be5  1  0.250000  0.743568  0.048192  1
+  Be  Be6  1  0.750000  0.256432  0.951808  1
+  Be  Be7  1  0.250000  0.756432  0.548192  1
+  Be  Be8  1  0.750000  0.645098  0.290686  1
+  Be  Be9  1  0.250000  0.145098  0.209314  1
+  Be  Be10  1  0.750000  0.854902  0.790686  1
+  Be  Be11  1  0.250000  0.354902  0.709314  1
+  Be  Be12  1  0.750000  0.038151  0.064298  1
+  Be  Be13  1  0.250000  0.538151  0.435702  1
+  Be  Be14  1  0.750000  0.461849  0.564298  1
+  Be  Be15  1  0.250000  0.961849  0.935702  1
+  P  P16  1  0.750000  0.442317  0.373173  1
+  P  P17  1  0.250000  0.942317  0.126827  1
+  P  P18  1  0.750000  0.057683  0.873173  1
+  P  P19  1  0.250000  0.557683  0.626827  1
+  P  P20  1  0.750000  0.224489  0.142798  1
+  P  P21  1  0.250000  0.724489  0.357202  1
+  P  P22  1  0.750000  0.275511  0.642798  1
+  P  P23  1  0.250000  0.775511  0.857202  1
+  P  P24  1  0.750000  0.644514  0.096214  1
+  P  P25  1  0.250000  0.144514  0.403786  1
+  P  P26  1  0.750000  0.855486  0.596214  1
+  P  P27  1  0.250000  0.355486  0.903786  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Er4AlGa3Ir3Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.30125400
+_cell_length_b   6.78835980
+_cell_length_c   7.84373306
+_cell_angle_alpha   90.05885372
+_cell_angle_beta   89.99967926
+_cell_angle_gamma   89.99238001
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er4AlGa3Ir3Pt
+_chemical_formula_sum   'Er4 Al1 Ga3 Ir3 Pt1'
+_cell_volume   229.02480135
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.250010  0.471970  0.184626  1
+  Er  Er1  1  0.750014  0.532613  0.818420  1
+  Er  Er2  1  0.750014  0.029797  0.680576  1
+  Er  Er3  1  0.249998  0.971110  0.316450  1
+  Al  Al4  1  0.750014  0.643483  0.437361  1
+  Ga  Ga5  1  0.250036  0.849155  0.936418  1
+  Ga  Ga6  1  0.749947  0.144798  0.066519  1
+  Ga  Ga7  1  0.249957  0.356240  0.559943  1
+  Ir  Ir8  1  0.249992  0.736645  0.616996  1
+  Ir  Ir9  1  0.749993  0.266276  0.380623  1
+  Ir  Ir10  1  0.750017  0.762437  0.122074  1
+  Pt  Pt11  1  0.250006  0.235476  0.879995  1

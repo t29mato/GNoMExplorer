@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Th10AlHg(Bi2Pb)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.73897355
+_cell_length_b   9.73897325
+_cell_length_c   6.63126912
+_cell_angle_alpha   89.99371178
+_cell_angle_beta   89.99370780
+_cell_angle_gamma   120.05962790
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Th10AlHg(Bi2Pb)2
+_chemical_formula_sum   'Th10 Al1 Hg1 Bi4 Pb2'
+_cell_volume   544.36773224
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.666865  0.332711  0.001172  1
+  Th  Th1  1  0.332711  0.666865  0.001172  1
+  Th  Th2  1  0.332600  0.666844  0.498772  1
+  Th  Th3  1  0.666844  0.332600  0.498772  1
+  Th  Th4  1  0.729137  0.729137  0.740075  1
+  Th  Th5  1  0.271037  0.999866  0.740280  1
+  Th  Th6  1  0.999866  0.271037  0.740280  1
+  Th  Th7  1  0.272368  0.272368  0.259723  1
+  Th  Th8  1  0.728214  0.000941  0.260291  1
+  Th  Th9  1  0.000941  0.728214  0.260291  1
+  Al  Al10  1  0.999873  0.999873  0.498376  1
+  Hg  Hg11  1  0.000223  0.000223  0.001834  1
+  Bi  Bi12  1  0.381442  0.381442  0.754225  1
+  Bi  Bi13  1  0.618265  0.000631  0.754414  1
+  Bi  Bi14  1  0.000631  0.618265  0.754414  1
+  Bi  Bi15  1  0.618731  0.618731  0.245732  1
+  Pb  Pb16  1  0.380051  0.000198  0.245090  1
+  Pb  Pb17  1  0.000198  0.380051  0.245090  1

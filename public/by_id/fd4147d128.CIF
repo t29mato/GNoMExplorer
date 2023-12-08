@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Tm3Ta(AgS4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.70268700
+_cell_length_b   7.80993400
+_cell_length_c   10.98375500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tm3Ta(AgS4)2
+_chemical_formula_sum   'Tm6 Ta2 Ag4 S16'
+_cell_volume   660.75498980
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.736633  0.000000  0.500000  1
+  Tm  Tm1  1  0.736085  0.500000  0.500000  1
+  Tm  Tm2  1  0.263915  0.500000  0.000000  1
+  Tm  Tm3  1  0.000000  0.756030  0.250000  1
+  Tm  Tm4  1  0.263367  0.000000  0.000000  1
+  Tm  Tm5  1  0.000000  0.243970  0.750000  1
+  Ta  Ta6  1  0.500000  0.764195  0.250000  1
+  Ta  Ta7  1  0.500000  0.235805  0.750000  1
+  Ag  Ag8  1  0.760689  0.729139  0.877981  1
+  Ag  Ag9  1  0.239311  0.270861  0.377981  1
+  Ag  Ag10  1  0.239311  0.729139  0.622019  1
+  Ag  Ag11  1  0.760689  0.270861  0.122019  1
+  S  S12  1  0.729160  0.984404  0.253096  1
+  S  S13  1  0.494811  0.752015  0.473759  1
+  S  S14  1  0.728755  0.534930  0.254328  1
+  S  S15  1  0.505189  0.247985  0.973759  1
+  S  S16  1  0.271245  0.534930  0.245672  1
+  S  S17  1  0.030271  0.750727  0.005739  1
+  S  S18  1  0.270840  0.984404  0.246904  1
+  S  S19  1  0.505189  0.752015  0.026241  1
+  S  S20  1  0.271245  0.465070  0.754328  1
+  S  S21  1  0.030271  0.249273  0.994261  1
+  S  S22  1  0.270840  0.015596  0.753096  1
+  S  S23  1  0.969729  0.750727  0.494261  1
+  S  S24  1  0.729160  0.015596  0.746904  1
+  S  S25  1  0.494811  0.247985  0.526241  1
+  S  S26  1  0.728755  0.465070  0.745672  1
+  S  S27  1  0.969729  0.249273  0.505739  1

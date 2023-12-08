@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Cr20Ga(TcC3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.51625212
+_cell_length_b   7.51721119
+_cell_length_c   7.51722201
+_cell_angle_alpha   59.99835410
+_cell_angle_beta   60.00103989
+_cell_angle_gamma   60.00282126
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr20Ga(TcC3)2
+_chemical_formula_sum   'Cr20 Ga1 Tc2 C6'
+_cell_volume   300.33623963
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.617133  0.617078  0.148780  1
+  Cr  Cr1  1  0.616976  0.148798  0.617110  1
+  Cr  Cr2  1  0.148789  0.617077  0.617257  1
+  Cr  Cr3  1  0.616879  0.617204  0.617138  1
+  Cr  Cr4  1  0.382867  0.382922  0.851220  1
+  Cr  Cr5  1  0.383024  0.851202  0.382890  1
+  Cr  Cr6  1  0.851211  0.382923  0.382743  1
+  Cr  Cr7  1  0.383121  0.382796  0.382862  1
+  Cr  Cr8  1  0.999983  0.000177  0.341808  1
+  Cr  Cr9  1  0.657876  0.000115  0.341971  1
+  Cr  Cr10  1  0.999957  0.658231  0.341739  1
+  Cr  Cr11  1  0.658020  0.341867  0.000156  1
+  Cr  Cr12  1  0.000018  0.341981  0.000103  1
+  Cr  Cr13  1  0.000043  0.341769  0.658261  1
+  Cr  Cr14  1  0.341980  0.658133  0.999844  1
+  Cr  Cr15  1  0.342124  0.999885  0.658029  1
+  Cr  Cr16  1  0.341817  0.000058  0.999937  1
+  Cr  Cr17  1  0.000017  0.999823  0.658192  1
+  Cr  Cr18  1  0.999982  0.658019  0.999897  1
+  Cr  Cr19  1  0.658183  0.999942  0.000063  1
+  Ga  Ga20  1  0.000000  0.000000  0.000000  1
+  Tc  Tc21  1  0.749911  0.750056  0.750045  1
+  Tc  Tc22  1  0.250089  0.249944  0.249955  1
+  C  C23  1  0.721769  0.721879  0.278156  1
+  C  C24  1  0.278243  0.721831  0.278150  1
+  C  C25  1  0.721841  0.278123  0.278141  1
+  C  C26  1  0.278231  0.278121  0.721844  1
+  C  C27  1  0.721757  0.278169  0.721850  1
+  C  C28  1  0.278159  0.721877  0.721859  1

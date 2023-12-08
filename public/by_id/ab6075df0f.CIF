@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_PrNdTmSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.56702317
+_cell_length_b   7.56702317
+_cell_length_c   4.42659000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   89.68183370
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrNdTmSi2
+_chemical_formula_sum   'Pr2 Nd2 Tm2 Si4'
+_cell_volume   253.46192547
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.677080  0.177080  0.500000  1
+  Pr  Pr1  1  0.322920  0.822920  0.500000  1
+  Nd  Nd2  1  0.176774  0.323226  0.500000  1
+  Nd  Nd3  1  0.823226  0.676774  0.500000  1
+  Tm  Tm4  1  0.000000  0.000000  0.000000  1
+  Tm  Tm5  1  0.500000  0.500000  0.000000  1
+  Si  Si6  1  0.114003  0.614003  0.000000  1
+  Si  Si7  1  0.885997  0.385997  0.000000  1
+  Si  Si8  1  0.614645  0.885355  0.000000  1
+  Si  Si9  1  0.385355  0.114645  0.000000  1

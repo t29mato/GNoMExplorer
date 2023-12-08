@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_TbTh2(CdHg2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.07672800
+_cell_length_b   7.35776695
+_cell_length_c   15.52510700
+_cell_angle_alpha   89.99939261
+_cell_angle_beta   90.00154618
+_cell_angle_gamma   90.02917055
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbTh2(CdHg2)3
+_chemical_formula_sum   'Tb2 Th4 Cd6 Hg12'
+_cell_volume   579.91516961
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.000145  0.499972  0.670121  1
+  Tb  Tb1  1  0.500128  0.999988  0.829797  1
+  Th  Th2  1  0.000013  0.500004  0.996654  1
+  Th  Th3  1  0.499861  0.000005  0.162164  1
+  Th  Th4  1  0.999892  0.500008  0.337647  1
+  Th  Th5  1  0.499981  0.000000  0.503617  1
+  Cd  Cd6  1  0.999977  0.000002  0.996231  1
+  Cd  Cd7  1  0.499873  0.500003  0.164372  1
+  Cd  Cd8  1  0.999888  0.000000  0.335713  1
+  Cd  Cd9  1  0.499979  0.500006  0.503707  1
+  Cd  Cd10  1  0.000151  0.000005  0.666959  1
+  Cd  Cd11  1  0.500135  0.500001  0.833038  1
+  Hg  Hg12  1  0.500118  0.241509  0.992829  1
+  Hg  Hg13  1  0.499861  0.758497  0.992833  1
+  Hg  Hg14  1  0.999816  0.258570  0.166877  1
+  Hg  Hg15  1  0.999908  0.741442  0.166876  1
+  Hg  Hg16  1  0.499900  0.241206  0.333196  1
+  Hg  Hg17  1  0.499817  0.758804  0.333197  1
+  Hg  Hg18  1  0.999866  0.258386  0.507059  1
+  Hg  Hg19  1  0.000127  0.741611  0.507065  1
+  Hg  Hg20  1  0.500239  0.254219  0.670789  1
+  Hg  Hg21  1  0.500048  0.745773  0.670789  1
+  Hg  Hg22  1  0.000047  0.245841  0.829234  1
+  Hg  Hg23  1  0.000230  0.754147  0.829232  1

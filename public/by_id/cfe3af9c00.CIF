@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LiTh(PPt)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.07507800
+_cell_length_b   4.07507657
+_cell_length_c   15.04328700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999535
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTh(PPt)2
+_chemical_formula_sum   'Li2 Th2 P4 Pt4'
+_cell_volume   216.34411843
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.000000  0.000000  0.250000  1
+  Li  Li1  1  0.000000  0.000000  0.750000  1
+  Th  Th2  1  0.000000  0.000000  0.500000  1
+  Th  Th3  1  0.000000  0.000000  0.000000  1
+  P  P4  1  0.333333  0.666667  0.872896  1
+  P  P5  1  0.666667  0.333333  0.127104  1
+  P  P6  1  0.666667  0.333333  0.372896  1
+  P  P7  1  0.333333  0.666667  0.627104  1
+  Pt  Pt8  1  0.333333  0.666667  0.353306  1
+  Pt  Pt9  1  0.666667  0.333333  0.646694  1
+  Pt  Pt10  1  0.666667  0.333333  0.853306  1
+  Pt  Pt11  1  0.333333  0.666667  0.146694  1

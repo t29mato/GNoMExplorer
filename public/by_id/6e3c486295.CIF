@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ThSc(Co3Si2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.23935217
+_cell_length_b   6.23935255
+_cell_length_c   6.23935178
+_cell_angle_alpha   130.22618721
+_cell_angle_beta   112.91057926
+_cell_angle_gamma   87.98845976
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThSc(Co3Si2)2
+_chemical_formula_sum   'Th1 Sc1 Co6 Si4'
+_cell_volume   162.54030024
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.250000  0.532141  0.282141  1
+  Sc  Sc1  1  0.750000  0.446949  0.696949  1
+  Co  Co2  1  0.016406  0.004327  0.520733  1
+  Co  Co3  1  0.483594  0.004327  0.987922  1
+  Co  Co4  1  0.724658  0.005917  0.723891  1
+  Co  Co5  1  0.217974  0.499233  0.723891  1
+  Co  Co6  1  0.282026  0.005917  0.281259  1
+  Co  Co7  1  0.775342  0.499233  0.281259  1
+  Si  Si8  1  0.065620  0.863775  0.798154  1
+  Si  Si9  1  0.902610  0.105433  0.202822  1
+  Si  Si10  1  0.597390  0.800214  0.202822  1
+  Si  Si11  1  0.434380  0.232534  0.798154  1

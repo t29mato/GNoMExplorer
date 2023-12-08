@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Pr4NiHg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.97225374
+_cell_length_b   9.97225383
+_cell_length_c   9.97225300
+_cell_angle_alpha   59.99999943
+_cell_angle_beta   59.99999915
+_cell_angle_gamma   59.99999779
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr4NiHg
+_chemical_formula_sum   'Pr16 Ni4 Hg4'
+_cell_volume   701.23716159
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.349038  0.349038  0.349038  1
+  Pr  Pr1  1  0.349038  0.349038  0.952884  1
+  Pr  Pr2  1  0.349038  0.952884  0.349038  1
+  Pr  Pr3  1  0.952884  0.349038  0.349038  1
+  Pr  Pr4  1  0.809012  0.190988  0.190988  1
+  Pr  Pr5  1  0.190988  0.809012  0.809012  1
+  Pr  Pr6  1  0.190988  0.809012  0.190988  1
+  Pr  Pr7  1  0.809012  0.190988  0.809012  1
+  Pr  Pr8  1  0.190988  0.190988  0.809012  1
+  Pr  Pr9  1  0.809012  0.809012  0.190988  1
+  Pr  Pr10  1  0.937265  0.562735  0.562735  1
+  Pr  Pr11  1  0.562735  0.937265  0.937265  1
+  Pr  Pr12  1  0.562735  0.937265  0.562735  1
+  Pr  Pr13  1  0.937265  0.562735  0.937265  1
+  Pr  Pr14  1  0.562735  0.562735  0.937265  1
+  Pr  Pr15  1  0.937265  0.937265  0.562735  1
+  Ni  Ni16  1  0.142467  0.142467  0.142467  1
+  Ni  Ni17  1  0.142467  0.142467  0.572597  1
+  Ni  Ni18  1  0.142467  0.572597  0.142467  1
+  Ni  Ni19  1  0.572597  0.142467  0.142467  1
+  Hg  Hg20  1  0.583646  0.583646  0.583646  1
+  Hg  Hg21  1  0.583646  0.583646  0.249062  1
+  Hg  Hg22  1  0.583646  0.249062  0.583646  1
+  Hg  Hg23  1  0.249062  0.583646  0.583646  1

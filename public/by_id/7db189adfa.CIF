@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_Pr2Si6GeRh12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.82596600
+_cell_length_b   9.82596672
+_cell_length_c   3.86772900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999759
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr2Si6GeRh12
+_chemical_formula_sum   'Pr2 Si6 Ge1 Rh12'
+_cell_volume   323.39792184
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.333333  0.666667  0.249898  1
+  Pr  Pr1  1  0.666667  0.333333  0.750102  1
+  Si  Si2  1  0.397689  0.107110  0.249654  1
+  Si  Si3  1  0.709420  0.602311  0.249654  1
+  Si  Si4  1  0.892890  0.290580  0.249654  1
+  Si  Si5  1  0.602311  0.892890  0.750346  1
+  Si  Si6  1  0.290580  0.397689  0.750346  1
+  Si  Si7  1  0.107110  0.709420  0.750346  1
+  Ge  Ge8  1  0.000000  0.000000  0.500000  1
+  Rh  Rh9  1  0.443229  0.381385  0.248806  1
+  Rh  Rh10  1  0.938156  0.556771  0.248806  1
+  Rh  Rh11  1  0.618615  0.061844  0.248806  1
+  Rh  Rh12  1  0.556771  0.618615  0.751194  1
+  Rh  Rh13  1  0.061844  0.443229  0.751194  1
+  Rh  Rh14  1  0.381385  0.938156  0.751194  1
+  Rh  Rh15  1  0.144894  0.878032  0.251497  1
+  Rh  Rh16  1  0.733137  0.855106  0.251497  1
+  Rh  Rh17  1  0.121968  0.266863  0.251497  1
+  Rh  Rh18  1  0.855106  0.121968  0.748503  1
+  Rh  Rh19  1  0.266863  0.144894  0.748503  1
+  Rh  Rh20  1  0.878032  0.733137  0.748503  1

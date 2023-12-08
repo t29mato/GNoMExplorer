@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_PmSmSi3Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.92058972
+_cell_length_b   5.91772371
+_cell_length_c   5.91772400
+_cell_angle_alpha   139.17538549
+_cell_angle_beta   105.22713247
+_cell_angle_gamma   88.88390575
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PmSmSi3Pd
+_chemical_formula_sum   'Pm1 Sm1 Si3 Pd1'
+_cell_volume   125.39338711
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pm  Pm0  1  0.001576  0.002251  0.999325  1
+  Sm  Sm1  1  0.497003  0.497744  0.999259  1
+  Si  Si2  1  0.086903  0.749650  0.337252  1
+  Si  Si3  1  0.914635  0.250373  0.664263  1
+  Si  Si4  1  0.415299  0.749625  0.665673  1
+  Pd  Pd5  1  0.584580  0.250355  0.334226  1

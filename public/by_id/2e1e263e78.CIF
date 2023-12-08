@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LiEr(NiIr)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.06795987
+_cell_length_b   5.24384635
+_cell_length_c   5.06795800
+_cell_angle_alpha   58.84514530
+_cell_angle_beta   58.14822409
+_cell_angle_gamma   58.84515863
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiEr(NiIr)2
+_chemical_formula_sum   'Li1 Er1 Ni2 Ir2'
+_cell_volume   92.20640547
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.746336  0.753664  0.746336  1
+  Er  Er1  1  0.497658  0.502342  0.497658  1
+  Ni  Ni2  1  0.627578  0.122706  0.127009  1
+  Ni  Ni3  1  0.127009  0.122706  0.627578  1
+  Ir  Ir4  1  0.125710  0.625501  0.125710  1
+  Ir  Ir5  1  0.125710  0.123080  0.125710  1

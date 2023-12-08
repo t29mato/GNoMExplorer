@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YbLu3(Os3Ru)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.23210523
+_cell_length_b   5.23225921
+_cell_length_c   8.91675801
+_cell_angle_alpha   89.99611735
+_cell_angle_beta   90.00272057
+_cell_angle_gamma   120.02937613
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbLu3(Os3Ru)2
+_chemical_formula_sum   'Yb1 Lu3 Os6 Ru2'
+_cell_volume   211.33659205
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.666646  0.333362  0.936466  1
+  Lu  Lu1  1  0.666623  0.333352  0.570461  1
+  Lu  Lu2  1  0.333365  0.666653  0.432698  1
+  Lu  Lu3  1  0.333345  0.666659  0.063484  1
+  Os  Os4  1  0.170741  0.341480  0.748169  1
+  Os  Os5  1  0.170720  0.829232  0.748159  1
+  Os  Os6  1  0.658547  0.829313  0.748190  1
+  Os  Os7  1  0.828984  0.657973  0.251244  1
+  Os  Os8  1  0.829052  0.170978  0.251259  1
+  Os  Os9  1  0.342010  0.170977  0.251247  1
+  Ru  Ru10  1  0.999977  0.000013  0.499128  1
+  Ru  Ru11  1  0.999988  0.000009  0.999495  1

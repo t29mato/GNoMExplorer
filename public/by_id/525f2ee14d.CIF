@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Rb2NaHoBi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.25649293
+_cell_length_b   10.25649285
+_cell_length_c   10.25649248
+_cell_angle_alpha   135.98794698
+_cell_angle_beta   63.78840152
+_cell_angle_gamma   136.26076274
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2NaHoBi2
+_chemical_formula_sum   'Rb4 Na2 Ho2 Bi4'
+_cell_volume   511.43089786
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.825375  0.268511  0.093886  1
+  Rb  Rb1  1  0.674624  0.768511  0.443136  1
+  Rb  Rb2  1  0.325375  0.231489  0.556864  1
+  Rb  Rb3  1  0.174625  0.731488  0.906113  1
+  Na  Na4  1  0.750000  0.250000  0.500000  1
+  Na  Na5  1  0.250000  0.750000  0.500000  1
+  Ho  Ho6  1  0.250000  0.250000  0.000000  1
+  Ho  Ho7  1  0.750001  0.750001  0.000000  1
+  Bi  Bi8  1  0.399463  0.726599  0.126063  1
+  Bi  Bi9  1  0.100536  0.226600  0.327136  1
+  Bi  Bi10  1  0.899463  0.773400  0.672864  1
+  Bi  Bi11  1  0.600536  0.273400  0.873937  1

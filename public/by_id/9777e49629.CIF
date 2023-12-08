@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Tm3Lu(MnTc3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.27620200
+_cell_length_b   5.27620203
+_cell_length_c   8.84214700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999982
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tm3Lu(MnTc3)2
+_chemical_formula_sum   'Tm3 Lu1 Mn2 Tc6'
+_cell_volume   213.17250760
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.666667  0.333333  0.564418  1
+  Tm  Tm1  1  0.666667  0.333333  0.935456  1
+  Tm  Tm2  1  0.333333  0.666667  0.064618  1
+  Lu  Lu3  1  0.333333  0.666667  0.435320  1
+  Mn  Mn4  1  0.000000  0.000000  0.499877  1
+  Mn  Mn5  1  0.000000  0.000000  0.000080  1
+  Tc  Tc6  1  0.831322  0.168678  0.250264  1
+  Tc  Tc7  1  0.831322  0.662644  0.250264  1
+  Tc  Tc8  1  0.337356  0.168678  0.250264  1
+  Tc  Tc9  1  0.168689  0.831311  0.749814  1
+  Tc  Tc10  1  0.168689  0.337378  0.749814  1
+  Tc  Tc11  1  0.662622  0.831311  0.749814  1

@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Na4Ca(GeS3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.83051166
+_cell_length_b   6.83051191
+_cell_length_c   7.71284707
+_cell_angle_alpha   81.13111967
+_cell_angle_beta   81.13111953
+_cell_angle_gamma   119.08544718
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na4Ca(GeS3)2
+_chemical_formula_sum   'Na4 Ca1 Ge2 S6'
+_cell_volume   299.57253994
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.501006  0.498994  0.000000  1
+  Na  Na1  1  0.666329  0.333671  0.500000  1
+  Na  Na2  1  0.332729  0.667271  0.500000  1
+  Na  Na3  1  0.174734  0.825266  0.000000  1
+  Ca  Ca4  1  0.822775  0.177225  0.000000  1
+  Ge  Ge5  1  0.057598  0.054225  0.334049  1
+  Ge  Ge6  1  0.945775  0.942402  0.665951  1
+  S  S7  1  0.082685  0.395270  0.241072  1
+  S  S8  1  0.402840  0.083562  0.246863  1
+  S  S9  1  0.916438  0.597160  0.753137  1
+  S  S10  1  0.604730  0.917315  0.758928  1
+  S  S11  1  0.776807  0.784446  0.239517  1
+  S  S12  1  0.215554  0.223193  0.760483  1

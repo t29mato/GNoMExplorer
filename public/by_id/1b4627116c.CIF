@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_V2InFe(HgO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.45304256
+_cell_length_b   8.59340200
+_cell_length_c   8.77259877
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   91.67946279
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V2InFe(HgO5)2
+_chemical_formula_sum   'V4 In2 Fe2 Hg4 O20'
+_cell_volume   486.26311126
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.746640  0.311250  0.708940  1
+  V  V1  1  0.753360  0.811250  0.791060  1
+  V  V2  1  0.253360  0.688750  0.291060  1
+  V  V3  1  0.246640  0.188750  0.208940  1
+  In  In4  1  0.000000  0.000000  0.500000  1
+  In  In5  1  0.500000  0.500000  0.000000  1
+  Fe  Fe6  1  0.500000  0.000000  0.500000  1
+  Fe  Fe7  1  0.000000  0.500000  0.000000  1
+  Hg  Hg8  1  0.238802  0.571845  0.657951  1
+  Hg  Hg9  1  0.261198  0.071845  0.842049  1
+  Hg  Hg10  1  0.761198  0.428155  0.342049  1
+  Hg  Hg11  1  0.738802  0.928155  0.157951  1
+  O  O12  1  0.525974  0.331188  0.814766  1
+  O  O13  1  0.974026  0.831188  0.685234  1
+  O  O14  1  0.038749  0.665010  0.170437  1
+  O  O15  1  0.461251  0.165010  0.329563  1
+  O  O16  1  0.474026  0.668812  0.185234  1
+  O  O17  1  0.025974  0.168812  0.314766  1
+  O  O18  1  0.961251  0.334990  0.829563  1
+  O  O19  1  0.538749  0.834990  0.670437  1
+  O  O20  1  0.741073  0.129807  0.610845  1
+  O  O21  1  0.758927  0.629807  0.889155  1
+  O  O22  1  0.258927  0.870193  0.389155  1
+  O  O23  1  0.241073  0.370193  0.110845  1
+  O  O24  1  0.269038  0.095877  0.611312  1
+  O  O25  1  0.230962  0.595877  0.888688  1
+  O  O26  1  0.730962  0.904123  0.388688  1
+  O  O27  1  0.769038  0.404123  0.111312  1
+  O  O28  1  0.750886  0.462105  0.571631  1
+  O  O29  1  0.749114  0.962105  0.928369  1
+  O  O30  1  0.249114  0.537895  0.428369  1
+  O  O31  1  0.250886  0.037895  0.071631  1

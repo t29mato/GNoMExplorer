@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Mg2Ga3Tc
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.20364270
+_cell_length_b   5.20364265
+_cell_length_c   8.63684600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   117.55347403
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2Ga3Tc
+_chemical_formula_sum   'Mg4 Ga6 Tc2'
+_cell_volume   207.34224364
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.675273  0.324727  0.066510  1
+  Mg  Mg1  1  0.324727  0.675273  0.933490  1
+  Mg  Mg2  1  0.324727  0.675273  0.566510  1
+  Mg  Mg3  1  0.675273  0.324727  0.433490  1
+  Ga  Ga4  1  0.830341  0.644060  0.750000  1
+  Ga  Ga5  1  0.169659  0.355940  0.250000  1
+  Ga  Ga6  1  0.355940  0.169659  0.750000  1
+  Ga  Ga7  1  0.644060  0.830341  0.250000  1
+  Ga  Ga8  1  0.000000  0.000000  0.500000  1
+  Ga  Ga9  1  0.000000  0.000000  0.000000  1
+  Tc  Tc10  1  0.843040  0.156960  0.750000  1
+  Tc  Tc11  1  0.156960  0.843040  0.250000  1

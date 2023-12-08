@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ti5Cr2B4Mo3P2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.87874369
+_cell_length_b   5.87874423
+_cell_length_c   6.96388175
+_cell_angle_alpha   115.06577157
+_cell_angle_beta   115.06575770
+_cell_angle_gamma   90.03549059
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti5Cr2B4Mo3P2
+_chemical_formula_sum   'Ti5 Cr2 B4 Mo3 P2'
+_cell_volume   192.65633766
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.033692  0.533692  0.726466  1
+  Ti  Ti1  1  0.691062  0.191062  0.724174  1
+  Ti  Ti2  1  0.190687  0.031355  0.722710  1
+  Ti  Ti3  1  0.531355  0.690687  0.722710  1
+  Ti  Ti4  1  0.966310  0.466310  0.275397  1
+  Cr  Cr5  1  0.500106  0.499738  0.001789  1
+  Cr  Cr6  1  0.999738  0.000106  0.001789  1
+  B  B7  1  0.382976  0.882976  0.998502  1
+  B  B8  1  0.615543  0.115543  0.998680  1
+  B  B9  1  0.116898  0.383308  0.999737  1
+  B  B10  1  0.883308  0.616898  0.999737  1
+  Mo  Mo11  1  0.310634  0.810634  0.276854  1
+  Mo  Mo12  1  0.809820  0.965274  0.274380  1
+  Mo  Mo13  1  0.465274  0.309820  0.274380  1
+  P  P14  1  0.250139  0.252457  0.501346  1
+  P  P15  1  0.752457  0.750139  0.501346  1

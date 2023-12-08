@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_TbCu3AgRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.00868882
+_cell_length_b   5.00868840
+_cell_length_c   5.20864238
+_cell_angle_alpha   61.26197862
+_cell_angle_beta   61.26198766
+_cell_angle_gamma   60.00000080
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbCu3AgRh
+_chemical_formula_sum   'Tb1 Cu3 Ag1 Rh1'
+_cell_volume   94.12035273
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.998260  0.998260  0.005219  1
+  Cu  Cu1  1  0.626607  0.129010  0.617776  1
+  Cu  Cu2  1  0.129010  0.626607  0.617776  1
+  Cu  Cu3  1  0.626607  0.626607  0.617776  1
+  Ag  Ag4  1  0.242660  0.242660  0.272021  1
+  Rh  Rh5  1  0.626856  0.626856  0.119432  1

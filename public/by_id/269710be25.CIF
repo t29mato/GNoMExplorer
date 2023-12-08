@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_K2NdPa(CuTe3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.23185440
+_cell_length_b   8.23185455
+_cell_length_c   11.45194085
+_cell_angle_alpha   90.98626749
+_cell_angle_beta   89.01373322
+_cell_angle_gamma   148.89804313
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2NdPa(CuTe3)2
+_chemical_formula_sum   'K2 Nd1 Pa1 Cu2 Te6'
+_cell_volume   400.80033136
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.746577  0.253425  0.275056  1
+  K  K1  1  0.253425  0.746577  0.724944  1
+  Nd  Nd2  1  0.000000  0.000000  0.500000  1
+  Pa  Pa3  1  0.000000  0.000000  0.000000  1
+  Cu  Cu4  1  0.471228  0.528773  0.245147  1
+  Cu  Cu5  1  0.528773  0.471228  0.754853  1
+  Te  Te6  1  0.374433  0.625568  0.062003  1
+  Te  Te7  1  0.070039  0.929962  0.238004  1
+  Te  Te8  1  0.369914  0.630087  0.428944  1
+  Te  Te9  1  0.630087  0.369914  0.571056  1
+  Te  Te10  1  0.929962  0.070039  0.761996  1
+  Te  Te11  1  0.625568  0.374433  0.937996  1

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_UCuAsN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.83617200
+_cell_length_b   3.83618100
+_cell_length_c   8.37354000
+_cell_angle_alpha   90.00012508
+_cell_angle_beta   89.99985189
+_cell_angle_gamma   90.00008961
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UCuAsN
+_chemical_formula_sum   'U2 Cu2 As2 N2'
+_cell_volume   123.22710928
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.249997  0.249998  0.141808  1
+  U  U1  1  0.750000  0.749996  0.858166  1
+  Cu  Cu2  1  0.750001  0.250000  0.500017  1
+  Cu  Cu3  1  0.250001  0.750001  0.500014  1
+  As  As4  1  0.750000  0.750001  0.313773  1
+  As  As5  1  0.249999  0.250002  0.686262  1
+  N  N6  1  0.749997  0.249998  0.999971  1
+  N  N7  1  0.249998  0.749998  0.999987  1

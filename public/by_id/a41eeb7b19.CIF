@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TmZr3(SiW)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.57672300
+_cell_length_b   7.03193180
+_cell_length_c   8.28349663
+_cell_angle_alpha   90.05986067
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TmZr3(SiW)4
+_chemical_formula_sum   'Tm1 Zr3 Si4 W4'
+_cell_volume   208.34036476
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.250000  0.040978  0.335579  1
+  Zr  Zr1  1  0.250000  0.541984  0.164230  1
+  Zr  Zr2  1  0.750000  0.958201  0.670042  1
+  Zr  Zr3  1  0.750000  0.458167  0.832961  1
+  Si  Si4  1  0.250000  0.259727  0.640901  1
+  Si  Si5  1  0.250000  0.756479  0.860960  1
+  Si  Si6  1  0.750000  0.735988  0.358795  1
+  Si  Si7  1  0.750000  0.244308  0.137321  1
+  W  W8  1  0.250000  0.131158  0.938679  1
+  W  W9  1  0.250000  0.630929  0.560404  1
+  W  W10  1  0.750000  0.868996  0.057652  1
+  W  W11  1  0.750000  0.373082  0.442474  1

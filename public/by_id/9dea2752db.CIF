@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_CeNd(Fe9Si4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.81048131
+_cell_length_b   7.81048175
+_cell_length_c   7.98520792
+_cell_angle_alpha   119.27876404
+_cell_angle_beta   119.27876986
+_cell_angle_gamma   90.00000541
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeNd(Fe9Si4)2
+_chemical_formula_sum   'Ce1 Nd1 Fe18 Si8'
+_cell_volume   351.82618084
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.250000  0.250000  0.500000  1
+  Nd  Nd1  1  0.750000  0.750000  0.500000  1
+  Fe  Fe2  1  0.299521  0.567185  0.999721  1
+  Fe  Fe3  1  0.700200  0.432537  0.999721  1
+  Fe  Fe4  1  0.200479  0.067463  0.000279  1
+  Fe  Fe5  1  0.799800  0.932815  0.000279  1
+  Fe  Fe6  1  0.432537  0.299521  0.999721  1
+  Fe  Fe7  1  0.567185  0.700200  0.999721  1
+  Fe  Fe8  1  0.932815  0.200479  0.000279  1
+  Fe  Fe9  1  0.067463  0.799800  0.000279  1
+  Fe  Fe10  1  0.554358  0.303664  0.359534  1
+  Fe  Fe11  1  0.805175  0.055869  0.359534  1
+  Fe  Fe12  1  0.303664  0.805175  0.359534  1
+  Fe  Fe13  1  0.055869  0.554358  0.359534  1
+  Fe  Fe14  1  0.444131  0.694825  0.640466  1
+  Fe  Fe15  1  0.196336  0.945642  0.640466  1
+  Fe  Fe16  1  0.694825  0.196336  0.640466  1
+  Fe  Fe17  1  0.945642  0.444131  0.640466  1
+  Fe  Fe18  1  0.000000  0.500000  0.000000  1
+  Fe  Fe19  1  0.500000  0.000000  0.000000  1
+  Si  Si20  1  0.949447  0.791876  0.241847  1
+  Si  Si21  1  0.292401  0.449971  0.241847  1
+  Si  Si22  1  0.791876  0.292401  0.241847  1
+  Si  Si23  1  0.449971  0.949447  0.241847  1
+  Si  Si24  1  0.050029  0.207599  0.758153  1
+  Si  Si25  1  0.708124  0.550553  0.758153  1
+  Si  Si26  1  0.207599  0.708124  0.758153  1
+  Si  Si27  1  0.550553  0.050029  0.758153  1

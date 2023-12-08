@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Li2DyPaRh2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.75454900
+_cell_length_b   7.13111867
+_cell_length_c   8.58878644
+_cell_angle_alpha   92.91349175
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2DyPaRh2
+_chemical_formula_sum   'Li4 Dy2 Pa2 Rh4'
+_cell_volume   229.66008409
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.250000  0.121388  0.941816  1
+  Li  Li1  1  0.750000  0.878823  0.058153  1
+  Li  Li2  1  0.250000  0.622350  0.552909  1
+  Li  Li3  1  0.750000  0.377614  0.447127  1
+  Dy  Dy4  1  0.250000  0.056356  0.319318  1
+  Dy  Dy5  1  0.750000  0.943545  0.680665  1
+  Pa  Pa6  1  0.250000  0.546478  0.190977  1
+  Pa  Pa7  1  0.750000  0.453522  0.808948  1
+  Rh  Rh8  1  0.750000  0.747228  0.354272  1
+  Rh  Rh9  1  0.250000  0.252631  0.645545  1
+  Rh  Rh10  1  0.750000  0.289177  0.120028  1
+  Rh  Rh11  1  0.250000  0.710889  0.880242  1

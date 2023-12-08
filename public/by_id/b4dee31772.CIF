@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_NdDyRe4(SiC)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.81643264
+_cell_length_b   5.81643337
+_cell_length_c   7.34857800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   140.04540162
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdDyRe4(SiC)2
+_chemical_formula_sum   'Nd1 Dy1 Re4 Si2 C2'
+_cell_volume   159.65179536
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.542603  0.457397  0.250000  1
+  Dy  Dy1  1  0.457404  0.542596  0.750000  1
+  Re  Re2  1  0.826226  0.173774  0.059119  1
+  Re  Re3  1  0.174276  0.825724  0.936852  1
+  Re  Re4  1  0.174276  0.825724  0.563148  1
+  Re  Re5  1  0.826226  0.173774  0.440881  1
+  Si  Si6  1  0.263984  0.736016  0.250000  1
+  Si  Si7  1  0.736288  0.263712  0.750000  1
+  C  C8  1  0.999359  0.000641  0.993975  1
+  C  C9  1  0.999359  0.000641  0.506025  1

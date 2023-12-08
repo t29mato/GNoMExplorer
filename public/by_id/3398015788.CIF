@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Tb2ErBi(Mo2O7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.40032526
+_cell_length_b   7.40032551
+_cell_length_c   7.37293689
+_cell_angle_alpha   60.34225700
+_cell_angle_beta   60.34225712
+_cell_angle_gamma   60.33366359
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2ErBi(Mo2O7)2
+_chemical_formula_sum   'Tb2 Er1 Bi1 Mo4 O14'
+_cell_volume   287.70606923
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.625000  0.125000  0.125000  1
+  Tb  Tb1  1  0.125000  0.625000  0.125000  1
+  Er  Er2  1  0.125000  0.125000  0.625000  1
+  Bi  Bi3  1  0.125000  0.125000  0.125000  1
+  Mo  Mo4  1  0.625000  0.625000  0.625000  1
+  Mo  Mo5  1  0.125000  0.625000  0.625000  1
+  Mo  Mo6  1  0.625000  0.625000  0.125000  1
+  Mo  Mo7  1  0.625000  0.125000  0.625000  1
+  O  O8  1  0.997080  0.997080  0.993045  1
+  O  O9  1  0.252920  0.252920  0.256955  1
+  O  O10  1  0.285544  0.285544  0.695908  1
+  O  O11  1  0.536208  0.536208  0.969049  1
+  O  O12  1  0.707852  0.291114  0.716698  1
+  O  O13  1  0.712666  0.286499  0.292023  1
+  O  O14  1  0.291114  0.707852  0.716698  1
+  O  O15  1  0.286499  0.712666  0.292023  1
+  O  O16  1  0.713792  0.713792  0.280951  1
+  O  O17  1  0.958886  0.542148  0.533302  1
+  O  O18  1  0.537334  0.963501  0.957977  1
+  O  O19  1  0.964456  0.964456  0.554092  1
+  O  O20  1  0.963501  0.537334  0.957977  1
+  O  O21  1  0.542148  0.958886  0.533302  1

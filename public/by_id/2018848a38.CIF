@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_LiBe2(SiRh2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.06663900
+_cell_length_b   5.77645300
+_cell_length_c   12.21186200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00146456
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiBe2(SiRh2)3
+_chemical_formula_sum   'Li2 Be4 Si6 Rh12'
+_cell_volume   286.86578565
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.000020  0.500000  0.999472  1
+  Li  Li1  1  0.499573  0.000000  0.167189  1
+  Be  Be2  1  0.999590  0.500000  0.332495  1
+  Be  Be3  1  0.500006  0.000000  0.499403  1
+  Be  Be4  1  0.000417  0.500000  0.667270  1
+  Be  Be5  1  0.500427  0.000000  0.834164  1
+  Si  Si6  1  0.999989  0.000000  0.003376  1
+  Si  Si7  1  0.499681  0.500000  0.163283  1
+  Si  Si8  1  0.999678  0.000000  0.330404  1
+  Si  Si9  1  0.500005  0.500000  0.500270  1
+  Si  Si10  1  0.000338  0.000000  0.666397  1
+  Si  Si11  1  0.500314  0.500000  0.836265  1
+  Rh  Rh12  1  0.500014  0.245398  0.995895  1
+  Rh  Rh13  1  0.500014  0.754602  0.995895  1
+  Rh  Rh14  1  0.999726  0.254598  0.170772  1
+  Rh  Rh15  1  0.999726  0.745403  0.170772  1
+  Rh  Rh16  1  0.499782  0.253014  0.338658  1
+  Rh  Rh17  1  0.499782  0.746987  0.338658  1
+  Rh  Rh18  1  0.999998  0.249137  0.501332  1
+  Rh  Rh19  1  0.999998  0.750864  0.501332  1
+  Rh  Rh20  1  0.500227  0.250865  0.665330  1
+  Rh  Rh21  1  0.500227  0.749136  0.665330  1
+  Rh  Rh22  1  0.000233  0.246990  0.828017  1
+  Rh  Rh23  1  0.000233  0.753011  0.828017  1

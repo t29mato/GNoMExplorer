@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LiPr9Si5As
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.72315018
+_cell_length_b   7.72314871
+_cell_length_c   9.01108579
+_cell_angle_alpha   115.37469198
+_cell_angle_beta   115.37468609
+_cell_angle_gamma   90.00000492
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiPr9Si5As
+_chemical_formula_sum   'Li1 Pr9 Si5 As1'
+_cell_volume   427.53297959
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.498609  0.498609  0.997218  1
+  Pr  Pr1  1  0.001717  0.001717  0.003434  1
+  Pr  Pr2  1  0.959609  0.816709  0.285707  1
+  Pr  Pr3  1  0.326096  0.468998  0.285707  1
+  Pr  Pr4  1  0.816709  0.326096  0.285707  1
+  Pr  Pr5  1  0.468998  0.959609  0.285707  1
+  Pr  Pr6  1  0.042314  0.185606  0.714054  1
+  Pr  Pr7  1  0.671741  0.528448  0.714054  1
+  Pr  Pr8  1  0.185606  0.671741  0.714054  1
+  Pr  Pr9  1  0.528448  0.042314  0.714054  1
+  Si  Si10  1  0.235780  0.235780  0.471560  1
+  Si  Si11  1  0.614054  0.887311  0.000046  1
+  Si  Si12  1  0.385992  0.112736  0.000046  1
+  Si  Si13  1  0.887311  0.385992  0.000046  1
+  Si  Si14  1  0.112736  0.614054  0.000046  1
+  As  As15  1  0.764279  0.764279  0.528559  1

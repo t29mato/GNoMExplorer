@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_CaPr(Si7Ir3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.06997146
+_cell_length_b   8.06997199
+_cell_length_c   8.06997145
+_cell_angle_alpha   56.74277016
+_cell_angle_beta   56.74276800
+_cell_angle_gamma   56.74276814
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaPr(Si7Ir3)2
+_chemical_formula_sum   'Ca1 Pr1 Si14 Ir6'
+_cell_volume   343.67614495
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.000000  0.000000  0.000000  1
+  Pr  Pr1  1  0.500000  0.500000  0.500000  1
+  Si  Si2  1  0.063476  0.852476  0.674240  1
+  Si  Si3  1  0.674240  0.063476  0.852476  1
+  Si  Si4  1  0.852476  0.674240  0.063476  1
+  Si  Si5  1  0.171636  0.348436  0.566458  1
+  Si  Si6  1  0.566458  0.171636  0.348436  1
+  Si  Si7  1  0.348436  0.566458  0.171636  1
+  Si  Si8  1  0.936524  0.147524  0.325760  1
+  Si  Si9  1  0.325760  0.936524  0.147524  1
+  Si  Si10  1  0.147524  0.325760  0.936524  1
+  Si  Si11  1  0.828364  0.651564  0.433542  1
+  Si  Si12  1  0.433542  0.828364  0.651564  1
+  Si  Si13  1  0.651564  0.433542  0.828364  1
+  Si  Si14  1  0.749745  0.749745  0.749745  1
+  Si  Si15  1  0.250255  0.250255  0.250255  1
+  Ir  Ir16  1  0.069027  0.750387  0.430914  1
+  Ir  Ir17  1  0.430914  0.069027  0.750387  1
+  Ir  Ir18  1  0.750387  0.430914  0.069027  1
+  Ir  Ir19  1  0.930973  0.249613  0.569086  1
+  Ir  Ir20  1  0.569086  0.930973  0.249613  1
+  Ir  Ir21  1  0.249613  0.569086  0.930973  1

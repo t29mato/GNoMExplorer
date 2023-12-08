@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_PaCoSnH
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.22967500
+_cell_length_b   7.12005200
+_cell_length_c   8.23532200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PaCoSnH
+_chemical_formula_sum   'Pa4 Co4 Sn4 H4'
+_cell_volume   248.01088863
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.750000  0.016066  0.694280  1
+  Pa  Pa1  1  0.250000  0.983934  0.305720  1
+  Pa  Pa2  1  0.250000  0.483934  0.194280  1
+  Pa  Pa3  1  0.750000  0.516066  0.805720  1
+  Co  Co4  1  0.750000  0.778756  0.116591  1
+  Co  Co5  1  0.250000  0.221244  0.883409  1
+  Co  Co6  1  0.250000  0.721244  0.616591  1
+  Co  Co7  1  0.750000  0.278756  0.383409  1
+  Sn  Sn8  1  0.750000  0.671916  0.431512  1
+  Sn  Sn9  1  0.250000  0.328084  0.568488  1
+  Sn  Sn10  1  0.250000  0.828084  0.931512  1
+  Sn  Sn11  1  0.750000  0.171916  0.068488  1
+  H  H12  1  0.250000  0.452078  0.920225  1
+  H  H13  1  0.750000  0.547922  0.079775  1
+  H  H14  1  0.750000  0.047922  0.420225  1
+  H  H15  1  0.250000  0.952078  0.579775  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ta2ZnFe(BRu2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.10055900
+_cell_length_b   9.10055900
+_cell_length_c   3.03574500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2ZnFe(BRu2)2
+_chemical_formula_sum   'Ta4 Zn2 Fe2 B4 Ru8'
+_cell_volume   251.42092946
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.827330  0.672670  0.000000  1
+  Ta  Ta1  1  0.172670  0.327330  0.000000  1
+  Ta  Ta2  1  0.327330  0.827330  0.000000  1
+  Ta  Ta3  1  0.672670  0.172670  0.000000  1
+  Zn  Zn4  1  0.500000  0.500000  0.000000  1
+  Zn  Zn5  1  0.000000  0.000000  0.000000  1
+  Fe  Fe6  1  0.500000  0.000000  0.500000  1
+  Fe  Fe7  1  0.000000  0.500000  0.500000  1
+  B  B8  1  0.617346  0.882654  0.000000  1
+  B  B9  1  0.382654  0.117346  0.000000  1
+  B  B10  1  0.117346  0.617346  0.000000  1
+  B  B11  1  0.882654  0.382654  0.000000  1
+  Ru  Ru12  1  0.564732  0.720107  0.500000  1
+  Ru  Ru13  1  0.435268  0.279893  0.500000  1
+  Ru  Ru14  1  0.064732  0.779893  0.500000  1
+  Ru  Ru15  1  0.935268  0.220107  0.500000  1
+  Ru  Ru16  1  0.279893  0.564732  0.500000  1
+  Ru  Ru17  1  0.720107  0.435268  0.500000  1
+  Ru  Ru18  1  0.220107  0.064732  0.500000  1
+  Ru  Ru19  1  0.779893  0.935268  0.500000  1

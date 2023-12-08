@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ta2TiPC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47082226
+_cell_length_b   5.47082380
+_cell_length_c   7.97006600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   144.83279904
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2TiPC
+_chemical_formula_sum   'Ta4 Ti2 P2 C2'
+_cell_volume   137.39246851
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.633858  0.366143  0.060157  1
+  Ta  Ta1  1  0.633858  0.366143  0.439843  1
+  Ta  Ta2  1  0.366143  0.633858  0.560156  1
+  Ta  Ta3  1  0.366143  0.633858  0.939843  1
+  Ti  Ti4  1  0.934842  0.065159  0.250000  1
+  Ti  Ti5  1  0.065159  0.934842  0.750000  1
+  P  P6  1  0.261185  0.738816  0.250000  1
+  P  P7  1  0.738816  0.261185  0.750000  1
+  C  C8  1  0.000000  0.000000  0.000000  1
+  C  C9  1  0.000000  0.000000  0.499999  1

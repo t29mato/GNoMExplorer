@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CeY(MgRh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.02820400
+_cell_length_b   7.18485005
+_cell_length_c   8.78994521
+_cell_angle_alpha   91.82199282
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeY(MgRh)2
+_chemical_formula_sum   'Ce2 Y2 Mg4 Rh4'
+_cell_volume   254.27034405
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.250000  0.531067  0.185732  1
+  Ce  Ce1  1  0.750000  0.468975  0.814131  1
+  Y  Y2  1  0.750000  0.962805  0.675170  1
+  Y  Y3  1  0.250000  0.037151  0.324873  1
+  Mg  Mg4  1  0.250000  0.640936  0.554586  1
+  Mg  Mg5  1  0.750000  0.358983  0.445477  1
+  Mg  Mg6  1  0.750000  0.867816  0.060233  1
+  Mg  Mg7  1  0.250000  0.132278  0.939759  1
+  Rh  Rh8  1  0.250000  0.736364  0.869331  1
+  Rh  Rh9  1  0.750000  0.263644  0.130586  1
+  Rh  Rh10  1  0.750000  0.742104  0.358601  1
+  Rh  Rh11  1  0.250000  0.257879  0.641522  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ta3Os5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.19010400
+_cell_length_b   5.53025700
+_cell_length_c   10.92828200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta3Os5
+_chemical_formula_sum   'Ta6 Os10'
+_cell_volume   253.23399700
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.000000  0.500000  0.500000  1
+  Ta  Ta1  1  0.000000  0.000000  0.000000  1
+  Ta  Ta2  1  0.500000  0.823323  0.357403  1
+  Ta  Ta3  1  0.500000  0.176677  0.642597  1
+  Ta  Ta4  1  0.500000  0.323323  0.142597  1
+  Ta  Ta5  1  0.500000  0.676677  0.857403  1
+  Os  Os6  1  0.000000  0.500000  0.000000  1
+  Os  Os7  1  0.000000  0.000000  0.500000  1
+  Os  Os8  1  0.000000  0.568769  0.247673  1
+  Os  Os9  1  0.000000  0.431231  0.752327  1
+  Os  Os10  1  0.000000  0.068769  0.252327  1
+  Os  Os11  1  0.000000  0.931231  0.747673  1
+  Os  Os12  1  0.500000  0.808535  0.111438  1
+  Os  Os13  1  0.500000  0.191465  0.888562  1
+  Os  Os14  1  0.500000  0.308535  0.388562  1
+  Os  Os15  1  0.500000  0.691465  0.611438  1

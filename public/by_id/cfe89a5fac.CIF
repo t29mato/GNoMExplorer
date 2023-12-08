@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_MnFeAsO4F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.62760946
+_cell_length_b   7.62760936
+_cell_length_c   10.34532501
+_cell_angle_alpha   65.74946881
+_cell_angle_beta   65.74946829
+_cell_angle_gamma   52.36646504
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnFeAsO4F
+_chemical_formula_sum   'Mn4 Fe4 As4 O16 F4'
+_cell_volume   423.80391938
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.198268  0.685480  0.016243  1
+  Mn  Mn1  1  0.346082  0.774615  0.488509  1
+  Mn  Mn2  1  0.774615  0.346082  0.988509  1
+  Mn  Mn3  1  0.685480  0.198268  0.516243  1
+  Fe  Fe4  1  0.956761  0.742661  0.365092  1
+  Fe  Fe5  1  0.272637  0.053621  0.127804  1
+  Fe  Fe6  1  0.053621  0.272637  0.627804  1
+  Fe  Fe7  1  0.742661  0.956761  0.865092  1
+  As  As8  1  0.422478  0.225872  0.306417  1
+  As  As9  1  0.778356  0.571073  0.193801  1
+  As  As10  1  0.571073  0.778356  0.693801  1
+  As  As11  1  0.225872  0.422478  0.806417  1
+  O  O12  1  0.462575  0.383411  0.135264  1
+  O  O13  1  0.619573  0.522636  0.364236  1
+  O  O14  1  0.522636  0.619573  0.864236  1
+  O  O15  1  0.383411  0.462575  0.635264  1
+  O  O16  1  0.354824  0.049016  0.302932  1
+  O  O17  1  0.954242  0.630610  0.205501  1
+  O  O18  1  0.630610  0.954242  0.705501  1
+  O  O19  1  0.049016  0.354824  0.802932  1
+  O  O20  1  0.212446  0.399980  0.427280  1
+  O  O21  1  0.610321  0.782320  0.071411  1
+  O  O22  1  0.782320  0.610321  0.571411  1
+  O  O23  1  0.399980  0.212446  0.927280  1
+  O  O24  1  0.664918  0.069547  0.371075  1
+  O  O25  1  0.934760  0.328458  0.126973  1
+  O  O26  1  0.328458  0.934760  0.626973  1
+  O  O27  1  0.069547  0.664918  0.871075  1
+  F  F28  1  0.150969  0.856834  0.166901  1
+  F  F29  1  0.856834  0.150969  0.666901  1
+  F  F30  1  0.031692  0.901163  0.454463  1
+  F  F31  1  0.901163  0.031692  0.954463  1

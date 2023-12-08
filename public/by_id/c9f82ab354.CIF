@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_PrY2Si2BRh6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.57873200
+_cell_length_b   5.57873145
+_cell_length_c   14.64815900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000325
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrY2Si2BRh6
+_chemical_formula_sum   'Pr2 Y4 Si4 B2 Rh12'
+_cell_volume   394.80679382
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.666667  0.333333  0.750000  1
+  Pr  Pr1  1  0.333333  0.666667  0.250000  1
+  Y  Y2  1  0.666667  0.333333  0.970090  1
+  Y  Y3  1  0.666667  0.333333  0.529910  1
+  Y  Y4  1  0.333333  0.666667  0.040849  1
+  Y  Y5  1  0.333333  0.666667  0.459151  1
+  Si  Si6  1  0.000000  0.000000  0.489479  1
+  Si  Si7  1  0.000000  0.000000  0.750000  1
+  Si  Si8  1  0.333333  0.666667  0.750000  1
+  Si  Si9  1  0.000000  0.000000  0.010521  1
+  B  B10  1  0.666667  0.333333  0.250000  1
+  B  B11  1  0.000000  0.000000  0.250000  1
+  Rh  Rh12  1  0.166262  0.332524  0.874128  1
+  Rh  Rh13  1  0.166262  0.332524  0.625872  1
+  Rh  Rh14  1  0.667476  0.833738  0.874128  1
+  Rh  Rh15  1  0.332242  0.166121  0.352492  1
+  Rh  Rh16  1  0.833879  0.667758  0.352492  1
+  Rh  Rh17  1  0.833879  0.166121  0.352492  1
+  Rh  Rh18  1  0.833879  0.166121  0.147508  1
+  Rh  Rh19  1  0.332242  0.166121  0.147508  1
+  Rh  Rh20  1  0.667476  0.833738  0.625872  1
+  Rh  Rh21  1  0.166262  0.833738  0.625872  1
+  Rh  Rh22  1  0.833879  0.667758  0.147508  1
+  Rh  Rh23  1  0.166262  0.833738  0.874128  1

@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ta11TiAl8(PdC)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.35186782
+_cell_length_b   8.34045103
+_cell_length_c   8.35186741
+_cell_angle_alpha   60.04521204
+_cell_angle_beta   59.98239449
+_cell_angle_gamma   60.04520768
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta11TiAl8(PdC)4
+_chemical_formula_sum   'Ta11 Ti1 Al8 Pd4 C4'
+_cell_volume   411.60465887
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.319297  0.682046  0.681554  1
+  Ta  Ta1  1  0.681554  0.317102  0.319297  1
+  Ta  Ta2  1  0.318203  0.681797  0.318203  1
+  Ta  Ta3  1  0.681554  0.682046  0.319297  1
+  Ta  Ta4  1  0.319297  0.317102  0.681554  1
+  Ta  Ta5  1  0.568866  0.566887  0.931024  1
+  Ta  Ta6  1  0.931024  0.566887  0.568866  1
+  Ta  Ta7  1  0.568866  0.933223  0.931024  1
+  Ta  Ta8  1  0.931024  0.933223  0.568866  1
+  Ta  Ta9  1  0.681983  0.318017  0.681983  1
+  Ta  Ta10  1  0.931282  0.568718  0.931282  1
+  Ti  Ti11  1  0.569106  0.930894  0.569106  1
+  Al  Al12  1  0.916059  0.916190  0.916059  1
+  Al  Al13  1  0.997618  0.334013  0.334354  1
+  Al  Al14  1  0.334135  0.998199  0.334135  1
+  Al  Al15  1  0.334354  0.334013  0.997618  1
+  Al  Al16  1  0.916059  0.251695  0.916059  1
+  Al  Al17  1  0.913702  0.916018  0.254264  1
+  Al  Al18  1  0.254264  0.916018  0.913702  1
+  Al  Al19  1  0.334135  0.333529  0.334135  1
+  Pd  Pd20  1  0.124844  0.124770  0.124844  1
+  Pd  Pd21  1  0.624985  0.124928  0.125159  1
+  Pd  Pd22  1  0.124844  0.625543  0.124844  1
+  Pd  Pd23  1  0.125159  0.124928  0.624985  1
+  C  C24  1  0.624082  0.629376  0.624082  1
+  C  C25  1  0.125154  0.625190  0.624467  1
+  C  C26  1  0.624082  0.122460  0.624082  1
+  C  C27  1  0.624467  0.625190  0.125154  1

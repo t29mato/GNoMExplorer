@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ba3Te2(BrO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.74806985
+_cell_length_b   7.74807069
+_cell_length_c   14.70314201
+_cell_angle_alpha   86.51232644
+_cell_angle_beta   86.51232797
+_cell_angle_gamma   46.36303812
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3Te2(BrO3)2
+_chemical_formula_sum   'Ba6 Te4 Br4 O12'
+_cell_volume   637.41000143
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.549600  0.450400  0.250000  1
+  Ba  Ba1  1  0.450400  0.549600  0.750000  1
+  Ba  Ba2  1  0.794521  0.787051  0.350865  1
+  Ba  Ba3  1  0.212949  0.205479  0.149135  1
+  Ba  Ba4  1  0.205479  0.212949  0.649135  1
+  Ba  Ba5  1  0.787051  0.794521  0.850865  1
+  Te  Te6  1  0.104257  0.095740  0.386137  1
+  Te  Te7  1  0.904260  0.895743  0.113863  1
+  Te  Te8  1  0.895743  0.904260  0.613863  1
+  Te  Te9  1  0.095740  0.104257  0.886137  1
+  Br  Br10  1  0.337720  0.350959  0.444925  1
+  Br  Br11  1  0.649041  0.662280  0.055075  1
+  Br  Br12  1  0.662280  0.649041  0.555075  1
+  Br  Br13  1  0.350959  0.337720  0.944925  1
+  O  O14  1  0.935689  0.372495  0.307641  1
+  O  O15  1  0.627505  0.064311  0.192359  1
+  O  O16  1  0.064311  0.627505  0.692359  1
+  O  O17  1  0.372495  0.935689  0.807641  1
+  O  O18  1  0.378916  0.886640  0.308510  1
+  O  O19  1  0.113360  0.621084  0.191490  1
+  O  O20  1  0.621084  0.113360  0.691490  1
+  O  O21  1  0.886640  0.378916  0.808510  1
+  O  O22  1  0.923133  0.026105  0.362011  1
+  O  O23  1  0.973895  0.076867  0.137989  1
+  O  O24  1  0.076867  0.973895  0.637989  1
+  O  O25  1  0.026105  0.923133  0.862011  1

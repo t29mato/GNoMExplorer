@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ta4V4Ga3P
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.36672800
+_cell_length_b   6.69755505
+_cell_length_c   8.06417175
+_cell_angle_alpha   89.44844000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta4V4Ga3P
+_chemical_formula_sum   'Ta4 V4 Ga3 P1'
+_cell_volume   181.82934232
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.250000  0.557840  0.162522  1
+  Ta  Ta1  1  0.750000  0.437235  0.824704  1
+  Ta  Ta2  1  0.750000  0.966305  0.663773  1
+  Ta  Ta3  1  0.250000  0.054069  0.341073  1
+  V  V4  1  0.250000  0.615488  0.565017  1
+  V  V5  1  0.750000  0.364647  0.446558  1
+  V  V6  1  0.750000  0.874916  0.062396  1
+  V  V7  1  0.250000  0.128536  0.932364  1
+  Ga  Ga8  1  0.250000  0.749971  0.858326  1
+  Ga  Ga9  1  0.750000  0.251892  0.139714  1
+  Ga  Ga10  1  0.750000  0.747689  0.364849  1
+  P  P11  1  0.250000  0.251411  0.638701  1

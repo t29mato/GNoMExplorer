@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na3Sr(CdAu)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.59928000
+_cell_length_b   7.51967764
+_cell_length_c   8.65658677
+_cell_angle_alpha   89.41815780
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3Sr(CdAu)4
+_chemical_formula_sum   'Na3 Sr1 Cd4 Au4'
+_cell_volume   299.37350800
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.250000  0.029153  0.321274  1
+  Na  Na1  1  0.250000  0.532870  0.184700  1
+  Na  Na2  1  0.750000  0.969747  0.675508  1
+  Sr  Sr3  1  0.750000  0.469043  0.820346  1
+  Cd  Cd4  1  0.250000  0.140293  0.941318  1
+  Cd  Cd5  1  0.250000  0.658914  0.556586  1
+  Cd  Cd6  1  0.750000  0.854518  0.066413  1
+  Cd  Cd7  1  0.750000  0.349191  0.433011  1
+  Au  Au8  1  0.250000  0.262001  0.623547  1
+  Au  Au9  1  0.250000  0.763645  0.875717  1
+  Au  Au10  1  0.750000  0.736528  0.375563  1
+  Au  Au11  1  0.750000  0.234098  0.126018  1

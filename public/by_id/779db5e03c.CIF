@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HoPu(NiH4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.63817222
+_cell_length_b   4.77178600
+_cell_length_c   6.05044334
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   107.49037916
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoPu(NiH4)2
+_chemical_formula_sum   'Ho1 Pu1 Ni2 H8'
+_cell_volume   100.18296900
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.133330  0.250000  0.766642  1
+  Pu  Pu1  1  0.869122  0.750000  0.238102  1
+  Ni  Ni2  1  0.405193  0.250000  0.310617  1
+  Ni  Ni3  1  0.598390  0.750000  0.696557  1
+  H  H4  1  0.305050  0.497692  0.110136  1
+  H  H5  1  0.305050  0.002308  0.110136  1
+  H  H6  1  0.915258  0.250000  0.330702  1
+  H  H7  1  0.498310  0.992526  0.496643  1
+  H  H8  1  0.498310  0.507474  0.496643  1
+  H  H9  1  0.085165  0.750000  0.670213  1
+  H  H10  1  0.693409  0.004901  0.886803  1
+  H  H11  1  0.693409  0.495099  0.886803  1

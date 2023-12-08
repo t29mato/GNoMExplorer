@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaCe3(NCl)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.82595656
+_cell_length_b   6.82595632
+_cell_length_c   10.66039355
+_cell_angle_alpha   83.86450050
+_cell_angle_beta   83.86450189
+_cell_angle_gamma   119.93946680
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCe3(NCl)3
+_chemical_formula_sum   'Na2 Ce6 N6 Cl6'
+_cell_volume   420.49267171
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.666773  0.333227  0.000000  1
+  Na  Na1  1  0.333227  0.666773  0.000000  1
+  Ce  Ce2  1  0.211421  0.211421  0.365814  1
+  Ce  Ce3  1  0.544759  0.877454  0.366101  1
+  Ce  Ce4  1  0.877454  0.544759  0.366101  1
+  Ce  Ce5  1  0.122546  0.455241  0.633899  1
+  Ce  Ce6  1  0.455241  0.122546  0.633899  1
+  Ce  Ce7  1  0.788579  0.788579  0.634186  1
+  N  N8  1  0.136754  0.136754  0.585984  1
+  N  N9  1  0.471706  0.805337  0.585045  1
+  N  N10  1  0.805337  0.471706  0.585045  1
+  N  N11  1  0.194663  0.528294  0.414955  1
+  N  N12  1  0.528294  0.194663  0.414955  1
+  N  N13  1  0.863246  0.863246  0.414016  1
+  Cl  Cl14  1  0.055462  0.713433  0.832969  1
+  Cl  Cl15  1  0.397463  0.397463  0.832875  1
+  Cl  Cl16  1  0.713433  0.055462  0.832969  1
+  Cl  Cl17  1  0.286567  0.944538  0.167031  1
+  Cl  Cl18  1  0.602537  0.602537  0.167125  1
+  Cl  Cl19  1  0.944538  0.286567  0.167031  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Hf2TaTiAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.59748500
+_cell_length_b   6.96616200
+_cell_length_c   8.51630300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf2TaTiAs2
+_chemical_formula_sum   'Hf4 Ta2 Ti2 As4'
+_cell_volume   213.42420207
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.250000  0.038924  0.664804  1
+  Hf  Hf1  1  0.250000  0.539431  0.835131  1
+  Hf  Hf2  1  0.750000  0.461076  0.164804  1
+  Hf  Hf3  1  0.750000  0.960569  0.335131  1
+  Ta  Ta4  1  0.750000  0.364158  0.560784  1
+  Ta  Ta5  1  0.250000  0.135842  0.060784  1
+  Ti  Ti6  1  0.750000  0.866344  0.940117  1
+  Ti  Ti7  1  0.250000  0.633656  0.440117  1
+  As  As8  1  0.250000  0.260146  0.356778  1
+  As  As9  1  0.250000  0.758470  0.142388  1
+  As  As10  1  0.750000  0.741530  0.642388  1
+  As  As11  1  0.750000  0.239854  0.856778  1

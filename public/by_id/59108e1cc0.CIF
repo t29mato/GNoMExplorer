@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_RbBaNp2(CuTe3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.01876441
+_cell_length_b   8.01876495
+_cell_length_c   11.49125200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   147.56700661
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbBaNp2(CuTe3)2
+_chemical_formula_sum   'Rb1 Ba1 Np2 Cu2 Te6'
+_cell_volume   396.27852268
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.748530  0.251470  0.250000  1
+  Ba  Ba1  1  0.252754  0.747246  0.750000  1
+  Np  Np2  1  0.000275  0.999725  0.499105  1
+  Np  Np3  1  0.000275  0.999725  0.000895  1
+  Cu  Cu4  1  0.530528  0.469472  0.750000  1
+  Cu  Cu5  1  0.466416  0.533584  0.250000  1
+  Te  Te6  1  0.633215  0.366785  0.932459  1
+  Te  Te7  1  0.063935  0.936065  0.250000  1
+  Te  Te8  1  0.370392  0.629608  0.442170  1
+  Te  Te9  1  0.370392  0.629608  0.057830  1
+  Te  Te10  1  0.633215  0.366785  0.567541  1
+  Te  Te11  1  0.930073  0.069927  0.750000  1

@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Li6NpO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.43652728
+_cell_length_b   5.43656403
+_cell_length_c   5.43655239
+_cell_angle_alpha   100.93459421
+_cell_angle_beta   100.93474838
+_cell_angle_gamma   100.93460241
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li6NpO6
+_chemical_formula_sum   'Li6 Np1 O6'
+_cell_volume   150.59710036
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.353860  0.646140  0.000000  1
+  Li  Li1  1  0.646140  0.353860  0.000000  1
+  Li  Li2  1  0.000001  0.646139  0.353860  1
+  Li  Li3  1  0.353861  0.000000  0.646140  1
+  Li  Li4  1  0.999999  0.353861  0.646140  1
+  Li  Li5  1  0.646139  0.000000  0.353860  1
+  Np  Np6  1  0.000000  0.000000  0.000000  1
+  O  O7  1  0.730802  0.099898  0.730802  1
+  O  O8  1  0.269198  0.900102  0.269198  1
+  O  O9  1  0.269196  0.269194  0.900103  1
+  O  O10  1  0.900102  0.269195  0.269197  1
+  O  O11  1  0.730804  0.730806  0.099897  1
+  O  O12  1  0.099898  0.730805  0.730803  1

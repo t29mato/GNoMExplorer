@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Lu3Ga(Co3C)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.08889300
+_cell_length_b   5.08889172
+_cell_length_c   13.58157500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99998884
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu3Ga(Co3C)2
+_chemical_formula_sum   'Lu6 Ga2 Co12 C4'
+_cell_volume   304.59820951
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.333333  0.666667  0.533895  1
+  Lu  Lu1  1  0.666667  0.333333  0.033895  1
+  Lu  Lu2  1  0.666667  0.333333  0.466105  1
+  Lu  Lu3  1  0.333333  0.666667  0.966105  1
+  Lu  Lu4  1  0.333333  0.666667  0.750000  1
+  Lu  Lu5  1  0.666667  0.333333  0.250000  1
+  Ga  Ga6  1  0.000000  0.000000  0.000000  1
+  Ga  Ga7  1  0.000000  0.000000  0.500000  1
+  Co  Co8  1  0.166476  0.332951  0.154478  1
+  Co  Co9  1  0.833524  0.667049  0.654478  1
+  Co  Co10  1  0.667049  0.833524  0.154478  1
+  Co  Co11  1  0.166476  0.833524  0.154478  1
+  Co  Co12  1  0.833524  0.166476  0.654478  1
+  Co  Co13  1  0.332951  0.166476  0.654478  1
+  Co  Co14  1  0.833524  0.667049  0.845522  1
+  Co  Co15  1  0.833524  0.166476  0.845522  1
+  Co  Co16  1  0.332951  0.166476  0.845522  1
+  Co  Co17  1  0.667049  0.833524  0.345522  1
+  Co  Co18  1  0.166476  0.833524  0.345522  1
+  Co  Co19  1  0.166476  0.332951  0.345522  1
+  C  C20  1  0.333333  0.666667  0.250000  1
+  C  C21  1  0.666667  0.333333  0.750000  1
+  C  C22  1  0.000000  0.000000  0.250000  1
+  C  C23  1  0.000000  0.000000  0.750000  1

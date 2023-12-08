@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Lu4ScInBi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.29922861
+_cell_length_b   8.91010393
+_cell_length_c   8.84843062
+_cell_angle_alpha   120.23084062
+_cell_angle_beta   90.02820223
+_cell_angle_gamma   89.94401174
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu4ScInBi2
+_chemical_formula_sum   'Lu8 Sc2 In2 Bi4'
+_cell_volume   429.09345796
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.004924  0.672518  0.340672  1
+  Lu  Lu1  1  0.004924  0.331847  0.659328  1
+  Lu  Lu2  1  0.749866  0.234929  0.000000  1
+  Lu  Lu3  1  0.748239  0.767440  0.764287  1
+  Lu  Lu4  1  0.748239  0.003153  0.235713  1
+  Lu  Lu5  1  0.250769  0.766494  0.000000  1
+  Lu  Lu6  1  0.250443  0.230518  0.241593  1
+  Lu  Lu7  1  0.250443  0.988925  0.758407  1
+  Sc  Sc8  1  0.496659  0.332280  0.660267  1
+  Sc  Sc9  1  0.496659  0.672013  0.339733  1
+  In  In10  1  0.256346  0.602053  0.603964  1
+  In  In11  1  0.256346  0.998090  0.396036  1
+  Bi  Bi12  1  0.745033  0.605012  0.000000  1
+  Bi  Bi13  1  0.742593  0.400047  0.395506  1
+  Bi  Bi14  1  0.742593  0.004541  0.604494  1
+  Bi  Bi15  1  0.255926  0.390143  0.000000  1

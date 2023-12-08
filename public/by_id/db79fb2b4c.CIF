@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sc4UAlFe6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.20750140
+_cell_length_b   5.20750188
+_cell_length_c   7.72786473
+_cell_angle_alpha   90.06830630
+_cell_angle_beta   89.93169369
+_cell_angle_gamma   120.02012651
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc4UAlFe6
+_chemical_formula_sum   'Sc4 U1 Al1 Fe6'
+_cell_volume   181.45145225
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.666635  0.333365  0.074117  1
+  Sc  Sc1  1  0.333365  0.666635  0.925883  1
+  Sc  Sc2  1  0.333280  0.666720  0.551700  1
+  Sc  Sc3  1  0.666720  0.333280  0.448300  1
+  U  U4  1  0.000000  0.000000  0.000000  1
+  Al  Al5  1  0.000000  0.000000  0.500000  1
+  Fe  Fe6  1  0.826611  0.653080  0.757861  1
+  Fe  Fe7  1  0.826567  0.173433  0.757852  1
+  Fe  Fe8  1  0.346920  0.173389  0.757861  1
+  Fe  Fe9  1  0.173389  0.346920  0.242139  1
+  Fe  Fe10  1  0.173433  0.826567  0.242148  1
+  Fe  Fe11  1  0.653080  0.826611  0.242139  1

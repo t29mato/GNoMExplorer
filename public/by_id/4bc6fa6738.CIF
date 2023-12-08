@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_NaTb(CN2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.40497400
+_cell_length_b   7.47351800
+_cell_length_c   9.97697000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaTb(CN2)2
+_chemical_formula_sum   'Na4 Tb4 C8 N16'
+_cell_volume   477.57449192
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.250000  0.625310  0.000000  1
+  Na  Na1  1  0.750000  0.874690  0.500000  1
+  Na  Na2  1  0.750000  0.374690  0.000000  1
+  Na  Na3  1  0.250000  0.125310  0.500000  1
+  Tb  Tb4  1  0.250000  0.132915  0.000000  1
+  Tb  Tb5  1  0.750000  0.367085  0.500000  1
+  Tb  Tb6  1  0.750000  0.867085  0.000000  1
+  Tb  Tb7  1  0.250000  0.632915  0.500000  1
+  C  C8  1  0.917010  0.118951  0.247518  1
+  C  C9  1  0.417010  0.381049  0.252482  1
+  C  C10  1  0.082990  0.381049  0.747518  1
+  C  C11  1  0.582990  0.118951  0.752482  1
+  C  C12  1  0.082990  0.881049  0.752482  1
+  C  C13  1  0.582990  0.618951  0.747518  1
+  C  C14  1  0.917010  0.618951  0.252482  1
+  C  C15  1  0.417010  0.881049  0.247518  1
+  N  N16  1  0.935267  0.096571  0.124264  1
+  N  N17  1  0.435267  0.403429  0.375736  1
+  N  N18  1  0.064733  0.403429  0.624264  1
+  N  N19  1  0.564733  0.096571  0.875736  1
+  N  N20  1  0.064733  0.903429  0.875736  1
+  N  N21  1  0.564733  0.596571  0.624264  1
+  N  N22  1  0.935267  0.596571  0.375736  1
+  N  N23  1  0.435267  0.903429  0.124264  1
+  N  N24  1  0.398841  0.360104  0.131401  1
+  N  N25  1  0.898841  0.139896  0.368599  1
+  N  N26  1  0.601159  0.139896  0.631401  1
+  N  N27  1  0.101159  0.360104  0.868599  1
+  N  N28  1  0.601159  0.639896  0.868599  1
+  N  N29  1  0.101159  0.860104  0.631401  1
+  N  N30  1  0.398841  0.860104  0.368599  1
+  N  N31  1  0.898841  0.639896  0.131401  1

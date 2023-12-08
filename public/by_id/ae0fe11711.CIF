@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_NdRhBr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.34024300
+_cell_length_b   4.34024351
+_cell_length_c   11.22981700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000371
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdRhBr
+_chemical_formula_sum   'Nd2 Rh2 Br2'
+_cell_volume   183.20251717
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.000000  0.000000  0.334130  1
+  Nd  Nd1  1  0.000000  0.000000  0.665870  1
+  Rh  Rh2  1  0.333333  0.666666  0.496117  1
+  Rh  Rh3  1  0.666666  0.333335  0.503883  1
+  Br  Br4  1  0.666666  0.333335  0.171088  1
+  Br  Br5  1  0.333333  0.666666  0.828912  1

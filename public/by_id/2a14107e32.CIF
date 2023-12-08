@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Li3UGe6Ir7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.06313362
+_cell_length_b   7.07747666
+_cell_length_c   7.07747620
+_cell_angle_alpha   109.93816656
+_cell_angle_beta   109.83814193
+_cell_angle_gamma   109.83814559
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3UGe6Ir7
+_chemical_formula_sum   'Li3 U1 Ge6 Ir7'
+_cell_volume   268.24096041
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.000000  0.500000  0.000000  1
+  Li  Li1  1  0.000000  0.000000  0.500000  1
+  Li  Li2  1  0.500000  0.000000  0.000000  1
+  U  U3  1  0.500000  0.500000  0.500000  1
+  Ge  Ge4  1  0.704047  0.022553  0.702804  1
+  Ge  Ge5  1  0.295953  0.977447  0.297196  1
+  Ge  Ge6  1  0.976770  0.295862  0.295862  1
+  Ge  Ge7  1  0.023230  0.704138  0.704138  1
+  Ge  Ge8  1  0.704047  0.702804  0.022553  1
+  Ge  Ge9  1  0.295953  0.297196  0.977447  1
+  Ir  Ir10  1  0.253931  0.500102  0.746051  1
+  Ir  Ir11  1  0.253931  0.746051  0.500102  1
+  Ir  Ir12  1  0.500000  0.253568  0.746432  1
+  Ir  Ir13  1  0.500000  0.746432  0.253568  1
+  Ir  Ir14  1  0.746069  0.499898  0.253949  1
+  Ir  Ir15  1  0.000000  0.000000  0.000000  1
+  Ir  Ir16  1  0.746069  0.253949  0.499898  1

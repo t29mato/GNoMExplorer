@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Tb2Ho3Er3(CdPd)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.66134234
+_cell_length_b   9.66134136
+_cell_length_c   9.66134200
+_cell_angle_alpha   59.99999781
+_cell_angle_beta   60.00000117
+_cell_angle_gamma   59.99999940
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2Ho3Er3(CdPd)2
+_chemical_formula_sum   'Tb4 Ho6 Er6 Cd4 Pd4'
+_cell_volume   637.67200514
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.354006  0.354006  0.354006  1
+  Tb  Tb1  1  0.354006  0.354006  0.937985  1
+  Tb  Tb2  1  0.354006  0.937985  0.354006  1
+  Tb  Tb3  1  0.937985  0.354006  0.354006  1
+  Ho  Ho4  1  0.933721  0.566279  0.566279  1
+  Ho  Ho5  1  0.566279  0.933721  0.933721  1
+  Ho  Ho6  1  0.566279  0.933721  0.566279  1
+  Ho  Ho7  1  0.933721  0.566279  0.933721  1
+  Ho  Ho8  1  0.566279  0.566279  0.933721  1
+  Ho  Ho9  1  0.933721  0.933721  0.566279  1
+  Er  Er10  1  0.811300  0.188700  0.188700  1
+  Er  Er11  1  0.188700  0.811300  0.811300  1
+  Er  Er12  1  0.188700  0.811300  0.188700  1
+  Er  Er13  1  0.811300  0.188700  0.811300  1
+  Er  Er14  1  0.188700  0.188700  0.811300  1
+  Er  Er15  1  0.811300  0.811300  0.188700  1
+  Cd  Cd16  1  0.582419  0.582419  0.582419  1
+  Cd  Cd17  1  0.582419  0.582419  0.252742  1
+  Cd  Cd18  1  0.582419  0.252742  0.582419  1
+  Cd  Cd19  1  0.252742  0.582419  0.582419  1
+  Pd  Pd20  1  0.143585  0.143585  0.143585  1
+  Pd  Pd21  1  0.143585  0.143585  0.569244  1
+  Pd  Pd22  1  0.143585  0.569244  0.143585  1
+  Pd  Pd23  1  0.569244  0.143585  0.143585  1

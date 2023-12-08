@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SrGaH3O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.50442700
+_cell_length_b   4.31842517
+_cell_length_c   7.14605605
+_cell_angle_alpha   91.84344294
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrGaH3O
+_chemical_formula_sum   'Sr2 Ga2 H6 O2'
+_cell_volume   169.77709924
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.319190  0.756084  0.345476  1
+  Sr  Sr1  1  0.819190  0.243916  0.654524  1
+  Ga  Ga2  1  0.851667  0.323298  0.197881  1
+  Ga  Ga3  1  0.351667  0.676702  0.802119  1
+  H  H4  1  0.597081  0.229224  0.297482  1
+  H  H5  1  0.097081  0.770776  0.702518  1
+  H  H6  1  0.841543  0.694044  0.185855  1
+  H  H7  1  0.341543  0.305956  0.814145  1
+  H  H8  1  0.888626  0.155946  0.999036  1
+  H  H9  1  0.388626  0.844054  0.000964  1
+  O  O10  1  0.092504  0.249556  0.377329  1
+  O  O11  1  0.592504  0.750444  0.622671  1

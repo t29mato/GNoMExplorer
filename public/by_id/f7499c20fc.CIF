@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Y5InGaSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.77704076
+_cell_length_b   7.77704076
+_cell_length_c   14.11889001
+_cell_angle_alpha   89.95644544
+_cell_angle_beta   90.04355456
+_cell_angle_gamma   90.19446091
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y5InGaSi
+_chemical_formula_sum   'Y20 In4 Ga4 Si4'
+_cell_volume   853.93842152
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.835324  0.833024  0.896286  1
+  Y  Y1  1  0.170425  0.168630  0.608301  1
+  Y  Y2  1  0.834972  0.168179  0.388558  1
+  Y  Y3  1  0.166610  0.833270  0.388512  1
+  Y  Y4  1  0.334116  0.335720  0.386940  1
+  Y  Y5  1  0.833270  0.166610  0.111488  1
+  Y  Y6  1  0.334039  0.662829  0.894507  1
+  Y  Y7  1  0.168179  0.834972  0.111442  1
+  Y  Y8  1  0.500969  0.000214  0.752267  1
+  Y  Y9  1  0.000930  0.498861  0.248065  1
+  Y  Y10  1  0.336021  0.664996  0.605478  1
+  Y  Y11  1  0.660492  0.662125  0.111115  1
+  Y  Y12  1  0.662829  0.334039  0.605493  1
+  Y  Y13  1  0.000214  0.500969  0.747733  1
+  Y  Y14  1  0.833024  0.835324  0.603714  1
+  Y  Y15  1  0.664996  0.336021  0.894522  1
+  Y  Y16  1  0.168630  0.170425  0.891699  1
+  Y  Y17  1  0.498861  0.000930  0.251935  1
+  Y  Y18  1  0.662125  0.660492  0.388885  1
+  Y  Y19  1  0.335720  0.334116  0.113060  1
+  In  In20  1  0.001509  0.498402  0.002945  1
+  In  In21  1  0.498650  0.001515  0.002523  1
+  In  In22  1  0.498402  0.001509  0.497055  1
+  In  In23  1  0.001515  0.498650  0.497477  1
+  Ga  Ga24  1  0.125907  0.873611  0.749982  1
+  Ga  Ga25  1  0.866088  0.866088  0.250000  1
+  Ga  Ga26  1  0.627282  0.627282  0.750000  1
+  Ga  Ga27  1  0.873611  0.125907  0.750018  1
+  Si  Si28  1  0.635475  0.365148  0.249982  1
+  Si  Si29  1  0.365148  0.635475  0.250018  1
+  Si  Si30  1  0.130071  0.130071  0.250000  1
+  Si  Si31  1  0.374597  0.374597  0.750000  1

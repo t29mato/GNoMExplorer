@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Y2Th(CdAu)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.86942200
+_cell_length_b   7.92402306
+_cell_length_c   3.92943200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.77232224
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2Th(CdAu)3
+_chemical_formula_sum   'Y2 Th1 Cd3 Au3'
+_cell_volume   212.68692027
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.001498  0.596782  0.000000  1
+  Y  Y1  1  0.404717  0.403218  0.000000  1
+  Th  Th2  1  0.594128  0.000000  0.000000  1
+  Cd  Cd3  1  0.255549  0.000000  0.500000  1
+  Cd  Cd4  1  0.009178  0.270341  0.500000  1
+  Cd  Cd5  1  0.738837  0.729659  0.500000  1
+  Au  Au6  1  0.334417  0.667927  0.500000  1
+  Au  Au7  1  0.666492  0.332073  0.500000  1
+  Au  Au8  1  0.995184  0.000000  0.000000  1

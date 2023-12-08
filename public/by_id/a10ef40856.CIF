@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Na2PaF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.80903297
+_cell_length_b   6.80903320
+_cell_length_c   7.06525138
+_cell_angle_alpha   80.58730318
+_cell_angle_beta   80.58730281
+_cell_angle_gamma   120.57995736
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2PaF6
+_chemical_formula_sum   'Na4 Pa2 F12'
+_cell_volume   266.21148521
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.917418  0.082582  0.750000  1
+  Na  Na1  1  0.244324  0.755676  0.750000  1
+  Na  Na2  1  0.082582  0.917418  0.250000  1
+  Na  Na3  1  0.755676  0.244324  0.250000  1
+  Pa  Pa4  1  0.590496  0.409504  0.750000  1
+  Pa  Pa5  1  0.409504  0.590496  0.250000  1
+  F  F6  1  0.931193  0.768193  0.628057  1
+  F  F7  1  0.633909  0.148142  0.621266  1
+  F  F8  1  0.680915  0.528327  0.383611  1
+  F  F9  1  0.471673  0.319085  0.116389  1
+  F  F10  1  0.319085  0.471673  0.616389  1
+  F  F11  1  0.148142  0.633909  0.121266  1
+  F  F12  1  0.366091  0.851858  0.378734  1
+  F  F13  1  0.231807  0.068807  0.871943  1
+  F  F14  1  0.068807  0.231807  0.371943  1
+  F  F15  1  0.768193  0.931193  0.128057  1
+  F  F16  1  0.851858  0.366091  0.878734  1
+  F  F17  1  0.528327  0.680915  0.883611  1

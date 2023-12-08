@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_La4MgNi2Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.87895198
+_cell_length_b   8.87895160
+_cell_length_c   8.87895100
+_cell_angle_alpha   128.63436757
+_cell_angle_beta   128.63436565
+_cell_angle_gamma   75.59960503
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La4MgNi2Au
+_chemical_formula_sum   'La8 Mg2 Ni4 Au2'
+_cell_volume   415.54104658
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.799758  0.299758  0.841522  1
+  La  La1  1  0.200242  0.700242  0.158478  1
+  La  La2  1  0.458237  0.958237  0.158478  1
+  La  La3  1  0.299758  0.458237  0.500000  1
+  La  La4  1  0.041763  0.200242  0.500000  1
+  La  La5  1  0.541763  0.041763  0.841522  1
+  La  La6  1  0.700242  0.541763  0.500000  1
+  La  La7  1  0.958237  0.799758  0.500000  1
+  Mg  Mg8  1  0.000000  0.000000  0.000000  1
+  Mg  Mg9  1  0.500000  0.500000  0.000000  1
+  Ni  Ni10  1  0.126198  0.626198  0.752396  1
+  Ni  Ni11  1  0.873802  0.373802  0.247604  1
+  Ni  Ni12  1  0.626198  0.873802  0.500000  1
+  Ni  Ni13  1  0.373802  0.126198  0.500000  1
+  Au  Au14  1  0.250000  0.250000  0.000000  1
+  Au  Au15  1  0.750000  0.750000  0.000000  1

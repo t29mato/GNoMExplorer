@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_La2PrTeP2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.30244600
+_cell_length_b   10.71278214
+_cell_length_c   7.44990700
+_cell_angle_alpha   89.84512745
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2PrTeP2
+_chemical_formula_sum   'La4 Pr2 Te2 P4'
+_cell_volume   343.37365064
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.250000  0.801588  0.916320  1
+  La  La1  1  0.750000  0.198412  0.083680  1
+  La  La2  1  0.750000  0.801155  0.416614  1
+  La  La3  1  0.250000  0.198845  0.583386  1
+  Pr  Pr4  1  0.250000  0.500072  0.249806  1
+  Pr  Pr5  1  0.750000  0.499928  0.750194  1
+  Te  Te6  1  0.750000  0.000270  0.749756  1
+  Te  Te7  1  0.250000  0.999730  0.250244  1
+  P  P8  1  0.250000  0.657052  0.584051  1
+  P  P9  1  0.750000  0.342948  0.415949  1
+  P  P10  1  0.750000  0.657413  0.083672  1
+  P  P11  1  0.250000  0.342587  0.916328  1

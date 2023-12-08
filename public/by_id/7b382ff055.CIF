@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Tb6Ti(CrC4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.24293300
+_cell_length_b   8.24293329
+_cell_length_c   5.02412200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000179
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb6Ti(CrC4)3
+_chemical_formula_sum   'Tb6 Ti1 Cr3 C12'
+_cell_volume   295.63398361
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.619219  0.684059  0.747938  1
+  Tb  Tb1  1  0.935160  0.619219  0.252062  1
+  Tb  Tb2  1  0.684059  0.064840  0.252062  1
+  Tb  Tb3  1  0.315941  0.935160  0.747938  1
+  Tb  Tb4  1  0.064840  0.380781  0.747938  1
+  Tb  Tb5  1  0.380781  0.315941  0.252062  1
+  Ti  Ti6  1  0.000000  0.000000  0.500000  1
+  Cr  Cr7  1  0.000000  0.000000  0.000000  1
+  Cr  Cr8  1  0.666667  0.333333  0.751149  1
+  Cr  Cr9  1  0.333333  0.666667  0.248851  1
+  C  C10  1  0.964064  0.768446  0.754637  1
+  C  C11  1  0.195619  0.964064  0.245363  1
+  C  C12  1  0.768446  0.804381  0.245363  1
+  C  C13  1  0.231554  0.195619  0.754637  1
+  C  C14  1  0.804381  0.035936  0.754637  1
+  C  C15  1  0.035936  0.231554  0.245363  1
+  C  C16  1  0.862094  0.576317  0.756260  1
+  C  C17  1  0.285778  0.862094  0.243740  1
+  C  C18  1  0.576317  0.714222  0.243740  1
+  C  C19  1  0.423683  0.285778  0.756260  1
+  C  C20  1  0.137906  0.423683  0.243740  1
+  C  C21  1  0.714222  0.137906  0.756260  1

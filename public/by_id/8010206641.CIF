@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ta2Ti2NbB6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.46690106
+_cell_length_b   11.46690004
+_cell_length_c   3.28671400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   164.47982287
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2Ti2NbB6
+_chemical_formula_sum   'Ta2 Ti2 Nb1 B6'
+_cell_volume   115.63889628
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.804575  0.195425  0.500000  1
+  Ta  Ta1  1  0.614885  0.385115  0.000000  1
+  Ti  Ti2  1  0.194289  0.805711  0.500000  1
+  Ti  Ti3  1  0.000380  0.999620  0.000000  1
+  Nb  Nb4  1  0.386400  0.613600  0.000000  1
+  B  B5  1  0.461744  0.538256  0.500000  1
+  B  B6  1  0.539676  0.460324  0.500000  1
+  B  B7  1  0.269913  0.730087  0.000000  1
+  B  B8  1  0.726603  0.273397  0.000000  1
+  B  B9  1  0.080744  0.919256  0.500000  1
+  B  B10  1  0.920792  0.079208  0.500000  1

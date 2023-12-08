@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_YbTe2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.76640600
+_cell_length_b   9.54547597
+_cell_length_c   11.12750322
+_cell_angle_alpha   65.34953010
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbTe2O5
+_chemical_formula_sum   'Yb4 Te8 O20'
+_cell_volume   556.67517928
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.195749  0.024358  0.358936  1
+  Yb  Yb1  1  0.695749  0.975642  0.141064  1
+  Yb  Yb2  1  0.804251  0.975642  0.641064  1
+  Yb  Yb3  1  0.304251  0.024358  0.858936  1
+  Te  Te4  1  0.821247  0.257965  0.780405  1
+  Te  Te5  1  0.321247  0.742035  0.719595  1
+  Te  Te6  1  0.178753  0.742035  0.219595  1
+  Te  Te7  1  0.678753  0.257965  0.280405  1
+  Te  Te8  1  0.357929  0.346851  0.512049  1
+  Te  Te9  1  0.857929  0.653149  0.987951  1
+  Te  Te10  1  0.642071  0.653149  0.487951  1
+  Te  Te11  1  0.142071  0.346851  0.012049  1
+  O  O12  1  0.892984  0.475829  0.908479  1
+  O  O13  1  0.392984  0.524171  0.591521  1
+  O  O14  1  0.107016  0.524171  0.091521  1
+  O  O15  1  0.607016  0.475829  0.408479  1
+  O  O16  1  0.524288  0.201249  0.658579  1
+  O  O17  1  0.024288  0.798751  0.841421  1
+  O  O18  1  0.475712  0.798751  0.341421  1
+  O  O19  1  0.975712  0.201249  0.158579  1
+  O  O20  1  0.095768  0.221987  0.903799  1
+  O  O21  1  0.595768  0.778013  0.596201  1
+  O  O22  1  0.904232  0.778013  0.096201  1
+  O  O23  1  0.404232  0.221987  0.403799  1
+  O  O24  1  0.506356  0.136537  0.214715  1
+  O  O25  1  0.006356  0.863463  0.285285  1
+  O  O26  1  0.493644  0.863463  0.785285  1
+  O  O27  1  0.993644  0.136537  0.714715  1
+  O  O28  1  0.857077  0.114199  0.416729  1
+  O  O29  1  0.357077  0.885801  0.083271  1
+  O  O30  1  0.142923  0.885801  0.583271  1
+  O  O31  1  0.642923  0.114199  0.916729  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ti8Tc4IrOs3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.18724000
+_cell_length_b   4.37753100
+_cell_length_c   8.79273200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.99986350
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti8Tc4IrOs3
+_chemical_formula_sum   'Ti8 Tc4 Ir1 Os3'
+_cell_volume   238.14969458
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.997321  0.749999  0.125002  1
+  Ti  Ti1  1  0.502706  0.749999  0.125009  1
+  Ti  Ti2  1  0.998691  0.249999  0.376569  1
+  Ti  Ti3  1  0.501343  0.249999  0.376575  1
+  Ti  Ti4  1  0.499862  0.749999  0.624995  1
+  Ti  Ti5  1  0.000109  0.749999  0.625002  1
+  Ti  Ti6  1  0.501310  0.249999  0.873421  1
+  Ti  Ti7  1  0.998663  0.249999  0.873426  1
+  Tc  Tc8  1  0.750021  0.249999  0.125013  1
+  Tc  Tc9  1  0.250016  0.749999  0.374040  1
+  Tc  Tc10  1  0.749983  0.249999  0.625001  1
+  Tc  Tc11  1  0.249976  0.749999  0.875950  1
+  Ir  Ir12  1  0.250019  0.249999  0.125002  1
+  Os  Os13  1  0.750019  0.749999  0.374468  1
+  Os  Os14  1  0.249980  0.249999  0.625003  1
+  Os  Os15  1  0.749980  0.749999  0.875526  1

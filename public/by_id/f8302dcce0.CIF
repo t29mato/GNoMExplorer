@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Y4Ho(SiBi)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.66566401
+_cell_length_b   8.66566379
+_cell_length_c   7.92944000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   125.63110577
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y4Ho(SiBi)2
+_chemical_formula_sum   'Y8 Ho2 Si4 Bi4'
+_cell_volume   483.97359694
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.043367  0.287220  0.335057  1
+  Y  Y1  1  0.956633  0.712780  0.664943  1
+  Y  Y2  1  0.456633  0.212780  0.835057  1
+  Y  Y3  1  0.787220  0.543367  0.164943  1
+  Y  Y4  1  0.543367  0.787220  0.164943  1
+  Y  Y5  1  0.212780  0.456633  0.835057  1
+  Y  Y6  1  0.712780  0.956633  0.664943  1
+  Y  Y7  1  0.287220  0.043367  0.335057  1
+  Ho  Ho8  1  0.000000  0.000000  0.000000  1
+  Ho  Ho9  1  0.500000  0.500000  0.500000  1
+  Si  Si10  1  0.366066  0.366066  0.132773  1
+  Si  Si11  1  0.633934  0.633934  0.867227  1
+  Si  Si12  1  0.133934  0.133934  0.632773  1
+  Si  Si13  1  0.866066  0.866066  0.367227  1
+  Bi  Bi14  1  0.792513  0.207487  0.000000  1
+  Bi  Bi15  1  0.207487  0.792513  0.000000  1
+  Bi  Bi16  1  0.707487  0.292513  0.500000  1
+  Bi  Bi17  1  0.292513  0.707487  0.500000  1

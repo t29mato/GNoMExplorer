@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LiHf2Sc(NiP)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.70443100
+_cell_length_b   6.28165763
+_cell_length_c   7.04296292
+_cell_angle_alpha   89.70283093
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiHf2Sc(NiP)4
+_chemical_formula_sum   'Li1 Hf2 Sc1 Ni4 P4'
+_cell_volume   163.88731210
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.250000  0.023363  0.818924  1
+  Hf  Hf1  1  0.250000  0.522180  0.686984  1
+  Hf  Hf2  1  0.750000  0.474939  0.315881  1
+  Sc  Sc3  1  0.750000  0.977782  0.173391  1
+  Ni  Ni4  1  0.250000  0.140786  0.445377  1
+  Ni  Ni5  1  0.250000  0.638953  0.062176  1
+  Ni  Ni6  1  0.750000  0.858406  0.562318  1
+  Ni  Ni7  1  0.750000  0.360376  0.937293  1
+  P  P8  1  0.250000  0.768995  0.379016  1
+  P  P9  1  0.250000  0.264488  0.117432  1
+  P  P10  1  0.750000  0.229305  0.623453  1
+  P  P11  1  0.750000  0.740427  0.877757  1

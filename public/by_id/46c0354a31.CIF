@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_HoPa3(SnRh2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.65792320
+_cell_length_b   7.65792241
+_cell_length_c   3.64813900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   92.06654932
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoPa3(SnRh2)2
+_chemical_formula_sum   'Ho1 Pa3 Sn2 Rh4'
+_cell_volume   213.80152360
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.825741  0.674259  0.500000  1
+  Pa  Pa1  1  0.674624  0.170384  0.500000  1
+  Pa  Pa2  1  0.329616  0.825376  0.500000  1
+  Pa  Pa3  1  0.169190  0.330810  0.500000  1
+  Sn  Sn4  1  0.508154  0.501980  0.000000  1
+  Sn  Sn5  1  0.998020  0.991846  0.000000  1
+  Rh  Rh6  1  0.874430  0.351489  0.000000  1
+  Rh  Rh7  1  0.148511  0.625570  0.000000  1
+  Rh  Rh8  1  0.357674  0.142326  0.000000  1
+  Rh  Rh9  1  0.614041  0.885959  0.000000  1

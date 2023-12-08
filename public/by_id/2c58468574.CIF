@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Li4YHo3(Si2Ge)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.29009961
+_cell_length_b   9.29010062
+_cell_length_c   6.70087300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   153.51297706
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li4YHo3(Si2Ge)2
+_chemical_formula_sum   'Li4 Y1 Ho3 Si4 Ge2'
+_cell_volume   257.93024370
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.810922  0.189078  0.441072  1
+  Li  Li1  1  0.189066  0.810934  0.559132  1
+  Li  Li2  1  0.810922  0.189078  0.058928  1
+  Li  Li3  1  0.189066  0.810934  0.940868  1
+  Y  Y4  1  0.551532  0.448468  0.750000  1
+  Ho  Ho5  1  0.448511  0.551489  0.250000  1
+  Ho  Ho6  1  0.346122  0.653878  0.750000  1
+  Ho  Ho7  1  0.654071  0.345929  0.250000  1
+  Si  Si8  1  0.940562  0.059438  0.927674  1
+  Si  Si9  1  0.059136  0.940864  0.072986  1
+  Si  Si10  1  0.940562  0.059438  0.572326  1
+  Si  Si11  1  0.059136  0.940864  0.427014  1
+  Ge  Ge12  1  0.720077  0.279923  0.750000  1
+  Ge  Ge13  1  0.280312  0.719688  0.250000  1

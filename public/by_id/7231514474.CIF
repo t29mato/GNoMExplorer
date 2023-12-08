@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_BaV(NiS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.28449522
+_cell_length_b   9.28449541
+_cell_length_c   6.99231500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   146.84797662
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaV(NiS2)2
+_chemical_formula_sum   'Ba2 V2 Ni4 S8'
+_cell_volume   329.62157124
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.905353  0.555368  0.250000  1
+  Ba  Ba1  1  0.555368  0.905353  0.750000  1
+  V  V2  1  0.867800  0.092391  0.250000  1
+  V  V3  1  0.092391  0.867800  0.750000  1
+  Ni  Ni4  1  0.989899  0.989899  0.500000  1
+  Ni  Ni5  1  0.989899  0.989899  0.000000  1
+  Ni  Ni6  1  0.369920  0.591262  0.250000  1
+  Ni  Ni7  1  0.591262  0.369920  0.750000  1
+  S  S8  1  0.329703  0.119330  0.496995  1
+  S  S9  1  0.119330  0.329703  0.503005  1
+  S  S10  1  0.517258  0.943354  0.250000  1
+  S  S11  1  0.943354  0.517258  0.750000  1
+  S  S12  1  0.724199  0.746670  0.250000  1
+  S  S13  1  0.746670  0.724199  0.750000  1
+  S  S14  1  0.329703  0.119330  0.003005  1
+  S  S15  1  0.119330  0.329703  0.996995  1

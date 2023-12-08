@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_La7Pr3(Hg3Cl)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.51372900
+_cell_length_b   9.51372925
+_cell_length_c   6.58131200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000260
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La7Pr3(Hg3Cl)2
+_chemical_formula_sum   'La7 Pr3 Hg6 Cl2'
+_cell_volume   515.87521664
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.734731  0.000682  0.750263  1
+  La  La1  1  0.999318  0.265269  0.249737  1
+  La  La2  1  0.734731  0.734049  0.249737  1
+  La  La3  1  0.333333  0.666667  0.500000  1
+  La  La4  1  0.265951  0.000682  0.249737  1
+  La  La5  1  0.265951  0.265269  0.750263  1
+  La  La6  1  0.999318  0.734049  0.750263  1
+  Pr  Pr7  1  0.333333  0.666667  0.000000  1
+  Pr  Pr8  1  0.666667  0.333333  0.500000  1
+  Pr  Pr9  1  0.666667  0.333333  0.000000  1
+  Hg  Hg10  1  0.390453  0.001054  0.750813  1
+  Hg  Hg11  1  0.610601  0.001054  0.249187  1
+  Hg  Hg12  1  0.998946  0.609547  0.249187  1
+  Hg  Hg13  1  0.610601  0.609547  0.750813  1
+  Hg  Hg14  1  0.998946  0.389399  0.750813  1
+  Hg  Hg15  1  0.390453  0.389399  0.249187  1
+  Cl  Cl16  1  0.000000  0.000000  0.500000  1
+  Cl  Cl17  1  0.000000  0.000000  0.000000  1

@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ti12Zn12C3O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.19577668
+_cell_length_b   8.19577682
+_cell_length_c   8.17057646
+_cell_angle_alpha   59.89792478
+_cell_angle_beta   59.89792766
+_cell_angle_gamma   60.00000242
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti12Zn12C3O
+_chemical_formula_sum   'Ti12 Zn12 C3 O1'
+_cell_volume   387.47721856
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.931741  0.931741  0.569665  1
+  Ti  Ti1  1  0.566853  0.931741  0.569665  1
+  Ti  Ti2  1  0.931741  0.566853  0.569665  1
+  Ti  Ti3  1  0.569270  0.569270  0.927914  1
+  Ti  Ti4  1  0.933545  0.569270  0.927914  1
+  Ti  Ti5  1  0.569270  0.933545  0.927914  1
+  Ti  Ti6  1  0.318259  0.318259  0.680335  1
+  Ti  Ti7  1  0.683147  0.318259  0.680335  1
+  Ti  Ti8  1  0.318259  0.683147  0.680335  1
+  Ti  Ti9  1  0.680730  0.680730  0.322086  1
+  Ti  Ti10  1  0.316455  0.680730  0.322086  1
+  Ti  Ti11  1  0.680730  0.316455  0.322086  1
+  Zn  Zn12  1  0.335456  0.335456  0.993632  1
+  Zn  Zn13  1  0.335657  0.994961  0.333724  1
+  Zn  Zn14  1  0.994961  0.335657  0.333724  1
+  Zn  Zn15  1  0.335657  0.335657  0.333724  1
+  Zn  Zn16  1  0.914544  0.914544  0.256368  1
+  Zn  Zn17  1  0.914343  0.255039  0.916276  1
+  Zn  Zn18  1  0.255039  0.914343  0.916276  1
+  Zn  Zn19  1  0.914343  0.914343  0.916276  1
+  Zn  Zn20  1  0.125000  0.125000  0.625000  1
+  Zn  Zn21  1  0.125000  0.625000  0.125000  1
+  Zn  Zn22  1  0.625000  0.125000  0.125000  1
+  Zn  Zn23  1  0.125000  0.125000  0.125000  1
+  C  C24  1  0.625000  0.125000  0.625000  1
+  C  C25  1  0.125000  0.625000  0.625000  1
+  C  C26  1  0.625000  0.625000  0.625000  1
+  O  O27  1  0.625000  0.625000  0.125000  1

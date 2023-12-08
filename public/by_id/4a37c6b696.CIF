@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ac2Ce(MgIn)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.85228100
+_cell_length_b   7.85228053
+_cell_length_c   4.98720100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   118.67427663
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ac2Ce(MgIn)3
+_chemical_formula_sum   'Ac2 Ce1 Mg3 In3'
+_cell_volume   269.79082194
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  0.568451  0.996624  0.000000  1
+  Ac  Ac1  1  0.996624  0.568451  0.000000  1
+  Ce  Ce2  1  0.430207  0.430207  0.000000  1
+  Mg  Mg3  1  0.239819  0.001227  0.500000  1
+  Mg  Mg4  1  0.001227  0.239819  0.500000  1
+  Mg  Mg5  1  0.760887  0.760887  0.500000  1
+  In  In6  1  0.333842  0.654602  0.500000  1
+  In  In7  1  0.654602  0.333842  0.500000  1
+  In  In8  1  0.014342  0.014342  0.000000  1

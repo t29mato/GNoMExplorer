@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Sm4Pa(FeB3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.48259291
+_cell_length_b   5.48259246
+_cell_length_c   8.08792050
+_cell_angle_alpha   70.18787782
+_cell_angle_beta   70.18786855
+_cell_angle_gamma   59.99999710
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm4Pa(FeB3)2
+_chemical_formula_sum   'Sm4 Pa1 Fe2 B6'
+_cell_volume   193.74802946
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.744928  0.744928  0.765217  1
+  Sm  Sm1  1  0.255072  0.255072  0.234783  1
+  Sm  Sm2  1  0.587634  0.587634  0.237100  1
+  Sm  Sm3  1  0.412366  0.412366  0.762900  1
+  Pa  Pa4  1  0.000000  0.000000  0.000000  1
+  Fe  Fe5  1  0.891146  0.891146  0.326561  1
+  Fe  Fe6  1  0.108854  0.108854  0.673439  1
+  B  B7  1  0.500000  0.165811  0.500000  1
+  B  B8  1  0.834189  0.500000  0.500000  1
+  B  B9  1  0.165811  0.834189  0.500000  1
+  B  B10  1  0.165811  0.500000  0.500000  1
+  B  B11  1  0.834189  0.165811  0.500000  1
+  B  B12  1  0.500000  0.834189  0.500000  1

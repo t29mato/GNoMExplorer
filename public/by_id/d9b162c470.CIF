@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_LiPr8Co2Hg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.88032802
+_cell_length_b   9.86284213
+_cell_length_c   9.88032715
+_cell_angle_alpha   60.05852174
+_cell_angle_beta   59.99913253
+_cell_angle_gamma   60.05851979
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiPr8Co2Hg
+_chemical_formula_sum   'Li2 Pr16 Co4 Hg2'
+_cell_volume   681.41314089
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.683761  0.958134  0.683761  1
+  Li  Li1  1  0.683761  0.674345  0.683761  1
+  Pr  Pr2  1  0.285747  0.904879  0.904496  1
+  Pr  Pr3  1  0.688006  0.689741  0.312152  1
+  Pr  Pr4  1  0.904496  0.904879  0.285747  1
+  Pr  Pr5  1  0.310523  0.689477  0.310523  1
+  Pr  Pr6  1  0.688006  0.310101  0.312152  1
+  Pr  Pr7  1  0.059748  0.441386  0.437691  1
+  Pr  Pr8  1  0.437691  0.061174  0.059748  1
+  Pr  Pr9  1  0.059748  0.061174  0.437691  1
+  Pr  Pr10  1  0.312152  0.310101  0.688006  1
+  Pr  Pr11  1  0.433322  0.066678  0.433322  1
+  Pr  Pr12  1  0.903279  0.902987  0.903279  1
+  Pr  Pr13  1  0.437691  0.441386  0.059748  1
+  Pr  Pr14  1  0.312152  0.689741  0.688006  1
+  Pr  Pr15  1  0.687431  0.312569  0.687431  1
+  Pr  Pr16  1  0.055724  0.444276  0.055724  1
+  Pr  Pr17  1  0.903279  0.290455  0.903279  1
+  Co  Co18  1  0.108032  0.110322  0.108032  1
+  Co  Co19  1  0.107836  0.110730  0.670705  1
+  Co  Co20  1  0.670705  0.110730  0.107836  1
+  Co  Co21  1  0.108032  0.673614  0.108032  1
+  Hg  Hg22  1  0.661630  0.670561  0.997250  1
+  Hg  Hg23  1  0.997250  0.670561  0.661630  1

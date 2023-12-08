@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LiCaSiPd3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.00792672
+_cell_length_b   5.00792659
+_cell_length_c   5.00792463
+_cell_angle_alpha   67.88251466
+_cell_angle_beta   67.88251654
+_cell_angle_gamma   67.88251618
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCaSiPd3
+_chemical_formula_sum   'Li1 Ca1 Si1 Pd3'
+_cell_volume   103.68071559
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.864051  0.864051  0.864051  1
+  Ca  Ca1  1  0.121106  0.121106  0.121106  1
+  Si  Si2  1  0.504174  0.504174  0.504174  1
+  Pd  Pd3  1  0.504227  0.504227  0.002214  1
+  Pd  Pd4  1  0.002214  0.504227  0.504227  1
+  Pd  Pd5  1  0.504227  0.002214  0.504227  1

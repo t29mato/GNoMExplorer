@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_TaTi5Al4(IrC)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.21780224
+_cell_length_b   8.24669164
+_cell_length_c   8.21780096
+_cell_angle_alpha   59.88363831
+_cell_angle_beta   60.23272356
+_cell_angle_gamma   59.88363141
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaTi5Al4(IrC)2
+_chemical_formula_sum   'Ta2 Ti10 Al8 Ir4 C4'
+_cell_volume   393.79052904
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.686521  0.313479  0.686521  1
+  Ta  Ta1  1  0.936521  0.563479  0.936521  1
+  Ti  Ti2  1  0.562849  0.937151  0.562849  1
+  Ti  Ti3  1  0.313699  0.686135  0.686926  1
+  Ti  Ti4  1  0.686926  0.313240  0.313699  1
+  Ti  Ti5  1  0.312849  0.687151  0.312849  1
+  Ti  Ti6  1  0.686926  0.686135  0.313699  1
+  Ti  Ti7  1  0.313699  0.313240  0.686926  1
+  Ti  Ti8  1  0.563865  0.563074  0.936760  1
+  Ti  Ti9  1  0.936760  0.563074  0.563865  1
+  Ti  Ti10  1  0.563865  0.936301  0.936760  1
+  Ti  Ti11  1  0.936760  0.936301  0.563865  1
+  Al  Al12  1  0.914199  0.916695  0.914199  1
+  Al  Al13  1  0.995091  0.335801  0.333305  1
+  Al  Al14  1  0.335862  0.993678  0.335862  1
+  Al  Al15  1  0.333305  0.335801  0.995091  1
+  Al  Al16  1  0.914199  0.254909  0.914199  1
+  Al  Al17  1  0.915404  0.914138  0.256322  1
+  Al  Al18  1  0.256322  0.914138  0.915404  1
+  Al  Al19  1  0.335862  0.334596  0.335862  1
+  Ir  Ir20  1  0.124576  0.125670  0.124576  1
+  Ir  Ir21  1  0.624822  0.125424  0.124330  1
+  Ir  Ir22  1  0.124576  0.625178  0.124576  1
+  Ir  Ir23  1  0.124330  0.125424  0.624822  1
+  C  C24  1  0.625053  0.627730  0.625053  1
+  C  C25  1  0.127835  0.624947  0.622270  1
+  C  C26  1  0.625053  0.122165  0.625053  1
+  C  C27  1  0.622270  0.624947  0.127835  1

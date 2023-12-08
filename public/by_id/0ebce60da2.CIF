@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sc4Al4Fe3Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.13493110
+_cell_length_b   5.20747309
+_cell_length_c   8.37279600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.41572816
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc4Al4Fe3Ni
+_chemical_formula_sum   'Sc4 Al4 Fe3 Ni1'
+_cell_volume   193.07595210
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.666885  0.333366  0.548684  1
+  Sc  Sc1  1  0.336028  0.668005  0.423660  1
+  Sc  Sc2  1  0.336028  0.668005  0.076340  1
+  Sc  Sc3  1  0.666885  0.333366  0.951316  1
+  Al  Al4  1  0.988327  0.994349  0.487828  1
+  Al  Al5  1  0.988327  0.994349  0.012172  1
+  Al  Al6  1  0.179457  0.344633  0.750000  1
+  Al  Al7  1  0.179481  0.834831  0.750000  1
+  Fe  Fe8  1  0.819933  0.643897  0.250000  1
+  Fe  Fe9  1  0.820046  0.175903  0.250000  1
+  Fe  Fe10  1  0.347856  0.173912  0.250000  1
+  Ni  Ni11  1  0.670744  0.835385  0.750000  1

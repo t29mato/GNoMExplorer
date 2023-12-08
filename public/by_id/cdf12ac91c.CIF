@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CeTm5Fe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.11184796
+_cell_length_b   8.82465100
+_cell_length_c   6.13472700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   88.07346027
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeTm5Fe2
+_chemical_formula_sum   'Ce2 Tm10 Fe4'
+_cell_volume   384.79523883
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.066332  0.250000  0.654362  1
+  Ce  Ce1  1  0.933668  0.750000  0.345638  1
+  Tm  Tm2  1  0.459060  0.750000  0.132962  1
+  Tm  Tm3  1  0.540940  0.250000  0.867038  1
+  Tm  Tm4  1  0.171211  0.062853  0.173716  1
+  Tm  Tm5  1  0.828789  0.937147  0.826284  1
+  Tm  Tm6  1  0.330497  0.931219  0.668399  1
+  Tm  Tm7  1  0.828789  0.562853  0.826284  1
+  Tm  Tm8  1  0.669503  0.068781  0.331601  1
+  Tm  Tm9  1  0.171211  0.437147  0.173716  1
+  Tm  Tm10  1  0.669503  0.431219  0.331601  1
+  Tm  Tm11  1  0.330497  0.568781  0.668399  1
+  Fe  Fe12  1  0.352015  0.250000  0.484928  1
+  Fe  Fe13  1  0.647985  0.750000  0.515072  1
+  Fe  Fe14  1  0.103694  0.750000  0.012224  1
+  Fe  Fe15  1  0.896306  0.250000  0.987776  1

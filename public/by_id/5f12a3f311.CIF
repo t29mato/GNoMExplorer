@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Tb3SnPt(RhPb)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.73869411
+_cell_length_b   7.72501770
+_cell_length_c   3.89365900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.33246200
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb3SnPt(RhPb)2
+_chemical_formula_sum   'Tb3 Sn1 Pt1 Rh2 Pb2'
+_cell_volume   200.90512057
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.408761  0.008390  0.500000  1
+  Tb  Tb1  1  0.000446  0.404765  0.500000  1
+  Tb  Tb2  1  0.592928  0.588173  0.500000  1
+  Sn  Sn3  1  0.262747  0.258547  0.000000  1
+  Pt  Pt4  1  0.330365  0.656273  0.000000  1
+  Rh  Rh5  1  0.656291  0.330571  0.000000  1
+  Rh  Rh6  1  0.011140  0.011511  0.500000  1
+  Pb  Pb7  1  0.740556  0.004534  0.000000  1
+  Pb  Pb8  1  0.996766  0.737236  0.000000  1

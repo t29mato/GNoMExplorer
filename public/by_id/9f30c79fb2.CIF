@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_LiTa11(TcOs)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.48823200
+_cell_length_b   6.35706900
+_cell_length_c   13.49028800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.99999570
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTa11(TcOs)6
+_chemical_formula_sum   'Li1 Ta11 Tc6 Os6'
+_cell_volume   384.90490412
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.500001  0.249774  0.000000  1
+  Ta  Ta1  1  0.500001  0.749103  0.000000  1
+  Ta  Ta2  1  0.999987  0.250006  0.158874  1
+  Ta  Ta3  1  0.999985  0.750373  0.162963  1
+  Ta  Ta4  1  0.499989  0.250636  0.331032  1
+  Ta  Ta5  1  0.499989  0.751026  0.329825  1
+  Ta  Ta6  1  0.000000  0.250360  0.500000  1
+  Ta  Ta7  1  0.000000  0.749189  0.500000  1
+  Ta  Ta8  1  0.500012  0.250636  0.668968  1
+  Ta  Ta9  1  0.500012  0.751026  0.670175  1
+  Ta  Ta10  1  0.000013  0.250006  0.841126  1
+  Ta  Ta11  1  0.000015  0.750373  0.837037  1
+  Tc  Tc12  1  0.000000  0.998938  0.000000  1
+  Tc  Tc13  1  0.499987  0.500027  0.167870  1
+  Tc  Tc14  1  0.999991  0.000590  0.332569  1
+  Tc  Tc15  1  0.500000  0.499785  0.500000  1
+  Tc  Tc16  1  0.000009  0.000590  0.667430  1
+  Tc  Tc17  1  0.500014  0.500027  0.832130  1
+  Os  Os18  1  0.000000  0.500825  0.000000  1
+  Os  Os19  1  0.499987  0.999148  0.167909  1
+  Os  Os20  1  0.999988  0.499480  0.332409  1
+  Os  Os21  1  0.500000  0.999462  0.500000  1
+  Os  Os22  1  0.000012  0.499480  0.667591  1
+  Os  Os23  1  0.500011  0.999148  0.832091  1

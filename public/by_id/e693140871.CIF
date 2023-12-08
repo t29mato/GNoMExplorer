@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_HoLu5MnTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.03233600
+_cell_length_b   8.11120070
+_cell_length_c   8.15856230
+_cell_angle_alpha   120.18614729
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoLu5MnTe2
+_chemical_formula_sum   'Ho1 Lu5 Mn1 Te2'
+_cell_volume   230.65795721
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.500000  0.000029  0.609552  1
+  Lu  Lu1  1  0.500000  0.612693  0.000033  1
+  Lu  Lu2  1  0.500000  0.387280  0.387304  1
+  Lu  Lu3  1  0.000000  0.235000  0.001272  1
+  Lu  Lu4  1  0.000000  0.764941  0.766205  1
+  Lu  Lu5  1  0.000000  0.000035  0.233946  1
+  Mn  Mn6  1  0.500000  0.999861  0.002506  1
+  Te  Te7  1  0.000000  0.333912  0.666532  1
+  Te  Te8  1  0.000000  0.666150  0.332650  1

@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Sr2(Ga3Ir)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.65819457
+_cell_length_b   7.65819492
+_cell_length_c   9.92257500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.39599475
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2(Ga3Ir)3
+_chemical_formula_sum   'Sr4 Ga18 Ir6'
+_cell_volume   507.01295839
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.996679  0.669713  0.250000  1
+  Sr  Sr1  1  0.003321  0.330287  0.750000  1
+  Sr  Sr2  1  0.669713  0.996679  0.250000  1
+  Sr  Sr3  1  0.330287  0.003321  0.750000  1
+  Ga  Ga4  1  0.131471  0.131471  0.250000  1
+  Ga  Ga5  1  0.868529  0.868529  0.750000  1
+  Ga  Ga6  1  0.004626  0.334634  0.070803  1
+  Ga  Ga7  1  0.995374  0.665366  0.929197  1
+  Ga  Ga8  1  0.995374  0.665366  0.570803  1
+  Ga  Ga9  1  0.334634  0.004626  0.429197  1
+  Ga  Ga10  1  0.004626  0.334634  0.429197  1
+  Ga  Ga11  1  0.665366  0.995374  0.570803  1
+  Ga  Ga12  1  0.665366  0.995374  0.929197  1
+  Ga  Ga13  1  0.334634  0.004626  0.070803  1
+  Ga  Ga14  1  0.336433  0.336433  0.553421  1
+  Ga  Ga15  1  0.663567  0.663567  0.446579  1
+  Ga  Ga16  1  0.663567  0.663567  0.053421  1
+  Ga  Ga17  1  0.336433  0.336433  0.946579  1
+  Ga  Ga18  1  0.334831  0.540731  0.250000  1
+  Ga  Ga19  1  0.665169  0.459269  0.750000  1
+  Ga  Ga20  1  0.540731  0.334831  0.250000  1
+  Ga  Ga21  1  0.459269  0.665169  0.750000  1
+  Ir  Ir22  1  0.670415  0.329585  0.000000  1
+  Ir  Ir23  1  0.329585  0.670415  0.000000  1
+  Ir  Ir24  1  0.329585  0.670415  0.500000  1
+  Ir  Ir25  1  0.670415  0.329585  0.500000  1
+  Ir  Ir26  1  0.000000  0.000000  0.000000  1
+  Ir  Ir27  1  0.000000  0.000000  0.500000  1

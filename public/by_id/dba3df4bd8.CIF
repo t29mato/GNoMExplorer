@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ti4FeB4Ru10W
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.25220500
+_cell_length_b   9.25220500
+_cell_length_c   3.00229400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti4FeB4Ru10W
+_chemical_formula_sum   'Ti4 Fe1 B4 Ru10 W1'
+_cell_volume   257.00626605
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.673934  0.179757  0.000000  1
+  Ti  Ti1  1  0.326066  0.820243  0.000000  1
+  Ti  Ti2  1  0.179757  0.326066  0.000000  1
+  Ti  Ti3  1  0.820243  0.673934  0.000000  1
+  Fe  Fe4  1  0.500000  0.500000  0.000000  1
+  B  B5  1  0.128548  0.617642  0.000000  1
+  B  B6  1  0.871452  0.382358  0.000000  1
+  B  B7  1  0.617642  0.871452  0.000000  1
+  B  B8  1  0.382358  0.128548  0.000000  1
+  Ru  Ru9  1  0.216031  0.076255  0.500000  1
+  Ru  Ru10  1  0.783969  0.923745  0.500000  1
+  Ru  Ru11  1  0.076255  0.783969  0.500000  1
+  Ru  Ru12  1  0.710150  0.427903  0.500000  1
+  Ru  Ru13  1  0.923745  0.216031  0.500000  1
+  Ru  Ru14  1  0.289850  0.572097  0.500000  1
+  Ru  Ru15  1  0.572097  0.710150  0.500000  1
+  Ru  Ru16  1  0.427903  0.289850  0.500000  1
+  Ru  Ru17  1  0.500000  0.000000  0.500000  1
+  Ru  Ru18  1  0.000000  0.500000  0.500000  1
+  W  W19  1  0.000000  0.000000  0.000000  1

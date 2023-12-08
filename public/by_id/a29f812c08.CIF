@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Er2Al6(GaIr)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.51166937
+_cell_length_b   7.51166951
+_cell_length_c   9.54344400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.71649645
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er2Al6(GaIr)3
+_chemical_formula_sum   'Er4 Al12 Ga6 Ir6'
+_cell_volume   467.67300420
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.997272  0.669061  0.750000  1
+  Er  Er1  1  0.002728  0.330939  0.250000  1
+  Er  Er2  1  0.669061  0.997272  0.750000  1
+  Er  Er3  1  0.330939  0.002728  0.250000  1
+  Al  Al4  1  0.001588  0.334280  0.573177  1
+  Al  Al5  1  0.998412  0.665720  0.426823  1
+  Al  Al6  1  0.998412  0.665720  0.073177  1
+  Al  Al7  1  0.334280  0.001588  0.926823  1
+  Al  Al8  1  0.001588  0.334280  0.926823  1
+  Al  Al9  1  0.665720  0.998412  0.073177  1
+  Al  Al10  1  0.665720  0.998412  0.426823  1
+  Al  Al11  1  0.334280  0.001588  0.573177  1
+  Al  Al12  1  0.333939  0.333939  0.057976  1
+  Al  Al13  1  0.666061  0.666061  0.942024  1
+  Al  Al14  1  0.666061  0.666061  0.557976  1
+  Al  Al15  1  0.333939  0.333939  0.442024  1
+  Ga  Ga16  1  0.127150  0.127150  0.750000  1
+  Ga  Ga17  1  0.872850  0.872850  0.250000  1
+  Ga  Ga18  1  0.338657  0.546468  0.750000  1
+  Ga  Ga19  1  0.661343  0.453532  0.250000  1
+  Ga  Ga20  1  0.546468  0.338657  0.750000  1
+  Ga  Ga21  1  0.453532  0.661343  0.250000  1
+  Ir  Ir22  1  0.672027  0.327973  0.500000  1
+  Ir  Ir23  1  0.327973  0.672027  0.500000  1
+  Ir  Ir24  1  0.327973  0.672027  0.000000  1
+  Ir  Ir25  1  0.672027  0.327973  0.000000  1
+  Ir  Ir26  1  0.000000  0.000000  0.500000  1
+  Ir  Ir27  1  0.000000  0.000000  0.000000  1

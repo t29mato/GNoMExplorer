@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Pr15Nd(Ga3Ru)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.49341900
+_cell_length_b   10.49349106
+_cell_length_c   7.30050900
+_cell_angle_alpha   89.99958287
+_cell_angle_beta   89.99996792
+_cell_angle_gamma   120.00046772
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr15Nd(Ga3Ru)2
+_chemical_formula_sum   'Pr15 Nd1 Ga6 Ru2'
+_cell_volume   696.17550219
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.830465  0.660926  0.485862  1
+  Pr  Pr1  1  0.339073  0.169536  0.485857  1
+  Pr  Pr2  1  0.830466  0.169539  0.485862  1
+  Pr  Pr3  1  0.169388  0.338782  0.986215  1
+  Pr  Pr4  1  0.661220  0.830610  0.986211  1
+  Pr  Pr5  1  0.169389  0.830608  0.986216  1
+  Pr  Pr6  1  0.666667  0.333334  0.167765  1
+  Pr  Pr7  1  0.333334  0.666666  0.666912  1
+  Pr  Pr8  1  0.538050  0.076103  0.795352  1
+  Pr  Pr9  1  0.923895  0.461945  0.795358  1
+  Pr  Pr10  1  0.538050  0.461948  0.795356  1
+  Pr  Pr11  1  0.462083  0.924158  0.295535  1
+  Pr  Pr12  1  0.075846  0.537923  0.295541  1
+  Pr  Pr13  1  0.462081  0.537922  0.295539  1
+  Pr  Pr14  1  0.000004  0.000003  0.767702  1
+  Nd  Nd15  1  0.999998  0.999996  0.267254  1
+  Ga  Ga16  1  0.835526  0.671053  0.045695  1
+  Ga  Ga17  1  0.328943  0.164472  0.045694  1
+  Ga  Ga18  1  0.835522  0.164477  0.045713  1
+  Ga  Ga19  1  0.164528  0.329053  0.545203  1
+  Ga  Ga20  1  0.670953  0.835475  0.545200  1
+  Ga  Ga21  1  0.164527  0.835475  0.545204  1
+  Ru  Ru22  1  0.666663  0.333330  0.547523  1
+  Ru  Ru23  1  0.333330  0.666666  0.047473  1

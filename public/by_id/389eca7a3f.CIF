@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_TbDy3Be2(Co2B)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.03311200
+_cell_length_b   5.03311126
+_cell_length_c   12.38063700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000485
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbDy3Be2(Co2B)6
+_chemical_formula_sum   'Tb1 Dy3 Be2 Co12 B6'
+_cell_volume   271.61060723
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.000000  0.000000  0.000000  1
+  Dy  Dy1  1  0.000000  0.000000  0.255761  1
+  Dy  Dy2  1  0.000000  0.000000  0.500000  1
+  Dy  Dy3  1  0.000000  0.000000  0.744239  1
+  Be  Be4  1  0.333333  0.666667  0.000000  1
+  Be  Be5  1  0.666667  0.333333  0.000000  1
+  Co  Co6  1  0.500000  0.000000  0.618842  1
+  Co  Co7  1  0.500000  0.000000  0.855120  1
+  Co  Co8  1  0.500000  0.500000  0.855120  1
+  Co  Co9  1  0.500000  0.500000  0.381158  1
+  Co  Co10  1  0.000000  0.500000  0.618842  1
+  Co  Co11  1  0.000000  0.500000  0.144880  1
+  Co  Co12  1  0.000000  0.500000  0.855120  1
+  Co  Co13  1  0.500000  0.500000  0.144880  1
+  Co  Co14  1  0.500000  0.000000  0.381158  1
+  Co  Co15  1  0.500000  0.000000  0.144880  1
+  Co  Co16  1  0.500000  0.500000  0.618842  1
+  Co  Co17  1  0.000000  0.500000  0.381158  1
+  B  B18  1  0.666667  0.333333  0.739882  1
+  B  B19  1  0.333333  0.666667  0.739882  1
+  B  B20  1  0.333333  0.666667  0.260118  1
+  B  B21  1  0.666667  0.333333  0.500000  1
+  B  B22  1  0.666667  0.333333  0.260118  1
+  B  B23  1  0.333333  0.666667  0.500000  1

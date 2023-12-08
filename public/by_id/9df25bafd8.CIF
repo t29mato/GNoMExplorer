@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Co(IrS4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.67061665
+_cell_length_b   5.63948873
+_cell_length_c   5.63928853
+_cell_angle_alpha   89.93436358
+_cell_angle_beta   90.46045127
+_cell_angle_gamma   90.48863069
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co(IrS4)2
+_chemical_formula_sum   'Co1 Ir2 S8'
+_cell_volume   180.32845727
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.000000  0.500000  0.500000  1
+  Ir  Ir1  1  0.500000  0.000000  0.500000  1
+  Ir  Ir2  1  0.500000  0.500000  0.000000  1
+  S  S3  1  0.389956  0.891436  0.105832  1
+  S  S4  1  0.103134  0.398249  0.884112  1
+  S  S5  1  0.894447  0.113586  0.397301  1
+  S  S6  1  0.610044  0.108564  0.894168  1
+  S  S7  1  0.896866  0.601751  0.115888  1
+  S  S8  1  0.105553  0.886414  0.602699  1
+  S  S9  1  0.617079  0.611197  0.610276  1
+  S  S10  1  0.382921  0.388803  0.389724  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_PrNdHo6(CdPt)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.74422992
+_cell_length_b   9.72779703
+_cell_length_c   9.72178803
+_cell_angle_alpha   60.13227680
+_cell_angle_beta   59.96444243
+_cell_angle_gamma   59.90328212
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrNdHo6(CdPt)2
+_chemical_formula_sum   'Pr2 Nd2 Ho12 Cd4 Pt4'
+_cell_volume   651.61257102
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.566311  0.566311  0.933689  1
+  Pr  Pr1  1  0.933689  0.933689  0.566311  1
+  Nd  Nd2  1  0.564771  0.935229  0.564771  1
+  Nd  Nd3  1  0.935229  0.564771  0.935229  1
+  Ho  Ho4  1  0.352587  0.350067  0.350078  1
+  Ho  Ho5  1  0.350067  0.352587  0.947269  1
+  Ho  Ho6  1  0.350078  0.947269  0.352587  1
+  Ho  Ho7  1  0.947269  0.350078  0.350067  1
+  Ho  Ho8  1  0.811840  0.188160  0.188160  1
+  Ho  Ho9  1  0.188160  0.811840  0.811840  1
+  Ho  Ho10  1  0.188923  0.811077  0.188923  1
+  Ho  Ho11  1  0.811077  0.188923  0.811077  1
+  Ho  Ho12  1  0.188991  0.188991  0.811009  1
+  Ho  Ho13  1  0.811009  0.811009  0.188991  1
+  Ho  Ho14  1  0.943827  0.556173  0.556173  1
+  Ho  Ho15  1  0.556173  0.943827  0.943827  1
+  Cd  Cd16  1  0.583469  0.578758  0.578398  1
+  Cd  Cd17  1  0.578758  0.583469  0.259374  1
+  Cd  Cd18  1  0.578398  0.259374  0.583469  1
+  Cd  Cd19  1  0.259374  0.578398  0.578758  1
+  Pt  Pt20  1  0.146507  0.141006  0.140647  1
+  Pt  Pt21  1  0.141006  0.146507  0.571840  1
+  Pt  Pt22  1  0.140647  0.571840  0.146507  1
+  Pt  Pt23  1  0.571840  0.140647  0.141006  1

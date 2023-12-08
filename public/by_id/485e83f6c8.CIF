@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_LiY9Cd3Co
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.48114700
+_cell_length_b   9.48114101
+_cell_length_c   9.61410900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99993927
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiY9Cd3Co
+_chemical_formula_sum   'Li2 Y18 Cd6 Co2'
+_cell_volume   748.44764321
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.000000  0.000000  0.500000  1
+  Li  Li1  1  0.000000  0.000000  0.000000  1
+  Y  Y2  1  0.543053  0.456944  0.250000  1
+  Y  Y3  1  0.543054  0.086108  0.250000  1
+  Y  Y4  1  0.913891  0.456945  0.250000  1
+  Y  Y5  1  0.456947  0.543056  0.750000  1
+  Y  Y6  1  0.456946  0.913892  0.750000  1
+  Y  Y7  1  0.086109  0.543055  0.750000  1
+  Y  Y8  1  0.209191  0.790811  0.437423  1
+  Y  Y9  1  0.209190  0.418380  0.437423  1
+  Y  Y10  1  0.581619  0.790810  0.437422  1
+  Y  Y11  1  0.790809  0.209189  0.562577  1
+  Y  Y12  1  0.790810  0.581620  0.562577  1
+  Y  Y13  1  0.418381  0.209190  0.562578  1
+  Y  Y14  1  0.790809  0.209189  0.937423  1
+  Y  Y15  1  0.790810  0.581620  0.937423  1
+  Y  Y16  1  0.418381  0.209190  0.937422  1
+  Y  Y17  1  0.209191  0.790811  0.062577  1
+  Y  Y18  1  0.209190  0.418380  0.062577  1
+  Y  Y19  1  0.581619  0.790810  0.062578  1
+  Cd  Cd20  1  0.892298  0.107701  0.250000  1
+  Cd  Cd21  1  0.892299  0.784597  0.250000  1
+  Cd  Cd22  1  0.215403  0.107701  0.250000  1
+  Cd  Cd23  1  0.107702  0.892299  0.750000  1
+  Cd  Cd24  1  0.107701  0.215403  0.750000  1
+  Cd  Cd25  1  0.784597  0.892299  0.750000  1
+  Co  Co26  1  0.333333  0.666667  0.250000  1
+  Co  Co27  1  0.666667  0.333333  0.750000  1

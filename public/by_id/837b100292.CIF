@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Ho20(Pd3Ru)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.31310400
+_cell_length_b   11.04794000
+_cell_length_c   11.04794000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho20(Pd3Ru)3
+_chemical_formula_sum   'Ho20 Pd9 Ru3'
+_cell_volume   770.55839758
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.368231  0.837418  0.543665  1
+  Ho  Ho1  1  0.854974  0.662781  0.542307  1
+  Ho  Ho2  1  0.854974  0.837219  0.957693  1
+  Ho  Ho3  1  0.368231  0.662582  0.956335  1
+  Ho  Ho4  1  0.854974  0.542307  0.837219  1
+  Ho  Ho5  1  0.368231  0.956335  0.837418  1
+  Ho  Ho6  1  0.368231  0.543665  0.662582  1
+  Ho  Ho7  1  0.854974  0.957693  0.662781  1
+  Ho  Ho8  1  0.636596  0.165931  0.451872  1
+  Ho  Ho9  1  0.137410  0.334825  0.452116  1
+  Ho  Ho10  1  0.137410  0.165175  0.047885  1
+  Ho  Ho11  1  0.636596  0.334069  0.048129  1
+  Ho  Ho12  1  0.137410  0.452116  0.165175  1
+  Ho  Ho13  1  0.636596  0.048129  0.165931  1
+  Ho  Ho14  1  0.636596  0.451872  0.334069  1
+  Ho  Ho15  1  0.137410  0.047885  0.334825  1
+  Ho  Ho16  1  0.501903  0.750000  0.250000  1
+  Ho  Ho17  1  0.002367  0.750000  0.250000  1
+  Ho  Ho18  1  0.002367  0.250000  0.750000  1
+  Ho  Ho19  1  0.501903  0.250000  0.750000  1
+  Pd  Pd20  1  0.250356  0.902013  0.093307  1
+  Pd  Pd21  1  0.750605  0.596482  0.095391  1
+  Pd  Pd22  1  0.750605  0.903518  0.404609  1
+  Pd  Pd23  1  0.250356  0.597987  0.406693  1
+  Pd  Pd24  1  0.750605  0.095391  0.903518  1
+  Pd  Pd25  1  0.250356  0.406693  0.902013  1
+  Pd  Pd26  1  0.250356  0.093307  0.597987  1
+  Pd  Pd27  1  0.750605  0.404609  0.596482  1
+  Pd  Pd28  1  0.111781  0.750000  0.750000  1
+  Ru  Ru29  1  0.614712  0.750000  0.750000  1
+  Ru  Ru30  1  0.886409  0.250000  0.250000  1
+  Ru  Ru31  1  0.385873  0.250000  0.250000  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CeMn(CoAs)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.95793000
+_cell_length_b   7.17322993
+_cell_length_c   6.72926229
+_cell_angle_alpha   93.09051054
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeMn(CoAs)2
+_chemical_formula_sum   'Ce2 Mn2 Co4 As4'
+_cell_volume   190.77357833
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.750000  0.250859  0.999580  1
+  Ce  Ce1  1  0.250000  0.749141  0.000420  1
+  Mn  Mn2  1  0.250000  0.748461  0.501027  1
+  Mn  Mn3  1  0.750000  0.251539  0.498973  1
+  Co  Co4  1  0.250000  0.423769  0.349574  1
+  Co  Co5  1  0.750000  0.576231  0.650426  1
+  Co  Co6  1  0.750000  0.925299  0.355708  1
+  Co  Co7  1  0.250000  0.074701  0.644292  1
+  As  As8  1  0.250000  0.408025  0.720704  1
+  As  As9  1  0.750000  0.591975  0.279296  1
+  As  As10  1  0.750000  0.908926  0.722889  1
+  As  As11  1  0.250000  0.091074  0.277111  1

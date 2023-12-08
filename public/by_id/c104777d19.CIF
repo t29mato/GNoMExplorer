@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Er2(ThTc)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.41396300
+_cell_length_b   8.26702826
+_cell_length_c   8.26789005
+_cell_angle_alpha   119.99636874
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er2(ThTc)3
+_chemical_formula_sum   'Er4 Th6 Tc6'
+_cell_volume   379.67944572
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.499997  0.333255  0.666504  1
+  Er  Er1  1  0.499996  0.666751  0.333496  1
+  Er  Er2  1  0.999997  0.666745  0.333496  1
+  Er  Er3  1  0.999996  0.333249  0.666504  1
+  Th  Th4  1  0.750002  0.248842  0.000001  1
+  Th  Th5  1  0.750004  0.751159  0.751213  1
+  Th  Th6  1  0.750004  0.999948  0.248787  1
+  Th  Th7  1  0.250002  0.751158  0.999999  1
+  Th  Th8  1  0.250004  0.248841  0.248787  1
+  Th  Th9  1  0.250004  0.000052  0.751213  1
+  Tc  Tc10  1  0.749994  0.614506  0.000000  1
+  Tc  Tc11  1  0.750002  0.385500  0.385505  1
+  Tc  Tc12  1  0.750003  0.999997  0.614495  1
+  Tc  Tc13  1  0.249994  0.385494  0.000000  1
+  Tc  Tc14  1  0.250002  0.614500  0.614495  1
+  Tc  Tc15  1  0.250003  0.000003  0.385505  1

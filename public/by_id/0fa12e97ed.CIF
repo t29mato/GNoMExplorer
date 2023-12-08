@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ta8MnV(Ga3B)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.72183300
+_cell_length_b   7.72183278
+_cell_length_c   5.18987700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000522
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta8MnV(Ga3B)2
+_chemical_formula_sum   'Ta8 Mn1 V1 Ga6 B2'
+_cell_volume   267.99609846
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.243812  0.001953  0.256779  1
+  Ta  Ta1  1  0.758141  0.001953  0.743221  1
+  Ta  Ta2  1  0.998047  0.241859  0.256779  1
+  Ta  Ta3  1  0.998047  0.756188  0.743221  1
+  Ta  Ta4  1  0.758141  0.756188  0.256779  1
+  Ta  Ta5  1  0.243812  0.241859  0.743221  1
+  Ta  Ta6  1  0.666667  0.333333  0.500000  1
+  Ta  Ta7  1  0.333333  0.666667  0.500000  1
+  Mn  Mn8  1  0.333333  0.666667  0.000000  1
+  V  V9  1  0.666667  0.333333  0.000000  1
+  Ga  Ga10  1  0.593626  0.997568  0.231080  1
+  Ga  Ga11  1  0.403942  0.997568  0.768920  1
+  Ga  Ga12  1  0.002432  0.596058  0.231080  1
+  Ga  Ga13  1  0.002432  0.406374  0.768920  1
+  Ga  Ga14  1  0.403942  0.406374  0.231080  1
+  Ga  Ga15  1  0.593626  0.596058  0.768920  1
+  B  B16  1  0.000000  0.000000  0.000000  1
+  B  B17  1  0.000000  0.000000  0.500000  1

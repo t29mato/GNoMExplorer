@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Li3Gd3Pt2Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.45816100
+_cell_length_b   7.45816134
+_cell_length_c   3.96690300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000291
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3Gd3Pt2Au
+_chemical_formula_sum   'Li3 Gd3 Pt2 Au1'
+_cell_volume   191.09341805
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.999493  0.234923  0.000000  1
+  Li  Li1  1  0.235430  0.000507  0.000000  1
+  Li  Li2  1  0.765077  0.764570  0.000000  1
+  Gd  Gd3  1  0.012843  0.608338  0.500000  1
+  Gd  Gd4  1  0.595495  0.987157  0.500000  1
+  Gd  Gd5  1  0.391662  0.404505  0.500000  1
+  Pt  Pt6  1  0.000000  0.000000  0.500000  1
+  Pt  Pt7  1  0.333333  0.666667  0.000000  1
+  Au  Au8  1  0.666667  0.333333  0.000000  1

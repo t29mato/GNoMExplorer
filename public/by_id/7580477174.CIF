@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Hf4Si3Ni4P
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.79007000
+_cell_length_b   6.38667678
+_cell_length_c   7.19694809
+_cell_angle_alpha   90.29441017
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf4Si3Ni4P
+_chemical_formula_sum   'Hf4 Si3 Ni4 P1'
+_cell_volume   174.20668067
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.250000  0.015648  0.812316  1
+  Hf  Hf1  1  0.250000  0.518980  0.688941  1
+  Hf  Hf2  1  0.750000  0.980467  0.184310  1
+  Hf  Hf3  1  0.750000  0.481570  0.315287  1
+  Si  Si4  1  0.250000  0.772766  0.387788  1
+  Si  Si5  1  0.250000  0.270616  0.113058  1
+  Si  Si6  1  0.750000  0.227547  0.613481  1
+  Ni  Ni7  1  0.250000  0.145028  0.436355  1
+  Ni  Ni8  1  0.250000  0.646511  0.062905  1
+  Ni  Ni9  1  0.750000  0.856400  0.563828  1
+  Ni  Ni10  1  0.750000  0.356036  0.936793  1
+  P  P11  1  0.750000  0.728432  0.884937  1

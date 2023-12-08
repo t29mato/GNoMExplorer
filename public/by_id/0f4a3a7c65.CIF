@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZrSc3(AlFe3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.04629714
+_cell_length_b   5.04649804
+_cell_length_c   8.09676800
+_cell_angle_alpha   90.00000024
+_cell_angle_beta   90.00073135
+_cell_angle_gamma   59.99867536
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrSc3(AlFe3)2
+_chemical_formula_sum   'Zr1 Sc3 Al2 Fe6'
+_cell_volume   178.56628273
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.333338  0.333331  0.931948  1
+  Sc  Sc1  1  0.333372  0.333314  0.561451  1
+  Sc  Sc2  1  0.666681  0.666660  0.435256  1
+  Sc  Sc3  1  0.666690  0.666655  0.068404  1
+  Al  Al4  1  0.999848  0.000076  0.500703  1
+  Al  Al5  1  0.999877  0.000061  0.000538  1
+  Fe  Fe6  1  0.826235  0.347455  0.751506  1
+  Fe  Fe7  1  0.347505  0.826247  0.751487  1
+  Fe  Fe8  1  0.826235  0.826311  0.751506  1
+  Fe  Fe9  1  0.173765  0.652580  0.249060  1
+  Fe  Fe10  1  0.652690  0.173655  0.249084  1
+  Fe  Fe11  1  0.173765  0.173655  0.249060  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_HoCoSnH
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.26610600
+_cell_length_b   7.08988400
+_cell_length_c   8.13968300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoCoSnH
+_chemical_formula_sum   'Ho4 Co4 Sn4 H4'
+_cell_volume   246.19445286
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.750000  0.012460  0.686520  1
+  Ho  Ho1  1  0.250000  0.987540  0.313480  1
+  Ho  Ho2  1  0.250000  0.487540  0.186520  1
+  Ho  Ho3  1  0.750000  0.512460  0.813480  1
+  Co  Co4  1  0.750000  0.775432  0.103194  1
+  Co  Co5  1  0.250000  0.224568  0.896806  1
+  Co  Co6  1  0.250000  0.724568  0.603194  1
+  Co  Co7  1  0.750000  0.275432  0.396806  1
+  Sn  Sn8  1  0.750000  0.656824  0.425749  1
+  Sn  Sn9  1  0.250000  0.343176  0.574251  1
+  Sn  Sn10  1  0.250000  0.843176  0.925749  1
+  Sn  Sn11  1  0.750000  0.156824  0.074251  1
+  H  H12  1  0.250000  0.445612  0.919734  1
+  H  H13  1  0.750000  0.554388  0.080266  1
+  H  H14  1  0.750000  0.054388  0.419734  1
+  H  H15  1  0.250000  0.945612  0.580266  1

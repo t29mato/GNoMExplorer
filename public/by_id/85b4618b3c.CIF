@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ba2Al4Ag5Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.16999623
+_cell_length_b   7.16999601
+_cell_length_c   5.51823000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   103.57235840
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Al4Ag5Au
+_chemical_formula_sum   'Ba2 Al4 Ag5 Au1'
+_cell_volume   275.76371009
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.823293  0.823293  0.000000  1
+  Ba  Ba1  1  0.175019  0.175019  0.500000  1
+  Al  Al2  1  0.300420  0.701490  0.251344  1
+  Al  Al3  1  0.300420  0.701490  0.748656  1
+  Al  Al4  1  0.701490  0.300420  0.251344  1
+  Al  Al5  1  0.701490  0.300420  0.748656  1
+  Ag  Ag6  1  0.423529  0.025645  0.000000  1
+  Ag  Ag7  1  0.976522  0.579348  0.500000  1
+  Ag  Ag8  1  0.579348  0.976522  0.500000  1
+  Ag  Ag9  1  0.025645  0.423529  0.000000  1
+  Ag  Ag10  1  0.430216  0.430216  0.000000  1
+  Au  Au11  1  0.562606  0.562606  0.500000  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ba4InPdO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.29553349
+_cell_length_b   7.29553384
+_cell_length_c   5.96826300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   131.82937775
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba4InPdO8
+_chemical_formula_sum   'Ba4 In1 Pd1 O8'
+_cell_volume   236.69906885
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.357809  0.642191  0.000000  1
+  Ba  Ba1  1  0.857392  0.142608  0.500000  1
+  Ba  Ba2  1  0.142608  0.857392  0.500000  1
+  Ba  Ba3  1  0.642191  0.357809  0.000000  1
+  In  In4  1  0.000000  0.000000  0.000000  1
+  Pd  Pd5  1  0.500000  0.500000  0.500000  1
+  O  O6  1  0.258961  0.258961  0.738006  1
+  O  O7  1  0.741039  0.741039  0.261994  1
+  O  O8  1  0.741039  0.741039  0.738006  1
+  O  O9  1  0.258961  0.258961  0.261994  1
+  O  O10  1  0.159529  0.840471  0.000000  1
+  O  O11  1  0.654774  0.345226  0.500000  1
+  O  O12  1  0.345226  0.654774  0.500000  1
+  O  O13  1  0.840471  0.159529  0.000000  1

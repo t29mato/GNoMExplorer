@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YEr(MgRh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.09679200
+_cell_length_b   7.08446069
+_cell_length_c   8.52012900
+_cell_angle_alpha   90.14177452
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YEr(MgRh)2
+_chemical_formula_sum   'Y2 Er2 Mg4 Rh4'
+_cell_volume   247.28373416
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.750000  0.963967  0.677050  1
+  Y  Y1  1  0.250000  0.036033  0.322950  1
+  Er  Er2  1  0.250000  0.537728  0.174717  1
+  Er  Er3  1  0.750000  0.462272  0.825283  1
+  Mg  Mg4  1  0.250000  0.636424  0.559320  1
+  Mg  Mg5  1  0.750000  0.363576  0.440680  1
+  Mg  Mg6  1  0.750000  0.862850  0.059189  1
+  Mg  Mg7  1  0.250000  0.137150  0.940811  1
+  Rh  Rh8  1  0.250000  0.748198  0.871942  1
+  Rh  Rh9  1  0.750000  0.251802  0.128058  1
+  Rh  Rh10  1  0.750000  0.745268  0.369094  1
+  Rh  Rh11  1  0.250000  0.254732  0.630906  1

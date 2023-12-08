@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_CaFe2(CoB2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.94739900
+_cell_length_b   6.94739900
+_cell_length_c   3.82289300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaFe2(CoB2)2
+_chemical_formula_sum   'Ca2 Fe4 Co4 B8'
+_cell_volume   184.51710250
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.000000  0.000000  0.002635  1
+  Ca  Ca1  1  0.500000  0.500000  0.502635  1
+  Fe  Fe2  1  0.629947  0.118792  0.389158  1
+  Fe  Fe3  1  0.370053  0.881208  0.389158  1
+  Fe  Fe4  1  0.618792  0.870053  0.889158  1
+  Fe  Fe5  1  0.381208  0.129947  0.889158  1
+  Co  Co6  1  0.867048  0.381679  0.112264  1
+  Co  Co7  1  0.132952  0.618321  0.112264  1
+  Co  Co8  1  0.881679  0.632952  0.612264  1
+  Co  Co9  1  0.118321  0.367048  0.612264  1
+  B  B10  1  0.332123  0.808480  0.890534  1
+  B  B11  1  0.667877  0.191520  0.890534  1
+  B  B12  1  0.308480  0.167877  0.390534  1
+  B  B13  1  0.691520  0.832123  0.390534  1
+  B  B14  1  0.167804  0.696217  0.606727  1
+  B  B15  1  0.832196  0.303783  0.606727  1
+  B  B16  1  0.196217  0.332196  0.106727  1
+  B  B17  1  0.803783  0.667804  0.106727  1

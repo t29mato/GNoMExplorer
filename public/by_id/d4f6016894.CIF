@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_PuPa(MoC2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.30961200
+_cell_length_b   5.71199558
+_cell_length_c   10.98607782
+_cell_angle_alpha   90.14513532
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PuPa(MoC2)2
+_chemical_formula_sum   'Pu2 Pa2 Mo4 C8'
+_cell_volume   207.68552215
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pu  Pu0  1  0.750000  0.917580  0.359857  1
+  Pu  Pu1  1  0.250000  0.082420  0.640143  1
+  Pa  Pa2  1  0.250000  0.581896  0.856981  1
+  Pa  Pa3  1  0.750000  0.418104  0.143019  1
+  Mo  Mo4  1  0.250000  0.917525  0.103171  1
+  Mo  Mo5  1  0.750000  0.082475  0.896829  1
+  Mo  Mo6  1  0.750000  0.585027  0.602340  1
+  Mo  Mo7  1  0.250000  0.414973  0.397660  1
+  C  C8  1  0.250000  0.664167  0.246904  1
+  C  C9  1  0.750000  0.335833  0.753096  1
+  C  C10  1  0.750000  0.838728  0.745498  1
+  C  C11  1  0.250000  0.161272  0.254502  1
+  C  C12  1  0.250000  0.736705  0.510859  1
+  C  C13  1  0.750000  0.263295  0.489141  1
+  C  C14  1  0.750000  0.759350  0.010367  1
+  C  C15  1  0.250000  0.240650  0.989633  1

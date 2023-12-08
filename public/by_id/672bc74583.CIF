@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_LuCuPd5O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.80541494
+_cell_length_b   6.80541593
+_cell_length_c   6.77153700
+_cell_angle_alpha   60.16453752
+_cell_angle_beta   60.16453272
+_cell_angle_gamma   59.18264389
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuCuPd5O8
+_chemical_formula_sum   'Lu1 Cu1 Pd5 O8'
+_cell_volume   220.89678573
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.000000  0.000000  0.000000  1
+  Cu  Cu1  1  0.000000  0.000000  0.500000  1
+  Pd  Pd2  1  0.500000  0.000000  0.000000  1
+  Pd  Pd3  1  0.000000  0.500000  0.000000  1
+  Pd  Pd4  1  0.500000  0.500000  0.000000  1
+  Pd  Pd5  1  0.000000  0.500000  0.500000  1
+  Pd  Pd6  1  0.500000  0.000000  0.500000  1
+  O  O7  1  0.132662  0.132662  0.577787  1
+  O  O8  1  0.135459  0.588798  0.137871  1
+  O  O9  1  0.588798  0.135459  0.137871  1
+  O  O10  1  0.864541  0.411202  0.862129  1
+  O  O11  1  0.132662  0.132662  0.156889  1
+  O  O12  1  0.867338  0.867338  0.843111  1
+  O  O13  1  0.867338  0.867338  0.422213  1
+  O  O14  1  0.411202  0.864541  0.862129  1

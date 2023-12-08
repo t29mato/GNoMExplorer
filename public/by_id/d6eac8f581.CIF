@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_NdEuCoB10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.19434700
+_cell_length_b   5.63374128
+_cell_length_c   11.20621549
+_cell_angle_alpha   89.90733896
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdEuCoB10
+_chemical_formula_sum   'Nd2 Eu2 Co2 B20'
+_cell_volume   264.80102231
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.500000  0.298125  0.865353  1
+  Nd  Nd1  1  0.500000  0.701875  0.134647  1
+  Eu  Eu2  1  0.500000  0.800664  0.633845  1
+  Eu  Eu3  1  0.500000  0.199336  0.366155  1
+  Co  Co4  1  0.000000  0.500000  0.500000  1
+  Co  Co5  1  0.000000  0.000000  0.000000  1
+  B  B6  1  0.000000  0.127363  0.540608  1
+  B  B7  1  0.000000  0.872637  0.459392  1
+  B  B8  1  0.000000  0.627893  0.959476  1
+  B  B9  1  0.000000  0.372107  0.040524  1
+  B  B10  1  0.000000  0.156660  0.697224  1
+  B  B11  1  0.000000  0.843340  0.302776  1
+  B  B12  1  0.298315  0.201369  0.112667  1
+  B  B13  1  0.298315  0.798631  0.887333  1
+  B  B14  1  0.701724  0.700519  0.387478  1
+  B  B15  1  0.701724  0.299481  0.612522  1
+  B  B16  1  0.701685  0.798631  0.887333  1
+  B  B17  1  0.701685  0.201369  0.112667  1
+  B  B18  1  0.298276  0.299481  0.612522  1
+  B  B19  1  0.298276  0.700519  0.387478  1
+  B  B20  1  0.000000  0.034280  0.187143  1
+  B  B21  1  0.000000  0.965720  0.812857  1
+  B  B22  1  0.000000  0.533211  0.313400  1
+  B  B23  1  0.000000  0.466789  0.686600  1
+  B  B24  1  0.000000  0.342963  0.197815  1
+  B  B25  1  0.000000  0.657037  0.802185  1

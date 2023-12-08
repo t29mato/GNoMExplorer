@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_HoLu7(CdPt)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.49970810
+_cell_length_b   9.49970803
+_cell_length_c   9.49383900
+_cell_angle_alpha   60.02043842
+_cell_angle_beta   60.02043866
+_cell_angle_gamma   59.95913141
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoLu7(CdPt)2
+_chemical_formula_sum   'Ho2 Lu14 Cd4 Pt4'
+_cell_volume   605.82484457
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.815379  0.815379  0.184621  1
+  Ho  Ho1  1  0.184621  0.184621  0.815379  1
+  Lu  Lu2  1  0.602451  0.602451  0.602906  1
+  Lu  Lu3  1  0.602451  0.602451  0.192191  1
+  Lu  Lu4  1  0.602906  0.192191  0.602451  1
+  Lu  Lu5  1  0.192191  0.602906  0.602451  1
+  Lu  Lu6  1  0.060481  0.439519  0.439519  1
+  Lu  Lu7  1  0.439519  0.060481  0.060481  1
+  Lu  Lu8  1  0.439519  0.060481  0.439519  1
+  Lu  Lu9  1  0.060481  0.439519  0.060481  1
+  Lu  Lu10  1  0.439619  0.439619  0.060381  1
+  Lu  Lu11  1  0.060381  0.060381  0.439619  1
+  Lu  Lu12  1  0.185428  0.814572  0.814572  1
+  Lu  Lu13  1  0.814572  0.185428  0.185428  1
+  Lu  Lu14  1  0.814572  0.185428  0.814572  1
+  Lu  Lu15  1  0.185428  0.814572  0.185428  1
+  Cd  Cd16  1  0.832159  0.832159  0.831602  1
+  Cd  Cd17  1  0.832159  0.832159  0.504080  1
+  Cd  Cd18  1  0.831602  0.504080  0.832159  1
+  Cd  Cd19  1  0.504080  0.831602  0.832159  1
+  Pt  Pt20  1  0.393333  0.393333  0.392798  1
+  Pt  Pt21  1  0.393333  0.393333  0.820536  1
+  Pt  Pt22  1  0.392798  0.820536  0.393333  1
+  Pt  Pt23  1  0.820536  0.392798  0.393333  1

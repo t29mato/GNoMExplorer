@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Be4MoRu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.39587800
+_cell_length_b   4.39587848
+_cell_length_c   7.17597900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001142
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Be4MoRu
+_chemical_formula_sum   'Be8 Mo2 Ru2'
+_cell_volume   120.08895072
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.000000  0.000000  0.500000  1
+  Be  Be1  1  0.000000  0.000000  0.000000  1
+  Be  Be2  1  0.831098  0.168902  0.256847  1
+  Be  Be3  1  0.831098  0.662195  0.256847  1
+  Be  Be4  1  0.337805  0.168902  0.256847  1
+  Be  Be5  1  0.168902  0.831098  0.743153  1
+  Be  Be6  1  0.168902  0.337805  0.743153  1
+  Be  Be7  1  0.662195  0.831098  0.743153  1
+  Mo  Mo8  1  0.666667  0.333333  0.938389  1
+  Mo  Mo9  1  0.333333  0.666667  0.061611  1
+  Ru  Ru10  1  0.333333  0.666667  0.431663  1
+  Ru  Ru11  1  0.666667  0.333333  0.568337  1

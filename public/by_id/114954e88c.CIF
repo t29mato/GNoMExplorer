@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Tb4MgCu2Bi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.62433283
+_cell_length_b   8.62433294
+_cell_length_c   8.62433246
+_cell_angle_alpha   126.81674099
+_cell_angle_beta   126.81674160
+_cell_angle_gamma   78.54986425
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb4MgCu2Bi
+_chemical_formula_sum   'Tb8 Mg2 Cu4 Bi2'
+_cell_volume   397.99591393
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.796988  0.296988  0.822674  1
+  Tb  Tb1  1  0.203012  0.703012  0.177326  1
+  Tb  Tb2  1  0.474314  0.974314  0.177326  1
+  Tb  Tb3  1  0.296988  0.474314  0.500000  1
+  Tb  Tb4  1  0.025686  0.203012  0.500000  1
+  Tb  Tb5  1  0.525686  0.025686  0.822674  1
+  Tb  Tb6  1  0.703012  0.525686  0.500000  1
+  Tb  Tb7  1  0.974314  0.796988  0.500000  1
+  Mg  Mg8  1  0.000000  0.000000  0.000000  1
+  Mg  Mg9  1  0.500000  0.500000  0.000000  1
+  Cu  Cu10  1  0.124618  0.624618  0.749237  1
+  Cu  Cu11  1  0.875382  0.375382  0.250763  1
+  Cu  Cu12  1  0.624618  0.875382  0.500000  1
+  Cu  Cu13  1  0.375382  0.124618  0.500000  1
+  Bi  Bi14  1  0.250000  0.250000  0.000000  1
+  Bi  Bi15  1  0.750000  0.750000  0.000000  1

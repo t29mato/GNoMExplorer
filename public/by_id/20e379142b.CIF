@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TmTh3(ZnCo)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.81936000
+_cell_length_b   6.90481575
+_cell_length_c   8.31431297
+_cell_angle_alpha   90.66751549
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TmTh3(ZnCo)4
+_chemical_formula_sum   'Tm1 Th3 Zn4 Co4'
+_cell_volume   219.24999085
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.250000  0.048495  0.313290  1
+  Th  Th1  1  0.250000  0.545540  0.190468  1
+  Th  Th2  1  0.750000  0.459623  0.815208  1
+  Th  Th3  1  0.750000  0.958555  0.678914  1
+  Zn  Zn4  1  0.250000  0.625326  0.550958  1
+  Zn  Zn5  1  0.750000  0.357470  0.445376  1
+  Zn  Zn6  1  0.750000  0.882358  0.059378  1
+  Zn  Zn7  1  0.250000  0.127645  0.951356  1
+  Co  Co8  1  0.250000  0.744477  0.855881  1
+  Co  Co9  1  0.750000  0.264115  0.135559  1
+  Co  Co10  1  0.750000  0.745772  0.358605  1
+  Co  Co11  1  0.250000  0.240625  0.645007  1

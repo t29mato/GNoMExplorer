@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_MgTa8(CS2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.78172541
+_cell_length_b   9.78172485
+_cell_length_c   9.78172399
+_cell_angle_alpha   39.58756889
+_cell_angle_beta   39.58757555
+_cell_angle_gamma   39.58756826
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTa8(CS2)4
+_chemical_formula_sum   'Mg1 Ta8 C4 S8'
+_cell_volume   342.19246475
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.000000  0.000000  0.000000  1
+  Ta  Ta1  1  0.884215  0.372474  0.372474  1
+  Ta  Ta2  1  0.876056  0.876056  0.876056  1
+  Ta  Ta3  1  0.372474  0.884215  0.372474  1
+  Ta  Ta4  1  0.372474  0.372474  0.884215  1
+  Ta  Ta5  1  0.115785  0.627526  0.627526  1
+  Ta  Ta6  1  0.123944  0.123944  0.123944  1
+  Ta  Ta7  1  0.627526  0.115785  0.627526  1
+  Ta  Ta8  1  0.627526  0.627526  0.115785  1
+  C  C9  1  0.000000  0.000000  0.500000  1
+  C  C10  1  0.000000  0.500000  0.000000  1
+  C  C11  1  0.500000  0.500000  0.500000  1
+  C  C12  1  0.500000  0.000000  0.000000  1
+  S  S13  1  0.727374  0.231258  0.231258  1
+  S  S14  1  0.729040  0.729040  0.729040  1
+  S  S15  1  0.231258  0.727374  0.231258  1
+  S  S16  1  0.231258  0.231258  0.727374  1
+  S  S17  1  0.272626  0.768742  0.768742  1
+  S  S18  1  0.270960  0.270960  0.270960  1
+  S  S19  1  0.768742  0.272626  0.768742  1
+  S  S20  1  0.768742  0.768742  0.272626  1

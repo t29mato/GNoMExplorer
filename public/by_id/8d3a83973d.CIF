@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na3Ca(SnPd)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.42108900
+_cell_length_b   7.59893517
+_cell_length_c   8.08193724
+_cell_angle_alpha   90.70175273
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3Ca(SnPd)4
+_chemical_formula_sum   'Na3 Ca1 Sn4 Pd4'
+_cell_volume   271.49691276
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.750000  0.484922  0.835968  1
+  Na  Na1  1  0.250000  0.517104  0.166035  1
+  Na  Na2  1  0.250000  0.015222  0.324257  1
+  Ca  Ca3  1  0.750000  0.979039  0.668155  1
+  Sn  Sn4  1  0.750000  0.349205  0.434886  1
+  Sn  Sn5  1  0.250000  0.648167  0.564667  1
+  Sn  Sn6  1  0.750000  0.848064  0.067302  1
+  Sn  Sn7  1  0.250000  0.158146  0.937861  1
+  Pd  Pd8  1  0.750000  0.203815  0.125213  1
+  Pd  Pd9  1  0.750000  0.705666  0.376090  1
+  Pd  Pd10  1  0.250000  0.799313  0.873820  1
+  Pd  Pd11  1  0.250000  0.291336  0.625746  1

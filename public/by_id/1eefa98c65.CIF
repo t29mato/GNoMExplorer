@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_La4PaCo2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.25078603
+_cell_length_b   9.25078510
+_cell_length_c   6.86902357
+_cell_angle_alpha   83.52873957
+_cell_angle_beta   83.52873138
+_cell_angle_gamma   40.86446695
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La4PaCo2
+_chemical_formula_sum   'La8 Pa2 Co4'
+_cell_volume   381.80928687
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.018216  0.798737  0.924018  1
+  La  La1  1  0.201263  0.981784  0.575982  1
+  La  La2  1  0.981784  0.201263  0.075982  1
+  La  La3  1  0.798737  0.018216  0.424018  1
+  La  La4  1  0.367242  0.216308  0.818485  1
+  La  La5  1  0.783692  0.632758  0.681515  1
+  La  La6  1  0.632758  0.783692  0.181515  1
+  La  La7  1  0.216308  0.367242  0.318485  1
+  Pa  Pa8  1  0.571388  0.428612  0.750000  1
+  Pa  Pa9  1  0.428612  0.571388  0.250000  1
+  Co  Co10  1  0.259395  0.567776  0.552370  1
+  Co  Co11  1  0.432224  0.740605  0.947630  1
+  Co  Co12  1  0.740605  0.432224  0.447630  1
+  Co  Co13  1  0.567776  0.259395  0.052370  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ti8Fe3Tc4Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.09886200
+_cell_length_b   4.32958600
+_cell_length_c   8.66087400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.99994535
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti8Fe3Tc4Pt
+_chemical_formula_sum   'Ti8 Fe3 Tc4 Pt1'
+_cell_volume   228.69512007
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.004237  0.750000  0.132469  1
+  Ti  Ti1  1  0.495786  0.750000  0.132474  1
+  Ti  Ti2  1  0.997921  0.250001  0.375007  1
+  Ti  Ti3  1  0.502068  0.250001  0.375008  1
+  Ti  Ti4  1  0.495764  0.750000  0.617533  1
+  Ti  Ti5  1  0.004255  0.750000  0.617536  1
+  Ti  Ti6  1  0.488547  0.250001  0.874997  1
+  Ti  Ti7  1  0.011436  0.250001  0.875000  1
+  Fe  Fe8  1  0.250005  0.250001  0.124874  1
+  Fe  Fe9  1  0.749976  0.750000  0.374984  1
+  Fe  Fe10  1  0.250005  0.250001  0.625101  1
+  Tc  Tc11  1  0.750008  0.250001  0.125573  1
+  Tc  Tc12  1  0.249999  0.750000  0.374994  1
+  Tc  Tc13  1  0.750008  0.250001  0.624436  1
+  Tc  Tc14  1  0.249995  0.750000  0.875004  1
+  Pt  Pt15  1  0.749996  0.750000  0.875010  1

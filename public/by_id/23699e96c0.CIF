@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_TiZn3(FeRh3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.28262800
+_cell_length_b   6.05974900
+_cell_length_c   12.83375800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00106642
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiZn3(FeRh3)2
+_chemical_formula_sum   'Ti2 Zn6 Fe4 Rh12'
+_cell_volume   333.05720527
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.000002  0.000000  0.998631  1
+  Ti  Ti1  1  0.499856  0.499999  0.168024  1
+  Zn  Zn2  1  0.999990  0.499999  0.999661  1
+  Zn  Zn3  1  0.499879  0.000000  0.167013  1
+  Zn  Zn4  1  0.999899  0.499999  0.335288  1
+  Zn  Zn5  1  0.500002  0.000000  0.501038  1
+  Zn  Zn6  1  0.000098  0.499999  0.665654  1
+  Zn  Zn7  1  0.500128  0.000000  0.831346  1
+  Fe  Fe8  1  0.999873  0.000000  0.335579  1
+  Fe  Fe9  1  0.500004  0.499999  0.500558  1
+  Fe  Fe10  1  0.000128  0.000000  0.666060  1
+  Fe  Fe11  1  0.500145  0.499999  0.831116  1
+  Rh  Rh12  1  0.499995  0.251593  0.999143  1
+  Rh  Rh13  1  0.499995  0.748408  0.999143  1
+  Rh  Rh14  1  0.999878  0.248413  0.167527  1
+  Rh  Rh15  1  0.999878  0.751586  0.167527  1
+  Rh  Rh16  1  0.499890  0.248696  0.333272  1
+  Rh  Rh17  1  0.499890  0.751304  0.333272  1
+  Rh  Rh18  1  0.999999  0.249494  0.499928  1
+  Rh  Rh19  1  0.999999  0.750506  0.499928  1
+  Rh  Rh20  1  0.500105  0.250566  0.666742  1
+  Rh  Rh21  1  0.500105  0.749434  0.666742  1
+  Rh  Rh22  1  0.000132  0.251369  0.833404  1
+  Rh  Rh23  1  0.000132  0.748630  0.833404  1

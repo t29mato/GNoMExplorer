@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SmPa3(AlTc)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.94725900
+_cell_length_b   6.97925848
+_cell_length_c   8.44090749
+_cell_angle_alpha   90.98079205
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmPa3(AlTc)4
+_chemical_formula_sum   'Sm1 Pa3 Al4 Tc4'
+_cell_volume   232.50399196
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.750000  0.465457  0.183725  1
+  Pa  Pa1  1  0.250000  0.026560  0.685046  1
+  Pa  Pa2  1  0.250000  0.531353  0.814546  1
+  Pa  Pa3  1  0.750000  0.967413  0.311263  1
+  Al  Al4  1  0.250000  0.143859  0.052056  1
+  Al  Al5  1  0.250000  0.627895  0.443381  1
+  Al  Al6  1  0.750000  0.873122  0.947500  1
+  Al  Al7  1  0.750000  0.362618  0.551604  1
+  Tc  Tc8  1  0.250000  0.224889  0.377301  1
+  Tc  Tc9  1  0.250000  0.776233  0.138925  1
+  Tc  Tc10  1  0.750000  0.746275  0.642370  1
+  Tc  Tc11  1  0.750000  0.254325  0.852285  1

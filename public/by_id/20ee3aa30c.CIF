@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_CeSc(PaH6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.55009800
+_cell_length_b   6.47619900
+_cell_length_c   6.47619900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeSc(PaH6)2
+_chemical_formula_sum   'Ce2 Sc2 Pa4 H24'
+_cell_volume   274.71866558
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.250000  0.000000  0.500000  1
+  Ce  Ce1  1  0.750000  0.000000  0.500000  1
+  Sc  Sc2  1  0.000000  0.000000  0.000000  1
+  Sc  Sc3  1  0.500000  0.500000  0.500000  1
+  Pa  Pa4  1  0.000000  0.500000  0.249957  1
+  Pa  Pa5  1  0.000000  0.500000  0.750043  1
+  Pa  Pa6  1  0.500000  0.749957  0.000000  1
+  Pa  Pa7  1  0.500000  0.250043  0.000000  1
+  H  H8  1  0.000000  0.156884  0.288838  1
+  H  H9  1  0.500000  0.211162  0.656884  1
+  H  H10  1  0.500000  0.788838  0.343116  1
+  H  H11  1  0.801636  0.645643  0.500000  1
+  H  H12  1  0.198364  0.645643  0.500000  1
+  H  H13  1  0.347216  0.500000  0.797622  1
+  H  H14  1  0.652784  0.500000  0.797622  1
+  H  H15  1  0.301636  0.000000  0.145643  1
+  H  H16  1  0.152784  0.297622  0.000000  1
+  H  H17  1  0.847216  0.702378  0.000000  1
+  H  H18  1  0.301636  0.000000  0.854357  1
+  H  H19  1  0.847216  0.297622  0.000000  1
+  H  H20  1  0.698364  0.000000  0.145643  1
+  H  H21  1  0.698364  0.000000  0.854357  1
+  H  H22  1  0.152784  0.702378  0.000000  1
+  H  H23  1  0.000000  0.843116  0.711162  1
+  H  H24  1  0.000000  0.156884  0.711162  1
+  H  H25  1  0.000000  0.843116  0.288838  1
+  H  H26  1  0.652784  0.500000  0.202378  1
+  H  H27  1  0.347216  0.500000  0.202378  1
+  H  H28  1  0.801636  0.354357  0.500000  1
+  H  H29  1  0.198364  0.354357  0.500000  1
+  H  H30  1  0.500000  0.788838  0.656884  1
+  H  H31  1  0.500000  0.211162  0.343116  1

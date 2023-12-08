@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ta2Ti(GaRh2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.05487800
+_cell_length_b   7.25198200
+_cell_length_c   12.15937100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00010835
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2Ti(GaRh2)3
+_chemical_formula_sum   'Ta4 Ti2 Ga6 Rh12'
+_cell_volume   357.55727527
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.999997  0.500001  0.997113  1
+  Ta  Ta1  1  0.500005  0.000000  0.165257  1
+  Ta  Ta2  1  0.000006  0.500001  0.334746  1
+  Ta  Ta3  1  0.500000  0.000000  0.502893  1
+  Ti  Ti4  1  0.999994  0.500001  0.667962  1
+  Ti  Ti5  1  0.499993  0.000000  0.832039  1
+  Ga  Ga6  1  0.999999  0.000000  0.996259  1
+  Ga  Ga7  1  0.500009  0.500001  0.165946  1
+  Ga  Ga8  1  0.000008  0.000000  0.334065  1
+  Ga  Ga9  1  0.500001  0.500001  0.503703  1
+  Ga  Ga10  1  0.999992  0.000000  0.669767  1
+  Ga  Ga11  1  0.499993  0.500001  0.830253  1
+  Rh  Rh12  1  0.500000  0.248977  0.999758  1
+  Rh  Rh13  1  0.500000  0.751023  0.999758  1
+  Rh  Rh14  1  0.000005  0.250666  0.166592  1
+  Rh  Rh15  1  0.000005  0.749334  0.166592  1
+  Rh  Rh16  1  0.500005  0.249346  0.333410  1
+  Rh  Rh17  1  0.500005  0.750654  0.333410  1
+  Rh  Rh18  1  0.000001  0.251005  0.500242  1
+  Rh  Rh19  1  0.000001  0.748995  0.500242  1
+  Rh  Rh20  1  0.499995  0.251152  0.666921  1
+  Rh  Rh21  1  0.499995  0.748848  0.666921  1
+  Rh  Rh22  1  0.999995  0.248840  0.833076  1
+  Rh  Rh23  1  0.999995  0.751160  0.833076  1

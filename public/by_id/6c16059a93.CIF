@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na2PaTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.81882459
+_cell_length_b   7.81882382
+_cell_length_c   7.94157888
+_cell_angle_alpha   99.37782334
+_cell_angle_beta   99.37781759
+_cell_angle_gamma   120.42082659
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2PaTe3
+_chemical_formula_sum   'Na4 Pa2 Te6'
+_cell_volume   395.50366259
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.000000  0.000000  0.000000  1
+  Na  Na1  1  0.842067  0.157933  0.500000  1
+  Na  Na2  1  0.500000  0.500000  0.500000  1
+  Na  Na3  1  0.157933  0.842067  0.500000  1
+  Pa  Pa4  1  0.669890  0.330110  0.000000  1
+  Pa  Pa5  1  0.330110  0.669890  0.000000  1
+  Te  Te6  1  0.726126  0.726126  0.232779  1
+  Te  Te7  1  0.430284  0.080211  0.237764  1
+  Te  Te8  1  0.080211  0.430284  0.237764  1
+  Te  Te9  1  0.919789  0.569716  0.762235  1
+  Te  Te10  1  0.569716  0.919789  0.762235  1
+  Te  Te11  1  0.273874  0.273874  0.767221  1

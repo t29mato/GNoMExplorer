@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Li2NdEuSi2Sb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.88526680
+_cell_length_b   9.88526725
+_cell_length_c   6.95277200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   153.38794991
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2NdEuSi2Sb
+_chemical_formula_sum   'Li4 Nd2 Eu2 Si4 Sb2'
+_cell_volume   304.34176677
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.185198  0.814802  0.056720  1
+  Li  Li1  1  0.185198  0.814802  0.443280  1
+  Li  Li2  1  0.814802  0.185198  0.943280  1
+  Li  Li3  1  0.814802  0.185198  0.556720  1
+  Nd  Nd4  1  0.546683  0.453317  0.250000  1
+  Nd  Nd5  1  0.453317  0.546683  0.750000  1
+  Eu  Eu6  1  0.347449  0.652551  0.250000  1
+  Eu  Eu7  1  0.652551  0.347449  0.750000  1
+  Si  Si8  1  0.055765  0.944235  0.923645  1
+  Si  Si9  1  0.944235  0.055765  0.076355  1
+  Si  Si10  1  0.944235  0.055765  0.423645  1
+  Si  Si11  1  0.055765  0.944235  0.576355  1
+  Sb  Sb12  1  0.717284  0.282716  0.250000  1
+  Sb  Sb13  1  0.282716  0.717284  0.750000  1

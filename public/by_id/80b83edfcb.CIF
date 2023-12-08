@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CeFeCoSiC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.65095668
+_cell_length_b   5.65095576
+_cell_length_c   6.73335838
+_cell_angle_alpha   89.96522684
+_cell_angle_beta   90.03477378
+_cell_angle_gamma   140.55851713
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeFeCoSiC
+_chemical_formula_sum   'Ce2 Fe2 Co2 Si2 C2'
+_cell_volume   136.59896825
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.556798  0.443202  0.251457  1
+  Ce  Ce1  1  0.443202  0.556798  0.748543  1
+  Fe  Fe2  1  0.163689  0.836311  0.557571  1
+  Fe  Fe3  1  0.836311  0.163689  0.442429  1
+  Co  Co4  1  0.836189  0.163811  0.055766  1
+  Co  Co5  1  0.163811  0.836189  0.944234  1
+  Si  Si6  1  0.275870  0.724130  0.252847  1
+  Si  Si7  1  0.724130  0.275870  0.747153  1
+  C  C8  1  0.000000  0.000000  0.000000  1
+  C  C9  1  0.000000  0.000000  0.500000  1

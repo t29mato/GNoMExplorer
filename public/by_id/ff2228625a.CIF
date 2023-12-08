@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ti7NbRe2(Si3C)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.40908219
+_cell_length_b   7.42224560
+_cell_length_c   5.16442656
+_cell_angle_alpha   89.99794046
+_cell_angle_beta   90.00102958
+_cell_angle_gamma   120.05878197
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti7NbRe2(Si3C)2
+_chemical_formula_sum   'Ti7 Nb1 Re2 Si6 C2'
+_cell_volume   245.80738271
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.665727  0.332540  0.999638  1
+  Ti  Ti1  1  0.334273  0.666813  0.999638  1
+  Ti  Ti2  1  0.767462  0.768695  0.752229  1
+  Ti  Ti3  1  0.232538  0.001234  0.752229  1
+  Ti  Ti4  1  0.000000  0.230650  0.752501  1
+  Ti  Ti5  1  0.232153  0.232765  0.246237  1
+  Ti  Ti6  1  0.767847  0.000612  0.246237  1
+  Nb  Nb7  1  0.000000  0.764959  0.246301  1
+  Re  Re8  1  0.333934  0.666790  0.500806  1
+  Re  Re9  1  0.666066  0.332855  0.500806  1
+  Si  Si10  1  0.407693  0.407848  0.736960  1
+  Si  Si11  1  0.592307  0.000156  0.736960  1
+  Si  Si12  1  0.000000  0.591222  0.739239  1
+  Si  Si13  1  0.590032  0.591746  0.264101  1
+  Si  Si14  1  0.409968  0.001714  0.264101  1
+  Si  Si15  1  0.000000  0.404364  0.261953  1
+  C  C16  1  0.000000  0.001978  0.998859  1
+  C  C17  1  0.000000  0.003059  0.501201  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na3Mg2RhO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.33927903
+_cell_length_b   5.33925918
+_cell_length_c   5.68317493
+_cell_angle_alpha   99.02546200
+_cell_angle_beta   99.02463625
+_cell_angle_gamma   120.02109957
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3Mg2RhO6
+_chemical_formula_sum   'Na3 Mg2 Rh1 O6'
+_cell_volume   133.19194362
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.831551  0.168454  0.500000  1
+  Na  Na1  1  0.500001  0.500001  0.500000  1
+  Na  Na2  1  0.168450  0.831547  0.500000  1
+  Mg  Mg3  1  0.666487  0.333503  0.000002  1
+  Mg  Mg4  1  0.333513  0.666497  0.999998  1
+  Rh  Rh5  1  0.000000  0.000000  0.000000  1
+  O  O6  1  0.386815  0.067576  0.203194  1
+  O  O7  1  0.067578  0.386819  0.203196  1
+  O  O8  1  0.748896  0.748896  0.201460  1
+  O  O9  1  0.251106  0.251106  0.798541  1
+  O  O10  1  0.932424  0.613183  0.796803  1
+  O  O11  1  0.613187  0.932426  0.796805  1

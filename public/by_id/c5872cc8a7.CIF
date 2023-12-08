@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_CoNiW4C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.99524724
+_cell_length_b   7.99854992
+_cell_length_c   7.99524700
+_cell_angle_alpha   60.01365487
+_cell_angle_beta   59.99999686
+_cell_angle_gamma   60.01364876
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoNiW4C
+_chemical_formula_sum   'Co4 Ni4 W16 C4'
+_cell_volume   361.61764987
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.240216  0.919565  0.920109  1
+  Co  Co1  1  0.920109  0.919565  0.920109  1
+  Co  Co2  1  0.920109  0.919565  0.240216  1
+  Co  Co3  1  0.330778  0.007666  0.330778  1
+  Ni  Ni4  1  0.916305  0.251085  0.916305  1
+  Ni  Ni5  1  0.333234  0.333384  0.000148  1
+  Ni  Ni6  1  0.000148  0.333384  0.333234  1
+  Ni  Ni7  1  0.333234  0.333384  0.333234  1
+  W  W8  1  0.124376  0.626874  0.124376  1
+  W  W9  1  0.127031  0.120166  0.625771  1
+  W  W10  1  0.625771  0.120166  0.127031  1
+  W  W11  1  0.127031  0.120166  0.127031  1
+  W  W12  1  0.936003  0.936839  0.563579  1
+  W  W13  1  0.690521  0.309589  0.309370  1
+  W  W14  1  0.313029  0.689150  0.684791  1
+  W  W15  1  0.684791  0.689150  0.313029  1
+  W  W16  1  0.690521  0.309589  0.690521  1
+  W  W17  1  0.313029  0.689150  0.313029  1
+  W  W18  1  0.563579  0.936839  0.563579  1
+  W  W19  1  0.563579  0.936839  0.936003  1
+  W  W20  1  0.939454  0.563270  0.557821  1
+  W  W21  1  0.939454  0.563270  0.939454  1
+  W  W22  1  0.309370  0.309589  0.690521  1
+  W  W23  1  0.557821  0.563270  0.939454  1
+  C  C24  1  0.624039  0.127884  0.624039  1
+  C  C25  1  0.625551  0.623534  0.125365  1
+  C  C26  1  0.125365  0.623534  0.625551  1
+  C  C27  1  0.625551  0.623534  0.625551  1

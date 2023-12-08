@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_SmSiNi3Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.00346107
+_cell_length_b   4.78938727
+_cell_length_c   3.98398500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   114.01767796
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmSiNi3Rh
+_chemical_formula_sum   'Sm1 Si1 Ni3 Rh1'
+_cell_volume   87.20445140
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.000000  0.000000  0.000000  1
+  Si  Si1  1  0.500000  0.500000  0.500000  1
+  Ni  Ni2  1  0.370571  0.679833  0.000000  1
+  Ni  Ni3  1  0.629429  0.320167  0.000000  1
+  Ni  Ni4  1  0.500000  0.000000  0.500000  1
+  Rh  Rh5  1  0.000000  0.500000  0.500000  1

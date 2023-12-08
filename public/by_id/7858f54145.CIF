@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Li3Dy7(Hg3C)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.86840000
+_cell_length_b   8.86839940
+_cell_length_c   5.98269300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000223
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3Dy7(Hg3C)2
+_chemical_formula_sum   'Li3 Dy7 Hg6 C2'
+_cell_volume   407.49084588
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.666667  0.333333  0.000000  1
+  Li  Li1  1  0.333333  0.666667  0.000000  1
+  Li  Li2  1  0.333333  0.666667  0.500000  1
+  Dy  Dy3  1  0.666667  0.333333  0.500000  1
+  Dy  Dy4  1  0.781572  0.782396  0.750108  1
+  Dy  Dy5  1  0.217604  0.999176  0.750108  1
+  Dy  Dy6  1  0.000824  0.218428  0.750108  1
+  Dy  Dy7  1  0.217604  0.218428  0.249892  1
+  Dy  Dy8  1  0.781572  0.999176  0.249892  1
+  Dy  Dy9  1  0.000824  0.782396  0.249892  1
+  Hg  Hg10  1  0.410986  0.416575  0.766622  1
+  Hg  Hg11  1  0.583425  0.994411  0.766622  1
+  Hg  Hg12  1  0.005589  0.589014  0.766622  1
+  Hg  Hg13  1  0.583425  0.589014  0.233378  1
+  Hg  Hg14  1  0.410986  0.994411  0.233378  1
+  Hg  Hg15  1  0.005589  0.416575  0.233378  1
+  C  C16  1  0.000000  0.000000  0.000000  1
+  C  C17  1  0.000000  0.000000  0.500000  1

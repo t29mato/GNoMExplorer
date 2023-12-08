@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ir3RhF12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.35619520
+_cell_length_b   7.35619528
+_cell_length_c   7.40906327
+_cell_angle_alpha   60.23577586
+_cell_angle_beta   60.23576623
+_cell_angle_gamma   60.00000570
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ir3RhF12
+_chemical_formula_sum   'Ir3 Rh1 F12'
+_cell_volume   284.50725600
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ir  Ir0  1  0.625000  0.125000  0.625000  1
+  Ir  Ir1  1  0.625000  0.625000  0.625000  1
+  Ir  Ir2  1  0.125000  0.625000  0.625000  1
+  Rh  Rh3  1  0.625000  0.625000  0.125000  1
+  F  F4  1  0.702517  0.295148  0.299819  1
+  F  F5  1  0.702517  0.702517  0.299819  1
+  F  F6  1  0.295148  0.702517  0.299819  1
+  F  F7  1  0.543919  0.957580  0.540922  1
+  F  F8  1  0.957580  0.957580  0.540922  1
+  F  F9  1  0.957580  0.543919  0.540922  1
+  F  F10  1  0.706081  0.292420  0.709078  1
+  F  F11  1  0.547483  0.954852  0.950181  1
+  F  F12  1  0.954852  0.547483  0.950181  1
+  F  F13  1  0.292420  0.706081  0.709078  1
+  F  F14  1  0.547483  0.547483  0.950181  1
+  F  F15  1  0.292420  0.292420  0.709078  1

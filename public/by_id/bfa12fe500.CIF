@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_NaNd(PdPt)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.44053560
+_cell_length_b   5.44053563
+_cell_length_c   5.44595000
+_cell_angle_alpha   59.96707392
+_cell_angle_beta   59.96707371
+_cell_angle_gamma   59.93412988
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaNd(PdPt)2
+_chemical_formula_sum   'Na1 Nd1 Pd2 Pt2'
+_cell_volume   113.86996837
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.999888  0.999888  0.000112  1
+  Nd  Nd1  1  0.748158  0.748158  0.751842  1
+  Pd  Pd2  1  0.876053  0.375259  0.374344  1
+  Pd  Pd3  1  0.375259  0.876053  0.374344  1
+  Pt  Pt4  1  0.375320  0.375320  0.374290  1
+  Pt  Pt5  1  0.375320  0.375320  0.875069  1

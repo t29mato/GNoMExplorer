@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_La2Ga2IrPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.50924400
+_cell_length_b   7.16898000
+_cell_length_c   7.96352200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2Ga2IrPt
+_chemical_formula_sum   'La4 Ga4 Ir2 Pt2'
+_cell_volume   257.43422777
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.250000  0.032038  0.686289  1
+  La  La1  1  0.250000  0.532038  0.813711  1
+  La  La2  1  0.750000  0.972944  0.307109  1
+  La  La3  1  0.750000  0.472944  0.192891  1
+  Ga  Ga4  1  0.250000  0.152630  0.072548  1
+  Ga  Ga5  1  0.250000  0.652630  0.427452  1
+  Ga  Ga6  1  0.750000  0.843109  0.933073  1
+  Ga  Ga7  1  0.750000  0.343109  0.566927  1
+  Ir  Ir8  1  0.250000  0.278033  0.391979  1
+  Ir  Ir9  1  0.250000  0.778033  0.108021  1
+  Pt  Pt10  1  0.750000  0.721246  0.609580  1
+  Pt  Pt11  1  0.750000  0.221246  0.890420  1

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Ho2CoRuI2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.08317900
+_cell_length_b   4.08317811
+_cell_length_c   12.31706100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999913
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2CoRuI2
+_chemical_formula_sum   'Ho2 Co1 Ru1 I2'
+_cell_volume   177.84205621
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.000000  0.000000  0.151103  1
+  Ho  Ho1  1  0.000000  0.000000  0.849948  1
+  Co  Co2  1  0.333333  0.666667  0.995277  1
+  Ru  Ru3  1  0.666667  0.333332  0.003559  1
+  I  I4  1  0.333333  0.666667  0.322244  1
+  I  I5  1  0.666667  0.333332  0.677871  1

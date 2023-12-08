@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Y4Al4CoPd3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.40273200
+_cell_length_b   6.84486848
+_cell_length_c   7.77298231
+_cell_angle_alpha   90.23522721
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y4Al4CoPd3
+_chemical_formula_sum   'Y4 Al4 Co1 Pd3'
+_cell_volume   234.24556514
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.250000  0.039828  0.326948  1
+  Y  Y1  1  0.250000  0.531509  0.179055  1
+  Y  Y2  1  0.750000  0.980595  0.679327  1
+  Y  Y3  1  0.750000  0.462595  0.813692  1
+  Al  Al4  1  0.250000  0.148815  0.931350  1
+  Al  Al5  1  0.250000  0.631965  0.562850  1
+  Al  Al6  1  0.750000  0.855870  0.060846  1
+  Al  Al7  1  0.750000  0.351243  0.445138  1
+  Co  Co8  1  0.250000  0.271495  0.619673  1
+  Pd  Pd9  1  0.250000  0.773841  0.880087  1
+  Pd  Pd10  1  0.750000  0.725609  0.380957  1
+  Pd  Pd11  1  0.750000  0.226635  0.120078  1

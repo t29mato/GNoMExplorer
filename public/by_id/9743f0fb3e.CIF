@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Pr3Th(GaIr)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.41720800
+_cell_length_b   7.09857949
+_cell_length_c   7.96585817
+_cell_angle_alpha   89.97479137
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr3Th(GaIr)4
+_chemical_formula_sum   'Pr3 Th1 Ga4 Ir4'
+_cell_volume   249.77664487
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.250000  0.524878  0.809288  1
+  Pr  Pr1  1  0.750000  0.976034  0.306675  1
+  Pr  Pr2  1  0.750000  0.473491  0.189915  1
+  Th  Th3  1  0.250000  0.026109  0.688177  1
+  Ga  Ga4  1  0.250000  0.153997  0.072261  1
+  Ga  Ga5  1  0.250000  0.655314  0.427399  1
+  Ga  Ga6  1  0.750000  0.840122  0.932956  1
+  Ga  Ga7  1  0.750000  0.351277  0.569425  1
+  Ir  Ir8  1  0.250000  0.272557  0.399875  1
+  Ir  Ir9  1  0.250000  0.774150  0.108022  1
+  Ir  Ir10  1  0.750000  0.737343  0.612121  1
+  Ir  Ir11  1  0.750000  0.214726  0.883885  1

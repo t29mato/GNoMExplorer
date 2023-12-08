@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Lu10Ga4BiIr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.84861871
+_cell_length_b   8.84861714
+_cell_length_c   8.84861856
+_cell_angle_alpha   130.24261001
+_cell_angle_beta   130.24259841
+_cell_angle_gamma   73.01922267
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu10Ga4BiIr
+_chemical_formula_sum   'Lu10 Ga4 Bi1 Ir1'
+_cell_volume   394.23319763
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.984655  0.984655  0.000000  1
+  Lu  Lu1  1  0.515345  0.515345  0.000000  1
+  Lu  Lu2  1  0.840626  0.287276  0.834022  1
+  Lu  Lu3  1  0.212724  0.659374  0.165978  1
+  Lu  Lu4  1  0.453255  0.006605  0.165978  1
+  Lu  Lu5  1  0.287276  0.453255  0.446650  1
+  Lu  Lu6  1  0.046745  0.212724  0.553350  1
+  Lu  Lu7  1  0.493395  0.046745  0.834022  1
+  Lu  Lu8  1  0.659374  0.493395  0.446650  1
+  Lu  Lu9  1  0.006605  0.840626  0.553350  1
+  Ga  Ga10  1  0.127570  0.627570  0.755140  1
+  Ga  Ga11  1  0.872430  0.372430  0.244860  1
+  Ga  Ga12  1  0.627570  0.872430  0.500000  1
+  Ga  Ga13  1  0.372430  0.127570  0.500000  1
+  Bi  Bi14  1  0.750000  0.750000  0.000000  1
+  Ir  Ir15  1  0.250000  0.250000  0.000000  1

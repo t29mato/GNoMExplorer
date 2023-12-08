@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sr4In4AgPd3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.55481400
+_cell_length_b   7.84323472
+_cell_length_c   8.82112844
+_cell_angle_alpha   90.43882113
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr4In4AgPd3
+_chemical_formula_sum   'Sr4 In4 Ag1 Pd3'
+_cell_volume   315.12094275
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.250000  0.026202  0.314427  1
+  Sr  Sr1  1  0.250000  0.531883  0.179544  1
+  Sr  Sr2  1  0.750000  0.961948  0.682873  1
+  Sr  Sr3  1  0.750000  0.474851  0.825703  1
+  In  In4  1  0.250000  0.142798  0.941695  1
+  In  In5  1  0.250000  0.653010  0.563789  1
+  In  In6  1  0.750000  0.854551  0.063898  1
+  In  In7  1  0.750000  0.358017  0.428208  1
+  Ag  Ag8  1  0.250000  0.276472  0.623814  1
+  Pd  Pd9  1  0.250000  0.777701  0.876660  1
+  Pd  Pd10  1  0.750000  0.720837  0.377376  1
+  Pd  Pd11  1  0.750000  0.221730  0.122014  1

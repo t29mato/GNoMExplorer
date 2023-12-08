@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ta5Si(B2Os5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.00294100
+_cell_length_b   9.44457200
+_cell_length_c   9.44457200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta5Si(B2Os5)2
+_chemical_formula_sum   'Ta5 Si1 B4 Os10'
+_cell_volume   267.86215781
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.000000  0.675769  0.821399  1
+  Ta  Ta1  1  0.000000  0.324231  0.178601  1
+  Ta  Ta2  1  0.000000  0.821399  0.324231  1
+  Ta  Ta3  1  0.000000  0.178601  0.675769  1
+  Ta  Ta4  1  0.000000  0.000000  0.000000  1
+  Si  Si5  1  0.000000  0.500000  0.500000  1
+  B  B6  1  0.000000  0.870190  0.616271  1
+  B  B7  1  0.000000  0.129810  0.383729  1
+  B  B8  1  0.000000  0.616271  0.129810  1
+  B  B9  1  0.000000  0.383729  0.870190  1
+  Os  Os10  1  0.500000  0.709168  0.566302  1
+  Os  Os11  1  0.500000  0.290832  0.433698  1
+  Os  Os12  1  0.500000  0.779677  0.074030  1
+  Os  Os13  1  0.500000  0.220323  0.925970  1
+  Os  Os14  1  0.500000  0.566302  0.290832  1
+  Os  Os15  1  0.500000  0.433698  0.709168  1
+  Os  Os16  1  0.500000  0.074030  0.220323  1
+  Os  Os17  1  0.500000  0.925970  0.779677  1
+  Os  Os18  1  0.500000  0.000000  0.500000  1
+  Os  Os19  1  0.500000  0.500000  0.000000  1

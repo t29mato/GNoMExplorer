@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Lu5B(OsC3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.02442476
+_cell_length_b   8.02465680
+_cell_length_c   3.41787000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   121.06066076
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu5B(OsC3)2
+_chemical_formula_sum   'Lu5 B1 Os2 C6'
+_cell_volume   188.53192603
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.334596  0.081724  0.500000  1
+  Lu  Lu1  1  0.665404  0.918276  0.500000  1
+  Lu  Lu2  1  0.081726  0.334608  0.500000  1
+  Lu  Lu3  1  0.918274  0.665392  0.500000  1
+  Lu  Lu4  1  0.500000  0.500000  0.000000  1
+  B  B5  1  0.000000  0.000000  0.000000  1
+  Os  Os6  1  0.285391  0.714614  0.000000  1
+  Os  Os7  1  0.714609  0.285386  0.000000  1
+  C  C8  1  0.185741  0.185746  0.000000  1
+  C  C9  1  0.814259  0.814254  0.000000  1
+  C  C10  1  0.372133  0.627874  0.500000  1
+  C  C11  1  0.627867  0.372126  0.500000  1
+  C  C12  1  0.500000  0.000000  0.000000  1
+  C  C13  1  0.000000  0.500000  0.000000  1

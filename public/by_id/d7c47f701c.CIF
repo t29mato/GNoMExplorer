@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_AcPr3(TeAs)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.20610800
+_cell_length_b   7.89589541
+_cell_length_c   10.41559900
+_cell_angle_alpha   89.69151958
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AcPr3(TeAs)4
+_chemical_formula_sum   'Ac1 Pr3 Te4 As4'
+_cell_volume   345.90732889
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  0.250000  0.724682  0.843181  1
+  Pr  Pr1  1  0.750000  0.274898  0.159690  1
+  Pr  Pr2  1  0.750000  0.774267  0.341665  1
+  Pr  Pr3  1  0.250000  0.226272  0.654474  1
+  Te  Te4  1  0.250000  0.588826  0.154043  1
+  Te  Te5  1  0.750000  0.393730  0.850955  1
+  Te  Te6  1  0.750000  0.915715  0.641902  1
+  Te  Te7  1  0.250000  0.092596  0.351021  1
+  As  As8  1  0.250000  0.588626  0.535334  1
+  As  As9  1  0.750000  0.407290  0.459521  1
+  As  As10  1  0.750000  0.915089  0.042808  1
+  As  As11  1  0.250000  0.098008  0.965407  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_NaPr3(SiN3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.00018912
+_cell_length_b   6.00018966
+_cell_length_c   11.72021400
+_cell_angle_alpha   90.89015490
+_cell_angle_beta   89.10984502
+_cell_angle_gamma   126.28223434
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaPr3(SiN3)2
+_chemical_formula_sum   'Na2 Pr6 Si4 N12'
+_cell_volume   340.09079850
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.046029  0.953971  0.871453  1
+  Na  Na1  1  0.953971  0.046029  0.128547  1
+  Pr  Pr2  1  0.454372  0.545628  0.344198  1
+  Pr  Pr3  1  0.545628  0.454372  0.655802  1
+  Pr  Pr4  1  0.646135  0.353865  0.075784  1
+  Pr  Pr5  1  0.353865  0.646135  0.924216  1
+  Pr  Pr6  1  0.858211  0.141789  0.578432  1
+  Pr  Pr7  1  0.141789  0.858211  0.421568  1
+  Si  Si8  1  0.739331  0.260669  0.833685  1
+  Si  Si9  1  0.260669  0.739331  0.166315  1
+  Si  Si10  1  0.764842  0.235158  0.335834  1
+  Si  Si11  1  0.235158  0.764842  0.664166  1
+  N  N12  1  0.576921  0.423079  0.861994  1
+  N  N13  1  0.423079  0.576921  0.138006  1
+  N  N14  1  0.923657  0.076343  0.371131  1
+  N  N15  1  0.076343  0.923657  0.628869  1
+  N  N16  1  0.529135  0.976949  0.742620  1
+  N  N17  1  0.976949  0.529135  0.257380  1
+  N  N18  1  0.470865  0.023051  0.257380  1
+  N  N19  1  0.023051  0.470865  0.742620  1
+  N  N20  1  0.831349  0.168651  0.950490  1
+  N  N21  1  0.168651  0.831349  0.049510  1
+  N  N22  1  0.658851  0.341149  0.456995  1
+  N  N23  1  0.341149  0.658851  0.543005  1

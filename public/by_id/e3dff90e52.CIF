@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Hf6Al16Ir(RhAu)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.78906212
+_cell_length_b   8.77992703
+_cell_length_c   8.78383701
+_cell_angle_alpha   59.83100077
+_cell_angle_beta   59.95084865
+_cell_angle_gamma   59.99518759
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf6Al16Ir(RhAu)3
+_chemical_formula_sum   'Hf6 Al16 Ir1 Rh3 Au3'
+_cell_volume   478.48467782
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.681533  0.318467  0.318467  1
+  Hf  Hf1  1  0.318467  0.681533  0.681533  1
+  Hf  Hf2  1  0.319015  0.678485  0.321515  1
+  Hf  Hf3  1  0.680985  0.321515  0.678485  1
+  Hf  Hf4  1  0.314635  0.316984  0.683016  1
+  Hf  Hf5  1  0.685365  0.683016  0.316984  1
+  Al  Al6  1  0.333333  0.341895  0.331522  1
+  Al  Al7  1  0.666667  0.658105  0.668478  1
+  Al  Al8  1  0.338504  0.339226  0.995385  1
+  Al  Al9  1  0.326885  0.995385  0.339226  1
+  Al  Al10  1  0.661496  0.660774  0.004615  1
+  Al  Al11  1  0.673115  0.004615  0.660774  1
+  Al  Al12  1  0.993250  0.331522  0.341895  1
+  Al  Al13  1  0.006750  0.668478  0.658105  1
+  Al  Al14  1  0.109296  0.113012  0.130352  1
+  Al  Al15  1  0.890704  0.886988  0.869648  1
+  Al  Al16  1  0.107902  0.127116  0.643112  1
+  Al  Al17  1  0.121870  0.643112  0.127116  1
+  Al  Al18  1  0.892098  0.872884  0.356888  1
+  Al  Al19  1  0.878130  0.356888  0.872884  1
+  Al  Al20  1  0.647339  0.130352  0.113012  1
+  Al  Al21  1  0.352661  0.869648  0.886988  1
+  Ir  Ir22  1  0.000000  0.500000  0.500000  1
+  Rh  Rh23  1  0.000000  0.000000  0.500000  1
+  Rh  Rh24  1  0.500000  0.500000  0.000000  1
+  Rh  Rh25  1  0.000000  0.000000  0.000000  1
+  Au  Au26  1  0.500000  0.000000  0.000000  1
+  Au  Au27  1  0.000000  0.500000  0.000000  1
+  Au  Au28  1  0.500000  0.000000  0.500000  1

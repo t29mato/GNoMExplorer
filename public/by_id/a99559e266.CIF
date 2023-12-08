@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ho16CdNi(HgIr)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.53647227
+_cell_length_b   9.53850278
+_cell_length_c   9.53850306
+_cell_angle_alpha   60.26080685
+_cell_angle_beta   60.23923112
+_cell_angle_gamma   60.23924017
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho16CdNi(HgIr)3
+_chemical_formula_sum   'Ho16 Cd1 Ni1 Hg3 Ir3'
+_cell_volume   616.94870890
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.599975  0.599762  0.599762  1
+  Ho  Ho1  1  0.600214  0.599641  0.199779  1
+  Ho  Ho2  1  0.600214  0.199779  0.599641  1
+  Ho  Ho3  1  0.196697  0.600927  0.600927  1
+  Ho  Ho4  1  0.060580  0.440791  0.440791  1
+  Ho  Ho5  1  0.437098  0.060230  0.060230  1
+  Ho  Ho6  1  0.439514  0.061569  0.440266  1
+  Ho  Ho7  1  0.059155  0.438610  0.059453  1
+  Ho  Ho8  1  0.439514  0.440266  0.061569  1
+  Ho  Ho9  1  0.059155  0.059453  0.438610  1
+  Ho  Ho10  1  0.188569  0.811731  0.811731  1
+  Ho  Ho11  1  0.812877  0.187378  0.187378  1
+  Ho  Ho12  1  0.810705  0.189430  0.811627  1
+  Ho  Ho13  1  0.186439  0.813650  0.187716  1
+  Ho  Ho14  1  0.810705  0.811627  0.189430  1
+  Ho  Ho15  1  0.186439  0.187716  0.813650  1
+  Cd  Cd16  1  0.508522  0.830741  0.830741  1
+  Ni  Ni17  1  0.392097  0.391699  0.391699  1
+  Hg  Hg18  1  0.833129  0.834727  0.834727  1
+  Hg  Hg19  1  0.834915  0.836868  0.493459  1
+  Hg  Hg20  1  0.834915  0.493459  0.836868  1
+  Ir  Ir21  1  0.392148  0.392963  0.824278  1
+  Ir  Ir22  1  0.392148  0.824278  0.392963  1
+  Ir  Ir23  1  0.824276  0.392706  0.392706  1

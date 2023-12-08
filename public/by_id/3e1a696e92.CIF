@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_ThPa3(CdRh2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.75355900
+_cell_length_b   7.75355912
+_cell_length_c   3.63341400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   92.50532191
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThPa3(CdRh2)2
+_chemical_formula_sum   'Th1 Pa3 Cd2 Rh4'
+_cell_volume   218.22362799
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.832253  0.667747  0.500000  1
+  Pa  Pa1  1  0.668594  0.167650  0.500000  1
+  Pa  Pa2  1  0.332350  0.831406  0.500000  1
+  Pa  Pa3  1  0.171057  0.328943  0.500000  1
+  Cd  Cd4  1  0.002022  0.998506  0.000000  1
+  Cd  Cd5  1  0.501494  0.497978  0.000000  1
+  Rh  Rh6  1  0.146441  0.631267  0.000000  1
+  Rh  Rh7  1  0.868733  0.353559  0.000000  1
+  Rh  Rh8  1  0.618534  0.881466  0.000000  1
+  Rh  Rh9  1  0.358522  0.141478  0.000000  1

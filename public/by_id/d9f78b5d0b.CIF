@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ti4Ge2(IrRh)5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.96306000
+_cell_length_b   5.45279502
+_cell_length_c   10.74765104
+_cell_angle_alpha   90.01038130
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti4Ge2(IrRh)5
+_chemical_formula_sum   'Ti4 Ge2 Ir5 Rh5'
+_cell_volume   232.25408962
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.500000  0.320170  0.140080  1
+  Ti  Ti1  1  0.500000  0.680798  0.859075  1
+  Ti  Ti2  1  0.500000  0.818621  0.359125  1
+  Ti  Ti3  1  0.500000  0.180707  0.640738  1
+  Ge  Ge4  1  0.000000  0.000645  0.000307  1
+  Ge  Ge5  1  0.000000  0.501079  0.501052  1
+  Ir  Ir6  1  0.000000  0.062668  0.248069  1
+  Ir  Ir7  1  0.000000  0.935971  0.752731  1
+  Ir  Ir8  1  0.000000  0.563498  0.251705  1
+  Ir  Ir9  1  0.000000  0.435763  0.747654  1
+  Ir  Ir10  1  0.500000  0.307507  0.388528  1
+  Rh  Rh11  1  0.000000  0.999750  0.500479  1
+  Rh  Rh12  1  0.000000  0.500954  0.999505  1
+  Rh  Rh13  1  0.500000  0.691762  0.610495  1
+  Rh  Rh14  1  0.500000  0.809565  0.110750  1
+  Rh  Rh15  1  0.500000  0.190543  0.889706  1

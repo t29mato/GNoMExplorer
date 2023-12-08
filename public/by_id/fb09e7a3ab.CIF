@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Li4Al(BRh2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.43199045
+_cell_length_b   9.43199134
+_cell_length_c   2.86612600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   126.43327998
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li4Al(BRh2)4
+_chemical_formula_sum   'Li4 Al1 B4 Rh8'
+_cell_volume   205.14196519
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.205817  0.794183  0.500000  1
+  Li  Li1  1  0.794183  0.205817  0.500000  1
+  Li  Li2  1  0.355261  0.355261  0.500000  1
+  Li  Li3  1  0.644739  0.644739  0.500000  1
+  Al  Al4  1  0.000000  0.000000  0.500000  1
+  B  B5  1  0.462745  0.153026  0.500000  1
+  B  B6  1  0.153026  0.462745  0.500000  1
+  B  B7  1  0.537255  0.846974  0.500000  1
+  B  B8  1  0.846974  0.537255  0.500000  1
+  Rh  Rh9  1  0.638736  0.361264  0.000000  1
+  Rh  Rh10  1  0.361264  0.638736  0.000000  1
+  Rh  Rh11  1  0.919746  0.736986  0.000000  1
+  Rh  Rh12  1  0.080254  0.263014  0.000000  1
+  Rh  Rh13  1  0.500000  0.000000  0.000000  1
+  Rh  Rh14  1  0.263014  0.080254  0.000000  1
+  Rh  Rh15  1  0.736986  0.919746  0.000000  1
+  Rh  Rh16  1  0.000000  0.500000  0.000000  1

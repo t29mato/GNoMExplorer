@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_HoRe3Si2Os
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.45428500
+_cell_length_b   7.41365800
+_cell_length_c   4.07062800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoRe3Si2Os
+_chemical_formula_sum   'Ho2 Re6 Si4 Os2'
+_cell_volume   224.95723036
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.499389  0.500741  0.000000  1
+  Ho  Ho1  1  0.999389  0.999259  0.500000  1
+  Re  Re2  1  0.089668  0.339340  0.000000  1
+  Re  Re3  1  0.909180  0.653407  0.000000  1
+  Re  Re4  1  0.409180  0.846593  0.500000  1
+  Re  Re5  1  0.589668  0.160660  0.500000  1
+  Re  Re6  1  0.342337  0.087382  0.000000  1
+  Re  Re7  1  0.842337  0.412618  0.500000  1
+  Si  Si8  1  0.206498  0.787853  0.000000  1
+  Si  Si9  1  0.788545  0.207822  0.000000  1
+  Si  Si10  1  0.706498  0.712147  0.500000  1
+  Si  Si11  1  0.288545  0.292178  0.500000  1
+  Os  Os12  1  0.664382  0.907787  0.000000  1
+  Os  Os13  1  0.164382  0.592213  0.500000  1

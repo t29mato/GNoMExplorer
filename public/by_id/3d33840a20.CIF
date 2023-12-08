@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Li6Mg(PaN3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.99474900
+_cell_length_b   5.99474845
+_cell_length_c   5.47414300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000855
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li6Mg(PaN3)2
+_chemical_formula_sum   'Li6 Mg1 Pa2 N6'
+_cell_volume   170.36826494
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.998445  0.662322  0.609162  1
+  Li  Li1  1  0.337678  0.336123  0.609162  1
+  Li  Li2  1  0.663877  0.001555  0.609162  1
+  Li  Li3  1  0.015714  0.345051  0.389813  1
+  Li  Li4  1  0.654949  0.670663  0.389813  1
+  Li  Li5  1  0.329337  0.984286  0.389813  1
+  Mg  Mg6  1  0.333333  0.666667  0.989667  1
+  Pa  Pa7  1  0.000000  0.000000  0.000198  1
+  Pa  Pa8  1  0.666667  0.333333  0.004162  1
+  N  N9  1  0.985023  0.667192  0.227754  1
+  N  N10  1  0.332808  0.317830  0.227754  1
+  N  N11  1  0.682170  0.014977  0.227754  1
+  N  N12  1  0.987487  0.321289  0.775262  1
+  N  N13  1  0.678711  0.666198  0.775262  1
+  N  N14  1  0.333802  0.012513  0.775262  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_CaGaIO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.16531900
+_cell_length_b   5.16532007
+_cell_length_c   5.09749200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99998673
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaGaIO6
+_chemical_formula_sum   'Ca1 Ga1 I1 O6'
+_cell_volume   117.78273333
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.666667  0.333333  0.500000  1
+  Ga  Ga1  1  0.333333  0.666667  0.000000  1
+  I  I2  1  0.000000  0.000000  0.000000  1
+  O  O3  1  0.030843  0.318802  0.787626  1
+  O  O4  1  0.287959  0.969157  0.787626  1
+  O  O5  1  0.287959  0.318802  0.212374  1
+  O  O6  1  0.681198  0.712041  0.787626  1
+  O  O7  1  0.681198  0.969157  0.212374  1
+  O  O8  1  0.030843  0.712041  0.212374  1

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LiHo(CuNi)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.00477596
+_cell_length_b   4.95210531
+_cell_length_c   4.95210500
+_cell_angle_alpha   59.74039337
+_cell_angle_beta   59.64752755
+_cell_angle_gamma   59.64753796
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiHo(CuNi)2
+_chemical_formula_sum   'Li1 Ho1 Cu2 Ni2'
+_cell_volume   86.15189037
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.250716  0.249284  0.249284  1
+  Ho  Ho1  1  0.004011  0.995989  0.995989  1
+  Cu  Cu2  1  0.622887  0.625289  0.128938  1
+  Cu  Cu3  1  0.622887  0.128938  0.625289  1
+  Ni  Ni4  1  0.126096  0.625250  0.625250  1
+  Ni  Ni5  1  0.623402  0.625250  0.625250  1

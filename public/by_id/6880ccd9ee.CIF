@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_AcMn(CoSi)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.03864100
+_cell_length_b   7.18457239
+_cell_length_c   6.98011848
+_cell_angle_alpha   90.02415565
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AcMn(CoSi)2
+_chemical_formula_sum   'Ac2 Mn2 Co4 Si4'
+_cell_volume   202.53446215
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  0.750000  0.999487  0.250015  1
+  Ac  Ac1  1  0.250000  0.000513  0.749985  1
+  Mn  Mn2  1  0.750000  0.500130  0.250120  1
+  Mn  Mn3  1  0.250000  0.499870  0.749880  1
+  Co  Co4  1  0.250000  0.625556  0.083562  1
+  Co  Co5  1  0.750000  0.374444  0.916438  1
+  Co  Co6  1  0.250000  0.374369  0.416474  1
+  Co  Co7  1  0.750000  0.625631  0.583526  1
+  Si  Si8  1  0.250000  0.306931  0.082826  1
+  Si  Si9  1  0.750000  0.693069  0.917174  1
+  Si  Si10  1  0.250000  0.693214  0.417626  1
+  Si  Si11  1  0.750000  0.306786  0.582374  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_CaTh(NiB4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.91998187
+_cell_length_b   6.91998144
+_cell_length_c   6.91998112
+_cell_angle_alpha   112.63238404
+_cell_angle_beta   112.63238097
+_cell_angle_gamma   103.31861579
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaTh(NiB4)2
+_chemical_formula_sum   'Ca2 Th2 Ni4 B16'
+_cell_volume   252.91595980
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.203070  0.203070  0.000000  1
+  Ca  Ca1  1  0.796930  0.796930  0.000000  1
+  Th  Th2  1  0.750000  0.250000  0.500000  1
+  Th  Th3  1  0.250000  0.750000  0.500000  1
+  Ni  Ni4  1  0.500000  0.273197  0.773197  1
+  Ni  Ni5  1  0.500000  0.726803  0.226803  1
+  Ni  Ni6  1  0.726803  0.500000  0.226803  1
+  Ni  Ni7  1  0.273197  0.500000  0.773197  1
+  B  B8  1  0.112550  0.277160  0.389710  1
+  B  B9  1  0.887450  0.722840  0.610290  1
+  B  B10  1  0.887450  0.277160  0.164610  1
+  B  B11  1  0.112550  0.722840  0.835390  1
+  B  B12  1  0.722840  0.887450  0.610290  1
+  B  B13  1  0.277160  0.112550  0.389710  1
+  B  B14  1  0.722840  0.112550  0.835390  1
+  B  B15  1  0.277160  0.887450  0.164610  1
+  B  B16  1  0.414872  0.414872  0.526842  1
+  B  B17  1  0.888032  0.888032  0.473158  1
+  B  B18  1  0.585128  0.111968  0.000000  1
+  B  B19  1  0.111968  0.585128  0.000000  1
+  B  B20  1  0.585128  0.585128  0.473158  1
+  B  B21  1  0.111968  0.111968  0.526842  1
+  B  B22  1  0.888032  0.414872  0.000000  1
+  B  B23  1  0.414872  0.888032  0.000000  1

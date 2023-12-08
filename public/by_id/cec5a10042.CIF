@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HoPa(ZnRh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.82433200
+_cell_length_b   7.13555188
+_cell_length_c   8.40635410
+_cell_angle_alpha   91.85882237
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoPa(ZnRh)2
+_chemical_formula_sum   'Ho2 Pa2 Zn4 Rh4'
+_cell_volume   229.27792525
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.250000  0.054430  0.314895  1
+  Ho  Ho1  1  0.750000  0.945570  0.685105  1
+  Pa  Pa2  1  0.250000  0.548918  0.190394  1
+  Pa  Pa3  1  0.750000  0.451082  0.809606  1
+  Zn  Zn4  1  0.250000  0.117003  0.937851  1
+  Zn  Zn5  1  0.750000  0.882997  0.062149  1
+  Zn  Zn6  1  0.250000  0.633723  0.558944  1
+  Zn  Zn7  1  0.750000  0.366277  0.441056  1
+  Rh  Rh8  1  0.750000  0.744729  0.356286  1
+  Rh  Rh9  1  0.250000  0.255271  0.643714  1
+  Rh  Rh10  1  0.750000  0.281628  0.121452  1
+  Rh  Rh11  1  0.250000  0.718372  0.878548  1

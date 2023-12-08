@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_La3In(SiRh3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.71120900
+_cell_length_b   5.71121091
+_cell_length_c   15.47334300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999471
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3In(SiRh3)2
+_chemical_formula_sum   'La6 In2 Si4 Rh12'
+_cell_volume   437.09019030
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.333330  0.666663  0.041466  1
+  La  La1  1  0.333329  0.666662  0.249967  1
+  La  La2  1  0.333331  0.666663  0.458505  1
+  La  La3  1  0.666668  0.333330  0.541537  1
+  La  La4  1  0.666667  0.333333  0.750033  1
+  La  La5  1  0.666662  0.333327  0.958471  1
+  In  In6  1  0.000050  0.000098  0.000047  1
+  In  In7  1  0.000010  0.999997  0.499948  1
+  Si  Si8  1  0.000013  0.999986  0.250043  1
+  Si  Si9  1  0.666654  0.333337  0.250037  1
+  Si  Si10  1  0.999993  0.999995  0.749957  1
+  Si  Si11  1  0.333336  0.666667  0.749971  1
+  Rh  Rh12  1  0.335653  0.167815  0.139738  1
+  Rh  Rh13  1  0.832157  0.167802  0.139751  1
+  Rh  Rh14  1  0.832160  0.664331  0.139737  1
+  Rh  Rh15  1  0.335622  0.167815  0.360165  1
+  Rh  Rh16  1  0.832190  0.167807  0.360155  1
+  Rh  Rh17  1  0.832179  0.664376  0.360163  1
+  Rh  Rh18  1  0.167818  0.335627  0.639836  1
+  Rh  Rh19  1  0.167813  0.832190  0.639839  1
+  Rh  Rh20  1  0.664375  0.832191  0.639834  1
+  Rh  Rh21  1  0.167820  0.335644  0.860266  1
+  Rh  Rh22  1  0.167820  0.832175  0.860267  1
+  Rh  Rh23  1  0.664349  0.832173  0.860271  1

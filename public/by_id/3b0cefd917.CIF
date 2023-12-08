@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_DyHo3(GaAu)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.11244001
+_cell_length_b   4.52667000
+_cell_length_c   7.76009101
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00606352
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyHo3(GaAu)4
+_chemical_formula_sum   'Dy1 Ho3 Ga4 Au4'
+_cell_volume   249.84131880
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.502653  0.250000  0.214801  1
+  Ho  Ho1  1  0.002680  0.250000  0.285159  1
+  Ho  Ho2  1  0.997315  0.750000  0.714844  1
+  Ho  Ho3  1  0.497345  0.750000  0.785088  1
+  Ga  Ga4  1  0.802878  0.750000  0.085388  1
+  Ga  Ga5  1  0.302771  0.750000  0.414679  1
+  Ga  Ga6  1  0.697198  0.250000  0.585483  1
+  Ga  Ga7  1  0.197143  0.250000  0.914554  1
+  Au  Au8  1  0.213761  0.750000  0.083527  1
+  Au  Au9  1  0.714064  0.750000  0.416525  1
+  Au  Au10  1  0.286001  0.250000  0.583681  1
+  Au  Au11  1  0.786194  0.250000  0.916271  1

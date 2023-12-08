@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfCo4Si4Mo3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.64037200
+_cell_length_b   6.13280923
+_cell_length_c   7.00686143
+_cell_angle_alpha   89.22814330
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfCo4Si4Mo3
+_chemical_formula_sum   'Hf1 Co4 Si4 Mo3'
+_cell_volume   156.41894097
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.750000  0.477407  0.819890  1
+  Co  Co1  1  0.250000  0.150088  0.940405  1
+  Co  Co2  1  0.250000  0.639287  0.561375  1
+  Co  Co3  1  0.750000  0.858860  0.061759  1
+  Co  Co4  1  0.750000  0.354062  0.439621  1
+  Si  Si5  1  0.250000  0.260749  0.612950  1
+  Si  Si6  1  0.250000  0.787083  0.882359  1
+  Si  Si7  1  0.750000  0.726291  0.378508  1
+  Si  Si8  1  0.750000  0.224284  0.129791  1
+  Mo  Mo9  1  0.250000  0.021963  0.323018  1
+  Mo  Mo10  1  0.250000  0.526879  0.178410  1
+  Mo  Mo11  1  0.750000  0.973047  0.671914  1

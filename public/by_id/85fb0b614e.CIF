@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ti4B2MoP
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.02908572
+_cell_length_b   6.02908555
+_cell_length_c   7.08805665
+_cell_angle_alpha   115.16957968
+_cell_angle_beta   115.16958321
+_cell_angle_gamma   89.99999301
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti4B2MoP
+_chemical_formula_sum   'Ti8 B4 Mo2 P2'
+_cell_volume   205.83665231
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.040470  0.540470  0.730923  1
+  Ti  Ti1  1  0.690452  0.190452  0.730923  1
+  Ti  Ti2  1  0.190452  0.040470  0.730923  1
+  Ti  Ti3  1  0.540470  0.690452  0.730923  1
+  Ti  Ti4  1  0.959530  0.459530  0.269077  1
+  Ti  Ti5  1  0.309548  0.809548  0.269077  1
+  Ti  Ti6  1  0.809548  0.959530  0.269077  1
+  Ti  Ti7  1  0.459530  0.309548  0.269077  1
+  B  B8  1  0.390826  0.890826  0.000000  1
+  B  B9  1  0.609174  0.109174  0.000000  1
+  B  B10  1  0.109174  0.390826  0.000000  1
+  B  B11  1  0.890826  0.609174  0.000000  1
+  Mo  Mo12  1  0.500000  0.500000  0.000000  1
+  Mo  Mo13  1  0.000000  0.000000  0.000000  1
+  P  P14  1  0.250000  0.250000  0.500000  1
+  P  P15  1  0.750000  0.750000  0.500000  1

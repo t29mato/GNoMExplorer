@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_NaRe2(Cl3O)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.78109683
+_cell_length_b   8.56634465
+_cell_length_c   8.56638089
+_cell_angle_alpha   69.89060298
+_cell_angle_beta   77.25020009
+_cell_angle_gamma   77.25014560
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaRe2(Cl3O)2
+_chemical_formula_sum   'Na1 Re2 Cl6 O2'
+_cell_volume   250.93041039
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.499993  0.500010  0.500004  1
+  Re  Re1  1  0.999959  0.141375  0.858707  1
+  Re  Re2  1  0.999966  0.858704  0.141364  1
+  Cl  Cl3  1  0.118307  0.204597  0.558789  1
+  Cl  Cl4  1  0.856499  0.143495  0.143507  1
+  Cl  Cl5  1  0.881727  0.441180  0.795365  1
+  Cl  Cl6  1  0.881738  0.795371  0.441153  1
+  Cl  Cl7  1  0.118294  0.558804  0.204607  1
+  Cl  Cl8  1  0.143509  0.856462  0.856520  1
+  O  O9  1  0.500003  0.857937  0.142057  1
+  O  O10  1  0.500004  0.142064  0.857928  1

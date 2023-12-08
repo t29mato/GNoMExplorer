@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Er3Si2GeRu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.71219896
+_cell_length_b   5.71219881
+_cell_length_c   13.80057900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   137.33867310
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er3Si2GeRu2
+_chemical_formula_sum   'Er6 Si4 Ge2 Ru4'
+_cell_volume   305.15326557
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.924378  0.075622  0.387479  1
+  Er  Er1  1  0.075622  0.924378  0.612521  1
+  Er  Er2  1  0.924378  0.075622  0.112521  1
+  Er  Er3  1  0.075622  0.924378  0.887479  1
+  Er  Er4  1  0.644911  0.355089  0.250000  1
+  Er  Er5  1  0.355089  0.644911  0.750000  1
+  Si  Si6  1  0.616387  0.383613  0.461083  1
+  Si  Si7  1  0.383613  0.616387  0.538917  1
+  Si  Si8  1  0.616387  0.383613  0.038917  1
+  Si  Si9  1  0.383613  0.616387  0.961083  1
+  Ge  Ge10  1  0.338247  0.661753  0.250000  1
+  Ge  Ge11  1  0.661753  0.338247  0.750000  1
+  Ru  Ru12  1  0.788275  0.211725  0.920151  1
+  Ru  Ru13  1  0.211725  0.788275  0.079849  1
+  Ru  Ru14  1  0.788275  0.211725  0.579849  1
+  Ru  Ru15  1  0.211725  0.788275  0.420151  1

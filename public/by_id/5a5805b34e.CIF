@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_LiPr2InSi2Ag
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.91735911
+_cell_length_b   9.91735942
+_cell_length_c   6.98613504
+_cell_angle_alpha   90.22986095
+_cell_angle_beta   89.77014045
+_cell_angle_gamma   153.21984110
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiPr2InSi2Ag
+_chemical_formula_sum   'Li2 Pr4 In2 Si4 Ag2'
+_cell_volume   309.58942889
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.177366  0.822634  0.061487  1
+  Li  Li1  1  0.822634  0.177366  0.938513  1
+  Pr  Pr2  1  0.546188  0.453812  0.251475  1
+  Pr  Pr3  1  0.453812  0.546188  0.748525  1
+  Pr  Pr4  1  0.349927  0.650073  0.249543  1
+  Pr  Pr5  1  0.650073  0.349927  0.750457  1
+  In  In6  1  0.722190  0.277810  0.244019  1
+  In  In7  1  0.277810  0.722190  0.755981  1
+  Si  Si8  1  0.944019  0.055981  0.075108  1
+  Si  Si9  1  0.055981  0.944019  0.924892  1
+  Si  Si10  1  0.055027  0.944973  0.579662  1
+  Si  Si11  1  0.944973  0.055027  0.420338  1
+  Ag  Ag12  1  0.823762  0.176238  0.563576  1
+  Ag  Ag13  1  0.176238  0.823762  0.436424  1

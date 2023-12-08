@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CsHo(SeO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.48471700
+_cell_length_b   5.48471666
+_cell_length_c   9.33946000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999923
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsHo(SeO4)2
+_chemical_formula_sum   'Cs1 Ho1 Se2 O8'
+_cell_volume   243.31048387
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.000000  0.000000  0.500001  1
+  Ho  Ho1  1  0.000000  0.000000  0.000000  1
+  Se  Se2  1  0.333334  0.666668  0.208072  1
+  Se  Se3  1  0.666666  0.333334  0.791928  1
+  O  O4  1  0.076965  0.355958  0.146287  1
+  O  O5  1  0.644043  0.721007  0.146287  1
+  O  O6  1  0.278993  0.923034  0.146287  1
+  O  O7  1  0.333334  0.666668  0.384152  1
+  O  O8  1  0.666666  0.333334  0.615848  1
+  O  O9  1  0.721006  0.076965  0.853713  1
+  O  O10  1  0.355959  0.278995  0.853713  1
+  O  O11  1  0.923033  0.644041  0.853713  1

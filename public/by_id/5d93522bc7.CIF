@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Y10Zn(GaRu2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.34356154
+_cell_length_b   8.34356114
+_cell_length_c   8.34356131
+_cell_angle_alpha   109.55067209
+_cell_angle_beta   109.55067472
+_cell_angle_gamma   109.55068085
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y10Zn(GaRu2)3
+_chemical_formula_sum   'Y10 Zn1 Ga3 Ru6'
+_cell_volume   445.80845596
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.251100  0.683277  0.433843  1
+  Y  Y1  1  0.748231  0.816748  0.066522  1
+  Y  Y2  1  0.433843  0.251100  0.683277  1
+  Y  Y3  1  0.683277  0.433843  0.251100  1
+  Y  Y4  1  0.066522  0.748231  0.816748  1
+  Y  Y5  1  0.816748  0.066522  0.748231  1
+  Y  Y6  1  0.218163  0.218163  0.218163  1
+  Y  Y7  1  0.499948  0.000417  0.282058  1
+  Y  Y8  1  0.282058  0.499948  0.000417  1
+  Y  Y9  1  0.000417  0.282058  0.499948  1
+  Zn  Zn10  1  0.586474  0.586474  0.586474  1
+  Ga  Ga11  1  0.499930  0.001148  0.912845  1
+  Ga  Ga12  1  0.912845  0.499930  0.001148  1
+  Ga  Ga13  1  0.001148  0.912845  0.499930  1
+  Ru  Ru14  1  0.249704  0.123554  0.874044  1
+  Ru  Ru15  1  0.752507  0.372574  0.626915  1
+  Ru  Ru16  1  0.874043  0.249704  0.123554  1
+  Ru  Ru17  1  0.123554  0.874043  0.249704  1
+  Ru  Ru18  1  0.626915  0.752507  0.372574  1
+  Ru  Ru19  1  0.372574  0.626915  0.752507  1

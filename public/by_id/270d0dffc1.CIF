@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Zr2TiNbAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.63673400
+_cell_length_b   7.00880800
+_cell_length_c   8.56203400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr2TiNbAs2
+_chemical_formula_sum   'Zr4 Ti2 Nb2 As4'
+_cell_volume   218.23914319
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.250000  0.041997  0.665963  1
+  Zr  Zr1  1  0.250000  0.541390  0.833407  1
+  Zr  Zr2  1  0.750000  0.458003  0.165963  1
+  Zr  Zr3  1  0.750000  0.958610  0.333407  1
+  Ti  Ti4  1  0.750000  0.868963  0.940905  1
+  Ti  Ti5  1  0.250000  0.631037  0.440905  1
+  Nb  Nb6  1  0.750000  0.367308  0.560302  1
+  Nb  Nb7  1  0.250000  0.132692  0.060302  1
+  As  As8  1  0.250000  0.258455  0.358904  1
+  As  As9  1  0.250000  0.755421  0.140520  1
+  As  As10  1  0.750000  0.744579  0.640520  1
+  As  As11  1  0.750000  0.241545  0.858904  1

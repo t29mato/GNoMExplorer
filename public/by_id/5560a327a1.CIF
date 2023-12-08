@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YPa2Ti(Al3Cu)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.30399786
+_cell_length_b   9.30399780
+_cell_length_c   9.30399811
+_cell_angle_alpha   33.60780773
+_cell_angle_beta   33.60781104
+_cell_angle_gamma   33.60780971
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YPa2Ti(Al3Cu)2
+_chemical_formula_sum   'Y1 Pa2 Ti1 Al6 Cu2'
+_cell_volume   219.80170015
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.000000  0.000000  0.000000  1
+  Pa  Pa1  1  0.849314  0.849314  0.849314  1
+  Pa  Pa2  1  0.150686  0.150686  0.150686  1
+  Ti  Ti3  1  0.500000  0.500000  0.500000  1
+  Al  Al4  1  0.421603  0.421603  0.922432  1
+  Al  Al5  1  0.922432  0.421603  0.421603  1
+  Al  Al6  1  0.421603  0.922432  0.421603  1
+  Al  Al7  1  0.578397  0.077568  0.578397  1
+  Al  Al8  1  0.077568  0.578397  0.578397  1
+  Al  Al9  1  0.578397  0.578397  0.077568  1
+  Cu  Cu10  1  0.666689  0.666689  0.666689  1
+  Cu  Cu11  1  0.333311  0.333311  0.333311  1

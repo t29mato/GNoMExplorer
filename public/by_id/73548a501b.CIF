@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CdNi(SeO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.04162164
+_cell_length_b   5.04162100
+_cell_length_c   6.95064873
+_cell_angle_alpha   89.47734569
+_cell_angle_beta   90.52265279
+_cell_angle_gamma   112.76115773
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdNi(SeO4)2
+_chemical_formula_sum   'Cd1 Ni1 Se2 O8'
+_cell_volume   162.90328019
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.000000  0.000000  0.000000  1
+  Ni  Ni1  1  0.000000  0.000000  0.500000  1
+  Se  Se2  1  0.356534  0.643466  0.733836  1
+  Se  Se3  1  0.643466  0.356534  0.266164  1
+  O  O4  1  0.230319  0.277777  0.726770  1
+  O  O5  1  0.769681  0.722223  0.273230  1
+  O  O6  1  0.277777  0.230319  0.273230  1
+  O  O7  1  0.722223  0.769681  0.726770  1
+  O  O8  1  0.269737  0.730263  0.947308  1
+  O  O9  1  0.760281  0.239719  0.458858  1
+  O  O10  1  0.730263  0.269737  0.052692  1
+  O  O11  1  0.239719  0.760281  0.541142  1

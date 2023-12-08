@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Cs2NaLuBi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.51652650
+_cell_length_b   10.51652699
+_cell_length_c   10.51652709
+_cell_angle_alpha   136.91899416
+_cell_angle_beta   62.08868570
+_cell_angle_gamma   137.53718503
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2NaLuBi2
+_chemical_formula_sum   'Cs4 Na2 Lu2 Bi4'
+_cell_volume   529.98754769
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.324113  0.777269  0.101381  1
+  Cs  Cs1  1  0.175888  0.277269  0.453157  1
+  Cs  Cs2  1  0.824112  0.722731  0.546843  1
+  Cs  Cs3  1  0.675888  0.222731  0.898620  1
+  Na  Na4  1  0.749999  0.249999  0.500000  1
+  Na  Na5  1  0.249999  0.749999  0.500000  1
+  Lu  Lu6  1  0.249999  0.249999  0.000000  1
+  Lu  Lu7  1  0.750000  0.750000  0.000000  1
+  Bi  Bi8  1  0.905762  0.223713  0.129476  1
+  Bi  Bi9  1  0.594238  0.723713  0.317951  1
+  Bi  Bi10  1  0.405762  0.276287  0.682049  1
+  Bi  Bi11  1  0.094238  0.776287  0.870523  1

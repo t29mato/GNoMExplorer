@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Tb2GaSiNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.24415800
+_cell_length_b   6.92762690
+_cell_length_c   7.21414904
+_cell_angle_alpha   91.42289238
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2GaSiNi2
+_chemical_formula_sum   'Tb4 Ga2 Si2 Ni4'
+_cell_volume   212.04459522
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.250000  0.481652  0.202604  1
+  Tb  Tb1  1  0.750000  0.518348  0.797396  1
+  Tb  Tb2  1  0.750000  0.014848  0.694334  1
+  Tb  Tb3  1  0.250000  0.985152  0.305666  1
+  Ga  Ga4  1  0.250000  0.817874  0.915911  1
+  Ga  Ga5  1  0.750000  0.182126  0.084089  1
+  Si  Si6  1  0.750000  0.686303  0.411857  1
+  Si  Si7  1  0.250000  0.313697  0.588143  1
+  Ni  Ni8  1  0.250000  0.683356  0.573965  1
+  Ni  Ni9  1  0.750000  0.316644  0.426035  1
+  Ni  Ni10  1  0.750000  0.796646  0.097456  1
+  Ni  Ni11  1  0.250000  0.203354  0.902544  1

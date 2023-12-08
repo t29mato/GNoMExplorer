@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_U2GeH4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.92862318
+_cell_length_b   5.92862301
+_cell_length_c   5.92862201
+_cell_angle_alpha   106.28505727
+_cell_angle_beta   106.28504930
+_cell_angle_gamma   116.05076591
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U2GeH4
+_chemical_formula_sum   'U4 Ge2 H8'
+_cell_volume   158.80874020
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.833271  0.666729  0.500000  1
+  U  U1  1  0.666729  0.166729  0.833459  1
+  U  U2  1  0.166729  0.333271  0.500000  1
+  U  U3  1  0.333271  0.833271  0.166541  1
+  Ge  Ge4  1  0.750000  0.750000  0.000000  1
+  Ge  Ge5  1  0.250000  0.250000  0.000000  1
+  H  H6  1  0.223465  0.974934  0.500000  1
+  H  H7  1  0.474934  0.723465  0.500000  1
+  H  H8  1  0.723465  0.223465  0.248532  1
+  H  H9  1  0.974934  0.474934  0.751468  1
+  H  H10  1  0.276535  0.776535  0.751468  1
+  H  H11  1  0.525066  0.276535  0.500000  1
+  H  H12  1  0.025066  0.525066  0.248532  1
+  H  H13  1  0.776535  0.025066  0.500000  1

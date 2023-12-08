@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Er2CoCu(Ni3B)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.96924500
+_cell_length_b   4.97085218
+_cell_length_c   6.91898469
+_cell_angle_alpha   89.95634073
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.98929857
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er2CoCu(Ni3B)2
+_chemical_formula_sum   'Er2 Co1 Cu1 Ni6 B2'
+_cell_volume   148.02699156
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.000212  0.000423  0.499460  1
+  Er  Er1  1  0.999744  0.999488  0.003835  1
+  Co  Co2  1  0.501324  0.002649  0.296755  1
+  Cu  Cu3  1  0.335132  0.670265  0.999867  1
+  Ni  Ni4  1  0.662839  0.325676  0.999960  1
+  Ni  Ni5  1  0.501523  0.501859  0.292321  1
+  Ni  Ni6  1  0.000335  0.501859  0.292321  1
+  Ni  Ni7  1  0.499799  0.999599  0.706453  1
+  Ni  Ni8  1  0.499569  0.498753  0.706417  1
+  Ni  Ni9  1  0.999183  0.498753  0.706417  1
+  B  B10  1  0.664477  0.328953  0.498260  1
+  B  B11  1  0.335862  0.671725  0.497935  1

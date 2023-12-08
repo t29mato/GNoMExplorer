@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_Mg5Si16(Pt4Rh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.93143335
+_cell_length_b   8.93143295
+_cell_length_c   8.94539145
+_cell_angle_alpha   60.04189966
+_cell_angle_beta   60.04190351
+_cell_angle_gamma   60.16951176
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg5Si16(Pt4Rh)2
+_chemical_formula_sum   'Mg5 Si16 Pt8 Rh2'
+_cell_volume   505.53986748
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.347469  0.347469  0.346619  1
+  Mg  Mg1  1  0.958734  0.347330  0.344040  1
+  Mg  Mg2  1  0.347330  0.958734  0.344040  1
+  Mg  Mg3  1  0.344797  0.344797  0.960361  1
+  Mg  Mg4  1  0.000170  0.000170  0.003720  1
+  Si  Si5  1  0.676293  0.951068  0.960407  1
+  Si  Si6  1  0.576273  0.576273  0.280685  1
+  Si  Si7  1  0.572324  0.282774  0.571874  1
+  Si  Si8  1  0.282774  0.572324  0.571874  1
+  Si  Si9  1  0.576267  0.576267  0.565638  1
+  Si  Si10  1  0.406973  0.959019  0.959622  1
+  Si  Si11  1  0.413076  0.954605  0.678053  1
+  Si  Si12  1  0.413610  0.678188  0.954508  1
+  Si  Si13  1  0.957750  0.957750  0.408395  1
+  Si  Si14  1  0.959019  0.406973  0.959622  1
+  Si  Si15  1  0.953126  0.953126  0.678541  1
+  Si  Si16  1  0.677404  0.951452  0.411422  1
+  Si  Si17  1  0.951068  0.676293  0.960407  1
+  Si  Si18  1  0.954605  0.413076  0.678053  1
+  Si  Si19  1  0.678188  0.413610  0.954508  1
+  Si  Si20  1  0.951452  0.677404  0.411422  1
+  Pt  Pt21  1  0.266441  0.266441  0.733483  1
+  Pt  Pt22  1  0.732436  0.266658  0.732766  1
+  Pt  Pt23  1  0.266658  0.732436  0.732766  1
+  Pt  Pt24  1  0.732788  0.266684  0.267306  1
+  Pt  Pt25  1  0.266684  0.732788  0.267306  1
+  Pt  Pt26  1  0.126561  0.126561  0.619249  1
+  Pt  Pt27  1  0.128909  0.617454  0.126706  1
+  Pt  Pt28  1  0.617454  0.128909  0.126706  1
+  Rh  Rh29  1  0.126421  0.126421  0.127217  1
+  Rh  Rh30  1  0.736947  0.736947  0.262682  1

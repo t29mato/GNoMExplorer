@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ce2DyMg3Ir2Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.50839441
+_cell_length_b   7.50839413
+_cell_length_c   4.01490400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   121.92863407
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2DyMg3Ir2Pt
+_chemical_formula_sum   'Ce2 Dy1 Mg3 Ir2 Pt1'
+_cell_volume   192.09998883
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.424033  0.002682  0.000000  1
+  Ce  Ce1  1  0.002682  0.424033  0.000000  1
+  Dy  Dy2  1  0.586987  0.586987  0.000000  1
+  Mg  Mg3  1  0.996508  0.758108  0.500000  1
+  Mg  Mg4  1  0.249845  0.249845  0.500000  1
+  Mg  Mg5  1  0.758108  0.996508  0.500000  1
+  Ir  Ir6  1  0.318752  0.666651  0.500000  1
+  Ir  Ir7  1  0.666651  0.318752  0.500000  1
+  Pt  Pt8  1  0.996433  0.996433  0.000000  1

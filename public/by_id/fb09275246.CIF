@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LuHf(SiW)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.57007600
+_cell_length_b   7.05521200
+_cell_length_c   8.29267500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuHf(SiW)2
+_chemical_formula_sum   'Lu2 Hf2 Si4 W4'
+_cell_volume   208.87293771
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.250000  0.541359  0.163803  1
+  Lu  Lu1  1  0.250000  0.041359  0.336197  1
+  Hf  Hf2  1  0.750000  0.457602  0.830651  1
+  Hf  Hf3  1  0.750000  0.957602  0.669349  1
+  Si  Si4  1  0.250000  0.757844  0.860446  1
+  Si  Si5  1  0.250000  0.257844  0.639554  1
+  Si  Si6  1  0.750000  0.238587  0.136331  1
+  Si  Si7  1  0.750000  0.738587  0.363669  1
+  W  W8  1  0.250000  0.631892  0.563524  1
+  W  W9  1  0.250000  0.131892  0.936476  1
+  W  W10  1  0.750000  0.372716  0.445214  1
+  W  W11  1  0.750000  0.872716  0.054786  1

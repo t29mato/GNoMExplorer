@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Li3YbFeN3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.92732183
+_cell_length_b   6.92732269
+_cell_length_c   6.92732250
+_cell_angle_alpha   48.08648090
+_cell_angle_beta   48.08647816
+_cell_angle_gamma   48.08649201
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3YbFeN3
+_chemical_formula_sum   'Li6 Yb2 Fe2 N6'
+_cell_volume   168.67921722
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.484780  0.893169  0.236117  1
+  Li  Li1  1  0.893169  0.236117  0.484780  1
+  Li  Li2  1  0.763883  0.515220  0.106831  1
+  Li  Li3  1  0.515220  0.106831  0.763883  1
+  Li  Li4  1  0.106831  0.763883  0.515220  1
+  Li  Li5  1  0.236117  0.484780  0.893169  1
+  Yb  Yb6  1  0.336885  0.336885  0.336885  1
+  Yb  Yb7  1  0.663115  0.663115  0.663115  1
+  Fe  Fe8  1  0.941434  0.941434  0.941434  1
+  Fe  Fe9  1  0.058566  0.058566  0.058566  1
+  N  N10  1  0.219171  0.907734  0.615942  1
+  N  N11  1  0.615942  0.219171  0.907734  1
+  N  N12  1  0.780829  0.092266  0.384058  1
+  N  N13  1  0.092266  0.384058  0.780829  1
+  N  N14  1  0.384058  0.780829  0.092266  1
+  N  N15  1  0.907734  0.615942  0.219171  1

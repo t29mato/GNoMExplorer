@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ba2Ca3Si6Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.21760117
+_cell_length_b   9.24457319
+_cell_length_c   4.10046200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.09684681
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Ca3Si6Ge
+_chemical_formula_sum   'Ba2 Ca3 Si6 Ge1'
+_cell_volume   302.30375997
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.334947  0.667758  0.000000  1
+  Ba  Ba1  1  0.665053  0.332810  0.000000  1
+  Ca  Ca2  1  0.000000  0.751441  0.500000  1
+  Ca  Ca3  1  0.250627  0.249535  0.500000  1
+  Ca  Ca4  1  0.749373  0.998908  0.500000  1
+  Si  Si5  1  0.000000  0.998596  0.000000  1
+  Si  Si6  1  0.000000  0.256691  0.000000  1
+  Si  Si7  1  0.739777  0.739447  0.000000  1
+  Si  Si8  1  0.260223  0.999670  0.000000  1
+  Si  Si9  1  0.594968  0.594784  0.500000  1
+  Si  Si10  1  0.405032  0.999816  0.500000  1
+  Ge  Ge11  1  0.000000  0.410544  0.500000  1

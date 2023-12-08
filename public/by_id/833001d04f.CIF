@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Y5SiNiTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.90438058
+_cell_length_b   7.90438087
+_cell_length_c   14.82493300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   150.30873040
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y5SiNiTe2
+_chemical_formula_sum   'Y10 Si2 Ni2 Te4'
+_cell_volume   458.79622238
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.964372  0.035628  0.119757  1
+  Y  Y1  1  0.035628  0.964372  0.880243  1
+  Y  Y2  1  0.035628  0.964372  0.619757  1
+  Y  Y3  1  0.964372  0.035628  0.380243  1
+  Y  Y4  1  0.743367  0.256633  0.630608  1
+  Y  Y5  1  0.256633  0.743367  0.369392  1
+  Y  Y6  1  0.256633  0.743367  0.130608  1
+  Y  Y7  1  0.743367  0.256633  0.869392  1
+  Y  Y8  1  0.606841  0.393159  0.250000  1
+  Y  Y9  1  0.393159  0.606841  0.750000  1
+  Si  Si10  1  0.412739  0.587261  0.250000  1
+  Si  Si11  1  0.587261  0.412739  0.750000  1
+  Ni  Ni12  1  0.816758  0.183242  0.250000  1
+  Ni  Ni13  1  0.183242  0.816758  0.750000  1
+  Te  Te14  1  0.614724  0.385276  0.036914  1
+  Te  Te15  1  0.385276  0.614724  0.963086  1
+  Te  Te16  1  0.385276  0.614724  0.536914  1
+  Te  Te17  1  0.614724  0.385276  0.463086  1

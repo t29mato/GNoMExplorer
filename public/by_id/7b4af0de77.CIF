@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ca2Al4Si2Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.15449356
+_cell_length_b   4.15449042
+_cell_length_c   10.38626438
+_cell_angle_alpha   101.57772689
+_cell_angle_beta   101.57759803
+_cell_angle_gamma   90.00566674
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2Al4Si2Ni
+_chemical_formula_sum   'Ca2 Al4 Si2 Ni1'
+_cell_volume   171.89195995
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.187800  0.187801  0.375099  1
+  Ca  Ca1  1  0.812202  0.812201  0.624902  1
+  Al  Al2  1  0.567040  0.066399  0.133320  1
+  Al  Al3  1  0.066399  0.567041  0.133320  1
+  Al  Al4  1  0.933602  0.432960  0.866680  1
+  Al  Al5  1  0.432960  0.933602  0.866680  1
+  Si  Si6  1  0.652411  0.652412  0.304659  1
+  Si  Si7  1  0.347590  0.347589  0.695342  1
+  Ni  Ni8  1  0.000001  0.000001  0.000000  1

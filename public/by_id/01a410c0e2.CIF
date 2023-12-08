@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BaLiYS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.11421501
+_cell_length_b   7.07400618
+_cell_length_c   10.35216900
+_cell_angle_alpha   90.00017798
+_cell_angle_beta   90.00005000
+_cell_angle_gamma   106.89931012
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaLiYS3
+_chemical_formula_sum   'Ba2 Li2 Y2 S6'
+_cell_volume   288.27879186
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.254917  0.509836  0.250000  1
+  Ba  Ba1  1  0.745076  0.490161  0.749999  1
+  Li  Li2  1  0.529268  0.058414  0.250004  1
+  Li  Li3  1  0.470726  0.941593  0.749995  1
+  Y  Y4  1  0.000002  0.999998  0.999999  1
+  Y  Y5  1  0.000003  0.999998  0.499999  1
+  S  S6  1  0.629587  0.259166  0.061194  1
+  S  S7  1  0.933935  0.867743  0.249998  1
+  S  S8  1  0.629576  0.259167  0.438803  1
+  S  S9  1  0.370415  0.740834  0.561203  1
+  S  S10  1  0.066064  0.132254  0.750003  1
+  S  S11  1  0.370412  0.740837  0.938805  1

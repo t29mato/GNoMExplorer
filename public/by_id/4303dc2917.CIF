@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_DyPu(NiH4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.63795700
+_cell_length_b   4.78093800
+_cell_length_c   6.07126049
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   107.40598864
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyPu(NiH4)2
+_chemical_formula_sum   'Dy1 Pu1 Ni2 H8'
+_cell_volume   100.76114147
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.633265  0.250001  0.766222  1
+  Pu  Pu1  1  0.368968  0.750000  0.237931  1
+  Ni  Ni2  1  0.903417  0.250001  0.309284  1
+  Ni  Ni3  1  0.098784  0.750000  0.695764  1
+  H  H4  1  0.805632  0.499114  0.111167  1
+  H  H5  1  0.805632  0.000884  0.111167  1
+  H  H6  1  0.413989  0.250001  0.328155  1
+  H  H7  1  0.999170  0.995292  0.498301  1
+  H  H8  1  0.999170  0.504708  0.498301  1
+  H  H9  1  0.585212  0.750000  0.670267  1
+  H  H10  1  0.193378  0.002557  0.886719  1
+  H  H11  1  0.193378  0.497443  0.886719  1

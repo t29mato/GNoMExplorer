@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_EuTeCl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.28356800
+_cell_length_b   7.57850486
+_cell_length_c   5.90662500
+_cell_angle_alpha   89.87913337
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuTeCl
+_chemical_formula_sum   'Eu4 Te4 Cl4'
+_cell_volume   370.79972914
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.939415  0.261420  0.248573  1
+  Eu  Eu1  1  0.439415  0.738580  0.251427  1
+  Eu  Eu2  1  0.060585  0.738580  0.751427  1
+  Eu  Eu3  1  0.560585  0.261420  0.748573  1
+  Te  Te4  1  0.750440  0.927039  0.500016  1
+  Te  Te5  1  0.250440  0.072961  0.999984  1
+  Te  Te6  1  0.249560  0.072961  0.499984  1
+  Te  Te7  1  0.749560  0.927039  0.000016  1
+  Cl  Cl8  1  0.895351  0.395253  0.749512  1
+  Cl  Cl9  1  0.395351  0.604747  0.750488  1
+  Cl  Cl10  1  0.104649  0.604747  0.250488  1
+  Cl  Cl11  1  0.604649  0.395253  0.249512  1

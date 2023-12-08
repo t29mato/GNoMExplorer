@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sr2GaHgAu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.73482200
+_cell_length_b   7.74445699
+_cell_length_c   8.51015384
+_cell_angle_alpha   87.33686681
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2GaHgAu2
+_chemical_formula_sum   'Sr4 Ga2 Hg2 Au4'
+_cell_volume   311.71861600
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.250000  0.010231  0.308158  1
+  Sr  Sr1  1  0.250000  0.522771  0.201380  1
+  Sr  Sr2  1  0.750000  0.989769  0.691842  1
+  Sr  Sr3  1  0.750000  0.477229  0.798620  1
+  Ga  Ga4  1  0.250000  0.668321  0.566964  1
+  Ga  Ga5  1  0.750000  0.331679  0.433036  1
+  Hg  Hg6  1  0.750000  0.831469  0.075899  1
+  Hg  Hg7  1  0.250000  0.168531  0.924101  1
+  Au  Au8  1  0.250000  0.762599  0.864863  1
+  Au  Au9  1  0.750000  0.237401  0.135137  1
+  Au  Au10  1  0.750000  0.698264  0.425857  1
+  Au  Au11  1  0.250000  0.301736  0.574143  1

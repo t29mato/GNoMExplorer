@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_DyHo3(Al3Ir)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.55088135
+_cell_length_b   7.55159724
+_cell_length_c   9.47349300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.52929453
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyHo3(Al3Ir)6
+_chemical_formula_sum   'Dy1 Ho3 Al18 Ir6'
+_cell_volume   470.02144751
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.994681  0.671430  0.250000  1
+  Ho  Ho1  1  0.005119  0.328733  0.750000  1
+  Ho  Ho2  1  0.671252  0.994900  0.250000  1
+  Ho  Ho3  1  0.328754  0.005134  0.750000  1
+  Al  Al4  1  0.129301  0.129484  0.250000  1
+  Al  Al5  1  0.870779  0.870866  0.750000  1
+  Al  Al6  1  0.000869  0.334958  0.073868  1
+  Al  Al7  1  0.999170  0.664840  0.925535  1
+  Al  Al8  1  0.999170  0.664840  0.574465  1
+  Al  Al9  1  0.335319  0.000998  0.426107  1
+  Al  Al10  1  0.000869  0.334958  0.426132  1
+  Al  Al11  1  0.664862  0.999176  0.574195  1
+  Al  Al12  1  0.664862  0.999176  0.925805  1
+  Al  Al13  1  0.335319  0.000998  0.073893  1
+  Al  Al14  1  0.333236  0.333228  0.551296  1
+  Al  Al15  1  0.666613  0.666754  0.449201  1
+  Al  Al16  1  0.666613  0.666754  0.050799  1
+  Al  Al17  1  0.333236  0.333228  0.948704  1
+  Al  Al18  1  0.339905  0.548756  0.250000  1
+  Al  Al19  1  0.660274  0.451121  0.750000  1
+  Al  Al20  1  0.548469  0.339307  0.250000  1
+  Al  Al21  1  0.451237  0.660390  0.750000  1
+  Ir  Ir22  1  0.671784  0.328093  0.999933  1
+  Ir  Ir23  1  0.328304  0.671835  0.999901  1
+  Ir  Ir24  1  0.328304  0.671835  0.500099  1
+  Ir  Ir25  1  0.671784  0.328093  0.500067  1
+  Ir  Ir26  1  0.999956  0.000058  0.999966  1
+  Ir  Ir27  1  0.999956  0.000058  0.500034  1

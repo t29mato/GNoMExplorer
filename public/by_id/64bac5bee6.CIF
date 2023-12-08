@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_HoEr(B2Rh3)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.60057800
+_cell_length_b   5.60057692
+_cell_length_c   8.59322100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001819
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoEr(B2Rh3)3
+_chemical_formula_sum   'Ho1 Er1 B6 Rh9'
+_cell_volume   233.42757034
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.000000  0.000000  0.295081  1
+  Er  Er1  1  0.000000  0.000000  0.705125  1
+  B  B2  1  0.666667  0.333333  0.999888  1
+  B  B3  1  0.333333  0.666667  0.999888  1
+  B  B4  1  0.666667  0.333333  0.667378  1
+  B  B5  1  0.333333  0.666667  0.667378  1
+  B  B6  1  0.333333  0.666667  0.332711  1
+  B  B7  1  0.666667  0.333333  0.332711  1
+  Rh  Rh8  1  0.500000  0.500000  0.835224  1
+  Rh  Rh9  1  0.500000  0.000000  0.835224  1
+  Rh  Rh10  1  0.000000  0.500000  0.835224  1
+  Rh  Rh11  1  0.500000  0.500000  0.164604  1
+  Rh  Rh12  1  0.500000  0.000000  0.164604  1
+  Rh  Rh13  1  0.000000  0.500000  0.164604  1
+  Rh  Rh14  1  0.500000  0.500000  0.500119  1
+  Rh  Rh15  1  0.500000  0.000000  0.500119  1
+  Rh  Rh16  1  0.000000  0.500000  0.500119  1

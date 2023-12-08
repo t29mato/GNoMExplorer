@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Lu2InHgPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.96666700
+_cell_length_b   8.05794600
+_cell_length_c   3.58820400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2InHgPt
+_chemical_formula_sum   'Lu4 In2 Hg2 Pt2'
+_cell_volume   230.34465705
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.325331  0.130509  0.500000  1
+  Lu  Lu1  1  0.825331  0.369491  0.500000  1
+  Lu  Lu2  1  0.162268  0.692834  0.500000  1
+  Lu  Lu3  1  0.662268  0.807166  0.500000  1
+  In  In4  1  0.994652  0.995510  0.000000  1
+  In  In5  1  0.494652  0.504490  0.000000  1
+  Hg  Hg6  1  0.639662  0.128714  0.000000  1
+  Hg  Hg7  1  0.139662  0.371287  0.000000  1
+  Pt  Pt8  1  0.878088  0.633562  0.000000  1
+  Pt  Pt9  1  0.378088  0.866439  0.000000  1

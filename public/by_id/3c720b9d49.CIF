@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_LiLa(InIr4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.20119000
+_cell_length_b   8.83191000
+_cell_length_c   8.83191000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiLa(InIr4)2
+_chemical_formula_sum   'Li2 La2 In4 Ir16'
+_cell_volume   405.70652122
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.500000  0.000000  0.500000  1
+  Li  Li1  1  0.500000  0.500000  0.000000  1
+  La  La2  1  0.000000  0.500000  0.500000  1
+  La  La3  1  0.000000  0.000000  0.000000  1
+  In  In4  1  0.000000  0.621005  0.121005  1
+  In  In5  1  0.000000  0.378995  0.878995  1
+  In  In6  1  0.000000  0.878995  0.621005  1
+  In  In7  1  0.000000  0.121005  0.378995  1
+  Ir  Ir8  1  0.761468  0.176014  0.676014  1
+  Ir  Ir9  1  0.761468  0.823986  0.323986  1
+  Ir  Ir10  1  0.761468  0.323986  0.176014  1
+  Ir  Ir11  1  0.761468  0.676014  0.823986  1
+  Ir  Ir12  1  0.238532  0.823986  0.323986  1
+  Ir  Ir13  1  0.238532  0.176014  0.676014  1
+  Ir  Ir14  1  0.238532  0.676014  0.823986  1
+  Ir  Ir15  1  0.238532  0.323986  0.176014  1
+  Ir  Ir16  1  0.500000  0.707632  0.567920  1
+  Ir  Ir17  1  0.500000  0.292368  0.432080  1
+  Ir  Ir18  1  0.500000  0.792368  0.067920  1
+  Ir  Ir19  1  0.500000  0.207632  0.932080  1
+  Ir  Ir20  1  0.500000  0.567920  0.292368  1
+  Ir  Ir21  1  0.500000  0.432080  0.707632  1
+  Ir  Ir22  1  0.500000  0.067920  0.207632  1
+  Ir  Ir23  1  0.500000  0.932080  0.792368  1

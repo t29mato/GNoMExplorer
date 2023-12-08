@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_TbAl8(CrCu)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.06906122
+_cell_length_b   6.73009036
+_cell_length_c   6.80108617
+_cell_angle_alpha   81.93220689
+_cell_angle_beta   68.11990257
+_cell_angle_gamma   67.87696647
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbAl8(CrCu)2
+_chemical_formula_sum   'Tb1 Al8 Cr2 Cu2'
+_cell_volume   199.45575436
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.000000  0.000000  0.000000  1
+  Al  Al1  1  0.992284  0.354788  0.660644  1
+  Al  Al2  1  0.007716  0.645212  0.339356  1
+  Al  Al3  1  0.652928  0.354788  0.339356  1
+  Al  Al4  1  0.347072  0.645212  0.660644  1
+  Al  Al5  1  0.501522  0.779831  0.217125  1
+  Al  Al6  1  0.498478  0.220169  0.782875  1
+  Al  Al7  1  0.718647  0.779831  0.782875  1
+  Al  Al8  1  0.281353  0.220169  0.217125  1
+  Cr  Cr9  1  0.500000  0.500000  0.000000  1
+  Cr  Cr10  1  0.000000  0.500000  0.000000  1
+  Cu  Cu11  1  0.000000  0.000000  0.500000  1
+  Cu  Cu12  1  0.500000  0.000000  0.500000  1

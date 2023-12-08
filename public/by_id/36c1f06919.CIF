@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ti4MnPb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.86157276
+_cell_length_b   7.86157262
+_cell_length_c   7.86157262
+_cell_angle_alpha   95.97543154
+_cell_angle_beta   95.97542678
+_cell_angle_gamma   142.35368454
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti4MnPb2
+_chemical_formula_sum   'Ti8 Mn2 Pb4'
+_cell_volume   280.89644415
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.688184  0.577654  0.265838  1
+  Ti  Ti1  1  0.311816  0.422346  0.734162  1
+  Ti  Ti2  1  0.577654  0.311816  0.889470  1
+  Ti  Ti3  1  0.077654  0.188184  0.265838  1
+  Ti  Ti4  1  0.811816  0.077654  0.889470  1
+  Ti  Ti5  1  0.422346  0.688184  0.110530  1
+  Ti  Ti6  1  0.922346  0.811816  0.734162  1
+  Ti  Ti7  1  0.188184  0.922346  0.110530  1
+  Mn  Mn8  1  0.250000  0.250000  0.000000  1
+  Mn  Mn9  1  0.750000  0.750000  0.000000  1
+  Pb  Pb10  1  0.138460  0.638460  0.776921  1
+  Pb  Pb11  1  0.361540  0.138460  0.500000  1
+  Pb  Pb12  1  0.861540  0.361540  0.223079  1
+  Pb  Pb13  1  0.638460  0.861540  0.500000  1

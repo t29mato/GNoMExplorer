@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na2Ga2SiAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.27972100
+_cell_length_b   7.27234100
+_cell_length_c   7.90157700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Ga2SiAu
+_chemical_formula_sum   'Na4 Ga4 Si2 Au2'
+_cell_volume   245.92544683
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.750000  0.490078  0.821691  1
+  Na  Na1  1  0.250000  0.008902  0.317837  1
+  Na  Na2  1  0.750000  0.990078  0.678309  1
+  Na  Na3  1  0.250000  0.508902  0.182163  1
+  Ga  Ga4  1  0.250000  0.657558  0.586869  1
+  Ga  Ga5  1  0.250000  0.157558  0.913131  1
+  Ga  Ga6  1  0.750000  0.331009  0.428377  1
+  Ga  Ga7  1  0.750000  0.831009  0.071623  1
+  Si  Si8  1  0.250000  0.805696  0.892816  1
+  Si  Si9  1  0.250000  0.305696  0.607184  1
+  Au  Au10  1  0.750000  0.706759  0.389731  1
+  Au  Au11  1  0.750000  0.206759  0.110269  1

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Na2(NpTe2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.86046950
+_cell_length_b   7.86046984
+_cell_length_c   8.46582200
+_cell_angle_alpha   81.16898699
+_cell_angle_beta   81.16898660
+_cell_angle_gamma   120.09500834
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2(NpTe2)3
+_chemical_formula_sum   'Na2 Np3 Te6'
+_cell_volume   430.63905080
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.167349  0.832651  0.500000  1
+  Na  Na1  1  0.833556  0.166444  0.500000  1
+  Np  Np2  1  0.001058  0.998942  0.000000  1
+  Np  Np3  1  0.333153  0.666847  0.000000  1
+  Np  Np4  1  0.665225  0.334775  0.000000  1
+  Te  Te5  1  0.927260  0.591087  0.217891  1
+  Te  Te6  1  0.261169  0.259558  0.217071  1
+  Te  Te7  1  0.595379  0.933504  0.216416  1
+  Te  Te8  1  0.740442  0.738831  0.782929  1
+  Te  Te9  1  0.066496  0.404621  0.783584  1
+  Te  Te10  1  0.408913  0.072740  0.782109  1

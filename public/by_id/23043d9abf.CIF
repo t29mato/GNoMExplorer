@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_PrInPd3Pb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.79598500
+_cell_length_b   10.40683200
+_cell_length_c   10.17784300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrInPd3Pb
+_chemical_formula_sum   'Pr4 In4 Pd12 Pb4'
+_cell_volume   507.98642548
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.250000  0.437459  0.730155  1
+  Pr  Pr1  1  0.250000  0.062541  0.230155  1
+  Pr  Pr2  1  0.750000  0.562541  0.269845  1
+  Pr  Pr3  1  0.750000  0.937459  0.769845  1
+  In  In4  1  0.250000  0.152960  0.891911  1
+  In  In5  1  0.250000  0.347040  0.391911  1
+  In  In6  1  0.750000  0.847040  0.108089  1
+  In  In7  1  0.750000  0.652960  0.608089  1
+  Pd  Pd8  1  0.250000  0.153524  0.617899  1
+  Pd  Pd9  1  0.250000  0.346476  0.117899  1
+  Pd  Pd10  1  0.750000  0.846476  0.382101  1
+  Pd  Pd11  1  0.750000  0.653524  0.882101  1
+  Pd  Pd12  1  0.250000  0.732470  0.746666  1
+  Pd  Pd13  1  0.250000  0.767530  0.246666  1
+  Pd  Pd14  1  0.750000  0.267530  0.253334  1
+  Pd  Pd15  1  0.750000  0.232470  0.753334  1
+  Pd  Pd16  1  0.250000  0.901415  0.977473  1
+  Pd  Pd17  1  0.250000  0.598585  0.477473  1
+  Pd  Pd18  1  0.750000  0.098585  0.022527  1
+  Pd  Pd19  1  0.750000  0.401415  0.522527  1
+  Pb  Pb20  1  0.250000  0.879384  0.519055  1
+  Pb  Pb21  1  0.250000  0.620616  0.019055  1
+  Pb  Pb22  1  0.750000  0.120616  0.480945  1
+  Pb  Pb23  1  0.750000  0.379384  0.980945  1

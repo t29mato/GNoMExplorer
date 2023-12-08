@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ca2InGa2Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.50978700
+_cell_length_b   7.34182100
+_cell_length_c   8.24120078
+_cell_angle_alpha   87.74760921
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2InGa2Pt
+_chemical_formula_sum   'Ca4 In2 Ga4 Pt2'
+_cell_volume   272.65574338
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.750000  0.999862  0.713261  1
+  Ca  Ca1  1  0.250000  0.000138  0.286739  1
+  Ca  Ca2  1  0.750000  0.503655  0.822947  1
+  Ca  Ca3  1  0.250000  0.496345  0.177053  1
+  In  In4  1  0.750000  0.682327  0.419032  1
+  In  In5  1  0.250000  0.317673  0.580968  1
+  Ga  Ga6  1  0.750000  0.831187  0.069903  1
+  Ga  Ga7  1  0.250000  0.168813  0.930097  1
+  Ga  Ga8  1  0.750000  0.284540  0.379613  1
+  Ga  Ga9  1  0.250000  0.715460  0.620387  1
+  Pt  Pt10  1  0.750000  0.198575  0.080574  1
+  Pt  Pt11  1  0.250000  0.801425  0.919426  1

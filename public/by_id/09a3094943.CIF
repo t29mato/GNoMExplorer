@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfNb(PRu)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.81140700
+_cell_length_b   6.39248000
+_cell_length_c   7.28094000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfNb(PRu)2
+_chemical_formula_sum   'Hf2 Nb2 P4 Ru4'
+_cell_volume   177.39531966
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.250000  0.023826  0.823037  1
+  Hf  Hf1  1  0.250000  0.523826  0.676963  1
+  Nb  Nb2  1  0.750000  0.977327  0.176222  1
+  Nb  Nb3  1  0.750000  0.477327  0.323778  1
+  P  P4  1  0.250000  0.272360  0.127131  1
+  P  P5  1  0.250000  0.772360  0.372869  1
+  P  P6  1  0.750000  0.730071  0.881624  1
+  P  P7  1  0.750000  0.230071  0.618376  1
+  Ru  Ru8  1  0.250000  0.147430  0.438548  1
+  Ru  Ru9  1  0.250000  0.647430  0.061452  1
+  Ru  Ru10  1  0.750000  0.848987  0.558525  1
+  Ru  Ru11  1  0.750000  0.348987  0.941475  1

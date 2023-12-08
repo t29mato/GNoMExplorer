@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_MnBeFe4(SiW2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.72631843
+_cell_length_b   4.70907112
+_cell_length_c   7.66163800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.95997454
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnBeFe4(SiW2)2
+_chemical_formula_sum   'Mn1 Be1 Fe4 Si2 W4'
+_cell_volume   147.73571829
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.654395  0.826702  0.250000  1
+  Be  Be1  1  0.827253  0.172492  0.750000  1
+  Fe  Fe2  1  0.829536  0.658563  0.750000  1
+  Fe  Fe3  1  0.342499  0.171179  0.750000  1
+  Fe  Fe4  1  0.166430  0.830352  0.250000  1
+  Fe  Fe5  1  0.167994  0.338245  0.250000  1
+  Si  Si6  1  0.999818  0.002581  0.994746  1
+  Si  Si7  1  0.999818  0.002581  0.505254  1
+  W  W8  1  0.334100  0.666909  0.932929  1
+  W  W9  1  0.672030  0.331742  0.062323  1
+  W  W10  1  0.672030  0.331742  0.437677  1
+  W  W11  1  0.334100  0.666909  0.567071  1

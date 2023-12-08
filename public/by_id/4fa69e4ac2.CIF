@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_La3Nd5(CoHg)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.79236598
+_cell_length_b   9.89635663
+_cell_length_c   9.89635691
+_cell_angle_alpha   59.30600557
+_cell_angle_beta   60.34699153
+_cell_angle_gamma   60.34699687
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3Nd5(CoHg)2
+_chemical_formula_sum   'La6 Nd10 Co4 Hg4'
+_cell_volume   677.99795330
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.593428  0.598191  0.598191  1
+  La  La1  1  0.598191  0.593428  0.210189  1
+  La  La2  1  0.598191  0.210189  0.593428  1
+  La  La3  1  0.210189  0.598191  0.598191  1
+  La  La4  1  0.063666  0.436334  0.436334  1
+  La  La5  1  0.436334  0.063666  0.063666  1
+  Nd  Nd6  1  0.441038  0.058962  0.441038  1
+  Nd  Nd7  1  0.058962  0.441038  0.058962  1
+  Nd  Nd8  1  0.441038  0.441038  0.058962  1
+  Nd  Nd9  1  0.058962  0.058962  0.441038  1
+  Nd  Nd10  1  0.185849  0.814151  0.814151  1
+  Nd  Nd11  1  0.814151  0.185849  0.185849  1
+  Nd  Nd12  1  0.811396  0.188604  0.811396  1
+  Nd  Nd13  1  0.188604  0.811396  0.188604  1
+  Nd  Nd14  1  0.811396  0.811396  0.188604  1
+  Nd  Nd15  1  0.188604  0.188604  0.811396  1
+  Co  Co16  1  0.383525  0.394005  0.394005  1
+  Co  Co17  1  0.394005  0.383525  0.828466  1
+  Co  Co18  1  0.394005  0.828466  0.383525  1
+  Co  Co19  1  0.828466  0.394005  0.394005  1
+  Hg  Hg20  1  0.834466  0.832727  0.832727  1
+  Hg  Hg21  1  0.832727  0.834466  0.500080  1
+  Hg  Hg22  1  0.832727  0.500080  0.834466  1
+  Hg  Hg23  1  0.500080  0.832727  0.832727  1

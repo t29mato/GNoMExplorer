@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Hf4Ta4Si3Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.61744000
+_cell_length_b   6.99961444
+_cell_length_c   8.48047735
+_cell_angle_alpha   89.75572716
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf4Ta4Si3Ge
+_chemical_formula_sum   'Hf4 Ta4 Si3 Ge1'
+_cell_volume   214.72954627
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.250000  0.041542  0.668396  1
+  Hf  Hf1  1  0.250000  0.541136  0.833991  1
+  Hf  Hf2  1  0.750000  0.460699  0.161944  1
+  Hf  Hf3  1  0.750000  0.952728  0.333796  1
+  Ta  Ta4  1  0.750000  0.866458  0.940505  1
+  Ta  Ta5  1  0.250000  0.636317  0.441608  1
+  Ta  Ta6  1  0.750000  0.369061  0.562693  1
+  Ta  Ta7  1  0.250000  0.132828  0.056951  1
+  Si  Si8  1  0.250000  0.755536  0.142713  1
+  Si  Si9  1  0.750000  0.745316  0.643377  1
+  Si  Si10  1  0.750000  0.244198  0.857288  1
+  Ge  Ge11  1  0.250000  0.254183  0.356739  1

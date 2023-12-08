@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_BaCe2CuS5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.77171569
+_cell_length_b   7.77171457
+_cell_length_c   8.69951126
+_cell_angle_alpha   116.53907376
+_cell_angle_beta   116.53906412
+_cell_angle_gamma   89.98226668
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCe2CuS5
+_chemical_formula_sum   'Ba2 Ce4 Cu2 S10'
+_cell_volume   407.29698833
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.250031  0.249969  0.500000  1
+  Ba  Ba1  1  0.750041  0.749959  0.500000  1
+  Ce  Ce2  1  0.339232  0.160768  0.000000  1
+  Ce  Ce3  1  0.839199  0.338871  0.999984  1
+  Ce  Ce4  1  0.161129  0.660801  0.000016  1
+  Ce  Ce5  1  0.660724  0.839276  0.000000  1
+  Cu  Cu6  1  0.749978  0.250029  0.500004  1
+  Cu  Cu7  1  0.249971  0.750022  0.499996  1
+  S  S8  1  0.999864  0.000056  0.999991  1
+  S  S9  1  0.499944  0.500136  0.000009  1
+  S  S10  1  0.782395  0.282406  0.264679  1
+  S  S11  1  0.282450  0.482347  0.264828  1
+  S  S12  1  0.982258  0.782439  0.264719  1
+  S  S13  1  0.482253  0.982277  0.264691  1
+  S  S14  1  0.517724  0.017747  0.735309  1
+  S  S15  1  0.017653  0.217550  0.735172  1
+  S  S16  1  0.717562  0.517743  0.735281  1
+  S  S17  1  0.217594  0.717606  0.735321  1

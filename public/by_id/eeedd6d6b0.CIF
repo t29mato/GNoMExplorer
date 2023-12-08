@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LaEu2(BPt2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.64494372
+_cell_length_b   5.58684634
+_cell_length_c   7.78182300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.66013450
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaEu2(BPt2)3
+_chemical_formula_sum   'La1 Eu2 B3 Pt6'
+_cell_volume   213.26298909
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.000000  0.500000  0.666667  1
+  Eu  Eu1  1  0.500000  0.500000  0.329192  1
+  Eu  Eu2  1  0.500000  0.000000  0.004141  1
+  B  B3  1  0.000000  0.500000  0.166667  1
+  B  B4  1  0.500000  0.500000  0.839023  1
+  B  B5  1  0.500000  0.000000  0.494310  1
+  Pt  Pt6  1  0.306580  0.153290  0.666667  1
+  Pt  Pt7  1  0.147034  0.850393  0.333584  1
+  Pt  Pt8  1  0.852966  0.703359  0.999749  1
+  Pt  Pt9  1  0.852966  0.149607  0.333584  1
+  Pt  Pt10  1  0.147034  0.296641  0.999749  1
+  Pt  Pt11  1  0.693420  0.846710  0.666667  1

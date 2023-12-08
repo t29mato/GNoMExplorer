@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Li4La(ThGe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.48600663
+_cell_length_b   6.92042854
+_cell_length_c   8.43032828
+_cell_angle_alpha   114.23299336
+_cell_angle_beta   105.43015590
+_cell_angle_gamma   89.99999800
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li4La(ThGe2)2
+_chemical_formula_sum   'Li4 La1 Th2 Ge4'
+_cell_volume   228.27388135
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.671107  0.985777  0.342212  1
+  Li  Li1  1  0.329246  0.017609  0.658492  1
+  Li  Li2  1  0.329246  0.640884  0.658492  1
+  Li  Li3  1  0.671107  0.356436  0.342212  1
+  La  La4  1  0.870029  0.370029  0.740059  1
+  Th  Th5  1  0.000625  0.000625  0.001249  1
+  Th  Th6  1  0.129320  0.629320  0.258639  1
+  Ge  Ge7  1  0.502426  0.693818  0.004853  1
+  Ge  Ge8  1  0.502426  0.311034  0.004853  1
+  Ge  Ge9  1  0.783827  0.783827  0.567655  1
+  Ge  Ge10  1  0.210641  0.210641  0.421283  1

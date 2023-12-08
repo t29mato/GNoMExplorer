@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Y6Sc(MnC4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.22881700
+_cell_length_b   8.22881713
+_cell_length_c   5.05041200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000243
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y6Sc(MnC4)3
+_chemical_formula_sum   'Y6 Sc1 Mn3 C12'
+_cell_volume   296.16398451
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.619251  0.680897  0.748104  1
+  Y  Y1  1  0.938355  0.619251  0.251896  1
+  Y  Y2  1  0.680897  0.061645  0.251896  1
+  Y  Y3  1  0.319103  0.938355  0.748104  1
+  Y  Y4  1  0.061645  0.380749  0.748104  1
+  Y  Y5  1  0.380749  0.319103  0.251896  1
+  Sc  Sc6  1  0.000000  0.000000  0.500000  1
+  Mn  Mn7  1  0.000000  0.000000  0.000000  1
+  Mn  Mn8  1  0.666667  0.333333  0.749198  1
+  Mn  Mn9  1  0.333333  0.666667  0.250802  1
+  C  C10  1  0.966175  0.761525  0.762996  1
+  C  C11  1  0.204650  0.966175  0.237004  1
+  C  C12  1  0.761525  0.795350  0.237004  1
+  C  C13  1  0.238475  0.204650  0.762996  1
+  C  C14  1  0.795350  0.033825  0.762996  1
+  C  C15  1  0.033825  0.238475  0.237004  1
+  C  C16  1  0.860835  0.571257  0.759647  1
+  C  C17  1  0.289578  0.860835  0.240353  1
+  C  C18  1  0.571257  0.710422  0.240353  1
+  C  C19  1  0.428743  0.289578  0.759647  1
+  C  C20  1  0.139165  0.428743  0.240353  1
+  C  C21  1  0.710422  0.139165  0.759647  1

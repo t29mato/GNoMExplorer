@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_SrPa(Si2Ni9)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.59049278
+_cell_length_b   7.59049326
+_cell_length_c   7.59049300
+_cell_angle_alpha   99.58912124
+_cell_angle_beta   99.58912186
+_cell_angle_gamma   131.82340059
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrPa(Si2Ni9)2
+_chemical_formula_sum   'Sr1 Pa1 Si4 Ni18'
+_cell_volume   297.52024966
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.500000  0.500000  0.000000  1
+  Pa  Pa1  1  0.750000  0.250000  0.500000  1
+  Si  Si2  1  0.624613  0.873906  0.750707  1
+  Si  Si3  1  0.126094  0.375387  0.249293  1
+  Si  Si4  1  0.126094  0.876801  0.750707  1
+  Si  Si5  1  0.123199  0.873906  0.249293  1
+  Ni  Ni6  1  0.250000  0.750000  0.500000  1
+  Ni  Ni7  1  0.000000  0.000000  0.000000  1
+  Ni  Ni8  1  0.688840  0.019048  0.081314  1
+  Ni  Ni9  1  0.688840  0.607527  0.669791  1
+  Ni  Ni10  1  0.260696  0.436753  0.576775  1
+  Ni  Ni11  1  0.260696  0.683920  0.823942  1
+  Ni  Ni12  1  0.937735  0.019048  0.330209  1
+  Ni  Ni13  1  0.937735  0.607527  0.918686  1
+  Ni  Ni14  1  0.859979  0.436753  0.176058  1
+  Ni  Ni15  1  0.859979  0.683920  0.423225  1
+  Ni  Ni16  1  0.563247  0.739304  0.423225  1
+  Ni  Ni17  1  0.563247  0.140021  0.823942  1
+  Ni  Ni18  1  0.980952  0.311160  0.918686  1
+  Ni  Ni19  1  0.980952  0.062265  0.669791  1
+  Ni  Ni20  1  0.316080  0.739304  0.176058  1
+  Ni  Ni21  1  0.316080  0.140021  0.576775  1
+  Ni  Ni22  1  0.392473  0.311160  0.330209  1
+  Ni  Ni23  1  0.392473  0.062265  0.081314  1

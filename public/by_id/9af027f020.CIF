@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_AlFe20(B3Mo)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.50398404
+_cell_length_b   7.50167953
+_cell_length_c   7.50295514
+_cell_angle_alpha   59.97597821
+_cell_angle_beta   59.98718223
+_cell_angle_gamma   59.98042560
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlFe20(B3Mo)2
+_chemical_formula_sum   'Al1 Fe20 B6 Mo2'
+_cell_volume   298.52625320
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.000000  0.000000  0.000000  1
+  Fe  Fe1  1  0.618409  0.618308  0.144951  1
+  Fe  Fe2  1  0.618381  0.144926  0.618312  1
+  Fe  Fe3  1  0.144906  0.618338  0.618373  1
+  Fe  Fe4  1  0.618402  0.618356  0.618314  1
+  Fe  Fe5  1  0.381591  0.381692  0.855049  1
+  Fe  Fe6  1  0.381619  0.855074  0.381688  1
+  Fe  Fe7  1  0.855094  0.381662  0.381627  1
+  Fe  Fe8  1  0.381598  0.381644  0.381686  1
+  Fe  Fe9  1  0.999996  0.000021  0.342915  1
+  Fe  Fe10  1  0.657068  0.999989  0.342944  1
+  Fe  Fe11  1  0.999970  0.657056  0.342969  1
+  Fe  Fe12  1  0.657092  0.342892  0.000021  1
+  Fe  Fe13  1  0.000026  0.342932  0.000016  1
+  Fe  Fe14  1  0.000030  0.342944  0.657031  1
+  Fe  Fe15  1  0.342908  0.657108  0.999979  1
+  Fe  Fe16  1  0.342932  0.000011  0.657056  1
+  Fe  Fe17  1  0.342868  0.000032  0.999996  1
+  Fe  Fe18  1  0.000004  0.999979  0.657085  1
+  Fe  Fe19  1  0.999974  0.657068  0.999984  1
+  Fe  Fe20  1  0.657132  0.999968  0.000004  1
+  B  B21  1  0.723332  0.723143  0.276848  1
+  B  B22  1  0.276705  0.723115  0.276913  1
+  B  B23  1  0.723246  0.276763  0.276781  1
+  B  B24  1  0.276668  0.276857  0.723152  1
+  B  B25  1  0.723295  0.276885  0.723087  1
+  B  B26  1  0.276754  0.723237  0.723219  1
+  Mo  Mo27  1  0.750113  0.749902  0.749898  1
+  Mo  Mo28  1  0.249887  0.250098  0.250102  1

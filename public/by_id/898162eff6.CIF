@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Lu5Si2PbO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.57504594
+_cell_length_b   8.57504703
+_cell_length_c   8.57504690
+_cell_angle_alpha   126.23410087
+_cell_angle_beta   126.23409591
+_cell_angle_gamma   79.50372074
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu5Si2PbO
+_chemical_formula_sum   'Lu10 Si4 Pb2 O2'
+_cell_volume   396.45776218
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.493151  0.288399  0.500000  1
+  Lu  Lu1  1  0.788399  0.993151  0.500000  1
+  Lu  Lu2  1  0.993151  0.493151  0.204752  1
+  Lu  Lu3  1  0.288399  0.788399  0.795248  1
+  Lu  Lu4  1  0.509522  0.714107  0.500000  1
+  Lu  Lu5  1  0.214107  0.009522  0.500000  1
+  Lu  Lu6  1  0.009522  0.509522  0.795415  1
+  Lu  Lu7  1  0.714107  0.214107  0.204585  1
+  Lu  Lu8  1  0.501291  0.501291  0.000000  1
+  Lu  Lu9  1  0.001291  0.001291  0.000000  1
+  Si  Si10  1  0.150554  0.351881  0.500000  1
+  Si  Si11  1  0.851881  0.650554  0.500000  1
+  Si  Si12  1  0.650554  0.150554  0.798671  1
+  Si  Si13  1  0.351881  0.851881  0.201329  1
+  Pb  Pb14  1  0.751120  0.751120  0.000000  1
+  Pb  Pb15  1  0.251120  0.251120  0.000000  1
+  O  O16  1  0.751393  0.251393  0.500000  1
+  O  O17  1  0.251393  0.751393  0.500000  1

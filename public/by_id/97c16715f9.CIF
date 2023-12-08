@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Li3ThAs6Rh7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.14822177
+_cell_length_b   7.14822289
+_cell_length_c   6.98122800
+_cell_angle_alpha   108.99865437
+_cell_angle_beta   108.99865746
+_cell_angle_gamma   109.93961431
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3ThAs6Rh7
+_chemical_formula_sum   'Li3 Th1 As6 Rh7'
+_cell_volume   276.18860150
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.500000  0.000000  0.000000  1
+  Li  Li1  1  0.000000  0.500000  0.000000  1
+  Li  Li2  1  0.500000  0.500000  0.500000  1
+  Th  Th3  1  0.000000  0.000000  0.500000  1
+  As  As4  1  0.674625  0.674625  0.977138  1
+  As  As5  1  0.325375  0.325375  0.022862  1
+  As  As6  1  0.000000  0.674625  0.697488  1
+  As  As7  1  0.000000  0.325375  0.302512  1
+  As  As8  1  0.674625  0.000000  0.697488  1
+  As  As9  1  0.325375  0.000000  0.302512  1
+  Rh  Rh10  1  0.000000  0.000000  0.000000  1
+  Rh  Rh11  1  0.251475  0.502950  0.751475  1
+  Rh  Rh12  1  0.748525  0.251475  0.500000  1
+  Rh  Rh13  1  0.502950  0.251475  0.751475  1
+  Rh  Rh14  1  0.497050  0.748525  0.248525  1
+  Rh  Rh15  1  0.748525  0.497050  0.248525  1
+  Rh  Rh16  1  0.251475  0.748525  0.500000  1

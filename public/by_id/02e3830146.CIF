@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ti3ReSi3RhW
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.79913100
+_cell_length_b   6.77421182
+_cell_length_c   3.34279100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.51667290
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3ReSi3RhW
+_chemical_formula_sum   'Ti3 Re1 Si3 Rh1 W1'
+_cell_volume   132.63780520
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.388849  0.387739  0.500000  1
+  Ti  Ti1  1  0.594582  0.016455  0.500000  1
+  Ti  Ti2  1  0.019183  0.596804  0.500000  1
+  Re  Re3  1  0.000888  0.258856  0.000000  1
+  Si  Si4  1  0.672166  0.345755  0.000000  1
+  Si  Si5  1  0.345246  0.669095  0.000000  1
+  Si  Si6  1  0.981347  0.985032  0.500000  1
+  Rh  Rh7  1  0.740088  0.740116  0.000000  1
+  W  W8  1  0.257653  0.000149  0.000000  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_DyCoTeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.05697601
+_cell_length_b   5.05661331
+_cell_length_c   9.88720302
+_cell_angle_alpha   90.01061361
+_cell_angle_beta   89.99469677
+_cell_angle_gamma   119.99757639
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyCoTeO6
+_chemical_formula_sum   'Dy2 Co2 Te2 O12'
+_cell_volume   218.96026936
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.000000  0.000000  0.000000  1
+  Dy  Dy1  1  0.000000  0.000000  0.500000  1
+  Co  Co2  1  0.333262  0.666631  0.250000  1
+  Co  Co3  1  0.666738  0.333369  0.750000  1
+  Te  Te4  1  0.333366  0.666683  0.750000  1
+  Te  Te5  1  0.666634  0.333317  0.250000  1
+  O  O6  1  0.361673  0.364981  0.140950  1
+  O  O7  1  0.634951  0.996757  0.140950  1
+  O  O8  1  0.003156  0.638173  0.140946  1
+  O  O9  1  0.638327  0.635019  0.859050  1
+  O  O10  1  0.365049  0.003243  0.859050  1
+  O  O11  1  0.996844  0.361827  0.859054  1
+  O  O12  1  0.634951  0.638193  0.359050  1
+  O  O13  1  0.361674  0.996692  0.359050  1
+  O  O14  1  0.003157  0.364984  0.359054  1
+  O  O15  1  0.365049  0.361807  0.640950  1
+  O  O16  1  0.638326  0.003308  0.640950  1
+  O  O17  1  0.996843  0.635016  0.640946  1

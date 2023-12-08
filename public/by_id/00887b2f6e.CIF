@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LuZn2PtRh2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.44490000
+_cell_length_b   5.47588136
+_cell_length_c   7.72072050
+_cell_angle_alpha   89.97713743
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuZn2PtRh2
+_chemical_formula_sum   'Lu2 Zn4 Pt2 Rh4'
+_cell_volume   187.92035362
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.750000  0.995631  0.751298  1
+  Lu  Lu1  1  0.250000  0.004369  0.248702  1
+  Zn  Zn2  1  0.250000  0.674151  0.581563  1
+  Zn  Zn3  1  0.750000  0.325849  0.418437  1
+  Zn  Zn4  1  0.750000  0.687057  0.085519  1
+  Zn  Zn5  1  0.250000  0.312943  0.914481  1
+  Pt  Pt6  1  0.250000  0.505000  0.248309  1
+  Pt  Pt7  1  0.750000  0.495000  0.751691  1
+  Rh  Rh8  1  0.250000  0.797433  0.915704  1
+  Rh  Rh9  1  0.750000  0.202567  0.084296  1
+  Rh  Rh10  1  0.750000  0.809769  0.417910  1
+  Rh  Rh11  1  0.250000  0.190231  0.582090  1

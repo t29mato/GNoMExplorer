@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Dy3Y3Lu14(Cd3Rh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.52099400
+_cell_length_b   9.52099465
+_cell_length_c   9.62633700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999080
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy3Y3Lu14(Cd3Rh)2
+_chemical_formula_sum   'Dy3 Y3 Lu14 Cd6 Rh2'
+_cell_volume   755.71204785
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.540785  0.459215  0.250005  1
+  Dy  Dy1  1  0.540785  0.081569  0.250005  1
+  Dy  Dy2  1  0.918431  0.459215  0.250005  1
+  Y  Y3  1  0.459400  0.540600  0.750006  1
+  Y  Y4  1  0.459400  0.918801  0.750006  1
+  Y  Y5  1  0.081199  0.540600  0.750006  1
+  Lu  Lu6  1  0.000000  0.000000  0.500006  1
+  Lu  Lu7  1  0.000000  0.000000  0.999984  1
+  Lu  Lu8  1  0.209498  0.790502  0.440492  1
+  Lu  Lu9  1  0.209498  0.418997  0.440492  1
+  Lu  Lu10  1  0.581003  0.790502  0.440492  1
+  Lu  Lu11  1  0.790344  0.209656  0.559143  1
+  Lu  Lu12  1  0.790344  0.580689  0.559143  1
+  Lu  Lu13  1  0.419311  0.209656  0.559143  1
+  Lu  Lu14  1  0.790328  0.209672  0.940882  1
+  Lu  Lu15  1  0.790328  0.580655  0.940882  1
+  Lu  Lu16  1  0.419345  0.209672  0.940882  1
+  Lu  Lu17  1  0.209496  0.790504  0.059495  1
+  Lu  Lu18  1  0.209496  0.418992  0.059495  1
+  Lu  Lu19  1  0.581008  0.790504  0.059495  1
+  Cd  Cd20  1  0.886689  0.113311  0.250038  1
+  Cd  Cd21  1  0.886689  0.773379  0.250038  1
+  Cd  Cd22  1  0.226621  0.113311  0.250038  1
+  Cd  Cd23  1  0.113222  0.886778  0.749943  1
+  Cd  Cd24  1  0.113222  0.226443  0.749943  1
+  Cd  Cd25  1  0.773557  0.886778  0.749943  1
+  Rh  Rh26  1  0.333333  0.666667  0.249986  1
+  Rh  Rh27  1  0.666667  0.333333  0.750013  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Hf(PaI4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.83442300
+_cell_length_b   8.37821944
+_cell_length_c   14.65515000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.08561207
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf(PaI4)3
+_chemical_formula_sum   'Hf1 Pa3 I12'
+_cell_volume   839.15728443
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.749996  0.247909  0.000000  1
+  Pa  Pa1  1  0.245097  0.752057  0.500000  1
+  Pa  Pa2  1  0.755007  0.752084  0.500000  1
+  Pa  Pa3  1  0.249996  0.247969  0.000000  1
+  I  I4  1  0.999772  0.597056  0.654381  1
+  I  I5  1  0.000822  0.063230  0.500000  1
+  I  I6  1  0.980910  0.102475  0.854412  1
+  I  I7  1  0.980910  0.102475  0.145588  1
+  I  I8  1  0.500316  0.905211  0.347416  1
+  I  I9  1  0.518964  0.393428  0.145598  1
+  I  I10  1  0.499365  0.444590  0.500000  1
+  I  I11  1  0.500316  0.905211  0.652584  1
+  I  I12  1  0.518964  0.393428  0.854402  1
+  I  I13  1  0.519355  0.954880  0.000000  1
+  I  I14  1  0.980443  0.540942  0.000000  1
+  I  I15  1  0.999772  0.597056  0.345619  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Y3Si2IrPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.62919393
+_cell_length_b   5.62919473
+_cell_length_c   13.37160000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   137.44701413
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y3Si2IrPt
+_chemical_formula_sum   'Y6 Si4 Ir2 Pt2'
+_cell_volume   286.54781228
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.777580  0.222420  0.602064  1
+  Y  Y1  1  0.515868  0.484132  0.250000  1
+  Y  Y2  1  0.222420  0.777580  0.397936  1
+  Y  Y3  1  0.777580  0.222420  0.897936  1
+  Y  Y4  1  0.484132  0.515868  0.750000  1
+  Y  Y5  1  0.222420  0.777580  0.102064  1
+  Si  Si6  1  0.062163  0.937837  0.588630  1
+  Si  Si7  1  0.062163  0.937837  0.911370  1
+  Si  Si8  1  0.937837  0.062163  0.411370  1
+  Si  Si9  1  0.937837  0.062163  0.088630  1
+  Ir  Ir10  1  0.500000  0.500000  0.000000  1
+  Ir  Ir11  1  0.500000  0.500000  0.500000  1
+  Pt  Pt12  1  0.805936  0.194064  0.250000  1
+  Pt  Pt13  1  0.194064  0.805936  0.750000  1

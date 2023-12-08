@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_CePr4Th3(Si3Pd)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.25053210
+_cell_length_b   8.26113110
+_cell_length_c   8.53813100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.84481465
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CePr4Th3(Si3Pd)4
+_chemical_formula_sum   'Ce1 Pr4 Th3 Si12 Pd4'
+_cell_volume   504.76812730
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.999968  0.999927  0.750000  1
+  Pr  Pr1  1  0.999473  0.499642  0.250000  1
+  Pr  Pr2  1  0.499627  0.999405  0.750000  1
+  Pr  Pr3  1  0.500401  0.000727  0.250000  1
+  Pr  Pr4  1  0.999989  0.000022  0.250000  1
+  Th  Th5  1  0.499846  0.500031  0.750000  1
+  Th  Th6  1  0.500023  0.499931  0.250000  1
+  Th  Th7  1  0.000242  0.500085  0.750000  1
+  Si  Si8  1  0.833924  0.166166  0.997313  1
+  Si  Si9  1  0.166117  0.833776  0.998083  1
+  Si  Si10  1  0.330643  0.165339  0.999048  1
+  Si  Si11  1  0.166117  0.833776  0.501917  1
+  Si  Si12  1  0.669383  0.834676  0.999524  1
+  Si  Si13  1  0.833924  0.166166  0.502687  1
+  Si  Si14  1  0.835522  0.670904  0.997924  1
+  Si  Si15  1  0.669383  0.834676  0.500476  1
+  Si  Si16  1  0.164525  0.329181  0.998116  1
+  Si  Si17  1  0.330643  0.165339  0.500952  1
+  Si  Si18  1  0.164525  0.329181  0.501884  1
+  Si  Si19  1  0.835522  0.670904  0.502076  1
+  Pd  Pd20  1  0.666522  0.336309  0.996598  1
+  Pd  Pd21  1  0.333581  0.663765  0.998105  1
+  Pd  Pd22  1  0.333581  0.663765  0.501895  1
+  Pd  Pd23  1  0.666522  0.336309  0.503402  1

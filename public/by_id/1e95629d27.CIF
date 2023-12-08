@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Tb2SiRh6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.00576606
+_cell_length_b   6.00576558
+_cell_length_c   6.00576600
+_cell_angle_alpha   59.99999769
+_cell_angle_beta   60.00000036
+_cell_angle_gamma   60.00000075
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2SiRh6
+_chemical_formula_sum   'Tb2 Si1 Rh6'
+_cell_volume   153.17581278
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.250000  0.250000  0.250000  1
+  Tb  Tb1  1  0.750000  0.750000  0.750000  1
+  Si  Si2  1  0.000000  0.000000  0.000000  1
+  Rh  Rh3  1  0.729313  0.270688  0.270688  1
+  Rh  Rh4  1  0.270688  0.729313  0.270688  1
+  Rh  Rh5  1  0.729312  0.729312  0.270689  1
+  Rh  Rh6  1  0.270688  0.270688  0.729313  1
+  Rh  Rh7  1  0.729312  0.270689  0.729312  1
+  Rh  Rh8  1  0.270689  0.729312  0.729312  1

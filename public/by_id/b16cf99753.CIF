@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CeThB4(OsRu)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.77816277
+_cell_length_b   6.02908012
+_cell_length_c   5.60012778
+_cell_angle_alpha   71.19459920
+_cell_angle_beta   57.35234961
+_cell_angle_gamma   51.45306261
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeThB4(OsRu)2
+_chemical_formula_sum   'Ce1 Th1 B4 Os2 Ru2'
+_cell_volume   150.67480531
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.000000  0.000000  0.000000  1
+  Th  Th1  1  0.250000  0.250000  0.250000  1
+  B  B2  1  0.317865  0.682135  0.317865  1
+  B  B3  1  0.682135  0.317865  0.682135  1
+  B  B4  1  0.564372  0.935628  0.564372  1
+  B  B5  1  0.935628  0.564372  0.935628  1
+  Os  Os6  1  0.637557  0.637557  0.362443  1
+  Os  Os7  1  0.362443  0.362443  0.637557  1
+  Ru  Ru8  1  0.612633  0.612633  0.887367  1
+  Ru  Ru9  1  0.887367  0.887367  0.612633  1

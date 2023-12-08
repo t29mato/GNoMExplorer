@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_TbTh(Mn9Si4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.04584451
+_cell_length_b   8.04584389
+_cell_length_c   8.04584380
+_cell_angle_alpha   121.58643048
+_cell_angle_beta   121.58642407
+_cell_angle_gamma   87.27350693
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbTh(Mn9Si4)2
+_chemical_formula_sum   'Tb1 Th1 Mn18 Si8'
+_cell_volume   359.02515507
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.250000  0.250000  0.000000  1
+  Th  Th1  1  0.750000  0.750000  0.000000  1
+  Mn  Mn2  1  0.704455  0.443257  0.500433  1
+  Mn  Mn3  1  0.443257  0.942825  0.738803  1
+  Mn  Mn4  1  0.204022  0.704455  0.261197  1
+  Mn  Mn5  1  0.557175  0.056743  0.261197  1
+  Mn  Mn6  1  0.942825  0.204022  0.499567  1
+  Mn  Mn7  1  0.190828  0.942342  0.133106  1
+  Mn  Mn8  1  0.809237  0.057723  0.866894  1
+  Mn  Mn9  1  0.442277  0.690763  0.133106  1
+  Mn  Mn10  1  0.557658  0.309172  0.866894  1
+  Mn  Mn11  1  0.690763  0.557658  0.248487  1
+  Mn  Mn12  1  0.309172  0.442277  0.751513  1
+  Mn  Mn13  1  0.942342  0.809237  0.751513  1
+  Mn  Mn14  1  0.295978  0.557175  0.500433  1
+  Mn  Mn15  1  0.795545  0.295978  0.738803  1
+  Mn  Mn16  1  0.000000  0.500000  0.500000  1
+  Mn  Mn17  1  0.500000  0.000000  0.500000  1
+  Mn  Mn18  1  0.057723  0.190828  0.248487  1
+  Mn  Mn19  1  0.056743  0.795545  0.499567  1
+  Si  Si20  1  0.296586  0.799708  0.852541  1
+  Si  Si21  1  0.055956  0.552834  0.852541  1
+  Si  Si22  1  0.552834  0.700292  0.496878  1
+  Si  Si23  1  0.799708  0.947166  0.503122  1
+  Si  Si24  1  0.444044  0.296586  0.496878  1
+  Si  Si25  1  0.947166  0.444044  0.147459  1
+  Si  Si26  1  0.700292  0.203414  0.147459  1
+  Si  Si27  1  0.203414  0.055956  0.503122  1

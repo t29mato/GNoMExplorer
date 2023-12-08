@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Tl3Cu(Ir2O7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.32226567
+_cell_length_b   7.32226466
+_cell_length_c   7.22717500
+_cell_angle_alpha   59.56379668
+_cell_angle_beta   59.56380130
+_cell_angle_gamma   60.00000146
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl3Cu(Ir2O7)2
+_chemical_formula_sum   'Tl3 Cu1 Ir4 O14'
+_cell_volume   272.17574088
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.625000  0.125000  0.125000  1
+  Tl  Tl1  1  0.125000  0.625000  0.125000  1
+  Tl  Tl2  1  0.125000  0.125000  0.125000  1
+  Cu  Cu3  1  0.125000  0.125000  0.625000  1
+  Ir  Ir4  1  0.125000  0.625000  0.625000  1
+  Ir  Ir5  1  0.625000  0.125000  0.625000  1
+  Ir  Ir6  1  0.625000  0.625000  0.125000  1
+  Ir  Ir7  1  0.625000  0.625000  0.625000  1
+  O  O8  1  0.704319  0.704319  0.293737  1
+  O  O9  1  0.303763  0.303763  0.699760  1
+  O  O10  1  0.692715  0.303763  0.699760  1
+  O  O11  1  0.297624  0.704319  0.293737  1
+  O  O12  1  0.303763  0.692715  0.699760  1
+  O  O13  1  0.704319  0.297624  0.293737  1
+  O  O14  1  0.545681  0.545681  0.956263  1
+  O  O15  1  0.946237  0.946237  0.550240  1
+  O  O16  1  0.557285  0.946237  0.550240  1
+  O  O17  1  0.952376  0.545681  0.956263  1
+  O  O18  1  0.946237  0.557285  0.550240  1
+  O  O19  1  0.545681  0.952376  0.956263  1
+  O  O20  1  0.231434  0.231434  0.305700  1
+  O  O21  1  0.018566  0.018566  0.944300  1

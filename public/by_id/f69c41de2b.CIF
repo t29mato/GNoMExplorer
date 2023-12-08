@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CeThRe3Os
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.29067000
+_cell_length_b   5.29067033
+_cell_length_c   9.60799400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999796
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeThRe3Os
+_chemical_formula_sum   'Ce2 Th2 Re6 Os2'
+_cell_volume   232.90817803
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.666667  0.333333  0.942944  1
+  Ce  Ce1  1  0.333333  0.666667  0.057056  1
+  Th  Th2  1  0.333333  0.666667  0.436418  1
+  Th  Th3  1  0.666667  0.333333  0.563582  1
+  Re  Re4  1  0.830849  0.169151  0.247307  1
+  Re  Re5  1  0.830849  0.661699  0.247307  1
+  Re  Re6  1  0.338301  0.169151  0.247307  1
+  Re  Re7  1  0.169151  0.830849  0.752693  1
+  Re  Re8  1  0.169151  0.338301  0.752693  1
+  Re  Re9  1  0.661699  0.830849  0.752693  1
+  Os  Os10  1  0.000000  0.000000  0.500000  1
+  Os  Os11  1  0.000000  0.000000  0.000000  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_ThNiOs2C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.96233701
+_cell_length_b   5.62132420
+_cell_length_c   7.56939600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   69.37079971
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThNiOs2C
+_chemical_formula_sum   'Th2 Ni2 Os4 C2'
+_cell_volume   157.78709637
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.963191  0.073434  0.250001  1
+  Th  Th1  1  0.036810  0.926567  0.750000  1
+  Ni  Ni2  1  0.235830  0.525065  0.250001  1
+  Ni  Ni3  1  0.764171  0.474934  0.750000  1
+  Os  Os4  1  0.674566  0.647613  0.058852  1
+  Os  Os5  1  0.674566  0.647613  0.441148  1
+  Os  Os6  1  0.325435  0.352387  0.558852  1
+  Os  Os7  1  0.325435  0.352387  0.941149  1
+  C  C8  1  0.500001  0.000000  0.000000  1
+  C  C9  1  0.500001  0.000000  0.500000  1

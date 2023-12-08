@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ce3Dy5(HgRu)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.54996673
+_cell_length_b   9.66768558
+_cell_length_c   9.66768613
+_cell_angle_alpha   59.19602849
+_cell_angle_beta   60.40198697
+_cell_angle_gamma   60.40198520
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce3Dy5(HgRu)2
+_chemical_formula_sum   'Ce6 Dy10 Hg4 Ru4'
+_cell_volume   630.96412124
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.594577  0.600720  0.600720  1
+  Ce  Ce1  1  0.600720  0.594577  0.203983  1
+  Ce  Ce2  1  0.600720  0.203983  0.594577  1
+  Ce  Ce3  1  0.203983  0.600720  0.600720  1
+  Ce  Ce4  1  0.064482  0.435518  0.435518  1
+  Ce  Ce5  1  0.435518  0.064482  0.064482  1
+  Dy  Dy6  1  0.441402  0.058598  0.441402  1
+  Dy  Dy7  1  0.058598  0.441402  0.058598  1
+  Dy  Dy8  1  0.441402  0.441402  0.058598  1
+  Dy  Dy9  1  0.058598  0.058598  0.441402  1
+  Dy  Dy10  1  0.183467  0.816533  0.816533  1
+  Dy  Dy11  1  0.816533  0.183467  0.183467  1
+  Dy  Dy12  1  0.810759  0.189241  0.810759  1
+  Dy  Dy13  1  0.189241  0.810759  0.189241  1
+  Dy  Dy14  1  0.810759  0.810759  0.189241  1
+  Dy  Dy15  1  0.189241  0.189241  0.810759  1
+  Hg  Hg16  1  0.836740  0.834635  0.834635  1
+  Hg  Hg17  1  0.834635  0.836740  0.493990  1
+  Hg  Hg18  1  0.834635  0.493990  0.836740  1
+  Hg  Hg19  1  0.493990  0.834635  0.834635  1
+  Ru  Ru20  1  0.362940  0.404024  0.404024  1
+  Ru  Ru21  1  0.404024  0.362940  0.829014  1
+  Ru  Ru22  1  0.404024  0.829014  0.362940  1
+  Ru  Ru23  1  0.829014  0.404024  0.404024  1

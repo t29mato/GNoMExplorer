@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_SmFeCo(B2Ru)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.26888574
+_cell_length_b   7.25077087
+_cell_length_c   3.91122600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.34447063
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmFeCo(B2Ru)2
+_chemical_formula_sum   'Sm2 Fe2 Co2 B8 Ru4'
+_cell_volume   206.13753827
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.000000  0.000000  0.915671  1
+  Sm  Sm1  1  0.500000  0.500000  0.413817  1
+  Fe  Fe2  1  0.115456  0.381305  0.621450  1
+  Fe  Fe3  1  0.884544  0.618695  0.621450  1
+  Co  Co4  1  0.120308  0.616078  0.122605  1
+  Co  Co5  1  0.879692  0.383922  0.122605  1
+  B  B6  1  0.817416  0.660399  0.120440  1
+  B  B7  1  0.182584  0.339601  0.120440  1
+  B  B8  1  0.842152  0.318881  0.620445  1
+  B  B9  1  0.157848  0.681119  0.620445  1
+  B  B10  1  0.729089  0.824580  0.402684  1
+  B  B11  1  0.270911  0.175420  0.402684  1
+  B  B12  1  0.674195  0.227928  0.901824  1
+  B  B13  1  0.325805  0.772072  0.901824  1
+  Ru  Ru14  1  0.391203  0.157547  0.897985  1
+  Ru  Ru15  1  0.608797  0.842453  0.897985  1
+  Ru  Ru16  1  0.341476  0.890517  0.397824  1
+  Ru  Ru17  1  0.658524  0.109483  0.397824  1

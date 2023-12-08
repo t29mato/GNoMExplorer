@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_AcU(ZnIr)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.96990800
+_cell_length_b   7.57210134
+_cell_length_c   8.46821609
+_cell_angle_alpha   93.24051967
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AcU(ZnIr)2
+_chemical_formula_sum   'Ac2 U2 Zn4 Ir4'
+_cell_volume   254.15216612
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  0.250000  0.452505  0.198825  1
+  Ac  Ac1  1  0.750000  0.547495  0.801175  1
+  U  U2  1  0.250000  0.959099  0.307380  1
+  U  U3  1  0.750000  0.040901  0.692620  1
+  Zn  Zn4  1  0.250000  0.879134  0.942994  1
+  Zn  Zn5  1  0.750000  0.120866  0.057006  1
+  Zn  Zn6  1  0.250000  0.321928  0.559645  1
+  Zn  Zn7  1  0.750000  0.678072  0.440355  1
+  Ir  Ir8  1  0.750000  0.776584  0.146850  1
+  Ir  Ir9  1  0.250000  0.223416  0.853150  1
+  Ir  Ir10  1  0.750000  0.199765  0.379450  1
+  Ir  Ir11  1  0.250000  0.800235  0.620550  1

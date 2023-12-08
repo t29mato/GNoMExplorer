@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TbPa(SiNi)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.16781500
+_cell_length_b   7.02197625
+_cell_length_c   7.07053070
+_cell_angle_alpha   89.71095247
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbPa(SiNi)2
+_chemical_formula_sum   'Tb2 Pa2 Si4 Ni4'
+_cell_volume   206.92562491
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.750000  0.010522  0.703790  1
+  Tb  Tb1  1  0.250000  0.989478  0.296210  1
+  Pa  Pa2  1  0.250000  0.488073  0.198315  1
+  Pa  Pa3  1  0.750000  0.511927  0.801685  1
+  Si  Si4  1  0.250000  0.801603  0.909653  1
+  Si  Si5  1  0.750000  0.198397  0.090347  1
+  Si  Si6  1  0.750000  0.691615  0.407846  1
+  Si  Si7  1  0.250000  0.308385  0.592154  1
+  Ni  Ni8  1  0.250000  0.683235  0.582679  1
+  Ni  Ni9  1  0.750000  0.316765  0.417321  1
+  Ni  Ni10  1  0.750000  0.799247  0.078355  1
+  Ni  Ni11  1  0.250000  0.200753  0.921645  1

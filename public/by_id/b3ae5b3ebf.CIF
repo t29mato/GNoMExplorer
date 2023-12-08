@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Ti6Co15Si7Ir
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.86955412
+_cell_length_b   7.86955392
+_cell_length_c   7.90691819
+_cell_angle_alpha   60.15618973
+_cell_angle_beta   60.15618953
+_cell_angle_gamma   60.00000148
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti6Co15Si7Ir
+_chemical_formula_sum   'Ti6 Co15 Si7 Ir1'
+_cell_volume   347.06734637
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.200744  0.801676  0.796838  1
+  Ti  Ti1  1  0.802433  0.802433  0.199668  1
+  Ti  Ti2  1  0.802433  0.195464  0.199668  1
+  Ti  Ti3  1  0.200744  0.200744  0.796838  1
+  Ti  Ti4  1  0.801676  0.200744  0.796838  1
+  Ti  Ti5  1  0.195464  0.802433  0.199668  1
+  Co  Co6  1  0.166523  0.498846  0.168106  1
+  Co  Co7  1  0.858420  0.378126  0.385329  1
+  Co  Co8  1  0.494295  0.837513  0.830682  1
+  Co  Co9  1  0.498846  0.166523  0.168106  1
+  Co  Co10  1  0.833328  0.833328  0.500017  1
+  Co  Co11  1  0.167478  0.167478  0.497565  1
+  Co  Co12  1  0.141161  0.619507  0.619823  1
+  Co  Co13  1  0.166523  0.166523  0.168106  1
+  Co  Co14  1  0.379439  0.379439  0.861682  1
+  Co  Co15  1  0.619507  0.619507  0.619823  1
+  Co  Co16  1  0.378126  0.858420  0.385329  1
+  Co  Co17  1  0.378126  0.378126  0.385329  1
+  Co  Co18  1  0.837513  0.837513  0.830682  1
+  Co  Co19  1  0.619507  0.141161  0.619823  1
+  Co  Co20  1  0.837513  0.494295  0.830682  1
+  Si  Si21  1  0.501677  0.000144  0.498035  1
+  Si  Si22  1  0.499428  0.499428  0.994071  1
+  Si  Si23  1  0.494899  0.494899  0.515303  1
+  Si  Si24  1  0.000144  0.000144  0.498035  1
+  Si  Si25  1  0.007073  0.499428  0.994071  1
+  Si  Si26  1  0.000144  0.501677  0.498035  1
+  Si  Si27  1  0.499428  0.007073  0.994071  1
+  Ir  Ir28  1  0.617408  0.617408  0.147774  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfZr3V4(SiP)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.51160500
+_cell_length_b   6.73626099
+_cell_length_c   8.03608318
+_cell_angle_alpha   90.06200326
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfZr3V4(SiP)2
+_chemical_formula_sum   'Hf1 Zr3 V4 Si2 P2'
+_cell_volume   190.09414148
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.750000  0.455845  0.334066  1
+  Zr  Zr1  1  0.250000  0.040244  0.828957  1
+  Zr  Zr2  1  0.250000  0.540011  0.670291  1
+  Zr  Zr3  1  0.750000  0.956071  0.166087  1
+  V  V4  1  0.250000  0.129337  0.445919  1
+  V  V5  1  0.250000  0.627938  0.054142  1
+  V  V6  1  0.750000  0.874390  0.561392  1
+  V  V7  1  0.750000  0.374992  0.938988  1
+  Si  Si8  1  0.250000  0.760194  0.364943  1
+  Si  Si9  1  0.250000  0.262038  0.135754  1
+  P  P10  1  0.750000  0.239499  0.635800  1
+  P  P11  1  0.750000  0.739443  0.863660  1

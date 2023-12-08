@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Lu5Mg(InRh2)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.66117900
+_cell_length_b   6.49790800
+_cell_length_c   13.88735301
+_cell_angle_alpha   90.00177352
+_cell_angle_beta   89.99606939
+_cell_angle_gamma   90.00188119
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu5Mg(InRh2)6
+_chemical_formula_sum   'Lu5 Mg1 In6 Rh12'
+_cell_volume   420.61892922
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.999944  0.999980  0.997611  1
+  Lu  Lu1  1  0.499840  0.499996  0.165185  1
+  Lu  Lu2  1  0.999840  0.000031  0.333341  1
+  Lu  Lu3  1  0.499994  0.500011  0.501488  1
+  Lu  Lu4  1  0.000143  0.000011  0.669058  1
+  Mg  Mg5  1  0.500196  0.499999  0.833334  1
+  In  In6  1  0.999961  0.499935  0.997677  1
+  In  In7  1  0.499857  0.000002  0.163126  1
+  In  In8  1  0.000123  0.500022  0.333358  1
+  In  In9  1  0.499980  0.000017  0.503524  1
+  In  In10  1  0.999939  0.499973  0.668969  1
+  In  In11  1  0.500229  0.000008  0.833315  1
+  Rh  Rh12  1  0.499942  0.255282  0.995737  1
+  Rh  Rh13  1  0.499976  0.744694  0.995716  1
+  Rh  Rh14  1  0.999838  0.250593  0.166044  1
+  Rh  Rh15  1  0.999809  0.749440  0.166006  1
+  Rh  Rh16  1  0.499908  0.250936  0.333323  1
+  Rh  Rh17  1  0.499910  0.749073  0.333364  1
+  Rh  Rh18  1  0.999977  0.250599  0.500651  1
+  Rh  Rh19  1  0.000021  0.749413  0.500659  1
+  Rh  Rh20  1  0.500135  0.255261  0.670932  1
+  Rh  Rh21  1  0.500125  0.744741  0.670920  1
+  Rh  Rh22  1  0.000154  0.255283  0.833317  1
+  Rh  Rh23  1  0.000168  0.744700  0.833347  1

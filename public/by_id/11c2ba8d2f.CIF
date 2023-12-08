@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_CuSi4Ni7(Mo3C)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.85269667
+_cell_length_b   7.85269644
+_cell_length_c   7.84860453
+_cell_angle_alpha   59.98275168
+_cell_angle_beta   59.98275339
+_cell_angle_gamma   60.00000334
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuSi4Ni7(Mo3C)4
+_chemical_formula_sum   'Cu1 Si4 Ni7 Mo12 C4'
+_cell_volume   342.13840290
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.918626  0.918626  0.244123  1
+  Si  Si1  1  0.127375  0.127375  0.123467  1
+  Si  Si2  1  0.621784  0.127375  0.123467  1
+  Si  Si3  1  0.124760  0.124760  0.625720  1
+  Si  Si4  1  0.127375  0.621784  0.123467  1
+  Ni  Ni5  1  0.331857  0.331857  0.332065  1
+  Ni  Ni6  1  0.245998  0.917626  0.918749  1
+  Ni  Ni7  1  0.331857  0.004221  0.332065  1
+  Ni  Ni8  1  0.004221  0.331857  0.332065  1
+  Ni  Ni9  1  0.331761  0.331761  0.004718  1
+  Ni  Ni10  1  0.917626  0.917626  0.918749  1
+  Ni  Ni11  1  0.917626  0.245998  0.918749  1
+  Mo  Mo12  1  0.691033  0.308938  0.308997  1
+  Mo  Mo13  1  0.943163  0.943163  0.558872  1
+  Mo  Mo14  1  0.691033  0.691033  0.308997  1
+  Mo  Mo15  1  0.691811  0.307930  0.692328  1
+  Mo  Mo16  1  0.308938  0.691033  0.308997  1
+  Mo  Mo17  1  0.554803  0.943163  0.558872  1
+  Mo  Mo18  1  0.558925  0.941129  0.941021  1
+  Mo  Mo19  1  0.943163  0.554803  0.558872  1
+  Mo  Mo20  1  0.941129  0.558925  0.941021  1
+  Mo  Mo21  1  0.307930  0.307930  0.692328  1
+  Mo  Mo22  1  0.558925  0.558925  0.941021  1
+  Mo  Mo23  1  0.307930  0.691811  0.692328  1
+  C  C24  1  0.625502  0.625502  0.624801  1
+  C  C25  1  0.625154  0.625154  0.124538  1
+  C  C26  1  0.124195  0.625502  0.624801  1
+  C  C27  1  0.625502  0.124195  0.624801  1

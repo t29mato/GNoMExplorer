@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_BaLiLa(H6Ir)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.06557300
+_cell_length_b   5.06557233
+_cell_length_c   8.65857500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99998476
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaLiLa(H6Ir)2
+_chemical_formula_sum   'Ba1 Li1 La1 H12 Ir2'
+_cell_volume   192.41291593
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.000000  0.000000  0.034572  1
+  Li  Li1  1  0.666667  0.333333  0.320252  1
+  La  La2  1  0.333333  0.666667  0.614947  1
+  H  H3  1  0.171442  0.828558  0.369406  1
+  H  H4  1  0.657117  0.828558  0.369406  1
+  H  H5  1  0.171442  0.342883  0.369406  1
+  H  H6  1  0.824977  0.175023  0.629253  1
+  H  H7  1  0.350046  0.175023  0.629253  1
+  H  H8  1  0.824977  0.649954  0.629253  1
+  H  H9  1  0.513723  0.027444  0.855932  1
+  H  H10  1  0.513723  0.486277  0.855932  1
+  H  H11  1  0.972556  0.486277  0.855932  1
+  H  H12  1  0.490058  0.980118  0.153490  1
+  H  H13  1  0.490058  0.509942  0.153490  1
+  H  H14  1  0.019882  0.509942  0.153490  1
+  Ir  Ir15  1  0.666667  0.333333  0.739792  1
+  Ir  Ir16  1  0.333333  0.666667  0.266194  1

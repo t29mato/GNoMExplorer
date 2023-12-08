@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Zr2FeCoP2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.71947000
+_cell_length_b   6.35036900
+_cell_length_c   7.13497300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr2FeCoP2
+_chemical_formula_sum   'Zr4 Fe2 Co2 P4'
+_cell_volume   168.52811209
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.250000  0.515220  0.683749  1
+  Zr  Zr1  1  0.250000  0.018478  0.816619  1
+  Zr  Zr2  1  0.750000  0.984780  0.183749  1
+  Zr  Zr3  1  0.750000  0.481522  0.316619  1
+  Fe  Fe4  1  0.750000  0.358776  0.940221  1
+  Fe  Fe5  1  0.250000  0.141224  0.440221  1
+  Co  Co6  1  0.750000  0.858175  0.560261  1
+  Co  Co7  1  0.250000  0.641825  0.060261  1
+  P  P8  1  0.250000  0.778950  0.388060  1
+  P  P9  1  0.250000  0.279259  0.111089  1
+  P  P10  1  0.750000  0.220741  0.611089  1
+  P  P11  1  0.750000  0.721050  0.888060  1

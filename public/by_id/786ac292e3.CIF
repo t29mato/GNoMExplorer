@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Lu3Zn5Si
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.90569500
+_cell_length_b   6.90569572
+_cell_length_c   4.09391900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999047
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu3Zn5Si
+_chemical_formula_sum   'Lu3 Zn5 Si1'
+_cell_volume   169.07708468
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.000875  0.577238  0.500000  1
+  Lu  Lu1  1  0.576364  0.999125  0.500000  1
+  Lu  Lu2  1  0.422762  0.423636  0.500000  1
+  Zn  Zn3  1  0.000000  0.000000  0.500000  1
+  Zn  Zn4  1  0.666667  0.333333  0.000000  1
+  Zn  Zn5  1  0.995239  0.245104  0.000000  1
+  Zn  Zn6  1  0.249865  0.004761  0.000000  1
+  Zn  Zn7  1  0.754896  0.750135  0.000000  1
+  Si  Si8  1  0.333333  0.666667  0.000000  1

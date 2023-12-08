@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_SmCuPH
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.83526400
+_cell_length_b   3.83541300
+_cell_length_c   15.74665400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmCuPH
+_chemical_formula_sum   'Sm4 Cu4 P4 H4'
+_cell_volume   231.63046805
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.250000  0.744421  0.411976  1
+  Sm  Sm1  1  0.250000  0.755579  0.911976  1
+  Sm  Sm2  1  0.750000  0.255579  0.588024  1
+  Sm  Sm3  1  0.750000  0.244421  0.088024  1
+  Cu  Cu4  1  0.250000  0.237694  0.250167  1
+  Cu  Cu5  1  0.750000  0.762306  0.749833  1
+  Cu  Cu6  1  0.250000  0.262306  0.750167  1
+  Cu  Cu7  1  0.750000  0.737694  0.249833  1
+  P  P8  1  0.250000  0.741568  0.157087  1
+  P  P9  1  0.750000  0.241568  0.342913  1
+  P  P10  1  0.750000  0.258432  0.842913  1
+  P  P11  1  0.250000  0.758432  0.657087  1
+  H  H12  1  0.750000  0.752059  0.500059  1
+  H  H13  1  0.750000  0.747941  0.000059  1
+  H  H14  1  0.250000  0.247941  0.499941  1
+  H  H15  1  0.250000  0.252059  0.999941  1

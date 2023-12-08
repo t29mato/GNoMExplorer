@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Lu10NiRhPb6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.03847000
+_cell_length_b   9.03846945
+_cell_length_c   6.59117800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000200
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu10NiRhPb6
+_chemical_formula_sum   'Lu10 Ni1 Rh1 Pb6'
+_cell_volume   466.31939481
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.236888  0.000000  0.250391  1
+  Lu  Lu1  1  0.763112  0.000000  0.749609  1
+  Lu  Lu2  1  0.000000  0.236888  0.250391  1
+  Lu  Lu3  1  0.333333  0.666667  0.500000  1
+  Lu  Lu4  1  0.666667  0.333333  0.500000  1
+  Lu  Lu5  1  0.666667  0.333333  0.000000  1
+  Lu  Lu6  1  0.000000  0.763112  0.749609  1
+  Lu  Lu7  1  0.236888  0.236888  0.749609  1
+  Lu  Lu8  1  0.333333  0.666667  0.000000  1
+  Lu  Lu9  1  0.763112  0.763112  0.250391  1
+  Ni  Ni10  1  0.000000  0.000000  0.500000  1
+  Rh  Rh11  1  0.000000  0.000000  0.000000  1
+  Pb  Pb12  1  0.400780  0.000000  0.749824  1
+  Pb  Pb13  1  0.000000  0.400780  0.749824  1
+  Pb  Pb14  1  0.400780  0.400780  0.250176  1
+  Pb  Pb15  1  0.599220  0.000000  0.250176  1
+  Pb  Pb16  1  0.000000  0.599220  0.250176  1
+  Pb  Pb17  1  0.599220  0.599220  0.749824  1

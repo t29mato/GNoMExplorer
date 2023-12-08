@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HoPa(AlOs)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.00563600
+_cell_length_b   6.97927101
+_cell_length_c   8.23786512
+_cell_angle_alpha   91.46875303
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoPa(AlOs)2
+_chemical_formula_sum   'Ho2 Pa2 Al4 Os4'
+_cell_volume   230.22554572
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.750000  0.963423  0.680151  1
+  Ho  Ho1  1  0.250000  0.036577  0.319849  1
+  Pa  Pa2  1  0.250000  0.531870  0.187386  1
+  Pa  Pa3  1  0.750000  0.468130  0.812614  1
+  Al  Al4  1  0.250000  0.640792  0.558039  1
+  Al  Al5  1  0.750000  0.359208  0.441961  1
+  Al  Al6  1  0.750000  0.870506  0.060858  1
+  Al  Al7  1  0.250000  0.129494  0.939142  1
+  Os  Os8  1  0.250000  0.742464  0.881862  1
+  Os  Os9  1  0.750000  0.257536  0.118138  1
+  Os  Os10  1  0.750000  0.728865  0.363812  1
+  Os  Os11  1  0.250000  0.271135  0.636188  1

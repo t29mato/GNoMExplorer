@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ba3AgPtO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.16963428
+_cell_length_b   7.16963424
+_cell_length_c   7.20660790
+_cell_angle_alpha   89.71652007
+_cell_angle_beta   89.71652131
+_cell_angle_gamma   90.34840536
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3AgPtO6
+_chemical_formula_sum   'Ba6 Ag2 Pt2 O12'
+_cell_volume   370.43001694
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.100295  0.899705  0.750000  1
+  Ba  Ba1  1  0.899705  0.100295  0.250000  1
+  Ba  Ba2  1  0.751825  0.606342  0.110665  1
+  Ba  Ba3  1  0.393658  0.248175  0.389335  1
+  Ba  Ba4  1  0.248175  0.393658  0.889335  1
+  Ba  Ba5  1  0.606342  0.751825  0.610665  1
+  Ag  Ag6  1  0.723877  0.276123  0.750000  1
+  Ag  Ag7  1  0.276123  0.723877  0.250000  1
+  Pt  Pt8  1  0.000000  0.500000  0.500000  1
+  Pt  Pt9  1  0.500000  0.000000  0.000000  1
+  O  O10  1  0.266033  0.590034  0.552060  1
+  O  O11  1  0.409966  0.733967  0.947940  1
+  O  O12  1  0.733967  0.409966  0.447940  1
+  O  O13  1  0.590034  0.266033  0.052060  1
+  O  O14  1  0.061636  0.231849  0.579760  1
+  O  O15  1  0.768151  0.938364  0.920240  1
+  O  O16  1  0.938364  0.768151  0.420240  1
+  O  O17  1  0.231849  0.061636  0.079760  1
+  O  O18  1  0.088550  0.453369  0.233183  1
+  O  O19  1  0.546631  0.911450  0.266817  1
+  O  O20  1  0.453369  0.088550  0.733183  1
+  O  O21  1  0.911450  0.546631  0.766817  1

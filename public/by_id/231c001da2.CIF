@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_Ho2Sc3(SiSn)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.33861700
+_cell_length_b   7.59272700
+_cell_length_c   14.61069800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2Sc3(SiSn)2
+_chemical_formula_sum   'Ho8 Sc12 Si8 Sn8'
+_cell_volume   814.10977920
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.994835  0.176254  0.108339  1
+  Ho  Ho1  1  0.005165  0.823746  0.891661  1
+  Ho  Ho2  1  0.505165  0.676254  0.891661  1
+  Ho  Ho3  1  0.005165  0.823746  0.608339  1
+  Ho  Ho4  1  0.494835  0.323746  0.108339  1
+  Ho  Ho5  1  0.994835  0.176254  0.391661  1
+  Ho  Ho6  1  0.494835  0.323746  0.391661  1
+  Ho  Ho7  1  0.505165  0.676254  0.608339  1
+  Sc  Sc8  1  0.171154  0.501772  0.750000  1
+  Sc  Sc9  1  0.828846  0.498228  0.250000  1
+  Sc  Sc10  1  0.328846  0.001772  0.250000  1
+  Sc  Sc11  1  0.671154  0.998228  0.750000  1
+  Sc  Sc12  1  0.337078  0.165207  0.636779  1
+  Sc  Sc13  1  0.662922  0.834793  0.363221  1
+  Sc  Sc14  1  0.162922  0.665207  0.363221  1
+  Sc  Sc15  1  0.662922  0.834793  0.136779  1
+  Sc  Sc16  1  0.837078  0.334793  0.636779  1
+  Sc  Sc17  1  0.337078  0.165207  0.863221  1
+  Sc  Sc18  1  0.837078  0.334793  0.863221  1
+  Sc  Sc19  1  0.162922  0.665207  0.136779  1
+  Si  Si20  1  0.034403  0.119535  0.750000  1
+  Si  Si21  1  0.965597  0.880465  0.250000  1
+  Si  Si22  1  0.465597  0.619535  0.250000  1
+  Si  Si23  1  0.534403  0.380465  0.750000  1
+  Si  Si24  1  0.303450  0.862942  0.750000  1
+  Si  Si25  1  0.696550  0.137058  0.250000  1
+  Si  Si26  1  0.196550  0.362942  0.250000  1
+  Si  Si27  1  0.803450  0.637058  0.750000  1
+  Sn  Sn28  1  0.179575  0.456486  0.538502  1
+  Sn  Sn29  1  0.820425  0.543514  0.461498  1
+  Sn  Sn30  1  0.320425  0.956486  0.461498  1
+  Sn  Sn31  1  0.820425  0.543514  0.038502  1
+  Sn  Sn32  1  0.679575  0.043514  0.538502  1
+  Sn  Sn33  1  0.179575  0.456486  0.961498  1
+  Sn  Sn34  1  0.679575  0.043514  0.961498  1
+  Sn  Sn35  1  0.320425  0.956486  0.038502  1

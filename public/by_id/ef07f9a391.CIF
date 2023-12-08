@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_TaTi3(Nb2As3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.43947359
+_cell_length_b   7.43947395
+_cell_length_c   19.06868749
+_cell_angle_alpha   89.45873641
+_cell_angle_beta   90.54126354
+_cell_angle_gamma   152.57909003
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaTi3(Nb2As3)2
+_chemical_formula_sum   'Ta2 Ti6 Nb8 As12'
+_cell_volume   486.00053193
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.000000  0.000000  0.000000  1
+  Ta  Ta1  1  0.000000  0.000000  0.500000  1
+  Ti  Ti2  1  0.736847  0.263153  0.159576  1
+  Ti  Ti3  1  0.263153  0.736847  0.840424  1
+  Ti  Ti4  1  0.265316  0.734684  0.662356  1
+  Ti  Ti5  1  0.734684  0.265316  0.337644  1
+  Ti  Ti6  1  0.534431  0.465569  0.118538  1
+  Ti  Ti7  1  0.465569  0.534431  0.881462  1
+  Nb  Nb8  1  0.465751  0.534249  0.622923  1
+  Nb  Nb9  1  0.534249  0.465751  0.377077  1
+  Nb  Nb10  1  0.668015  0.331985  0.974124  1
+  Nb  Nb11  1  0.331985  0.668015  0.025876  1
+  Nb  Nb12  1  0.334939  0.665061  0.472886  1
+  Nb  Nb13  1  0.665061  0.334939  0.527114  1
+  Nb  Nb14  1  0.057168  0.942832  0.749076  1
+  Nb  Nb15  1  0.942832  0.057168  0.250924  1
+  As  As16  1  0.902388  0.097612  0.117834  1
+  As  As17  1  0.097612  0.902388  0.882166  1
+  As  As18  1  0.101042  0.898958  0.618650  1
+  As  As19  1  0.898958  0.101042  0.381350  1
+  As  As20  1  0.842243  0.157757  0.920272  1
+  As  As21  1  0.157757  0.842243  0.079728  1
+  As  As22  1  0.160195  0.839805  0.420764  1
+  As  As23  1  0.839805  0.160195  0.579236  1
+  As  As24  1  0.700488  0.299512  0.750370  1
+  As  As25  1  0.299512  0.700488  0.249630  1
+  As  As26  1  0.414287  0.585713  0.753385  1
+  As  As27  1  0.585713  0.414287  0.246615  1

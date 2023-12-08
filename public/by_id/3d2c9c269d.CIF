@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_LaSeO4F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.00656900
+_cell_length_b   7.57422300
+_cell_length_c   8.92240800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaSeO4F
+_chemical_formula_sum   'La4 Se4 O16 F4'
+_cell_volume   473.50609027
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.653359  0.750000  0.449309  1
+  La  La1  1  0.153359  0.250000  0.050691  1
+  La  La2  1  0.346641  0.250000  0.550691  1
+  La  La3  1  0.846641  0.750000  0.949309  1
+  Se  Se4  1  0.187459  0.750000  0.591824  1
+  Se  Se5  1  0.687459  0.250000  0.908176  1
+  Se  Se6  1  0.812541  0.250000  0.408176  1
+  Se  Se7  1  0.312541  0.750000  0.091824  1
+  O  O8  1  0.008520  0.750000  0.470391  1
+  O  O9  1  0.508520  0.250000  0.029609  1
+  O  O10  1  0.991480  0.250000  0.529609  1
+  O  O11  1  0.491480  0.750000  0.970391  1
+  O  O12  1  0.383239  0.750000  0.268264  1
+  O  O13  1  0.883239  0.250000  0.231736  1
+  O  O14  1  0.616761  0.250000  0.731736  1
+  O  O15  1  0.116761  0.750000  0.768264  1
+  O  O16  1  0.335396  0.922152  0.560189  1
+  O  O17  1  0.835396  0.077848  0.939811  1
+  O  O18  1  0.664604  0.422152  0.439811  1
+  O  O19  1  0.164604  0.577848  0.060189  1
+  O  O20  1  0.835396  0.422152  0.939811  1
+  O  O21  1  0.335396  0.577848  0.560189  1
+  O  O22  1  0.164604  0.922152  0.060189  1
+  O  O23  1  0.664604  0.077848  0.439811  1
+  F  F24  1  0.712239  0.750000  0.706798  1
+  F  F25  1  0.212239  0.250000  0.793202  1
+  F  F26  1  0.287761  0.250000  0.293202  1
+  F  F27  1  0.787761  0.750000  0.206798  1

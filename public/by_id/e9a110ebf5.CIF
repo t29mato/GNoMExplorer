@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ta3Be2Co3B
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.08963400
+_cell_length_b   6.08963386
+_cell_length_c   3.23897900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001165
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta3Be2Co3B
+_chemical_formula_sum   'Ta3 Be2 Co3 B1'
+_cell_volume   104.02101460
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.419903  0.010372  0.500000  1
+  Ta  Ta1  1  0.989628  0.409531  0.500000  1
+  Ta  Ta2  1  0.590469  0.580097  0.500000  1
+  Be  Be3  1  0.333333  0.666667  0.000000  1
+  Be  Be4  1  0.000000  0.000000  0.500000  1
+  Co  Co5  1  0.754607  0.004151  0.000000  1
+  Co  Co6  1  0.995849  0.750456  0.000000  1
+  Co  Co7  1  0.249544  0.245393  0.000000  1
+  B  B8  1  0.666667  0.333333  0.000000  1

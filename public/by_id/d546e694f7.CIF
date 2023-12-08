@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ce9Pr(Si2Ge)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.77795288
+_cell_length_b   8.65942343
+_cell_length_c   7.77795288
+_cell_angle_alpha   117.38749385
+_cell_angle_beta   89.57618332
+_cell_angle_gamma   117.38749385
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce9Pr(Si2Ge)2
+_chemical_formula_sum   'Ce9 Pr1 Si4 Ge2'
+_cell_volume   398.91736227
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.000291  0.996206  0.994375  1
+  Ce  Ce1  1  0.494375  0.996206  0.500291  1
+  Ce  Ce2  1  0.530569  0.697447  0.668400  1
+  Ce  Ce3  1  0.168400  0.697447  0.030569  1
+  Ce  Ce4  1  0.667453  0.696659  0.167453  1
+  Ce  Ce5  1  0.028989  0.709148  0.528989  1
+  Ce  Ce6  1  0.472398  0.303671  0.330975  1
+  Ce  Ce7  1  0.830975  0.303671  0.972398  1
+  Ce  Ce8  1  0.333354  0.301652  0.833354  1
+  Pr  Pr9  1  0.973015  0.297849  0.473015  1
+  Si  Si10  1  0.884932  0.999930  0.615546  1
+  Si  Si11  1  0.115546  0.999930  0.384932  1
+  Si  Si12  1  0.612572  0.998342  0.112572  1
+  Si  Si13  1  0.386256  0.999091  0.886256  1
+  Ge  Ge14  1  0.749895  0.501376  0.750979  1
+  Ge  Ge15  1  0.250979  0.501376  0.249895  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Pa(Ni2P)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.67503000
+_cell_length_b   7.08476300
+_cell_length_c   7.08476300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pa(Ni2P)2
+_chemical_formula_sum   'Pa2 Ni8 P4'
+_cell_volume   184.46396618
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.000000  0.500000  0.500000  1
+  Pa  Pa1  1  0.500000  0.000000  0.000000  1
+  Ni  Ni2  1  0.500000  0.162005  0.588662  1
+  Ni  Ni3  1  0.500000  0.837995  0.411338  1
+  Ni  Ni4  1  0.000000  0.337995  0.088662  1
+  Ni  Ni5  1  0.000000  0.662005  0.911338  1
+  Ni  Ni6  1  0.500000  0.588662  0.162005  1
+  Ni  Ni7  1  0.500000  0.411338  0.837995  1
+  Ni  Ni8  1  0.000000  0.088662  0.337995  1
+  Ni  Ni9  1  0.000000  0.911338  0.662005  1
+  P  P10  1  0.500000  0.719157  0.719157  1
+  P  P11  1  0.500000  0.280843  0.280843  1
+  P  P12  1  0.000000  0.780843  0.219157  1
+  P  P13  1  0.000000  0.219157  0.780843  1

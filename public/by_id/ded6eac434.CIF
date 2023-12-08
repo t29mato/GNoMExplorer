@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Y5In2Ga
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.09042265
+_cell_length_b   9.09041753
+_cell_length_c   9.09042213
+_cell_angle_alpha   96.33149470
+_cell_angle_beta   96.33207704
+_cell_angle_gamma   141.20832036
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y5In2Ga
+_chemical_formula_sum   'Y10 In4 Ga2'
+_cell_volume   443.90677706
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.750000  0.250000  0.500000  1
+  Y  Y1  1  0.250000  0.750000  0.500000  1
+  Y  Y2  1  0.210423  0.919471  0.129894  1
+  Y  Y3  1  0.080530  0.210422  0.290952  1
+  Y  Y4  1  0.919470  0.789578  0.709048  1
+  Y  Y5  1  0.789577  0.080529  0.870106  1
+  Y  Y6  1  0.419470  0.710422  0.129893  1
+  Y  Y7  1  0.580530  0.289578  0.870107  1
+  Y  Y8  1  0.710423  0.580529  0.290952  1
+  Y  Y9  1  0.289577  0.419471  0.709048  1
+  In  In10  1  0.661885  0.838114  0.499999  1
+  In  In11  1  0.161886  0.661886  0.823772  1
+  In  In12  1  0.838114  0.338114  0.176228  1
+  In  In13  1  0.338115  0.161886  0.500001  1
+  Ga  Ga14  1  0.250000  0.250000  0.000000  1
+  Ga  Ga15  1  0.750000  0.750000  0.000000  1

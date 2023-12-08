@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_TbAl3(GaFe2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.58177321
+_cell_length_b   6.58177367
+_cell_length_c   6.58177269
+_cell_angle_alpha   135.30904036
+_cell_angle_beta   99.27399176
+_cell_angle_gamma   97.35020212
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbAl3(GaFe2)3
+_chemical_formula_sum   'Tb1 Al3 Ga3 Fe6'
+_cell_volume   185.42801034
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.000872  0.000872  0.000000  1
+  Al  Al1  1  0.809412  0.309412  0.500000  1
+  Al  Al2  1  0.654888  0.654888  0.000000  1
+  Al  Al3  1  0.346999  0.346999  0.000000  1
+  Ga  Ga4  1  0.335954  0.001166  0.334788  1
+  Ga  Ga5  1  0.184429  0.684429  0.500000  1
+  Ga  Ga6  1  0.666378  0.001166  0.665212  1
+  Fe  Fe7  1  0.755943  0.499161  0.256783  1
+  Fe  Fe8  1  0.242378  0.499161  0.743217  1
+  Fe  Fe9  1  0.000598  0.000853  0.500078  1
+  Fe  Fe10  1  0.500775  0.000853  0.000255  1
+  Fe  Fe11  1  0.000598  0.500520  0.999745  1
+  Fe  Fe12  1  0.500775  0.500520  0.499922  1

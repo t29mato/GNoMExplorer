@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Dy15TmIn4(PtRh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.68437714
+_cell_length_b   9.68293523
+_cell_length_c   9.68293443
+_cell_angle_alpha   59.99789876
+_cell_angle_beta   59.99506642
+_cell_angle_gamma   59.99507273
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy15TmIn4(PtRh)2
+_chemical_formula_sum   'Dy15 Tm1 In4 Pt2 Rh2'
+_cell_volume   641.99470855
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.687269  0.692178  0.310096  1
+  Dy  Dy1  1  0.310457  0.692178  0.310096  1
+  Dy  Dy2  1  0.938769  0.937405  0.561500  1
+  Dy  Dy3  1  0.150347  0.146347  0.552959  1
+  Dy  Dy4  1  0.562325  0.937405  0.561500  1
+  Dy  Dy5  1  0.152604  0.149550  0.149550  1
+  Dy  Dy6  1  0.310457  0.310096  0.692178  1
+  Dy  Dy7  1  0.939221  0.560779  0.560779  1
+  Dy  Dy8  1  0.562325  0.561500  0.937405  1
+  Dy  Dy9  1  0.562912  0.937088  0.937088  1
+  Dy  Dy10  1  0.938769  0.561500  0.937405  1
+  Dy  Dy11  1  0.150347  0.552959  0.146347  1
+  Dy  Dy12  1  0.310968  0.689032  0.689032  1
+  Dy  Dy13  1  0.687269  0.310096  0.692178  1
+  Dy  Dy14  1  0.548294  0.149550  0.149550  1
+  Tm  Tm15  1  0.690372  0.309628  0.309628  1
+  In  In16  1  0.916604  0.917749  0.249043  1
+  In  In17  1  0.249091  0.917174  0.917174  1
+  In  In18  1  0.916604  0.249043  0.917749  1
+  In  In19  1  0.916560  0.917174  0.917174  1
+  Pt  Pt20  1  0.356993  0.357805  0.357805  1
+  Pt  Pt21  1  0.927398  0.357805  0.357805  1
+  Rh  Rh22  1  0.357022  0.358760  0.927198  1
+  Rh  Rh23  1  0.357022  0.927198  0.358760  1

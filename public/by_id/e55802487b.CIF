@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Gd3Ga2SnIr2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.78658600
+_cell_length_b   7.97304800
+_cell_length_c   14.79576500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd3Ga2SnIr2
+_chemical_formula_sum   'Gd12 Ga8 Sn4 Ir8'
+_cell_volume   682.62818438
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.888841  0.463292  0.103742  1
+  Gd  Gd1  1  0.388841  0.036708  0.896258  1
+  Gd  Gd2  1  0.611159  0.963292  0.396258  1
+  Gd  Gd3  1  0.111159  0.536708  0.603742  1
+  Gd  Gd4  1  0.111159  0.536708  0.896258  1
+  Gd  Gd5  1  0.611159  0.963292  0.103742  1
+  Gd  Gd6  1  0.388841  0.036708  0.603742  1
+  Gd  Gd7  1  0.888841  0.463292  0.396258  1
+  Gd  Gd8  1  0.358646  0.329989  0.250000  1
+  Gd  Gd9  1  0.858646  0.170011  0.750000  1
+  Gd  Gd10  1  0.141354  0.829989  0.250000  1
+  Gd  Gd11  1  0.641354  0.670011  0.750000  1
+  Ga  Ga12  1  0.402748  0.323738  0.038696  1
+  Ga  Ga13  1  0.902748  0.176262  0.961304  1
+  Ga  Ga14  1  0.097252  0.823738  0.461304  1
+  Ga  Ga15  1  0.597252  0.676262  0.538696  1
+  Ga  Ga16  1  0.597252  0.676262  0.961304  1
+  Ga  Ga17  1  0.097252  0.823738  0.038696  1
+  Ga  Ga18  1  0.902748  0.176262  0.538696  1
+  Ga  Ga19  1  0.402748  0.323738  0.461304  1
+  Sn  Sn20  1  0.861278  0.174242  0.250000  1
+  Sn  Sn21  1  0.361278  0.325758  0.750000  1
+  Sn  Sn22  1  0.638722  0.674242  0.250000  1
+  Sn  Sn23  1  0.138722  0.825758  0.750000  1
+  Ir  Ir24  1  0.138588  0.111445  0.102506  1
+  Ir  Ir25  1  0.638588  0.388555  0.897494  1
+  Ir  Ir26  1  0.361412  0.611445  0.397494  1
+  Ir  Ir27  1  0.861412  0.888555  0.602506  1
+  Ir  Ir28  1  0.861412  0.888555  0.897494  1
+  Ir  Ir29  1  0.361412  0.611445  0.102506  1
+  Ir  Ir30  1  0.638588  0.388555  0.602506  1
+  Ir  Ir31  1  0.138588  0.111445  0.397494  1

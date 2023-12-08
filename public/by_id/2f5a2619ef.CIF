@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Zr12Al4Os3Rh5N4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.56923443
+_cell_length_b   8.56923409
+_cell_length_c   8.56923500
+_cell_angle_alpha   60.08163511
+_cell_angle_beta   60.08163642
+_cell_angle_gamma   60.08162892
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr12Al4Os3Rh5N4
+_chemical_formula_sum   'Zr12 Al4 Os3 Rh5 N4'
+_cell_volume   445.77297599
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.807173  0.807173  0.192591  1
+  Zr  Zr1  1  0.193398  0.193398  0.807789  1
+  Zr  Zr2  1  0.807173  0.192591  0.807173  1
+  Zr  Zr3  1  0.193398  0.807789  0.193398  1
+  Zr  Zr4  1  0.192591  0.807173  0.807173  1
+  Zr  Zr5  1  0.807789  0.193398  0.193398  1
+  Zr  Zr6  1  0.440505  0.440505  0.054581  1
+  Zr  Zr7  1  0.059484  0.059484  0.440226  1
+  Zr  Zr8  1  0.440505  0.054581  0.440505  1
+  Zr  Zr9  1  0.059484  0.440226  0.059484  1
+  Zr  Zr10  1  0.054581  0.440505  0.440505  1
+  Zr  Zr11  1  0.440226  0.059484  0.059484  1
+  Al  Al12  1  0.121799  0.626317  0.626317  1
+  Al  Al13  1  0.626317  0.121799  0.626317  1
+  Al  Al14  1  0.626317  0.626317  0.121799  1
+  Al  Al15  1  0.627264  0.627264  0.627264  1
+  Os  Os16  1  0.746980  0.418295  0.418295  1
+  Os  Os17  1  0.418295  0.746980  0.418295  1
+  Os  Os18  1  0.418295  0.418295  0.746980  1
+  Rh  Rh19  1  0.416030  0.416030  0.416030  1
+  Rh  Rh20  1  0.497286  0.834609  0.834609  1
+  Rh  Rh21  1  0.834609  0.497286  0.834609  1
+  Rh  Rh22  1  0.834609  0.834609  0.497286  1
+  Rh  Rh23  1  0.834355  0.834355  0.834355  1
+  N  N24  1  0.625053  0.125833  0.125833  1
+  N  N25  1  0.125833  0.625053  0.125833  1
+  N  N26  1  0.125833  0.125833  0.625053  1
+  N  N27  1  0.124815  0.124815  0.124815  1

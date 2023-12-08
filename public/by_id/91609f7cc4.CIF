@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_LaPr15(HgRu)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.00764483
+_cell_length_b   10.01302066
+_cell_length_c   9.96754502
+_cell_angle_alpha   59.81998898
+_cell_angle_beta   59.78317925
+_cell_angle_gamma   59.51996930
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaPr15(HgRu)4
+_chemical_formula_sum   'La1 Pr15 Hg4 Ru4'
+_cell_volume   701.56867701
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.438534  0.438640  0.062704  1
+  Pr  Pr1  1  0.811089  0.190670  0.192257  1
+  Pr  Pr2  1  0.188888  0.188740  0.814240  1
+  Pr  Pr3  1  0.814244  0.814485  0.185570  1
+  Pr  Pr4  1  0.188676  0.812275  0.812620  1
+  Pr  Pr5  1  0.598729  0.598582  0.205410  1
+  Pr  Pr6  1  0.442680  0.057845  0.060134  1
+  Pr  Pr7  1  0.057917  0.442861  0.059964  1
+  Pr  Pr8  1  0.441015  0.055902  0.442935  1
+  Pr  Pr9  1  0.209141  0.595342  0.596854  1
+  Pr  Pr10  1  0.055853  0.441171  0.442875  1
+  Pr  Pr11  1  0.595259  0.209548  0.596609  1
+  Pr  Pr12  1  0.596107  0.596241  0.595356  1
+  Pr  Pr13  1  0.190825  0.810918  0.192280  1
+  Pr  Pr14  1  0.812059  0.188709  0.812533  1
+  Pr  Pr15  1  0.059139  0.059085  0.444104  1
+  Hg  Hg16  1  0.834348  0.502211  0.830171  1
+  Hg  Hg17  1  0.832656  0.832641  0.501805  1
+  Hg  Hg18  1  0.832756  0.832764  0.832052  1
+  Hg  Hg19  1  0.502573  0.834243  0.830273  1
+  Ru  Ru20  1  0.834048  0.384444  0.387809  1
+  Ru  Ru21  1  0.390790  0.390789  0.373440  1
+  Ru  Ru22  1  0.384510  0.834074  0.387865  1
+  Ru  Ru23  1  0.388162  0.387823  0.840141  1

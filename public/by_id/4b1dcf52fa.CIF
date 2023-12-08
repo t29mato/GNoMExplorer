@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SmCo(SiRh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.50686445
+_cell_length_b   6.62185331
+_cell_length_c   6.50686513
+_cell_angle_alpha   131.01297854
+_cell_angle_beta   113.97748762
+_cell_angle_gamma   85.81851203
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmCo(SiRh)2
+_chemical_formula_sum   'Sm2 Co2 Si4 Rh4'
+_cell_volume   185.50575855
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.754072  0.036784  0.282714  1
+  Sm  Sm1  1  0.245928  0.963216  0.717286  1
+  Co  Co2  1  0.219855  0.500000  0.719855  1
+  Co  Co3  1  0.780145  0.500000  0.280145  1
+  Si  Si4  1  0.575018  0.385067  0.810050  1
+  Si  Si5  1  0.925547  0.712354  0.786807  1
+  Si  Si6  1  0.424982  0.614933  0.189950  1
+  Si  Si7  1  0.074453  0.287646  0.213193  1
+  Rh  Rh8  1  0.500000  0.500000  0.500000  1
+  Rh  Rh9  1  0.000000  0.500000  0.000000  1
+  Rh  Rh10  1  0.718317  0.000000  0.718317  1
+  Rh  Rh11  1  0.281683  0.000000  0.281683  1

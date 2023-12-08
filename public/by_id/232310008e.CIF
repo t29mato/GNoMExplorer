@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Tb3Y(GaTc3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.36270318
+_cell_length_b   9.36270299
+_cell_length_c   9.31594435
+_cell_angle_alpha   34.08927211
+_cell_angle_beta   34.08927162
+_cell_angle_gamma   32.92751845
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb3Y(GaTc3)2
+_chemical_formula_sum   'Tb3 Y1 Ga2 Tc6'
+_cell_volume   223.82837022
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.182433  0.182433  0.195289  1
+  Tb  Tb1  1  0.817510  0.817510  0.804803  1
+  Tb  Tb2  1  0.317602  0.317602  0.304589  1
+  Y  Y3  1  0.682430  0.682430  0.695339  1
+  Ga  Ga4  1  0.249909  0.249909  0.749862  1
+  Ga  Ga5  1  0.750098  0.750098  0.250114  1
+  Tc  Tc6  1  0.000013  0.000013  0.999997  1
+  Tc  Tc7  1  0.500022  0.500022  0.499915  1
+  Tc  Tc8  1  0.749714  0.249970  0.250075  1
+  Tc  Tc9  1  0.250209  0.750090  0.749971  1
+  Tc  Tc10  1  0.249970  0.749714  0.250075  1
+  Tc  Tc11  1  0.750090  0.250209  0.749971  1

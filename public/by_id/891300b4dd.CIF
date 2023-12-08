@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_BeAl3(GaRh2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.99447641
+_cell_length_b   5.99963800
+_cell_length_c   5.99438614
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.03378806
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BeAl3(GaRh2)4
+_chemical_formula_sum   'Be1 Al3 Ga4 Rh8'
+_cell_volume   215.58619273
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.999202  0.750000  0.999798  1
+  Al  Al1  1  0.000395  0.250000  0.000058  1
+  Al  Al2  1  0.500421  0.750000  0.499945  1
+  Al  Al3  1  0.499620  0.250000  0.500071  1
+  Ga  Ga4  1  0.499859  0.250000  0.000016  1
+  Ga  Ga5  1  0.500201  0.750000  0.999994  1
+  Ga  Ga6  1  0.999870  0.750000  0.499968  1
+  Ga  Ga7  1  0.000145  0.250000  0.500030  1
+  Rh  Rh8  1  0.246796  0.502819  0.246784  1
+  Rh  Rh9  1  0.246796  0.997180  0.246784  1
+  Rh  Rh10  1  0.751905  0.997696  0.248126  1
+  Rh  Rh11  1  0.751905  0.502303  0.248126  1
+  Rh  Rh12  1  0.248154  0.502642  0.751873  1
+  Rh  Rh13  1  0.248154  0.997359  0.751873  1
+  Rh  Rh14  1  0.753289  0.997475  0.753277  1
+  Rh  Rh15  1  0.753289  0.502526  0.753277  1

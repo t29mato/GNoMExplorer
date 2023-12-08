@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ta2V3Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.01212700
+_cell_length_b   5.01212648
+_cell_length_c   8.49443100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999682
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2V3Pt
+_chemical_formula_sum   'Ta4 V6 Pt2'
+_cell_volume   184.80300441
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.333333  0.666667  0.440651  1
+  Ta  Ta1  1  0.666667  0.333333  0.559349  1
+  Ta  Ta2  1  0.666667  0.333333  0.940651  1
+  Ta  Ta3  1  0.333333  0.666667  0.059349  1
+  V  V4  1  0.825930  0.174070  0.250000  1
+  V  V5  1  0.825930  0.651861  0.250000  1
+  V  V6  1  0.348139  0.174070  0.250000  1
+  V  V7  1  0.174070  0.825930  0.750000  1
+  V  V8  1  0.174070  0.348139  0.750000  1
+  V  V9  1  0.651861  0.825930  0.750000  1
+  Pt  Pt10  1  0.000000  0.000000  0.500000  1
+  Pt  Pt11  1  0.000000  0.000000  0.000000  1

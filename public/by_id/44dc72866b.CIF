@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_PrGaPt3Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.54947137
+_cell_length_b   5.27385885
+_cell_length_c   5.54947300
+_cell_angle_alpha   58.25564632
+_cell_angle_beta   59.99999623
+_cell_angle_gamma   58.25564029
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrGaPt3Au
+_chemical_formula_sum   'Pr1 Ga1 Pt3 Au1'
+_cell_volume   111.72446225
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.503670  0.488989  0.503670  1
+  Ga  Ga1  1  0.122469  0.632592  0.122469  1
+  Pt  Pt2  1  0.121967  0.129631  0.626434  1
+  Pt  Pt3  1  0.626434  0.129631  0.121967  1
+  Pt  Pt4  1  0.121967  0.129631  0.121967  1
+  Au  Au5  1  0.753492  0.739524  0.753492  1

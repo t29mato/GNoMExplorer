@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ta2MnSi2Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.60974100
+_cell_length_b   6.27293361
+_cell_length_c   7.25706990
+_cell_angle_alpha   90.18955134
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2MnSi2Ni
+_chemical_formula_sum   'Ta4 Mn2 Si4 Ni2'
+_cell_volume   164.32576501
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.250000  0.518508  0.175354  1
+  Ta  Ta1  1  0.750000  0.481492  0.824646  1
+  Ta  Ta2  1  0.750000  0.969207  0.670112  1
+  Ta  Ta3  1  0.250000  0.030793  0.329888  1
+  Mn  Mn4  1  0.250000  0.641089  0.564784  1
+  Mn  Mn5  1  0.750000  0.358911  0.435216  1
+  Si  Si6  1  0.250000  0.776732  0.880536  1
+  Si  Si7  1  0.750000  0.223268  0.119464  1
+  Si  Si8  1  0.750000  0.730414  0.370162  1
+  Si  Si9  1  0.250000  0.269586  0.629838  1
+  Ni  Ni10  1  0.750000  0.854565  0.064404  1
+  Ni  Ni11  1  0.250000  0.145435  0.935596  1

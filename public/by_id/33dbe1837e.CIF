@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Sc4Ga(SiIr)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.99488927
+_cell_length_b   6.99488938
+_cell_length_c   6.99488882
+_cell_angle_alpha   109.62094567
+_cell_angle_beta   109.62094903
+_cell_angle_gamma   109.17218529
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc4Ga(SiIr)6
+_chemical_formula_sum   'Sc4 Ga1 Si6 Ir6'
+_cell_volume   263.45820372
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.002410  0.997590  0.500000  1
+  Sc  Sc1  1  0.002410  0.502410  0.004819  1
+  Sc  Sc2  1  0.497590  0.997590  0.995181  1
+  Sc  Sc3  1  0.497590  0.502410  0.500000  1
+  Ga  Ga4  1  0.750000  0.250000  0.500000  1
+  Si  Si5  1  0.678584  0.678584  0.000000  1
+  Si  Si6  1  0.298451  0.988663  0.309788  1
+  Si  Si7  1  0.011337  0.321125  0.309788  1
+  Si  Si8  1  0.321416  0.321416  0.000000  1
+  Si  Si9  1  0.678875  0.988663  0.690212  1
+  Si  Si10  1  0.011337  0.701549  0.690212  1
+  Ir  Ir11  1  0.746557  0.490255  0.256302  1
+  Ir  Ir12  1  0.509745  0.253443  0.743698  1
+  Ir  Ir13  1  0.233953  0.490255  0.743698  1
+  Ir  Ir14  1  0.250000  0.750000  0.500000  1
+  Ir  Ir15  1  0.509745  0.766047  0.256302  1
+  Ir  Ir16  1  0.000000  0.000000  0.000000  1

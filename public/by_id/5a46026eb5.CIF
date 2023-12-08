@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CaPm(ZnSi)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.92161719
+_cell_length_b   5.92161782
+_cell_length_c   5.92161800
+_cell_angle_alpha   138.34163035
+_cell_angle_beta   105.37012816
+_cell_angle_gamma   89.30242118
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaPm(ZnSi)2
+_chemical_formula_sum   'Ca1 Pm1 Zn2 Si2'
+_cell_volume   127.36433032
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.502376  0.500000  0.002376  1
+  Pm  Pm1  1  0.996520  0.000000  0.996520  1
+  Zn  Zn2  1  0.575886  0.243497  0.332390  1
+  Zn  Zn3  1  0.088893  0.756502  0.332390  1
+  Si  Si4  1  0.923388  0.255226  0.668163  1
+  Si  Si5  1  0.412935  0.744773  0.668162  1

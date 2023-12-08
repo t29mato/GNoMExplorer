@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Tb2SmCd3Pb2Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.63998958
+_cell_length_b   7.63998946
+_cell_length_c   4.58757700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.19066323
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2SmCd3Pb2Au
+_chemical_formula_sum   'Tb2 Sm1 Cd3 Pb2 Au1'
+_cell_volume   231.45252629
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.598595  0.000248  0.000000  1
+  Tb  Tb1  1  0.000248  0.598595  0.000000  1
+  Sm  Sm2  1  0.403291  0.403291  0.000000  1
+  Cd  Cd3  1  0.235557  0.999436  0.500000  1
+  Cd  Cd4  1  0.999436  0.235557  0.500000  1
+  Cd  Cd5  1  0.764330  0.764330  0.500000  1
+  Pb  Pb6  1  0.332619  0.668162  0.500000  1
+  Pb  Pb7  1  0.668162  0.332619  0.500000  1
+  Au  Au8  1  0.997762  0.997762  0.000000  1

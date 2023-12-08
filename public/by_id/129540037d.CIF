@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SrLaSi3Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.12384927
+_cell_length_b   6.12384927
+_cell_length_c   8.30652151
+_cell_angle_alpha   110.08695551
+_cell_angle_beta   110.08694128
+_cell_angle_gamma   93.90268324
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrLaSi3Pt
+_chemical_formula_sum   'Sr2 La2 Si6 Pt2'
+_cell_volume   268.58377200
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.749976  0.250023  0.500000  1
+  Sr  Sr1  1  0.250023  0.749976  0.500000  1
+  La  La2  1  0.752279  0.247720  0.000000  1
+  La  La3  1  0.247720  0.752279  0.000000  1
+  Si  Si4  1  0.329785  0.329785  0.165584  1
+  Si  Si5  1  0.835800  0.835800  0.165372  1
+  Si  Si6  1  0.166227  0.166227  0.332341  1
+  Si  Si7  1  0.833772  0.833772  0.667660  1
+  Si  Si8  1  0.164200  0.164200  0.834629  1
+  Si  Si9  1  0.670214  0.670214  0.834416  1
+  Pt  Pt10  1  0.664226  0.664226  0.328121  1
+  Pt  Pt11  1  0.335775  0.335775  0.671880  1

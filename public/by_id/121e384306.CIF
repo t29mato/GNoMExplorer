@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ta3Nb7(Si2Ge)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.60190245
+_cell_length_b   7.60190258
+_cell_length_c   7.59630643
+_cell_angle_alpha   128.11756102
+_cell_angle_beta   128.11756841
+_cell_angle_gamma   76.39360553
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta3Nb7(Si2Ge)2
+_chemical_formula_sum   'Ta3 Nb7 Si4 Ge2'
+_cell_volume   264.07285915
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.812224  0.312224  0.828423  1
+  Ta  Ta1  1  0.000028  0.000353  0.999977  1
+  Ta  Ta2  1  0.500353  0.500028  0.999977  1
+  Nb  Nb3  1  0.017626  0.187959  0.500457  1
+  Nb  Nb4  1  0.687959  0.517626  0.500457  1
+  Nb  Nb5  1  0.518223  0.018223  0.830858  1
+  Nb  Nb6  1  0.187935  0.687935  0.169600  1
+  Nb  Nb7  1  0.981729  0.811948  0.499730  1
+  Nb  Nb8  1  0.311948  0.481729  0.499730  1
+  Nb  Nb9  1  0.482224  0.982224  0.170552  1
+  Si  Si10  1  0.370548  0.129581  0.500348  1
+  Si  Si11  1  0.629581  0.870548  0.500348  1
+  Si  Si12  1  0.870148  0.370148  0.240356  1
+  Si  Si13  1  0.129446  0.629446  0.758765  1
+  Ge  Ge14  1  0.749986  0.750040  0.000210  1
+  Ge  Ge15  1  0.250040  0.249986  0.000210  1

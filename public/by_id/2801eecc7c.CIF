@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_La12Ru(RhBr4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.62649583
+_cell_length_b   10.62649509
+_cell_length_c   10.62649530
+_cell_angle_alpha   109.41964921
+_cell_angle_beta   109.41965244
+_cell_angle_gamma   109.41965577
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La12Ru(RhBr4)3
+_chemical_formula_sum   'La12 Ru1 Rh3 Br12'
+_cell_volume   925.49633854
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.265613  0.750000  0.234387  1
+  La  La1  1  0.484900  0.750000  0.015100  1
+  La  La2  1  0.236118  0.468463  0.481762  1
+  La  La3  1  0.018238  0.031537  0.263882  1
+  La  La4  1  0.234387  0.265613  0.750000  1
+  La  La5  1  0.015100  0.484900  0.750000  1
+  La  La6  1  0.481762  0.236118  0.468463  1
+  La  La7  1  0.263882  0.018238  0.031537  1
+  La  La8  1  0.750000  0.234387  0.265613  1
+  La  La9  1  0.750000  0.015100  0.484900  1
+  La  La10  1  0.468463  0.481762  0.236118  1
+  La  La11  1  0.031537  0.263882  0.018238  1
+  Ru  Ru12  1  0.250000  0.250000  0.250000  1
+  Rh  Rh13  1  0.500869  0.999131  0.250000  1
+  Rh  Rh14  1  0.250000  0.500869  0.999131  1
+  Rh  Rh15  1  0.999131  0.250000  0.500869  1
+  Br  Br16  1  0.250000  0.994072  0.505928  1
+  Br  Br17  1  0.511995  0.506078  0.756072  1
+  Br  Br18  1  0.250000  0.755446  0.744554  1
+  Br  Br19  1  0.988005  0.743928  0.993922  1
+  Br  Br20  1  0.994072  0.505928  0.250000  1
+  Br  Br21  1  0.743928  0.993922  0.988005  1
+  Br  Br22  1  0.755446  0.744554  0.250000  1
+  Br  Br23  1  0.506078  0.756072  0.511995  1
+  Br  Br24  1  0.505928  0.250000  0.994072  1
+  Br  Br25  1  0.756072  0.511995  0.506078  1
+  Br  Br26  1  0.744554  0.250000  0.755446  1
+  Br  Br27  1  0.993922  0.988005  0.743928  1

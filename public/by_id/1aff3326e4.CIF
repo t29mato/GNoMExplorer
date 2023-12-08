@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TbErSi2NiRu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.23009500
+_cell_length_b   6.91377119
+_cell_length_c   7.17736547
+_cell_angle_alpha   91.62070079
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbErSi2NiRu
+_chemical_formula_sum   'Tb2 Er2 Si4 Ni2 Ru2'
+_cell_volume   209.82460554
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.250000  0.991385  0.798958  1
+  Tb  Tb1  1  0.750000  0.008615  0.201042  1
+  Er  Er2  1  0.250000  0.489373  0.684293  1
+  Er  Er3  1  0.750000  0.510627  0.315707  1
+  Si  Si4  1  0.250000  0.301700  0.098985  1
+  Si  Si5  1  0.750000  0.698300  0.901015  1
+  Si  Si6  1  0.250000  0.801408  0.399520  1
+  Si  Si7  1  0.750000  0.198592  0.600480  1
+  Ni  Ni8  1  0.750000  0.833475  0.575015  1
+  Ni  Ni9  1  0.250000  0.166525  0.424985  1
+  Ru  Ru10  1  0.750000  0.345410  0.929916  1
+  Ru  Ru11  1  0.250000  0.654590  0.070084  1

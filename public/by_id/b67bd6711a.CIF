@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Li3Lu3InSn2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.22733900
+_cell_length_b   7.22733773
+_cell_length_c   4.51710000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000123
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3Lu3InSn2
+_chemical_formula_sum   'Li3 Lu3 In1 Sn2'
+_cell_volume   204.33704425
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.764707  0.000000  0.500001  1
+  Li  Li1  1  0.235294  0.235293  0.500001  1
+  Li  Li2  1  0.000000  0.764707  0.500001  1
+  Lu  Lu3  1  0.443746  0.000000  0.000000  1
+  Lu  Lu4  1  0.000000  0.443746  0.000000  1
+  Lu  Lu5  1  0.556254  0.556255  0.000000  1
+  In  In6  1  0.000000  0.000000  0.000000  1
+  Sn  Sn7  1  0.666667  0.333334  0.500001  1
+  Sn  Sn8  1  0.333334  0.666667  0.500001  1

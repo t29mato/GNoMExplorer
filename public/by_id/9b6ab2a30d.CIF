@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Mn3Ni(MoP)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.70484500
+_cell_length_b   5.89891914
+_cell_length_c   6.80634700
+_cell_angle_alpha   90.75903735
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn3Ni(MoP)4
+_chemical_formula_sum   'Mn3 Ni1 Mo4 P4'
+_cell_volume   148.73680962
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.250000  0.355375  0.562458  1
+  Mn  Mn1  1  0.750000  0.133150  0.057646  1
+  Mn  Mn2  1  0.750000  0.641168  0.442696  1
+  Ni  Ni3  1  0.250000  0.857502  0.932082  1
+  Mo  Mo4  1  0.250000  0.973590  0.326822  1
+  Mo  Mo5  1  0.250000  0.474102  0.180327  1
+  Mo  Mo6  1  0.750000  0.036822  0.672606  1
+  Mo  Mo7  1  0.750000  0.525051  0.825006  1
+  P  P8  1  0.250000  0.239764  0.882502  1
+  P  P9  1  0.250000  0.730623  0.617176  1
+  P  P10  1  0.750000  0.762608  0.125934  1
+  P  P11  1  0.750000  0.270246  0.374743  1

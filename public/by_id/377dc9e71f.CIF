@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Pr10Si4SnHg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.92354842
+_cell_length_b   7.92354961
+_cell_length_c   9.28440904
+_cell_angle_alpha   115.25912244
+_cell_angle_beta   115.25912125
+_cell_angle_gamma   89.99999544
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr10Si4SnHg
+_chemical_formula_sum   'Pr10 Si4 Sn1 Hg1'
+_cell_volume   464.79894334
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.515854  0.515854  0.031710  1
+  Pr  Pr1  1  0.984146  0.984146  0.968290  1
+  Pr  Pr2  1  0.966721  0.819358  0.277159  1
+  Pr  Pr3  1  0.310438  0.457801  0.277159  1
+  Pr  Pr4  1  0.819358  0.310438  0.277159  1
+  Pr  Pr5  1  0.457801  0.966721  0.277159  1
+  Pr  Pr6  1  0.042199  0.189562  0.722841  1
+  Pr  Pr7  1  0.680642  0.533279  0.722841  1
+  Pr  Pr8  1  0.189562  0.680642  0.722841  1
+  Pr  Pr9  1  0.533279  0.042199  0.722841  1
+  Si  Si10  1  0.614204  0.885796  0.000000  1
+  Si  Si11  1  0.385796  0.114204  0.000000  1
+  Si  Si12  1  0.885796  0.385796  0.000000  1
+  Si  Si13  1  0.114204  0.614204  0.000000  1
+  Sn  Sn14  1  0.750000  0.750000  0.500000  1
+  Hg  Hg15  1  0.250000  0.250000  0.500000  1

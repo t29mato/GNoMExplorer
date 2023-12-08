@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ta4ReTc2Ru
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.37693101
+_cell_length_b   4.51353000
+_cell_length_c   9.00506702
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.99266931
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta4ReTc2Ru
+_chemical_formula_sum   'Ta8 Re2 Tc4 Ru2'
+_cell_volume   259.18806410
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.499508  0.750001  0.125705  1
+  Ta  Ta1  1  0.000500  0.750001  0.125701  1
+  Ta  Ta2  1  0.500969  0.250000  0.374284  1
+  Ta  Ta3  1  0.999033  0.250000  0.374285  1
+  Ta  Ta4  1  0.998817  0.750001  0.624205  1
+  Ta  Ta5  1  0.501187  0.750001  0.624210  1
+  Ta  Ta6  1  0.000772  0.250000  0.875798  1
+  Ta  Ta7  1  0.499238  0.250000  0.875793  1
+  Re  Re8  1  0.250012  0.250000  0.124522  1
+  Re  Re9  1  0.749985  0.750001  0.375451  1
+  Tc  Tc10  1  0.749987  0.250000  0.122917  1
+  Tc  Tc11  1  0.249974  0.750001  0.377005  1
+  Tc  Tc12  1  0.750019  0.250000  0.626951  1
+  Tc  Tc13  1  0.249995  0.750001  0.873171  1
+  Ru  Ru14  1  0.249998  0.250000  0.625406  1
+  Ru  Ru15  1  0.750009  0.750001  0.874594  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Er3Be2Co5(NiB)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.98816600
+_cell_length_b   5.00873216
+_cell_length_c   9.42834000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.86426530
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er3Be2Co5(NiB)4
+_chemical_formula_sum   'Er3 Be2 Co5 Ni4 B4'
+_cell_volume   204.28052136
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.000000  0.000000  0.000000  1
+  Er  Er1  1  0.000000  0.000000  0.661372  1
+  Er  Er2  1  0.000000  0.000000  0.338628  1
+  Be  Be3  1  0.659637  0.319273  0.000000  1
+  Be  Be4  1  0.340363  0.680727  0.000000  1
+  Co  Co5  1  0.500000  0.500000  0.500000  1
+  Co  Co6  1  0.500000  0.000000  0.500000  1
+  Co  Co7  1  0.000000  0.500000  0.500000  1
+  Co  Co8  1  0.500000  0.000000  0.808413  1
+  Co  Co9  1  0.500000  0.000000  0.191587  1
+  Ni  Ni10  1  0.500000  0.500000  0.812040  1
+  Ni  Ni11  1  0.000000  0.500000  0.812040  1
+  Ni  Ni12  1  0.500000  0.500000  0.187960  1
+  Ni  Ni13  1  0.000000  0.500000  0.187960  1
+  B  B14  1  0.664195  0.328388  0.656418  1
+  B  B15  1  0.335805  0.671612  0.656418  1
+  B  B16  1  0.335805  0.671612  0.343582  1
+  B  B17  1  0.664195  0.328388  0.343582  1

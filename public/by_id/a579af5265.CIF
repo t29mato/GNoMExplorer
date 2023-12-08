@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_PaSbO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.54198352
+_cell_length_b   5.54198334
+_cell_length_c   7.67379366
+_cell_angle_alpha   69.79463150
+_cell_angle_beta   69.79463422
+_cell_angle_gamma   72.97322381
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PaSbO5
+_chemical_formula_sum   'Pa2 Sb2 O10'
+_cell_volume   203.50486284
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.464646  0.535354  0.750000  1
+  Pa  Pa1  1  0.535354  0.464646  0.250000  1
+  Sb  Sb2  1  0.000000  0.000000  0.000000  1
+  Sb  Sb3  1  0.000000  0.000000  0.500000  1
+  O  O4  1  0.227760  0.266276  0.872967  1
+  O  O5  1  0.772240  0.733724  0.127033  1
+  O  O6  1  0.733724  0.772240  0.627033  1
+  O  O7  1  0.266276  0.227760  0.372967  1
+  O  O8  1  0.090836  0.909164  0.750000  1
+  O  O9  1  0.909164  0.090836  0.250000  1
+  O  O10  1  0.691586  0.292645  0.968143  1
+  O  O11  1  0.308414  0.707355  0.031857  1
+  O  O12  1  0.292645  0.691586  0.468143  1
+  O  O13  1  0.707355  0.308414  0.531857  1

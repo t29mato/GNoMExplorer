@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_PrSm(Th2In5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.62452345
+_cell_length_b   6.62452483
+_cell_length_c   10.40081300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   102.44896529
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrSm(Th2In5)2
+_chemical_formula_sum   'Pr1 Sm1 Th4 In10'
+_cell_volume   445.70114913
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.630845  0.630845  0.250000  1
+  Sm  Sm1  1  0.368425  0.368425  0.750000  1
+  Th  Th2  1  0.205728  0.794221  0.500249  1
+  Th  Th3  1  0.205728  0.794221  0.999751  1
+  Th  Th4  1  0.794221  0.205728  0.500249  1
+  Th  Th5  1  0.794221  0.205728  0.999751  1
+  In  In6  1  0.014589  0.014589  0.250000  1
+  In  In7  1  0.986531  0.986531  0.750000  1
+  In  In8  1  0.308375  0.308375  0.047440  1
+  In  In9  1  0.691184  0.691184  0.950944  1
+  In  In10  1  0.308375  0.308375  0.452560  1
+  In  In11  1  0.691184  0.691184  0.549056  1
+  In  In12  1  0.493996  0.071972  0.250000  1
+  In  In13  1  0.929133  0.505496  0.750000  1
+  In  In14  1  0.505496  0.929133  0.750000  1
+  In  In15  1  0.071972  0.493996  0.250000  1

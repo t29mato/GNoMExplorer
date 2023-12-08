@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_DyPa(CuRh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.78400500
+_cell_length_b   7.05481870
+_cell_length_c   8.24880819
+_cell_angle_alpha   92.38193059
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyPa(CuRh)2
+_chemical_formula_sum   'Dy2 Pa2 Cu4 Rh4'
+_cell_volume   220.01554430
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.250000  0.058250  0.309782  1
+  Dy  Dy1  1  0.750000  0.941741  0.690216  1
+  Pa  Pa2  1  0.250000  0.551674  0.195344  1
+  Pa  Pa3  1  0.750000  0.448358  0.804624  1
+  Cu  Cu4  1  0.250000  0.104836  0.937272  1
+  Cu  Cu5  1  0.750000  0.895168  0.062735  1
+  Cu  Cu6  1  0.250000  0.621884  0.558357  1
+  Cu  Cu7  1  0.750000  0.378057  0.441696  1
+  Rh  Rh8  1  0.750000  0.747568  0.359693  1
+  Rh  Rh9  1  0.250000  0.252444  0.640291  1
+  Rh  Rh10  1  0.750000  0.284337  0.112733  1
+  Rh  Rh11  1  0.250000  0.715684  0.887258  1

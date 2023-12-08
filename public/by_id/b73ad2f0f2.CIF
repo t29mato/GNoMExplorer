@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_LiPr6CoBr12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.58263502
+_cell_length_b   9.58263403
+_cell_length_c   9.58263495
+_cell_angle_alpha   108.04955053
+_cell_angle_beta   108.04955995
+_cell_angle_gamma   108.04955550
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiPr6CoBr12
+_chemical_formula_sum   'Li1 Pr6 Co1 Br12'
+_cell_volume   710.80106461
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.500000  0.500000  0.500000  1
+  Pr  Pr1  1  0.964955  0.884954  0.679860  1
+  Pr  Pr2  1  0.035045  0.115046  0.320140  1
+  Pr  Pr3  1  0.115046  0.320140  0.035045  1
+  Pr  Pr4  1  0.320140  0.035045  0.115046  1
+  Pr  Pr5  1  0.884954  0.679860  0.964955  1
+  Pr  Pr6  1  0.679860  0.964955  0.884954  1
+  Co  Co7  1  0.000000  0.000000  0.000000  1
+  Br  Br8  1  0.535266  0.614532  0.820892  1
+  Br  Br9  1  0.464734  0.385468  0.179108  1
+  Br  Br10  1  0.314064  0.927709  0.781119  1
+  Br  Br11  1  0.385468  0.179108  0.464734  1
+  Br  Br12  1  0.927709  0.781119  0.314064  1
+  Br  Br13  1  0.685936  0.072291  0.218881  1
+  Br  Br14  1  0.072291  0.218881  0.685936  1
+  Br  Br15  1  0.781119  0.314064  0.927709  1
+  Br  Br16  1  0.218881  0.685936  0.072291  1
+  Br  Br17  1  0.820892  0.535266  0.614532  1
+  Br  Br18  1  0.179108  0.464734  0.385468  1
+  Br  Br19  1  0.614532  0.820892  0.535266  1

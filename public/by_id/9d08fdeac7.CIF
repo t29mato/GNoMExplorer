@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Ti10Ga3As3N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.55902800
+_cell_length_b   7.55902913
+_cell_length_c   5.18705900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000382
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti10Ga3As3N
+_chemical_formula_sum   'Ti10 Ga3 As3 N1'
+_cell_volume   256.67512117
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.000000  0.766019  0.260331  1
+  Ti  Ti1  1  0.233981  0.233981  0.260331  1
+  Ti  Ti2  1  0.766019  0.000000  0.260331  1
+  Ti  Ti3  1  0.000000  0.235016  0.740604  1
+  Ti  Ti4  1  0.764984  0.764984  0.740604  1
+  Ti  Ti5  1  0.235016  0.000000  0.740604  1
+  Ti  Ti6  1  0.333333  0.666667  0.499926  1
+  Ti  Ti7  1  0.666667  0.333333  0.499926  1
+  Ti  Ti8  1  0.666667  0.333333  0.999367  1
+  Ti  Ti9  1  0.333333  0.666667  0.999367  1
+  Ga  Ga10  1  0.000000  0.603049  0.753893  1
+  Ga  Ga11  1  0.396951  0.396951  0.753893  1
+  Ga  Ga12  1  0.603049  0.000000  0.753893  1
+  As  As13  1  0.000000  0.398183  0.245341  1
+  As  As14  1  0.601817  0.601817  0.245341  1
+  As  As15  1  0.398183  0.000000  0.245341  1
+  N  N16  1  0.000000  0.000000  0.500904  1

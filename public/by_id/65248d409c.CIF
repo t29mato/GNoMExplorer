@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SrAc3(CdIn)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.13480900
+_cell_length_b   8.27133928
+_cell_length_c   8.59893107
+_cell_angle_alpha   89.88410175
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrAc3(CdIn)4
+_chemical_formula_sum   'Sr1 Ac3 Cd4 In4'
+_cell_volume   365.21088091
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.750000  0.498281  0.782804  1
+  Ac  Ac1  1  0.250000  0.001292  0.286275  1
+  Ac  Ac2  1  0.250000  0.500587  0.212140  1
+  Ac  Ac3  1  0.750000  0.998960  0.715566  1
+  Cd  Cd4  1  0.750000  0.196346  0.085972  1
+  Cd  Cd5  1  0.750000  0.692767  0.415376  1
+  Cd  Cd6  1  0.250000  0.806280  0.914327  1
+  Cd  Cd7  1  0.250000  0.309950  0.586803  1
+  In  In8  1  0.750000  0.298747  0.413631  1
+  In  In9  1  0.250000  0.197019  0.913772  1
+  In  In10  1  0.750000  0.796615  0.087442  1
+  In  In11  1  0.250000  0.703158  0.585893  1

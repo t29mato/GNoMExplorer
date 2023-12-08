@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Er2CoNi(SnH)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.22199500
+_cell_length_b   7.05533526
+_cell_length_c   8.16469721
+_cell_angle_alpha   90.63723783
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er2CoNi(SnH)2
+_chemical_formula_sum   'Er4 Co2 Ni2 Sn4 H4'
+_cell_volume   243.19161267
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.750000  0.014109  0.683313  1
+  Er  Er1  1  0.250000  0.985891  0.316687  1
+  Er  Er2  1  0.250000  0.484725  0.190196  1
+  Er  Er3  1  0.750000  0.515275  0.809804  1
+  Co  Co4  1  0.250000  0.730243  0.608797  1
+  Co  Co5  1  0.750000  0.269757  0.391203  1
+  Ni  Ni6  1  0.750000  0.772358  0.106463  1
+  Ni  Ni7  1  0.250000  0.227642  0.893537  1
+  Sn  Sn8  1  0.750000  0.654190  0.428388  1
+  Sn  Sn9  1  0.250000  0.345810  0.571612  1
+  Sn  Sn10  1  0.250000  0.843334  0.927080  1
+  Sn  Sn11  1  0.750000  0.156666  0.072920  1
+  H  H12  1  0.250000  0.449531  0.922708  1
+  H  H13  1  0.750000  0.550469  0.077292  1
+  H  H14  1  0.750000  0.048692  0.420190  1
+  H  H15  1  0.250000  0.951308  0.579810  1

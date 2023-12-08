@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_CaGaCo2P
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.77215497
+_cell_length_b   5.77215451
+_cell_length_c   5.77215468
+_cell_angle_alpha   140.65198596
+_cell_angle_beta   140.65198064
+_cell_angle_gamma   56.86468136
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaGaCo2P
+_chemical_formula_sum   'Ca1 Ga1 Co2 P1'
+_cell_volume   76.67512207
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.994296  0.994296  0.000000  1
+  Ga  Ga1  1  0.625147  0.625147  0.000000  1
+  Co  Co2  1  0.259647  0.759647  0.500000  1
+  Co  Co3  1  0.759647  0.259647  0.500000  1
+  P  P4  1  0.361263  0.361263  0.000000  1

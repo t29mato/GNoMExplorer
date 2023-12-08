@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_DyPa3(AlCo2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.19067704
+_cell_length_b   7.19067718
+_cell_length_c   3.50612600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   87.68513494
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyPa3(AlCo2)2
+_chemical_formula_sum   'Dy1 Pa3 Al2 Co4'
+_cell_volume   181.13924101
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.326124  0.826124  0.500000  1
+  Pa  Pa1  1  0.674111  0.174111  0.500000  1
+  Pa  Pa2  1  0.177321  0.328702  0.500000  1
+  Pa  Pa3  1  0.828702  0.677321  0.500000  1
+  Al  Al4  1  0.004338  0.002462  0.000000  1
+  Al  Al5  1  0.502462  0.504338  0.000000  1
+  Co  Co6  1  0.852836  0.352836  0.000000  1
+  Co  Co7  1  0.372678  0.154656  0.000000  1
+  Co  Co8  1  0.654656  0.872678  0.000000  1
+  Co  Co9  1  0.106772  0.606772  0.000000  1

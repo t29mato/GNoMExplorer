@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Dy3Er(ScPt)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.61415600
+_cell_length_b   6.97503058
+_cell_length_c   8.39779149
+_cell_angle_alpha   89.95221611
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy3Er(ScPt)4
+_chemical_formula_sum   'Dy3 Er1 Sc4 Pt4'
+_cell_volume   270.27341306
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.250000  0.018847  0.324024  1
+  Dy  Dy1  1  0.250000  0.519005  0.175522  1
+  Dy  Dy2  1  0.750000  0.980883  0.676622  1
+  Er  Er3  1  0.750000  0.480765  0.824426  1
+  Sc  Sc4  1  0.250000  0.640392  0.572955  1
+  Sc  Sc5  1  0.250000  0.141803  0.927866  1
+  Sc  Sc6  1  0.750000  0.359077  0.428532  1
+  Sc  Sc7  1  0.750000  0.858884  0.071552  1
+  Pt  Pt8  1  0.250000  0.255267  0.600403  1
+  Pt  Pt9  1  0.250000  0.754128  0.899066  1
+  Pt  Pt10  1  0.750000  0.745228  0.400128  1
+  Pt  Pt11  1  0.750000  0.245719  0.098901  1

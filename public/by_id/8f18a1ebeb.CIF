@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Dy3Tm(FeOs)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.27833729
+_cell_length_b   5.26655727
+_cell_length_c   9.03814464
+_cell_angle_alpha   73.06110437
+_cell_angle_beta   90.95012645
+_cell_angle_gamma   119.92618553
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy3Tm(FeOs)4
+_chemical_formula_sum   'Dy3 Tm1 Fe4 Os4'
+_cell_volume   205.77448546
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.377292  0.751496  0.874300  1
+  Dy  Dy1  1  0.997624  0.998166  0.001294  1
+  Dy  Dy2  1  0.498094  0.998889  0.500315  1
+  Tm  Tm3  1  0.877495  0.751735  0.374024  1
+  Fe  Fe4  1  0.187428  0.375070  0.437287  1
+  Fe  Fe5  1  0.687360  0.374892  0.937578  1
+  Fe  Fe6  1  0.937234  0.374441  0.188354  1
+  Fe  Fe7  1  0.437853  0.375517  0.686819  1
+  Os  Os8  1  0.437436  0.374179  0.188700  1
+  Os  Os9  1  0.937373  0.375664  0.686314  1
+  Os  Os10  1  0.437436  0.874557  0.188700  1
+  Os  Os11  1  0.937373  0.875393  0.686314  1

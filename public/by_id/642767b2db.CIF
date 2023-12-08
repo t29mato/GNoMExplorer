@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Er2Al2PtRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.35923900
+_cell_length_b   6.78139939
+_cell_length_c   7.81273982
+_cell_angle_alpha   90.09677838
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er2Al2PtRh
+_chemical_formula_sum   'Er4 Al4 Pt2 Rh2'
+_cell_volume   230.95785919
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.250000  0.468677  0.182896  1
+  Er  Er1  1  0.750000  0.531323  0.817104  1
+  Er  Er2  1  0.750000  0.029399  0.678463  1
+  Er  Er3  1  0.250000  0.970601  0.321537  1
+  Al  Al4  1  0.250000  0.856171  0.936865  1
+  Al  Al5  1  0.750000  0.143829  0.063135  1
+  Al  Al6  1  0.750000  0.638152  0.437456  1
+  Al  Al7  1  0.250000  0.361848  0.562544  1
+  Pt  Pt8  1  0.750000  0.769338  0.117449  1
+  Pt  Pt9  1  0.250000  0.230662  0.882551  1
+  Rh  Rh10  1  0.250000  0.736388  0.616204  1
+  Rh  Rh11  1  0.750000  0.263612  0.383796  1

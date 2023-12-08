@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ho4Np(FeB3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.41140795
+_cell_length_b   5.41140725
+_cell_length_c   7.90701200
+_cell_angle_alpha   69.98961423
+_cell_angle_beta   69.98962821
+_cell_angle_gamma   59.99998232
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho4Np(FeB3)2
+_chemical_formula_sum   'Ho4 Np1 Fe2 B6'
+_cell_volume   184.20539514
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.254419  0.254419  0.236745  1
+  Ho  Ho1  1  0.745581  0.745581  0.763255  1
+  Ho  Ho2  1  0.412809  0.412809  0.761570  1
+  Ho  Ho3  1  0.587191  0.587191  0.238430  1
+  Np  Np4  1  0.000000  0.000000  0.000000  1
+  Fe  Fe5  1  0.107508  0.107508  0.677478  1
+  Fe  Fe6  1  0.892492  0.892492  0.322522  1
+  B  B7  1  0.166768  0.833232  0.500000  1
+  B  B8  1  0.833232  0.500000  0.500000  1
+  B  B9  1  0.500000  0.166768  0.500000  1
+  B  B10  1  0.166768  0.500000  0.500000  1
+  B  B11  1  0.500000  0.833232  0.500000  1
+  B  B12  1  0.833232  0.166768  0.500000  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Lu4Fe2CoSi4Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.16773200
+_cell_length_b   6.74021335
+_cell_length_c   6.98800678
+_cell_angle_alpha   90.01492514
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu4Fe2CoSi4Rh
+_chemical_formula_sum   'Lu4 Fe2 Co1 Si4 Rh1'
+_cell_volume   196.30290715
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.250000  0.992840  0.804278  1
+  Lu  Lu1  1  0.750000  0.009268  0.193552  1
+  Lu  Lu2  1  0.250000  0.484264  0.689858  1
+  Lu  Lu3  1  0.750000  0.508788  0.311645  1
+  Fe  Fe4  1  0.750000  0.849934  0.566597  1
+  Fe  Fe5  1  0.750000  0.347941  0.935172  1
+  Co  Co6  1  0.250000  0.155444  0.436879  1
+  Si  Si7  1  0.250000  0.294107  0.099738  1
+  Si  Si8  1  0.750000  0.697059  0.879452  1
+  Si  Si9  1  0.250000  0.804158  0.407935  1
+  Si  Si10  1  0.750000  0.197057  0.607759  1
+  Rh  Rh11  1  0.250000  0.659139  0.067133  1

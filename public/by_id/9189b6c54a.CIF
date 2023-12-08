@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_LiNd3Al2Si2Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.24603700
+_cell_length_b   7.08878408
+_cell_length_c   4.36213800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.73656810
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiNd3Al2Si2Pt
+_chemical_formula_sum   'Li1 Nd3 Al2 Si2 Pt1'
+_cell_volume   192.58871749
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.766243  0.000000  0.500001  1
+  Nd  Nd1  1  0.422514  0.000000  0.000000  1
+  Nd  Nd2  1  0.991474  0.407456  0.000000  1
+  Nd  Nd3  1  0.584018  0.592544  0.000000  1
+  Al  Al4  1  0.229132  0.231133  0.500001  1
+  Al  Al5  1  0.998000  0.768867  0.500001  1
+  Si  Si6  1  0.664092  0.345125  0.500001  1
+  Si  Si7  1  0.318967  0.654875  0.500001  1
+  Pt  Pt8  1  0.025559  0.000000  0.000000  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_LaSb(TeO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.07008402
+_cell_length_b   7.07008496
+_cell_length_c   10.33803394
+_cell_angle_alpha   66.59866301
+_cell_angle_beta   66.59866157
+_cell_angle_gamma   49.62462715
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaSb(TeO4)2
+_chemical_formula_sum   'La2 Sb2 Te4 O16'
+_cell_volume   353.98786681
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.430583  0.569417  0.750000  1
+  La  La1  1  0.569417  0.430583  0.250000  1
+  Sb  Sb2  1  0.000000  0.000000  0.500000  1
+  Sb  Sb3  1  0.000000  0.000000  0.000000  1
+  Te  Te4  1  0.694040  0.882700  0.852883  1
+  Te  Te5  1  0.882700  0.694040  0.352883  1
+  Te  Te6  1  0.117300  0.305960  0.647117  1
+  Te  Te7  1  0.305960  0.117300  0.147117  1
+  O  O8  1  0.980083  0.804802  0.907535  1
+  O  O9  1  0.804802  0.980083  0.407535  1
+  O  O10  1  0.338785  0.864398  0.873489  1
+  O  O11  1  0.792849  0.570571  0.586921  1
+  O  O12  1  0.860095  0.304501  0.835575  1
+  O  O13  1  0.864398  0.338785  0.373489  1
+  O  O14  1  0.570571  0.792849  0.086921  1
+  O  O15  1  0.304501  0.860095  0.335575  1
+  O  O16  1  0.695499  0.139905  0.664425  1
+  O  O17  1  0.429429  0.207151  0.913079  1
+  O  O18  1  0.135602  0.661215  0.626511  1
+  O  O19  1  0.139905  0.695499  0.164425  1
+  O  O20  1  0.207151  0.429429  0.413079  1
+  O  O21  1  0.661215  0.135602  0.126511  1
+  O  O22  1  0.195198  0.019917  0.592465  1
+  O  O23  1  0.019917  0.195198  0.092465  1

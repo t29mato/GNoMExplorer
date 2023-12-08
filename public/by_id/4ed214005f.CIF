@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Tb3Tm(Os3W)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.53830710
+_cell_length_b   5.53830670
+_cell_length_c   8.41181000
+_cell_angle_alpha   90.00012221
+_cell_angle_beta   89.99987662
+_cell_angle_gamma   120.00564393
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb3Tm(Os3W)2
+_chemical_formula_sum   'Tb3 Tm1 Os6 W2'
+_cell_volume   223.43408215
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.666662  0.333338  0.564742  1
+  Tb  Tb1  1  0.333335  0.666665  0.435353  1
+  Tb  Tb2  1  0.333333  0.666667  0.064245  1
+  Tm  Tm3  1  0.666662  0.333338  0.936287  1
+  Os  Os4  1  0.172390  0.344754  0.750808  1
+  Os  Os5  1  0.172376  0.827624  0.750807  1
+  Os  Os6  1  0.655246  0.827610  0.750808  1
+  Os  Os7  1  0.827430  0.654801  0.248970  1
+  Os  Os8  1  0.827356  0.172644  0.248966  1
+  Os  Os9  1  0.345199  0.172570  0.248970  1
+  W  W10  1  0.000005  0.999995  0.499876  1
+  W  W11  1  0.000006  0.999994  0.000166  1

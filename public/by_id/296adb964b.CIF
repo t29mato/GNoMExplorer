@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sc4Fe2Cu3Si2Os
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.04829300
+_cell_length_b   5.16100072
+_cell_length_c   7.99994400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.39193988
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc4Fe2Cu3Si2Os
+_chemical_formula_sum   'Sc4 Fe2 Cu3 Si2 Os1'
+_cell_volume   181.60365734
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.664978  0.330354  0.052951  1
+  Sc  Sc1  1  0.335689  0.671244  0.934809  1
+  Sc  Sc2  1  0.335689  0.671244  0.565191  1
+  Sc  Sc3  1  0.664978  0.330354  0.447049  1
+  Fe  Fe4  1  0.826517  0.167908  0.750000  1
+  Fe  Fe5  1  0.341276  0.167886  0.750000  1
+  Cu  Cu6  1  0.169055  0.338156  0.250000  1
+  Cu  Cu7  1  0.167605  0.830864  0.250000  1
+  Cu  Cu8  1  0.663284  0.830920  0.250000  1
+  Si  Si9  1  0.002314  0.004206  0.503950  1
+  Si  Si10  1  0.002314  0.004206  0.996050  1
+  Os  Os11  1  0.826300  0.652658  0.750000  1

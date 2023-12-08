@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_TaNb2VCoNi2B7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.31229500
+_cell_length_b   9.31229474
+_cell_length_c   8.96208400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   160.05014889
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaNb2VCoNi2B7
+_chemical_formula_sum   'Ta2 Nb4 V2 Co2 Ni4 B14'
+_cell_volume   265.17240788
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.699516  0.300484  0.250000  1
+  Ta  Ta1  1  0.300484  0.699516  0.750000  1
+  Nb  Nb2  1  0.583732  0.416268  0.555733  1
+  Nb  Nb3  1  0.416268  0.583732  0.444267  1
+  Nb  Nb4  1  0.416268  0.583732  0.055733  1
+  Nb  Nb5  1  0.583732  0.416268  0.944267  1
+  V  V6  1  0.541629  0.458371  0.250000  1
+  V  V7  1  0.458371  0.541629  0.750000  1
+  Co  Co8  1  0.843901  0.156099  0.250000  1
+  Co  Co9  1  0.156099  0.843901  0.750000  1
+  Ni  Ni10  1  0.800385  0.199615  0.505413  1
+  Ni  Ni11  1  0.199615  0.800385  0.494587  1
+  Ni  Ni12  1  0.199615  0.800385  0.005413  1
+  Ni  Ni13  1  0.800385  0.199615  0.994587  1
+  B  B14  1  0.954367  0.045633  0.250000  1
+  B  B15  1  0.045633  0.954367  0.750000  1
+  B  B16  1  0.888671  0.111329  0.649286  1
+  B  B17  1  0.111329  0.888671  0.350714  1
+  B  B18  1  0.111329  0.888671  0.149286  1
+  B  B19  1  0.888671  0.111329  0.850714  1
+  B  B20  1  0.709691  0.290309  0.650099  1
+  B  B21  1  0.290309  0.709691  0.349901  1
+  B  B22  1  0.290309  0.709691  0.150099  1
+  B  B23  1  0.709691  0.290309  0.849901  1
+  B  B24  1  0.985048  0.014952  0.590552  1
+  B  B25  1  0.014952  0.985048  0.409448  1
+  B  B26  1  0.014952  0.985048  0.090552  1
+  B  B27  1  0.985048  0.014952  0.909448  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ta4Cr6GeP
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.86894300
+_cell_length_b   4.86894333
+_cell_length_c   8.08800300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999095
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta4Cr6GeP
+_chemical_formula_sum   'Ta4 Cr6 Ge1 P1'
+_cell_volume   166.05095793
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.333333  0.666667  0.433412  1
+  Ta  Ta1  1  0.666667  0.333333  0.566588  1
+  Ta  Ta2  1  0.666667  0.333333  0.934463  1
+  Ta  Ta3  1  0.333333  0.666667  0.065537  1
+  Cr  Cr4  1  0.827029  0.172971  0.245503  1
+  Cr  Cr5  1  0.827029  0.654060  0.245503  1
+  Cr  Cr6  1  0.345940  0.172971  0.245503  1
+  Cr  Cr7  1  0.172971  0.827029  0.754497  1
+  Cr  Cr8  1  0.172971  0.345940  0.754497  1
+  Cr  Cr9  1  0.654060  0.827029  0.754497  1
+  Ge  Ge10  1  0.000000  0.000000  0.500000  1
+  P  P11  1  0.000000  0.000000  0.000000  1

@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_SmFe3P12Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.82695918
+_cell_length_b   6.82695868
+_cell_length_c   6.81104500
+_cell_angle_alpha   109.42400509
+_cell_angle_beta   109.42400362
+_cell_angle_gamma   109.51838943
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmFe3P12Rh
+_chemical_formula_sum   'Sm1 Fe3 P12 Rh1'
+_cell_volume   244.51145446
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.000000  0.000000  0.000000  1
+  Fe  Fe1  1  0.500000  0.000000  0.000000  1
+  Fe  Fe2  1  0.000000  0.500000  0.000000  1
+  Fe  Fe3  1  0.500000  0.500000  0.500000  1
+  P  P4  1  0.365254  0.209082  0.864511  1
+  P  P5  1  0.634746  0.790918  0.135489  1
+  P  P6  1  0.650111  0.499878  0.849034  1
+  P  P7  1  0.349889  0.500122  0.150966  1
+  P  P8  1  0.209082  0.843828  0.344571  1
+  P  P9  1  0.790918  0.156172  0.655429  1
+  P  P10  1  0.499878  0.849767  0.650844  1
+  P  P11  1  0.500122  0.150233  0.349156  1
+  P  P12  1  0.849767  0.349889  0.198923  1
+  P  P13  1  0.150233  0.650111  0.801077  1
+  P  P14  1  0.843828  0.634746  0.499257  1
+  P  P15  1  0.156172  0.365254  0.500743  1
+  Rh  Rh16  1  0.000000  0.000000  0.500000  1

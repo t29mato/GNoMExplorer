@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YTm2(NiIr2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.28405739
+_cell_length_b   5.28405682
+_cell_length_c   8.73257896
+_cell_angle_alpha   72.38925786
+_cell_angle_beta   72.38926201
+_cell_angle_gamma   60.00000195
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YTm2(NiIr2)3
+_chemical_formula_sum   'Y1 Tm2 Ni3 Ir6'
+_cell_volume   197.85347098
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.000000  0.000000  0.000000  1
+  Tm  Tm1  1  0.140687  0.140687  0.577939  1
+  Tm  Tm2  1  0.859313  0.859313  0.422061  1
+  Ni  Ni3  1  0.333025  0.333025  0.000923  1
+  Ni  Ni4  1  0.666975  0.666975  0.999077  1
+  Ni  Ni5  1  0.500000  0.500000  0.500000  1
+  Ir  Ir6  1  0.081051  0.583024  0.752901  1
+  Ir  Ir7  1  0.583024  0.583024  0.752901  1
+  Ir  Ir8  1  0.583024  0.081051  0.752901  1
+  Ir  Ir9  1  0.918949  0.416976  0.247099  1
+  Ir  Ir10  1  0.416976  0.416976  0.247099  1
+  Ir  Ir11  1  0.416976  0.918949  0.247099  1

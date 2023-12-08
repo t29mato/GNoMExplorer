@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LuScFeSi2Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.13887700
+_cell_length_b   6.66814600
+_cell_length_c   7.00079600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuScFeSi2Rh
+_chemical_formula_sum   'Lu2 Sc2 Fe2 Si4 Rh2'
+_cell_volume   193.21242130
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.250000  0.998960  0.316294  1
+  Lu  Lu1  1  0.250000  0.498960  0.183706  1
+  Sc  Sc2  1  0.750000  0.512666  0.802964  1
+  Sc  Sc3  1  0.750000  0.012666  0.697036  1
+  Fe  Fe4  1  0.250000  0.646022  0.567414  1
+  Fe  Fe5  1  0.250000  0.146022  0.932586  1
+  Si  Si6  1  0.250000  0.801151  0.868711  1
+  Si  Si7  1  0.250000  0.301151  0.631289  1
+  Si  Si8  1  0.750000  0.205418  0.088340  1
+  Si  Si9  1  0.750000  0.705418  0.411660  1
+  Rh  Rh10  1  0.750000  0.835783  0.057653  1
+  Rh  Rh11  1  0.750000  0.335783  0.442347  1

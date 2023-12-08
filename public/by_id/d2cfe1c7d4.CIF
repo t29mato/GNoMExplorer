@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Re(PtRh3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.13978918
+_cell_length_b   6.13978839
+_cell_length_c   6.13978896
+_cell_angle_alpha   95.78979270
+_cell_angle_beta   95.66355866
+_cell_angle_gamma   143.17157733
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Re(PtRh3)2
+_chemical_formula_sum   'Re1 Pt2 Rh6'
+_cell_volume   131.63317733
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Re  Re0  1  0.000000  0.000000  0.000000  1
+  Pt  Pt1  1  0.670475  0.000000  0.670475  1
+  Pt  Pt2  1  0.329525  0.000000  0.329525  1
+  Rh  Rh3  1  0.339943  0.338919  0.678863  1
+  Rh  Rh4  1  0.660057  0.661081  0.321137  1
+  Rh  Rh5  1  0.660057  0.338919  0.998977  1
+  Rh  Rh6  1  0.339943  0.661081  0.001023  1
+  Rh  Rh7  1  0.000000  0.325355  0.325355  1
+  Rh  Rh8  1  0.000000  0.674645  0.674645  1

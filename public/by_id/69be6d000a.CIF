@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Y2AlCo(Os2C)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.76908896
+_cell_length_b   5.76908893
+_cell_length_c   7.36263300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   140.79420127
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2AlCo(Os2C)2
+_chemical_formula_sum   'Y2 Al1 Co1 Os4 C2'
+_cell_volume   154.89547232
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.543442  0.456558  0.250000  1
+  Y  Y1  1  0.458227  0.541773  0.750000  1
+  Al  Al2  1  0.269090  0.730910  0.250000  1
+  Co  Co3  1  0.731706  0.268294  0.750000  1
+  Os  Os4  1  0.828994  0.171006  0.047130  1
+  Os  Os5  1  0.168519  0.831481  0.934992  1
+  Os  Os6  1  0.168519  0.831481  0.565008  1
+  Os  Os7  1  0.828994  0.171006  0.452870  1
+  C  C8  1  0.001255  0.998745  0.002860  1
+  C  C9  1  0.001255  0.998745  0.497140  1

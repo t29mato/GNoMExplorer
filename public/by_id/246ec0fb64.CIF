@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_NdThMgSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.36015443
+_cell_length_b   7.36015443
+_cell_length_c   4.36372900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.28292340
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdThMgSi2
+_chemical_formula_sum   'Nd2 Th2 Mg2 Si4'
+_cell_volume   236.38849242
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.178511  0.321489  0.500000  1
+  Nd  Nd1  1  0.821489  0.678511  0.500000  1
+  Th  Th2  1  0.678537  0.178537  0.500000  1
+  Th  Th3  1  0.321463  0.821463  0.500000  1
+  Mg  Mg4  1  0.000000  0.000000  0.000000  1
+  Mg  Mg5  1  0.500000  0.500000  0.000000  1
+  Si  Si6  1  0.116701  0.616701  0.000000  1
+  Si  Si7  1  0.883299  0.383299  0.000000  1
+  Si  Si8  1  0.615782  0.884218  0.000000  1
+  Si  Si9  1  0.384218  0.115782  0.000000  1

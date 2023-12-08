@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Ti5Co16Si7Tc
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.82886168
+_cell_length_b   7.83790118
+_cell_length_c   7.83790221
+_cell_angle_alpha   59.92370169
+_cell_angle_beta   60.03814271
+_cell_angle_gamma   60.03814510
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti5Co16Si7Tc
+_chemical_formula_sum   'Ti5 Co16 Si7 Tc1'
+_cell_volume   340.08075614
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.801470  0.796968  0.198530  1
+  Ti  Ti1  1  0.792786  0.207214  0.207214  1
+  Ti  Ti2  1  0.203032  0.198530  0.796968  1
+  Ti  Ti3  1  0.801470  0.198530  0.796968  1
+  Ti  Ti4  1  0.203032  0.796968  0.198530  1
+  Co  Co5  1  0.620069  0.618002  0.141860  1
+  Co  Co6  1  0.165376  0.497115  0.172133  1
+  Co  Co7  1  0.858140  0.379931  0.379931  1
+  Co  Co8  1  0.502885  0.834624  0.834624  1
+  Co  Co9  1  0.506372  0.165414  0.165414  1
+  Co  Co10  1  0.834586  0.837202  0.493628  1
+  Co  Co11  1  0.165376  0.172133  0.497115  1
+  Co  Co12  1  0.144981  0.619042  0.619042  1
+  Co  Co13  1  0.162798  0.165414  0.165414  1
+  Co  Co14  1  0.380958  0.383065  0.855019  1
+  Co  Co15  1  0.616935  0.619042  0.619042  1
+  Co  Co16  1  0.380958  0.855019  0.383065  1
+  Co  Co17  1  0.381998  0.379931  0.379931  1
+  Co  Co18  1  0.827867  0.834624  0.834624  1
+  Co  Co19  1  0.620069  0.141860  0.618002  1
+  Co  Co20  1  0.834586  0.493628  0.837202  1
+  Si  Si21  1  0.496860  0.995937  0.503140  1
+  Si  Si22  1  0.496860  0.503140  0.995937  1
+  Si  Si23  1  0.502746  0.497254  0.497254  1
+  Si  Si24  1  0.004063  0.995937  0.503140  1
+  Si  Si25  1  0.004063  0.503140  0.995937  1
+  Si  Si26  1  0.997340  0.502660  0.502660  1
+  Si  Si27  1  0.497340  0.002660  0.002660  1
+  Tc  Tc28  1  0.194988  0.805012  0.805012  1

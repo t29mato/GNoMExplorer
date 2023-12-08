@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaH4Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.67295108
+_cell_length_b   6.67295094
+_cell_length_c   5.26425200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   151.65233837
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaH4Rh
+_chemical_formula_sum   'Na2 H8 Rh2'
+_cell_volume   111.30174649
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.124841  0.875159  0.209958  1
+  Na  Na1  1  0.875159  0.124841  0.709958  1
+  H  H2  1  0.320019  0.679981  0.415169  1
+  H  H3  1  0.679981  0.320019  0.915169  1
+  H  H4  1  0.314268  0.685732  0.012575  1
+  H  H5  1  0.685732  0.314268  0.512575  1
+  H  H6  1  0.133373  0.866627  0.719116  1
+  H  H7  1  0.866627  0.133373  0.219116  1
+  H  H8  1  0.508360  0.491640  0.437574  1
+  H  H9  1  0.491640  0.508360  0.937574  1
+  Rh  Rh10  1  0.408743  0.591257  0.206707  1
+  Rh  Rh11  1  0.591257  0.408743  0.706707  1

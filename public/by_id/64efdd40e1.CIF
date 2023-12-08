@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_EuAl2(SiO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.24391200
+_cell_length_b   5.24393155
+_cell_length_c   15.42370100
+_cell_angle_alpha   89.99953871
+_cell_angle_beta   89.99997421
+_cell_angle_gamma   60.00009976
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuAl2(SiO4)2
+_chemical_formula_sum   'Eu2 Al4 Si4 O16'
+_cell_volume   367.30942697
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.000000  0.000000  0.500000  1
+  Eu  Eu1  1  0.000000  0.000000  0.000000  1
+  Al  Al2  1  0.666650  0.666667  0.645068  1
+  Al  Al3  1  0.333350  0.333333  0.354932  1
+  Al  Al4  1  0.666682  0.666668  0.145067  1
+  Al  Al5  1  0.333318  0.333332  0.854933  1
+  Si  Si6  1  0.333317  0.333331  0.640203  1
+  Si  Si7  1  0.666683  0.666669  0.359797  1
+  Si  Si8  1  0.333351  0.333332  0.140202  1
+  Si  Si9  1  0.666649  0.666668  0.859798  1
+  O  O10  1  0.397347  0.012578  0.601295  1
+  O  O11  1  0.012562  0.590058  0.601296  1
+  O  O12  1  0.590045  0.397361  0.601297  1
+  O  O13  1  0.602653  0.987422  0.398705  1
+  O  O14  1  0.987438  0.409942  0.398704  1
+  O  O15  1  0.409955  0.602639  0.398703  1
+  O  O16  1  0.590074  0.012578  0.101295  1
+  O  O17  1  0.012595  0.397362  0.101297  1
+  O  O18  1  0.397381  0.590057  0.101296  1
+  O  O19  1  0.409926  0.987422  0.898705  1
+  O  O20  1  0.987405  0.602638  0.898703  1
+  O  O21  1  0.602619  0.409943  0.898704  1
+  O  O22  1  0.666636  0.666674  0.756168  1
+  O  O23  1  0.333311  0.333326  0.743830  1
+  O  O24  1  0.333364  0.333326  0.243832  1
+  O  O25  1  0.666689  0.666674  0.256170  1

@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_CdHgRu2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.33267034
+_cell_length_b   7.29021291
+_cell_length_c   7.29021282
+_cell_angle_alpha   59.60892138
+_cell_angle_beta   59.80716389
+_cell_angle_gamma   59.80716353
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdHgRu2O7
+_chemical_formula_sum   'Cd2 Hg2 Ru4 O14'
+_cell_volume   273.94476028
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.625000  0.125000  0.125000  1
+  Cd  Cd1  1  0.125000  0.125000  0.125000  1
+  Hg  Hg2  1  0.125000  0.125000  0.625000  1
+  Hg  Hg3  1  0.125000  0.625000  0.125000  1
+  Ru  Ru4  1  0.625000  0.625000  0.125000  1
+  Ru  Ru5  1  0.625000  0.125000  0.625000  1
+  Ru  Ru6  1  0.125000  0.625000  0.625000  1
+  Ru  Ru7  1  0.625000  0.625000  0.625000  1
+  O  O8  1  0.248385  0.251615  0.251615  1
+  O  O9  1  0.001615  0.998385  0.998385  1
+  O  O10  1  0.561892  0.942646  0.554124  1
+  O  O11  1  0.308662  0.695876  0.307354  1
+  O  O12  1  0.561892  0.554124  0.942646  1
+  O  O13  1  0.939864  0.560136  0.560136  1
+  O  O14  1  0.557190  0.942810  0.942810  1
+  O  O15  1  0.941338  0.942646  0.554124  1
+  O  O16  1  0.941338  0.554124  0.942646  1
+  O  O17  1  0.692810  0.307190  0.307190  1
+  O  O18  1  0.310136  0.689864  0.689864  1
+  O  O19  1  0.688108  0.307354  0.695876  1
+  O  O20  1  0.308662  0.307354  0.695876  1
+  O  O21  1  0.688108  0.695876  0.307354  1

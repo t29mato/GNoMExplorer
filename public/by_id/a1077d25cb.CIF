@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_TaNb2Al2TcC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.36266727
+_cell_length_b   8.35818798
+_cell_length_c   8.36266474
+_cell_angle_alpha   59.94906406
+_cell_angle_beta   59.95586033
+_cell_angle_gamma   59.94906345
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaNb2Al2TcC
+_chemical_formula_sum   'Ta4 Nb8 Al8 Tc4 C4'
+_cell_volume   412.86397237
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.559711  0.940645  0.940649  1
+  Ta  Ta1  1  0.940649  0.940645  0.559711  1
+  Ta  Ta2  1  0.691113  0.308871  0.691113  1
+  Ta  Ta3  1  0.940434  0.559674  0.940434  1
+  Nb  Nb4  1  0.559659  0.940467  0.559659  1
+  Nb  Nb5  1  0.309369  0.690814  0.690722  1
+  Nb  Nb6  1  0.691042  0.309320  0.309432  1
+  Nb  Nb7  1  0.309089  0.691341  0.309089  1
+  Nb  Nb8  1  0.690722  0.690814  0.309369  1
+  Nb  Nb9  1  0.309432  0.309320  0.691042  1
+  Nb  Nb10  1  0.559580  0.559081  0.940755  1
+  Nb  Nb11  1  0.940755  0.559081  0.559580  1
+  Al  Al12  1  0.915674  0.915193  0.915674  1
+  Al  Al13  1  0.996711  0.334603  0.334201  1
+  Al  Al14  1  0.334496  0.996757  0.334496  1
+  Al  Al15  1  0.334201  0.334603  0.996711  1
+  Al  Al16  1  0.915607  0.253473  0.915607  1
+  Al  Al17  1  0.915346  0.915485  0.253557  1
+  Al  Al18  1  0.253557  0.915485  0.915346  1
+  Al  Al19  1  0.334480  0.334394  0.334480  1
+  Tc  Tc20  1  0.124988  0.125268  0.124988  1
+  Tc  Tc21  1  0.625409  0.124789  0.122058  1
+  Tc  Tc22  1  0.123825  0.625184  0.123825  1
+  Tc  Tc23  1  0.122058  0.124789  0.625409  1
+  C  C24  1  0.625505  0.623003  0.625505  1
+  C  C25  1  0.123032  0.626443  0.626601  1
+  C  C26  1  0.626954  0.124016  0.626954  1
+  C  C27  1  0.626601  0.626443  0.123032  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Lu4Ti4Ir3Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.40254600
+_cell_length_b   6.83692510
+_cell_length_c   7.97068700
+_cell_angle_alpha   90.13544323
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu4Ti4Ir3Pt
+_chemical_formula_sum   'Lu4 Ti4 Ir3 Pt1'
+_cell_volume   239.91603006
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.250000  0.012951  0.681260  1
+  Lu  Lu1  1  0.250000  0.518343  0.815454  1
+  Lu  Lu2  1  0.750000  0.983697  0.320367  1
+  Lu  Lu3  1  0.750000  0.485647  0.183133  1
+  Ti  Ti4  1  0.250000  0.140525  0.074630  1
+  Ti  Ti5  1  0.250000  0.640769  0.429905  1
+  Ti  Ti6  1  0.750000  0.853733  0.931472  1
+  Ti  Ti7  1  0.750000  0.358602  0.568688  1
+  Ir  Ir8  1  0.250000  0.276449  0.403083  1
+  Ir  Ir9  1  0.250000  0.778596  0.094546  1
+  Ir  Ir10  1  0.750000  0.723430  0.596469  1
+  Pt  Pt11  1  0.750000  0.227256  0.900992  1

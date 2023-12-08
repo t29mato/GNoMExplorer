@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_KRbNiP2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.47130942
+_cell_length_b   7.47130936
+_cell_length_c   5.75441300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   126.90004623
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KRbNiP2
+_chemical_formula_sum   'K2 Rb2 Ni2 P4'
+_cell_volume   256.86975539
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.786689  0.213311  0.250000  1
+  K  K1  1  0.213311  0.786689  0.750000  1
+  Rb  Rb2  1  0.406068  0.593932  0.250000  1
+  Rb  Rb3  1  0.593932  0.406068  0.750000  1
+  Ni  Ni4  1  0.000000  0.000000  0.000000  1
+  Ni  Ni5  1  0.000000  0.000000  0.500000  1
+  P  P6  1  0.937492  0.735353  0.250000  1
+  P  P7  1  0.062508  0.264647  0.750000  1
+  P  P8  1  0.264647  0.062508  0.250000  1
+  P  P9  1  0.735353  0.937492  0.750000  1

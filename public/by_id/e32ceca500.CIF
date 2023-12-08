@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na2SrMgBi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.01330100
+_cell_length_b   8.23978700
+_cell_length_c   9.34253900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2SrMgBi2
+_chemical_formula_sum   'Na4 Sr2 Mg2 Bi4'
+_cell_volume   385.92657504
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.500000  0.024995  0.419048  1
+  Na  Na1  1  0.000000  0.349191  0.340107  1
+  Na  Na2  1  0.500000  0.524995  0.580952  1
+  Na  Na3  1  0.000000  0.849191  0.659893  1
+  Sr  Sr4  1  0.000000  0.497265  0.947406  1
+  Sr  Sr5  1  0.000000  0.997265  0.052594  1
+  Mg  Mg6  1  0.500000  0.153927  0.814819  1
+  Mg  Mg7  1  0.500000  0.653927  0.185181  1
+  Bi  Bi8  1  0.000000  0.239600  0.664560  1
+  Bi  Bi9  1  0.500000  0.280543  0.127719  1
+  Bi  Bi10  1  0.000000  0.739600  0.335440  1
+  Bi  Bi11  1  0.500000  0.780543  0.872281  1

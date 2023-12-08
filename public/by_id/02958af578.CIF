@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_DyPa(ZnIr)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.86456700
+_cell_length_b   7.15017248
+_cell_length_c   8.38832962
+_cell_angle_alpha   90.94015828
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyPa(ZnIr)2
+_chemical_formula_sum   'Dy2 Pa2 Zn4 Ir4'
+_cell_volume   231.75780927
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.250000  0.057280  0.314841  1
+  Dy  Dy1  1  0.750000  0.942715  0.685153  1
+  Pa  Pa2  1  0.250000  0.553102  0.189537  1
+  Pa  Pa3  1  0.750000  0.446900  0.810450  1
+  Zn  Zn4  1  0.250000  0.117229  0.938309  1
+  Zn  Zn5  1  0.750000  0.882787  0.061694  1
+  Zn  Zn6  1  0.250000  0.630408  0.559069  1
+  Zn  Zn7  1  0.750000  0.369582  0.440941  1
+  Ir  Ir8  1  0.750000  0.749762  0.359657  1
+  Ir  Ir9  1  0.250000  0.250229  0.640346  1
+  Ir  Ir10  1  0.750000  0.278970  0.122430  1
+  Ir  Ir11  1  0.250000  0.721036  0.877572  1

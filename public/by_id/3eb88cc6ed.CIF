@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Pa2GeH4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.98879198
+_cell_length_b   5.98883814
+_cell_length_c   5.98879069
+_cell_angle_alpha   106.54365450
+_cell_angle_beta   106.54330262
+_cell_angle_gamma   115.49986264
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pa2GeH4
+_chemical_formula_sum   'Pa4 Ge2 H8'
+_cell_volume   163.96139268
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.830651  0.669347  0.499999  1
+  Pa  Pa1  1  0.669349  0.169347  0.838698  1
+  Pa  Pa2  1  0.169349  0.330653  0.500001  1
+  Pa  Pa3  1  0.330651  0.830653  0.161302  1
+  Ge  Ge4  1  0.749997  0.750000  0.999997  1
+  Ge  Ge5  1  0.250003  0.250000  0.000003  1
+  H  H6  1  0.225715  0.973802  0.500000  1
+  H  H7  1  0.473802  0.725716  0.500000  1
+  H  H8  1  0.725716  0.225716  0.251916  1
+  H  H9  1  0.973803  0.473802  0.748086  1
+  H  H10  1  0.274284  0.774284  0.748084  1
+  H  H11  1  0.526198  0.274284  0.500000  1
+  H  H12  1  0.026197  0.526198  0.251914  1
+  H  H13  1  0.774285  0.026198  0.500000  1

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Pu(S2F3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.59325040
+_cell_length_b   6.91918821
+_cell_length_c   7.09094700
+_cell_angle_alpha   60.77315816
+_cell_angle_beta   66.54365309
+_cell_angle_gamma   58.76759234
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pu(S2F3)2
+_chemical_formula_sum   'Pu1 S4 F6'
+_cell_volume   236.79876174
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pu  Pu0  1  0.000000  0.000000  0.000000  1
+  S  S1  1  0.691009  0.531275  0.315011  1
+  S  S2  1  0.417488  0.743179  0.484896  1
+  S  S3  1  0.582512  0.256821  0.515104  1
+  S  S4  1  0.308992  0.468724  0.684989  1
+  F  F5  1  0.655948  0.971658  0.174854  1
+  F  F6  1  0.963695  0.152450  0.223295  1
+  F  F7  1  0.171898  0.650933  0.212669  1
+  F  F8  1  0.828102  0.349068  0.787331  1
+  F  F9  1  0.036306  0.847551  0.776704  1
+  F  F10  1  0.344053  0.028340  0.825145  1

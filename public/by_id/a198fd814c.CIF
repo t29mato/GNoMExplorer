@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Pu3IrAu3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.06893331
+_cell_length_b   8.06893317
+_cell_length_c   8.06893300
+_cell_angle_alpha   114.19720085
+_cell_angle_beta   114.19720039
+_cell_angle_gamma   114.19717419
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pu3IrAu3
+_chemical_formula_sum   'Pu6 Ir2 Au6'
+_cell_volume   314.45579750
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pu  Pu0  1  0.043021  0.391350  0.287955  1
+  Pu  Pu1  1  0.391350  0.287955  0.043021  1
+  Pu  Pu2  1  0.712045  0.956979  0.608650  1
+  Pu  Pu3  1  0.287955  0.043021  0.391350  1
+  Pu  Pu4  1  0.608650  0.712045  0.956979  1
+  Pu  Pu5  1  0.956979  0.608650  0.712045  1
+  Ir  Ir6  1  0.000000  0.000000  0.000000  1
+  Ir  Ir7  1  0.500000  0.500000  0.500000  1
+  Au  Au8  1  0.436546  0.942302  0.776683  1
+  Au  Au9  1  0.942302  0.776683  0.436546  1
+  Au  Au10  1  0.223317  0.563454  0.057698  1
+  Au  Au11  1  0.776683  0.436546  0.942302  1
+  Au  Au12  1  0.057698  0.223317  0.563454  1
+  Au  Au13  1  0.563454  0.057698  0.223317  1

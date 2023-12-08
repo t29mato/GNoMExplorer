@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Tm16MgCd(InNi2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.44740387
+_cell_length_b   9.45075883
+_cell_length_c   9.45075868
+_cell_angle_alpha   59.79294468
+_cell_angle_beta   59.86331795
+_cell_angle_gamma   59.86332258
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tm16MgCd(InNi2)2
+_chemical_formula_sum   'Tm16 Mg1 Cd1 In2 Ni4'
+_cell_volume   594.49627125
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.345526  0.346943  0.346943  1
+  Tm  Tm1  1  0.348799  0.346848  0.955753  1
+  Tm  Tm2  1  0.348799  0.955753  0.346848  1
+  Tm  Tm3  1  0.953386  0.349298  0.349298  1
+  Tm  Tm4  1  0.810648  0.190263  0.190263  1
+  Tm  Tm5  1  0.188798  0.813799  0.813799  1
+  Tm  Tm6  1  0.189247  0.811929  0.188862  1
+  Tm  Tm7  1  0.813339  0.189562  0.812709  1
+  Tm  Tm8  1  0.189247  0.188862  0.811929  1
+  Tm  Tm9  1  0.813339  0.812709  0.189562  1
+  Tm  Tm10  1  0.937058  0.565173  0.565173  1
+  Tm  Tm11  1  0.562468  0.936917  0.936917  1
+  Tm  Tm12  1  0.565767  0.935424  0.564267  1
+  Tm  Tm13  1  0.940662  0.560550  0.936298  1
+  Tm  Tm14  1  0.565767  0.564267  0.935424  1
+  Tm  Tm15  1  0.940662  0.936298  0.560550  1
+  Mg  Mg16  1  0.575019  0.577216  0.577216  1
+  Cd  Cd17  1  0.253653  0.581964  0.581964  1
+  In  In18  1  0.580574  0.583481  0.252713  1
+  In  In19  1  0.580574  0.252713  0.583481  1
+  Ni  Ni20  1  0.141725  0.143893  0.143893  1
+  Ni  Ni21  1  0.140116  0.142259  0.572877  1
+  Ni  Ni22  1  0.140116  0.572877  0.142259  1
+  Ni  Ni23  1  0.574713  0.141001  0.141001  1

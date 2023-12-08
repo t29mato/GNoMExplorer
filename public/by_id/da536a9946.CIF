@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_TbLuSi2Tc
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.74587200
+_cell_length_b   5.74587242
+_cell_length_c   9.97955721
+_cell_angle_alpha   64.04101021
+_cell_angle_beta   64.04100922
+_cell_angle_gamma   42.64750739
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbLuSi2Tc
+_chemical_formula_sum   'Tb2 Lu2 Si4 Tc2'
+_cell_volume   197.03676460
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.810518  0.810518  0.110121  1
+  Tb  Tb1  1  0.189482  0.189482  0.889879  1
+  Lu  Lu2  1  0.003092  0.003092  0.325271  1
+  Lu  Lu3  1  0.996908  0.996908  0.674729  1
+  Si  Si4  1  0.639294  0.639294  0.441128  1
+  Si  Si5  1  0.360706  0.360706  0.558872  1
+  Si  Si6  1  0.501497  0.501497  0.123851  1
+  Si  Si7  1  0.498503  0.498503  0.876149  1
+  Tc  Tc8  1  0.729753  0.729753  0.628792  1
+  Tc  Tc9  1  0.270247  0.270247  0.371208  1

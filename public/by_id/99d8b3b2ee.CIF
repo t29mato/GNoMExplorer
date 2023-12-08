@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Hf16Co4Tc3W
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.62734384
+_cell_length_b   8.62734420
+_cell_length_c   8.62734425
+_cell_angle_alpha   60.10515187
+_cell_angle_beta   60.10515095
+_cell_angle_gamma   60.10514485
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf16Co4Tc3W
+_chemical_formula_sum   'Hf16 Co4 Tc3 W1'
+_cell_volume   455.14502436
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.052004  0.649209  0.649209  1
+  Hf  Hf1  1  0.649209  0.052004  0.649209  1
+  Hf  Hf2  1  0.649209  0.649209  0.052004  1
+  Hf  Hf3  1  0.649003  0.649003  0.649003  1
+  Hf  Hf4  1  0.797797  0.797797  0.202145  1
+  Hf  Hf5  1  0.202064  0.202064  0.797552  1
+  Hf  Hf6  1  0.797797  0.202145  0.797797  1
+  Hf  Hf7  1  0.202064  0.797552  0.202064  1
+  Hf  Hf8  1  0.202145  0.797797  0.797797  1
+  Hf  Hf9  1  0.797552  0.202064  0.202064  1
+  Hf  Hf10  1  0.435391  0.435391  0.063996  1
+  Hf  Hf11  1  0.064263  0.064263  0.435728  1
+  Hf  Hf12  1  0.435391  0.063996  0.435391  1
+  Hf  Hf13  1  0.064263  0.435728  0.064263  1
+  Hf  Hf14  1  0.063996  0.435391  0.435391  1
+  Hf  Hf15  1  0.435728  0.064263  0.064263  1
+  Co  Co16  1  0.422042  0.859200  0.859200  1
+  Co  Co17  1  0.859200  0.422042  0.859200  1
+  Co  Co18  1  0.859200  0.859200  0.422042  1
+  Co  Co19  1  0.859580  0.859580  0.859580  1
+  Tc  Tc20  1  0.751172  0.415904  0.415904  1
+  Tc  Tc21  1  0.415904  0.751172  0.415904  1
+  Tc  Tc22  1  0.415904  0.415904  0.751172  1
+  W  W23  1  0.419124  0.419124  0.419124  1

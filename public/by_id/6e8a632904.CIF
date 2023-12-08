@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_LaPrPb2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.81810255
+_cell_length_b   7.82712970
+_cell_length_c   7.82713110
+_cell_angle_alpha   60.16324137
+_cell_angle_beta   60.03814413
+_cell_angle_gamma   60.03814208
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaPrPb2O7
+_chemical_formula_sum   'La2 Pr2 Pb4 O14'
+_cell_volume   339.29322815
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.625000  0.625000  0.625000  1
+  La  La1  1  0.125000  0.625000  0.625000  1
+  Pr  Pr2  1  0.625000  0.625000  0.125000  1
+  Pr  Pr3  1  0.625000  0.125000  0.625000  1
+  Pb  Pb4  1  0.125000  0.125000  0.125000  1
+  Pb  Pb5  1  0.625000  0.125000  0.125000  1
+  Pb  Pb6  1  0.125000  0.625000  0.125000  1
+  Pb  Pb7  1  0.125000  0.125000  0.625000  1
+  O  O8  1  0.033569  0.466431  0.466431  1
+  O  O9  1  0.782873  0.783141  0.215535  1
+  O  O10  1  0.782436  0.217564  0.217564  1
+  O  O11  1  0.467127  0.034465  0.466859  1
+  O  O12  1  0.749449  0.750551  0.750551  1
+  O  O13  1  0.031549  0.034465  0.466859  1
+  O  O14  1  0.031549  0.466859  0.034465  1
+  O  O15  1  0.218451  0.783141  0.215535  1
+  O  O16  1  0.218451  0.215535  0.783141  1
+  O  O17  1  0.782873  0.215535  0.783141  1
+  O  O18  1  0.500551  0.499449  0.499449  1
+  O  O19  1  0.467564  0.032436  0.032436  1
+  O  O20  1  0.467127  0.466859  0.034465  1
+  O  O21  1  0.216431  0.783569  0.783569  1

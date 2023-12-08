@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CeY3(ZnPd)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.14469400
+_cell_length_b   7.09990406
+_cell_length_c   8.20192751
+_cell_angle_alpha   89.63509537
+_cell_angle_beta   89.99997919
+_cell_angle_gamma   89.99999189
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeY3(ZnPd)4
+_chemical_formula_sum   'Ce1 Y3 Zn4 Pd4'
+_cell_volume   241.35264993
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.250000  0.044606  0.314143  1
+  Y  Y1  1  0.250000  0.546828  0.186677  1
+  Y  Y2  1  0.750000  0.953457  0.694712  1
+  Y  Y3  1  0.750000  0.453129  0.809340  1
+  Zn  Zn4  1  0.250000  0.637118  0.564962  1
+  Zn  Zn5  1  0.250000  0.135756  0.934445  1
+  Zn  Zn6  1  0.750000  0.367442  0.436153  1
+  Zn  Zn7  1  0.750000  0.861777  0.062724  1
+  Pd  Pd8  1  0.250000  0.252260  0.617064  1
+  Pd  Pd9  1  0.250000  0.750363  0.879882  1
+  Pd  Pd10  1  0.750000  0.749920  0.379488  1
+  Pd  Pd11  1  0.750000  0.247344  0.120411  1

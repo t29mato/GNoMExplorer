@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_BeFe4Si7(W6C)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.74823691
+_cell_length_b   7.74823733
+_cell_length_c   7.74823628
+_cell_angle_alpha   60.20865220
+_cell_angle_beta   60.20864827
+_cell_angle_gamma   60.20865124
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BeFe4Si7(W6C)2
+_chemical_formula_sum   'Be1 Fe4 Si7 W12 C2'
+_cell_volume   330.47651300
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.917529  0.917529  0.917529  1
+  Fe  Fe1  1  0.126224  0.126224  0.620959  1
+  Fe  Fe2  1  0.126224  0.620959  0.126224  1
+  Fe  Fe3  1  0.124020  0.124020  0.124020  1
+  Fe  Fe4  1  0.620959  0.126224  0.126224  1
+  Si  Si5  1  0.914935  0.246955  0.914935  1
+  Si  Si6  1  0.333749  0.998042  0.333749  1
+  Si  Si7  1  0.333816  0.333816  0.333816  1
+  Si  Si8  1  0.998042  0.333749  0.333749  1
+  Si  Si9  1  0.914935  0.914935  0.246955  1
+  Si  Si10  1  0.246955  0.914935  0.914935  1
+  Si  Si11  1  0.333749  0.333749  0.998042  1
+  W  W12  1  0.302292  0.695171  0.695171  1
+  W  W13  1  0.307116  0.307116  0.693102  1
+  W  W14  1  0.558712  0.941795  0.558712  1
+  W  W15  1  0.941795  0.558712  0.558712  1
+  W  W16  1  0.561086  0.943521  0.943521  1
+  W  W17  1  0.693102  0.307116  0.307116  1
+  W  W18  1  0.943521  0.561086  0.943521  1
+  W  W19  1  0.307116  0.693102  0.307116  1
+  W  W20  1  0.558712  0.558712  0.941795  1
+  W  W21  1  0.695171  0.302292  0.695171  1
+  W  W22  1  0.695171  0.695171  0.302292  1
+  W  W23  1  0.943521  0.943521  0.561086  1
+  C  C24  1  0.751138  0.751138  0.751138  1
+  C  C25  1  0.500410  0.500410  0.500410  1

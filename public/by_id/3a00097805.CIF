@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Li2Yb(PrOs2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.27798600
+_cell_length_b   5.27798554
+_cell_length_c   9.41467900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999036
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Yb(PrOs2)3
+_chemical_formula_sum   'Li2 Yb1 Pr3 Os6'
+_cell_volume   227.12901665
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.000000  0.000000  0.500107  1
+  Li  Li1  1  0.000000  0.000000  0.001427  1
+  Yb  Yb2  1  0.333333  0.666667  0.073062  1
+  Pr  Pr3  1  0.333333  0.666667  0.420881  1
+  Pr  Pr4  1  0.666667  0.333333  0.572023  1
+  Pr  Pr5  1  0.666667  0.333333  0.933711  1
+  Os  Os6  1  0.833160  0.166840  0.248018  1
+  Os  Os7  1  0.833160  0.666319  0.248018  1
+  Os  Os8  1  0.333681  0.166840  0.248018  1
+  Os  Os9  1  0.167446  0.832554  0.751578  1
+  Os  Os10  1  0.167446  0.334891  0.751578  1
+  Os  Os11  1  0.665109  0.832554  0.751578  1

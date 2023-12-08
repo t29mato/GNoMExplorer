@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Pr10Si5Os
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.70581435
+_cell_length_b   7.70581409
+_cell_length_c   9.13154098
+_cell_angle_alpha   114.95674587
+_cell_angle_beta   114.95674917
+_cell_angle_gamma   90.00000114
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr10Si5Os
+_chemical_formula_sum   'Pr10 Si5 Os1'
+_cell_volume   435.11594982
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.468542  0.468542  0.937085  1
+  Pr  Pr1  1  0.031458  0.031458  0.062915  1
+  Pr  Pr2  1  0.949490  0.806267  0.287645  1
+  Pr  Pr3  1  0.338155  0.481378  0.287645  1
+  Pr  Pr4  1  0.806267  0.338155  0.287645  1
+  Pr  Pr5  1  0.481378  0.949490  0.287645  1
+  Pr  Pr6  1  0.018622  0.161845  0.712355  1
+  Pr  Pr7  1  0.693733  0.550510  0.712355  1
+  Pr  Pr8  1  0.161845  0.693733  0.712355  1
+  Pr  Pr9  1  0.550510  0.018622  0.712355  1
+  Si  Si10  1  0.250000  0.250000  0.500000  1
+  Si  Si11  1  0.614252  0.885748  0.000000  1
+  Si  Si12  1  0.385748  0.114252  0.000000  1
+  Si  Si13  1  0.885748  0.385748  0.000000  1
+  Si  Si14  1  0.114252  0.614252  0.000000  1
+  Os  Os15  1  0.750000  0.750000  0.500000  1

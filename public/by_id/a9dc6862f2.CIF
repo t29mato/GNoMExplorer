@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sr3Sn(BRh3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.12403667
+_cell_length_b   8.12403716
+_cell_length_c   8.12403700
+_cell_angle_alpha   41.49671216
+_cell_angle_beta   41.49670830
+_cell_angle_gamma   41.49671004
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3Sn(BRh3)2
+_chemical_formula_sum   'Sr3 Sn1 B2 Rh6'
+_cell_volume   212.71362547
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.356623  0.356623  0.356623  1
+  Sr  Sr1  1  0.500000  0.500000  0.500000  1
+  Sr  Sr2  1  0.643377  0.643377  0.643377  1
+  Sn  Sn3  1  0.000000  0.000000  0.000000  1
+  B  B4  1  0.168382  0.168382  0.168382  1
+  B  B5  1  0.831618  0.831618  0.831618  1
+  Rh  Rh6  1  0.567984  0.061901  0.061901  1
+  Rh  Rh7  1  0.061901  0.567984  0.061901  1
+  Rh  Rh8  1  0.938099  0.938099  0.432015  1
+  Rh  Rh9  1  0.061901  0.061901  0.567985  1
+  Rh  Rh10  1  0.938099  0.432016  0.938099  1
+  Rh  Rh11  1  0.432016  0.938099  0.938099  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ta9Ti(GaSi2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.58303480
+_cell_length_b   7.58303493
+_cell_length_c   7.58303481
+_cell_angle_alpha   128.42439283
+_cell_angle_beta   128.42438942
+_cell_angle_gamma   75.93853575
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta9Ti(GaSi2)2
+_chemical_formula_sum   'Ta9 Ti1 Ga2 Si4'
+_cell_volume   260.23186727
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.015906  0.189070  0.501327  1
+  Ta  Ta1  1  0.687743  0.514579  0.498673  1
+  Ta  Ta2  1  0.514579  0.015906  0.826837  1
+  Ta  Ta3  1  0.189070  0.687743  0.173163  1
+  Ta  Ta4  1  0.984094  0.810930  0.498673  1
+  Ta  Ta5  1  0.312257  0.485421  0.501327  1
+  Ta  Ta6  1  0.485421  0.984094  0.173163  1
+  Ta  Ta7  1  0.810930  0.312257  0.826837  1
+  Ta  Ta8  1  0.500000  0.500000  0.000000  1
+  Ti  Ti9  1  0.000000  0.000000  0.000000  1
+  Ga  Ga10  1  0.750773  0.750773  0.000000  1
+  Ga  Ga11  1  0.249227  0.249227  0.000000  1
+  Si  Si12  1  0.365281  0.127961  0.493242  1
+  Si  Si13  1  0.634719  0.872039  0.506758  1
+  Si  Si14  1  0.872039  0.365281  0.237321  1
+  Si  Si15  1  0.127961  0.634719  0.762679  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ti2Al3Fe6Mo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.12694800
+_cell_length_b   5.83268000
+_cell_length_c   12.35282100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000461
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2Al3Fe6Mo
+_chemical_formula_sum   'Ti4 Al6 Fe12 Mo2'
+_cell_volume   297.34681796
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.000004  0.500000  0.335792  1
+  Ti  Ti1  1  0.500000  0.000000  0.500907  1
+  Ti  Ti2  1  0.999995  0.500000  0.665934  1
+  Ti  Ti3  1  0.499996  0.000000  0.830822  1
+  Al  Al4  1  0.000000  0.000000  0.998606  1
+  Al  Al5  1  0.500006  0.500000  0.168007  1
+  Al  Al6  1  0.000004  0.000000  0.335209  1
+  Al  Al7  1  0.500000  0.500000  0.499814  1
+  Al  Al8  1  0.999995  0.000000  0.666940  1
+  Al  Al9  1  0.499996  0.500000  0.831423  1
+  Fe  Fe10  1  0.500000  0.252249  0.001819  1
+  Fe  Fe11  1  0.500000  0.747752  0.001819  1
+  Fe  Fe12  1  0.000005  0.247762  0.164840  1
+  Fe  Fe13  1  0.000005  0.752237  0.164840  1
+  Fe  Fe14  1  0.500004  0.248262  0.330976  1
+  Fe  Fe15  1  0.500004  0.751737  0.330976  1
+  Fe  Fe16  1  0.000000  0.250087  0.500068  1
+  Fe  Fe17  1  0.000000  0.749912  0.500068  1
+  Fe  Fe18  1  0.499995  0.249925  0.666609  1
+  Fe  Fe19  1  0.499995  0.750074  0.666609  1
+  Fe  Fe20  1  0.999996  0.251872  0.835678  1
+  Fe  Fe21  1  0.999996  0.748127  0.835678  1
+  Mo  Mo22  1  0.000000  0.500000  0.997198  1
+  Mo  Mo23  1  0.500004  0.000000  0.169370  1

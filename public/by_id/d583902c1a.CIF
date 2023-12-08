@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_PaH6Os
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.60537487
+_cell_length_b   4.60537536
+_cell_length_c   4.61339477
+_cell_angle_alpha   57.78199019
+_cell_angle_beta   57.78200075
+_cell_angle_gamma   57.83304609
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PaH6Os
+_chemical_formula_sum   'Pa1 H6 Os1'
+_cell_volume   65.69177122
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.500000  0.500000  0.500000  1
+  H  H1  1  0.547967  0.106204  0.106019  1
+  H  H2  1  0.106204  0.547967  0.106019  1
+  H  H3  1  0.894093  0.894093  0.451385  1
+  H  H4  1  0.105907  0.105907  0.548614  1
+  H  H5  1  0.893796  0.452032  0.893981  1
+  H  H6  1  0.452032  0.893796  0.893981  1
+  Os  Os7  1  0.000000  0.000000  0.000000  1

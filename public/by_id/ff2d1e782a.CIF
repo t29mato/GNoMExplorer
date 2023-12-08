@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_La7Pr(CdPd)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.20005968
+_cell_length_b   10.20005921
+_cell_length_c   10.20280700
+_cell_angle_alpha   59.99108503
+_cell_angle_beta   59.99108653
+_cell_angle_gamma   60.01782415
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La7Pr(CdPd)2
+_chemical_formula_sum   'La14 Pr2 Cd4 Pd4'
+_cell_volume   750.60249223
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.350964  0.350964  0.350471  1
+  La  La1  1  0.350964  0.350964  0.947602  1
+  La  La2  1  0.350471  0.947602  0.350964  1
+  La  La3  1  0.947602  0.350471  0.350964  1
+  La  La4  1  0.806233  0.193767  0.193767  1
+  La  La5  1  0.193767  0.806233  0.806233  1
+  La  La6  1  0.193767  0.806233  0.193767  1
+  La  La7  1  0.806233  0.193767  0.806233  1
+  La  La8  1  0.193602  0.193602  0.806398  1
+  La  La9  1  0.806398  0.806398  0.193602  1
+  La  La10  1  0.934852  0.565148  0.565148  1
+  La  La11  1  0.565148  0.934852  0.934852  1
+  La  La12  1  0.565148  0.934852  0.565148  1
+  La  La13  1  0.934852  0.565148  0.934852  1
+  Pr  Pr14  1  0.564117  0.564117  0.935883  1
+  Pr  Pr15  1  0.935883  0.935883  0.564117  1
+  Cd  Cd16  1  0.579557  0.579557  0.579848  1
+  Cd  Cd17  1  0.579557  0.579557  0.261038  1
+  Cd  Cd18  1  0.579848  0.261038  0.579557  1
+  Cd  Cd19  1  0.261038  0.579848  0.579557  1
+  Pd  Pd20  1  0.142902  0.142902  0.143294  1
+  Pd  Pd21  1  0.142902  0.142902  0.570903  1
+  Pd  Pd22  1  0.143294  0.570903  0.142902  1
+  Pd  Pd23  1  0.570903  0.143294  0.142902  1

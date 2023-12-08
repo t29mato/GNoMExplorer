@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ti3Cr(FeAs)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.77095500
+_cell_length_b   6.11208123
+_cell_length_c   6.98953245
+_cell_angle_alpha   89.52148844
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3Cr(FeAs)4
+_chemical_formula_sum   'Ti3 Cr1 Fe4 As4'
+_cell_volume   161.09180471
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.250000  0.520267  0.689665  1
+  Ti  Ti1  1  0.750000  0.977721  0.181971  1
+  Ti  Ti2  1  0.750000  0.475660  0.314539  1
+  Cr  Cr3  1  0.250000  0.025177  0.819092  1
+  Fe  Fe4  1  0.250000  0.145179  0.441850  1
+  Fe  Fe5  1  0.250000  0.648163  0.057669  1
+  Fe  Fe6  1  0.750000  0.855416  0.558455  1
+  Fe  Fe7  1  0.750000  0.353714  0.939616  1
+  As  As8  1  0.250000  0.766484  0.377817  1
+  As  As9  1  0.250000  0.267425  0.116878  1
+  As  As10  1  0.750000  0.228421  0.625474  1
+  As  As11  1  0.750000  0.736376  0.876974  1

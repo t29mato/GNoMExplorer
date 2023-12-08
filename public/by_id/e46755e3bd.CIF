@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CaPr3(InRh)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.38486800
+_cell_length_b   7.33187288
+_cell_length_c   8.57733811
+_cell_angle_alpha   90.16279437
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaPr3(InRh)4
+_chemical_formula_sum   'Ca1 Pr3 In4 Rh4'
+_cell_volume   275.75425818
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.250000  0.532959  0.181457  1
+  Pr  Pr1  1  0.750000  0.964532  0.680964  1
+  Pr  Pr2  1  0.250000  0.036788  0.318940  1
+  Pr  Pr3  1  0.750000  0.466491  0.821957  1
+  In  In4  1  0.750000  0.848529  0.065653  1
+  In  In5  1  0.250000  0.146587  0.938686  1
+  In  In6  1  0.750000  0.359365  0.432694  1
+  In  In7  1  0.250000  0.642759  0.560362  1
+  Rh  Rh8  1  0.750000  0.746718  0.381254  1
+  Rh  Rh9  1  0.250000  0.258464  0.623950  1
+  Rh  Rh10  1  0.750000  0.233806  0.122892  1
+  Rh  Rh11  1  0.250000  0.763001  0.871192  1

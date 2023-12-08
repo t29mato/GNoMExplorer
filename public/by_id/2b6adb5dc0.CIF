@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TbU3(CoP)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.84540300
+_cell_length_b   3.84540402
+_cell_length_c   15.02819400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001701
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbU3(CoP)4
+_chemical_formula_sum   'Tb1 U3 Co4 P4'
+_cell_volume   192.45144975
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.000000  0.000000  0.750000  1
+  U  U1  1  0.000000  0.000000  0.498837  1
+  U  U2  1  0.000000  0.000000  0.001163  1
+  U  U3  1  0.000000  0.000000  0.250000  1
+  Co  Co4  1  0.333333  0.666667  0.384238  1
+  Co  Co5  1  0.666667  0.333333  0.602275  1
+  Co  Co6  1  0.666667  0.333333  0.897725  1
+  Co  Co7  1  0.333333  0.666667  0.115762  1
+  P  P8  1  0.333333  0.666667  0.872888  1
+  P  P9  1  0.666667  0.333333  0.130732  1
+  P  P10  1  0.666667  0.333333  0.369268  1
+  P  P11  1  0.333333  0.666667  0.627112  1

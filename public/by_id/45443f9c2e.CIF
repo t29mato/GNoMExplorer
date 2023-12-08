@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Tb2Yb6Cu(Si4Pd)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.19505800
+_cell_length_b   8.19505764
+_cell_length_c   8.16748300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000145
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2Yb6Cu(Si4Pd)3
+_chemical_formula_sum   'Tb2 Yb6 Cu1 Si12 Pd3'
+_cell_volume   475.03204642
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.000000  0.000000  0.249926  1
+  Tb  Tb1  1  0.000000  0.000000  0.750146  1
+  Yb  Yb2  1  0.500955  0.001910  0.251635  1
+  Yb  Yb3  1  0.499714  0.999430  0.748301  1
+  Yb  Yb4  1  0.998090  0.499045  0.251635  1
+  Yb  Yb5  1  0.000570  0.500286  0.748301  1
+  Yb  Yb6  1  0.500955  0.499045  0.251635  1
+  Yb  Yb7  1  0.499714  0.500286  0.748301  1
+  Cu  Cu8  1  0.333333  0.666667  0.000998  1
+  Si  Si9  1  0.165557  0.331114  0.999982  1
+  Si  Si10  1  0.835360  0.670721  0.000189  1
+  Si  Si11  1  0.668886  0.834443  0.999982  1
+  Si  Si12  1  0.835877  0.671755  0.501192  1
+  Si  Si13  1  0.329279  0.164640  0.000189  1
+  Si  Si14  1  0.164307  0.328614  0.498701  1
+  Si  Si15  1  0.165557  0.834443  0.999982  1
+  Si  Si16  1  0.328245  0.164123  0.501192  1
+  Si  Si17  1  0.835360  0.164640  0.000189  1
+  Si  Si18  1  0.671386  0.835693  0.498701  1
+  Si  Si19  1  0.835877  0.164123  0.501192  1
+  Si  Si20  1  0.164307  0.835693  0.498701  1
+  Pd  Pd21  1  0.666667  0.333333  0.998646  1
+  Pd  Pd22  1  0.666667  0.333333  0.501515  1
+  Pd  Pd23  1  0.333333  0.666667  0.498768  1

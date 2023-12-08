@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ho3Er(Tc3Ru)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.25584500
+_cell_length_b   5.25584350
+_cell_length_c   9.17514600
+_cell_angle_alpha   90.00266867
+_cell_angle_beta   89.99733369
+_cell_angle_gamma   119.99407998
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho3Er(Tc3Ru)2
+_chemical_formula_sum   'Ho3 Er1 Tc6 Ru2'
+_cell_volume   219.51009298
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.333319  0.666681  0.437818  1
+  Ho  Ho1  1  0.333322  0.666678  0.062384  1
+  Ho  Ho2  1  0.666671  0.333329  0.937479  1
+  Er  Er3  1  0.666681  0.333319  0.562431  1
+  Tc  Tc4  1  0.170987  0.341921  0.749646  1
+  Tc  Tc5  1  0.170970  0.829030  0.749645  1
+  Tc  Tc6  1  0.658079  0.829013  0.749646  1
+  Tc  Tc7  1  0.828924  0.657894  0.250279  1
+  Tc  Tc8  1  0.828948  0.171052  0.250286  1
+  Tc  Tc9  1  0.342106  0.171076  0.250279  1
+  Ru  Ru10  1  0.999992  0.000008  0.500165  1
+  Ru  Ru11  1  0.000001  0.999999  0.999942  1

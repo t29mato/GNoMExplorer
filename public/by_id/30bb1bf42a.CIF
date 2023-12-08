@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_BaNaVSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.01806800
+_cell_length_b   6.80149241
+_cell_length_c   12.77013395
+_cell_angle_alpha   70.39055927
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaNaVSe4
+_chemical_formula_sum   'Ba4 Na4 V4 Se16'
+_cell_volume   819.66340811
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.884764  0.376294  0.344641  1
+  Ba  Ba1  1  0.615236  0.376294  0.844641  1
+  Ba  Ba2  1  0.115236  0.623706  0.655359  1
+  Ba  Ba3  1  0.384764  0.623706  0.155359  1
+  Na  Na4  1  0.116502  0.227929  0.026220  1
+  Na  Na5  1  0.383498  0.227929  0.526220  1
+  Na  Na6  1  0.883498  0.772071  0.973780  1
+  Na  Na7  1  0.616502  0.772071  0.473780  1
+  V  V8  1  0.618735  0.121434  0.184309  1
+  V  V9  1  0.881265  0.121434  0.684309  1
+  V  V10  1  0.381265  0.878566  0.815691  1
+  V  V11  1  0.118735  0.878566  0.315691  1
+  Se  Se12  1  0.794086  0.322360  0.090238  1
+  Se  Se13  1  0.705914  0.322360  0.590238  1
+  Se  Se14  1  0.205914  0.677640  0.909762  1
+  Se  Se15  1  0.294086  0.677640  0.409762  1
+  Se  Se16  1  0.933343  0.820380  0.424722  1
+  Se  Se17  1  0.566657  0.820380  0.924722  1
+  Se  Se18  1  0.066657  0.179620  0.575278  1
+  Se  Se19  1  0.433343  0.179620  0.075278  1
+  Se  Se20  1  0.568971  0.214965  0.337927  1
+  Se  Se21  1  0.931029  0.214965  0.837927  1
+  Se  Se22  1  0.431029  0.785035  0.662073  1
+  Se  Se23  1  0.068971  0.785035  0.162073  1
+  Se  Se24  1  0.170969  0.223552  0.265937  1
+  Se  Se25  1  0.329031  0.223552  0.765937  1
+  Se  Se26  1  0.829031  0.776448  0.734063  1
+  Se  Se27  1  0.670969  0.776448  0.234063  1

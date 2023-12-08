@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Li3Tb2PrSi2Bi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.29684429
+_cell_length_b   7.29684515
+_cell_length_c   4.38894800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.98169854
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3Tb2PrSi2Bi
+_chemical_formula_sum   'Li3 Tb2 Pr1 Si2 Bi1'
+_cell_volume   200.34548607
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.244516  0.998574  0.500000  1
+  Li  Li1  1  0.756891  0.756891  0.500000  1
+  Li  Li2  1  0.998574  0.244516  0.500000  1
+  Tb  Tb3  1  0.001225  0.551516  0.000000  1
+  Tb  Tb4  1  0.551516  0.001225  0.000000  1
+  Pr  Pr5  1  0.454189  0.454189  0.000000  1
+  Si  Si6  1  0.327938  0.673775  0.500000  1
+  Si  Si7  1  0.673775  0.327938  0.500000  1
+  Bi  Bi8  1  0.991374  0.991374  0.000000  1

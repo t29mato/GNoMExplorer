@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Th4Si(Rh3Au)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.37548621
+_cell_length_b   7.37548609
+_cell_length_c   7.44125800
+_cell_angle_alpha   109.65196461
+_cell_angle_beta   109.65196427
+_cell_angle_gamma   109.28987028
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Th4Si(Rh3Au)3
+_chemical_formula_sum   'Th4 Si1 Rh9 Au3'
+_cell_volume   310.90820353
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.000000  0.000000  0.500000  1
+  Th  Th1  1  0.035898  0.517949  0.017949  1
+  Th  Th2  1  0.482051  0.964102  0.982051  1
+  Th  Th3  1  0.482051  0.517949  0.500000  1
+  Si  Si4  1  0.000000  0.000000  0.000000  1
+  Rh  Rh5  1  0.245115  0.490230  0.745115  1
+  Rh  Rh6  1  0.245115  0.754885  0.500000  1
+  Rh  Rh7  1  0.509770  0.754885  0.254885  1
+  Rh  Rh8  1  0.734225  0.724724  0.000903  1
+  Rh  Rh9  1  0.275276  0.009501  0.276180  1
+  Rh  Rh10  1  0.990499  0.265775  0.266679  1
+  Rh  Rh11  1  0.275276  0.265775  0.999097  1
+  Rh  Rh12  1  0.734225  0.009501  0.733321  1
+  Rh  Rh13  1  0.990499  0.724724  0.723820  1
+  Au  Au14  1  0.746971  0.253029  0.500000  1
+  Au  Au15  1  0.746971  0.493942  0.246971  1
+  Au  Au16  1  0.506058  0.253029  0.753029  1

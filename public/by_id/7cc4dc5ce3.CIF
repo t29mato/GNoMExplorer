@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ta5NbN3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.31655106
+_cell_length_b   5.31655117
+_cell_length_c   4.98625165
+_cell_angle_alpha   89.89288595
+_cell_angle_beta   89.89287687
+_cell_angle_gamma   120.05951325
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta5NbN3
+_chemical_formula_sum   'Ta5 Nb1 N3'
+_cell_volume   121.98347865
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.999696  0.333937  0.753575  1
+  Ta  Ta1  1  0.333937  0.999696  0.753575  1
+  Ta  Ta2  1  0.334010  0.334010  0.249298  1
+  Ta  Ta3  1  0.999292  0.665673  0.245781  1
+  Ta  Ta4  1  0.665673  0.999292  0.245781  1
+  Nb  Nb5  1  0.665959  0.665959  0.753552  1
+  N  N6  1  0.667573  0.330943  0.498700  1
+  N  N7  1  0.330943  0.667573  0.498700  1
+  N  N8  1  0.002917  0.002917  0.001039  1

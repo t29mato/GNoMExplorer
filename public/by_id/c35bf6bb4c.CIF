@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_K3Ca(CeS3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.11535043
+_cell_length_b   7.11534977
+_cell_length_c   7.66043700
+_cell_angle_alpha   98.86525168
+_cell_angle_beta   98.86525084
+_cell_angle_gamma   120.07713582
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3Ca(CeS3)2
+_chemical_formula_sum   'K3 Ca1 Ce2 S6'
+_cell_volume   319.23420286
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.837409  0.162591  0.500000  1
+  K  K1  1  0.500000  0.500000  0.500000  1
+  K  K2  1  0.162591  0.837409  0.500000  1
+  Ca  Ca3  1  0.000000  0.000000  0.000000  1
+  Ce  Ce4  1  0.667306  0.332694  0.000000  1
+  Ce  Ce5  1  0.332694  0.667306  0.000000  1
+  S  S6  1  0.727347  0.727347  0.205543  1
+  S  S7  1  0.410974  0.069532  0.207025  1
+  S  S8  1  0.069532  0.410974  0.207025  1
+  S  S9  1  0.930469  0.589027  0.792976  1
+  S  S10  1  0.589027  0.930469  0.792976  1
+  S  S11  1  0.272654  0.272654  0.794457  1

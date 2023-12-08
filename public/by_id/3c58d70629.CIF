@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Cr2(IrRu)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.41593900
+_cell_length_b   5.41593896
+_cell_length_c   4.28042400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999415
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr2(IrRu)3
+_chemical_formula_sum   'Cr2 Ir3 Ru3'
+_cell_volume   108.73390189
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.333333  0.666667  0.750000  1
+  Cr  Cr1  1  0.666667  0.333333  0.250000  1
+  Ir  Ir2  1  0.831131  0.662264  0.750000  1
+  Ir  Ir3  1  0.337736  0.168869  0.750000  1
+  Ir  Ir4  1  0.831131  0.168869  0.750000  1
+  Ru  Ru5  1  0.169969  0.339937  0.250000  1
+  Ru  Ru6  1  0.660063  0.830031  0.250000  1
+  Ru  Ru7  1  0.169969  0.830031  0.250000  1

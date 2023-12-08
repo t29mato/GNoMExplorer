@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LiLu2Si4Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.84686800
+_cell_length_b   7.17829200
+_cell_length_c   10.03915100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiLu2Si4Pd
+_chemical_formula_sum   'Li2 Lu4 Si8 Pd2'
+_cell_volume   277.22053133
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.750000  0.005945  0.604368  1
+  Li  Li1  1  0.750000  0.505945  0.895632  1
+  Lu  Lu2  1  0.250000  0.145502  0.871808  1
+  Lu  Lu3  1  0.250000  0.645502  0.628192  1
+  Lu  Lu4  1  0.750000  0.859135  0.132786  1
+  Lu  Lu5  1  0.750000  0.359135  0.367214  1
+  Si  Si6  1  0.250000  0.228340  0.570687  1
+  Si  Si7  1  0.250000  0.728340  0.929313  1
+  Si  Si8  1  0.750000  0.766155  0.431201  1
+  Si  Si9  1  0.750000  0.266155  0.068799  1
+  Si  Si10  1  0.250000  0.653340  0.317964  1
+  Si  Si11  1  0.250000  0.153340  0.182036  1
+  Si  Si12  1  0.750000  0.346895  0.679971  1
+  Si  Si13  1  0.750000  0.846895  0.820029  1
+  Pd  Pd14  1  0.250000  0.994687  0.392519  1
+  Pd  Pd15  1  0.250000  0.494687  0.107481  1

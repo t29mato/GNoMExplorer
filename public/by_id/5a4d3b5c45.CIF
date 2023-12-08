@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_ZrAl4(GaFe3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.93420436
+_cell_length_b   6.50885472
+_cell_length_c   6.50885585
+_cell_angle_alpha   80.86032919
+_cell_angle_beta   67.72590446
+_cell_angle_gamma   67.72591998
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrAl4(GaFe3)2
+_chemical_formula_sum   'Zr1 Al4 Ga2 Fe6'
+_cell_volume   178.97796440
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.000000  0.000000  0.000000  1
+  Al  Al1  1  0.000000  0.666316  0.333684  1
+  Al  Al2  1  0.000000  0.333684  0.666316  1
+  Al  Al3  1  0.344669  0.655331  0.655331  1
+  Al  Al4  1  0.655331  0.344669  0.344669  1
+  Ga  Ga5  1  0.317591  0.182409  0.182409  1
+  Ga  Ga6  1  0.682409  0.817591  0.817591  1
+  Fe  Fe7  1  0.500000  0.241630  0.758370  1
+  Fe  Fe8  1  0.500000  0.758370  0.241630  1
+  Fe  Fe9  1  0.000000  0.500000  0.000000  1
+  Fe  Fe10  1  0.500000  0.500000  0.000000  1
+  Fe  Fe11  1  0.000000  0.000000  0.500000  1
+  Fe  Fe12  1  0.500000  0.000000  0.500000  1

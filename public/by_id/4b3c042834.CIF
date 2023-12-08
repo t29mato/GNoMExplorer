@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_MnBe8CrOs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.26384900
+_cell_length_b   4.26385014
+_cell_length_c   6.95454100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001445
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnBe8CrOs2
+_chemical_formula_sum   'Mn1 Be8 Cr1 Os2'
+_cell_volume   109.49714322
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.333333  0.666667  0.060434  1
+  Be  Be1  1  0.169676  0.339350  0.752126  1
+  Be  Be2  1  0.169676  0.830324  0.752126  1
+  Be  Be3  1  0.338509  0.169255  0.248173  1
+  Be  Be4  1  0.830745  0.661491  0.248173  1
+  Be  Be5  1  0.000000  0.000000  0.000527  1
+  Be  Be6  1  0.660650  0.830324  0.752126  1
+  Be  Be7  1  0.830745  0.169255  0.248173  1
+  Be  Be8  1  0.000000  0.000000  0.499353  1
+  Cr  Cr9  1  0.666667  0.333333  0.562227  1
+  Os  Os10  1  0.333333  0.666667  0.440888  1
+  Os  Os11  1  0.666667  0.333333  0.935676  1

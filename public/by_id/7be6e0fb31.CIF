@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Hf4Co3Si4Os
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89907900
+_cell_length_b   6.41232714
+_cell_length_c   7.17310848
+_cell_angle_alpha   89.66051239
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf4Co3Si4Os
+_chemical_formula_sum   'Hf4 Co3 Si4 Os1'
+_cell_volume   179.34013013
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.250000  0.006470  0.316686  1
+  Hf  Hf1  1  0.250000  0.510723  0.197055  1
+  Hf  Hf2  1  0.750000  0.991570  0.683646  1
+  Hf  Hf3  1  0.750000  0.487572  0.803139  1
+  Co  Co4  1  0.250000  0.647752  0.565158  1
+  Co  Co5  1  0.750000  0.845576  0.064000  1
+  Co  Co6  1  0.750000  0.353995  0.429789  1
+  Si  Si7  1  0.250000  0.285639  0.602954  1
+  Si  Si8  1  0.250000  0.778841  0.889091  1
+  Si  Si9  1  0.750000  0.719705  0.390941  1
+  Si  Si10  1  0.750000  0.216057  0.122548  1
+  Os  Os11  1  0.250000  0.156102  0.934993  1

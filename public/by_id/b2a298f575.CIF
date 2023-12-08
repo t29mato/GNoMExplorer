@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Zr6Ti2Nb2Al12Ir7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.82934020
+_cell_length_b   8.82740924
+_cell_length_c   8.82740992
+_cell_angle_alpha   60.04378807
+_cell_angle_beta   59.99277000
+_cell_angle_gamma   59.99277152
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr6Ti2Nb2Al12Ir7
+_chemical_formula_sum   'Zr6 Ti2 Nb2 Al12 Ir7'
+_cell_volume   486.60417122
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.690544  0.689190  0.309280  1
+  Zr  Zr1  1  0.310986  0.689190  0.309280  1
+  Zr  Zr2  1  0.685913  0.314087  0.314087  1
+  Zr  Zr3  1  0.310986  0.309280  0.689190  1
+  Zr  Zr4  1  0.690544  0.309280  0.689190  1
+  Zr  Zr5  1  0.310771  0.689229  0.689229  1
+  Ti  Ti6  1  0.360397  0.879624  0.879624  1
+  Ti  Ti7  1  0.880357  0.879624  0.879624  1
+  Nb  Nb8  1  0.879480  0.879039  0.362003  1
+  Nb  Nb9  1  0.879480  0.362003  0.879039  1
+  Al  Al10  1  0.122685  0.118023  0.636606  1
+  Al  Al11  1  0.122685  0.636606  0.118023  1
+  Al  Al12  1  0.635799  0.120040  0.120040  1
+  Al  Al13  1  0.124121  0.120040  0.120040  1
+  Al  Al14  1  0.660297  0.664753  0.014652  1
+  Al  Al15  1  0.660297  0.014652  0.664753  1
+  Al  Al16  1  0.019609  0.661581  0.661581  1
+  Al  Al17  1  0.657227  0.661581  0.661581  1
+  Al  Al18  1  0.337735  0.338089  0.986441  1
+  Al  Al19  1  0.337735  0.986441  0.338089  1
+  Al  Al20  1  0.988554  0.337452  0.337452  1
+  Al  Al21  1  0.336543  0.337452  0.337452  1
+  Ir  Ir22  1  0.000508  0.999492  0.999492  1
+  Ir  Ir23  1  0.997175  0.998696  0.502155  1
+  Ir  Ir24  1  0.501974  0.998696  0.502155  1
+  Ir  Ir25  1  0.996941  0.503059  0.503059  1
+  Ir  Ir26  1  0.501974  0.502155  0.998696  1
+  Ir  Ir27  1  0.997175  0.502155  0.998696  1
+  Ir  Ir28  1  0.501509  0.998491  0.998491  1

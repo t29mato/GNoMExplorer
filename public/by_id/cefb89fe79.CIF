@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HoErCuSi3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.97633693
+_cell_length_b   7.94940772
+_cell_length_c   5.65026919
+_cell_angle_alpha   69.47506213
+_cell_angle_beta   69.23631596
+_cell_angle_gamma   41.56050814
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoErCuSi3
+_chemical_formula_sum   'Ho2 Er2 Cu2 Si6'
+_cell_volume   220.12782418
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.749832  0.750169  0.749831  1
+  Ho  Ho1  1  0.756592  0.243408  0.756592  1
+  Er  Er2  1  0.243416  0.756584  0.243416  1
+  Er  Er3  1  0.250175  0.249825  0.250175  1
+  Cu  Cu4  1  0.666576  0.666741  0.333300  1
+  Cu  Cu5  1  0.333301  0.333383  0.666575  1
+  Si  Si6  1  0.831332  0.831550  0.168766  1
+  Si  Si7  1  0.828807  0.339901  0.171284  1
+  Si  Si8  1  0.659936  0.171260  0.339981  1
+  Si  Si9  1  0.339981  0.828824  0.659935  1
+  Si  Si10  1  0.171285  0.660008  0.828807  1
+  Si  Si11  1  0.168767  0.168352  0.831331  1

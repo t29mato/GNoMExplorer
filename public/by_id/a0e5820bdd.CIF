@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Y3AlSn2Pt3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.60240168
+_cell_length_b   7.60240192
+_cell_length_c   3.87381100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.80839121
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y3AlSn2Pt3
+_chemical_formula_sum   'Y3 Al1 Sn2 Pt3'
+_cell_volume   192.29811724
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.412473  0.412473  0.500000  1
+  Y  Y1  1  0.595179  0.994618  0.500000  1
+  Y  Y2  1  0.994618  0.595179  0.500000  1
+  Al  Al3  1  0.743052  0.743052  0.000000  1
+  Sn  Sn4  1  0.257062  0.997492  0.000000  1
+  Sn  Sn5  1  0.997492  0.257062  0.000000  1
+  Pt  Pt6  1  0.670280  0.349476  0.000000  1
+  Pt  Pt7  1  0.349476  0.670280  0.000000  1
+  Pt  Pt8  1  0.980368  0.980368  0.500000  1

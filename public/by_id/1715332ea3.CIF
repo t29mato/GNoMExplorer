@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Y16MgHg3Pt4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.71743000
+_cell_length_b   9.70955464
+_cell_length_c   9.70955500
+_cell_angle_alpha   60.00000216
+_cell_angle_beta   60.02680757
+_cell_angle_gamma   60.02679875
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y16MgHg3Pt4
+_chemical_formula_sum   'Y16 Mg1 Hg3 Pt4'
+_cell_volume   648.05354824
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.604088  0.601616  0.601616  1
+  Y  Y1  1  0.604088  0.601616  0.192681  1
+  Y  Y2  1  0.604088  0.192681  0.601616  1
+  Y  Y3  1  0.183742  0.605420  0.605420  1
+  Y  Y4  1  0.059282  0.440317  0.440317  1
+  Y  Y5  1  0.436358  0.062245  0.062245  1
+  Y  Y6  1  0.436358  0.062245  0.439152  1
+  Y  Y7  1  0.059282  0.440317  0.060084  1
+  Y  Y8  1  0.436358  0.439152  0.062245  1
+  Y  Y9  1  0.059282  0.060084  0.440317  1
+  Y  Y10  1  0.183045  0.815660  0.815660  1
+  Y  Y11  1  0.813421  0.185828  0.185828  1
+  Y  Y12  1  0.813421  0.185828  0.814924  1
+  Y  Y13  1  0.183045  0.815660  0.185635  1
+  Y  Y14  1  0.813421  0.814924  0.185828  1
+  Y  Y15  1  0.183045  0.185635  0.815660  1
+  Mg  Mg16  1  0.531116  0.822961  0.822961  1
+  Hg  Hg17  1  0.833377  0.838382  0.838382  1
+  Hg  Hg18  1  0.833377  0.838382  0.489859  1
+  Hg  Hg19  1  0.833377  0.489859  0.838382  1
+  Pt  Pt20  1  0.391869  0.394304  0.394304  1
+  Pt  Pt21  1  0.391869  0.394304  0.819525  1
+  Pt  Pt22  1  0.391869  0.819525  0.394304  1
+  Pt  Pt23  1  0.820827  0.393058  0.393058  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_BeAl7(CoIr)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.84953500
+_cell_length_b   4.13767500
+_cell_length_c   8.27026300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00112234
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BeAl7(CoIr)4
+_chemical_formula_sum   'Be1 Al7 Co4 Ir4'
+_cell_volume   200.16910152
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.998957  0.250000  0.874931  1
+  Al  Al1  1  0.000081  0.749999  0.122593  1
+  Al  Al2  1  0.499843  0.749999  0.122505  1
+  Al  Al3  1  0.000728  0.250000  0.374971  1
+  Al  Al4  1  0.496229  0.250000  0.374956  1
+  Al  Al5  1  0.499855  0.749999  0.627540  1
+  Al  Al6  1  0.000125  0.749999  0.627472  1
+  Al  Al7  1  0.504580  0.250000  0.874997  1
+  Co  Co8  1  0.753673  0.250000  0.121907  1
+  Co  Co9  1  0.248877  0.749999  0.375005  1
+  Co  Co10  1  0.753697  0.250000  0.628089  1
+  Co  Co11  1  0.244280  0.749999  0.875027  1
+  Ir  Ir12  1  0.245890  0.250000  0.119653  1
+  Ir  Ir13  1  0.749006  0.749999  0.375027  1
+  Ir  Ir14  1  0.245944  0.250000  0.630293  1
+  Ir  Ir15  1  0.758238  0.749999  0.875031  1

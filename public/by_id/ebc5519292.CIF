@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Nb10GaSi4Sn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.64697075
+_cell_length_b   7.64697035
+_cell_length_c   7.64697100
+_cell_angle_alpha   128.14875521
+_cell_angle_beta   128.14875282
+_cell_angle_gamma   76.38417016
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb10GaSi4Sn
+_chemical_formula_sum   'Nb10 Ga1 Si4 Sn1'
+_cell_volume   268.71212138
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.022087  0.196212  0.509708  1
+  Nb  Nb1  1  0.686503  0.512379  0.490292  1
+  Nb  Nb2  1  0.512379  0.022087  0.825875  1
+  Nb  Nb3  1  0.196212  0.686503  0.174125  1
+  Nb  Nb4  1  0.987621  0.813497  0.509708  1
+  Nb  Nb5  1  0.303788  0.477913  0.490292  1
+  Nb  Nb6  1  0.477913  0.987621  0.174125  1
+  Nb  Nb7  1  0.813497  0.303788  0.825875  1
+  Nb  Nb8  1  0.001276  0.001276  0.000000  1
+  Nb  Nb9  1  0.498724  0.498724  0.000000  1
+  Ga  Ga10  1  0.250000  0.250000  0.000000  1
+  Si  Si11  1  0.369184  0.130816  0.500000  1
+  Si  Si12  1  0.630816  0.869184  0.500000  1
+  Si  Si13  1  0.869184  0.369184  0.238368  1
+  Si  Si14  1  0.130816  0.630816  0.761632  1
+  Sn  Sn15  1  0.750000  0.750000  0.000000  1

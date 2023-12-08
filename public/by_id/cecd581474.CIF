@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ti3Re3SiGeAs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.86100400
+_cell_length_b   6.86100421
+_cell_length_c   3.28897100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999900
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3Re3SiGeAs
+_chemical_formula_sum   'Ti3 Re3 Si1 Ge1 As1'
+_cell_volume   134.08062895
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.397879  0.397935  0.500000  1
+  Ti  Ti1  1  0.602065  0.999943  0.500000  1
+  Ti  Ti2  1  0.000057  0.602121  0.500000  1
+  Re  Re3  1  0.742785  0.744124  0.000000  1
+  Re  Re4  1  0.255876  0.998662  0.000000  1
+  Re  Re5  1  0.001338  0.257215  0.000000  1
+  Si  Si6  1  0.000000  0.000000  0.500000  1
+  Ge  Ge7  1  0.666667  0.333333  0.000000  1
+  As  As8  1  0.333333  0.666667  0.000000  1

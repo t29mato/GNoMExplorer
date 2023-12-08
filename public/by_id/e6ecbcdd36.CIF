@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_K3Cr2Cu3S8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.91561132
+_cell_length_b   11.91561133
+_cell_length_c   14.07128929
+_cell_angle_alpha   60.46559731
+_cell_angle_beta   60.46559766
+_cell_angle_gamma   26.55176050
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3Cr2Cu3S8
+_chemical_formula_sum   'K6 Cr4 Cu6 S16'
+_cell_volume   770.04062182
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.729974  0.651596  0.405206  1
+  K  K1  1  0.348404  0.270026  0.094794  1
+  K  K2  1  0.270026  0.348404  0.594794  1
+  K  K3  1  0.651596  0.729974  0.905206  1
+  K  K4  1  0.000000  0.000000  0.000000  1
+  K  K5  1  0.000000  0.000000  0.500000  1
+  Cr  Cr6  1  0.156662  0.591320  0.279790  1
+  Cr  Cr7  1  0.408680  0.843338  0.220210  1
+  Cr  Cr8  1  0.843338  0.408680  0.720210  1
+  Cr  Cr9  1  0.591320  0.156662  0.779790  1
+  Cu  Cu10  1  0.278048  0.721952  0.250000  1
+  Cu  Cu11  1  0.721952  0.278048  0.750000  1
+  Cu  Cu12  1  0.905413  0.341022  0.218559  1
+  Cu  Cu13  1  0.658978  0.094587  0.281441  1
+  Cu  Cu14  1  0.094587  0.658978  0.781441  1
+  Cu  Cu15  1  0.341022  0.905413  0.718559  1
+  S  S16  1  0.965454  0.847271  0.372497  1
+  S  S17  1  0.152729  0.034546  0.127503  1
+  S  S18  1  0.034546  0.152729  0.627503  1
+  S  S19  1  0.847271  0.965454  0.872497  1
+  S  S20  1  0.465708  0.449114  0.163277  1
+  S  S21  1  0.550886  0.534292  0.336723  1
+  S  S22  1  0.534292  0.550886  0.836723  1
+  S  S23  1  0.449114  0.465708  0.663277  1
+  S  S24  1  0.888593  0.798908  0.190884  1
+  S  S25  1  0.201092  0.111407  0.309116  1
+  S  S26  1  0.111407  0.201092  0.809116  1
+  S  S27  1  0.798908  0.888593  0.690884  1
+  S  S28  1  0.722176  0.692610  0.114362  1
+  S  S29  1  0.307390  0.277824  0.385638  1
+  S  S30  1  0.277824  0.307390  0.885638  1
+  S  S31  1  0.692610  0.722176  0.614362  1

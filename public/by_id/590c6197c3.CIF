@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_PrNd3(Co2Hg)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.98737200
+_cell_length_b   3.98737111
+_cell_length_c   17.36791700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999076
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrNd3(Co2Hg)2
+_chemical_formula_sum   'Pr1 Nd3 Co4 Hg2'
+_cell_volume   239.13977718
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.000000  0.000000  0.110069  1
+  Nd  Nd1  1  0.000000  0.000000  0.889832  1
+  Nd  Nd2  1  0.000000  0.000000  0.609867  1
+  Nd  Nd3  1  0.000000  0.000000  0.390577  1
+  Co  Co4  1  0.333333  0.666667  0.501016  1
+  Co  Co5  1  0.666667  0.333333  0.499401  1
+  Co  Co6  1  0.666667  0.333333  0.999896  1
+  Co  Co7  1  0.333333  0.666667  0.998182  1
+  Hg  Hg8  1  0.333333  0.666667  0.251288  1
+  Hg  Hg9  1  0.666667  0.333333  0.749869  1

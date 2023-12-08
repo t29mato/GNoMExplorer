@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ti3Nb3Al4(PtN)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.27546340
+_cell_length_b   8.27546289
+_cell_length_c   8.27568000
+_cell_angle_alpha   59.99913215
+_cell_angle_beta   59.99913418
+_cell_angle_gamma   60.00361161
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3Nb3Al4(PtN)2
+_chemical_formula_sum   'Ti6 Nb6 Al8 Pt4 N4'
+_cell_volume   400.75548151
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.180025  0.819880  0.181218  1
+  Ti  Ti1  1  0.180025  0.819880  0.818878  1
+  Ti  Ti2  1  0.819880  0.180025  0.181218  1
+  Ti  Ti3  1  0.819880  0.180025  0.818878  1
+  Ti  Ti4  1  0.430156  0.430156  0.069844  1
+  Ti  Ti5  1  0.180215  0.180215  0.819785  1
+  Nb  Nb6  1  0.818017  0.818017  0.181983  1
+  Nb  Nb7  1  0.067031  0.432349  0.431140  1
+  Nb  Nb8  1  0.432349  0.067031  0.069480  1
+  Nb  Nb9  1  0.070019  0.070019  0.429981  1
+  Nb  Nb10  1  0.067031  0.432349  0.069480  1
+  Nb  Nb11  1  0.432349  0.067031  0.431140  1
+  Al  Al12  1  0.416885  0.750593  0.416260  1
+  Al  Al13  1  0.835048  0.835048  0.495756  1
+  Al  Al14  1  0.494430  0.835802  0.834885  1
+  Al  Al15  1  0.835048  0.835048  0.834149  1
+  Al  Al16  1  0.750593  0.416885  0.416260  1
+  Al  Al17  1  0.415810  0.415810  0.415456  1
+  Al  Al18  1  0.415810  0.415810  0.752922  1
+  Al  Al19  1  0.835802  0.494430  0.834885  1
+  Pt  Pt20  1  0.624813  0.125367  0.624910  1
+  Pt  Pt21  1  0.622602  0.622602  0.123533  1
+  Pt  Pt22  1  0.125367  0.624813  0.624910  1
+  Pt  Pt23  1  0.622602  0.622602  0.631263  1
+  N  N24  1  0.134647  0.630557  0.117398  1
+  N  N25  1  0.121504  0.121504  0.638448  1
+  N  N26  1  0.630557  0.134647  0.117398  1
+  N  N27  1  0.121504  0.121504  0.118544  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ho2ErCd3Si2Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.23152000
+_cell_length_b   7.23093801
+_cell_length_c   4.32791100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00266247
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2ErCd3Si2Au
+_chemical_formula_sum   'Ho2 Er1 Cd3 Si2 Au1'
+_cell_volume   195.98441235
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.000041  0.583196  0.000000  1
+  Ho  Ho1  1  0.416845  0.416804  0.000000  1
+  Er  Er2  1  0.583249  0.000000  0.000000  1
+  Cd  Cd3  1  0.255525  0.000000  0.500000  1
+  Cd  Cd4  1  0.999947  0.255403  0.500000  1
+  Cd  Cd5  1  0.744544  0.744597  0.500000  1
+  Si  Si6  1  0.333434  0.666832  0.500000  1
+  Si  Si7  1  0.666603  0.333168  0.500000  1
+  Au  Au8  1  0.999813  0.000000  0.000000  1

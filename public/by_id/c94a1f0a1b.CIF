@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Sm4Ho(SiHg)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.99009016
+_cell_length_b   8.99009002
+_cell_length_c   7.65523100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   129.78492028
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm4Ho(SiHg)2
+_chemical_formula_sum   'Sm8 Ho2 Si4 Hg4'
+_cell_volume   475.44809905
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.055694  0.310766  0.323379  1
+  Sm  Sm1  1  0.944306  0.689234  0.676621  1
+  Sm  Sm2  1  0.444306  0.189234  0.823379  1
+  Sm  Sm3  1  0.810766  0.555694  0.176621  1
+  Sm  Sm4  1  0.555694  0.810766  0.176621  1
+  Sm  Sm5  1  0.189234  0.444306  0.823379  1
+  Sm  Sm6  1  0.689234  0.944306  0.676621  1
+  Sm  Sm7  1  0.310766  0.055694  0.323379  1
+  Ho  Ho8  1  0.000000  0.000000  0.000000  1
+  Ho  Ho9  1  0.500000  0.500000  0.500000  1
+  Si  Si10  1  0.382204  0.382204  0.120464  1
+  Si  Si11  1  0.617796  0.617796  0.879536  1
+  Si  Si12  1  0.117796  0.117796  0.620464  1
+  Si  Si13  1  0.882204  0.882204  0.379536  1
+  Hg  Hg14  1  0.782181  0.217819  0.000000  1
+  Hg  Hg15  1  0.217819  0.782181  0.000000  1
+  Hg  Hg16  1  0.717819  0.282181  0.500000  1
+  Hg  Hg17  1  0.282181  0.717819  0.500000  1

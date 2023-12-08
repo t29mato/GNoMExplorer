@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ti8SiGe(B2Mo)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.19304161
+_cell_length_b   7.19304111
+_cell_length_c   7.19304081
+_cell_angle_alpha   129.76417381
+_cell_angle_beta   129.76417016
+_cell_angle_gamma   73.78406102
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti8SiGe(B2Mo)2
+_chemical_formula_sum   'Ti8 Si1 Ge1 B4 Mo2'
+_cell_volume   214.52672264
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.808598  0.958045  0.504301  1
+  Ti  Ti1  1  0.304297  0.808598  0.850553  1
+  Ti  Ti2  1  0.195703  0.046256  0.504301  1
+  Ti  Ti3  1  0.541955  0.691402  0.495699  1
+  Ti  Ti4  1  0.046256  0.541955  0.850553  1
+  Ti  Ti5  1  0.691402  0.195703  0.149447  1
+  Ti  Ti6  1  0.958045  0.453744  0.149447  1
+  Ti  Ti7  1  0.453744  0.304297  0.495699  1
+  Si  Si8  1  0.250000  0.250000  0.000000  1
+  Ge  Ge9  1  0.750000  0.750000  0.000000  1
+  B  B10  1  0.391926  0.891926  0.283853  1
+  B  B11  1  0.891926  0.608074  0.500000  1
+  B  B12  1  0.608074  0.108074  0.716147  1
+  B  B13  1  0.108074  0.391926  0.500000  1
+  Mo  Mo14  1  0.000256  0.000256  0.000000  1
+  Mo  Mo15  1  0.499744  0.499744  0.000000  1

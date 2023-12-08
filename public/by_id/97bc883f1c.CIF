@@ -1,0 +1,64 @@
+# generated using pymatgen
+data_Ce3Al10(SiOs2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.80082000
+_cell_length_b   8.80081976
+_cell_length_c   9.55765700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999337
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce3Al10(SiOs2)2
+_chemical_formula_sum   'Ce6 Al20 Si4 Os8'
+_cell_volume   641.10382365
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.193943  0.387886  0.250000  1
+  Ce  Ce1  1  0.806057  0.612114  0.750000  1
+  Ce  Ce2  1  0.612114  0.806057  0.250000  1
+  Ce  Ce3  1  0.387886  0.193943  0.750000  1
+  Ce  Ce4  1  0.193943  0.806057  0.250000  1
+  Ce  Ce5  1  0.806057  0.193943  0.750000  1
+  Al  Al6  1  0.163425  0.326850  0.576385  1
+  Al  Al7  1  0.836575  0.673150  0.423615  1
+  Al  Al8  1  0.673150  0.836575  0.576385  1
+  Al  Al9  1  0.836575  0.673150  0.076385  1
+  Al  Al10  1  0.326850  0.163425  0.423615  1
+  Al  Al11  1  0.163425  0.326850  0.923615  1
+  Al  Al12  1  0.163425  0.836575  0.576385  1
+  Al  Al13  1  0.326850  0.163425  0.076385  1
+  Al  Al14  1  0.836575  0.163425  0.423615  1
+  Al  Al15  1  0.673150  0.836575  0.923615  1
+  Al  Al16  1  0.836575  0.163425  0.076385  1
+  Al  Al17  1  0.163425  0.836575  0.923615  1
+  Al  Al18  1  0.564191  0.128381  0.250000  1
+  Al  Al19  1  0.435809  0.871619  0.750000  1
+  Al  Al20  1  0.871619  0.435809  0.250000  1
+  Al  Al21  1  0.128381  0.564191  0.750000  1
+  Al  Al22  1  0.564191  0.435809  0.250000  1
+  Al  Al23  1  0.435809  0.564191  0.750000  1
+  Al  Al24  1  0.000000  0.000000  0.250000  1
+  Al  Al25  1  0.000000  0.000000  0.750000  1
+  Si  Si26  1  0.333333  0.666667  0.031315  1
+  Si  Si27  1  0.666667  0.333333  0.968685  1
+  Si  Si28  1  0.666667  0.333333  0.531315  1
+  Si  Si29  1  0.333333  0.666667  0.468685  1
+  Os  Os30  1  0.500000  0.000000  0.000000  1
+  Os  Os31  1  0.000000  0.500000  0.000000  1
+  Os  Os32  1  0.500000  0.000000  0.500000  1
+  Os  Os33  1  0.500000  0.500000  0.000000  1
+  Os  Os34  1  0.000000  0.500000  0.500000  1
+  Os  Os35  1  0.500000  0.500000  0.500000  1
+  Os  Os36  1  0.000000  0.000000  0.000000  1
+  Os  Os37  1  0.000000  0.000000  0.500000  1

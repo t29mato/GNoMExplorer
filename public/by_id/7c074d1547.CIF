@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ErTm3(TaOs3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.53137800
+_cell_length_b   5.53137750
+_cell_length_c   8.47281300
+_cell_angle_alpha   90.00018742
+_cell_angle_beta   89.99981210
+_cell_angle_gamma   120.00223583
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErTm3(TaOs3)2
+_chemical_formula_sum   'Er1 Tm3 Ta2 Os6'
+_cell_volume   224.49935885
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.666650  0.333350  0.565042  1
+  Tm  Tm1  1  0.333334  0.666666  0.435005  1
+  Tm  Tm2  1  0.333335  0.666665  0.064972  1
+  Tm  Tm3  1  0.666667  0.333333  0.935057  1
+  Ta  Ta4  1  0.000004  0.999996  0.500017  1
+  Ta  Ta5  1  0.999999  0.000001  0.000006  1
+  Os  Os6  1  0.173913  0.347811  0.750048  1
+  Os  Os7  1  0.173918  0.826082  0.750053  1
+  Os  Os8  1  0.652189  0.826087  0.750048  1
+  Os  Os9  1  0.826145  0.652291  0.249918  1
+  Os  Os10  1  0.826137  0.173863  0.249915  1
+  Os  Os11  1  0.347709  0.173855  0.249918  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ti3Nb3Fe2(BRu2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.20670866
+_cell_length_b   9.20670866
+_cell_length_c   3.01314100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   89.95652428
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3Nb3Fe2(BRu2)4
+_chemical_formula_sum   'Ti3 Nb3 Fe2 B4 Ru8'
+_cell_volume   255.40425662
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.825891  0.674109  0.000000  1
+  Ti  Ti1  1  0.501506  0.500850  0.000000  1
+  Ti  Ti2  1  0.999150  0.998494  0.000000  1
+  Nb  Nb3  1  0.173449  0.326551  0.000000  1
+  Nb  Nb4  1  0.326542  0.825872  0.000000  1
+  Nb  Nb5  1  0.674128  0.173458  0.000000  1
+  Fe  Fe6  1  0.500029  0.999971  0.500000  1
+  Fe  Fe7  1  0.998781  0.501219  0.500000  1
+  B  B8  1  0.616120  0.883880  0.000000  1
+  B  B9  1  0.385233  0.114767  0.000000  1
+  B  B10  1  0.114514  0.616000  0.000000  1
+  B  B11  1  0.884000  0.385486  0.000000  1
+  Ru  Ru12  1  0.567883  0.719905  0.500000  1
+  Ru  Ru13  1  0.433468  0.280020  0.500000  1
+  Ru  Ru14  1  0.064611  0.779055  0.500000  1
+  Ru  Ru15  1  0.934155  0.220481  0.500000  1
+  Ru  Ru16  1  0.279519  0.565845  0.500000  1
+  Ru  Ru17  1  0.720945  0.435389  0.500000  1
+  Ru  Ru18  1  0.219980  0.066532  0.500000  1
+  Ru  Ru19  1  0.780095  0.932117  0.500000  1

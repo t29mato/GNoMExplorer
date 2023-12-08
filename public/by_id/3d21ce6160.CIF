@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Gd2TcC2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.60927300
+_cell_length_b   5.60927300
+_cell_length_c   10.21562900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd2TcC2
+_chemical_formula_sum   'Gd8 Tc4 C8'
+_cell_volume   321.42397458
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.198394  0.801606  0.155821  1
+  Gd  Gd1  1  0.801606  0.198394  0.844179  1
+  Gd  Gd2  1  0.198394  0.801606  0.844179  1
+  Gd  Gd3  1  0.301606  0.301606  0.344179  1
+  Gd  Gd4  1  0.698394  0.698394  0.344179  1
+  Gd  Gd5  1  0.301606  0.301606  0.655821  1
+  Gd  Gd6  1  0.801606  0.198394  0.155821  1
+  Gd  Gd7  1  0.698394  0.698394  0.655821  1
+  Tc  Tc8  1  0.321972  0.321972  0.000000  1
+  Tc  Tc9  1  0.178028  0.821972  0.500000  1
+  Tc  Tc10  1  0.678028  0.678028  0.000000  1
+  Tc  Tc11  1  0.821972  0.178028  0.500000  1
+  C  C12  1  0.000000  0.500000  0.500000  1
+  C  C13  1  0.000000  0.000000  0.347929  1
+  C  C14  1  0.500000  0.000000  0.000000  1
+  C  C15  1  0.000000  0.000000  0.652071  1
+  C  C16  1  0.500000  0.500000  0.847929  1
+  C  C17  1  0.500000  0.500000  0.152071  1
+  C  C18  1  0.500000  0.000000  0.500000  1
+  C  C19  1  0.000000  0.500000  0.000000  1

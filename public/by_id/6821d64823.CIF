@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ti2Be8RePd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.43402300
+_cell_length_b   4.43402363
+_cell_length_c   7.27895800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000275
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2Be8RePd
+_chemical_formula_sum   'Ti2 Be8 Re1 Pd1'
+_cell_volume   123.93551568
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.333333  0.666667  0.066096  1
+  Ti  Ti1  1  0.666667  0.333333  0.559847  1
+  Be  Be2  1  0.000000  0.000000  0.996547  1
+  Be  Be3  1  0.000000  0.000000  0.505705  1
+  Be  Be4  1  0.832863  0.665727  0.254310  1
+  Be  Be5  1  0.169781  0.830219  0.746627  1
+  Be  Be6  1  0.660439  0.830219  0.746627  1
+  Be  Be7  1  0.334273  0.167137  0.254310  1
+  Be  Be8  1  0.832863  0.167137  0.254310  1
+  Be  Be9  1  0.169781  0.339561  0.746627  1
+  Re  Re10  1  0.333333  0.666667  0.435112  1
+  Pd  Pd11  1  0.666667  0.333333  0.933880  1

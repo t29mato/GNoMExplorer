@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Tb3Pr(NdAu)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.05310800
+_cell_length_b   7.30737096
+_cell_length_c   9.17409790
+_cell_angle_alpha   89.98338276
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb3Pr(NdAu)4
+_chemical_formula_sum   'Tb3 Pr1 Nd4 Au4'
+_cell_volume   338.75295127
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.250000  0.850002  0.918480  1
+  Tb  Tb1  1  0.250000  0.348719  0.584902  1
+  Tb  Tb2  1  0.750000  0.151608  0.081836  1
+  Pr  Pr3  1  0.250000  0.491021  0.177103  1
+  Nd  Nd4  1  0.750000  0.652234  0.414107  1
+  Nd  Nd5  1  0.250000  0.994031  0.323947  1
+  Nd  Nd6  1  0.750000  0.508181  0.822905  1
+  Nd  Nd7  1  0.750000  0.009432  0.678411  1
+  Au  Au8  1  0.250000  0.247223  0.902483  1
+  Au  Au9  1  0.250000  0.749134  0.603564  1
+  Au  Au10  1  0.750000  0.753978  0.089603  1
+  Au  Au11  1  0.750000  0.244438  0.402659  1

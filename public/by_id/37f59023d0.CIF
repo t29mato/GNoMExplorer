@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Tb2Pr8Si5Pb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.75377885
+_cell_length_b   7.75377839
+_cell_length_c   9.24162738
+_cell_angle_alpha   114.80321384
+_cell_angle_beta   114.80321167
+_cell_angle_gamma   89.99999536
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2Pr8Si5Pb
+_chemical_formula_sum   'Tb2 Pr8 Si5 Pb1'
+_cell_volume   447.27468621
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.516435  0.516435  0.032870  1
+  Tb  Tb1  1  0.983565  0.983565  0.967130  1
+  Pr  Pr2  1  0.975621  0.827892  0.279982  1
+  Pr  Pr3  1  0.304361  0.452089  0.279982  1
+  Pr  Pr4  1  0.827892  0.304361  0.279982  1
+  Pr  Pr5  1  0.452089  0.975621  0.279982  1
+  Pr  Pr6  1  0.047911  0.195639  0.720018  1
+  Pr  Pr7  1  0.672108  0.524379  0.720018  1
+  Pr  Pr8  1  0.195639  0.672108  0.720018  1
+  Pr  Pr9  1  0.524379  0.047911  0.720018  1
+  Si  Si10  1  0.250000  0.250000  0.500000  1
+  Si  Si11  1  0.618705  0.881295  0.000000  1
+  Si  Si12  1  0.381295  0.118705  0.000000  1
+  Si  Si13  1  0.881295  0.381295  0.000000  1
+  Si  Si14  1  0.118705  0.618705  0.000000  1
+  Pb  Pb15  1  0.750000  0.750000  0.500000  1

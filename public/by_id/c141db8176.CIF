@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Tm2(Al3Co)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.35338031
+_cell_length_b   7.35338099
+_cell_length_c   9.26101500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.20920012
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tm2(Al3Co)3
+_chemical_formula_sum   'Tm4 Al18 Co6'
+_cell_volume   437.08829821
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.992771  0.672739  0.250000  1
+  Tm  Tm1  1  0.007229  0.327261  0.750000  1
+  Tm  Tm2  1  0.672739  0.992771  0.250000  1
+  Tm  Tm3  1  0.327261  0.007229  0.750000  1
+  Al  Al4  1  0.124570  0.124570  0.250000  1
+  Al  Al5  1  0.875430  0.875430  0.750000  1
+  Al  Al6  1  0.331755  0.331755  0.542706  1
+  Al  Al7  1  0.668245  0.668245  0.042706  1
+  Al  Al8  1  0.331755  0.331755  0.957294  1
+  Al  Al9  1  0.668245  0.668245  0.457294  1
+  Al  Al10  1  0.338982  0.554848  0.250000  1
+  Al  Al11  1  0.661018  0.445152  0.750000  1
+  Al  Al12  1  0.554848  0.338982  0.250000  1
+  Al  Al13  1  0.445152  0.661018  0.750000  1
+  Al  Al14  1  0.997269  0.335279  0.071534  1
+  Al  Al15  1  0.002731  0.664721  0.571534  1
+  Al  Al16  1  0.335279  0.997269  0.428466  1
+  Al  Al17  1  0.664721  0.002731  0.928466  1
+  Al  Al18  1  0.002731  0.664721  0.928466  1
+  Al  Al19  1  0.997269  0.335279  0.428466  1
+  Al  Al20  1  0.664721  0.002731  0.571534  1
+  Al  Al21  1  0.335279  0.997269  0.071534  1
+  Co  Co22  1  0.000000  0.000000  0.000000  1
+  Co  Co23  1  0.000000  0.000000  0.500000  1
+  Co  Co24  1  0.671355  0.328645  0.000000  1
+  Co  Co25  1  0.328645  0.671355  0.500000  1
+  Co  Co26  1  0.328645  0.671355  0.000000  1
+  Co  Co27  1  0.671355  0.328645  0.500000  1

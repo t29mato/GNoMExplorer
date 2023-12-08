@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Nd16CdCo3NiAg3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.72837001
+_cell_length_b   9.75671428
+_cell_length_c   9.75671400
+_cell_angle_alpha   60.00000096
+_cell_angle_beta   59.90357401
+_cell_angle_gamma   59.90357381
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd16CdCo3NiAg3
+_chemical_formula_sum   'Nd16 Cd1 Co3 Ni1 Ag3'
+_cell_volume   653.87951543
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.597315  0.599693  0.599693  1
+  Nd  Nd1  1  0.597315  0.599693  0.203300  1
+  Nd  Nd2  1  0.597315  0.203300  0.599693  1
+  Nd  Nd3  1  0.202193  0.599269  0.599269  1
+  Nd  Nd4  1  0.064339  0.439188  0.439188  1
+  Nd  Nd5  1  0.437370  0.062049  0.062049  1
+  Nd  Nd6  1  0.437370  0.062049  0.438532  1
+  Nd  Nd7  1  0.064339  0.439188  0.057285  1
+  Nd  Nd8  1  0.437370  0.438532  0.062049  1
+  Nd  Nd9  1  0.064339  0.057285  0.439188  1
+  Nd  Nd10  1  0.185507  0.813282  0.813282  1
+  Nd  Nd11  1  0.811613  0.187710  0.187710  1
+  Nd  Nd12  1  0.811613  0.187710  0.812968  1
+  Nd  Nd13  1  0.185507  0.813282  0.187928  1
+  Nd  Nd14  1  0.811613  0.812968  0.187710  1
+  Nd  Nd15  1  0.185507  0.187928  0.813282  1
+  Cd  Cd16  1  0.518004  0.827332  0.827332  1
+  Co  Co17  1  0.391268  0.391772  0.391772  1
+  Co  Co18  1  0.391268  0.391772  0.825188  1
+  Co  Co19  1  0.391268  0.825188  0.391772  1
+  Ni  Ni20  1  0.824526  0.391825  0.391825  1
+  Ag  Ag21  1  0.831014  0.832100  0.832100  1
+  Ag  Ag22  1  0.831014  0.832100  0.504785  1
+  Ag  Ag23  1  0.831014  0.504785  0.832100  1

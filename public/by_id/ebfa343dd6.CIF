@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Hf2BeSiPt2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.87865800
+_cell_length_b   6.43452200
+_cell_length_c   7.50856600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf2BeSiPt2
+_chemical_formula_sum   'Hf4 Be2 Si2 Pt4'
+_cell_volume   187.39361106
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.750000  0.478151  0.315899  1
+  Hf  Hf1  1  0.250000  0.026673  0.821555  1
+  Hf  Hf2  1  0.750000  0.978151  0.184101  1
+  Hf  Hf3  1  0.250000  0.526673  0.678445  1
+  Be  Be4  1  0.250000  0.279375  0.124251  1
+  Be  Be5  1  0.250000  0.779375  0.375749  1
+  Si  Si6  1  0.750000  0.730021  0.881020  1
+  Si  Si7  1  0.750000  0.230021  0.618980  1
+  Pt  Pt8  1  0.250000  0.649264  0.078308  1
+  Pt  Pt9  1  0.250000  0.149264  0.421692  1
+  Pt  Pt10  1  0.750000  0.836516  0.553049  1
+  Pt  Pt11  1  0.750000  0.336516  0.946951  1

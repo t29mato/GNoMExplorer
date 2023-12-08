@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Zr5Sc(SnC2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.37845200
+_cell_length_b   3.37845128
+_cell_length_c   20.22084400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99998750
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr5Sc(SnC2)2
+_chemical_formula_sum   'Zr5 Sc1 Sn2 C4'
+_cell_volume   199.87817625
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.000000  0.000000  0.000656  1
+  Zr  Zr1  1  0.333334  0.666667  0.373419  1
+  Zr  Zr2  1  0.000000  0.000000  0.500509  1
+  Zr  Zr3  1  0.666666  0.333334  0.627420  1
+  Zr  Zr4  1  0.666666  0.333334  0.871581  1
+  Sc  Sc5  1  0.333334  0.666667  0.125359  1
+  Sn  Sn6  1  0.000000  0.000000  0.250661  1
+  Sn  Sn7  1  0.000000  0.000000  0.750176  1
+  C  C8  1  0.666666  0.333334  0.069240  1
+  C  C9  1  0.666666  0.333334  0.430814  1
+  C  C10  1  0.333334  0.666667  0.569925  1
+  C  C11  1  0.333334  0.666667  0.930239  1

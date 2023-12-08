@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_MgZr3(CuS4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.42469716
+_cell_length_b   7.42469799
+_cell_length_c   7.42469911
+_cell_angle_alpha   60.03433672
+_cell_angle_beta   60.03433424
+_cell_angle_gamma   60.03433535
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgZr3(CuS4)2
+_chemical_formula_sum   'Mg1 Zr3 Cu2 S8'
+_cell_volume   289.64049307
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.500000  0.500000  0.500000  1
+  Zr  Zr1  1  0.000000  0.500000  0.500000  1
+  Zr  Zr2  1  0.500000  0.500000  0.000000  1
+  Zr  Zr3  1  0.500000  0.000000  0.500000  1
+  Cu  Cu4  1  0.120434  0.120434  0.120434  1
+  Cu  Cu5  1  0.879566  0.879566  0.879566  1
+  S  S6  1  0.748948  0.748948  0.748948  1
+  S  S7  1  0.261173  0.747946  0.747946  1
+  S  S8  1  0.747946  0.747946  0.261173  1
+  S  S9  1  0.747946  0.261173  0.747946  1
+  S  S10  1  0.251052  0.251052  0.251052  1
+  S  S11  1  0.738827  0.252054  0.252054  1
+  S  S12  1  0.252054  0.252054  0.738827  1
+  S  S13  1  0.252054  0.738827  0.252054  1

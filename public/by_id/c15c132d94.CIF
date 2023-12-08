@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Tm3Ag(Ir2O7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.27949618
+_cell_length_b   7.27949675
+_cell_length_c   7.13398400
+_cell_angle_alpha   59.32294483
+_cell_angle_beta   59.32293803
+_cell_angle_gamma   60.00000068
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tm3Ag(Ir2O7)2
+_chemical_formula_sum   'Tm3 Ag1 Ir4 O14'
+_cell_volume   264.54448473
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.625000  0.625000  0.625000  1
+  Tm  Tm1  1  0.625000  0.125000  0.625000  1
+  Tm  Tm2  1  0.125000  0.625000  0.625000  1
+  Ag  Ag3  1  0.625000  0.625000  0.125000  1
+  Ir  Ir4  1  0.125000  0.125000  0.125000  1
+  Ir  Ir5  1  0.625000  0.125000  0.125000  1
+  Ir  Ir6  1  0.125000  0.625000  0.125000  1
+  Ir  Ir7  1  0.125000  0.125000  0.625000  1
+  O  O8  1  0.036709  0.460377  0.466204  1
+  O  O9  1  0.796877  0.796877  0.214200  1
+  O  O10  1  0.796877  0.192046  0.214200  1
+  O  O11  1  0.460377  0.036709  0.466204  1
+  O  O12  1  0.036709  0.036709  0.466204  1
+  O  O13  1  0.057954  0.453123  0.035800  1
+  O  O14  1  0.752823  0.752823  0.741531  1
+  O  O15  1  0.497177  0.497177  0.508469  1
+  O  O16  1  0.789623  0.213291  0.783796  1
+  O  O17  1  0.192046  0.796877  0.214200  1
+  O  O18  1  0.213291  0.213291  0.783796  1
+  O  O19  1  0.453123  0.057954  0.035800  1
+  O  O20  1  0.453123  0.453123  0.035800  1
+  O  O21  1  0.213291  0.789623  0.783796  1

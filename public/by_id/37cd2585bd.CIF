@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CePuC2Se
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.24697491
+_cell_length_b   7.24697504
+_cell_length_c   6.70093293
+_cell_angle_alpha   78.58120888
+_cell_angle_beta   78.58120710
+_cell_angle_gamma   32.74146930
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CePuC2Se
+_chemical_formula_sum   'Ce2 Pu2 C4 Se2'
+_cell_volume   186.24160966
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.158400  0.558091  0.647083  1
+  Ce  Ce1  1  0.441909  0.841600  0.852917  1
+  Pu  Pu2  1  0.842976  0.440242  0.350793  1
+  Pu  Pu3  1  0.559758  0.157024  0.149207  1
+  C  C4  1  0.351359  0.092506  0.465809  1
+  C  C5  1  0.907494  0.648641  0.034191  1
+  C  C6  1  0.644884  0.907807  0.525998  1
+  C  C7  1  0.092193  0.355116  0.974002  1
+  Se  Se8  1  0.209719  0.790281  0.250000  1
+  Se  Se9  1  0.791308  0.208692  0.750000  1

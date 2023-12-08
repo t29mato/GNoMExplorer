@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ba4NaBi3O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.67601249
+_cell_length_b   10.67601236
+_cell_length_c   10.67601241
+_cell_angle_alpha   130.77334502
+_cell_angle_beta   130.77334397
+_cell_angle_gamma   72.17343719
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba4NaBi3O
+_chemical_formula_sum   'Ba8 Na2 Bi6 O2'
+_cell_volume   682.30795241
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.503006  0.003006  0.814453  1
+  Ba  Ba1  1  0.003006  0.188553  0.500000  1
+  Ba  Ba2  1  0.188553  0.688553  0.185547  1
+  Ba  Ba3  1  0.496994  0.996994  0.185547  1
+  Ba  Ba4  1  0.688553  0.503006  0.500000  1
+  Ba  Ba5  1  0.811447  0.311447  0.814453  1
+  Ba  Ba6  1  0.311447  0.496994  0.500000  1
+  Ba  Ba7  1  0.996994  0.811447  0.500000  1
+  Na  Na8  1  0.000000  0.000000  0.000000  1
+  Na  Na9  1  0.500000  0.500000  0.000000  1
+  Bi  Bi10  1  0.375565  0.124435  0.500000  1
+  Bi  Bi11  1  0.875565  0.375565  0.251131  1
+  Bi  Bi12  1  0.250000  0.250000  0.000000  1
+  Bi  Bi13  1  0.750000  0.750000  0.000000  1
+  Bi  Bi14  1  0.124435  0.624435  0.748869  1
+  Bi  Bi15  1  0.624435  0.875565  0.500000  1
+  O  O16  1  0.250000  0.750000  0.500000  1
+  O  O17  1  0.750000  0.250000  0.500000  1

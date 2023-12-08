@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Ba3Mo2(P3Rh2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.97935188
+_cell_length_b   8.97957668
+_cell_length_c   8.97957565
+_cell_angle_alpha   153.61734275
+_cell_angle_beta   91.91404233
+_cell_angle_gamma   94.05742308
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3Mo2(P3Rh2)2
+_chemical_formula_sum   'Ba3 Mo2 P6 Rh4'
+_cell_volume   313.18229704
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.329981  0.329878  0.000103  1
+  Ba  Ba1  1  0.669846  0.666721  0.003125  1
+  Ba  Ba2  1  0.003504  0.003386  0.000118  1
+  Mo  Mo3  1  0.585251  0.836070  0.749180  1
+  Mo  Mo4  1  0.246590  0.497267  0.749321  1
+  P  P5  1  0.319228  0.666594  0.652634  1
+  P  P6  1  0.682292  0.334066  0.348225  1
+  P  P7  1  0.984825  0.333199  0.651625  1
+  P  P8  1  0.347692  0.999384  0.348307  1
+  P  P9  1  0.011939  0.666605  0.345335  1
+  P  P10  1  0.651644  0.000164  0.651481  1
+  Rh  Rh11  1  0.754219  0.505859  0.248360  1
+  Rh  Rh12  1  0.075975  0.827456  0.248519  1
+  Rh  Rh13  1  0.417131  0.166707  0.250424  1
+  Rh  Rh14  1  0.919884  0.166641  0.753244  1

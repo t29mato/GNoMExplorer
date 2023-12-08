@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Pa2OsPdPb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.90165700
+_cell_length_b   7.90104200
+_cell_length_c   3.59941300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pa2OsPdPb
+_chemical_formula_sum   'Pa4 Os2 Pd2 Pb2'
+_cell_volume   224.71611859
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.350394  0.830201  0.500000  1
+  Pa  Pa1  1  0.684596  0.167977  0.500000  1
+  Pa  Pa2  1  0.149606  0.330201  0.500000  1
+  Pa  Pa3  1  0.815404  0.667977  0.500000  1
+  Os  Os4  1  0.873839  0.373581  0.000000  1
+  Os  Os5  1  0.626161  0.873581  0.000000  1
+  Pd  Pd6  1  0.366912  0.136148  0.000000  1
+  Pd  Pd7  1  0.133088  0.636148  0.000000  1
+  Pb  Pb8  1  0.495633  0.492092  0.000000  1
+  Pb  Pb9  1  0.004367  0.992092  0.000000  1

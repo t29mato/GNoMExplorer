@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_TbTh(BOs)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.76668083
+_cell_length_b   6.02241447
+_cell_length_c   5.60990154
+_cell_angle_alpha   71.04145837
+_cell_angle_beta   57.32331690
+_cell_angle_gamma   51.63522073
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbTh(BOs)4
+_chemical_formula_sum   'Tb1 Th1 B4 Os4'
+_cell_volume   150.86217222
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.000000  0.000000  0.000000  1
+  Th  Th1  1  0.250000  0.250000  0.250000  1
+  B  B2  1  0.310237  0.689763  0.310237  1
+  B  B3  1  0.689763  0.310237  0.689763  1
+  B  B4  1  0.566265  0.933735  0.566265  1
+  B  B5  1  0.933735  0.566265  0.933735  1
+  Os  Os6  1  0.636797  0.636797  0.363203  1
+  Os  Os7  1  0.363203  0.363203  0.636797  1
+  Os  Os8  1  0.612048  0.612048  0.887952  1
+  Os  Os9  1  0.887952  0.887952  0.612048  1

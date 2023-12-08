@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LaYb3(Al3Ir)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.60951123
+_cell_length_b   5.60910404
+_cell_length_c   8.76325912
+_cell_angle_alpha   89.98318952
+_cell_angle_beta   90.01597177
+_cell_angle_gamma   120.03107983
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaYb3(Al3Ir)2
+_chemical_formula_sum   'La1 Yb3 Al6 Ir2'
+_cell_volume   238.71443477
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.666693  0.333267  0.050036  1
+  Yb  Yb1  1  0.666666  0.333316  0.448557  1
+  Yb  Yb2  1  0.333307  0.666683  0.554954  1
+  Yb  Yb3  1  0.333360  0.666689  0.944572  1
+  Al  Al4  1  0.160940  0.321769  0.251839  1
+  Al  Al5  1  0.160871  0.839101  0.251868  1
+  Al  Al6  1  0.678225  0.839068  0.251830  1
+  Al  Al7  1  0.319565  0.159793  0.748267  1
+  Al  Al8  1  0.840226  0.159830  0.748219  1
+  Al  Al9  1  0.840213  0.680420  0.748260  1
+  Ir  Ir10  1  0.999960  0.000064  0.999959  1
+  Ir  Ir11  1  0.999971  0.999998  0.501638  1

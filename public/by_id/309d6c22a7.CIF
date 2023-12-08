@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ta(TiMo)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.51236100
+_cell_length_b   5.36077222
+_cell_length_c   7.03126151
+_cell_angle_alpha   77.09944543
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta(TiMo)2
+_chemical_formula_sum   'Ta2 Ti4 Mo4'
+_cell_volume   165.79128997
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.750000  0.749883  0.749741  1
+  Ta  Ta1  1  0.250000  0.250117  0.250259  1
+  Ti  Ti2  1  0.750000  0.170224  0.959531  1
+  Ti  Ti3  1  0.250000  0.829776  0.040469  1
+  Ti  Ti4  1  0.250000  0.669802  0.459957  1
+  Ti  Ti5  1  0.750000  0.330198  0.540043  1
+  Mo  Mo6  1  0.250000  0.062741  0.655435  1
+  Mo  Mo7  1  0.750000  0.937259  0.344565  1
+  Mo  Mo8  1  0.750000  0.562362  0.156152  1
+  Mo  Mo9  1  0.250000  0.437638  0.843848  1

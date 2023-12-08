@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ca2Al2CoNi5B2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.23971800
+_cell_length_b   5.23893609
+_cell_length_c   6.62808400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00493728
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2Al2CoNi5B2
+_chemical_formula_sum   'Ca2 Al2 Co1 Ni5 B2'
+_cell_volume   157.56075055
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.000000  0.000000  0.504004  1
+  Ca  Ca1  1  0.000000  0.000000  0.999567  1
+  Al  Al2  1  0.334954  0.669910  0.500456  1
+  Al  Al3  1  0.665046  0.330090  0.500456  1
+  Co  Co4  1  0.500000  0.000000  0.800900  1
+  Ni  Ni5  1  0.500000  0.500000  0.798800  1
+  Ni  Ni6  1  0.000000  0.500000  0.798800  1
+  Ni  Ni7  1  0.000000  0.500000  0.199904  1
+  Ni  Ni8  1  0.500000  0.500000  0.199904  1
+  Ni  Ni9  1  0.500000  0.000000  0.201191  1
+  B  B10  1  0.663741  0.327480  0.998008  1
+  B  B11  1  0.336259  0.672520  0.998008  1

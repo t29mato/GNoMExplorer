@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_AcReSi2Tc3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.42810926
+_cell_length_b   7.42811195
+_cell_length_c   4.19694400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   146.96926198
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AcReSi2Tc3
+_chemical_formula_sum   'Ac1 Re1 Si2 Tc3'
+_cell_volume   126.22844286
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  0.000976  0.999024  0.000000  1
+  Re  Re1  1  0.300418  0.699582  0.000000  1
+  Si  Si2  1  0.596944  0.403056  0.500000  1
+  Si  Si3  1  0.403626  0.596374  0.500000  1
+  Tc  Tc4  1  0.807705  0.192295  0.500000  1
+  Tc  Tc5  1  0.192217  0.807783  0.500000  1
+  Tc  Tc6  1  0.698115  0.301885  0.000000  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Gd3Th(PbAu2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.38939900
+_cell_length_b   8.38939801
+_cell_length_c   3.65690400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.25333600
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd3Th(PbAu2)2
+_chemical_formula_sum   'Gd3 Th1 Pb2 Au4'
+_cell_volume   257.37772793
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.172014  0.329163  0.500000  1
+  Gd  Gd1  1  0.829163  0.672014  0.500000  1
+  Gd  Gd2  1  0.325098  0.825098  0.500000  1
+  Th  Th3  1  0.672011  0.172011  0.500000  1
+  Pb  Pb4  1  0.006523  0.998815  0.000000  1
+  Pb  Pb5  1  0.498815  0.506523  0.000000  1
+  Au  Au6  1  0.122834  0.622834  0.000000  1
+  Au  Au7  1  0.622138  0.873385  0.000000  1
+  Au  Au8  1  0.373385  0.122138  0.000000  1
+  Au  Au9  1  0.878018  0.378018  0.000000  1

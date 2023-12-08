@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TbHo3(MnOs3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.34221600
+_cell_length_b   5.34221583
+_cell_length_c   8.64020500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001341
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbHo3(MnOs3)2
+_chemical_formula_sum   'Tb1 Ho3 Mn2 Os6'
+_cell_volume   213.54897626
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.333333  0.666667  0.432914  1
+  Ho  Ho1  1  0.666667  0.333333  0.567400  1
+  Ho  Ho2  1  0.666667  0.333333  0.932942  1
+  Ho  Ho3  1  0.333333  0.666667  0.066915  1
+  Mn  Mn4  1  0.000000  0.000000  0.500092  1
+  Mn  Mn5  1  0.000000  0.000000  0.000085  1
+  Os  Os6  1  0.830660  0.169340  0.249127  1
+  Os  Os7  1  0.830660  0.661322  0.249127  1
+  Os  Os8  1  0.338678  0.169340  0.249127  1
+  Os  Os9  1  0.169255  0.830745  0.750757  1
+  Os  Os10  1  0.169255  0.338509  0.750757  1
+  Os  Os11  1  0.661491  0.830745  0.750757  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_LiTh2BIr5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.95980393
+_cell_length_b   5.95980429
+_cell_length_c   6.00144300
+_cell_angle_alpha   59.76860954
+_cell_angle_beta   59.76860748
+_cell_angle_gamma   60.46276944
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTh2BIr5
+_chemical_formula_sum   'Li1 Th2 B1 Ir5'
+_cell_volume   150.71688665
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.721054  0.721054  0.278946  1
+  Th  Th1  1  0.751306  0.751306  0.748694  1
+  Th  Th2  1  0.251306  0.251306  0.248694  1
+  B  B3  1  0.009483  0.009483  0.990517  1
+  Ir  Ir4  1  0.252924  0.747891  0.252109  1
+  Ir  Ir5  1  0.747891  0.252924  0.252109  1
+  Ir  Ir6  1  0.265220  0.265220  0.734780  1
+  Ir  Ir7  1  0.747891  0.252924  0.747076  1
+  Ir  Ir8  1  0.252924  0.747891  0.747076  1

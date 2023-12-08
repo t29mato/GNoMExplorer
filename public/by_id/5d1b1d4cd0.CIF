@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Li(Ta2B5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.15004132
+_cell_length_b   6.97997819
+_cell_length_c   7.33945860
+_cell_angle_alpha   93.81094848
+_cell_angle_beta   102.12193838
+_cell_angle_gamma   116.06000721
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li(Ta2B5)2
+_chemical_formula_sum   'Li2 Ta8 B20'
+_cell_volume   272.16460637
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.000000  0.000000  0.000000  1
+  Li  Li1  1  0.500000  0.000000  0.000000  1
+  Ta  Ta2  1  0.497894  0.795710  0.400187  1
+  Ta  Ta3  1  0.997258  0.396113  0.199278  1
+  Ta  Ta4  1  0.502106  0.204290  0.599813  1
+  Ta  Ta5  1  0.997975  0.795892  0.400164  1
+  Ta  Ta6  1  0.502453  0.603918  0.800670  1
+  Ta  Ta7  1  0.497547  0.396082  0.199330  1
+  Ta  Ta8  1  0.002025  0.204108  0.599836  1
+  Ta  Ta9  1  0.002742  0.603887  0.800722  1
+  B  B10  1  0.332435  0.229939  0.869675  1
+  B  B11  1  0.334792  0.637762  0.063287  1
+  B  B12  1  0.165128  0.362097  0.936724  1
+  B  B13  1  0.331987  0.030973  0.263257  1
+  B  B14  1  0.167991  0.770050  0.130395  1
+  B  B15  1  0.832009  0.229950  0.869605  1
+  B  B16  1  0.163471  0.162522  0.327146  1
+  B  B17  1  0.834872  0.637903  0.063276  1
+  B  B18  1  0.332016  0.431685  0.464740  1
+  B  B19  1  0.665208  0.362238  0.936713  1
+  B  B20  1  0.831601  0.030941  0.263341  1
+  B  B21  1  0.667565  0.770061  0.130325  1
+  B  B22  1  0.336585  0.837508  0.672874  1
+  B  B23  1  0.167936  0.568260  0.535142  1
+  B  B24  1  0.663415  0.162492  0.327126  1
+  B  B25  1  0.832064  0.431740  0.464858  1
+  B  B26  1  0.168399  0.969059  0.736659  1
+  B  B27  1  0.836529  0.837478  0.672854  1
+  B  B28  1  0.667984  0.568315  0.535260  1
+  B  B29  1  0.668013  0.969027  0.736743  1

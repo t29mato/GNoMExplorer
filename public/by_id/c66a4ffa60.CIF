@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ce4Pr5Nd(Sn3Au)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.66835102
+_cell_length_b   9.66835145
+_cell_length_c   6.64805000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99324367
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce4Pr5Nd(Sn3Au)2
+_chemical_formula_sum   'Ce4 Pr5 Nd1 Sn6 Au2'
+_cell_volume   538.21935363
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.333305  0.666500  0.499902  1
+  Ce  Ce1  1  0.666500  0.333305  0.499902  1
+  Ce  Ce2  1  0.666500  0.333305  0.000098  1
+  Ce  Ce3  1  0.333305  0.666500  0.000098  1
+  Pr  Pr4  1  0.274011  0.000057  0.750000  1
+  Pr  Pr5  1  0.725802  0.999834  0.250000  1
+  Pr  Pr6  1  0.000057  0.274011  0.750000  1
+  Pr  Pr7  1  0.999834  0.725802  0.250000  1
+  Pr  Pr8  1  0.726101  0.726101  0.750000  1
+  Nd  Nd9  1  0.273759  0.273759  0.250000  1
+  Sn  Sn10  1  0.619832  0.000047  0.750000  1
+  Sn  Sn11  1  0.380005  0.000557  0.250000  1
+  Sn  Sn12  1  0.000047  0.619832  0.750000  1
+  Sn  Sn13  1  0.000557  0.380005  0.250000  1
+  Sn  Sn14  1  0.380021  0.380021  0.750000  1
+  Sn  Sn15  1  0.618890  0.618890  0.250000  1
+  Au  Au16  1  0.000737  0.000737  0.499300  1
+  Au  Au17  1  0.000737  0.000737  0.000700  1

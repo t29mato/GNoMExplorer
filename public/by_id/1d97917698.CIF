@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_PuSc3(GaPt)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.35811100
+_cell_length_b   6.62385569
+_cell_length_c   7.64983748
+_cell_angle_alpha   91.57912967
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PuSc3(GaPt)4
+_chemical_formula_sum   'Pu1 Sc3 Ga4 Pt4'
+_cell_volume   220.74780307
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pu  Pu0  1  0.250000  0.018759  0.308590  1
+  Sc  Sc1  1  0.250000  0.522295  0.187053  1
+  Sc  Sc2  1  0.750000  0.976673  0.696527  1
+  Sc  Sc3  1  0.750000  0.479494  0.808388  1
+  Ga  Ga4  1  0.250000  0.165559  0.928975  1
+  Ga  Ga5  1  0.250000  0.660124  0.569941  1
+  Ga  Ga6  1  0.750000  0.828152  0.064224  1
+  Ga  Ga7  1  0.750000  0.340049  0.434355  1
+  Pt  Pt8  1  0.250000  0.271179  0.614603  1
+  Pt  Pt9  1  0.250000  0.763031  0.891459  1
+  Pt  Pt10  1  0.750000  0.730827  0.394817  1
+  Pt  Pt11  1  0.750000  0.243858  0.101069  1

@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Mn2Nb3GeN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.09864265
+_cell_length_b   8.09991473
+_cell_length_c   8.09883701
+_cell_angle_alpha   60.01052380
+_cell_angle_beta   60.00732586
+_cell_angle_gamma   60.01083382
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2Nb3GeN
+_chemical_formula_sum   'Mn8 Nb12 Ge4 N4'
+_cell_volume   375.74609125
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.739010  0.420273  0.420353  1
+  Mn  Mn1  1  0.420315  0.739093  0.420210  1
+  Mn  Mn2  1  0.420346  0.420166  0.739025  1
+  Mn  Mn3  1  0.420328  0.420300  0.420425  1
+  Mn  Mn4  1  0.510990  0.829727  0.829647  1
+  Mn  Mn5  1  0.829685  0.510907  0.829790  1
+  Mn  Mn6  1  0.829654  0.829834  0.510975  1
+  Mn  Mn7  1  0.829672  0.829700  0.829575  1
+  Nb  Nb8  1  0.802860  0.802868  0.197212  1
+  Nb  Nb9  1  0.197080  0.197230  0.802887  1
+  Nb  Nb10  1  0.802848  0.197287  0.802860  1
+  Nb  Nb11  1  0.197138  0.802894  0.197156  1
+  Nb  Nb12  1  0.197202  0.802866  0.802864  1
+  Nb  Nb13  1  0.802888  0.197214  0.197080  1
+  Nb  Nb14  1  0.447140  0.447132  0.052788  1
+  Nb  Nb15  1  0.052920  0.052770  0.447113  1
+  Nb  Nb16  1  0.447152  0.052713  0.447140  1
+  Nb  Nb17  1  0.052862  0.447106  0.052844  1
+  Nb  Nb18  1  0.052798  0.447134  0.447136  1
+  Nb  Nb19  1  0.447112  0.052786  0.052920  1
+  Ge  Ge20  1  0.125000  0.625000  0.625000  1
+  Ge  Ge21  1  0.625000  0.125000  0.625000  1
+  Ge  Ge22  1  0.625000  0.625000  0.125000  1
+  Ge  Ge23  1  0.625000  0.625000  0.625000  1
+  N  N24  1  0.625000  0.125000  0.125000  1
+  N  N25  1  0.125000  0.625000  0.125000  1
+  N  N26  1  0.125000  0.125000  0.625000  1
+  N  N27  1  0.125000  0.125000  0.125000  1

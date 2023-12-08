@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HoLu3Cu2(Si2Ru)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.16939000
+_cell_length_b   6.82490568
+_cell_length_c   7.32331092
+_cell_angle_alpha   91.11505337
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoLu3Cu2(Si2Ru)2
+_chemical_formula_sum   'Ho1 Lu3 Cu2 Si4 Ru2'
+_cell_volume   208.35042905
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.750000  0.504604  0.312946  1
+  Lu  Lu1  1  0.250000  0.995548  0.798715  1
+  Lu  Lu2  1  0.750000  0.003760  0.199995  1
+  Lu  Lu3  1  0.250000  0.493526  0.691865  1
+  Cu  Cu4  1  0.750000  0.834034  0.573825  1
+  Cu  Cu5  1  0.250000  0.167064  0.427310  1
+  Si  Si6  1  0.250000  0.295808  0.091998  1
+  Si  Si7  1  0.750000  0.704605  0.905105  1
+  Si  Si8  1  0.250000  0.795026  0.390178  1
+  Si  Si9  1  0.750000  0.204526  0.611147  1
+  Ru  Ru10  1  0.750000  0.344286  0.934750  1
+  Ru  Ru11  1  0.250000  0.657213  0.062166  1

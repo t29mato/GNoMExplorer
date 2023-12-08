@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Nd3Lu17(Cd3Fe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.38652500
+_cell_length_b   9.38652553
+_cell_length_c   9.56951500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999462
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd3Lu17(Cd3Fe)2
+_chemical_formula_sum   'Nd3 Lu17 Cd6 Fe2'
+_cell_volume   730.18059899
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.460956  0.539044  0.750000  1
+  Nd  Nd1  1  0.460956  0.921912  0.750000  1
+  Nd  Nd2  1  0.078088  0.539044  0.750000  1
+  Lu  Lu3  1  0.000000  0.000000  0.498637  1
+  Lu  Lu4  1  0.000000  0.000000  0.001363  1
+  Lu  Lu5  1  0.540825  0.459175  0.250000  1
+  Lu  Lu6  1  0.540825  0.081648  0.250000  1
+  Lu  Lu7  1  0.918352  0.459175  0.250000  1
+  Lu  Lu8  1  0.211516  0.788484  0.434108  1
+  Lu  Lu9  1  0.211516  0.423035  0.434108  1
+  Lu  Lu10  1  0.576965  0.788484  0.434108  1
+  Lu  Lu11  1  0.787724  0.212276  0.560452  1
+  Lu  Lu12  1  0.787724  0.575447  0.560452  1
+  Lu  Lu13  1  0.424553  0.212276  0.560452  1
+  Lu  Lu14  1  0.787724  0.212276  0.939548  1
+  Lu  Lu15  1  0.787724  0.575447  0.939548  1
+  Lu  Lu16  1  0.424553  0.212276  0.939548  1
+  Lu  Lu17  1  0.211516  0.788484  0.065892  1
+  Lu  Lu18  1  0.211516  0.423035  0.065892  1
+  Lu  Lu19  1  0.576965  0.788484  0.065892  1
+  Cd  Cd20  1  0.884863  0.115137  0.250000  1
+  Cd  Cd21  1  0.884863  0.769725  0.250000  1
+  Cd  Cd22  1  0.230275  0.115137  0.250000  1
+  Cd  Cd23  1  0.111177  0.888823  0.750000  1
+  Cd  Cd24  1  0.111177  0.222355  0.750000  1
+  Cd  Cd25  1  0.777645  0.888823  0.750000  1
+  Fe  Fe26  1  0.333333  0.666667  0.250000  1
+  Fe  Fe27  1  0.666667  0.333333  0.750000  1

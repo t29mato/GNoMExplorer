@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_DyTh(Co3Si2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.31422097
+_cell_length_b   6.31422066
+_cell_length_c   6.31421988
+_cell_angle_alpha   130.26735930
+_cell_angle_beta   113.69371358
+_cell_angle_gamma   87.23712541
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyTh(Co3Si2)2
+_chemical_formula_sum   'Dy1 Th1 Co6 Si4'
+_cell_volume   167.64342087
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.750000  0.458735  0.708735  1
+  Th  Th1  1  0.250000  0.534948  0.284948  1
+  Co  Co2  1  0.012404  0.001006  0.513410  1
+  Co  Co3  1  0.487596  0.001006  0.988603  1
+  Co  Co4  1  0.722663  0.000349  0.721776  1
+  Co  Co5  1  0.221427  0.499113  0.721776  1
+  Co  Co6  1  0.278573  0.000349  0.277686  1
+  Co  Co7  1  0.777337  0.499113  0.277686  1
+  Si  Si8  1  0.071118  0.868712  0.797593  1
+  Si  Si9  1  0.908038  0.113136  0.205096  1
+  Si  Si10  1  0.591962  0.797059  0.205096  1
+  Si  Si11  1  0.428882  0.226475  0.797593  1

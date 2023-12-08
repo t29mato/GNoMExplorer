@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_FeNiTeCl2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.80087500
+_cell_length_b   5.13885606
+_cell_length_c   8.46430383
+_cell_angle_alpha   73.15346011
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeNiTeCl2O3
+_chemical_formula_sum   'Fe2 Ni2 Te2 Cl4 O6'
+_cell_volume   283.12142216
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.250000  0.743590  0.787998  1
+  Fe  Fe1  1  0.750000  0.256410  0.212002  1
+  Ni  Ni2  1  0.500000  0.000000  0.000000  1
+  Ni  Ni3  1  0.000000  0.000000  0.000000  1
+  Te  Te4  1  0.750000  0.609852  0.752080  1
+  Te  Te5  1  0.250000  0.390148  0.247920  1
+  Cl  Cl6  1  0.250000  0.833154  0.494138  1
+  Cl  Cl7  1  0.250000  0.247044  0.800807  1
+  Cl  Cl8  1  0.750000  0.752956  0.199193  1
+  Cl  Cl9  1  0.750000  0.166846  0.505862  1
+  O  O10  1  0.039985  0.235634  0.158103  1
+  O  O11  1  0.539985  0.764366  0.841897  1
+  O  O12  1  0.960015  0.764366  0.841897  1
+  O  O13  1  0.750000  0.260031  0.927742  1
+  O  O14  1  0.250000  0.739969  0.072258  1
+  O  O15  1  0.460015  0.235634  0.158103  1

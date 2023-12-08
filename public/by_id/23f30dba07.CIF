@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_HfMn2(CrP)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.02321700
+_cell_length_b   6.65363500
+_cell_length_c   3.74161000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfMn2(CrP)2
+_chemical_formula_sum   'Hf2 Mn4 Cr4 P4'
+_cell_volume   174.84514511
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.500000  0.500000  0.000000  1
+  Hf  Hf1  1  0.000000  0.000000  0.500000  1
+  Mn  Mn2  1  0.160928  0.580582  0.500000  1
+  Mn  Mn3  1  0.839072  0.419418  0.500000  1
+  Mn  Mn4  1  0.339072  0.080582  0.000000  1
+  Mn  Mn5  1  0.660928  0.919418  0.000000  1
+  Cr  Cr6  1  0.599153  0.148646  0.500000  1
+  Cr  Cr7  1  0.400847  0.851354  0.500000  1
+  Cr  Cr8  1  0.099153  0.351354  0.000000  1
+  Cr  Cr9  1  0.900847  0.648646  0.000000  1
+  P  P10  1  0.700781  0.723927  0.500000  1
+  P  P11  1  0.299219  0.276073  0.500000  1
+  P  P12  1  0.200781  0.776073  0.000000  1
+  P  P13  1  0.799219  0.223927  0.000000  1

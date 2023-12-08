@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_SmPa2Ni3Sb4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.20542402
+_cell_length_b   8.18676445
+_cell_length_c   8.19029617
+_cell_angle_alpha   109.50068340
+_cell_angle_beta   109.42354248
+_cell_angle_gamma   109.40610741
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmPa2Ni3Sb4
+_chemical_formula_sum   'Sm2 Pa4 Ni6 Sb8'
+_cell_volume   423.97144551
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.624035  0.375405  0.250419  1
+  Sm  Sm1  1  0.375965  0.251370  0.626384  1
+  Pa  Pa2  1  0.124569  0.750063  0.873501  1
+  Pa  Pa3  1  0.748846  0.873656  0.124612  1
+  Pa  Pa4  1  0.251154  0.624809  0.375765  1
+  Pa  Pa5  1  0.875431  0.125493  0.748932  1
+  Ni  Ni6  1  0.880340  0.246534  0.118371  1
+  Ni  Ni7  1  0.372444  0.634425  0.753942  1
+  Ni  Ni8  1  0.627556  0.761981  0.381498  1
+  Ni  Ni9  1  0.767850  0.378662  0.638618  1
+  Ni  Ni10  1  0.232150  0.110812  0.870768  1
+  Ni  Ni11  1  0.119660  0.866193  0.238031  1
+  Sb  Sb12  1  0.501425  0.002259  0.837475  1
+  Sb  Sb13  1  0.163376  0.163493  0.164582  1
+  Sb  Sb14  1  0.836624  0.500117  0.001205  1
+  Sb  Sb15  1  0.001297  0.836692  0.498718  1
+  Sb  Sb16  1  0.335240  0.498523  0.999473  1
+  Sb  Sb17  1  0.998703  0.335395  0.497421  1
+  Sb  Sb18  1  0.498575  0.000834  0.336050  1
+  Sb  Sb19  1  0.664760  0.663283  0.664233  1

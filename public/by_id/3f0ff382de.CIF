@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_EuPt4Pb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.50303024
+_cell_length_b   5.50314191
+_cell_length_c   5.50342800
+_cell_angle_alpha   59.99986759
+_cell_angle_beta   60.00160360
+_cell_angle_gamma   60.00309489
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuPt4Pb
+_chemical_formula_sum   'Eu1 Pt4 Pb1'
+_cell_volume   117.85442373
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.249982  0.249965  0.250029  1
+  Pt  Pt1  1  0.625259  0.625278  0.124200  1
+  Pt  Pt2  1  0.625222  0.124207  0.625266  1
+  Pt  Pt3  1  0.625257  0.625280  0.625247  1
+  Pt  Pt4  1  0.124209  0.625241  0.625270  1
+  Pb  Pb5  1  0.000074  0.000030  0.999990  1

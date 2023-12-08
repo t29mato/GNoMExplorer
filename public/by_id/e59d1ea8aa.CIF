@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ho2GaSiRh2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.34567700
+_cell_length_b   6.96710315
+_cell_length_c   7.34696370
+_cell_angle_alpha   89.33925325
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2GaSiRh2
+_chemical_formula_sum   'Ho4 Ga2 Si2 Rh4'
+_cell_volume   222.42761176
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.250000  0.489499  0.690953  1
+  Ho  Ho1  1  0.750000  0.510501  0.309047  1
+  Ho  Ho2  1  0.250000  0.991134  0.809345  1
+  Ho  Ho3  1  0.750000  0.008866  0.190655  1
+  Ga  Ga4  1  0.250000  0.300598  0.104484  1
+  Ga  Ga5  1  0.750000  0.699402  0.895516  1
+  Si  Si6  1  0.250000  0.799728  0.398474  1
+  Si  Si7  1  0.750000  0.200272  0.601526  1
+  Rh  Rh8  1  0.750000  0.850164  0.559070  1
+  Rh  Rh9  1  0.250000  0.149836  0.440930  1
+  Rh  Rh10  1  0.750000  0.326430  0.917211  1
+  Rh  Rh11  1  0.250000  0.673570  0.082789  1

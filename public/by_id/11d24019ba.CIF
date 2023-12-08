@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_TmTh7Mg2(InAu4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.06558693
+_cell_length_b   8.06558674
+_cell_length_c   7.88044622
+_cell_angle_alpha   90.13758297
+_cell_angle_beta   89.86242028
+_cell_angle_gamma   89.94132872
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TmTh7Mg2(InAu4)2
+_chemical_formula_sum   'Tm1 Th7 Mg2 In2 Au8'
+_cell_volume   512.64888568
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.666863  0.666863  0.000000  1
+  Th  Th1  1  0.831114  0.163859  0.500502  1
+  Th  Th2  1  0.163859  0.831114  0.499498  1
+  Th  Th3  1  0.335737  0.335737  0.000000  1
+  Th  Th4  1  0.683881  0.683881  0.500000  1
+  Th  Th5  1  0.319492  0.319492  0.500000  1
+  Th  Th6  1  0.181992  0.816718  0.999819  1
+  Th  Th7  1  0.816718  0.181992  0.000181  1
+  Mg  Mg8  1  0.500711  0.997087  0.246892  1
+  Mg  Mg9  1  0.997087  0.500711  0.753108  1
+  In  In10  1  0.500191  0.998250  0.751473  1
+  In  In11  1  0.998250  0.500191  0.248527  1
+  Au  Au12  1  0.625630  0.368077  0.263000  1
+  Au  Au13  1  0.380453  0.636203  0.261210  1
+  Au  Au14  1  0.123596  0.134048  0.764361  1
+  Au  Au15  1  0.873398  0.862701  0.773039  1
+  Au  Au16  1  0.368077  0.625630  0.737000  1
+  Au  Au17  1  0.636203  0.380453  0.738790  1
+  Au  Au18  1  0.862701  0.873398  0.226961  1
+  Au  Au19  1  0.134048  0.123596  0.235639  1

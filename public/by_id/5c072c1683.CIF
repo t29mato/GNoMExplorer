@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Hf3Pa(InPt2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.53680631
+_cell_length_b   7.53680537
+_cell_length_c   7.03148900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   91.41213302
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf3Pa(InPt2)2
+_chemical_formula_sum   'Hf6 Pa2 In4 Pt8'
+_cell_volume   399.29147551
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.647143  0.352857  0.500000  1
+  Hf  Hf1  1  0.352857  0.647143  0.500000  1
+  Hf  Hf2  1  0.684756  0.315244  0.000000  1
+  Hf  Hf3  1  0.315244  0.684756  0.000000  1
+  Hf  Hf4  1  0.812319  0.812319  0.500000  1
+  Hf  Hf5  1  0.187681  0.187681  0.500000  1
+  Pa  Pa6  1  0.141585  0.141585  0.000000  1
+  Pa  Pa7  1  0.858415  0.858415  0.000000  1
+  In  In8  1  0.500000  0.000000  0.256881  1
+  In  In9  1  0.500000  0.000000  0.743119  1
+  In  In10  1  0.000000  0.500000  0.256881  1
+  In  In11  1  0.000000  0.500000  0.743119  1
+  Pt  Pt12  1  0.367749  0.367749  0.214223  1
+  Pt  Pt13  1  0.632251  0.632251  0.785777  1
+  Pt  Pt14  1  0.632251  0.632251  0.214223  1
+  Pt  Pt15  1  0.863672  0.136328  0.705673  1
+  Pt  Pt16  1  0.863672  0.136328  0.294327  1
+  Pt  Pt17  1  0.367749  0.367749  0.785777  1
+  Pt  Pt18  1  0.136328  0.863672  0.294327  1
+  Pt  Pt19  1  0.136328  0.863672  0.705673  1

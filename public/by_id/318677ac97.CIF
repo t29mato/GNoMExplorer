@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_Sm8Si(Pd5Pt)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.40784500
+_cell_length_b   8.41640400
+_cell_length_c   8.42777500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   89.99696225
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm8Si(Pd5Pt)4
+_chemical_formula_sum   'Sm8 Si1 Pd20 Pt4'
+_cell_volume   596.38155512
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.252733  0.253269  0.253420  1
+  Sm  Sm1  1  0.746723  0.746736  0.746455  1
+  Sm  Sm2  1  0.746723  0.746736  0.253545  1
+  Sm  Sm3  1  0.747232  0.252885  0.746981  1
+  Sm  Sm4  1  0.252733  0.253269  0.746580  1
+  Sm  Sm5  1  0.253241  0.746368  0.253897  1
+  Sm  Sm6  1  0.253241  0.746368  0.746103  1
+  Sm  Sm7  1  0.747232  0.252885  0.253019  1
+  Si  Si8  1  0.000169  0.002924  0.000000  1
+  Pd  Pd9  1  0.257384  0.499782  0.000000  1
+  Pd  Pd10  1  0.742483  0.499798  0.000000  1
+  Pd  Pd11  1  0.999962  0.257538  0.500000  1
+  Pd  Pd12  1  0.500126  0.256782  0.000000  1
+  Pd  Pd13  1  0.999968  0.741951  0.500000  1
+  Pd  Pd14  1  0.500116  0.742462  0.000000  1
+  Pd  Pd15  1  0.500126  0.999895  0.257318  1
+  Pd  Pd16  1  0.257569  0.999891  0.500000  1
+  Pd  Pd17  1  0.500126  0.999895  0.742682  1
+  Pd  Pd18  1  0.742298  0.999905  0.500000  1
+  Pd  Pd19  1  0.999969  0.499894  0.257752  1
+  Pd  Pd20  1  0.999969  0.499894  0.742248  1
+  Pd  Pd21  1  0.747814  0.500053  0.500000  1
+  Pd  Pd22  1  0.500024  0.252529  0.500000  1
+  Pd  Pd23  1  0.500047  0.747674  0.500000  1
+  Pd  Pd24  1  0.500040  0.500042  0.252532  1
+  Pd  Pd25  1  0.500040  0.500042  0.747468  1
+  Pd  Pd26  1  0.999883  0.720478  0.000000  1
+  Pd  Pd27  1  0.999883  0.999504  0.281921  1
+  Pd  Pd28  1  0.999883  0.999504  0.718079  1
+  Pt  Pt29  1  0.252132  0.500030  0.500000  1
+  Pt  Pt30  1  0.279826  0.999198  0.000000  1
+  Pt  Pt31  1  0.720400  0.999164  0.000000  1
+  Pt  Pt32  1  0.999906  0.282658  0.000000  1

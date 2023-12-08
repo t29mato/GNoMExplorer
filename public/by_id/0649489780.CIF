@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_LaCe2Pr(Zn4Ru)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.22828000
+_cell_length_b   7.22828000
+_cell_length_c   5.20423500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaCe2Pr(Zn4Ru)2
+_chemical_formula_sum   'La1 Ce2 Pr1 Zn8 Ru2'
+_cell_volume   271.91103556
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.000000  0.500000  0.776279  1
+  Ce  Ce1  1  0.000000  0.000000  0.999794  1
+  Ce  Ce2  1  0.500000  0.500000  0.999794  1
+  Pr  Pr3  1  0.500000  0.000000  0.222922  1
+  Zn  Zn4  1  0.185653  0.685653  0.290172  1
+  Zn  Zn5  1  0.814347  0.685653  0.290172  1
+  Zn  Zn6  1  0.814347  0.314347  0.290172  1
+  Zn  Zn7  1  0.315369  0.184631  0.709403  1
+  Zn  Zn8  1  0.185653  0.314347  0.290172  1
+  Zn  Zn9  1  0.684631  0.184631  0.709403  1
+  Zn  Zn10  1  0.684631  0.815369  0.709403  1
+  Zn  Zn11  1  0.315369  0.815369  0.709403  1
+  Ru  Ru12  1  0.500000  0.500000  0.501457  1
+  Ru  Ru13  1  0.000000  0.000000  0.501457  1

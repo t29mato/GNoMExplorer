@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Tb3Eu(W2O7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.34177218
+_cell_length_b   7.34177169
+_cell_length_c   7.45533600
+_cell_angle_alpha   60.51749536
+_cell_angle_beta   60.51749754
+_cell_angle_gamma   59.99574205
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb3Eu(W2O7)2
+_chemical_formula_sum   'Tb3 Eu1 W4 O14'
+_cell_volume   286.34718745
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.000000  0.500000  0.500000  1
+  Tb  Tb1  1  0.500000  0.000000  0.500000  1
+  Tb  Tb2  1  0.500000  0.500000  0.500000  1
+  Eu  Eu3  1  0.500000  0.500000  0.000000  1
+  W  W4  1  0.500000  0.000000  0.000000  1
+  W  W5  1  0.000000  0.500000  0.000000  1
+  W  W6  1  0.000000  0.000000  0.000000  1
+  W  W7  1  0.000000  0.000000  0.500000  1
+  O  O8  1  0.369851  0.369851  0.390444  1
+  O  O9  1  0.630149  0.630149  0.609556  1
+  O  O10  1  0.083584  0.672570  0.660194  1
+  O  O11  1  0.337250  0.929463  0.895994  1
+  O  O12  1  0.672570  0.083584  0.660194  1
+  O  O13  1  0.083705  0.083705  0.660193  1
+  O  O14  1  0.662760  0.662760  0.104323  1
+  O  O15  1  0.070537  0.662750  0.104006  1
+  O  O16  1  0.662750  0.070537  0.104006  1
+  O  O17  1  0.337240  0.337240  0.895677  1
+  O  O18  1  0.916295  0.916295  0.339807  1
+  O  O19  1  0.916416  0.327430  0.339806  1
+  O  O20  1  0.929463  0.337250  0.895994  1
+  O  O21  1  0.327430  0.916416  0.339806  1

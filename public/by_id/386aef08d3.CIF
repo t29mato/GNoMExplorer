@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_LiAc(ThZn5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.61488929
+_cell_length_b   8.46516121
+_cell_length_c   8.46516100
+_cell_angle_alpha   62.19065015
+_cell_angle_beta   74.18206667
+_cell_angle_gamma   74.18206673
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAc(ThZn5)2
+_chemical_formula_sum   'Li1 Ac1 Th2 Zn10'
+_cell_volume   277.28889156
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.000000  0.500000  0.500000  1
+  Ac  Ac1  1  0.000000  0.000000  0.000000  1
+  Th  Th2  1  0.706797  0.293203  0.293203  1
+  Th  Th3  1  0.293203  0.706797  0.706797  1
+  Zn  Zn4  1  0.656252  0.698885  0.988611  1
+  Zn  Zn5  1  0.343748  0.301115  0.011389  1
+  Zn  Zn6  1  0.656252  0.988611  0.698885  1
+  Zn  Zn7  1  0.343748  0.011389  0.301115  1
+  Zn  Zn8  1  0.500000  0.668903  0.331097  1
+  Zn  Zn9  1  0.500000  0.331097  0.668903  1
+  Zn  Zn10  1  0.855032  0.435026  0.854913  1
+  Zn  Zn11  1  0.144968  0.564974  0.145087  1
+  Zn  Zn12  1  0.855032  0.854913  0.435026  1
+  Zn  Zn13  1  0.144968  0.145087  0.564974  1

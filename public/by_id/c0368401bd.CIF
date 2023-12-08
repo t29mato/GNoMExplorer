@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_CePa2(AlNi)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.79588746
+_cell_length_b   6.79588742
+_cell_length_c   4.08817100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.38552840
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CePa2(AlNi)3
+_chemical_formula_sum   'Ce1 Pa2 Al3 Ni3'
+_cell_volume   162.87398847
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.426277  0.426277  0.500000  1
+  Pa  Pa1  1  0.000156  0.575514  0.500000  1
+  Pa  Pa2  1  0.575514  0.000156  0.500000  1
+  Al  Al3  1  0.234845  0.001702  0.000000  1
+  Al  Al4  1  0.763170  0.763170  0.000000  1
+  Al  Al5  1  0.001702  0.234845  0.000000  1
+  Ni  Ni6  1  0.330522  0.679518  0.000000  1
+  Ni  Ni7  1  0.679518  0.330522  0.000000  1
+  Ni  Ni8  1  0.988297  0.988297  0.500000  1

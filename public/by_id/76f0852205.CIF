@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Lu12InFe3Pb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.19812671
+_cell_length_b   8.19812812
+_cell_length_c   8.19812705
+_cell_angle_alpha   108.41092221
+_cell_angle_beta   108.70446966
+_cell_angle_gamma   111.31425923
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu12InFe3Pb
+_chemical_formula_sum   'Lu12 In1 Fe3 Pb1'
+_cell_volume   423.81954809
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.305632  0.310352  0.615984  1
+  Lu  Lu1  1  0.694368  0.689648  0.384016  1
+  Lu  Lu2  1  0.694368  0.310352  0.004720  1
+  Lu  Lu3  1  0.305632  0.689648  0.995280  1
+  Lu  Lu4  1  0.190378  0.425555  0.235177  1
+  Lu  Lu5  1  0.809622  0.574445  0.764823  1
+  Lu  Lu6  1  0.190378  0.955201  0.764823  1
+  Lu  Lu7  1  0.959027  0.193286  0.765744  1
+  Lu  Lu8  1  0.809622  0.044799  0.235177  1
+  Lu  Lu9  1  0.040973  0.806714  0.234256  1
+  Lu  Lu10  1  0.427542  0.193286  0.234256  1
+  Lu  Lu11  1  0.572458  0.806714  0.765744  1
+  In  In12  1  0.000000  0.500000  0.500000  1
+  Fe  Fe13  1  0.384015  0.384015  0.000000  1
+  Fe  Fe14  1  0.615985  0.615985  0.000000  1
+  Fe  Fe15  1  0.000000  0.000000  0.000000  1
+  Pb  Pb16  1  0.500000  0.000000  0.500000  1

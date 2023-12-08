@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Sr2Al5SiPd2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.23263784
+_cell_length_b   6.23263739
+_cell_length_c   5.91982100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   117.44074435
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2Al5SiPd2
+_chemical_formula_sum   'Sr2 Al5 Si1 Pd2'
+_cell_volume   204.08673094
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.232648  0.767352  0.750000  1
+  Sr  Sr1  1  0.765615  0.234385  0.250000  1
+  Al  Al2  1  0.336540  0.663460  0.250000  1
+  Al  Al3  1  0.722945  0.717552  0.996453  1
+  Al  Al4  1  0.722945  0.717552  0.503547  1
+  Al  Al5  1  0.282448  0.277055  0.996453  1
+  Al  Al6  1  0.282448  0.277055  0.503547  1
+  Si  Si7  1  0.659760  0.340240  0.750000  1
+  Pd  Pd8  1  0.895674  0.104326  0.750000  1
+  Pd  Pd9  1  0.098975  0.901025  0.250000  1

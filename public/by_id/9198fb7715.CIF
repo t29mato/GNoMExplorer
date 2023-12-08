@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Yb3InRu2(PtO7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.13505356
+_cell_length_b   7.26527944
+_cell_length_c   7.26528043
+_cell_angle_alpha   60.43390640
+_cell_angle_beta   59.57601726
+_cell_angle_gamma   59.57601786
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Yb3InRu2(PtO7)2
+_chemical_formula_sum   'Yb3 In1 Ru2 Pt2 O14'
+_cell_volume   265.43552945
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.125000  0.125000  0.125000  1
+  Yb  Yb1  1  0.125000  0.125000  0.625000  1
+  Yb  Yb2  1  0.125000  0.625000  0.125000  1
+  In  In3  1  0.625000  0.125000  0.125000  1
+  Ru  Ru4  1  0.625000  0.625000  0.125000  1
+  Ru  Ru5  1  0.625000  0.125000  0.625000  1
+  Pt  Pt6  1  0.625000  0.625000  0.625000  1
+  Pt  Pt7  1  0.125000  0.625000  0.625000  1
+  O  O8  1  0.972460  0.010981  0.010981  1
+  O  O9  1  0.277540  0.239019  0.239019  1
+  O  O10  1  0.294537  0.289482  0.716175  1
+  O  O11  1  0.560664  0.532387  0.957227  1
+  O  O12  1  0.689336  0.292773  0.717613  1
+  O  O13  1  0.684978  0.318843  0.318843  1
+  O  O14  1  0.281216  0.717539  0.717539  1
+  O  O15  1  0.294537  0.716175  0.289482  1
+  O  O16  1  0.689336  0.717613  0.292773  1
+  O  O17  1  0.968784  0.532461  0.532461  1
+  O  O18  1  0.565022  0.931157  0.931157  1
+  O  O19  1  0.955463  0.960518  0.533825  1
+  O  O20  1  0.955463  0.533825  0.960518  1
+  O  O21  1  0.560664  0.957227  0.532387  1

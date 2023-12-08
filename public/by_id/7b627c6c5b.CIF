@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Tb2Y(Ga3Ru)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.43590865
+_cell_length_b   6.43849202
+_cell_length_c   6.46440010
+_cell_angle_alpha   90.00584332
+_cell_angle_beta   89.98969772
+_cell_angle_gamma   89.98561126
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2Y(Ga3Ru)3
+_chemical_formula_sum   'Tb2 Y1 Ga9 Ru3'
+_cell_volume   267.86886549
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.500002  0.000009  0.499999  1
+  Tb  Tb1  1  0.999960  0.499956  0.499971  1
+  Y  Y2  1  0.499985  0.500066  0.000052  1
+  Ga  Ga3  1  0.499975  0.500000  0.500004  1
+  Ga  Ga4  1  0.210260  0.210282  0.789986  1
+  Ga  Ga5  1  0.210363  0.789586  0.210104  1
+  Ga  Ga6  1  0.789718  0.210230  0.210138  1
+  Ga  Ga7  1  0.789692  0.789655  0.789968  1
+  Ga  Ga8  1  0.789748  0.789716  0.210005  1
+  Ga  Ga9  1  0.789669  0.210384  0.789879  1
+  Ga  Ga10  1  0.210300  0.789748  0.789871  1
+  Ga  Ga11  1  0.210295  0.210375  0.210044  1
+  Ru  Ru12  1  0.000061  0.999954  0.500031  1
+  Ru  Ru13  1  0.999995  0.499996  0.999992  1
+  Ru  Ru14  1  0.499978  0.000041  0.999957  1

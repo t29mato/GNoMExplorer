@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CeMgNi3Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.02624761
+_cell_length_b   5.14071370
+_cell_length_c   5.02624800
+_cell_angle_alpha   60.73387649
+_cell_angle_beta   59.99999741
+_cell_angle_gamma   60.73388470
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeMgNi3Pt
+_chemical_formula_sum   'Ce1 Mg1 Ni3 Pt1'
+_cell_volume   92.83796885
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.996419  0.010744  0.996419  1
+  Mg  Mg1  1  0.751503  0.745491  0.751503  1
+  Ni  Ni2  1  0.376257  0.374963  0.376257  1
+  Ni  Ni3  1  0.376257  0.374963  0.872525  1
+  Ni  Ni4  1  0.872525  0.374963  0.376257  1
+  Pt  Pt5  1  0.377041  0.868877  0.377041  1

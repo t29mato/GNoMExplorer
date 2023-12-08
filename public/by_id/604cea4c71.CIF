@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CaPr3(GaRu)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.58934200
+_cell_length_b   7.49193782
+_cell_length_c   7.17078391
+_cell_angle_alpha   90.00510932
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaPr3(GaRu)4
+_chemical_formula_sum   'Ca1 Pr3 Ga4 Ru4'
+_cell_volume   246.55352768
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.250000  0.018102  0.690400  1
+  Pr  Pr1  1  0.250000  0.523322  0.808046  1
+  Pr  Pr2  1  0.750000  0.978380  0.307200  1
+  Pr  Pr3  1  0.750000  0.475757  0.193945  1
+  Ga  Ga4  1  0.250000  0.189222  0.103069  1
+  Ga  Ga5  1  0.250000  0.691141  0.395441  1
+  Ga  Ga6  1  0.750000  0.816205  0.889431  1
+  Ga  Ga7  1  0.750000  0.305533  0.606497  1
+  Ru  Ru8  1  0.250000  0.347790  0.435737  1
+  Ru  Ru9  1  0.250000  0.844158  0.067278  1
+  Ru  Ru10  1  0.750000  0.653158  0.566459  1
+  Ru  Ru11  1  0.750000  0.157233  0.936497  1

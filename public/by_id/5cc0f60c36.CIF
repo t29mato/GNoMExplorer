@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_NpHO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.79235900
+_cell_length_b   3.79231872
+_cell_length_c   3.79236500
+_cell_angle_alpha   120.00083985
+_cell_angle_beta   89.99924459
+_cell_angle_gamma   120.00078751
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NpHO
+_chemical_formula_sum   'Np1 H1 O1'
+_cell_volume   38.56573251
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Np  Np0  1  0.000001  0.000001  0.000001  1
+  H  H1  1  0.250001  0.500003  0.750004  1
+  O  O2  1  0.750003  0.500002  0.250001  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_LiCaLaZnSi3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.48132858
+_cell_length_b   9.48132787
+_cell_length_c   6.91448200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   153.21974800
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCaLaZnSi3
+_chemical_formula_sum   'Li2 Ca2 La2 Zn2 Si6'
+_cell_volume   280.06585146
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.811501  0.188499  0.939344  1
+  Li  Li1  1  0.188499  0.811501  0.439344  1
+  Ca  Ca2  1  0.655944  0.344056  0.744386  1
+  Ca  Ca3  1  0.344056  0.655944  0.244386  1
+  La  La4  1  0.446931  0.553069  0.754442  1
+  La  La5  1  0.553069  0.446931  0.254442  1
+  Zn  Zn6  1  0.192936  0.807064  0.054797  1
+  Zn  Zn7  1  0.807064  0.192936  0.554797  1
+  Si  Si8  1  0.278074  0.721926  0.748864  1
+  Si  Si9  1  0.721926  0.278074  0.248864  1
+  Si  Si10  1  0.940470  0.059530  0.426808  1
+  Si  Si11  1  0.055855  0.944145  0.581361  1
+  Si  Si12  1  0.944145  0.055855  0.081361  1
+  Si  Si13  1  0.059530  0.940470  0.926808  1

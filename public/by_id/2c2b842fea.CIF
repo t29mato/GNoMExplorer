@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_DyLu(ZrIr)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.54620700
+_cell_length_b   7.09243500
+_cell_length_c   8.27535300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyLu(ZrIr)2
+_chemical_formula_sum   'Dy2 Lu2 Zr4 Ir4'
+_cell_volume   266.82781452
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.250000  0.984576  0.325283  1
+  Dy  Dy1  1  0.250000  0.484576  0.174717  1
+  Lu  Lu2  1  0.750000  0.015866  0.675235  1
+  Lu  Lu3  1  0.750000  0.515866  0.824765  1
+  Zr  Zr4  1  0.250000  0.356289  0.576820  1
+  Zr  Zr5  1  0.250000  0.856289  0.923180  1
+  Zr  Zr6  1  0.750000  0.643467  0.426017  1
+  Zr  Zr7  1  0.750000  0.143467  0.073983  1
+  Ir  Ir8  1  0.250000  0.233554  0.905872  1
+  Ir  Ir9  1  0.250000  0.733554  0.594128  1
+  Ir  Ir10  1  0.750000  0.766245  0.092110  1
+  Ir  Ir11  1  0.750000  0.266245  0.407890  1

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Cu(RhS4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.79977301
+_cell_length_b   5.71041661
+_cell_length_c   5.70521005
+_cell_angle_alpha   90.14455018
+_cell_angle_beta   91.14201379
+_cell_angle_gamma   91.76016895
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu(RhS4)2
+_chemical_formula_sum   'Cu1 Rh2 S8'
+_cell_volume   188.82393755
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.000000  0.500000  0.500000  1
+  Rh  Rh1  1  0.500000  0.000000  0.500000  1
+  Rh  Rh2  1  0.500000  0.500000  0.000000  1
+  S  S3  1  0.396083  0.889850  0.103697  1
+  S  S4  1  0.101434  0.397101  0.898552  1
+  S  S5  1  0.893453  0.098922  0.397554  1
+  S  S6  1  0.603917  0.110150  0.896303  1
+  S  S7  1  0.898566  0.602899  0.101448  1
+  S  S8  1  0.106547  0.901078  0.602446  1
+  S  S9  1  0.600424  0.613406  0.612129  1
+  S  S10  1  0.399576  0.386594  0.387871  1

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LuCu3PtAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.03219363
+_cell_length_b   5.03219404
+_cell_length_c   5.13998609
+_cell_angle_alpha   60.69132927
+_cell_angle_beta   60.69132632
+_cell_angle_gamma   59.99998782
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuCu3PtAu
+_chemical_formula_sum   'Lu1 Cu3 Pt1 Au1'
+_cell_volume   92.98685996
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.997766  0.997766  0.006702  1
+  Cu  Cu1  1  0.627688  0.129307  0.615316  1
+  Cu  Cu2  1  0.129307  0.627688  0.615316  1
+  Cu  Cu3  1  0.627688  0.627688  0.615316  1
+  Pt  Pt4  1  0.628661  0.628661  0.114018  1
+  Au  Au5  1  0.238890  0.238890  0.283330  1

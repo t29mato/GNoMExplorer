@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_LiY6Er13(Cd3Fe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.51598400
+_cell_length_b   9.51598410
+_cell_length_c   9.71128300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999966
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiY6Er13(Cd3Fe)2
+_chemical_formula_sum   'Li1 Y6 Er13 Cd6 Fe2'
+_cell_volume   761.57846351
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.000000  0.000000  0.500000  1
+  Y  Y1  1  0.541155  0.458845  0.251885  1
+  Y  Y2  1  0.541155  0.082308  0.251885  1
+  Y  Y3  1  0.917692  0.458845  0.251885  1
+  Y  Y4  1  0.458845  0.541155  0.748115  1
+  Y  Y5  1  0.458845  0.917692  0.748115  1
+  Y  Y6  1  0.082308  0.541155  0.748115  1
+  Er  Er7  1  0.000000  0.000000  0.000000  1
+  Er  Er8  1  0.211252  0.788748  0.436110  1
+  Er  Er9  1  0.211252  0.422503  0.436110  1
+  Er  Er10  1  0.577497  0.788748  0.436110  1
+  Er  Er11  1  0.788748  0.211252  0.563890  1
+  Er  Er12  1  0.788748  0.577497  0.563890  1
+  Er  Er13  1  0.422503  0.211252  0.563890  1
+  Er  Er14  1  0.787186  0.212814  0.936734  1
+  Er  Er15  1  0.787186  0.574369  0.936734  1
+  Er  Er16  1  0.425631  0.212814  0.936734  1
+  Er  Er17  1  0.212814  0.787186  0.063266  1
+  Er  Er18  1  0.212814  0.425631  0.063266  1
+  Er  Er19  1  0.574369  0.787186  0.063266  1
+  Cd  Cd20  1  0.889218  0.110782  0.259929  1
+  Cd  Cd21  1  0.889218  0.778438  0.259929  1
+  Cd  Cd22  1  0.221562  0.110782  0.259929  1
+  Cd  Cd23  1  0.110782  0.889218  0.740071  1
+  Cd  Cd24  1  0.110782  0.221562  0.740071  1
+  Cd  Cd25  1  0.778438  0.889218  0.740071  1
+  Fe  Fe26  1  0.333333  0.666667  0.249059  1
+  Fe  Fe27  1  0.666667  0.333333  0.750941  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Li2B2OsRu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.77285135
+_cell_length_b   6.02534887
+_cell_length_c   5.53716623
+_cell_angle_alpha   71.57167485
+_cell_angle_beta   57.56623917
+_cell_angle_gamma   51.31799684
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2B2OsRu
+_chemical_formula_sum   'Li4 B4 Os2 Ru2'
+_cell_volume   148.81651861
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.125000  0.625000  0.625000  1
+  Li  Li1  1  0.625000  0.625000  0.625000  1
+  Li  Li2  1  0.625000  0.625000  0.125000  1
+  Li  Li3  1  0.625000  0.125000  0.625000  1
+  B  B4  1  0.434832  0.064541  0.428427  1
+  B  B5  1  0.185459  0.815168  0.177799  1
+  B  B6  1  0.064541  0.434832  0.072201  1
+  B  B7  1  0.815168  0.185459  0.821573  1
+  Os  Os8  1  0.384862  0.384862  0.115138  1
+  Os  Os9  1  0.865138  0.865138  0.134862  1
+  Ru  Ru10  1  0.138114  0.138114  0.861886  1
+  Ru  Ru11  1  0.111886  0.111886  0.388114  1

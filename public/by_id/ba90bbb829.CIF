@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Pr4NdSi2Sn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.97052700
+_cell_length_b   9.21569932
+_cell_length_c   7.97052700
+_cell_angle_alpha   115.62269470
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   115.62269470
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr4NdSi2Sn
+_chemical_formula_sum   'Pr8 Nd2 Si4 Sn2'
+_cell_volume   463.21728870
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.535314  0.720909  0.685597  1
+  Pr  Pr1  1  0.185597  0.720909  0.035314  1
+  Pr  Pr2  1  0.685597  0.720909  0.185597  1
+  Pr  Pr3  1  0.035314  0.720909  0.535314  1
+  Pr  Pr4  1  0.464686  0.279091  0.314403  1
+  Pr  Pr5  1  0.814403  0.279091  0.964686  1
+  Pr  Pr6  1  0.314403  0.279091  0.814403  1
+  Pr  Pr7  1  0.964686  0.279091  0.464686  1
+  Nd  Nd8  1  0.000000  0.000000  0.000000  1
+  Nd  Nd9  1  0.500000  0.000000  0.500000  1
+  Si  Si10  1  0.883903  0.000000  0.616097  1
+  Si  Si11  1  0.116097  0.000000  0.383903  1
+  Si  Si12  1  0.616097  0.000000  0.116097  1
+  Si  Si13  1  0.383903  0.000000  0.883903  1
+  Sn  Sn14  1  0.750000  0.500000  0.750000  1
+  Sn  Sn15  1  0.250000  0.500000  0.250000  1

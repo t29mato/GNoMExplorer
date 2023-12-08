@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CsNa(AlH4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.65386449
+_cell_length_b   7.65386459
+_cell_length_c   7.65386467
+_cell_angle_alpha   43.38653984
+_cell_angle_beta   43.38653696
+_cell_angle_gamma   43.38654238
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsNa(AlH4)2
+_chemical_formula_sum   'Cs1 Na1 Al2 H8'
+_cell_volume   191.91777654
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.500000  0.500000  0.500000  1
+  Na  Na1  1  0.000000  0.000000  0.000000  1
+  Al  Al2  1  0.722626  0.722626  0.722626  1
+  Al  Al3  1  0.277374  0.277374  0.277374  1
+  H  H4  1  0.644268  0.644268  0.644268  1
+  H  H5  1  0.355732  0.355732  0.355732  1
+  H  H6  1  0.906663  0.436319  0.906663  1
+  H  H7  1  0.436319  0.906663  0.906663  1
+  H  H8  1  0.906663  0.906663  0.436319  1
+  H  H9  1  0.563681  0.093337  0.093337  1
+  H  H10  1  0.093337  0.093337  0.563681  1
+  H  H11  1  0.093337  0.563681  0.093337  1

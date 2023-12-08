@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_TcAg2IF12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.15176203
+_cell_length_b   5.15176221
+_cell_length_c   9.64499900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   95.08244888
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TcAg2IF12
+_chemical_formula_sum   'Tc1 Ag2 I1 F12'
+_cell_volume   254.97810388
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tc  Tc0  1  0.000000  0.000000  0.000000  1
+  Ag  Ag1  1  0.500000  0.500000  0.216632  1
+  Ag  Ag2  1  0.500000  0.500000  0.783368  1
+  I  I3  1  0.000000  0.000000  0.500000  1
+  F  F4  1  0.281968  0.281968  0.000000  1
+  F  F5  1  0.718032  0.718032  0.000000  1
+  F  F6  1  0.738480  0.261520  0.500000  1
+  F  F7  1  0.261520  0.738480  0.500000  1
+  F  F8  1  0.208169  0.208169  0.352897  1
+  F  F9  1  0.791831  0.791831  0.647103  1
+  F  F10  1  0.791831  0.791831  0.352897  1
+  F  F11  1  0.822339  0.177661  0.862461  1
+  F  F12  1  0.822339  0.177661  0.137539  1
+  F  F13  1  0.208169  0.208169  0.647103  1
+  F  F14  1  0.177661  0.822339  0.137539  1
+  F  F15  1  0.177661  0.822339  0.862461  1

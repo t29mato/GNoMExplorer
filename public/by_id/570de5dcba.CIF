@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SmGaCo2NiB
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.19879643
+_cell_length_b   5.19877763
+_cell_length_c   6.75018900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.44701550
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmGaCo2NiB
+_chemical_formula_sum   'Sm2 Ga2 Co4 Ni2 B2'
+_cell_volume   158.87067475
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.000000  0.000022  0.000000  1
+  Sm  Sm1  1  0.999993  0.999999  0.500000  1
+  Ga  Ga2  1  0.331096  0.668863  0.000000  1
+  Ga  Ga3  1  0.668880  0.331168  0.000000  1
+  Co  Co4  1  0.499997  0.999992  0.297278  1
+  Co  Co5  1  0.999975  0.500000  0.297269  1
+  Co  Co6  1  0.499997  0.999992  0.702722  1
+  Co  Co7  1  0.999975  0.500000  0.702730  1
+  Ni  Ni8  1  0.499977  0.499995  0.295253  1
+  Ni  Ni9  1  0.499977  0.499995  0.704746  1
+  B  B10  1  0.327943  0.671997  0.500000  1
+  B  B11  1  0.671989  0.327979  0.500000  1

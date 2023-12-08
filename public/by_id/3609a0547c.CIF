@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Cu7Si4Ni(Mo3C)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.88108627
+_cell_length_b   7.90094098
+_cell_length_c   7.88108700
+_cell_angle_alpha   60.08309427
+_cell_angle_beta   60.00000114
+_cell_angle_gamma   60.08309872
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu7Si4Ni(Mo3C)4
+_chemical_formula_sum   'Cu7 Si4 Ni1 Mo12 C4'
+_cell_volume   347.44043645
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.918697  0.916662  0.245944  1
+  Cu  Cu1  1  0.331984  0.330677  0.331984  1
+  Cu  Cu2  1  0.245944  0.916662  0.918697  1
+  Cu  Cu3  1  0.331720  0.004840  0.331720  1
+  Cu  Cu4  1  0.005355  0.330677  0.331984  1
+  Cu  Cu5  1  0.331984  0.330677  0.005355  1
+  Cu  Cu6  1  0.918697  0.916662  0.918697  1
+  Si  Si7  1  0.121292  0.127715  0.121292  1
+  Si  Si8  1  0.629701  0.127715  0.121292  1
+  Si  Si9  1  0.121292  0.127715  0.629701  1
+  Si  Si10  1  0.125184  0.624448  0.125184  1
+  Ni  Ni11  1  0.917964  0.246108  0.917964  1
+  Mo  Mo12  1  0.693032  0.307271  0.306665  1
+  Mo  Mo13  1  0.942864  0.942437  0.557350  1
+  Mo  Mo14  1  0.692165  0.691674  0.308080  1
+  Mo  Mo15  1  0.693032  0.307271  0.693032  1
+  Mo  Mo16  1  0.308080  0.691674  0.308080  1
+  Mo  Mo17  1  0.557350  0.942437  0.557350  1
+  Mo  Mo18  1  0.557350  0.942437  0.942864  1
+  Mo  Mo19  1  0.940484  0.557770  0.561262  1
+  Mo  Mo20  1  0.940484  0.557770  0.940484  1
+  Mo  Mo21  1  0.306665  0.307271  0.693032  1
+  Mo  Mo22  1  0.561262  0.557770  0.940484  1
+  Mo  Mo23  1  0.308080  0.691674  0.692165  1
+  C  C24  1  0.624618  0.625141  0.624618  1
+  C  C25  1  0.624618  0.625141  0.125622  1
+  C  C26  1  0.125622  0.625141  0.624618  1
+  C  C27  1  0.624480  0.126561  0.624480  1

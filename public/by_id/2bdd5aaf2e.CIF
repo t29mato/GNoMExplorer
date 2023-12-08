@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Pr3AlC3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.80639700
+_cell_length_b   7.46298200
+_cell_length_c   10.32227800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr3AlC3
+_chemical_formula_sum   'Pr6 Al2 C6'
+_cell_volume   293.22569740
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.500000  0.509165  0.194265  1
+  Pr  Pr1  1  0.500000  0.490835  0.805735  1
+  Pr  Pr2  1  0.500000  0.990835  0.194265  1
+  Pr  Pr3  1  0.500000  0.009165  0.805735  1
+  Pr  Pr4  1  0.000000  0.750000  0.458018  1
+  Pr  Pr5  1  0.000000  0.250000  0.541982  1
+  Al  Al6  1  0.000000  0.750000  0.012460  1
+  Al  Al7  1  0.000000  0.250000  0.987540  1
+  C  C8  1  0.500000  0.507470  0.563423  1
+  C  C9  1  0.500000  0.492530  0.436577  1
+  C  C10  1  0.500000  0.992530  0.563423  1
+  C  C11  1  0.500000  0.007470  0.436577  1
+  C  C12  1  0.000000  0.750000  0.208249  1
+  C  C13  1  0.000000  0.250000  0.791751  1

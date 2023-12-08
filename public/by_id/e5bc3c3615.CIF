@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_DyLu3(AlGa2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.92053163
+_cell_length_b   6.92053163
+_cell_length_c   4.40721700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   89.41355561
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyLu3(AlGa2)2
+_chemical_formula_sum   'Dy1 Lu3 Al2 Ga4'
+_cell_volume   211.06712794
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.672788  0.172788  0.500000  1
+  Lu  Lu1  1  0.326312  0.826312  0.500000  1
+  Lu  Lu2  1  0.829384  0.673158  0.500000  1
+  Lu  Lu3  1  0.173158  0.329384  0.500000  1
+  Al  Al4  1  0.499700  0.499150  0.000000  1
+  Al  Al5  1  0.999150  0.999700  0.000000  1
+  Ga  Ga6  1  0.870670  0.370670  0.000000  1
+  Ga  Ga7  1  0.365428  0.130445  0.000000  1
+  Ga  Ga8  1  0.132965  0.632965  0.000000  1
+  Ga  Ga9  1  0.630445  0.865428  0.000000  1

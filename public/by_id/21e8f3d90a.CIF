@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ce4Sn(B3Os)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.42368192
+_cell_length_b   5.42368209
+_cell_length_c   8.53102708
+_cell_angle_alpha   71.46524357
+_cell_angle_beta   71.46524383
+_cell_angle_gamma   59.99999432
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce4Sn(B3Os)2
+_chemical_formula_sum   'Ce4 Sn1 B6 Os2'
+_cell_volume   202.16043027
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.253958  0.253958  0.238124  1
+  Ce  Ce1  1  0.746042  0.746042  0.761876  1
+  Ce  Ce2  1  0.412685  0.412685  0.761946  1
+  Ce  Ce3  1  0.587315  0.587315  0.238055  1
+  Sn  Sn4  1  0.000000  0.000000  0.000000  1
+  B  B5  1  0.173818  0.826182  0.500000  1
+  B  B6  1  0.826182  0.500000  0.500000  1
+  B  B7  1  0.500000  0.173818  0.500000  1
+  B  B8  1  0.173818  0.500000  0.500000  1
+  B  B9  1  0.500000  0.826182  0.500000  1
+  B  B10  1  0.826182  0.173818  0.500000  1
+  Os  Os11  1  0.113811  0.113811  0.658568  1
+  Os  Os12  1  0.886189  0.886189  0.341432  1

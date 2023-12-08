@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Eu2In(SiPd2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.96655251
+_cell_length_b   6.99896989
+_cell_length_c   6.96655230
+_cell_angle_alpha   129.79756183
+_cell_angle_beta   115.64172643
+_cell_angle_gamma   85.67310513
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu2In(SiPd2)3
+_chemical_formula_sum   'Eu2 In1 Si3 Pd6'
+_cell_volume   225.09764329
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.999639  0.972463  0.972824  1
+  Eu  Eu1  1  0.503374  0.051898  0.548524  1
+  In  In2  1  0.350884  0.407207  0.056323  1
+  Si  Si3  1  0.814978  0.260298  0.445320  1
+  Si  Si4  1  0.646989  0.703050  0.056061  1
+  Si  Si5  1  0.193528  0.639969  0.446441  1
+  Pd  Pd6  1  0.940828  0.503977  0.953408  1
+  Pd  Pd7  1  0.550568  0.503977  0.563149  1
+  Pd  Pd8  1  0.018554  0.986860  0.513276  1
+  Pd  Pd9  1  0.804681  0.484221  0.281828  1
+  Pd  Pd10  1  0.202393  0.484221  0.679540  1
+  Pd  Pd11  1  0.473585  0.986860  0.968306  1

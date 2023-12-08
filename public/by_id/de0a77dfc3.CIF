@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ba2NaErPb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.17772216
+_cell_length_b   11.17772189
+_cell_length_c   7.40383300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   97.78400346
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2NaErPb2
+_chemical_formula_sum   'Ba8 Na4 Er4 Pb8'
+_cell_volume   916.52212070
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.076160  0.423840  0.250000  1
+  Ba  Ba1  1  0.423840  0.076160  0.750000  1
+  Ba  Ba2  1  0.923840  0.576160  0.750000  1
+  Ba  Ba3  1  0.576160  0.923840  0.250000  1
+  Ba  Ba4  1  0.671433  0.328567  0.220335  1
+  Ba  Ba5  1  0.828567  0.171433  0.720335  1
+  Ba  Ba6  1  0.328567  0.671433  0.779665  1
+  Ba  Ba7  1  0.171433  0.828567  0.279665  1
+  Na  Na8  1  0.379409  0.379409  0.000000  1
+  Na  Na9  1  0.120591  0.120591  0.500000  1
+  Na  Na10  1  0.620591  0.620591  0.000000  1
+  Na  Na11  1  0.879409  0.879409  0.500000  1
+  Er  Er12  1  0.127625  0.127625  0.000000  1
+  Er  Er13  1  0.372375  0.372375  0.500000  1
+  Er  Er14  1  0.872375  0.872375  0.000000  1
+  Er  Er15  1  0.627625  0.627625  0.500000  1
+  Pb  Pb16  1  0.859732  0.640267  0.250000  1
+  Pb  Pb17  1  0.640267  0.859732  0.750000  1
+  Pb  Pb18  1  0.140267  0.359732  0.750000  1
+  Pb  Pb19  1  0.359732  0.140267  0.250000  1
+  Pb  Pb20  1  0.886787  0.113213  0.220657  1
+  Pb  Pb21  1  0.613213  0.386787  0.720657  1
+  Pb  Pb22  1  0.113213  0.886787  0.779343  1
+  Pb  Pb23  1  0.386787  0.613213  0.279343  1

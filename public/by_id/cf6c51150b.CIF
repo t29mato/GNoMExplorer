@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_TbLu(MgIn2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.46010500
+_cell_length_b   6.46010592
+_cell_length_c   9.28257700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   92.20790551
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbLu(MgIn2)2
+_chemical_formula_sum   'Tb2 Lu2 Mg4 In8'
+_cell_volume   387.10184419
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.503624  0.503624  0.250000  1
+  Tb  Tb1  1  0.496376  0.496376  0.750000  1
+  Lu  Lu2  1  0.996279  0.996279  0.250000  1
+  Lu  Lu3  1  0.003721  0.003721  0.750000  1
+  Mg  Mg4  1  0.248732  0.751268  0.500000  1
+  Mg  Mg5  1  0.248732  0.751268  0.000000  1
+  Mg  Mg6  1  0.751268  0.248732  0.500000  1
+  Mg  Mg7  1  0.751268  0.248732  0.000000  1
+  In  In8  1  0.247819  0.247819  0.002902  1
+  In  In9  1  0.752181  0.752181  0.997098  1
+  In  In10  1  0.247819  0.247819  0.497098  1
+  In  In11  1  0.752181  0.752181  0.502902  1
+  In  In12  1  0.497165  0.002467  0.250000  1
+  In  In13  1  0.997533  0.502835  0.750000  1
+  In  In14  1  0.502835  0.997533  0.750000  1
+  In  In15  1  0.002467  0.497165  0.250000  1

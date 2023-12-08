@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Lu5InSn2Se
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.90294200
+_cell_length_b   8.91026265
+_cell_length_c   6.62367100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.02720086
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu5InSn2Se
+_chemical_formula_sum   'Lu10 In2 Sn4 Se2'
+_cell_volume   454.91926848
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.666786  0.333215  0.998302  1
+  Lu  Lu1  1  0.333214  0.666430  0.998302  1
+  Lu  Lu2  1  0.333214  0.666430  0.501698  1
+  Lu  Lu3  1  0.666786  0.333215  0.501698  1
+  Lu  Lu4  1  0.746622  0.746580  0.750000  1
+  Lu  Lu5  1  0.253378  0.999958  0.750000  1
+  Lu  Lu6  1  0.000000  0.254109  0.750000  1
+  Lu  Lu7  1  0.252690  0.253440  0.250000  1
+  Lu  Lu8  1  0.747310  0.000750  0.250000  1
+  Lu  Lu9  1  0.000000  0.746819  0.250000  1
+  In  In10  1  0.397068  0.396895  0.750000  1
+  In  In11  1  0.602932  0.999827  0.750000  1
+  Sn  Sn12  1  0.000000  0.604552  0.750000  1
+  Sn  Sn13  1  0.602873  0.602576  0.250000  1
+  Sn  Sn14  1  0.397127  0.999703  0.250000  1
+  Sn  Sn15  1  0.000000  0.396029  0.250000  1
+  Se  Se16  1  0.000000  0.999736  0.000575  1
+  Se  Se17  1  0.000000  0.999736  0.499425  1

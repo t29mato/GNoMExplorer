@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Ti3V7Si6C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.24447500
+_cell_length_b   7.24447441
+_cell_length_c   4.89116800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999811
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3V7Si6C
+_chemical_formula_sum   'Ti3 V7 Si6 C1'
+_cell_volume   222.30898769
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.000000  0.763759  0.252928  1
+  Ti  Ti1  1  0.236241  0.236241  0.252928  1
+  Ti  Ti2  1  0.763759  0.000000  0.252928  1
+  V  V3  1  0.000000  0.237545  0.745428  1
+  V  V4  1  0.762455  0.762455  0.745428  1
+  V  V5  1  0.237545  0.000000  0.745428  1
+  V  V6  1  0.333333  0.666667  0.999744  1
+  V  V7  1  0.666667  0.333333  0.999744  1
+  V  V8  1  0.666667  0.333333  0.498963  1
+  V  V9  1  0.333333  0.666667  0.498963  1
+  Si  Si10  1  0.000000  0.404335  0.241778  1
+  Si  Si11  1  0.595665  0.595665  0.241778  1
+  Si  Si12  1  0.404335  0.000000  0.241778  1
+  Si  Si13  1  0.000000  0.597424  0.756242  1
+  Si  Si14  1  0.402576  0.402576  0.756242  1
+  Si  Si15  1  0.597424  0.000000  0.756242  1
+  C  C16  1  0.000000  0.000000  0.513458  1

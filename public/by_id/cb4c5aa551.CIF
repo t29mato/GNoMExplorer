@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Y4Al4OsPd2Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.38069900
+_cell_length_b   6.93020604
+_cell_length_c   7.85621258
+_cell_angle_alpha   89.85682011
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y4Al4OsPd2Pt
+_chemical_formula_sum   'Y4 Al4 Os1 Pd2 Pt1'
+_cell_volume   238.50716545
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.250000  0.032329  0.680042  1
+  Y  Y1  1  0.250000  0.523170  0.818249  1
+  Y  Y2  1  0.750000  0.984657  0.319224  1
+  Y  Y3  1  0.750000  0.467387  0.186520  1
+  Al  Al4  1  0.250000  0.149235  0.065197  1
+  Al  Al5  1  0.250000  0.640705  0.436965  1
+  Al  Al6  1  0.750000  0.856083  0.937202  1
+  Al  Al7  1  0.750000  0.349142  0.562139  1
+  Os  Os8  1  0.250000  0.271337  0.380758  1
+  Pd  Pd9  1  0.250000  0.775692  0.114672  1
+  Pd  Pd10  1  0.750000  0.724834  0.617092  1
+  Pt  Pt11  1  0.750000  0.225429  0.881941  1

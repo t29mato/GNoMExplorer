@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YbPr(ZnRh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.17062100
+_cell_length_b   7.01847036
+_cell_length_c   8.05879301
+_cell_angle_alpha   88.47296186
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbPr(ZnRh)2
+_chemical_formula_sum   'Yb2 Pr2 Zn4 Rh4'
+_cell_volume   235.80821698
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.750000  0.973015  0.679968  1
+  Yb  Yb1  1  0.250000  0.026985  0.320032  1
+  Pr  Pr2  1  0.250000  0.529386  0.188685  1
+  Pr  Pr3  1  0.750000  0.470614  0.811315  1
+  Zn  Zn4  1  0.250000  0.654123  0.562848  1
+  Zn  Zn5  1  0.750000  0.345877  0.437152  1
+  Zn  Zn6  1  0.750000  0.862929  0.062395  1
+  Zn  Zn7  1  0.250000  0.137071  0.937605  1
+  Rh  Rh8  1  0.250000  0.774899  0.873330  1
+  Rh  Rh9  1  0.750000  0.225101  0.126670  1
+  Rh  Rh10  1  0.750000  0.733612  0.378026  1
+  Rh  Rh11  1  0.250000  0.266388  0.621974  1

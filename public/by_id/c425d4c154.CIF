@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_LuPuHf2(Al3Rh)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.50427324
+_cell_length_b   7.50689903
+_cell_length_c   9.35473800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.55466253
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuPuHf2(Al3Rh)6
+_chemical_formula_sum   'Lu1 Pu1 Hf2 Al18 Rh6'
+_cell_volume   458.41934645
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.327793  0.006728  0.750000  1
+  Pu  Pu1  1  0.007063  0.327454  0.750000  1
+  Hf  Hf2  1  0.994979  0.673347  0.250000  1
+  Hf  Hf3  1  0.671589  0.994050  0.250000  1
+  Al  Al4  1  0.119926  0.119953  0.250000  1
+  Al  Al5  1  0.869326  0.869220  0.750000  1
+  Al  Al6  1  0.996803  0.335352  0.082576  1
+  Al  Al7  1  0.999726  0.664471  0.929647  1
+  Al  Al8  1  0.999726  0.664471  0.570353  1
+  Al  Al9  1  0.335409  0.996712  0.416988  1
+  Al  Al10  1  0.996803  0.335352  0.417424  1
+  Al  Al11  1  0.664501  0.000015  0.570258  1
+  Al  Al12  1  0.664501  0.000015  0.929742  1
+  Al  Al13  1  0.335409  0.996712  0.083012  1
+  Al  Al14  1  0.334633  0.333942  0.548362  1
+  Al  Al15  1  0.670025  0.669848  0.435683  1
+  Al  Al16  1  0.670025  0.669848  0.064317  1
+  Al  Al17  1  0.334633  0.333942  0.951638  1
+  Al  Al18  1  0.338642  0.557200  0.250000  1
+  Al  Al19  1  0.660356  0.451034  0.750000  1
+  Al  Al20  1  0.556205  0.338810  0.250000  1
+  Al  Al21  1  0.450197  0.661185  0.750000  1
+  Rh  Rh22  1  0.672432  0.328114  0.003464  1
+  Rh  Rh23  1  0.329791  0.675246  0.004005  1
+  Rh  Rh24  1  0.329791  0.675246  0.495995  1
+  Rh  Rh25  1  0.672432  0.328114  0.496536  1
+  Rh  Rh26  1  0.998641  0.996808  0.003234  1
+  Rh  Rh27  1  0.998641  0.996808  0.496766  1

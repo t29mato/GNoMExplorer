@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_SmDy3Sc4In3Co
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.92756700
+_cell_length_b   9.92756606
+_cell_length_c   7.09295500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999314
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmDy3Sc4In3Co
+_chemical_formula_sum   'Sm2 Dy6 Sc8 In6 Co2'
+_cell_volume   605.40148045
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.000000  0.000000  0.783063  1
+  Sm  Sm1  1  0.000000  0.000000  0.283063  1
+  Dy  Dy2  1  0.533801  0.067602  0.786321  1
+  Dy  Dy3  1  0.932398  0.466199  0.786321  1
+  Dy  Dy4  1  0.533801  0.466199  0.786321  1
+  Dy  Dy5  1  0.466199  0.932398  0.286321  1
+  Dy  Dy6  1  0.067602  0.533801  0.286321  1
+  Dy  Dy7  1  0.466199  0.533801  0.286321  1
+  Sc  Sc8  1  0.818899  0.637799  0.493876  1
+  Sc  Sc9  1  0.362201  0.181101  0.493876  1
+  Sc  Sc10  1  0.818899  0.181101  0.493876  1
+  Sc  Sc11  1  0.181101  0.362201  0.993876  1
+  Sc  Sc12  1  0.637799  0.818899  0.993876  1
+  Sc  Sc13  1  0.181101  0.818899  0.993876  1
+  Sc  Sc14  1  0.666667  0.333333  0.192914  1
+  Sc  Sc15  1  0.333333  0.666667  0.692914  1
+  In  In16  1  0.835258  0.670516  0.050077  1
+  In  In17  1  0.329484  0.164742  0.050077  1
+  In  In18  1  0.835258  0.164742  0.050077  1
+  In  In19  1  0.164742  0.329484  0.550077  1
+  In  In20  1  0.670516  0.835258  0.550077  1
+  In  In21  1  0.164742  0.835258  0.550077  1
+  Co  Co22  1  0.666667  0.333333  0.551149  1
+  Co  Co23  1  0.333333  0.666667  0.051149  1

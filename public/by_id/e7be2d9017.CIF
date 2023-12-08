@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_LuSc2SiGe2Os3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.03972177
+_cell_length_b   7.03972196
+_cell_length_c   3.43453300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.08117800
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuSc2SiGe2Os3
+_chemical_formula_sum   'Lu1 Sc2 Si1 Ge2 Os3'
+_cell_volume   147.28329466
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.400065  0.400065  0.500000  1
+  Sc  Sc1  1  0.601027  0.000215  0.500000  1
+  Sc  Sc2  1  0.000215  0.601027  0.500000  1
+  Si  Si3  1  0.997593  0.997593  0.500000  1
+  Ge  Ge4  1  0.672584  0.331963  0.000000  1
+  Ge  Ge5  1  0.331963  0.672584  0.000000  1
+  Os  Os6  1  0.752744  0.752744  0.000000  1
+  Os  Os7  1  0.246397  0.997414  0.000000  1
+  Os  Os8  1  0.997414  0.246397  0.000000  1

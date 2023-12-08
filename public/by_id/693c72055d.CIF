@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_BaLa2(CoH6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.99629100
+_cell_length_b   4.99629218
+_cell_length_c   8.63060500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999883
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaLa2(CoH6)2
+_chemical_formula_sum   'Ba1 La2 Co2 H12'
+_cell_volume   186.58100579
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.000000  0.000000  0.000000  1
+  La  La1  1  0.666667  0.333333  0.361414  1
+  La  La2  1  0.333333  0.666667  0.638586  1
+  Co  Co3  1  0.666667  0.333333  0.738958  1
+  Co  Co4  1  0.333333  0.666667  0.261042  1
+  H  H5  1  0.183270  0.816730  0.367195  1
+  H  H6  1  0.633460  0.816730  0.367195  1
+  H  H7  1  0.183270  0.366540  0.367195  1
+  H  H8  1  0.816730  0.183270  0.632805  1
+  H  H9  1  0.366540  0.183270  0.632805  1
+  H  H10  1  0.816730  0.633460  0.632805  1
+  H  H11  1  0.519239  0.038477  0.848699  1
+  H  H12  1  0.519239  0.480761  0.848699  1
+  H  H13  1  0.961523  0.480761  0.848699  1
+  H  H14  1  0.480761  0.961523  0.151301  1
+  H  H15  1  0.480761  0.519239  0.151301  1
+  H  H16  1  0.038477  0.519239  0.151301  1

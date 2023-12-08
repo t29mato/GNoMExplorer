@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Pr2Al2(Re5C)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.03792554
+_cell_length_b   7.02249861
+_cell_length_c   7.03792579
+_cell_angle_alpha   82.41347997
+_cell_angle_beta   82.85570516
+_cell_angle_gamma   82.41348850
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr2Al2(Re5C)3
+_chemical_formula_sum   'Pr2 Al2 Re15 C3'
+_cell_volume   339.74804492
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.655826  0.654872  0.655826  1
+  Pr  Pr1  1  0.344174  0.345128  0.344174  1
+  Al  Al2  1  0.000000  0.000000  0.500000  1
+  Al  Al3  1  0.500000  0.000000  0.000000  1
+  Re  Re4  1  0.000000  0.500000  0.000000  1
+  Re  Re5  1  0.277244  0.723385  0.997893  1
+  Re  Re6  1  0.721147  0.000000  0.278853  1
+  Re  Re7  1  0.002107  0.276615  0.722756  1
+  Re  Re8  1  0.278853  0.000000  0.721147  1
+  Re  Re9  1  0.997893  0.723385  0.277244  1
+  Re  Re10  1  0.722756  0.276615  0.002107  1
+  Re  Re11  1  0.353864  0.351134  0.851298  1
+  Re  Re12  1  0.346162  0.854594  0.346162  1
+  Re  Re13  1  0.851298  0.351134  0.353864  1
+  Re  Re14  1  0.646136  0.648866  0.148702  1
+  Re  Re15  1  0.653838  0.145406  0.653838  1
+  Re  Re16  1  0.148702  0.648866  0.646136  1
+  Re  Re17  1  0.903915  0.900754  0.903915  1
+  Re  Re18  1  0.096085  0.099246  0.096085  1
+  C  C19  1  0.500000  0.500000  0.000000  1
+  C  C20  1  0.500000  0.000000  0.500000  1
+  C  C21  1  0.000000  0.500000  0.500000  1

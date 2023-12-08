@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Y3Lu5(AgPt)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.47005061
+_cell_length_b   9.47005178
+_cell_length_c   9.47005100
+_cell_angle_alpha   59.99999923
+_cell_angle_beta   59.99999514
+_cell_angle_gamma   60.00000085
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y3Lu5(AgPt)2
+_chemical_formula_sum   'Y6 Lu10 Ag4 Pt4'
+_cell_volume   600.54002527
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.936205  0.563795  0.563795  1
+  Y  Y1  1  0.563795  0.936205  0.936205  1
+  Y  Y2  1  0.563795  0.936205  0.563795  1
+  Y  Y3  1  0.936205  0.563795  0.936205  1
+  Y  Y4  1  0.563795  0.563795  0.936205  1
+  Y  Y5  1  0.936205  0.936205  0.563795  1
+  Lu  Lu6  1  0.354961  0.354961  0.354961  1
+  Lu  Lu7  1  0.354961  0.354961  0.935116  1
+  Lu  Lu8  1  0.354961  0.935116  0.354961  1
+  Lu  Lu9  1  0.935116  0.354961  0.354961  1
+  Lu  Lu10  1  0.811917  0.188083  0.188083  1
+  Lu  Lu11  1  0.188083  0.811917  0.811917  1
+  Lu  Lu12  1  0.188083  0.811917  0.188083  1
+  Lu  Lu13  1  0.811917  0.188083  0.811917  1
+  Lu  Lu14  1  0.188083  0.188083  0.811917  1
+  Lu  Lu15  1  0.811917  0.811917  0.188083  1
+  Ag  Ag16  1  0.581012  0.581012  0.581012  1
+  Ag  Ag17  1  0.581012  0.581012  0.256964  1
+  Ag  Ag18  1  0.581012  0.256964  0.581012  1
+  Ag  Ag19  1  0.256964  0.581012  0.581012  1
+  Pt  Pt20  1  0.144251  0.144251  0.144251  1
+  Pt  Pt21  1  0.144251  0.144251  0.567247  1
+  Pt  Pt22  1  0.144251  0.567247  0.144251  1
+  Pt  Pt23  1  0.567247  0.144251  0.144251  1

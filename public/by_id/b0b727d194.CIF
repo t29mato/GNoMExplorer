@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_TaTi5Al4(IrN)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.18284200
+_cell_length_b   8.17315956
+_cell_length_c   8.18284172
+_cell_angle_alpha   60.03995257
+_cell_angle_beta   59.95536100
+_cell_angle_gamma   60.03995286
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaTi5Al4(IrN)2
+_chemical_formula_sum   'Ta2 Ti10 Al8 Ir4 N4'
+_cell_volume   387.07791396
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.813874  0.815819  0.185034  1
+  Ta  Ta1  1  0.064966  0.434181  0.436126  1
+  Ti  Ti2  1  0.434383  0.064783  0.064380  1
+  Ti  Ti3  1  0.064604  0.065244  0.434181  1
+  Ti  Ti4  1  0.064369  0.433745  0.064623  1
+  Ti  Ti5  1  0.435451  0.064874  0.435639  1
+  Ti  Ti6  1  0.185377  0.816255  0.185631  1
+  Ti  Ti7  1  0.184501  0.816185  0.814135  1
+  Ti  Ti8  1  0.815819  0.184756  0.185396  1
+  Ti  Ti9  1  0.814361  0.185126  0.814549  1
+  Ti  Ti10  1  0.435865  0.433815  0.065499  1
+  Ti  Ti11  1  0.185620  0.185217  0.815617  1
+  Al  Al12  1  0.413544  0.756261  0.415364  1
+  Al  Al13  1  0.835327  0.836621  0.495951  1
+  Al  Al14  1  0.494381  0.834964  0.835564  1
+  Al  Al15  1  0.835433  0.835672  0.832207  1
+  Al  Al16  1  0.754049  0.413379  0.414673  1
+  Al  Al17  1  0.417793  0.414328  0.414567  1
+  Al  Al18  1  0.414436  0.415036  0.755619  1
+  Al  Al19  1  0.834636  0.493739  0.836456  1
+  Ir  Ir20  1  0.624193  0.125000  0.625807  1
+  Ir  Ir21  1  0.625185  0.625807  0.124712  1
+  Ir  Ir22  1  0.125288  0.624193  0.624815  1
+  Ir  Ir23  1  0.625009  0.625000  0.624991  1
+  N  N24  1  0.128240  0.625000  0.121760  1
+  N  N25  1  0.125453  0.122282  0.627326  1
+  N  N26  1  0.622674  0.127718  0.124547  1
+  N  N27  1  0.125171  0.125000  0.124829  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_La10InSi4Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.79333661
+_cell_length_b   7.79333681
+_cell_length_c   9.29832600
+_cell_angle_alpha   114.77601894
+_cell_angle_beta   114.77601964
+_cell_angle_gamma   90.00000299
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La10InSi4Pt
+_chemical_formula_sum   'La10 In1 Si4 Pt1'
+_cell_volume   454.87568255
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.527061  0.527061  0.054122  1
+  La  La1  1  0.972939  0.972939  0.945878  1
+  La  La2  1  0.979348  0.833808  0.280637  1
+  La  La3  1  0.301288  0.446829  0.280637  1
+  La  La4  1  0.833808  0.301288  0.280637  1
+  La  La5  1  0.446829  0.979348  0.280637  1
+  La  La6  1  0.053171  0.198712  0.719363  1
+  La  La7  1  0.666192  0.520652  0.719363  1
+  La  La8  1  0.198712  0.666192  0.719363  1
+  La  La9  1  0.520652  0.053171  0.719363  1
+  In  In10  1  0.750000  0.750000  0.500000  1
+  Si  Si11  1  0.613995  0.886005  0.000000  1
+  Si  Si12  1  0.386005  0.113995  0.000000  1
+  Si  Si13  1  0.886005  0.386005  0.000000  1
+  Si  Si14  1  0.113995  0.613995  0.000000  1
+  Pt  Pt15  1  0.250000  0.250000  0.500000  1

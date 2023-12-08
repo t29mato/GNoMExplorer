@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TaNb3Co4Si3As
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.67420800
+_cell_length_b   6.25372767
+_cell_length_c   7.09006460
+_cell_angle_alpha   89.78618011
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaNb3Co4Si3As
+_chemical_formula_sum   'Ta1 Nb3 Co4 Si3 As1'
+_cell_volume   162.91079834
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.250000  0.022425  0.823159  1
+  Nb  Nb1  1  0.250000  0.520331  0.680390  1
+  Nb  Nb2  1  0.750000  0.980646  0.174611  1
+  Nb  Nb3  1  0.750000  0.471515  0.319977  1
+  Co  Co4  1  0.250000  0.146089  0.440189  1
+  Co  Co5  1  0.250000  0.639628  0.056756  1
+  Co  Co6  1  0.750000  0.861795  0.569695  1
+  Co  Co7  1  0.750000  0.357050  0.936752  1
+  Si  Si8  1  0.250000  0.276161  0.117243  1
+  Si  Si9  1  0.750000  0.226550  0.620544  1
+  Si  Si10  1  0.750000  0.724496  0.881963  1
+  As  As11  1  0.250000  0.773313  0.378719  1

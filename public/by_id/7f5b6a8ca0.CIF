@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_PaCo21ReB6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.45533705
+_cell_length_b   7.45533699
+_cell_length_c   7.45533700
+_cell_angle_alpha   59.99999553
+_cell_angle_beta   59.99999577
+_cell_angle_gamma   59.99999950
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PaCo21ReB6
+_chemical_formula_sum   'Pa1 Co21 Re1 B6'
+_cell_volume   293.01294840
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.750000  0.750000  0.750000  1
+  Co  Co1  1  0.000000  0.000000  0.000000  1
+  Co  Co2  1  0.612449  0.612449  0.162653  1
+  Co  Co3  1  0.612449  0.162653  0.612449  1
+  Co  Co4  1  0.162653  0.612449  0.612449  1
+  Co  Co5  1  0.612449  0.612449  0.612449  1
+  Co  Co6  1  0.379418  0.379418  0.861746  1
+  Co  Co7  1  0.379418  0.861746  0.379418  1
+  Co  Co8  1  0.861746  0.379418  0.379418  1
+  Co  Co9  1  0.379418  0.379418  0.379418  1
+  Co  Co10  1  0.003108  0.003108  0.334387  1
+  Co  Co11  1  0.659396  0.003108  0.334387  1
+  Co  Co12  1  0.003108  0.659396  0.334387  1
+  Co  Co13  1  0.659396  0.334387  0.003108  1
+  Co  Co14  1  0.003108  0.334387  0.003108  1
+  Co  Co15  1  0.003108  0.334387  0.659396  1
+  Co  Co16  1  0.334387  0.659396  0.003108  1
+  Co  Co17  1  0.334387  0.003108  0.659396  1
+  Co  Co18  1  0.334387  0.003108  0.003108  1
+  Co  Co19  1  0.003108  0.003108  0.659396  1
+  Co  Co20  1  0.003108  0.659396  0.003108  1
+  Co  Co21  1  0.659396  0.003108  0.003108  1
+  Re  Re22  1  0.250000  0.250000  0.250000  1
+  B  B23  1  0.725735  0.725735  0.274265  1
+  B  B24  1  0.274265  0.725735  0.274265  1
+  B  B25  1  0.725735  0.274265  0.274265  1
+  B  B26  1  0.274265  0.274265  0.725735  1
+  B  B27  1  0.725735  0.274265  0.725735  1
+  B  B28  1  0.274265  0.725735  0.725735  1

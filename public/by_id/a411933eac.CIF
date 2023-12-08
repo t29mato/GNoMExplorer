@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na2SrCdP2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.48300700
+_cell_length_b   7.51598900
+_cell_length_c   8.53534800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2SrCdP2
+_chemical_formula_sum   'Na4 Sr2 Cd2 P4'
+_cell_volume   287.59198973
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.500000  0.027710  0.417165  1
+  Na  Na1  1  0.000000  0.357334  0.336905  1
+  Na  Na2  1  0.500000  0.527710  0.582835  1
+  Na  Na3  1  0.000000  0.857334  0.663095  1
+  Sr  Sr4  1  0.000000  0.989616  0.062447  1
+  Sr  Sr5  1  0.000000  0.489616  0.937553  1
+  Cd  Cd6  1  0.500000  0.148124  0.806690  1
+  Cd  Cd7  1  0.500000  0.648124  0.193310  1
+  P  P8  1  0.000000  0.243014  0.657855  1
+  P  P9  1  0.500000  0.279802  0.121611  1
+  P  P10  1  0.000000  0.743014  0.342145  1
+  P  P11  1  0.500000  0.779802  0.878389  1

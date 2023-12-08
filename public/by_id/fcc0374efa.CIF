@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Pr2Lu(SnIr)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.66199600
+_cell_length_b   7.34756793
+_cell_length_c   4.18274300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   121.42597994
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr2Lu(SnIr)3
+_chemical_formula_sum   'Pr2 Lu1 Sn3 Ir3'
+_cell_volume   200.93510574
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.999133  0.588521  0.000000  1
+  Pr  Pr1  1  0.410612  0.411479  0.000000  1
+  Lu  Lu2  1  0.603469  0.000000  0.000000  1
+  Sn  Sn3  1  0.241210  0.000000  0.500000  1
+  Sn  Sn4  1  0.003848  0.258128  0.500000  1
+  Sn  Sn5  1  0.745720  0.741872  0.500000  1
+  Ir  Ir6  1  0.356783  0.704688  0.500000  1
+  Ir  Ir7  1  0.652096  0.295312  0.500000  1
+  Ir  Ir8  1  0.987128  0.000000  0.000000  1

@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Co5Si7(Mo6C)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.76448506
+_cell_length_b   7.76448451
+_cell_length_c   7.76448397
+_cell_angle_alpha   60.25986237
+_cell_angle_beta   60.25986457
+_cell_angle_gamma   60.25986413
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co5Si7(Mo6C)2
+_chemical_formula_sum   'Co5 Si7 Mo12 C2'
+_cell_volume   332.94303655
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.830600  0.830600  0.830600  1
+  Co  Co1  1  0.617912  0.617912  0.140778  1
+  Co  Co2  1  0.617912  0.140778  0.617912  1
+  Co  Co3  1  0.140778  0.617912  0.617912  1
+  Co  Co4  1  0.627731  0.627731  0.627731  1
+  Si  Si5  1  0.415644  0.415644  0.755983  1
+  Si  Si6  1  0.415644  0.755983  0.415644  1
+  Si  Si7  1  0.755983  0.415644  0.415644  1
+  Si  Si8  1  0.413380  0.413380  0.413380  1
+  Si  Si9  1  0.837156  0.837156  0.502820  1
+  Si  Si10  1  0.837156  0.502820  0.837156  1
+  Si  Si11  1  0.502820  0.837156  0.837156  1
+  Mo  Mo12  1  0.054093  0.054093  0.448287  1
+  Mo  Mo13  1  0.442944  0.055628  0.442944  1
+  Mo  Mo14  1  0.055628  0.442944  0.442944  1
+  Mo  Mo15  1  0.442944  0.442944  0.055628  1
+  Mo  Mo16  1  0.054093  0.448287  0.054093  1
+  Mo  Mo17  1  0.448287  0.054093  0.054093  1
+  Mo  Mo18  1  0.190389  0.190389  0.807910  1
+  Mo  Mo19  1  0.806954  0.187243  0.806954  1
+  Mo  Mo20  1  0.187243  0.806954  0.806954  1
+  Mo  Mo21  1  0.806954  0.806954  0.187243  1
+  Mo  Mo22  1  0.190389  0.807910  0.190389  1
+  Mo  Mo23  1  0.807910  0.190389  0.190389  1
+  C  C24  1  0.250235  0.250235  0.250235  1
+  C  C25  1  0.999220  0.999220  0.999220  1

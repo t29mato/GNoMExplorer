@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Sr2Eu(SiP2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.32675991
+_cell_length_b   9.32675928
+_cell_length_c   7.23700437
+_cell_angle_alpha   74.79794306
+_cell_angle_beta   74.79794864
+_cell_angle_gamma   122.03849444
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2Eu(SiP2)2
+_chemical_formula_sum   'Sr4 Eu2 Si4 P8'
+_cell_volume   448.74228589
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.565621  0.434380  0.750000  1
+  Sr  Sr1  1  0.434380  0.565620  0.250000  1
+  Sr  Sr2  1  0.813100  0.186901  0.750000  1
+  Sr  Sr3  1  0.186901  0.813099  0.250000  1
+  Eu  Eu4  1  0.940755  0.059245  0.250000  1
+  Eu  Eu5  1  0.059245  0.940755  0.750000  1
+  Si  Si6  1  0.166246  0.521413  0.848029  1
+  Si  Si7  1  0.478587  0.833754  0.651971  1
+  Si  Si8  1  0.833754  0.478587  0.151971  1
+  Si  Si9  1  0.521413  0.166246  0.348029  1
+  P  P10  1  0.954880  0.560714  0.784239  1
+  P  P11  1  0.439286  0.045120  0.715761  1
+  P  P12  1  0.685945  0.817394  0.738631  1
+  P  P13  1  0.182606  0.314055  0.761369  1
+  P  P14  1  0.314055  0.182606  0.261369  1
+  P  P15  1  0.817394  0.685945  0.238631  1
+  P  P16  1  0.560714  0.954880  0.284239  1
+  P  P17  1  0.045120  0.439286  0.215761  1

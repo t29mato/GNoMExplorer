@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_TbHo(Re2Si)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.41971018
+_cell_length_b   7.41970961
+_cell_length_c   4.13503000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.12926037
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbHo(Re2Si)4
+_chemical_formula_sum   'Tb1 Ho1 Re8 Si4'
+_cell_volume   227.64148483
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.000000  0.000000  0.500000  1
+  Ho  Ho1  1  0.500000  0.500000  0.000000  1
+  Re  Re2  1  0.658158  0.905668  0.000000  1
+  Re  Re3  1  0.159098  0.593105  0.500000  1
+  Re  Re4  1  0.094332  0.341842  0.000000  1
+  Re  Re5  1  0.905668  0.658158  0.000000  1
+  Re  Re6  1  0.406895  0.840902  0.500000  1
+  Re  Re7  1  0.593105  0.159098  0.500000  1
+  Re  Re8  1  0.341842  0.094332  0.000000  1
+  Re  Re9  1  0.840902  0.406895  0.500000  1
+  Si  Si10  1  0.209046  0.790954  0.000000  1
+  Si  Si11  1  0.790954  0.209046  0.000000  1
+  Si  Si12  1  0.708172  0.708172  0.500000  1
+  Si  Si13  1  0.291828  0.291828  0.500000  1

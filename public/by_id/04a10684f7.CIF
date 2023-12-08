@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_TbEr3(Al3Rh)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.54146265
+_cell_length_b   7.54341717
+_cell_length_c   9.46158800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.32980518
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbEr3(Al3Rh)6
+_chemical_formula_sum   'Tb1 Er3 Al18 Rh6'
+_cell_volume   469.25820022
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.994197  0.672139  0.750000  1
+  Er  Er1  1  0.005269  0.327324  0.250000  1
+  Er  Er2  1  0.672563  0.994349  0.750000  1
+  Er  Er3  1  0.327344  0.005394  0.250000  1
+  Al  Al4  1  0.129298  0.129667  0.750000  1
+  Al  Al5  1  0.871313  0.871605  0.250000  1
+  Al  Al6  1  0.000814  0.335009  0.574656  1
+  Al  Al7  1  0.999368  0.664185  0.423633  1
+  Al  Al8  1  0.999368  0.664185  0.076367  1
+  Al  Al9  1  0.336280  0.001232  0.925222  1
+  Al  Al10  1  0.000814  0.335009  0.925344  1
+  Al  Al11  1  0.664353  0.999529  0.075457  1
+  Al  Al12  1  0.664353  0.999529  0.424543  1
+  Al  Al13  1  0.336280  0.001232  0.574778  1
+  Al  Al14  1  0.332453  0.332328  0.051889  1
+  Al  Al15  1  0.666879  0.667320  0.950652  1
+  Al  Al16  1  0.666879  0.667320  0.549348  1
+  Al  Al17  1  0.332453  0.332328  0.448111  1
+  Al  Al18  1  0.340853  0.550561  0.750000  1
+  Al  Al19  1  0.659744  0.448852  0.250000  1
+  Al  Al20  1  0.549885  0.339310  0.750000  1
+  Al  Al21  1  0.449294  0.660074  0.250000  1
+  Rh  Rh22  1  0.672153  0.327854  0.499694  1
+  Rh  Rh23  1  0.327897  0.672236  0.499685  1
+  Rh  Rh24  1  0.327897  0.672236  0.000315  1
+  Rh  Rh25  1  0.672153  0.327854  0.000306  1
+  Rh  Rh26  1  0.999925  0.000669  0.499683  1
+  Rh  Rh27  1  0.999925  0.000669  0.000317  1

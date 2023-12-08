@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfTc(PRu)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.88838000
+_cell_length_b   6.18576198
+_cell_length_c   7.09623559
+_cell_angle_alpha   90.02025664
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfTc(PRu)2
+_chemical_formula_sum   'Hf2 Tc2 P4 Ru4'
+_cell_volume   170.68285696
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.250000  0.027521  0.818306  1
+  Hf  Hf1  1  0.750000  0.972479  0.181694  1
+  Tc  Tc2  1  0.250000  0.526338  0.661857  1
+  Tc  Tc3  1  0.750000  0.473662  0.338143  1
+  P  P4  1  0.250000  0.277855  0.128796  1
+  P  P5  1  0.750000  0.722145  0.871204  1
+  P  P6  1  0.250000  0.752320  0.389615  1
+  P  P7  1  0.750000  0.247680  0.610385  1
+  Ru  Ru8  1  0.750000  0.850969  0.563884  1
+  Ru  Ru9  1  0.250000  0.149031  0.436116  1
+  Ru  Ru10  1  0.750000  0.352836  0.936946  1
+  Ru  Ru11  1  0.250000  0.647164  0.063054  1

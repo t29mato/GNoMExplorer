@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_PrFeCo(B2Ru)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.31473712
+_cell_length_b   7.32918403
+_cell_length_c   3.90901600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   89.67706895
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrFeCo(B2Ru)2
+_chemical_formula_sum   'Pr2 Fe2 Co2 B8 Ru4'
+_cell_volume   209.56314109
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.000000  0.000000  0.077907  1
+  Pr  Pr1  1  0.500000  0.500000  0.579238  1
+  Fe  Fe2  1  0.619622  0.113168  0.380342  1
+  Fe  Fe3  1  0.380378  0.886832  0.380342  1
+  Co  Co4  1  0.613968  0.878273  0.879122  1
+  Co  Co5  1  0.386032  0.121727  0.879122  1
+  B  B6  1  0.339144  0.817729  0.880072  1
+  B  B7  1  0.660856  0.182271  0.880072  1
+  B  B8  1  0.319105  0.158469  0.380331  1
+  B  B9  1  0.680895  0.841531  0.380331  1
+  B  B10  1  0.174616  0.729100  0.598281  1
+  B  B11  1  0.825384  0.270900  0.598281  1
+  B  B12  1  0.228156  0.326691  0.098891  1
+  B  B13  1  0.771844  0.673309  0.098891  1
+  Ru  Ru14  1  0.843189  0.391584  0.102301  1
+  Ru  Ru15  1  0.156811  0.608416  0.102301  1
+  Ru  Ru16  1  0.890993  0.657595  0.602087  1
+  Ru  Ru17  1  0.109007  0.342405  0.602087  1

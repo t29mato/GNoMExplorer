@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NdY(ScPt)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.61377900
+_cell_length_b   6.99828000
+_cell_length_c   8.42595300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdY(ScPt)2
+_chemical_formula_sum   'Nd2 Y2 Sc4 Pt4'
+_cell_volume   272.06152921
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.250000  0.985636  0.322402  1
+  Nd  Nd1  1  0.250000  0.485636  0.177598  1
+  Y  Y2  1  0.750000  0.015583  0.680193  1
+  Y  Y3  1  0.750000  0.515583  0.819807  1
+  Sc  Sc4  1  0.250000  0.858357  0.922059  1
+  Sc  Sc5  1  0.250000  0.358357  0.577941  1
+  Sc  Sc6  1  0.750000  0.140389  0.069158  1
+  Sc  Sc7  1  0.750000  0.640389  0.430842  1
+  Pt  Pt8  1  0.250000  0.239937  0.899438  1
+  Pt  Pt9  1  0.250000  0.739937  0.600562  1
+  Pt  Pt10  1  0.750000  0.760096  0.092051  1
+  Pt  Pt11  1  0.750000  0.260096  0.407949  1

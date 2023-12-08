@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_LaTb2(ZnPd)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.28685734
+_cell_length_b   8.28685840
+_cell_length_c   8.28685807
+_cell_angle_alpha   151.30831616
+_cell_angle_beta   126.28430950
+_cell_angle_gamma   62.03005127
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaTb2(ZnPd)4
+_chemical_formula_sum   'La1 Tb2 Zn4 Pd4'
+_cell_volume   218.37779504
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.500000  0.000000  0.500000  1
+  Tb  Tb1  1  0.871307  0.871307  0.000000  1
+  Tb  Tb2  1  0.128693  0.128693  0.000000  1
+  Zn  Zn3  1  0.477689  0.674486  0.803203  1
+  Zn  Zn4  1  0.871284  0.674486  0.196797  1
+  Zn  Zn5  1  0.128716  0.325514  0.803203  1
+  Zn  Zn6  1  0.522311  0.325514  0.196797  1
+  Pd  Pd7  1  0.279234  0.779234  0.500000  1
+  Pd  Pd8  1  0.720766  0.220766  0.500000  1
+  Pd  Pd9  1  0.809349  0.500000  0.309349  1
+  Pd  Pd10  1  0.190651  0.500000  0.690651  1

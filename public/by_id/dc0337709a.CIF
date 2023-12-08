@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_YbSmTe2(RhO6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.25483300
+_cell_length_b   5.25478102
+_cell_length_c   9.98591800
+_cell_angle_alpha   90.00052492
+_cell_angle_beta   89.99939293
+_cell_angle_gamma   119.99989879
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbSmTe2(RhO6)2
+_chemical_formula_sum   'Yb1 Sm1 Te2 Rh2 O12'
+_cell_volume   238.79905932
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.000001  0.000001  0.999899  1
+  Sm  Sm1  1  0.000000  0.000000  0.500099  1
+  Te  Te2  1  0.666666  0.333343  0.245637  1
+  Te  Te3  1  0.333331  0.666654  0.754379  1
+  Rh  Rh4  1  0.333346  0.666679  0.249392  1
+  Rh  Rh5  1  0.666660  0.333326  0.750562  1
+  O  O6  1  0.642590  0.636378  0.141138  1
+  O  O7  1  0.993803  0.357423  0.141143  1
+  O  O8  1  0.363622  0.006211  0.141141  1
+  O  O9  1  0.989636  0.633558  0.358755  1
+  O  O10  1  0.366438  0.356084  0.358754  1
+  O  O11  1  0.643918  0.010362  0.358752  1
+  O  O12  1  0.356115  0.989598  0.641208  1
+  O  O13  1  0.010402  0.366516  0.641205  1
+  O  O14  1  0.633491  0.643883  0.641207  1
+  O  O15  1  0.636367  0.993795  0.858909  1
+  O  O16  1  0.006196  0.642562  0.858910  1
+  O  O17  1  0.357426  0.363630  0.858913  1

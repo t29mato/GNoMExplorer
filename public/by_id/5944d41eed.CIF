@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NaIr(OF2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.43547162
+_cell_length_b   5.43605390
+_cell_length_c   10.04637641
+_cell_angle_alpha   89.66065167
+_cell_angle_beta   89.63131460
+_cell_angle_gamma   121.53420139
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaIr(OF2)2
+_chemical_formula_sum   'Na2 Ir2 O4 F8'
+_cell_volume   252.98948336
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.028747  0.005203  0.500339  1
+  Na  Na1  1  0.005066  0.028650  0.000310  1
+  Ir  Ir2  1  0.348478  0.696620  0.250128  1
+  Ir  Ir3  1  0.696590  0.348549  0.750181  1
+  O  O4  1  0.615429  0.930659  0.362495  1
+  O  O5  1  0.930603  0.615356  0.862422  1
+  O  O6  1  0.936475  0.324347  0.640004  1
+  O  O7  1  0.324369  0.936202  0.140058  1
+  F  F8  1  0.041849  0.666870  0.363333  1
+  F  F9  1  0.307574  0.364703  0.349660  1
+  F  F10  1  0.666759  0.042000  0.863286  1
+  F  F11  1  0.364644  0.307683  0.849629  1
+  F  F12  1  0.370384  0.052128  0.647324  1
+  F  F13  1  0.682414  0.632242  0.636936  1
+  F  F14  1  0.052066  0.370274  0.147301  1
+  F  F15  1  0.632308  0.682271  0.136899  1

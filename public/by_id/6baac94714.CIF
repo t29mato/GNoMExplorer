@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Y6Tm13Sc(Hg3Ru)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.48624200
+_cell_length_b   9.48624102
+_cell_length_c   9.70071900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999646
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y6Tm13Sc(Hg3Ru)2
+_chemical_formula_sum   'Y6 Tm13 Sc1 Hg6 Ru2'
+_cell_volume   756.00196780
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.540166  0.459834  0.250237  1
+  Y  Y1  1  0.540166  0.080332  0.250237  1
+  Y  Y2  1  0.919668  0.459834  0.250237  1
+  Y  Y3  1  0.459834  0.540166  0.749763  1
+  Y  Y4  1  0.459834  0.919668  0.749763  1
+  Y  Y5  1  0.080332  0.540166  0.749763  1
+  Tm  Tm6  1  0.000000  0.000000  0.000000  1
+  Tm  Tm7  1  0.208590  0.791410  0.439997  1
+  Tm  Tm8  1  0.208590  0.417181  0.439997  1
+  Tm  Tm9  1  0.582819  0.791410  0.439997  1
+  Tm  Tm10  1  0.791410  0.208590  0.560003  1
+  Tm  Tm11  1  0.791410  0.582819  0.560003  1
+  Tm  Tm12  1  0.417181  0.208590  0.560003  1
+  Tm  Tm13  1  0.790162  0.209838  0.940592  1
+  Tm  Tm14  1  0.790162  0.580324  0.940592  1
+  Tm  Tm15  1  0.419676  0.209838  0.940592  1
+  Tm  Tm16  1  0.209838  0.790162  0.059408  1
+  Tm  Tm17  1  0.209838  0.419676  0.059408  1
+  Tm  Tm18  1  0.580324  0.790162  0.059408  1
+  Sc  Sc19  1  0.000000  0.000000  0.500000  1
+  Hg  Hg20  1  0.884951  0.115049  0.254471  1
+  Hg  Hg21  1  0.884951  0.769902  0.254471  1
+  Hg  Hg22  1  0.230098  0.115049  0.254471  1
+  Hg  Hg23  1  0.115049  0.884951  0.745529  1
+  Hg  Hg24  1  0.115049  0.230098  0.745529  1
+  Hg  Hg25  1  0.769902  0.884951  0.745529  1
+  Ru  Ru26  1  0.333333  0.666667  0.250186  1
+  Ru  Ru27  1  0.666667  0.333333  0.749814  1

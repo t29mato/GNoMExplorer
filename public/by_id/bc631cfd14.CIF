@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YLuSi3Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.15040893
+_cell_length_b   8.16281059
+_cell_length_c   5.75362659
+_cell_angle_alpha   69.23210629
+_cell_angle_beta   69.59217631
+_cell_angle_gamma   41.30466512
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YLuSi3Au
+_chemical_formula_sum   'Y2 Lu2 Si6 Au2'
+_cell_volume   234.13685832
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.742502  0.257498  0.742503  1
+  Y  Y1  1  0.750109  0.749890  0.750110  1
+  Lu  Lu2  1  0.249899  0.250101  0.249898  1
+  Lu  Lu3  1  0.257659  0.742341  0.257660  1
+  Si  Si4  1  0.828146  0.335567  0.172305  1
+  Si  Si5  1  0.663189  0.173215  0.334810  1
+  Si  Si6  1  0.662461  0.663651  0.335925  1
+  Si  Si7  1  0.335924  0.337962  0.662462  1
+  Si  Si8  1  0.334809  0.828788  0.663189  1
+  Si  Si9  1  0.172304  0.663983  0.828147  1
+  Au  Au10  1  0.834973  0.831923  0.168021  1
+  Au  Au11  1  0.168021  0.165084  0.834973  1

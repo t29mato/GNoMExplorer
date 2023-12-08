@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ca2Cu(GePd2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.85856578
+_cell_length_b   6.86150493
+_cell_length_c   6.85856607
+_cell_angle_alpha   130.51850799
+_cell_angle_beta   112.87941797
+_cell_angle_gamma   87.77931989
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2Cu(GePd2)3
+_chemical_formula_sum   'Ca2 Cu1 Ge3 Pd6'
+_cell_volume   215.26545531
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.007359  0.975374  0.968016  1
+  Ca  Ca1  1  0.495795  0.055732  0.559937  1
+  Cu  Cu2  1  0.354870  0.425362  0.070490  1
+  Ge  Ge3  1  0.810013  0.239298  0.429285  1
+  Ge  Ge4  1  0.634596  0.688869  0.054273  1
+  Ge  Ge5  1  0.198438  0.618564  0.420127  1
+  Pd  Pd6  1  0.946431  0.503812  0.952473  1
+  Pd  Pd7  1  0.551338  0.503812  0.557380  1
+  Pd  Pd8  1  0.040227  0.999577  0.541618  1
+  Pd  Pd9  1  0.792834  0.487513  0.277375  1
+  Pd  Pd10  1  0.210138  0.487513  0.694678  1
+  Pd  Pd11  1  0.457960  0.999577  0.959349  1

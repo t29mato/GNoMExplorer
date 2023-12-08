@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CaSmGa2(Co3B)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.21342001
+_cell_length_b   5.21259651
+_cell_length_c   6.68590500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99818531
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaSmGa2(Co3B)2
+_chemical_formula_sum   'Ca1 Sm1 Ga2 Co6 B2'
+_cell_volume   157.35320683
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.999975  0.000001  0.000000  1
+  Sm  Sm1  1  0.999992  0.000001  0.500000  1
+  Ga  Ga2  1  0.333347  0.666685  0.000000  1
+  Ga  Ga3  1  0.666604  0.333316  0.000000  1
+  Co  Co4  1  0.499989  0.999999  0.296266  1
+  Co  Co5  1  0.499986  0.500003  0.296263  1
+  Co  Co6  1  0.999983  0.499997  0.296251  1
+  Co  Co7  1  0.499989  0.999999  0.703734  1
+  Co  Co8  1  0.499986  0.500003  0.703736  1
+  Co  Co9  1  0.999983  0.499997  0.703748  1
+  B  B10  1  0.333294  0.666647  0.500000  1
+  B  B11  1  0.666671  0.333351  0.500000  1

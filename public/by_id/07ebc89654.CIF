@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Pr3Th(CuSi3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.26934253
+_cell_length_b   8.14164779
+_cell_length_c   5.92392200
+_cell_angle_alpha   69.99642428
+_cell_angle_beta   67.69262303
+_cell_angle_gamma   42.31094780
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr3Th(CuSi3)2
+_chemical_formula_sum   'Pr3 Th1 Cu2 Si6'
+_cell_volume   247.17492652
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.250044  0.249956  0.250043  1
+  Pr  Pr1  1  0.750044  0.749956  0.750043  1
+  Pr  Pr2  1  0.756252  0.243748  0.756253  1
+  Th  Th3  1  0.243634  0.756365  0.243635  1
+  Cu  Cu4  1  0.665385  0.667221  0.332780  1
+  Cu  Cu5  1  0.332779  0.334614  0.665386  1
+  Si  Si6  1  0.831551  0.830256  0.169744  1
+  Si  Si7  1  0.828428  0.339584  0.171855  1
+  Si  Si8  1  0.660416  0.171571  0.339867  1
+  Si  Si9  1  0.339866  0.828146  0.660417  1
+  Si  Si10  1  0.171854  0.660134  0.828430  1
+  Si  Si11  1  0.169743  0.168448  0.831552  1

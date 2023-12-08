@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BeNb4Fe6Si
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.81929100
+_cell_length_b   4.81929174
+_cell_length_c   7.80066200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000178
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BeNb4Fe6Si
+_chemical_formula_sum   'Be1 Nb4 Fe6 Si1'
+_cell_volume   156.90199030
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.000000  0.000000  0.000000  1
+  Nb  Nb1  1  0.333334  0.666667  0.061596  1
+  Nb  Nb2  1  0.333334  0.666667  0.436229  1
+  Nb  Nb3  1  0.666666  0.333332  0.563770  1
+  Nb  Nb4  1  0.666666  0.333332  0.938404  1
+  Fe  Fe5  1  0.337562  0.168782  0.245564  1
+  Fe  Fe6  1  0.831219  0.168782  0.245564  1
+  Fe  Fe7  1  0.831219  0.662439  0.245564  1
+  Fe  Fe8  1  0.168782  0.337562  0.754437  1
+  Fe  Fe9  1  0.168781  0.831218  0.754437  1
+  Fe  Fe10  1  0.662438  0.831218  0.754437  1
+  Si  Si11  1  0.000000  0.000000  0.500000  1

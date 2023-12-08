@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_EuTh2(BN2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.52212821
+_cell_length_b   6.52212935
+_cell_length_c   6.52212954
+_cell_angle_alpha   148.28510807
+_cell_angle_beta   122.13750140
+_cell_angle_gamma   67.50346544
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuTh2(BN2)2
+_chemical_formula_sum   'Eu1 Th2 B2 N4'
+_cell_volume   121.96845219
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.305225  0.805225  0.500000  1
+  Th  Th1  1  0.701099  0.201099  0.500000  1
+  Th  Th2  1  0.001024  0.001024  0.000000  1
+  B  B3  1  0.356291  0.496270  0.860021  1
+  B  B4  1  0.636249  0.496270  0.139979  1
+  N  N5  1  0.363380  0.618341  0.745040  1
+  N  N6  1  0.873300  0.618341  0.254960  1
+  N  N7  1  0.112245  0.381716  0.730528  1
+  N  N8  1  0.651188  0.381716  0.269472  1

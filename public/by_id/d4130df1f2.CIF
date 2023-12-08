@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Th4Si(AgRh3)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.40459417
+_cell_length_b   7.40459358
+_cell_length_c   7.42608800
+_cell_angle_alpha   109.53003741
+_cell_angle_beta   109.53003581
+_cell_angle_gamma   109.41233921
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Th4Si(AgRh3)3
+_chemical_formula_sum   'Th4 Si1 Ag3 Rh9'
+_cell_volume   313.20229786
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.000000  0.000000  0.500000  1
+  Th  Th1  1  0.041338  0.520669  0.020669  1
+  Th  Th2  1  0.479331  0.958662  0.979331  1
+  Th  Th3  1  0.479331  0.520669  0.500000  1
+  Si  Si4  1  0.000000  0.000000  0.000000  1
+  Ag  Ag5  1  0.744650  0.255350  0.500000  1
+  Ag  Ag6  1  0.744650  0.489300  0.244650  1
+  Ag  Ag7  1  0.510700  0.255350  0.755350  1
+  Rh  Rh8  1  0.243460  0.486920  0.743460  1
+  Rh  Rh9  1  0.243460  0.756540  0.500000  1
+  Rh  Rh10  1  0.513080  0.756540  0.256540  1
+  Rh  Rh11  1  0.735677  0.723782  0.000875  1
+  Rh  Rh12  1  0.276218  0.011895  0.277093  1
+  Rh  Rh13  1  0.988105  0.264323  0.265198  1
+  Rh  Rh14  1  0.276218  0.264323  0.999125  1
+  Rh  Rh15  1  0.735677  0.011895  0.734802  1
+  Rh  Rh16  1  0.988105  0.723782  0.722907  1

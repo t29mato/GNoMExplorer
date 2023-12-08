@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TbErTiGaIr2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.27336700
+_cell_length_b   6.87463200
+_cell_length_c   8.00822700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbErTiGaIr2
+_chemical_formula_sum   'Tb2 Er2 Ti2 Ga2 Ir4'
+_cell_volume   235.26429558
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.250000  0.961373  0.327334  1
+  Tb  Tb1  1  0.250000  0.461373  0.172666  1
+  Er  Er2  1  0.750000  0.029365  0.678238  1
+  Er  Er3  1  0.750000  0.529365  0.821762  1
+  Ti  Ti4  1  0.250000  0.374625  0.556916  1
+  Ti  Ti5  1  0.250000  0.874625  0.943084  1
+  Ga  Ga6  1  0.750000  0.639391  0.440553  1
+  Ga  Ga7  1  0.750000  0.139391  0.059447  1
+  Ir  Ir8  1  0.250000  0.232143  0.861781  1
+  Ir  Ir9  1  0.250000  0.732143  0.638219  1
+  Ir  Ir10  1  0.750000  0.763104  0.115512  1
+  Ir  Ir11  1  0.750000  0.263104  0.384488  1

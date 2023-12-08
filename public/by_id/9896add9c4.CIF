@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_NdSm7(BeSi3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.90532200
+_cell_length_b   7.90532315
+_cell_length_c   8.40397000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999521
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdSm7(BeSi3)4
+_chemical_formula_sum   'Nd1 Sm7 Be4 Si12'
+_cell_volume   454.83548282
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.000000  0.000000  0.250000  1
+  Sm  Sm1  1  0.499883  0.500117  0.750000  1
+  Sm  Sm2  1  0.500113  0.499887  0.250000  1
+  Sm  Sm3  1  0.000235  0.500117  0.750000  1
+  Sm  Sm4  1  0.999775  0.499887  0.250000  1
+  Sm  Sm5  1  0.499883  0.999765  0.750000  1
+  Sm  Sm6  1  0.500113  0.000225  0.250000  1
+  Sm  Sm7  1  0.000000  0.000000  0.750000  1
+  Be  Be8  1  0.666667  0.333333  0.999403  1
+  Be  Be9  1  0.333333  0.666667  0.000311  1
+  Be  Be10  1  0.333333  0.666667  0.499689  1
+  Be  Be11  1  0.666667  0.333333  0.500597  1
+  Si  Si12  1  0.827314  0.172686  0.998762  1
+  Si  Si13  1  0.172695  0.827305  0.999319  1
+  Si  Si14  1  0.345372  0.172686  0.998762  1
+  Si  Si15  1  0.172695  0.827305  0.500681  1
+  Si  Si16  1  0.654609  0.827305  0.999319  1
+  Si  Si17  1  0.827314  0.172686  0.501238  1
+  Si  Si18  1  0.827314  0.654628  0.998762  1
+  Si  Si19  1  0.654609  0.827305  0.500681  1
+  Si  Si20  1  0.172695  0.345391  0.999319  1
+  Si  Si21  1  0.345372  0.172686  0.501238  1
+  Si  Si22  1  0.172695  0.345391  0.500681  1
+  Si  Si23  1  0.827314  0.654628  0.501238  1

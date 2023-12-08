@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Tb6Dy(LuSn2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.95204100
+_cell_length_b   8.95203945
+_cell_length_c   6.49647800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999464
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb6Dy(LuSn2)3
+_chemical_formula_sum   'Tb6 Dy1 Lu3 Sn6'
+_cell_volume   450.87138919
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.999881  0.760842  0.749777  1
+  Tb  Tb1  1  0.999881  0.239039  0.250223  1
+  Tb  Tb2  1  0.760961  0.760842  0.250223  1
+  Tb  Tb3  1  0.760961  0.000119  0.749777  1
+  Tb  Tb4  1  0.239158  0.239039  0.749777  1
+  Tb  Tb5  1  0.239158  0.000119  0.250223  1
+  Dy  Dy6  1  0.333333  0.666667  0.000000  1
+  Lu  Lu7  1  0.333333  0.666667  0.500000  1
+  Lu  Lu8  1  0.666667  0.333333  0.000000  1
+  Lu  Lu9  1  0.666667  0.333333  0.500000  1
+  Sn  Sn10  1  0.397493  0.001497  0.748652  1
+  Sn  Sn11  1  0.397493  0.395997  0.251348  1
+  Sn  Sn12  1  0.998503  0.602507  0.251348  1
+  Sn  Sn13  1  0.998503  0.395997  0.748652  1
+  Sn  Sn14  1  0.604003  0.602507  0.748652  1
+  Sn  Sn15  1  0.604003  0.001497  0.251348  1

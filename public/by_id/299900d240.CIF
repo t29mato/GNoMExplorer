@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Hf2TaNbGe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.66994600
+_cell_length_b   7.01623400
+_cell_length_c   8.56950600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf2TaNbGe2
+_chemical_formula_sum   'Hf4 Ta2 Nb2 Ge4'
+_cell_volume   220.65792307
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.250000  0.546824  0.165009  1
+  Hf  Hf1  1  0.250000  0.046824  0.334991  1
+  Hf  Hf2  1  0.750000  0.451647  0.835683  1
+  Hf  Hf3  1  0.750000  0.951647  0.664317  1
+  Ta  Ta4  1  0.750000  0.369341  0.442454  1
+  Ta  Ta5  1  0.750000  0.869341  0.057546  1
+  Nb  Nb6  1  0.250000  0.632624  0.557173  1
+  Nb  Nb7  1  0.250000  0.132624  0.942827  1
+  Ge  Ge8  1  0.250000  0.749803  0.857314  1
+  Ge  Ge9  1  0.250000  0.249803  0.642686  1
+  Ge  Ge10  1  0.750000  0.249761  0.144299  1
+  Ge  Ge11  1  0.750000  0.749761  0.355701  1

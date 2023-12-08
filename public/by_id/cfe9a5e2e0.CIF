@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Lu5SiNiBi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.34698688
+_cell_length_b   8.34698693
+_cell_length_c   8.61544584
+_cell_angle_alpha   125.36268838
+_cell_angle_beta   125.36268961
+_cell_angle_gamma   78.77114308
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu5SiNiBi
+_chemical_formula_sum   'Lu10 Si2 Ni2 Bi2'
+_cell_volume   390.22541618
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.000000  0.000000  0.000000  1
+  Lu  Lu1  1  0.500000  0.500000  0.000000  1
+  Lu  Lu2  1  0.776491  0.276491  0.786464  1
+  Lu  Lu3  1  0.223509  0.723509  0.213536  1
+  Lu  Lu4  1  0.490028  0.990028  0.213536  1
+  Lu  Lu5  1  0.295801  0.466075  0.500000  1
+  Lu  Lu6  1  0.033925  0.204199  0.500000  1
+  Lu  Lu7  1  0.509972  0.009972  0.786464  1
+  Lu  Lu8  1  0.704199  0.533925  0.500000  1
+  Lu  Lu9  1  0.966075  0.795801  0.500000  1
+  Si  Si10  1  0.150196  0.650196  0.800393  1
+  Si  Si11  1  0.849804  0.349804  0.199607  1
+  Ni  Ni12  1  0.634338  0.865662  0.500000  1
+  Ni  Ni13  1  0.365662  0.134338  0.500000  1
+  Bi  Bi14  1  0.250000  0.250000  0.000000  1
+  Bi  Bi15  1  0.750000  0.750000  0.000000  1

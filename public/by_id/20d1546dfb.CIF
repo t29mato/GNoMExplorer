@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_KAgS5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.58579656
+_cell_length_b   10.58579614
+_cell_length_c   10.58579670
+_cell_angle_alpha   130.12235079
+_cell_angle_beta   117.47458321
+_cell_angle_gamma   83.92805973
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KAgS5
+_chemical_formula_sum   'K4 Ag4 S20'
+_cell_volume   772.03706748
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.250000  0.250000  0.000000  1
+  K  K1  1  0.750000  0.750000  0.000000  1
+  K  K2  1  0.000000  0.500000  0.500000  1
+  K  K3  1  0.500000  0.000000  0.500000  1
+  Ag  Ag4  1  0.883421  0.250000  0.633421  1
+  Ag  Ag5  1  0.616579  0.250000  0.366579  1
+  Ag  Ag6  1  0.116579  0.750000  0.366579  1
+  Ag  Ag7  1  0.383421  0.750000  0.633421  1
+  S  S8  1  0.424596  0.403100  0.612012  1
+  S  S9  1  0.075404  0.687415  0.978504  1
+  S  S10  1  0.708911  0.096900  0.021496  1
+  S  S11  1  0.791089  0.812585  0.387988  1
+  S  S12  1  0.575404  0.596900  0.387988  1
+  S  S13  1  0.924596  0.312585  0.021496  1
+  S  S14  1  0.291089  0.903100  0.978504  1
+  S  S15  1  0.208911  0.187415  0.612012  1
+  S  S16  1  0.988068  0.152599  0.436893  1
+  S  S17  1  0.511932  0.948825  0.164531  1
+  S  S18  1  0.784294  0.347401  0.835469  1
+  S  S19  1  0.715706  0.551175  0.563107  1
+  S  S20  1  0.011932  0.847401  0.563107  1
+  S  S21  1  0.488068  0.051175  0.835469  1
+  S  S22  1  0.215706  0.652599  0.164531  1
+  S  S23  1  0.284294  0.448825  0.436893  1
+  S  S24  1  0.337082  0.426597  0.763677  1
+  S  S25  1  0.162918  0.926597  0.089515  1
+  S  S26  1  0.837082  0.073403  0.910485  1
+  S  S27  1  0.662918  0.573403  0.236323  1

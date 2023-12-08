@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Ce3DySiPt4(Rh3Au)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.27065277
+_cell_length_b   7.27065248
+_cell_length_c   7.27065400
+_cell_angle_alpha   109.43352987
+_cell_angle_beta   109.43352907
+_cell_angle_gamma   109.43352451
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce3DySiPt4(Rh3Au)2
+_chemical_formula_sum   'Ce3 Dy1 Si1 Pt4 Rh6 Au2'
+_cell_volume   296.28043707
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.008820  0.004805  0.504254  1
+  Ce  Ce1  1  0.008820  0.504254  0.004805  1
+  Ce  Ce2  1  0.491828  0.987158  0.987158  1
+  Dy  Dy3  1  0.492658  0.503634  0.503634  1
+  Si  Si4  1  0.000026  0.999963  0.999963  1
+  Pt  Pt5  1  0.502464  0.250918  0.751551  1
+  Pt  Pt6  1  0.250351  0.498399  0.750533  1
+  Pt  Pt7  1  0.250351  0.750533  0.498399  1
+  Pt  Pt8  1  0.502464  0.751551  0.250918  1
+  Rh  Rh9  1  0.730205  0.727729  0.004048  1
+  Rh  Rh10  1  0.272345  0.997832  0.272088  1
+  Rh  Rh11  1  0.994847  0.270319  0.270319  1
+  Rh  Rh12  1  0.272345  0.272088  0.997832  1
+  Rh  Rh13  1  0.730205  0.004048  0.727729  1
+  Rh  Rh14  1  0.001161  0.727444  0.727444  1
+  Au  Au15  1  0.745554  0.250502  0.498824  1
+  Au  Au16  1  0.745554  0.498824  0.250502  1

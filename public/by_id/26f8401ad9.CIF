@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ta2NbAl2IrC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.32991290
+_cell_length_b   8.33005418
+_cell_length_c   8.33045100
+_cell_angle_alpha   59.99730305
+_cell_angle_beta   59.99908284
+_cell_angle_gamma   60.00371912
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2NbAl2IrC
+_chemical_formula_sum   'Ta8 Nb4 Al8 Ir4 C4'
+_cell_volume   408.73529792
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.686787  0.686658  0.313576  1
+  Ta  Ta1  1  0.313576  0.312978  0.686787  1
+  Ta  Ta2  1  0.563769  0.563690  0.936595  1
+  Ta  Ta3  1  0.937087  0.563266  0.563242  1
+  Ta  Ta4  1  0.563242  0.936406  0.937087  1
+  Ta  Ta5  1  0.936595  0.935946  0.563769  1
+  Ta  Ta6  1  0.686569  0.313431  0.686569  1
+  Ta  Ta7  1  0.936207  0.563793  0.936207  1
+  Nb  Nb8  1  0.563939  0.936061  0.563939  1
+  Nb  Nb9  1  0.314348  0.685878  0.685977  1
+  Nb  Nb10  1  0.685977  0.313797  0.314348  1
+  Nb  Nb11  1  0.313570  0.686430  0.313570  1
+  Al  Al12  1  0.917850  0.916011  0.915829  1
+  Al  Al13  1  0.999452  0.332875  0.332728  1
+  Al  Al14  1  0.332855  0.999372  0.334765  1
+  Al  Al15  1  0.332728  0.334944  0.999452  1
+  Al  Al16  1  0.915829  0.250312  0.917850  1
+  Al  Al17  1  0.915741  0.917912  0.250461  1
+  Al  Al18  1  0.250461  0.915888  0.915741  1
+  Al  Al19  1  0.334765  0.333005  0.332855  1
+  Ir  Ir20  1  0.126952  0.126021  0.122295  1
+  Ir  Ir21  1  0.625208  0.124645  0.121104  1
+  Ir  Ir22  1  0.122295  0.624731  0.126952  1
+  Ir  Ir23  1  0.121104  0.129044  0.625208  1
+  C  C24  1  0.627536  0.622593  0.625384  1
+  C  C25  1  0.123470  0.623780  0.626706  1
+  C  C26  1  0.625384  0.124487  0.627536  1
+  C  C27  1  0.626706  0.626045  0.123470  1

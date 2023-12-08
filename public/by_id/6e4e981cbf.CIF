@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_CsSrBi(H6Ir)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.36986000
+_cell_length_b   5.36985848
+_cell_length_c   9.16676200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999703
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsSrBi(H6Ir)2
+_chemical_formula_sum   'Cs1 Sr1 Bi1 H12 Ir2'
+_cell_volume   228.91402627
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.000000  0.000000  0.996612  1
+  Sr  Sr1  1  0.666667  0.333333  0.369390  1
+  Bi  Bi2  1  0.333333  0.666667  0.616893  1
+  H  H3  1  0.168708  0.831292  0.376034  1
+  H  H4  1  0.662583  0.831292  0.376034  1
+  H  H5  1  0.168708  0.337417  0.376034  1
+  H  H6  1  0.822708  0.177292  0.613303  1
+  H  H7  1  0.354586  0.177292  0.613303  1
+  H  H8  1  0.822708  0.645414  0.613303  1
+  H  H9  1  0.533299  0.066597  0.830531  1
+  H  H10  1  0.533299  0.466701  0.830531  1
+  H  H11  1  0.933403  0.466701  0.830531  1
+  H  H12  1  0.468977  0.937954  0.182334  1
+  H  H13  1  0.468977  0.531023  0.182334  1
+  H  H14  1  0.062046  0.531023  0.182334  1
+  Ir  Ir15  1  0.666667  0.333333  0.710413  1
+  Ir  Ir16  1  0.333333  0.666667  0.300090  1

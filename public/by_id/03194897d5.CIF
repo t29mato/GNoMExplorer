@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_NaSr2(H6Pt)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.20183600
+_cell_length_b   5.20183639
+_cell_length_c   8.64173200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001021
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSr2(H6Pt)2
+_chemical_formula_sum   'Na1 Sr2 H12 Pt2'
+_cell_volume   202.50918483
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.666665  0.333334  0.345889  1
+  Sr  Sr1  1  0.000003  0.999997  0.004263  1
+  Sr  Sr2  1  0.333321  0.666679  0.623919  1
+  H  H3  1  0.180311  0.819689  0.354556  1
+  H  H4  1  0.639380  0.819688  0.354555  1
+  H  H5  1  0.180312  0.360620  0.354555  1
+  H  H6  1  0.822688  0.177312  0.649899  1
+  H  H7  1  0.354627  0.177315  0.649902  1
+  H  H8  1  0.822685  0.645373  0.649902  1
+  H  H9  1  0.511734  0.023467  0.869157  1
+  H  H10  1  0.511737  0.488263  0.869156  1
+  H  H11  1  0.976533  0.488266  0.869157  1
+  H  H12  1  0.483308  0.966614  0.133372  1
+  H  H13  1  0.483306  0.516694  0.133372  1
+  H  H14  1  0.033386  0.516692  0.133372  1
+  Pt  Pt15  1  0.666670  0.333330  0.759033  1
+  Pt  Pt16  1  0.333333  0.666667  0.245941  1

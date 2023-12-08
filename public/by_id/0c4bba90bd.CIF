@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Er11In(NiHg2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.79247301
+_cell_length_b   12.79238722
+_cell_length_c   3.59073000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   112.27616938
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er11In(NiHg2)4
+_chemical_formula_sum   'Er11 In1 Ni4 Hg8'
+_cell_volume   543.75477197
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.500000  0.500000  0.500000  1
+  Er  Er1  1  0.807239  0.807243  0.500000  1
+  Er  Er2  1  0.192761  0.192757  0.500000  1
+  Er  Er3  1  0.581832  0.916864  0.500000  1
+  Er  Er4  1  0.418168  0.083136  0.500000  1
+  Er  Er5  1  0.916862  0.581825  0.500000  1
+  Er  Er6  1  0.083138  0.418175  0.500000  1
+  Er  Er7  1  0.128245  0.871759  0.500000  1
+  Er  Er8  1  0.871755  0.128241  0.500000  1
+  Er  Er9  1  0.334231  0.665781  0.500000  1
+  Er  Er10  1  0.665769  0.334219  0.500000  1
+  In  In11  1  0.000000  0.000000  0.000000  1
+  Ni  Ni12  1  0.752714  0.950932  0.000000  1
+  Ni  Ni13  1  0.247286  0.049068  0.000000  1
+  Ni  Ni14  1  0.950980  0.752678  0.000000  1
+  Ni  Ni15  1  0.049020  0.247322  0.000000  1
+  Hg  Hg16  1  0.345361  0.870844  0.000000  1
+  Hg  Hg17  1  0.654639  0.129156  0.000000  1
+  Hg  Hg18  1  0.870842  0.345368  0.000000  1
+  Hg  Hg19  1  0.129158  0.654632  0.000000  1
+  Hg  Hg20  1  0.570415  0.718412  0.000000  1
+  Hg  Hg21  1  0.429585  0.281588  0.000000  1
+  Hg  Hg22  1  0.718402  0.570409  0.000000  1
+  Hg  Hg23  1  0.281598  0.429591  0.000000  1

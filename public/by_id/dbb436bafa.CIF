@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ca2AlIn(Ga2Au3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.45073500
+_cell_length_b   7.42604600
+_cell_length_c   8.71192300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2AlIn(Ga2Au3)2
+_chemical_formula_sum   'Ca2 Al1 In1 Ga4 Au6'
+_cell_volume   287.94092814
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.500000  0.000000  0.747674  1
+  Ca  Ca1  1  0.000000  0.500000  0.262690  1
+  Al  Al2  1  0.000000  0.000000  0.371408  1
+  In  In3  1  0.500000  0.500000  0.622603  1
+  Ga  Ga4  1  0.000000  0.307582  0.889284  1
+  Ga  Ga5  1  0.500000  0.191887  0.107078  1
+  Ga  Ga6  1  0.000000  0.692418  0.889284  1
+  Ga  Ga7  1  0.500000  0.808113  0.107078  1
+  Au  Au8  1  0.000000  0.747447  0.597671  1
+  Au  Au9  1  0.500000  0.794598  0.398037  1
+  Au  Au10  1  0.500000  0.500000  0.960884  1
+  Au  Au11  1  0.000000  0.000000  0.050600  1
+  Au  Au12  1  0.500000  0.205402  0.398037  1
+  Au  Au13  1  0.000000  0.252553  0.597671  1

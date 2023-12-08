@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_HfTi(NbB2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.60494725
+_cell_length_b   11.60494564
+_cell_length_c   3.34052800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   164.47031895
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfTi(NbB2)3
+_chemical_formula_sum   'Hf1 Ti1 Nb3 B6'
+_cell_volume   120.45106730
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.999547  0.000453  0.000000  1
+  Ti  Ti1  1  0.804847  0.195153  0.500000  1
+  Nb  Nb2  1  0.615594  0.384406  0.000000  1
+  Nb  Nb3  1  0.383268  0.616732  0.000000  1
+  Nb  Nb4  1  0.195974  0.804026  0.500000  1
+  B  B5  1  0.917264  0.082736  0.500000  1
+  B  B6  1  0.081555  0.918445  0.500000  1
+  B  B7  1  0.730432  0.269568  0.000000  1
+  B  B8  1  0.272809  0.727191  0.000000  1
+  B  B9  1  0.540568  0.459432  0.500000  1
+  B  B10  1  0.458139  0.541861  0.500000  1

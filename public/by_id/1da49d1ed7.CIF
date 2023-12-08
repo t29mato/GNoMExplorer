@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_MnCr3GaS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.86561818
+_cell_length_b   6.86561898
+_cell_length_c   6.86561811
+_cell_angle_alpha   61.16149638
+_cell_angle_beta   61.16149315
+_cell_angle_gamma   61.16149055
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnCr3GaS8
+_chemical_formula_sum   'Mn1 Cr3 Ga1 S8'
+_cell_volume   234.81614927
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.394987  0.394987  0.394987  1
+  Cr  Cr1  1  0.849369  0.380076  0.380076  1
+  Cr  Cr2  1  0.380076  0.849369  0.380076  1
+  Cr  Cr3  1  0.380076  0.380076  0.849369  1
+  Ga  Ga4  1  0.996538  0.996538  0.996538  1
+  S  S5  1  0.132847  0.132847  0.132847  1
+  S  S6  1  0.587573  0.142092  0.142092  1
+  S  S7  1  0.142092  0.587573  0.142092  1
+  S  S8  1  0.142092  0.142092  0.587573  1
+  S  S9  1  0.617165  0.617165  0.617165  1
+  S  S10  1  0.132559  0.622313  0.622313  1
+  S  S11  1  0.622313  0.132559  0.622313  1
+  S  S12  1  0.622313  0.622313  0.132559  1

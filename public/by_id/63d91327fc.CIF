@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfZr3Ti2(VP2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.52680000
+_cell_length_b   6.69024900
+_cell_length_c   8.06626942
+_cell_angle_alpha   90.08859543
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfZr3Ti2(VP2)2
+_chemical_formula_sum   'Hf1 Zr3 Ti2 V2 P4'
+_cell_volume   190.32477187
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.250000  0.540531  0.667311  1
+  Zr  Zr1  1  0.250000  0.040084  0.832199  1
+  Zr  Zr2  1  0.750000  0.963213  0.170653  1
+  Zr  Zr3  1  0.750000  0.463654  0.330902  1
+  Ti  Ti4  1  0.250000  0.131617  0.442646  1
+  Ti  Ti5  1  0.250000  0.631256  0.057111  1
+  V  V6  1  0.750000  0.864512  0.560357  1
+  V  V7  1  0.750000  0.366361  0.939806  1
+  P  P8  1  0.250000  0.762503  0.367313  1
+  P  P9  1  0.250000  0.262420  0.133259  1
+  P  P10  1  0.750000  0.238852  0.641674  1
+  P  P11  1  0.750000  0.734998  0.856769  1

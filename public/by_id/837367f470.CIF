@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Hf6Al8Co4Si8Rh3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.41145605
+_cell_length_b   8.43626508
+_cell_length_c   8.43626398
+_cell_angle_alpha   59.80670797
+_cell_angle_beta   60.08862499
+_cell_angle_gamma   60.08861894
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf6Al8Co4Si8Rh3
+_chemical_formula_sum   'Hf6 Al8 Co4 Si8 Rh3'
+_cell_volume   423.24992074
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.692660  0.307365  0.307365  1
+  Hf  Hf1  1  0.307349  0.692629  0.692629  1
+  Hf  Hf2  1  0.307702  0.692298  0.307723  1
+  Hf  Hf3  1  0.307702  0.307723  0.692298  1
+  Hf  Hf4  1  0.692305  0.307697  0.692273  1
+  Hf  Hf5  1  0.692305  0.692273  0.307697  1
+  Al  Al6  1  0.117668  0.123964  0.123964  1
+  Al  Al7  1  0.123924  0.117663  0.634420  1
+  Al  Al8  1  0.634397  0.123952  0.123952  1
+  Al  Al9  1  0.123924  0.634420  0.117663  1
+  Al  Al10  1  0.882354  0.876033  0.876033  1
+  Al  Al11  1  0.876070  0.882321  0.365602  1
+  Al  Al12  1  0.876070  0.365602  0.882321  1
+  Al  Al13  1  0.365578  0.876054  0.876054  1
+  Co  Co14  1  0.000006  0.500002  0.999996  1
+  Co  Co15  1  0.000006  0.999996  0.500002  1
+  Co  Co16  1  0.499998  0.999994  0.500005  1
+  Co  Co17  1  0.499998  0.500005  0.999994  1
+  Si  Si18  1  0.347104  0.336206  0.336206  1
+  Si  Si19  1  0.336146  0.347105  0.980492  1
+  Si  Si20  1  0.980519  0.336172  0.336172  1
+  Si  Si21  1  0.336146  0.980492  0.347105  1
+  Si  Si22  1  0.652919  0.663782  0.663782  1
+  Si  Si23  1  0.663868  0.652880  0.019503  1
+  Si  Si24  1  0.663868  0.019503  0.652880  1
+  Si  Si25  1  0.019483  0.663817  0.663817  1
+  Rh  Rh26  1  0.999897  0.000081  0.000081  1
+  Rh  Rh27  1  0.500033  0.999985  0.999985  1
+  Rh  Rh28  1  0.000000  0.499982  0.499982  1

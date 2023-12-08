@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ce3Sm13(HgIr)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.70064200
+_cell_length_b   9.74688433
+_cell_length_c   9.74688400
+_cell_angle_alpha   60.00000113
+_cell_angle_beta   59.84218651
+_cell_angle_gamma   59.84218325
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce3Sm13(HgIr)4
+_chemical_formula_sum   'Ce3 Sm13 Hg4 Ir4'
+_cell_volume   650.09527376
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.346194  0.348705  0.348705  1
+  Ce  Ce1  1  0.346194  0.348705  0.956393  1
+  Ce  Ce2  1  0.346194  0.956393  0.348705  1
+  Sm  Sm3  1  0.944519  0.351826  0.351826  1
+  Sm  Sm4  1  0.810425  0.190387  0.190387  1
+  Sm  Sm5  1  0.192134  0.809006  0.809006  1
+  Sm  Sm6  1  0.192134  0.809006  0.189856  1
+  Sm  Sm7  1  0.810425  0.190387  0.808802  1
+  Sm  Sm8  1  0.192134  0.189856  0.809006  1
+  Sm  Sm9  1  0.810425  0.808802  0.190387  1
+  Sm  Sm10  1  0.938725  0.562168  0.562168  1
+  Sm  Sm11  1  0.561155  0.938939  0.938939  1
+  Sm  Sm12  1  0.561155  0.938939  0.560966  1
+  Sm  Sm13  1  0.938725  0.562168  0.936938  1
+  Sm  Sm14  1  0.561155  0.560966  0.938939  1
+  Sm  Sm15  1  0.938725  0.936938  0.562168  1
+  Hg  Hg16  1  0.581433  0.584559  0.584559  1
+  Hg  Hg17  1  0.581433  0.584559  0.249448  1
+  Hg  Hg18  1  0.581433  0.249448  0.584559  1
+  Hg  Hg19  1  0.250157  0.583281  0.583281  1
+  Ir  Ir20  1  0.149022  0.140751  0.140751  1
+  Ir  Ir21  1  0.149022  0.140751  0.569476  1
+  Ir  Ir22  1  0.149022  0.569476  0.140751  1
+  Ir  Ir23  1  0.568057  0.143981  0.143981  1

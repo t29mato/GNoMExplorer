@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Hf5Zr3Be2(NbSn3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.52704200
+_cell_length_b   8.52704187
+_cell_length_c   5.70739800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99998497
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf5Zr3Be2(NbSn3)2
+_chemical_formula_sum   'Hf5 Zr3 Be2 Nb2 Sn6'
+_cell_volume   359.38972297
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.333333  0.666667  0.500843  1
+  Hf  Hf1  1  0.666667  0.333333  0.500843  1
+  Hf  Hf2  1  0.748177  0.748177  0.751873  1
+  Hf  Hf3  1  0.251823  0.000000  0.751873  1
+  Hf  Hf4  1  0.000000  0.251823  0.751873  1
+  Zr  Zr5  1  0.251358  0.251358  0.248323  1
+  Zr  Zr6  1  0.748642  0.000000  0.248323  1
+  Zr  Zr7  1  0.000000  0.748642  0.248323  1
+  Be  Be8  1  0.000000  0.000000  0.996321  1
+  Be  Be9  1  0.000000  0.000000  0.503711  1
+  Nb  Nb10  1  0.666667  0.333333  0.999423  1
+  Nb  Nb11  1  0.333333  0.666667  0.999423  1
+  Sn  Sn12  1  0.392659  0.392659  0.756026  1
+  Sn  Sn13  1  0.607341  0.000000  0.756026  1
+  Sn  Sn14  1  0.000000  0.607341  0.756026  1
+  Sn  Sn15  1  0.606916  0.606916  0.243589  1
+  Sn  Sn16  1  0.393084  0.000000  0.243589  1
+  Sn  Sn17  1  0.000000  0.393084  0.243589  1

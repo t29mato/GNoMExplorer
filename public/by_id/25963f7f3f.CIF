@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LiDy(NiRh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.90821397
+_cell_length_b   5.05540626
+_cell_length_c   5.05540555
+_cell_angle_alpha   62.89210432
+_cell_angle_beta   60.95853985
+_cell_angle_gamma   60.95854811
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiDy(NiRh)2
+_chemical_formula_sum   'Li1 Dy1 Ni2 Rh2'
+_cell_volume   91.82150962
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.004609  0.995391  0.995391  1
+  Dy  Dy1  1  0.250864  0.249136  0.249136  1
+  Ni  Ni2  1  0.123332  0.627690  0.627690  1
+  Ni  Ni3  1  0.621289  0.627690  0.627690  1
+  Rh  Rh4  1  0.624953  0.626127  0.123967  1
+  Rh  Rh5  1  0.624953  0.123967  0.626127  1

@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_TbHo4(MnB3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.41474491
+_cell_length_b   5.41474583
+_cell_length_c   8.22440385
+_cell_angle_alpha   70.78051970
+_cell_angle_beta   70.78051510
+_cell_angle_gamma   60.00001922
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbHo4(MnB3)2
+_chemical_formula_sum   'Tb1 Ho4 Mn2 B6'
+_cell_volume   193.15446374
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.000000  0.000000  0.000000  1
+  Ho  Ho1  1  0.250582  0.250582  0.248253  1
+  Ho  Ho2  1  0.749418  0.749418  0.751747  1
+  Ho  Ho3  1  0.416621  0.416621  0.750138  1
+  Ho  Ho4  1  0.583379  0.583379  0.249862  1
+  Mn  Mn5  1  0.114279  0.114279  0.657162  1
+  Mn  Mn6  1  0.885721  0.885721  0.342838  1
+  B  B7  1  0.166589  0.833411  0.500000  1
+  B  B8  1  0.833411  0.500000  0.500000  1
+  B  B9  1  0.500000  0.166589  0.500000  1
+  B  B10  1  0.166589  0.500000  0.500000  1
+  B  B11  1  0.500000  0.833411  0.500000  1
+  B  B12  1  0.833411  0.166589  0.500000  1

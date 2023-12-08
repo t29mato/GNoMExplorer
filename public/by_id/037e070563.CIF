@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Mg(ZrTc6)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.42004896
+_cell_length_b   8.41935591
+_cell_length_c   8.41909301
+_cell_angle_alpha   109.47367202
+_cell_angle_beta   109.46275372
+_cell_angle_gamma   109.47827515
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg(ZrTc6)4
+_chemical_formula_sum   'Mg1 Zr4 Tc24'
+_cell_volume   459.44267006
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.999975  0.000000  0.000018  1
+  Zr  Zr1  1  0.630158  0.000000  0.999965  1
+  Zr  Zr2  1  0.000020  0.630219  0.000048  1
+  Zr  Zr3  1  0.000012  0.000000  0.630199  1
+  Zr  Zr4  1  0.369801  0.369781  0.369829  1
+  Tc  Tc5  1  0.393109  0.673168  0.000039  1
+  Tc  Tc6  1  0.719941  0.326832  0.326871  1
+  Tc  Tc7  1  0.393113  0.000000  0.673127  1
+  Tc  Tc8  1  0.673106  0.393042  0.999949  1
+  Tc  Tc9  1  0.999981  0.393083  0.673083  1
+  Tc  Tc10  1  0.326884  0.720019  0.326894  1
+  Tc  Tc11  1  0.326912  0.326853  0.719974  1
+  Tc  Tc12  1  0.000059  0.673147  0.393121  1
+  Tc  Tc13  1  0.673091  0.000000  0.393091  1
+  Tc  Tc14  1  0.606898  0.606917  0.280000  1
+  Tc  Tc15  1  0.280064  0.606958  0.606908  1
+  Tc  Tc16  1  0.606865  0.279981  0.606875  1
+  Tc  Tc17  1  0.374306  0.193590  0.999987  1
+  Tc  Tc18  1  0.180716  0.806410  0.806396  1
+  Tc  Tc19  1  0.374309  0.000000  0.193647  1
+  Tc  Tc20  1  0.193616  0.374311  0.000014  1
+  Tc  Tc21  1  0.000012  0.374328  0.193620  1
+  Tc  Tc22  1  0.806342  0.180681  0.806364  1
+  Tc  Tc23  1  0.806409  0.806408  0.180701  1
+  Tc  Tc24  1  0.000001  0.193592  0.374293  1
+  Tc  Tc25  1  0.193651  0.000000  0.374312  1
+  Tc  Tc26  1  0.625684  0.625672  0.819292  1
+  Tc  Tc27  1  0.819305  0.625689  0.625702  1
+  Tc  Tc28  1  0.625661  0.819319  0.625683  1

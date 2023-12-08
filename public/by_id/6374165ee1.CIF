@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Cd3In(Ir2O7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.24674632
+_cell_length_b   7.24674717
+_cell_length_c   7.24674576
+_cell_angle_alpha   59.82921756
+_cell_angle_beta   59.82921492
+_cell_angle_gamma   59.82921695
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd3In(Ir2O7)2
+_chemical_formula_sum   'Cd3 In1 Ir4 O14'
+_cell_volume   268.05721389
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.625000  0.125000  0.125000  1
+  Cd  Cd1  1  0.125000  0.625000  0.125000  1
+  Cd  Cd2  1  0.125000  0.125000  0.625000  1
+  In  In3  1  0.125000  0.125000  0.125000  1
+  Ir  Ir4  1  0.125000  0.625000  0.625000  1
+  Ir  Ir5  1  0.625000  0.125000  0.625000  1
+  Ir  Ir6  1  0.625000  0.625000  0.125000  1
+  Ir  Ir7  1  0.625000  0.625000  0.625000  1
+  O  O8  1  0.700682  0.700682  0.297064  1
+  O  O9  1  0.298743  0.298743  0.717432  1
+  O  O10  1  0.700682  0.297064  0.700682  1
+  O  O11  1  0.298743  0.717432  0.298743  1
+  O  O12  1  0.297064  0.700682  0.700682  1
+  O  O13  1  0.717432  0.298743  0.298743  1
+  O  O14  1  0.549318  0.549318  0.952936  1
+  O  O15  1  0.951257  0.951257  0.532568  1
+  O  O16  1  0.549318  0.952936  0.549318  1
+  O  O17  1  0.951257  0.532568  0.951257  1
+  O  O18  1  0.952936  0.549318  0.549318  1
+  O  O19  1  0.532568  0.951257  0.951257  1
+  O  O20  1  0.247136  0.247136  0.247136  1
+  O  O21  1  0.002864  0.002864  0.002864  1

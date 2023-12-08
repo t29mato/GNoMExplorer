@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ta2VP2Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.52085600
+_cell_length_b   6.41383733
+_cell_length_c   7.54485347
+_cell_angle_alpha   89.74541160
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2VP2Rh
+_chemical_formula_sum   'Ta4 V2 P4 Rh2'
+_cell_volume   170.37769034
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.250000  0.541671  0.157817  1
+  Ta  Ta1  1  0.750000  0.458329  0.842183  1
+  Ta  Ta2  1  0.750000  0.985158  0.664378  1
+  Ta  Ta3  1  0.250000  0.014842  0.335622  1
+  V  V4  1  0.750000  0.861991  0.060078  1
+  V  V5  1  0.250000  0.138009  0.939922  1
+  P  P6  1  0.250000  0.766634  0.862705  1
+  P  P7  1  0.750000  0.233366  0.137295  1
+  P  P8  1  0.750000  0.729041  0.365334  1
+  P  P9  1  0.250000  0.270959  0.634666  1
+  Rh  Rh10  1  0.250000  0.650906  0.569789  1
+  Rh  Rh11  1  0.750000  0.349094  0.430211  1

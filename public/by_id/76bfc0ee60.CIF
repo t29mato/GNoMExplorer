@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Sr2Bi2Te3O2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.31581400
+_cell_length_b   9.84329607
+_cell_length_c   12.58244781
+_cell_angle_alpha   99.70146766
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2Bi2Te3O2
+_chemical_formula_sum   'Sr4 Bi4 Te6 O4'
+_cell_volume   526.88130458
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.503199  0.714632  0.623606  1
+  Sr  Sr1  1  0.003199  0.785368  0.876394  1
+  Sr  Sr2  1  0.496801  0.285368  0.376394  1
+  Sr  Sr3  1  0.996801  0.214632  0.123606  1
+  Bi  Bi4  1  0.501557  0.450703  0.810710  1
+  Bi  Bi5  1  0.001557  0.049297  0.689290  1
+  Bi  Bi6  1  0.498443  0.549297  0.189290  1
+  Bi  Bi7  1  0.998443  0.950703  0.310710  1
+  Te  Te8  1  0.500000  0.000000  0.500000  1
+  Te  Te9  1  0.000000  0.500000  0.000000  1
+  Te  Te10  1  0.501409  0.094717  0.869676  1
+  Te  Te11  1  0.001409  0.405283  0.630324  1
+  Te  Te12  1  0.498591  0.905283  0.130324  1
+  Te  Te13  1  0.998591  0.594717  0.369676  1
+  O  O14  1  0.497155  0.328958  0.188705  1
+  O  O15  1  0.997155  0.171042  0.311295  1
+  O  O16  1  0.502845  0.671042  0.811295  1
+  O  O17  1  0.002845  0.828958  0.688705  1

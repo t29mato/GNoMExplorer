@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_LiTh4(GeOs)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.41915492
+_cell_length_b   7.41912335
+_cell_length_c   7.41915582
+_cell_angle_alpha   109.35665882
+_cell_angle_beta   109.35705502
+_cell_angle_gamma   109.70036088
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTh4(GeOs)6
+_chemical_formula_sum   'Li1 Th4 Ge6 Os6'
+_cell_volume   314.36451274
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.750000  0.250000  0.500000  1
+  Th  Th1  1  0.002077  0.997922  0.499999  1
+  Th  Th2  1  0.002078  0.502078  0.004158  1
+  Th  Th3  1  0.497923  0.997922  0.995845  1
+  Th  Th4  1  0.497921  0.502078  0.500001  1
+  Ge  Ge5  1  0.681641  0.681640  0.999999  1
+  Ge  Ge6  1  0.317147  0.998274  0.318874  1
+  Ge  Ge7  1  0.001728  0.320601  0.318873  1
+  Ge  Ge8  1  0.318360  0.318360  0.000000  1
+  Ge  Ge9  1  0.679399  0.998274  0.681126  1
+  Ge  Ge10  1  0.001727  0.682853  0.681126  1
+  Os  Os11  1  0.751711  0.500191  0.251522  1
+  Os  Os12  1  0.499807  0.248289  0.748481  1
+  Os  Os13  1  0.248669  0.500191  0.748480  1
+  Os  Os14  1  0.250000  0.750000  0.500000  1
+  Os  Os15  1  0.499813  0.751330  0.251517  1
+  Os  Os16  1  0.999999  0.999998  0.999999  1

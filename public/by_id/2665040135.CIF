@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Tb3Ho2(FeB3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.40735515
+_cell_length_b   5.40735496
+_cell_length_c   8.27895816
+_cell_angle_alpha   70.93915510
+_cell_angle_beta   70.93915886
+_cell_angle_gamma   59.99999119
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb3Ho2(FeB3)2
+_chemical_formula_sum   'Tb3 Ho2 Fe2 B6'
+_cell_volume   194.16427191
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.000000  0.000000  0.000000  1
+  Tb  Tb1  1  0.251914  0.251914  0.244259  1
+  Tb  Tb2  1  0.748086  0.748086  0.755741  1
+  Ho  Ho3  1  0.417211  0.417211  0.748364  1
+  Ho  Ho4  1  0.582789  0.582789  0.251636  1
+  Fe  Fe5  1  0.118079  0.118079  0.645763  1
+  Fe  Fe6  1  0.881921  0.881921  0.354237  1
+  B  B7  1  0.167950  0.832050  0.500000  1
+  B  B8  1  0.832050  0.500000  0.500000  1
+  B  B9  1  0.500000  0.167950  0.500000  1
+  B  B10  1  0.167950  0.500000  0.500000  1
+  B  B11  1  0.500000  0.832050  0.500000  1
+  B  B12  1  0.832050  0.167950  0.500000  1

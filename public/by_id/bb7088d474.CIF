@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Yb3Pa(PPd)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.18463600
+_cell_length_b   7.65233102
+_cell_length_c   7.17781205
+_cell_angle_alpha   90.13995937
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Yb3Pa(PPd)4
+_chemical_formula_sum   'Yb3 Pa1 P4 Pd4'
+_cell_volume   229.84878976
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.750000  0.499500  0.748838  1
+  Yb  Yb1  1  0.750000  0.000056  0.750976  1
+  Yb  Yb2  1  0.250000  0.999980  0.249313  1
+  Pa  Pa3  1  0.250000  0.500197  0.250559  1
+  P  P4  1  0.250000  0.736296  0.922202  1
+  P  P5  1  0.750000  0.278777  0.084866  1
+  P  P6  1  0.750000  0.722689  0.414881  1
+  P  P7  1  0.250000  0.260470  0.578174  1
+  Pd  Pd8  1  0.250000  0.750136  0.583870  1
+  Pd  Pd9  1  0.750000  0.239571  0.416045  1
+  Pd  Pd10  1  0.750000  0.761805  0.083658  1
+  Pd  Pd11  1  0.250000  0.250522  0.916617  1

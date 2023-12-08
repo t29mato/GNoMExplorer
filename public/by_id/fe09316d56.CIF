@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_FePd7Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.21218618
+_cell_length_b   6.21218600
+_cell_length_c   6.21727900
+_cell_angle_alpha   95.71579262
+_cell_angle_beta   95.71578366
+_cell_angle_gamma   143.19208660
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FePd7Pt
+_chemical_formula_sum   'Fe1 Pd7 Pt1'
+_cell_volume   136.41190486
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.002834  0.002834  0.005670  1
+  Pd  Pd1  1  0.336001  0.662807  0.998808  1
+  Pd  Pd2  1  0.662807  0.336001  0.998808  1
+  Pd  Pd3  1  0.336965  0.336965  0.673929  1
+  Pd  Pd4  1  0.671238  0.999219  0.670456  1
+  Pd  Pd5  1  0.999219  0.671238  0.670456  1
+  Pd  Pd6  1  0.000400  0.329017  0.329418  1
+  Pd  Pd7  1  0.329017  0.000400  0.329418  1
+  Pt  Pt8  1  0.661519  0.661519  0.323037  1

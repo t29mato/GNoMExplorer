@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Ba3Co2(Tc2P3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.87223664
+_cell_length_b   8.87223571
+_cell_length_c   8.87223628
+_cell_angle_alpha   153.86745652
+_cell_angle_beta   91.21425536
+_cell_angle_gamma   94.64784567
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3Co2(Tc2P3)2
+_chemical_formula_sum   'Ba3 Co2 Tc4 P6'
+_cell_volume   299.49304108
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.337602  0.337602  0.000000  1
+  Ba  Ba1  1  0.666332  0.666332  0.000000  1
+  Ba  Ba2  1  0.996115  0.996115  0.000000  1
+  Co  Co3  1  0.405786  0.166739  0.239048  1
+  Co  Co4  1  0.927690  0.166739  0.760952  1
+  Tc  Tc5  1  0.575358  0.829681  0.745676  1
+  Tc  Tc6  1  0.248449  0.503551  0.744899  1
+  Tc  Tc7  1  0.758652  0.503551  0.255101  1
+  Tc  Tc8  1  0.084006  0.829681  0.254324  1
+  P  P9  1  0.316690  0.666927  0.649762  1
+  P  P10  1  0.667070  0.326809  0.340262  1
+  P  P11  1  0.986547  0.326809  0.659738  1
+  P  P12  1  0.345821  0.006269  0.339552  1
+  P  P13  1  0.017165  0.666927  0.350238  1
+  P  P14  1  0.666716  0.006269  0.660448  1

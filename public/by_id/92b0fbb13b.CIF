@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Zr4Al4Re3Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.25682388
+_cell_length_b   5.25682470
+_cell_length_c   8.72060800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.21570419
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr4Al4Re3Pd
+_chemical_formula_sum   'Zr4 Al4 Re3 Pd1'
+_cell_volume   210.33067541
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.333106  0.666894  0.194849  1
+  Zr  Zr1  1  0.665262  0.334738  0.320127  1
+  Zr  Zr2  1  0.665262  0.334738  0.679873  1
+  Zr  Zr3  1  0.333106  0.666894  0.805151  1
+  Al  Al4  1  0.995793  0.004207  0.246230  1
+  Al  Al5  1  0.995793  0.004207  0.753770  1
+  Al  Al6  1  0.834219  0.649731  0.000000  1
+  Al  Al7  1  0.350269  0.165781  0.000000  1
+  Re  Re8  1  0.166453  0.341668  0.500000  1
+  Re  Re9  1  0.658332  0.833547  0.500000  1
+  Re  Re10  1  0.166157  0.833843  0.500000  1
+  Pd  Pd11  1  0.836398  0.163602  0.000000  1

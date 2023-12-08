@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ta4NbTcOs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.42613900
+_cell_length_b   4.53674000
+_cell_length_c   9.10179100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00012536
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta4NbTcOs2
+_chemical_formula_sum   'Ta8 Nb2 Tc2 Os4'
+_cell_volume   265.35108312
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.499204  0.749999  0.124565  1
+  Ta  Ta1  1  0.000791  0.749999  0.124565  1
+  Ta  Ta2  1  0.500781  0.250000  0.375438  1
+  Ta  Ta3  1  0.999223  0.250000  0.375436  1
+  Ta  Ta4  1  0.999204  0.749999  0.624875  1
+  Ta  Ta5  1  0.500786  0.749999  0.624876  1
+  Ta  Ta6  1  0.000800  0.250000  0.875123  1
+  Ta  Ta7  1  0.499208  0.250000  0.875123  1
+  Nb  Nb8  1  0.750003  0.250000  0.123426  1
+  Nb  Nb9  1  0.250002  0.749999  0.376571  1
+  Tc  Tc10  1  0.749996  0.250000  0.626751  1
+  Tc  Tc11  1  0.250001  0.749999  0.873248  1
+  Os  Os12  1  0.250003  0.250000  0.121468  1
+  Os  Os13  1  0.749999  0.749999  0.378537  1
+  Os  Os14  1  0.249999  0.250000  0.628928  1
+  Os  Os15  1  0.750000  0.749999  0.871070  1

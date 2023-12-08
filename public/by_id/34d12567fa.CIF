@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_KSr3(CrN3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.25532893
+_cell_length_b   6.25532739
+_cell_length_c   12.38502623
+_cell_angle_alpha   89.86426426
+_cell_angle_beta   90.13574633
+_cell_angle_gamma   126.05809251
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KSr3(CrN3)2
+_chemical_formula_sum   'K2 Sr6 Cr4 N12'
+_cell_volume   391.77162196
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.550383  0.449617  0.641834  1
+  K  K1  1  0.449617  0.550383  0.358166  1
+  Sr  Sr2  1  0.944184  0.055816  0.142487  1
+  Sr  Sr3  1  0.055816  0.944184  0.857513  1
+  Sr  Sr4  1  0.852693  0.147307  0.582627  1
+  Sr  Sr5  1  0.147307  0.852693  0.417373  1
+  Sr  Sr6  1  0.643146  0.356854  0.082768  1
+  Sr  Sr7  1  0.356854  0.643146  0.917232  1
+  Cr  Cr8  1  0.738935  0.261065  0.839257  1
+  Cr  Cr9  1  0.261065  0.738935  0.160743  1
+  Cr  Cr10  1  0.766500  0.233500  0.333229  1
+  Cr  Cr11  1  0.233500  0.766500  0.666771  1
+  N  N12  1  0.839616  0.160384  0.950581  1
+  N  N13  1  0.160384  0.839616  0.049419  1
+  N  N14  1  0.678834  0.321166  0.444650  1
+  N  N15  1  0.321166  0.678834  0.555350  1
+  N  N16  1  0.590732  0.409268  0.878626  1
+  N  N17  1  0.409268  0.590732  0.121374  1
+  N  N18  1  0.915478  0.084522  0.366827  1
+  N  N19  1  0.084522  0.915478  0.633173  1
+  N  N20  1  0.518498  0.981637  0.755078  1
+  N  N21  1  0.981637  0.518498  0.244922  1
+  N  N22  1  0.481502  0.018363  0.244922  1
+  N  N23  1  0.018363  0.481502  0.755078  1

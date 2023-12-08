@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Nb10AlSi4Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.58761203
+_cell_length_b   7.58761160
+_cell_length_c   7.58761307
+_cell_angle_alpha   128.28885257
+_cell_angle_beta   128.28885362
+_cell_angle_gamma   76.15756276
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb10AlSi4Ge
+_chemical_formula_sum   'Nb10 Al1 Si4 Ge1'
+_cell_volume   261.58976598
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.017371  0.187819  0.500868  1
+  Nb  Nb1  1  0.516503  0.017371  0.829553  1
+  Nb  Nb2  1  0.187819  0.686951  0.170447  1
+  Nb  Nb3  1  0.482629  0.983497  0.170447  1
+  Nb  Nb4  1  0.686951  0.516503  0.499132  1
+  Nb  Nb5  1  0.983497  0.813049  0.500868  1
+  Nb  Nb6  1  0.312181  0.482629  0.499132  1
+  Nb  Nb7  1  0.813049  0.312181  0.829553  1
+  Nb  Nb8  1  0.499840  0.499840  0.000000  1
+  Nb  Nb9  1  0.000160  0.000160  0.000000  1
+  Al  Al10  1  0.750000  0.750000  0.000000  1
+  Si  Si11  1  0.129646  0.629646  0.759295  1
+  Si  Si12  1  0.629646  0.870354  0.500000  1
+  Si  Si13  1  0.370354  0.129646  0.500000  1
+  Si  Si14  1  0.870354  0.370354  0.240705  1
+  Ge  Ge15  1  0.250000  0.250000  0.000000  1

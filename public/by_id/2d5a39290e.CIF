@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Fe4Co2ReSi2W3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.64162492
+_cell_length_b   4.64162559
+_cell_length_c   7.72004396
+_cell_angle_alpha   89.87636330
+_cell_angle_beta   90.12363767
+_cell_angle_gamma   118.77148637
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe4Co2ReSi2W3
+_chemical_formula_sum   'Fe4 Co2 Re1 Si2 W3'
+_cell_volume   145.79191063
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.000278  0.999722  0.249325  1
+  Fe  Fe1  1  0.998936  0.001064  0.752282  1
+  Fe  Fe2  1  0.833050  0.654925  0.998730  1
+  Fe  Fe3  1  0.345075  0.166950  0.998730  1
+  Co  Co4  1  0.165313  0.344117  0.500621  1
+  Co  Co5  1  0.655883  0.834687  0.500621  1
+  Re  Re6  1  0.333894  0.666106  0.187024  1
+  Si  Si7  1  0.834415  0.165585  0.003976  1
+  Si  Si8  1  0.165927  0.834073  0.498236  1
+  W  W9  1  0.664743  0.335257  0.312031  1
+  W  W10  1  0.667346  0.332654  0.682837  1
+  W  W11  1  0.335023  0.664977  0.815586  1

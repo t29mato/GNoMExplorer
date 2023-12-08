@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_DyLu3(CuSi3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.92998863
+_cell_length_b   7.94156843
+_cell_length_c   5.60211819
+_cell_angle_alpha   69.22039954
+_cell_angle_beta   69.44202982
+_cell_angle_gamma   41.33757459
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyLu3(CuSi3)2
+_chemical_formula_sum   'Dy1 Lu3 Cu2 Si6'
+_cell_volume   215.80306976
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.749999  0.750001  0.750000  1
+  Lu  Lu1  1  0.249999  0.250001  0.250000  1
+  Lu  Lu2  1  0.256431  0.743569  0.256432  1
+  Lu  Lu3  1  0.743568  0.256432  0.743569  1
+  Cu  Cu4  1  0.833415  0.833415  0.166585  1
+  Cu  Cu5  1  0.166585  0.166585  0.833415  1
+  Si  Si6  1  0.840250  0.327990  0.160751  1
+  Si  Si7  1  0.671011  0.160751  0.327990  1
+  Si  Si8  1  0.668174  0.668175  0.331826  1
+  Si  Si9  1  0.331825  0.331826  0.668175  1
+  Si  Si10  1  0.327990  0.840249  0.671011  1
+  Si  Si11  1  0.160751  0.671011  0.840249  1

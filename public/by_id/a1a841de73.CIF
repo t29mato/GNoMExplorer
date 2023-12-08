@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_CeSm4(FeB3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47467948
+_cell_length_b   5.47467881
+_cell_length_c   8.17989224
+_cell_angle_alpha   70.44920246
+_cell_angle_beta   70.44919394
+_cell_angle_gamma   60.00000175
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeSm4(FeB3)2
+_chemical_formula_sum   'Ce1 Sm4 Fe2 B6'
+_cell_volume   195.83042431
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.000000  0.000000  0.000000  1
+  Sm  Sm1  1  0.746479  0.746479  0.760564  1
+  Sm  Sm2  1  0.253521  0.253521  0.239436  1
+  Sm  Sm3  1  0.586190  0.586190  0.241433  1
+  Sm  Sm4  1  0.413810  0.413810  0.758567  1
+  Fe  Fe5  1  0.887732  0.887732  0.336804  1
+  Fe  Fe6  1  0.112268  0.112268  0.663196  1
+  B  B7  1  0.500000  0.166217  0.500000  1
+  B  B8  1  0.833783  0.500000  0.500000  1
+  B  B9  1  0.166217  0.833783  0.500000  1
+  B  B10  1  0.166217  0.500000  0.500000  1
+  B  B11  1  0.833783  0.166217  0.500000  1
+  B  B12  1  0.500000  0.833783  0.500000  1

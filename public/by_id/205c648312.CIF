@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sc2MnP2Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.77479100
+_cell_length_b   6.39012407
+_cell_length_c   7.34927061
+_cell_angle_alpha   90.56263579
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc2MnP2Rh
+_chemical_formula_sum   'Sc4 Mn2 P4 Rh2'
+_cell_volume   177.26602264
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.750000  0.970304  0.823978  1
+  Sc  Sc1  1  0.250000  0.523770  0.317872  1
+  Sc  Sc2  1  0.250000  0.029735  0.176015  1
+  Sc  Sc3  1  0.750000  0.476232  0.682154  1
+  Mn  Mn4  1  0.750000  0.858068  0.442146  1
+  Mn  Mn5  1  0.250000  0.141890  0.557852  1
+  P  P6  1  0.250000  0.784886  0.614289  1
+  P  P7  1  0.750000  0.215132  0.385760  1
+  P  P8  1  0.250000  0.265818  0.861427  1
+  P  P9  1  0.750000  0.734168  0.138516  1
+  Rh  Rh10  1  0.750000  0.345636  0.069237  1
+  Rh  Rh11  1  0.250000  0.654360  0.930755  1

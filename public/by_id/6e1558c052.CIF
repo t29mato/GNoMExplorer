@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ta3ReSi2GeMo2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.95405711
+_cell_length_b   6.93759613
+_cell_length_c   3.34410500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.87800262
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta3ReSi2GeMo2
+_chemical_formula_sum   'Ta3 Re1 Si2 Ge1 Mo2'
+_cell_volume   139.89119568
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.399229  0.402748  0.500000  1
+  Ta  Ta1  1  0.590756  0.985531  0.500000  1
+  Ta  Ta2  1  0.008978  0.610219  0.500000  1
+  Re  Re3  1  0.005465  0.260855  0.000000  1
+  Si  Si4  1  0.330626  0.662586  0.000000  1
+  Si  Si5  1  0.999650  0.003037  0.500000  1
+  Ge  Ge6  1  0.669532  0.332437  0.000000  1
+  Mo  Mo7  1  0.741290  0.746085  0.000000  1
+  Mo  Mo8  1  0.254474  0.996502  0.000000  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_BaPr(Sn2Rh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.05557039
+_cell_length_b   9.05557043
+_cell_length_c   9.81813324
+_cell_angle_alpha   90.00193458
+_cell_angle_beta   89.99805996
+_cell_angle_gamma   148.97216285
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaPr(Sn2Rh)2
+_chemical_formula_sum   'Ba2 Pr2 Sn8 Rh4'
+_cell_volume   415.00263459
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.500000  0.500000  0.500000  1
+  Ba  Ba1  1  0.500000  0.500000  0.000000  1
+  Pr  Pr2  1  0.704727  0.295273  0.749958  1
+  Pr  Pr3  1  0.295273  0.704727  0.250042  1
+  Sn  Sn4  1  0.697759  0.302241  0.409740  1
+  Sn  Sn5  1  0.302241  0.697759  0.590260  1
+  Sn  Sn6  1  0.302227  0.697773  0.909799  1
+  Sn  Sn7  1  0.697773  0.302227  0.090201  1
+  Sn  Sn8  1  0.905405  0.094595  0.749942  1
+  Sn  Sn9  1  0.094595  0.905405  0.250058  1
+  Sn  Sn10  1  0.081095  0.918905  0.750034  1
+  Sn  Sn11  1  0.918905  0.081095  0.249966  1
+  Rh  Rh12  1  0.846386  0.153614  0.498311  1
+  Rh  Rh13  1  0.153614  0.846386  0.501689  1
+  Rh  Rh14  1  0.153594  0.846406  0.998385  1
+  Rh  Rh15  1  0.846406  0.153594  0.001615  1

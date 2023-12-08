@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Lu4Al4OsPt3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.28962000
+_cell_length_b   6.74151819
+_cell_length_c   7.85084101
+_cell_angle_alpha   89.75169552
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu4Al4OsPt3
+_chemical_formula_sum   'Lu4 Al4 Os1 Pt3'
+_cell_volume   227.03281626
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.250000  0.034187  0.675652  1
+  Lu  Lu1  1  0.250000  0.529895  0.820881  1
+  Lu  Lu2  1  0.750000  0.977290  0.324039  1
+  Lu  Lu3  1  0.750000  0.464712  0.182478  1
+  Al  Al4  1  0.250000  0.142042  0.061154  1
+  Al  Al5  1  0.250000  0.638639  0.439642  1
+  Al  Al6  1  0.750000  0.858965  0.940700  1
+  Al  Al7  1  0.750000  0.356837  0.557328  1
+  Os  Os8  1  0.250000  0.263466  0.375330  1
+  Pt  Pt9  1  0.250000  0.764849  0.120508  1
+  Pt  Pt10  1  0.750000  0.734656  0.625370  1
+  Pt  Pt11  1  0.750000  0.234462  0.876917  1

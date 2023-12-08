@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Pa2IrPd4Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.79532413
+_cell_length_b   5.79532422
+_cell_length_c   4.99077300
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   121.05318513
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pa2IrPd4Pt
+_chemical_formula_sum   'Pa2 Ir1 Pd4 Pt1'
+_cell_volume   143.59734057
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.675339  0.324661  0.250000  1
+  Pa  Pa1  1  0.327784  0.672216  0.750000  1
+  Ir  Ir2  1  0.828991  0.171009  0.750000  1
+  Pd  Pd3  1  0.322416  0.171525  0.750000  1
+  Pd  Pd4  1  0.828475  0.677584  0.750000  1
+  Pd  Pd5  1  0.676807  0.827866  0.250000  1
+  Pd  Pd6  1  0.172134  0.323193  0.250000  1
+  Pt  Pt7  1  0.168054  0.831946  0.250000  1

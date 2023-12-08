@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_V4FeCo3SiP3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.50250500
+_cell_length_b   5.90855600
+_cell_length_c   6.73819498
+_cell_angle_alpha   89.80245016
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V4FeCo3SiP3
+_chemical_formula_sum   'V4 Fe1 Co3 Si1 P3'
+_cell_volume   139.44441106
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.750000  0.471343  0.669372  1
+  V  V1  1  0.750000  0.977157  0.824325  1
+  V  V2  1  0.250000  0.526417  0.333286  1
+  V  V3  1  0.250000  0.031190  0.174063  1
+  Fe  Fe4  1  0.250000  0.142395  0.560740  1
+  Co  Co5  1  0.750000  0.352352  0.061061  1
+  Co  Co6  1  0.750000  0.858893  0.443297  1
+  Co  Co7  1  0.250000  0.639339  0.933743  1
+  Si  Si8  1  0.750000  0.732892  0.125421  1
+  P  P9  1  0.750000  0.232973  0.375919  1
+  P  P10  1  0.250000  0.267172  0.873798  1
+  P  P11  1  0.250000  0.767875  0.624975  1

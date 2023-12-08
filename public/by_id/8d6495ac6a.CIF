@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_K2Cu(HgCl4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.69315692
+_cell_length_b   6.69315692
+_cell_length_c   9.85713551
+_cell_angle_alpha   75.62411102
+_cell_angle_beta   75.62411171
+_cell_angle_gamma   62.86037694
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Cu(HgCl4)2
+_chemical_formula_sum   'K2 Cu1 Hg2 Cl8'
+_cell_volume   375.96066501
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.608274  0.608274  0.158535  1
+  K  K1  1  0.391726  0.391726  0.841465  1
+  Cu  Cu2  1  0.000000  0.000000  0.000000  1
+  Hg  Hg3  1  0.133417  0.133417  0.607289  1
+  Hg  Hg4  1  0.866583  0.866583  0.392711  1
+  Cl  Cl5  1  0.917998  0.917998  0.696078  1
+  Cl  Cl6  1  0.898336  0.361858  0.875709  1
+  Cl  Cl7  1  0.347319  0.347319  0.508485  1
+  Cl  Cl8  1  0.638142  0.101664  0.124291  1
+  Cl  Cl9  1  0.652681  0.652681  0.491515  1
+  Cl  Cl10  1  0.361858  0.898336  0.875709  1
+  Cl  Cl11  1  0.101664  0.638142  0.124291  1
+  Cl  Cl12  1  0.082002  0.082002  0.303922  1

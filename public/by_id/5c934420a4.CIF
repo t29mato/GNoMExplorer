@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_YEr2(SnPd)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.66958078
+_cell_length_b   7.66958071
+_cell_length_c   3.85976600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.27925604
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YEr2(SnPd)3
+_chemical_formula_sum   'Y1 Er2 Sn3 Pd3'
+_cell_volume   196.06761844
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.402092  0.402092  0.500000  1
+  Er  Er1  1  0.598185  0.999851  0.500000  1
+  Er  Er2  1  0.999851  0.598185  0.500000  1
+  Sn  Sn3  1  0.738244  0.738244  0.000000  1
+  Sn  Sn4  1  0.261861  0.998866  0.000000  1
+  Sn  Sn5  1  0.998866  0.261861  0.000000  1
+  Pd  Pd6  1  0.668922  0.332949  0.000000  1
+  Pd  Pd7  1  0.332949  0.668922  0.000000  1
+  Pd  Pd8  1  0.999029  0.999029  0.500000  1

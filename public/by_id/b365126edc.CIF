@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfBe8Tc3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.44144800
+_cell_length_b   4.44145344
+_cell_length_c   7.34486800
+_cell_angle_alpha   90.00024300
+_cell_angle_beta   89.99977317
+_cell_angle_gamma   119.99985840
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfBe8Tc3
+_chemical_formula_sum   'Hf1 Be8 Tc3'
+_cell_volume   125.47723568
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.666670  0.333329  0.563771  1
+  Be  Be1  1  0.000004  0.999996  0.495799  1
+  Be  Be2  1  0.000001  0.999999  0.002011  1
+  Be  Be3  1  0.169324  0.338637  0.761416  1
+  Be  Be4  1  0.169325  0.830677  0.761412  1
+  Be  Be5  1  0.661364  0.830677  0.761413  1
+  Be  Be6  1  0.832043  0.664109  0.241940  1
+  Be  Be7  1  0.832045  0.167956  0.241938  1
+  Be  Be8  1  0.335890  0.167957  0.241942  1
+  Tc  Tc9  1  0.333335  0.666665  0.422840  1
+  Tc  Tc10  1  0.333331  0.666668  0.064086  1
+  Tc  Tc11  1  0.666668  0.333332  0.941432  1

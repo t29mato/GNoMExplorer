@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_HoGaCu3Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.05013847
+_cell_length_b   5.05013827
+_cell_length_c   5.05013903
+_cell_angle_alpha   60.73481143
+_cell_angle_beta   60.73480681
+_cell_angle_gamma   60.73480821
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoGaCu3Au
+_chemical_formula_sum   'Ho1 Ga1 Cu3 Au1'
+_cell_volume   92.58419436
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.247842  0.247842  0.247842  1
+  Ga  Ga1  1  0.627650  0.627650  0.627650  1
+  Cu  Cu2  1  0.626367  0.626367  0.124420  1
+  Cu  Cu3  1  0.626367  0.124420  0.626367  1
+  Cu  Cu4  1  0.124420  0.626367  0.626367  1
+  Au  Au5  1  0.997353  0.997353  0.997353  1

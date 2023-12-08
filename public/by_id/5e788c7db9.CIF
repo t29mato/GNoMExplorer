@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Hf3Sc(CoP)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.68335700
+_cell_length_b   6.29016002
+_cell_length_c   7.09548902
+_cell_angle_alpha   89.99113726
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf3Sc(CoP)4
+_chemical_formula_sum   'Hf3 Sc1 Co4 P4'
+_cell_volume   164.39470864
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.250000  0.020372  0.817346  1
+  Hf  Hf1  1  0.250000  0.520137  0.682052  1
+  Hf  Hf2  1  0.750000  0.980622  0.183483  1
+  Sc  Sc3  1  0.750000  0.480012  0.316470  1
+  Co  Co4  1  0.250000  0.139541  0.439116  1
+  Co  Co5  1  0.250000  0.642896  0.060678  1
+  Co  Co6  1  0.750000  0.859898  0.561983  1
+  Co  Co7  1  0.750000  0.357204  0.938336  1
+  P  P8  1  0.250000  0.274715  0.116319  1
+  P  P9  1  0.250000  0.771677  0.384658  1
+  P  P10  1  0.750000  0.725657  0.885178  1
+  P  P11  1  0.750000  0.227270  0.614380  1

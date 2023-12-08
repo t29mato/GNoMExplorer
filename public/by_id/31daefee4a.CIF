@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Mn4FeSi3Mo4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.78050714
+_cell_length_b   4.75449908
+_cell_length_c   7.77438700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.18722288
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn4FeSi3Mo4
+_chemical_formula_sum   'Mn4 Fe1 Si3 Mo4'
+_cell_volume   152.74010994
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.831814  0.171466  0.000000  1
+  Mn  Mn1  1  0.832603  0.660776  0.000000  1
+  Mn  Mn2  1  0.349893  0.174148  0.000000  1
+  Mn  Mn3  1  0.153095  0.820347  0.500000  1
+  Fe  Fe4  1  0.154141  0.328174  0.500000  1
+  Si  Si5  1  0.639609  0.817510  0.500000  1
+  Si  Si6  1  0.015057  0.010448  0.247864  1
+  Si  Si7  1  0.015057  0.010448  0.752136  1
+  Mo  Mo8  1  0.666045  0.333812  0.688189  1
+  Mo  Mo9  1  0.338247  0.669602  0.817177  1
+  Mo  Mo10  1  0.338247  0.669602  0.182823  1
+  Mo  Mo11  1  0.666045  0.333812  0.311811  1

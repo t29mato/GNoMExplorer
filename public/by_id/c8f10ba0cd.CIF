@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_U3Al2GaIr3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.90142986
+_cell_length_b   6.90282891
+_cell_length_c   4.10511100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.74771009
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U3Al2GaIr3
+_chemical_formula_sum   'U3 Al2 Ga1 Ir3'
+_cell_volume   169.79316392
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.426447  0.426454  0.500000  1
+  U  U1  1  0.577430  0.998497  0.500000  1
+  U  U2  1  0.998490  0.577418  0.500000  1
+  Al  Al3  1  0.235656  0.001157  0.000000  1
+  Al  Al4  1  0.001163  0.235665  0.000000  1
+  Ga  Ga5  1  0.761352  0.761345  0.000000  1
+  Ir  Ir6  1  0.665049  0.325922  0.000000  1
+  Ir  Ir7  1  0.325906  0.665032  0.000000  1
+  Ir  Ir8  1  0.008506  0.008510  0.500000  1

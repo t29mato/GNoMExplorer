@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ta8TiCr(B2P)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.07473171
+_cell_length_b   6.07473124
+_cell_length_c   7.17279652
+_cell_angle_alpha   115.05300369
+_cell_angle_beta   115.05300238
+_cell_angle_gamma   89.99998921
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta8TiCr(B2P)2
+_chemical_formula_sum   'Ta8 Ti1 Cr1 B4 P2'
+_cell_volume   211.98091242
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.034031  0.525481  0.722081  1
+  Ta  Ta1  1  0.688050  0.196600  0.722081  1
+  Ta  Ta2  1  0.196600  0.034031  0.722081  1
+  Ta  Ta3  1  0.525481  0.688050  0.722081  1
+  Ta  Ta4  1  0.965969  0.474519  0.277919  1
+  Ta  Ta5  1  0.311950  0.803400  0.277919  1
+  Ta  Ta6  1  0.803400  0.965969  0.277919  1
+  Ta  Ta7  1  0.474519  0.311950  0.277919  1
+  Ti  Ti8  1  0.000000  0.000000  0.000000  1
+  Cr  Cr9  1  0.500000  0.500000  0.000000  1
+  B  B10  1  0.380731  0.879915  0.000000  1
+  B  B11  1  0.619269  0.120085  0.000000  1
+  B  B12  1  0.120085  0.380731  0.000000  1
+  B  B13  1  0.879915  0.619269  0.000000  1
+  P  P14  1  0.241994  0.241994  0.483987  1
+  P  P15  1  0.758006  0.758006  0.516013  1

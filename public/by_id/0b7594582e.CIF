@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Ti13Al9(PdRu3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.74649551
+_cell_length_b   8.77548062
+_cell_length_c   8.74649500
+_cell_angle_alpha   59.57524725
+_cell_angle_beta   59.69320619
+_cell_angle_gamma   59.57525858
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti13Al9(PdRu3)2
+_chemical_formula_sum   'Ti13 Al9 Pd2 Ru6'
+_cell_volume   470.54569440
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.212905  0.215643  0.786573  1
+  Ti  Ti1  1  0.786573  0.215643  0.212905  1
+  Ti  Ti2  1  0.214318  0.785146  0.214318  1
+  Ti  Ti3  1  0.800254  0.796283  0.186408  1
+  Ti  Ti4  1  0.186408  0.796283  0.800254  1
+  Ti  Ti5  1  0.796397  0.192575  0.796397  1
+  Ti  Ti6  1  0.379051  0.379837  0.379051  1
+  Ti  Ti7  1  0.383803  0.861376  0.383803  1
+  Ti  Ti8  1  0.864255  0.386111  0.376713  1
+  Ti  Ti9  1  0.376713  0.386111  0.864255  1
+  Ti  Ti10  1  0.843961  0.468116  0.843961  1
+  Ti  Ti11  1  0.464839  0.841278  0.842839  1
+  Ti  Ti12  1  0.842839  0.841278  0.464839  1
+  Al  Al13  1  0.151422  0.153650  0.151422  1
+  Al  Al14  1  0.158703  0.530894  0.158703  1
+  Al  Al15  1  0.534074  0.159579  0.159521  1
+  Al  Al16  1  0.159521  0.159579  0.534074  1
+  Al  Al17  1  0.619367  0.616752  0.619367  1
+  Al  Al18  1  0.616695  0.144394  0.616695  1
+  Al  Al19  1  0.144070  0.614194  0.621015  1
+  Al  Al20  1  0.621015  0.614194  0.144070  1
+  Al  Al21  1  0.829152  0.828695  0.829152  1
+  Pd  Pd22  1  0.004663  0.003881  0.498883  1
+  Pd  Pd23  1  0.498883  0.003881  0.004663  1
+  Ru  Ru24  1  0.003268  0.498437  0.003268  1
+  Ru  Ru25  1  0.500289  0.501717  0.000060  1
+  Ru  Ru26  1  0.000060  0.501717  0.500289  1
+  Ru  Ru27  1  0.501827  0.997215  0.501827  1
+  Ru  Ru28  1  0.500469  0.499988  0.500469  1
+  Ru  Ru29  1  0.004202  0.005549  0.004202  1

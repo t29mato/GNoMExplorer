@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaCr(SeO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.00322838
+_cell_length_b   5.00467631
+_cell_length_c   7.31295416
+_cell_angle_alpha   91.33695578
+_cell_angle_beta   91.43231504
+_cell_angle_gamma   66.48214096
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCr(SeO4)2
+_chemical_formula_sum   'Na1 Cr1 Se2 O8'
+_cell_volume   167.83256744
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.999986  0.999968  0.499988  1
+  Cr  Cr1  1  0.000058  0.000057  0.000031  1
+  Se  Se2  1  0.362214  0.361059  0.218780  1
+  Se  Se3  1  0.637789  0.638957  0.781280  1
+  O  O4  1  0.237243  0.237200  0.034687  1
+  O  O5  1  0.731456  0.230807  0.203771  1
+  O  O6  1  0.233973  0.730008  0.202910  1
+  O  O7  1  0.284215  0.283713  0.420940  1
+  O  O8  1  0.715835  0.716249  0.579035  1
+  O  O9  1  0.765982  0.269996  0.797067  1
+  O  O10  1  0.268488  0.769206  0.796223  1
+  O  O11  1  0.762763  0.762784  0.965288  1

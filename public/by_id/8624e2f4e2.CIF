@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ba6NaLa(USe6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.96306978
+_cell_length_b   8.96306948
+_cell_length_c   8.96306927
+_cell_angle_alpha   91.24337906
+_cell_angle_beta   91.24338068
+_cell_angle_gamma   91.24338693
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba6NaLa(USe6)2
+_chemical_formula_sum   'Ba6 Na1 La1 U2 Se12'
+_cell_volume   719.54654454
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.873921  0.626079  0.250000  1
+  Ba  Ba1  1  0.250000  0.873921  0.626079  1
+  Ba  Ba2  1  0.626079  0.250000  0.873921  1
+  Ba  Ba3  1  0.750000  0.123182  0.376818  1
+  Ba  Ba4  1  0.376818  0.750000  0.123182  1
+  Ba  Ba5  1  0.123182  0.376818  0.750000  1
+  Na  Na6  1  0.750000  0.750000  0.750000  1
+  La  La7  1  0.250000  0.250000  0.250000  1
+  U  U8  1  0.506581  0.506581  0.506581  1
+  U  U9  1  0.993419  0.993419  0.993419  1
+  Se  Se10  1  0.200297  0.546250  0.411078  1
+  Se  Se11  1  0.411078  0.200297  0.546250  1
+  Se  Se12  1  0.546250  0.411078  0.200297  1
+  Se  Se13  1  0.918875  0.055514  0.700250  1
+  Se  Se14  1  0.700250  0.918875  0.055514  1
+  Se  Se15  1  0.055514  0.700250  0.918875  1
+  Se  Se16  1  0.799750  0.444486  0.581125  1
+  Se  Se17  1  0.581125  0.799750  0.444486  1
+  Se  Se18  1  0.444486  0.581125  0.799750  1
+  Se  Se19  1  0.088922  0.953750  0.299703  1
+  Se  Se20  1  0.299703  0.088922  0.953750  1
+  Se  Se21  1  0.953750  0.299703  0.088922  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ho3Tm(TiIr3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.59199152
+_cell_length_b   5.59196673
+_cell_length_c   8.10128826
+_cell_angle_alpha   89.99999771
+_cell_angle_beta   90.01190008
+_cell_angle_gamma   60.00014162
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho3Tm(TiIr3)2
+_chemical_formula_sum   'Ho3 Tm1 Ti2 Ir6'
+_cell_volume   219.38978755
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.666664  0.666669  0.439789  1
+  Ho  Ho1  1  0.666686  0.666657  0.060744  1
+  Ho  Ho2  1  0.333285  0.333357  0.938452  1
+  Tm  Tm3  1  0.333382  0.333309  0.560063  1
+  Ti  Ti4  1  0.000021  0.999989  0.499473  1
+  Ti  Ti5  1  0.999982  0.000010  0.000461  1
+  Ir  Ir6  1  0.829797  0.340406  0.749710  1
+  Ir  Ir7  1  0.340414  0.829793  0.749760  1
+  Ir  Ir8  1  0.829797  0.829797  0.749710  1
+  Ir  Ir9  1  0.170478  0.659032  0.250629  1
+  Ir  Ir10  1  0.659015  0.170492  0.250578  1
+  Ir  Ir11  1  0.170478  0.170488  0.250629  1

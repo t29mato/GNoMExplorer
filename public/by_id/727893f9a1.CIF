@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_LaSm4(FeB3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47205334
+_cell_length_b   5.47205448
+_cell_length_c   8.46645100
+_cell_angle_alpha   71.14580109
+_cell_angle_beta   71.14579775
+_cell_angle_gamma   59.99999872
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaSm4(FeB3)2
+_chemical_formula_sum   'La1 Sm4 Fe2 B6'
+_cell_volume   203.69143412
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.000000  0.000000  0.000000  1
+  Sm  Sm1  1  0.749338  0.749338  0.751988  1
+  Sm  Sm2  1  0.250662  0.250662  0.248012  1
+  Sm  Sm3  1  0.583073  0.583073  0.250782  1
+  Sm  Sm4  1  0.416927  0.416927  0.749218  1
+  Fe  Fe5  1  0.882922  0.882922  0.351235  1
+  Fe  Fe6  1  0.117078  0.117078  0.648765  1
+  B  B7  1  0.500000  0.166593  0.500000  1
+  B  B8  1  0.833407  0.500000  0.500000  1
+  B  B9  1  0.166593  0.833408  0.500000  1
+  B  B10  1  0.166593  0.500000  0.500000  1
+  B  B11  1  0.833407  0.166593  0.500000  1
+  B  B12  1  0.500000  0.833407  0.500000  1

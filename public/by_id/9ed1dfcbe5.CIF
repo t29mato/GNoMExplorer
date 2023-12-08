@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Sm2TeC2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.57535796
+_cell_length_b   7.57535883
+_cell_length_c   7.11550029
+_cell_angle_alpha   100.81672024
+_cell_angle_beta   100.81671452
+_cell_angle_gamma   32.77331917
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm2TeC2
+_chemical_formula_sum   'Sm4 Te2 C4'
+_cell_volume   216.76592872
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.460339  0.842089  0.142367  1
+  Sm  Sm1  1  0.157912  0.539661  0.357632  1
+  Sm  Sm2  1  0.842089  0.460339  0.642368  1
+  Sm  Sm3  1  0.539662  0.157912  0.857633  1
+  Te  Te4  1  0.791765  0.208235  0.250000  1
+  Te  Te5  1  0.208235  0.791765  0.750001  1
+  C  C6  1  0.102156  0.358611  0.033246  1
+  C  C7  1  0.641389  0.897845  0.466753  1
+  C  C8  1  0.358611  0.102156  0.533247  1
+  C  C9  1  0.897845  0.641389  0.966754  1

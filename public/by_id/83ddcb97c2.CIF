@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_Tb2Yb3(SnPb)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.93156300
+_cell_length_b   8.50429000
+_cell_length_c   16.24049100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2Yb3(SnPb)2
+_chemical_formula_sum   'Tb8 Yb12 Sn8 Pb8'
+_cell_volume   1095.45866443
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.670098  0.165645  0.623405  1
+  Tb  Tb1  1  0.170098  0.334355  0.876595  1
+  Tb  Tb2  1  0.329902  0.834355  0.123405  1
+  Tb  Tb3  1  0.829902  0.665645  0.376595  1
+  Tb  Tb4  1  0.329902  0.834355  0.376595  1
+  Tb  Tb5  1  0.829902  0.665645  0.123405  1
+  Tb  Tb6  1  0.670098  0.165645  0.876595  1
+  Tb  Tb7  1  0.170098  0.334355  0.623405  1
+  Yb  Yb8  1  0.501926  0.687636  0.594346  1
+  Yb  Yb9  1  0.001926  0.812364  0.905654  1
+  Yb  Yb10  1  0.498074  0.312364  0.094346  1
+  Yb  Yb11  1  0.998074  0.187636  0.405654  1
+  Yb  Yb12  1  0.498074  0.312364  0.405654  1
+  Yb  Yb13  1  0.998074  0.187636  0.094346  1
+  Yb  Yb14  1  0.501926  0.687636  0.905654  1
+  Yb  Yb15  1  0.001926  0.812364  0.594346  1
+  Yb  Yb16  1  0.832968  0.511213  0.750000  1
+  Yb  Yb17  1  0.332968  0.988787  0.750000  1
+  Yb  Yb18  1  0.167032  0.488787  0.250000  1
+  Yb  Yb19  1  0.667032  0.011213  0.250000  1
+  Sn  Sn20  1  0.468386  0.377259  0.750000  1
+  Sn  Sn21  1  0.968386  0.122741  0.750000  1
+  Sn  Sn22  1  0.531614  0.622741  0.250000  1
+  Sn  Sn23  1  0.031614  0.877259  0.250000  1
+  Sn  Sn24  1  0.713185  0.872581  0.750000  1
+  Sn  Sn25  1  0.213185  0.627419  0.750000  1
+  Sn  Sn26  1  0.286815  0.127419  0.250000  1
+  Sn  Sn27  1  0.786815  0.372581  0.250000  1
+  Pb  Pb28  1  0.677365  0.964908  0.458748  1
+  Pb  Pb29  1  0.177365  0.535092  0.041252  1
+  Pb  Pb30  1  0.322635  0.035092  0.958748  1
+  Pb  Pb31  1  0.822635  0.464908  0.541252  1
+  Pb  Pb32  1  0.322635  0.035092  0.541252  1
+  Pb  Pb33  1  0.822635  0.464908  0.958748  1
+  Pb  Pb34  1  0.677365  0.964908  0.041252  1
+  Pb  Pb35  1  0.177365  0.535092  0.458748  1

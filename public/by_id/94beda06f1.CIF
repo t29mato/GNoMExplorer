@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_HfPd7Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.28844411
+_cell_length_b   6.28844332
+_cell_length_c   6.31871135
+_cell_angle_alpha   95.73050080
+_cell_angle_beta   95.73049464
+_cell_angle_gamma   143.06712272
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfPd7Pt
+_chemical_formula_sum   'Hf1 Pd7 Pt1'
+_cell_volume   142.48686872
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.001482  0.001482  0.002964  1
+  Pd  Pd1  1  0.333686  0.665620  0.999306  1
+  Pd  Pd2  1  0.665620  0.333686  0.999306  1
+  Pd  Pd3  1  0.334685  0.334685  0.669369  1
+  Pd  Pd4  1  0.669315  0.999336  0.668652  1
+  Pd  Pd5  1  0.999336  0.669315  0.668652  1
+  Pd  Pd6  1  0.000324  0.331188  0.331513  1
+  Pd  Pd7  1  0.331188  0.000324  0.331513  1
+  Pt  Pt8  1  0.664364  0.664364  0.328727  1

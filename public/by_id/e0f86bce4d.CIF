@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Nb2VCo6(Ni7B3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.42599547
+_cell_length_b   7.43358614
+_cell_length_c   7.43358700
+_cell_angle_alpha   60.00000064
+_cell_angle_beta   59.96618155
+_cell_angle_gamma   59.96617614
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb2VCo6(Ni7B3)2
+_chemical_formula_sum   'Nb2 V1 Co6 Ni14 B6'
+_cell_volume   290.01087773
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.256186  0.247938  0.247938  1
+  Nb  Nb1  1  0.743814  0.752062  0.752062  1
+  V  V2  1  0.000000  0.000000  0.000000  1
+  Co  Co3  1  0.383442  0.383161  0.383161  1
+  Co  Co4  1  0.616558  0.616839  0.616839  1
+  Co  Co5  1  0.383442  0.383161  0.850237  1
+  Co  Co6  1  0.383442  0.850237  0.383161  1
+  Co  Co7  1  0.616558  0.616839  0.149763  1
+  Co  Co8  1  0.616558  0.149763  0.616839  1
+  Ni  Ni9  1  0.847108  0.384297  0.384297  1
+  Ni  Ni10  1  0.152892  0.615703  0.615703  1
+  Ni  Ni11  1  0.337488  0.000695  0.000695  1
+  Ni  Ni12  1  0.662512  0.999305  0.999305  1
+  Ni  Ni13  1  0.000000  0.338790  0.661210  1
+  Ni  Ni14  1  0.000000  0.661210  0.338790  1
+  Ni  Ni15  1  0.000000  0.338790  0.000000  1
+  Ni  Ni16  1  0.662512  0.999305  0.338877  1
+  Ni  Ni17  1  0.000000  0.661210  0.000000  1
+  Ni  Ni18  1  0.337488  0.000695  0.661123  1
+  Ni  Ni19  1  0.000000  0.000000  0.338790  1
+  Ni  Ni20  1  0.000000  0.000000  0.661210  1
+  Ni  Ni21  1  0.662512  0.338877  0.999305  1
+  Ni  Ni22  1  0.337488  0.661123  0.000695  1
+  B  B23  1  0.725498  0.273005  0.273005  1
+  B  B24  1  0.274502  0.726995  0.726995  1
+  B  B25  1  0.274502  0.726995  0.271508  1
+  B  B26  1  0.725498  0.273005  0.728492  1
+  B  B27  1  0.274502  0.271508  0.726995  1
+  B  B28  1  0.725498  0.728492  0.273005  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Pa2NbTcC4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.34512700
+_cell_length_b   5.77103700
+_cell_length_c   11.09267400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pa2NbTcC4
+_chemical_formula_sum   'Pa4 Nb2 Tc2 C8'
+_cell_volume   214.14242638
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pa  Pa0  1  0.250000  0.082489  0.854337  1
+  Pa  Pa1  1  0.250000  0.582489  0.645663  1
+  Pa  Pa2  1  0.750000  0.918348  0.139657  1
+  Pa  Pa3  1  0.750000  0.418348  0.360343  1
+  Nb  Nb4  1  0.250000  0.418859  0.096846  1
+  Nb  Nb5  1  0.250000  0.918859  0.403154  1
+  Tc  Tc6  1  0.750000  0.581530  0.897609  1
+  Tc  Tc7  1  0.750000  0.081530  0.602391  1
+  C  C8  1  0.250000  0.162709  0.244322  1
+  C  C9  1  0.250000  0.662709  0.255678  1
+  C  C10  1  0.750000  0.840354  0.750737  1
+  C  C11  1  0.750000  0.340354  0.749263  1
+  C  C12  1  0.250000  0.744111  0.986397  1
+  C  C13  1  0.250000  0.244111  0.513603  1
+  C  C14  1  0.750000  0.251600  0.003461  1
+  C  C15  1  0.750000  0.751600  0.496539  1

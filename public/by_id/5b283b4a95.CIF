@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_LaCe4(TcB3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.48846124
+_cell_length_b   5.48846297
+_cell_length_c   8.76533508
+_cell_angle_alpha   71.75518937
+_cell_angle_beta   71.75519541
+_cell_angle_gamma   59.99999082
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaCe4(TcB3)2
+_chemical_formula_sum   'La1 Ce4 Tc2 B6'
+_cell_volume   213.20026427
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.000000  0.000000  0.000000  1
+  Ce  Ce1  1  0.751239  0.751239  0.746283  1
+  Ce  Ce2  1  0.248761  0.248761  0.253717  1
+  Ce  Ce3  1  0.582325  0.582325  0.253024  1
+  Ce  Ce4  1  0.417675  0.417675  0.746976  1
+  Tc  Tc5  1  0.887921  0.887921  0.336240  1
+  Tc  Tc6  1  0.112079  0.112079  0.663761  1
+  B  B7  1  0.500000  0.171141  0.500000  1
+  B  B8  1  0.828859  0.500000  0.500000  1
+  B  B9  1  0.171141  0.828859  0.500000  1
+  B  B10  1  0.171141  0.500000  0.500000  1
+  B  B11  1  0.828859  0.171141  0.500000  1
+  B  B12  1  0.500000  0.828859  0.500000  1

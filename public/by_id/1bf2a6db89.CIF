@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Sr6CaCd(NiO6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.76140639
+_cell_length_b   6.76140634
+_cell_length_c   6.76140702
+_cell_angle_alpha   91.00207687
+_cell_angle_beta   91.00208131
+_cell_angle_gamma   91.00206716
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr6CaCd(NiO6)2
+_chemical_formula_sum   'Sr6 Ca1 Cd1 Ni2 O12'
+_cell_volume   308.96514942
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.881280  0.250000  0.618720  1
+  Sr  Sr1  1  0.385123  0.114877  0.750000  1
+  Sr  Sr2  1  0.750000  0.385123  0.114877  1
+  Sr  Sr3  1  0.250000  0.618720  0.881280  1
+  Sr  Sr4  1  0.618720  0.881280  0.250000  1
+  Sr  Sr5  1  0.114877  0.750000  0.385123  1
+  Ca  Ca6  1  0.250000  0.250000  0.250000  1
+  Cd  Cd7  1  0.750000  0.750000  0.750000  1
+  Ni  Ni8  1  0.498522  0.498522  0.498522  1
+  Ni  Ni9  1  0.001478  0.001478  0.001478  1
+  O  O10  1  0.923477  0.727030  0.053015  1
+  O  O11  1  0.446985  0.772970  0.576523  1
+  O  O12  1  0.053015  0.923477  0.727030  1
+  O  O13  1  0.275398  0.949530  0.079470  1
+  O  O14  1  0.949530  0.079470  0.275398  1
+  O  O15  1  0.727030  0.053015  0.923477  1
+  O  O16  1  0.576523  0.446985  0.772970  1
+  O  O17  1  0.772970  0.576523  0.446985  1
+  O  O18  1  0.420530  0.550470  0.224602  1
+  O  O19  1  0.224602  0.420530  0.550470  1
+  O  O20  1  0.550470  0.224602  0.420530  1
+  O  O21  1  0.079470  0.275398  0.949530  1

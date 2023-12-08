@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Tb3YAl2(HgPd2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.41234100
+_cell_length_b   7.03246229
+_cell_length_c   8.18860119
+_cell_angle_alpha   88.47405656
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb3YAl2(HgPd2)2
+_chemical_formula_sum   'Tb3 Y1 Al2 Hg2 Pd4'
+_cell_volume   253.99908958
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.750000  0.467758  0.183855  1
+  Tb  Tb1  1  0.250000  0.032580  0.688627  1
+  Tb  Tb2  1  0.750000  0.967324  0.311399  1
+  Y  Y3  1  0.250000  0.532153  0.815882  1
+  Al  Al4  1  0.250000  0.146008  0.057383  1
+  Al  Al5  1  0.750000  0.853949  0.942408  1
+  Hg  Hg6  1  0.250000  0.657368  0.431971  1
+  Hg  Hg7  1  0.750000  0.342712  0.568131  1
+  Pd  Pd8  1  0.750000  0.756501  0.642359  1
+  Pd  Pd9  1  0.250000  0.243457  0.357721  1
+  Pd  Pd10  1  0.750000  0.224132  0.905922  1
+  Pd  Pd11  1  0.250000  0.776060  0.094341  1

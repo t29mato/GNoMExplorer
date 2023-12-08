@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_CeEr15(CdFe)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.45169846
+_cell_length_b   9.45169923
+_cell_length_c   9.26977400
+_cell_angle_alpha   60.63469830
+_cell_angle_beta   60.63469565
+_cell_angle_gamma   60.08257436
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeEr15(CdFe)4
+_chemical_formula_sum   'Ce1 Er15 Cd4 Fe4'
+_cell_volume   591.49312500
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.431871  0.431871  0.068129  1
+  Er  Er1  1  0.600156  0.600156  0.590330  1
+  Er  Er2  1  0.191938  0.806744  0.809708  1
+  Er  Er3  1  0.059709  0.059709  0.440291  1
+  Er  Er4  1  0.438120  0.056314  0.065026  1
+  Er  Er5  1  0.806744  0.191938  0.809708  1
+  Er  Er6  1  0.438120  0.056314  0.440540  1
+  Er  Er7  1  0.590836  0.218124  0.595520  1
+  Er  Er8  1  0.814767  0.814767  0.185233  1
+  Er  Er9  1  0.218124  0.590836  0.595520  1
+  Er  Er10  1  0.806744  0.191938  0.191610  1
+  Er  Er11  1  0.056314  0.438120  0.440540  1
+  Er  Er12  1  0.191938  0.806744  0.191610  1
+  Er  Er13  1  0.600156  0.600156  0.209359  1
+  Er  Er14  1  0.178594  0.178594  0.821406  1
+  Er  Er15  1  0.056314  0.438120  0.065026  1
+  Cd  Cd16  1  0.830730  0.830730  0.509069  1
+  Cd  Cd17  1  0.830730  0.830730  0.829471  1
+  Cd  Cd18  1  0.509739  0.835053  0.827603  1
+  Cd  Cd19  1  0.835053  0.509739  0.827603  1
+  Fe  Fe20  1  0.401611  0.401611  0.338697  1
+  Fe  Fe21  1  0.829782  0.380301  0.394959  1
+  Fe  Fe22  1  0.380301  0.829782  0.394959  1
+  Fe  Fe23  1  0.401611  0.401611  0.858083  1

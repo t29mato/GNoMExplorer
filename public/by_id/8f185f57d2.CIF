@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_LuPa2(GaIr)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.18418700
+_cell_length_b   7.18480262
+_cell_length_c   3.87883700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99717027
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuPa2(GaIr)3
+_chemical_formula_sum   'Lu1 Pa2 Ga3 Ir3'
+_cell_volume   173.39517721
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.405733  0.000000  0.500000  1
+  Pa  Pa1  1  0.000509  0.413541  0.500000  1
+  Pa  Pa2  1  0.586967  0.586459  0.500000  1
+  Ga  Ga3  1  0.013799  0.765153  0.000000  1
+  Ga  Ga4  1  0.248647  0.234847  0.000000  1
+  Ga  Ga5  1  0.739178  0.000000  0.000000  1
+  Ir  Ir6  1  0.330802  0.645521  0.000000  1
+  Ir  Ir7  1  0.685281  0.354479  0.000000  1
+  Ir  Ir8  1  0.989085  0.000000  0.500000  1

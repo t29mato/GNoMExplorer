@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Y2GaSiNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.21430500
+_cell_length_b   6.89056931
+_cell_length_c   7.28454392
+_cell_angle_alpha   90.96105471
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2GaSiNi2
+_chemical_formula_sum   'Y4 Ga2 Si2 Ni4'
+_cell_volume   211.50582719
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.250000  0.486518  0.204350  1
+  Y  Y1  1  0.750000  0.513482  0.795650  1
+  Y  Y2  1  0.250000  0.989401  0.302961  1
+  Y  Y3  1  0.750000  0.010599  0.697039  1
+  Ga  Ga4  1  0.250000  0.814792  0.917671  1
+  Ga  Ga5  1  0.750000  0.185208  0.082329  1
+  Si  Si6  1  0.250000  0.311322  0.586028  1
+  Si  Si7  1  0.750000  0.688678  0.413972  1
+  Ni  Ni8  1  0.750000  0.793289  0.098732  1
+  Ni  Ni9  1  0.250000  0.206711  0.901268  1
+  Ni  Ni10  1  0.750000  0.314261  0.424383  1
+  Ni  Ni11  1  0.250000  0.685739  0.575617  1

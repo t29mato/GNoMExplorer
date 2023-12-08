@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_PrSm4(TcB3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.58237030
+_cell_length_b   5.58237077
+_cell_length_c   8.74212141
+_cell_angle_alpha   71.38060875
+_cell_angle_beta   71.38061104
+_cell_angle_gamma   60.00000595
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrSm4(TcB3)2
+_chemical_formula_sum   'Pr1 Sm4 Tc2 B6'
+_cell_volume   219.31173586
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.000000  0.000000  0.000000  1
+  Sm  Sm1  1  0.751745  0.751745  0.744764  1
+  Sm  Sm2  1  0.248255  0.248255  0.255236  1
+  Sm  Sm3  1  0.581239  0.581239  0.256283  1
+  Sm  Sm4  1  0.418761  0.418761  0.743717  1
+  Tc  Tc5  1  0.886308  0.886308  0.341077  1
+  Tc  Tc6  1  0.113692  0.113692  0.658923  1
+  B  B7  1  0.500000  0.169149  0.500000  1
+  B  B8  1  0.830851  0.500000  0.500000  1
+  B  B9  1  0.169149  0.830852  0.500000  1
+  B  B10  1  0.169149  0.500000  0.500000  1
+  B  B11  1  0.830851  0.169149  0.500000  1
+  B  B12  1  0.500000  0.830851  0.500000  1

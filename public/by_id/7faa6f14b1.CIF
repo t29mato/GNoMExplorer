@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_YHoSi2(Os2C)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.89443183
+_cell_length_b   5.89443192
+_cell_length_c   7.13871600
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   141.66471355
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YHoSi2(Os2C)2
+_chemical_formula_sum   'Y1 Ho1 Si2 Os4 C2'
+_cell_volume   153.84356882
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.547486  0.452514  0.250000  1
+  Ho  Ho1  1  0.452442  0.547558  0.750000  1
+  Si  Si2  1  0.269182  0.730818  0.250000  1
+  Si  Si3  1  0.730869  0.269131  0.750000  1
+  Os  Os4  1  0.834831  0.165169  0.057038  1
+  Os  Os5  1  0.165293  0.834707  0.942223  1
+  Os  Os6  1  0.165293  0.834707  0.557777  1
+  Os  Os7  1  0.834831  0.165169  0.442962  1
+  C  C8  1  0.999887  0.000113  0.998485  1
+  C  C9  1  0.999887  0.000113  0.501515  1

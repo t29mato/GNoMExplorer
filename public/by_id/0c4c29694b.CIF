@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_DyYSi2(Tc2C)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.82250014
+_cell_length_b   5.82250037
+_cell_length_c   7.26046700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   140.71282630
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyYSi2(Tc2C)2
+_chemical_formula_sum   'Dy1 Y1 Si2 Tc4 C2'
+_cell_volume   155.85822409
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.544364  0.455636  0.250000  1
+  Y  Y1  1  0.455679  0.544321  0.750000  1
+  Si  Si2  1  0.267811  0.732189  0.250000  1
+  Si  Si3  1  0.732111  0.267889  0.750000  1
+  Tc  Tc4  1  0.828624  0.171376  0.060563  1
+  Tc  Tc5  1  0.171313  0.828687  0.939760  1
+  Tc  Tc6  1  0.171313  0.828687  0.560240  1
+  Tc  Tc7  1  0.828624  0.171376  0.439437  1
+  C  C8  1  0.000080  0.999920  0.000696  1
+  C  C9  1  0.000080  0.999920  0.499304  1

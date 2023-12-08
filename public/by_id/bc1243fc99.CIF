@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Rb4NiP4Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.01622092
+_cell_length_b   8.01622037
+_cell_length_c   5.98545203
+_cell_angle_alpha   91.72920226
+_cell_angle_beta   88.27079533
+_cell_angle_gamma   130.48365952
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb4NiP4Pd
+_chemical_formula_sum   'Rb4 Ni1 P4 Pd1'
+_cell_volume   292.37998179
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.786831  0.213169  0.246468  1
+  Rb  Rb1  1  0.213169  0.786831  0.753532  1
+  Rb  Rb2  1  0.419359  0.580641  0.252354  1
+  Rb  Rb3  1  0.580641  0.419359  0.747646  1
+  Ni  Ni4  1  0.000000  0.000000  0.500000  1
+  P  P5  1  0.936574  0.738482  0.265941  1
+  P  P6  1  0.063426  0.261518  0.734059  1
+  P  P7  1  0.261518  0.063426  0.265941  1
+  P  P8  1  0.738482  0.936574  0.734059  1
+  Pd  Pd9  1  0.000000  0.000000  0.000000  1

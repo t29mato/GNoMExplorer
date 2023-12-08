@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_ScTa(NbB2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.63083544
+_cell_length_b   11.63083554
+_cell_length_c   3.35380400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   164.44765535
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScTa(NbB2)3
+_chemical_formula_sum   'Sc1 Ta1 Nb3 B6'
+_cell_volume   121.64282199
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.000030  0.999970  0.000000  1
+  Ta  Ta1  1  0.613871  0.386129  0.000000  1
+  Nb  Nb2  1  0.194335  0.805665  0.500000  1
+  Nb  Nb3  1  0.805524  0.194476  0.500000  1
+  Nb  Nb4  1  0.385936  0.614064  0.000000  1
+  B  B5  1  0.460199  0.539801  0.500000  1
+  B  B6  1  0.539950  0.460050  0.500000  1
+  B  B7  1  0.271418  0.728582  0.000000  1
+  B  B8  1  0.728283  0.271717  0.000000  1
+  B  B9  1  0.081659  0.918341  0.500000  1
+  B  B10  1  0.918795  0.081205  0.500000  1

@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Mg5Sc(Si8Ir3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.66754300
+_cell_length_b   8.66754219
+_cell_length_c   8.66754300
+_cell_angle_alpha   119.99999926
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999926
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg5Sc(Si8Ir3)2
+_chemical_formula_sum   'Mg5 Sc1 Si16 Ir6'
+_cell_volume   460.43993745
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.650734  0.301469  0.349266  1
+  Mg  Mg1  1  0.047797  0.698531  0.349266  1
+  Mg  Mg2  1  0.650734  0.698531  0.349266  1
+  Mg  Mg3  1  0.250000  0.500001  0.750001  1
+  Mg  Mg4  1  0.650734  0.301469  0.952203  1
+  Sc  Sc5  1  0.000000  0.000000  0.000000  1
+  Si  Si6  1  0.425863  0.851727  0.277590  1
+  Si  Si7  1  0.030139  0.060278  0.391171  1
+  Si  Si8  1  0.030139  0.361032  0.391171  1
+  Si  Si9  1  0.330893  0.361032  0.391171  1
+  Si  Si10  1  0.425863  0.148273  0.574137  1
+  Si  Si11  1  0.722410  0.148273  0.574137  1
+  Si  Si12  1  0.425863  0.851727  0.574137  1
+  Si  Si13  1  0.030139  0.060278  0.669107  1
+  Si  Si14  1  0.030139  0.638968  0.669107  1
+  Si  Si15  1  0.608829  0.638968  0.669107  1
+  Si  Si16  1  0.030139  0.361032  0.969861  1
+  Si  Si17  1  0.330893  0.361032  0.969861  1
+  Si  Si18  1  0.030139  0.638968  0.969861  1
+  Si  Si19  1  0.608829  0.638968  0.969861  1
+  Si  Si20  1  0.330893  0.939722  0.969861  1
+  Si  Si21  1  0.608829  0.939722  0.969861  1
+  Ir  Ir22  1  0.745938  0.000000  0.254062  1
+  Ir  Ir23  1  0.254062  0.000000  0.254062  1
+  Ir  Ir24  1  0.254062  0.508122  0.254062  1
+  Ir  Ir25  1  0.254062  0.000000  0.745938  1
+  Ir  Ir26  1  0.745938  0.000000  0.745938  1
+  Ir  Ir27  1  0.745938  0.491878  0.745938  1

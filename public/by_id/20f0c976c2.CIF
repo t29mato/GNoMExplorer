@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Ba5Si2Pb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.59680400
+_cell_length_b   8.59680400
+_cell_length_c   17.63200800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba5Si2Pb
+_chemical_formula_sum   'Ba20 Si8 Pb4'
+_cell_volume   1303.09423914
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.311655  0.669532  0.112828  1
+  Ba  Ba1  1  0.169532  0.188345  0.112828  1
+  Ba  Ba2  1  0.500000  0.000000  0.733528  1
+  Ba  Ba3  1  0.330468  0.688345  0.387172  1
+  Ba  Ba4  1  0.669532  0.688345  0.887172  1
+  Ba  Ba5  1  0.188345  0.169532  0.387172  1
+  Ba  Ba6  1  0.669532  0.311655  0.387172  1
+  Ba  Ba7  1  0.169532  0.811655  0.612828  1
+  Ba  Ba8  1  0.330468  0.311655  0.887172  1
+  Ba  Ba9  1  0.188345  0.830468  0.887172  1
+  Ba  Ba10  1  0.500000  0.000000  0.233528  1
+  Ba  Ba11  1  0.830468  0.188345  0.612828  1
+  Ba  Ba12  1  0.311655  0.330468  0.612828  1
+  Ba  Ba13  1  0.811655  0.830468  0.387172  1
+  Ba  Ba14  1  0.811655  0.169532  0.887172  1
+  Ba  Ba15  1  0.830468  0.811655  0.112828  1
+  Ba  Ba16  1  0.000000  0.500000  0.266472  1
+  Ba  Ba17  1  0.000000  0.500000  0.766472  1
+  Ba  Ba18  1  0.688345  0.330468  0.112828  1
+  Ba  Ba19  1  0.688345  0.669532  0.612828  1
+  Si  Si20  1  0.100634  0.100634  0.750000  1
+  Si  Si21  1  0.399366  0.600634  0.750000  1
+  Si  Si22  1  0.600634  0.600634  0.250000  1
+  Si  Si23  1  0.100634  0.899366  0.250000  1
+  Si  Si24  1  0.600634  0.399366  0.750000  1
+  Si  Si25  1  0.899366  0.899366  0.750000  1
+  Si  Si26  1  0.399366  0.399366  0.250000  1
+  Si  Si27  1  0.899366  0.100634  0.250000  1
+  Pb  Pb28  1  0.000000  0.500000  0.988072  1
+  Pb  Pb29  1  0.500000  0.000000  0.011928  1
+  Pb  Pb30  1  0.500000  0.000000  0.511928  1
+  Pb  Pb31  1  0.000000  0.500000  0.488072  1

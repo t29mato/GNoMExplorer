@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_ZrSc(ZnCo)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.88405035
+_cell_length_b   4.88405008
+_cell_length_c   5.18011500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   131.30143486
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrSc(ZnCo)2
+_chemical_formula_sum   'Zr1 Sc1 Zn2 Co2'
+_cell_volume   92.82880143
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.708691  0.291309  0.250000  1
+  Sc  Sc1  1  0.291411  0.708589  0.750000  1
+  Zn  Zn2  1  0.001849  0.998151  0.500725  1
+  Zn  Zn3  1  0.001849  0.998151  0.999275  1
+  Co  Co4  1  0.406236  0.593764  0.250000  1
+  Co  Co5  1  0.589963  0.410037  0.750000  1

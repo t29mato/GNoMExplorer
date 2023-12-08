@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sr3La(BeSi3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.01177900
+_cell_length_b   8.04041515
+_cell_length_c   4.63656900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.88225133
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3La(BeSi3)2
+_chemical_formula_sum   'Sr3 La1 Be2 Si6'
+_cell_volume   258.96964858
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.000000  0.000000  0.500000  1
+  Sr  Sr1  1  0.000000  0.500000  0.500000  1
+  Sr  Sr2  1  0.500000  0.500000  0.500000  1
+  La  La3  1  0.500000  0.000000  0.500000  1
+  Be  Be4  1  0.333851  0.667704  0.000000  1
+  Be  Be5  1  0.666149  0.332296  0.000000  1
+  Si  Si6  1  0.172094  0.344188  0.000000  1
+  Si  Si7  1  0.655414  0.829748  0.000000  1
+  Si  Si8  1  0.344586  0.170252  0.000000  1
+  Si  Si9  1  0.174334  0.829748  0.000000  1
+  Si  Si10  1  0.827906  0.655812  0.000000  1
+  Si  Si11  1  0.825666  0.170252  0.000000  1

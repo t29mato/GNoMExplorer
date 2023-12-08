@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Hf4Al4W3Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.33413947
+_cell_length_b   5.33413917
+_cell_length_c   8.69975100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.68205017
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf4Al4W3Au
+_chemical_formula_sum   'Hf4 Al4 W3 Au1'
+_cell_volume   215.05457760
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.666448  0.333552  0.306414  1
+  Hf  Hf1  1  0.334600  0.665400  0.180878  1
+  Hf  Hf2  1  0.334600  0.665400  0.819122  1
+  Hf  Hf3  1  0.666448  0.333552  0.693586  1
+  Al  Al4  1  0.001445  0.998555  0.252157  1
+  Al  Al5  1  0.001445  0.998555  0.747843  1
+  Al  Al6  1  0.651417  0.830252  0.500000  1
+  Al  Al7  1  0.169748  0.348583  0.500000  1
+  W  W8  1  0.342640  0.167734  0.000000  1
+  W  W9  1  0.832266  0.657360  0.000000  1
+  W  W10  1  0.831410  0.168590  0.000000  1
+  Au  Au11  1  0.167692  0.832308  0.500000  1

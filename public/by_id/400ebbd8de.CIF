@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Hf6Al16Fe(Cu2Ir)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.64820628
+_cell_length_b   8.64820600
+_cell_length_c   8.60555500
+_cell_angle_alpha   60.16300429
+_cell_angle_beta   60.16300538
+_cell_angle_gamma   59.67398150
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf6Al16Fe(Cu2Ir)2
+_chemical_formula_sum   'Hf6 Al16 Fe1 Cu4 Ir2'
+_cell_volume   455.08749349
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.685867  0.314133  0.314133  1
+  Hf  Hf1  1  0.314133  0.685867  0.685867  1
+  Hf  Hf2  1  0.314133  0.685867  0.314133  1
+  Hf  Hf3  1  0.685867  0.314133  0.685867  1
+  Hf  Hf4  1  0.308862  0.308862  0.691138  1
+  Hf  Hf5  1  0.691138  0.691138  0.308862  1
+  Al  Al6  1  0.332327  0.332327  0.336313  1
+  Al  Al7  1  0.667673  0.667673  0.663687  1
+  Al  Al8  1  0.332327  0.332327  0.999031  1
+  Al  Al9  1  0.336313  0.999031  0.332327  1
+  Al  Al10  1  0.667673  0.667673  0.000969  1
+  Al  Al11  1  0.663687  0.000969  0.667673  1
+  Al  Al12  1  0.999031  0.336313  0.332327  1
+  Al  Al13  1  0.000969  0.663687  0.667673  1
+  Al  Al14  1  0.113244  0.113244  0.121538  1
+  Al  Al15  1  0.886756  0.886756  0.878462  1
+  Al  Al16  1  0.113244  0.113244  0.651972  1
+  Al  Al17  1  0.121538  0.651972  0.113244  1
+  Al  Al18  1  0.886756  0.886756  0.348028  1
+  Al  Al19  1  0.878462  0.348028  0.886756  1
+  Al  Al20  1  0.651972  0.121538  0.113244  1
+  Al  Al21  1  0.348028  0.878462  0.886756  1
+  Fe  Fe22  1  0.000000  0.000000  0.000000  1
+  Cu  Cu23  1  0.500000  0.000000  0.000000  1
+  Cu  Cu24  1  0.000000  0.500000  0.500000  1
+  Cu  Cu25  1  0.000000  0.500000  0.000000  1
+  Cu  Cu26  1  0.500000  0.000000  0.500000  1
+  Ir  Ir27  1  0.000000  0.000000  0.500000  1
+  Ir  Ir28  1  0.500000  0.500000  0.000000  1

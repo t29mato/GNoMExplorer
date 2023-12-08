@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_K(CoSe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.03372000
+_cell_length_b   6.98997800
+_cell_length_c   16.01192000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K(CoSe2)2
+_chemical_formula_sum   'K4 Co8 Se16'
+_cell_volume   675.31185373
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.351275  0.000000  0.000000  1
+  K  K1  1  0.648725  0.500000  0.500000  1
+  K  K2  1  0.030503  0.000000  0.500000  1
+  K  K3  1  0.969497  0.500000  0.000000  1
+  Co  Co4  1  0.002428  0.000000  0.251139  1
+  Co  Co5  1  0.002428  0.000000  0.748861  1
+  Co  Co6  1  0.997572  0.500000  0.248861  1
+  Co  Co7  1  0.997572  0.500000  0.751139  1
+  Co  Co8  1  0.500000  0.250000  0.250000  1
+  Co  Co9  1  0.500000  0.750000  0.750000  1
+  Co  Co10  1  0.500000  0.750000  0.250000  1
+  Co  Co11  1  0.500000  0.250000  0.750000  1
+  Se  Se12  1  0.834260  0.251065  0.330297  1
+  Se  Se13  1  0.834260  0.748935  0.669703  1
+  Se  Se14  1  0.165740  0.751065  0.169703  1
+  Se  Se15  1  0.165740  0.248935  0.830297  1
+  Se  Se16  1  0.165740  0.248935  0.169703  1
+  Se  Se17  1  0.165740  0.751065  0.830297  1
+  Se  Se18  1  0.834260  0.748935  0.330297  1
+  Se  Se19  1  0.834260  0.251065  0.669703  1
+  Se  Se20  1  0.670470  0.000000  0.169846  1
+  Se  Se21  1  0.670470  0.000000  0.830154  1
+  Se  Se22  1  0.329530  0.500000  0.330154  1
+  Se  Se23  1  0.329530  0.500000  0.669846  1
+  Se  Se24  1  0.338786  0.000000  0.330727  1
+  Se  Se25  1  0.338786  0.000000  0.669273  1
+  Se  Se26  1  0.661214  0.500000  0.169273  1
+  Se  Se27  1  0.661214  0.500000  0.830727  1

@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Pr12C3SCl12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.87886347
+_cell_length_b   9.87886421
+_cell_length_c   9.87886341
+_cell_angle_alpha   109.93149903
+_cell_angle_beta   109.93150244
+_cell_angle_gamma   109.93150569
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr12C3SCl12
+_chemical_formula_sum   'Pr12 C3 S1 Cl12'
+_cell_volume   729.24105947
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.472818  0.495997  0.226968  1
+  Pr  Pr1  1  0.750000  0.231246  0.268754  1
+  Pr  Pr2  1  0.750000  0.016996  0.483004  1
+  Pr  Pr3  1  0.226968  0.472818  0.495997  1
+  Pr  Pr4  1  0.268754  0.750000  0.231246  1
+  Pr  Pr5  1  0.027182  0.273032  0.004003  1
+  Pr  Pr6  1  0.004003  0.027182  0.273032  1
+  Pr  Pr7  1  0.483004  0.750000  0.016996  1
+  Pr  Pr8  1  0.495997  0.226968  0.472818  1
+  Pr  Pr9  1  0.016996  0.483004  0.750000  1
+  Pr  Pr10  1  0.273032  0.004003  0.027182  1
+  Pr  Pr11  1  0.231246  0.268754  0.750000  1
+  C  C12  1  0.499537  0.000463  0.250000  1
+  C  C13  1  0.000463  0.250000  0.499537  1
+  C  C14  1  0.250000  0.499537  0.000463  1
+  S  S15  1  0.250000  0.250000  0.250000  1
+  Cl  Cl16  1  0.250000  0.756976  0.743024  1
+  Cl  Cl17  1  0.510462  0.505103  0.756655  1
+  Cl  Cl18  1  0.989538  0.743345  0.994897  1
+  Cl  Cl19  1  0.743024  0.250000  0.756976  1
+  Cl  Cl20  1  0.994897  0.989538  0.743345  1
+  Cl  Cl21  1  0.250000  0.994456  0.505544  1
+  Cl  Cl22  1  0.756655  0.510462  0.505103  1
+  Cl  Cl23  1  0.505544  0.250000  0.994456  1
+  Cl  Cl24  1  0.756976  0.743024  0.250000  1
+  Cl  Cl25  1  0.743345  0.994897  0.989538  1
+  Cl  Cl26  1  0.994456  0.505544  0.250000  1
+  Cl  Cl27  1  0.505103  0.756655  0.510462  1

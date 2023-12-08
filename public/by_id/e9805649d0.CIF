@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CoSi4Mo4Ir3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.84674300
+_cell_length_b   6.16753825
+_cell_length_c   7.09079904
+_cell_angle_alpha   89.98575924
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoSi4Mo4Ir3
+_chemical_formula_sum   'Co1 Si4 Mo4 Ir3'
+_cell_volume   168.22873834
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.750000  0.856365  0.559068  1
+  Si  Si1  1  0.750000  0.741738  0.865394  1
+  Si  Si2  1  0.250000  0.762853  0.387158  1
+  Si  Si3  1  0.750000  0.231970  0.621952  1
+  Si  Si4  1  0.250000  0.259397  0.122591  1
+  Mo  Mo5  1  0.250000  0.023519  0.826117  1
+  Mo  Mo6  1  0.750000  0.479083  0.332205  1
+  Mo  Mo7  1  0.250000  0.532416  0.672483  1
+  Mo  Mo8  1  0.750000  0.968599  0.170666  1
+  Ir  Ir9  1  0.250000  0.647916  0.064665  1
+  Ir  Ir10  1  0.750000  0.353305  0.937552  1
+  Ir  Ir11  1  0.250000  0.142839  0.440150  1

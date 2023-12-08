@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Y5Er5Si5Bi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.55587350
+_cell_length_b   8.55587501
+_cell_length_c   6.32938100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.26855021
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y5Er5Si5Bi
+_chemical_formula_sum   'Y5 Er5 Si5 Bi1'
+_cell_volume   400.16494839
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.239859  0.985332  0.500000  1
+  Y  Y1  1  0.985332  0.239859  0.500000  1
+  Y  Y2  1  0.241819  0.241819  0.000000  1
+  Y  Y3  1  0.754814  0.998478  0.000000  1
+  Y  Y4  1  0.998478  0.754814  0.000000  1
+  Er  Er5  1  0.676128  0.330994  0.245019  1
+  Er  Er6  1  0.330994  0.676128  0.245019  1
+  Er  Er7  1  0.330994  0.676128  0.754981  1
+  Er  Er8  1  0.676128  0.330994  0.754981  1
+  Er  Er9  1  0.766250  0.766250  0.500000  1
+  Si  Si10  1  0.604459  0.997904  0.500000  1
+  Si  Si11  1  0.997904  0.604459  0.500000  1
+  Si  Si12  1  0.606364  0.606364  0.000000  1
+  Si  Si13  1  0.394121  0.002006  0.000000  1
+  Si  Si14  1  0.002006  0.394121  0.000000  1
+  Bi  Bi15  1  0.394398  0.394398  0.500000  1

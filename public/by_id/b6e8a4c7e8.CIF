@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Tb2ThIn3Ir2Ru
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.57329652
+_cell_length_b   7.57329690
+_cell_length_c   3.95151700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   118.49289923
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2ThIn3Ir2Ru
+_chemical_formula_sum   'Tb2 Th1 In3 Ir2 Ru1'
+_cell_volume   199.18724428
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.592635  0.997595  0.000000  1
+  Tb  Tb1  1  0.997595  0.592635  0.000000  1
+  Th  Th2  1  0.416252  0.416252  0.000000  1
+  In  In3  1  0.989714  0.254073  0.500000  1
+  In  In4  1  0.758008  0.758008  0.500000  1
+  In  In5  1  0.254073  0.989714  0.500000  1
+  Ir  Ir6  1  0.332975  0.650979  0.500000  1
+  Ir  Ir7  1  0.650979  0.332975  0.500000  1
+  Ru  Ru8  1  0.007768  0.007768  0.000000  1

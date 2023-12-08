@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Tb3DyAl12(GaIr)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.54027006
+_cell_length_b   7.54066749
+_cell_length_c   9.59575700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.63145913
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb3DyAl12(GaIr)6
+_chemical_formula_sum   'Tb3 Dy1 Al12 Ga6 Ir6'
+_cell_volume   474.25010813
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.996127  0.669651  0.750000  1
+  Tb  Tb1  1  0.003890  0.330340  0.250000  1
+  Tb  Tb2  1  0.669650  0.996126  0.750000  1
+  Dy  Dy3  1  0.330338  0.003878  0.250000  1
+  Al  Al4  1  0.001736  0.334565  0.572663  1
+  Al  Al5  1  0.998380  0.665562  0.427274  1
+  Al  Al6  1  0.998380  0.665562  0.072726  1
+  Al  Al7  1  0.334567  0.001736  0.927440  1
+  Al  Al8  1  0.001736  0.334565  0.927337  1
+  Al  Al9  1  0.665310  0.998262  0.072730  1
+  Al  Al10  1  0.665310  0.998262  0.427270  1
+  Al  Al11  1  0.334567  0.001736  0.572560  1
+  Al  Al12  1  0.333992  0.333873  0.054462  1
+  Al  Al13  1  0.666013  0.666011  0.945613  1
+  Al  Al14  1  0.666013  0.666011  0.554387  1
+  Al  Al15  1  0.333992  0.333873  0.445538  1
+  Ga  Ga16  1  0.128155  0.128149  0.750000  1
+  Ga  Ga17  1  0.872002  0.871922  0.250000  1
+  Ga  Ga18  1  0.338596  0.546786  0.750000  1
+  Ga  Ga19  1  0.661292  0.453050  0.250000  1
+  Ga  Ga20  1  0.546768  0.338578  0.750000  1
+  Ga  Ga21  1  0.453172  0.661491  0.250000  1
+  Ir  Ir22  1  0.671599  0.328291  0.499944  1
+  Ir  Ir23  1  0.328333  0.671699  0.499942  1
+  Ir  Ir24  1  0.328333  0.671699  0.000058  1
+  Ir  Ir25  1  0.671599  0.328291  0.000056  1
+  Ir  Ir26  1  0.000075  0.000015  0.499942  1
+  Ir  Ir27  1  0.000075  0.000015  0.000058  1

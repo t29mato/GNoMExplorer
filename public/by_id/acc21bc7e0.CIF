@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Dy3Th7(Pb3C)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.39275100
+_cell_length_b   9.39275077
+_cell_length_c   6.56720900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999729
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy3Th7(Pb3C)2
+_chemical_formula_sum   'Dy3 Th7 Pb6 C2'
+_cell_volume   501.76121649
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.666667  0.333333  0.000000  1
+  Dy  Dy1  1  0.666667  0.333333  0.500000  1
+  Dy  Dy2  1  0.333333  0.666667  0.500000  1
+  Th  Th3  1  0.218939  0.999074  0.250100  1
+  Th  Th4  1  0.780135  0.999074  0.749900  1
+  Th  Th5  1  0.000926  0.219865  0.250100  1
+  Th  Th6  1  0.000926  0.781061  0.749900  1
+  Th  Th7  1  0.780135  0.781061  0.250100  1
+  Th  Th8  1  0.218939  0.219865  0.749900  1
+  Th  Th9  1  0.333333  0.666667  0.000000  1
+  Pb  Pb10  1  0.596706  0.003705  0.253433  1
+  Pb  Pb11  1  0.406999  0.003705  0.746567  1
+  Pb  Pb12  1  0.996295  0.593001  0.253433  1
+  Pb  Pb13  1  0.996295  0.403294  0.746567  1
+  Pb  Pb14  1  0.406999  0.403294  0.253433  1
+  Pb  Pb15  1  0.596706  0.593001  0.746567  1
+  C  C16  1  0.000000  0.000000  0.000000  1
+  C  C17  1  0.000000  0.000000  0.500000  1
