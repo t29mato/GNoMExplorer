@@ -37,8 +37,22 @@ export const GridExample = () => {
         {field: 'Reduced Formula'},
         {field: 'Elements'},
         {field: 'NSites'},
-
-        // ... Add more columns as needed ...
+        {field: 'Volume'},
+        {field: 'Density'},
+        {field: 'Point Group'},
+        {field: 'Space Group'},
+        {field: 'Space Group Number'},
+        {field: 'Crystal System'},
+        {field: 'Corrected Energy'},
+        {field: 'Formation Energy Per Atom'},
+        {field: 'Decomposition Energy Per Atom'},
+        {field: 'Dimensionality Cheon'},
+        {field: 'Bandgap'},
+        {field: 'Is Train'},
+        {field: 'Decomposition Energy Per Atom All'},
+        {field: 'Decomposition Energy Per Atom Relative'},
+        {field: 'Decomposition Energy Per Atom MP'},
+        {field: 'Decomposition Energy Per Atom MP OQMD'},
     ];
 
     // Fetch data from CSV
