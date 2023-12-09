@@ -3,7 +3,11 @@ const filterData = (rowData, filterElements) => {
     const elements = filterElements.split(',').map(el => el.trim());
     return rowData.filter(row => {
         let jsonStr = row.Elements.replace(/'/g, '"');
-        return elements.every(el => JSON.parse(jsonStr).includes(el));
+        return elements.every((el) => {
+                if (!el) return true
+                return JSON.parse(jsonStr).includes(el)
+            }
+        );
     });
 };
 
