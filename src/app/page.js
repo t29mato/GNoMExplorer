@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import {MainGrid} from "@/components/MainGrid";
-import PublicationInfo from "@/app/PublicationInfo";
-import PropertyInfo from "@/app/PropertyInfo";
+import PublicationInfo from "@/components/PublicationInfo";
+import PropertyInfo from "@/components/PropertyInfo";
 
 export default function Home() {
     return (<main className="flex min-h-screen flex-col items-center justify-between p-24">
