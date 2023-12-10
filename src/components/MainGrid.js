@@ -14,10 +14,13 @@ export const MainGrid = () => {
     const [rowData, isLoading] = useCsvData();
     const [filterElements, setFilterElements] = useState('');
     const [filteredRowData, setFilteredRowData] = useState(rowData);
+    const [elementCount, setElementCount] = useState(null);
 
     useEffect(() => {
-        setFilteredRowData(filterData(rowData, filterElements));
-    }, [rowData, filterElements]);
+        const filtered = filterData(rowData, filterElements, elementCount);
+        setFilteredRowData(filtered);
+    }, [rowData, filterElements, elementCount]);
+
 
 
     // Column Definitions
@@ -64,7 +67,9 @@ export const MainGrid = () => {
                     <FilterForm
                         filterElements={filterElements}
                         setFilterElements={setFilterElements}
-                        filterData={() => setFilteredRowData(filterData(rowData, filterElements))}
+                        elementCount={elementCount}
+                        setElementCount={setElementCount}
+                        filterData={() => setFilteredRowData(filterData(rowData, filterElements, elementCount, setElementCount))}
                     />
                     {filteredRowData && <Grid rowData={filteredRowData} colDefs={colDefs} />}
                 </div>
