@@ -2,9 +2,9 @@ import React from 'react';
 
 const FilterForm = ({elements, setElements, elementCount, setElementCount}) => {
     return (
-        <div className={"flex justify-center items-center object-center"}>
+        <div className={"flex justify-center items-center"}>
             <input
-                style={{width: '400px', padding: '10px', margin: '10px 0', fontSize: '16px'}}
+                className={"w-96 p-2.5 my-2.5 text-base text-black"}
                 type="text"
                 placeholder="Enter elements to filter, e.g., Pb,Te"
                 value={elements}
