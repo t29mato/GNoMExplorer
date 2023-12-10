@@ -15,7 +15,9 @@ const filterData = (rowData, filterElements, elementCount) => {
         let elementCountMatch = true;
         if (elementCount !== null) {
             const elementCountInRecord = JSON.parse(row.Elements.replace(/'/g, '"')).length;
-            if (elementCount === 5) {
+            if (elementCount === "all") {
+                elementCountMatch = elementCountInRecord
+            } else if (elementCount === 5) {
                 elementCountMatch = elementCountInRecord >= 5;
             } else {
                 elementCountMatch = elementCountInRecord === elementCount;

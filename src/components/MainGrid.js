@@ -14,7 +14,7 @@ export const MainGrid = () => {
     const [rowData, isLoading] = useCsvData();
     const [filterElements, setFilterElements] = useState('');
     const [filteredRowData, setFilteredRowData] = useState(rowData);
-    const [elementCount, setElementCount] = useState(null);
+    const [elementCount, setElementCount] = useState("all");
 
     useEffect(() => {
         const filtered = filterData(rowData, filterElements, elementCount);
