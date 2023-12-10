@@ -12,14 +12,14 @@ import 'ag-grid-community/styles/ag-theme-quartz.css';
 // Create new GridExample component
 export const MainGrid = () => {
     const [rowData, isLoading] = useCsvData();
-    const [filterElements, setFilterElements] = useState('');
+    const [elements, setElements] = useState('');
     const [filteredRowData, setFilteredRowData] = useState(rowData);
     const [elementCount, setElementCount] = useState("all");
 
     useEffect(() => {
-        const filtered = filterData(rowData, filterElements, elementCount);
+        const filtered = filterData(rowData, elements, elementCount);
         setFilteredRowData(filtered);
-    }, [rowData, filterElements, elementCount]);
+    }, [rowData, elements, elementCount]);
 
 
 
@@ -65,11 +65,11 @@ export const MainGrid = () => {
             {isLoading ? <p>Loading data...</p> : (
                 <div>
                     <FilterForm
-                        filterElements={filterElements}
-                        setFilterElements={setFilterElements}
+                        elements={elements}
+                        setElements={setElements}
                         elementCount={elementCount}
                         setElementCount={setElementCount}
-                        filterData={() => setFilteredRowData(filterData(rowData, filterElements, elementCount, setElementCount))}
+                        filterData={() => setFilteredRowData(filterData(rowData, elements, elementCount, setElementCount))}
                     />
                     {filteredRowData && <Grid rowData={filteredRowData} colDefs={colDefs} />}
                 </div>
