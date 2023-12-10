@@ -2,7 +2,7 @@ import React from 'react';
 
 const PublicationInfo = () => {
     return (
-        <div className="p-4 bg-white rounded-lg shadow-md">
+        <div className="p-4 rounded-lg shadow-md">
             <h3 className="text-lg font-semibold mb-2">Reference</h3>
             <p className="mb-2">
                 <strong>Title:</strong> Scaling deep learning for materials discovery<br/>

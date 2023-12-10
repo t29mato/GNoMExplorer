@@ -2,7 +2,7 @@ import React from 'react';
 
 const PropertyInfo = () => {
     return (
-        <div className="p-4 bg-white rounded-lg shadow-md">
+        <div className="p-4 rounded-lg shadow-md">
             <h3 className="text-lg font-semibold mb-2">Property Descriptions</h3>
             <ul className="list-disc pl-5">
                 <li><strong>Composition:</strong> alphabetically-ordered composition</li>
